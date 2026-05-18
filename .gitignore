@@ -1,0 +1,23 @@
+# Source PDFs — ScholarRx-derived, keep out of the public repo
+weekN_sourcebricks/
+week1_sourcebricks/
+week2_sourcebricks/
+week3_sourcebricks/
+week4_sourcebricks/
+
+# Rendered PDF page PNGs — large, regenerable via scripts/render_all.sh
+data/pages/
+
+# Local Claude Code settings (personal permissions cache)
+.claude/settings.local.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Node
+node_modules/
+npm-debug.log*

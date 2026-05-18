@@ -1,0 +1,56 @@
+/* Small bits of custom CSS Tailwind doesn't cover ergonomically. */
+
+.screen { animation: fade-in .25s ease both; }
+@keyframes fade-in { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+
+/* Card */
+.card {
+  @apply bg-white rounded-2xl p-4 text-left shadow-card border border-ink-200
+         transition-all cursor-pointer select-none;
+  min-height: 110px;
+}
+.card:hover { @apply shadow-cardLg -translate-y-0.5 border-brand-400; }
+.card:active { transform: translateY(0); }
+.card .card-title { @apply font-semibold text-ink-900 leading-snug; }
+.card .card-type  { @apply text-[10px] uppercase tracking-wider text-ink-500 mt-2; }
+
+.card.eliminated {
+  @apply opacity-40 grayscale cursor-not-allowed;
+}
+.card.eliminated:hover { @apply shadow-card translate-y-0 border-ink-200; }
+
+/* brick-select tile */
+.tile {
+  @apply bg-white rounded-xl p-3 border border-ink-200 cursor-pointer transition
+         flex items-start gap-3 text-sm;
+}
+.tile:hover { @apply border-brand-400 shadow-card; }
+.tile.selected { @apply border-brand-500 bg-brand-50 ring-1 ring-brand-500; }
+.tile input[type=checkbox] { @apply mt-0.5 accent-brand-500; }
+
+/* type pill */
+.pill {
+  @apply px-3 py-1 rounded-full text-sm font-medium border border-ink-200
+         bg-white hover:bg-ink-100 cursor-pointer transition;
+}
+.pill.active { @apply bg-ink-900 text-white border-ink-900; }
+
+/* buzzword list entry */
+#buzzword-list li {
+  @apply pl-5 relative;
+}
+#buzzword-list li::before {
+  content: '';
+  @apply absolute left-0 top-2.5 w-2 h-2 rounded-full bg-brand-500;
+}
+#buzzword-list li.revealing { animation: clue-in .35s ease both; }
+@keyframes clue-in {
+  from { opacity: 0; transform: translateX(-6px); }
+  to { opacity: 1; transform: none; }
+}
+
+/* toast */
+#toast.show { opacity: 1; transform: translate(-50%, -8px); }
+#toast.right { @apply bg-emerald-500 text-white; }
+#toast.wrong { @apply bg-rose-500 text-white; }
+#toast.info  { @apply bg-ink-900 text-white; }
