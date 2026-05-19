@@ -123,24 +123,36 @@
         <button id="btn-quit" class="text-ink-500 hover:text-ink-900 text-sm">Quit</button>
       </header>
 
-      <!-- buzzword stack -->
-      <div class="bg-white rounded-2xl shadow-card p-6 md:p-8 mb-6 min-h-[260px]">
-        <div class="text-xs uppercase tracking-wide text-ink-500 mb-3">Clues revealed</div>
-        <ol id="buzzword-list" class="space-y-3 text-lg md:text-xl font-medium"></ol>
+      <!-- CLUE ZONE: face-down clue deck + face-up revealed pile -->
+      <div class="game-zone clue-zone">
+        <div class="zone-label">Clue deck — click to flip · hover the pile to fan</div>
+        <div class="clue-row">
+          <div class="deck-wrap">
+            <div id="clue-deck" class="card face-down clue-deck-card">
+              <div class="face-down-label">Reveal</div>
+              <div class="face-down-cost">+1 buzzword</div>
+              <div class="deck-count" id="clue-deck-count">8</div>
+            </div>
+          </div>
+          <div class="clue-pile-wrap">
+            <div id="clue-pile" class="clue-pile"></div>
+          </div>
+        </div>
       </div>
 
-      <div class="flex items-center justify-between mb-4">
-        <div class="text-xs uppercase tracking-wide text-ink-500" id="hand-prompt">Pick a card — call a clue — or draw an extra (target may be hidden among the extras).</div>
-        <button id="btn-call-clue" class="bg-accent-500 hover:bg-accent-600 text-white font-semibold px-5 py-2 rounded-full shadow-card transition">
-          Call for another clue
-        </button>
-      </div>
-
-      <div id="hand" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 mb-4"></div>
-
-      <div id="extras-wrap">
-        <div class="text-xs uppercase tracking-wide text-ink-500 mb-2 mt-2">Extras — target may be hiding here</div>
-        <div id="extras" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3"></div>
+      <!-- HAND ZONE: hand row + extras deck -->
+      <div class="game-zone hand-zone">
+        <div class="zone-label">Your hand · click the extras deck to merge another card in</div>
+        <div class="hand-row-wrap">
+          <div id="hand" class="hand-row"></div>
+          <div class="deck-wrap extras-wrap" id="extras-wrap">
+            <div id="extras-deck" class="card face-down extras-deck-card">
+              <div class="face-down-label">Draw</div>
+              <div class="face-down-cost">+1 buzzword</div>
+              <div class="deck-count" id="extras-deck-count">2</div>
+            </div>
+          </div>
+        </div>
       </div>
 
       <!-- toast/feedback (styled via #toast in styles.css) -->

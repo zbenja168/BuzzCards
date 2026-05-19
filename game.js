@@ -69,12 +69,30 @@ function wireButtons() {
   byId('btn-deal').onclick      = startGame;
   byId('btn-select-all').onclick  = () => { state.bricks.forEach(b => state.selectedBrickIds.add(b.id)); renderSelectScreen(); };
   byId('btn-select-none').onclick = () => { state.selectedBrickIds.clear(); renderSelectScreen(); };
-  byId('btn-call-clue').onclick = () => revealNextClue('voluntary');
   byId('btn-quit').onclick      = () => { if (confirm('Quit this game?')) show('title'); };
   byId('btn-replay').onclick    = () => show('select');
   byId('hand-size').addEventListener('input', renderSelectScreen);
   byId('hand-mode').addEventListener('change', e => { state.handMode = e.target.value; });
   byId('hide-types').addEventListener('change', e => { state.hideTypes = e.target.checked; });
+  byId('clue-deck').onclick     = () => onClueDeckClick();
+  byId('extras-deck').onclick   = () => onExtrasDeckClick();
+}
+
+function onClueDeckClick() {
+  const g = state.game;
+  if (!g || !g.target) return;
+  revealNextClue('voluntary');
+}
+
+function onExtrasDeckClick() {
+  const g = state.game;
+  if (!g || !g.target) return;
+  if (g.extras.length === 0) return;
+  // Pop next extra and merge into the player's hand.
+  const drawn = g.extras.shift();
+  g.hand.push(drawn);
+  g.buzzwordsUsed += 1;
+  renderGame();
 }
 
 // ---------- screens ----------
@@ -148,7 +166,6 @@ function startGame() {
     handSize,                   // per-round
     hand: [],
     extras: [],
-    extrasFlipped: new Set(),
     target: null,
     revealed: [],
     shuffledClues: [],
@@ -254,7 +271,6 @@ function startRound() {
 
   g.hand = hand;
   g.extras = extras;
-  g.extrasFlipped = new Set();
   g.target = target;
   g.shuffledClues = [...target.buzzwords];
   shuffle(g.shuffledClues);
@@ -286,17 +302,6 @@ function pickExtraDecoy(target, eligible, excludeIds) {
   return pickExtraDecoys(target, 1, eligible, excludeIds)[0];
 }
 
-// Flip a face-down extra to face-up. Costs +1 buzzword (same as calling a clue).
-function flipExtra(cardId) {
-  const g = state.game;
-  if (!g.target) return;
-  if (!g.extras.some(c => c.id === cardId)) return;
-  if (g.extrasFlipped.has(cardId)) return;
-  g.extrasFlipped.add(cardId);
-  g.buzzwordsUsed += 1;
-  renderGame();
-}
-
 function revealNextClue(why) {
   const g = state.game;
   if (!g.target) return;
@@ -313,10 +318,7 @@ function revealNextClue(why) {
 function playCard(cardId) {
   const g = state.game;
   if (!g.target) return;
-  // Must be playable: either in hand, or a flipped extra.
-  const inHand   = g.hand.some(c => c.id === cardId);
-  const inExtras = g.extras.some(c => c.id === cardId) && g.extrasFlipped.has(cardId);
-  if (!inHand && !inExtras) return;
+  if (!g.hand.some(c => c.id === cardId)) return; // only hand cards are playable; extras must be drawn first
 
   if (cardId === g.target.id) {
     // Correct — round ends, target retires, fresh hand next round.
@@ -365,39 +367,34 @@ function renderGame() {
   byId('stat-misses').textContent    = g.misses;
   byId('stat-cards-left').textContent = g.pool.length - g.usedTargetIds.size;
 
-  // buzzwords
-  const ol = byId('buzzword-list');
-  ol.innerHTML = '';
-  g.revealed.forEach((b, i) => {
-    const li = el('li', { class: i === g.revealed.length - 1 ? 'revealing' : '' }, b);
-    ol.append(li);
+  // Clue deck: shows clues remaining; disabled when none left
+  const totalClues = g.shuffledClues ? g.shuffledClues.length : 0;
+  const cluesLeft  = Math.max(0, totalClues - g.revealed.length);
+  byId('clue-deck-count').textContent = cluesLeft;
+  byId('clue-deck').classList.toggle('disabled', !g.target || cluesLeft <= 0);
+
+  // Clue pile: each revealed clue is a face-up card, oldest first, newest on top.
+  // CSS handles stacked state + hover fan.
+  const pile = byId('clue-pile');
+  pile.innerHTML = '';
+  g.revealed.forEach((clue, i) => {
+    const card = el('div', { class: 'card clue-card' });
+    card.style.zIndex = String(i + 1);
+    card.append(
+      el('div', { class: 'clue-index' }, `Clue ${i + 1}`),
+      el('div', { class: 'clue-text' }, clue),
+    );
+    pile.append(card);
   });
 
-  // hand
+  // Hand
   const handEl = byId('hand');
   handEl.innerHTML = '';
   for (const c of g.hand) handEl.append(renderHandCard(c));
 
-  // extras
-  const extrasEl = byId('extras');
-  extrasEl.innerHTML = '';
-  for (const c of g.extras) {
-    if (g.extrasFlipped.has(c.id)) {
-      extrasEl.append(renderHandCard(c));
-    } else {
-      const slot = el('div', { class: 'card face-down', 'data-id': c.id });
-      slot.append(
-        el('div', { class: 'face-down-label' }, 'Draw extra'),
-        el('div', { class: 'face-down-cost' }, '+1 buzzword'),
-      );
-      slot.onclick = () => flipExtra(c.id);
-      extrasEl.append(slot);
-    }
-  }
-  byId('extras-wrap').style.display = g.extras.length ? '' : 'none';
-
-  // call-clue button disable when exhausted
-  byId('btn-call-clue').disabled = !g.target || g.revealed.length >= g.shuffledClues.length;
+  // Extras deck (single pile, click to draw into hand)
+  byId('extras-deck-count').textContent = g.extras.length;
+  byId('extras-deck').classList.toggle('disabled', !g.target || g.extras.length === 0);
 }
 
 function renderHandCard(c) {
