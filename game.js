@@ -11,6 +11,15 @@ const TYPE_LABEL = {
   lab:        'Labs',
   imaging:    'Imaging',
 };
+// Per-type "suit" symbol that appears in card corners + as a faded center watermark.
+const TYPE_SYMBOL = {
+  disease:    '♥',
+  drug:       '♣',
+  anatomy:    '♠',
+  physiology: '♦',
+  lab:        '★',
+  imaging:    '◐',
+};
 const POINTS_PER_CLUE = 10;  // each unused clue dealt at round-end
 const POINTS_PER_MISS = 10;  // deducted per wrong pick or unneeded extra-draw
 
@@ -674,6 +683,7 @@ function renderGame() {
     const card = el('div', { class: 'card clue-card' });
     card.style.zIndex = String(i + 1);
     card.append(
+      el('div', { class: 'card-emblem clue-emblem' }, '✦'),
       el('div', { class: 'clue-index' }, `Clue ${i + 1}`),
       el('div', { class: 'clue-text' }, clue),
     );
@@ -835,8 +845,12 @@ function renderHandCard(c) {
   const card = el('div', {
     class: 'card hand-card' + (g.wrongThisRound.has(c.id) ? ' eliminated' : ''),
     'data-id': c.id,
+    'data-type': c.type,
   });
-  card.append(el('div', { class: 'card-title' }, c.title));
+  card.append(
+    el('div', { class: 'card-emblem' }, TYPE_SYMBOL[c.type] || '✦'),
+    el('div', { class: 'card-title' }, c.title),
+  );
   if (!g.wrongThisRound.has(c.id)) card.onclick = () => playCard(c.id);
   return card;
 }

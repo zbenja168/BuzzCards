@@ -87,19 +87,75 @@
   overflow: hidden;
   flex-shrink: 0;
 }
-/* Corner flourishes — a small gold diamond in opposing corners */
+/* Corner flourishes — a small symbol in opposing corners. The default is a gold
+   diamond; type-coded cards (.card[data-type]) override the content and color. */
 .card::before, .card::after {
   content: '✦';
   position: absolute;
-  font-size: 0.85rem;
+  font-size: 0.95rem;
   line-height: 1;
   color: var(--gold-deep);
-  opacity: 0.7;
+  opacity: 0.85;
   font-family: serif;
   text-shadow: 0 1px 0 rgba(255,255,255,0.6);
+  z-index: 2;
 }
 .card::before { top: 9px;    left: 10px; }
 .card::after  { bottom: 9px; right: 10px; transform: rotate(180deg); }
+
+/* The faded "suit" watermark in the middle of each card. Title sits on top
+   via z-index. Opacity & color are tuned per type below. */
+.card-emblem {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: serif;
+  font-size: 5.8rem;
+  line-height: 1;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.10;
+  color: var(--card-ink);
+  user-select: none;
+  text-shadow: 0 1px 0 rgba(0,0,0,0.04);
+}
+.card-title, .clue-text, .clue-index {
+  position: relative;
+  z-index: 1;
+}
+
+/* ---- Per-type card identity (hand cards) ---------------------------- */
+.card[data-type="disease"]::before,
+.card[data-type="disease"]::after        { content: '♥'; color: #9b1c1c; }
+.card[data-type="disease"] .card-emblem  { color: #9b1c1c; opacity: 0.13; }
+
+.card[data-type="drug"]::before,
+.card[data-type="drug"]::after           { content: '♣'; color: #5c2e8a; }
+.card[data-type="drug"] .card-emblem     { color: #5c2e8a; opacity: 0.11; }
+
+.card[data-type="anatomy"]::before,
+.card[data-type="anatomy"]::after        { content: '♠'; color: #6b5a14; }
+.card[data-type="anatomy"] .card-emblem  { color: #6b5a14; opacity: 0.11; }
+
+.card[data-type="physiology"]::before,
+.card[data-type="physiology"]::after     { content: '♦'; color: #1e4d72; }
+.card[data-type="physiology"] .card-emblem { color: #1e4d72; opacity: 0.11; }
+
+.card[data-type="lab"]::before,
+.card[data-type="lab"]::after            { content: '★'; color: #1f7a5a; }
+.card[data-type="lab"] .card-emblem      { color: #1f7a5a; opacity: 0.12; }
+
+.card[data-type="imaging"]::before,
+.card[data-type="imaging"]::after        { content: '◐'; color: #4a5568; }
+.card[data-type="imaging"] .card-emblem  { color: #4a5568; opacity: 0.12; }
+
+/* Clue cards get a gold-star watermark instead of a type symbol */
+.clue-card .clue-emblem {
+  color: var(--card-red);
+  opacity: 0.10;
+  font-size: 5.5rem;
+}
 
 .card:hover {
   transform: translateY(-4px);
@@ -793,9 +849,17 @@ button:disabled {
     box-shadow  .3s ease,
     border-color .2s ease !important;
 }
-.card.celebrating::before {
-  background: linear-gradient(90deg, #34d399, #10b981) !important;
-  height: 8px !important;
+.card.celebrating::before,
+.card.celebrating::after {
+  color: #10b981 !important;
+  opacity: 1 !important;
+  text-shadow:
+    0 0 8px rgba(16, 185, 129, 0.7),
+    0 0 16px rgba(16, 185, 129, 0.4) !important;
+}
+.card.celebrating .card-emblem {
+  color: #10b981 !important;
+  opacity: 0.22 !important;
 }
 .card.celebrating.fading {
   opacity: 0 !important;
