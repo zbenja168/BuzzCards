@@ -1,0 +1,92 @@
+[
+  {
+    "id": "16-1",
+    "title": "Osmolality vs Tonicity (Effective Osmoles)",
+    "brick_id": "16",
+    "brick_title": "Composition of Body Fluids and Compartments",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Two ways to count solute concentration",
+      "One predicts cell volume changes",
+      "Difference hinges on membrane permeability",
+      "Urea raises one but not the other",
+      "Sodium and glucose are effective osmoles",
+      "Ineffective osmoles include urea and ethanol",
+      "Calculated: 2Na + glucose/18 + BUN/2.8",
+      "Effective osmolality omits the BUN term"
+    ]
+  },
+  {
+    "id": "16-2",
+    "title": "Darrow-Yannet Diagrams",
+    "brick_id": "16",
+    "brick_title": "Composition of Body Fluids and Compartments",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Visual model of fluid disturbances",
+      "Two side-by-side rectangles compared",
+      "Width represents compartment volume",
+      "Height represents osmolality",
+      "Area equals total solute content",
+      "Equal heights signal osmotic equilibrium",
+      "ICF and ECF box representation",
+      "Eponymous Darrow-Yannet compartment diagram"
+    ]
+  },
+  {
+    "id": "16-3",
+    "title": "Isotonic IV Fluids (NS, LR, Plasma-Lyte)",
+    "brick_id": "16",
+    "brick_title": "Composition of Body Fluids and Compartments",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Matches plasma effective osmolality",
+      "Expands ECF without ICF change",
+      "First-line for hypovolemia and hemorrhage",
+      "Roughly 290-310 mOsm/L crystalloid",
+      "About 25% stays intravascular",
+      "Large volumes risk hyperchloremic acidosis",
+      "0.9% NaCl or lactated Ringer's",
+      "Balanced Plasma-Lyte buffered crystalloid"
+    ]
+  },
+  {
+    "id": "16-4",
+    "title": "Hypertonic IV Fluids (3% NaCl, Mannitol)",
+    "brick_id": "16",
+    "brick_title": "Composition of Body Fluids and Compartments",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Pulls water out of cells",
+      "Shrinks the ICF compartment",
+      "Used for elevated intracranial pressure",
+      "Treats severe symptomatic hyponatremia",
+      "Osmolality near 1000 mOsm/L",
+      "Risk of osmotic demyelination syndrome",
+      "3% saline at 513 mEq/L sodium",
+      "Mannitol osmotic diuretic, no sodium load"
+    ]
+  },
+  {
+    "id": "16-5",
+    "title": "Hypotonic IV Fluids (0.45% NaCl, D5W)",
+    "brick_id": "16",
+    "brick_title": "Composition of Body Fluids and Compartments",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Provides free water replacement",
+      "Lowers ECF effective osmolality",
+      "Expands both ICF and ECF",
+      "Used to correct hypernatremia",
+      "Risk of cerebral edema if rapid",
+      "Half-normal saline formulation",
+      "0.45% NaCl free water carrier",
+      "D5W after dextrose metabolism"
+    ]
+  }
+]

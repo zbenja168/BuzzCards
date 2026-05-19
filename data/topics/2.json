@@ -1,0 +1,164 @@
+[
+  {
+    "id": "2-1",
+    "title": "Pronephros",
+    "brick_id": "2",
+    "brick_title": "Development of the Urinary System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "First embryonic excretory attempt",
+      "Most cranial of three progenitor pairs",
+      "Appears earliest in week 4",
+      "Never produces urine in humans",
+      "Rudimentary and nonfunctional structure",
+      "Degenerates before the next pair forms",
+      "Sits above the mesonephros cranially",
+      "Earliest and most rostral of the three kidneys"
+    ]
+  },
+  {
+    "id": "2-2",
+    "title": "Mesonephros",
+    "brick_id": "2",
+    "brick_title": "Development of the Urinary System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Transiently functional embryonic kidney",
+      "Active only during the first trimester",
+      "Filters fetal blood from weeks 4 to 8",
+      "Its duct persists in male reproductive tract",
+      "Gives rise to epididymis and ductus deferens",
+      "Forms seminal vesicles and ejaculatory duct",
+      "Wolffian duct origin",
+      "Female remnant is Gartner's duct"
+    ]
+  },
+  {
+    "id": "2-3",
+    "title": "Metanephros",
+    "brick_id": "2",
+    "brick_title": "Development of the Urinary System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Third and most caudal progenitor pair",
+      "Becomes the permanent adult kidney",
+      "Arises from intermediate mesoderm",
+      "Formed by two interacting components",
+      "Begins forming around week 5",
+      "Combines an outgrowth with a blastema",
+      "Reciprocal induction between bud and mesenchyme",
+      "Definitive kidney of the fetus and adult"
+    ]
+  },
+  {
+    "id": "2-4",
+    "title": "Ureteric Bud",
+    "brick_id": "2",
+    "brick_title": "Development of the Urinary System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Outgrowth from a more cranial duct",
+      "Induces overlying mesenchyme to differentiate",
+      "Forms the collecting portion of the kidney",
+      "Sprouts off the mesonephric duct",
+      "Gives rise to collecting ducts and calyces",
+      "Forms the renal pelvis and ureters",
+      "Failed induction causes renal agenesis",
+      "Wolffian duct diverticulum to metanephric mesenchyme"
+    ]
+  },
+  {
+    "id": "2-5",
+    "title": "Metanephric Blastema",
+    "brick_id": "2",
+    "brick_title": "Development of the Urinary System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Mesenchymal cap on a ductal outgrowth",
+      "Derived from intermediate mesoderm",
+      "Differentiates into the filtering unit",
+      "Forms Bowman's capsule",
+      "Gives rise to proximal and distal tubules",
+      "Forms the loop of Henle",
+      "Endothelial cells invade to form glomeruli",
+      "Nephron-producing component of the metanephros"
+    ]
+  },
+  {
+    "id": "2-6",
+    "title": "Renal Ascent and Transient Arteries",
+    "brick_id": "2",
+    "brick_title": "Development of the Urinary System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Apparent cephalad migration of an organ",
+      "Movement is relative, not active",
+      "Driven by elongation of the embryonic torso",
+      "Pelvic origin to retroperitoneal final site",
+      "Successive vessels form and regress during ascent",
+      "Final position between T12 and L3",
+      "Persistent lower-pole vessels can obstruct ureter",
+      "Accessory renal arteries cause UPJ hydronephrosis"
+    ]
+  },
+  {
+    "id": "2-7",
+    "title": "Horseshoe Kidney",
+    "brick_id": "2",
+    "brick_title": "Development of the Urinary System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Congenital fusion anomaly of paired organs",
+      "Lower poles join across the midline",
+      "Single U-shaped organ on imaging",
+      "Ascent halted by a midline arterial root",
+      "Trapped beneath an arterial branch of the aorta",
+      "Caught under the inferior mesenteric artery",
+      "Found in living-donor pretransplant ultrasound",
+      "U-shaped kidney hooked on the IMA"
+    ]
+  },
+  {
+    "id": "2-8",
+    "title": "Cloacal Partitioning and Urogenital Sinus",
+    "brick_id": "2",
+    "brick_title": "Development of the Urinary System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Hindgut endodermal chamber gets divided",
+      "Mesoderm-derived septum grows inferiorly",
+      "Splits anterior from posterior compartments",
+      "Anterior portion becomes bladder and urethra",
+      "Posterior portion becomes rectum and anus",
+      "Posterior wall contributes to lower vagina",
+      "Urorectal septum partitions the cloaca",
+      "Anterior compartment is the urogenital sinus"
+    ]
+  },
+  {
+    "id": "2-9",
+    "title": "Allantois, Urachus, and Patent Urachus",
+    "brick_id": "2",
+    "brick_title": "Development of the Urinary System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Diverticulum from the yolk sac",
+      "Extends into the connecting stalk",
+      "Normally obliterates during development",
+      "Fibrous remnant connects bladder to umbilicus",
+      "Adult vestige is the median umbilical ligament",
+      "Failure of atrophy leaves a bladder-umbilicus tract",
+      "Neonate leaks urine from the umbilicus",
+      "Patent urachus from non-obliterated allantois"
+    ]
+  }
+]

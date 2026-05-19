@@ -1,0 +1,20 @@
+[
+  {
+    "id": "59-1",
+    "title": "Medullary Sponge Kidney",
+    "brick_id": "59",
+    "brick_title": "Medullary Sponge Kidney",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "young adult with recurrent flank pain",
+      "repeated calcium stones and UTIs",
+      "hematuria with preserved renal function",
+      "distal type 1 RTA and nephrogenic DI",
+      "ureteric bud–metanephric blastema developmental defect",
+      "cystic dilatation of distal collecting ducts",
+      "echogenic medullary pyramids on ultrasound",
+      "paintbrush calyces on contrast IVP/CT"
+    ]
+  }
+]

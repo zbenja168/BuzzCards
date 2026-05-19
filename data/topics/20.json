@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20-1",
+    "title": "Desmopressin",
+    "brick_id": "20",
+    "brick_title": "Antidiuretic Hormone Agonists",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "synthetic ADH analogue with selective receptor action",
+      "concentrates urine without raising blood pressure",
+      "available nasal, oral, or IV",
+      "triggers endothelial von Willebrand factor release",
+      "first-line for central diabetes insipidus",
+      "treats nocturnal enuresis in children",
+      "main adverse effect is hyponatremia",
+      "selective V2 receptor agonist (DDAVP)"
+    ]
+  },
+  {
+    "id": "20-2",
+    "title": "Vasopressin",
+    "brick_id": "20",
+    "brick_title": "Antidiuretic Hormone Agonists",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "IV-only posterior pituitary hormone analogue",
+      "potent arteriolar vasoconstrictor raising blood pressure",
+      "adjunct pressor in distributive/septic shock",
+      "stops bleeding esophageal varices via splanchnic constriction",
+      "causes mesenteric ischemia and skin necrosis",
+      "associated with pulmonary hypertension",
+      "strong V1 receptor activity, not used for DI",
+      "non-selective V1/V2 agonist (ADH itself)"
+    ]
+  }
+]

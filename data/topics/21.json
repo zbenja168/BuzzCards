@@ -1,0 +1,56 @@
+[
+  {
+    "id": "21-1",
+    "title": "Conivaptan",
+    "brick_id": "21",
+    "brick_title": "Antidiuretic Hormone Receptor Antagonists",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "IV drug for euvolemic hyponatremia",
+      "promotes free-water aquaresis",
+      "given with hypertonic saline for severe SIADH",
+      "moderate CYP3A4 inhibitor",
+      "may cause orthostatic hypotension",
+      "blocks both V1 and V2 receptors",
+      "nonselective vasopressin receptor antagonist",
+      "the IV -vaptan"
+    ]
+  },
+  {
+    "id": "21-2",
+    "title": "Tolvaptan",
+    "brick_id": "21",
+    "brick_title": "Antidiuretic Hormone Receptor Antagonists",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "oral drug for outpatient SIADH",
+      "also used in CHF hyponatremia",
+      "avoid in liver disease",
+      "limit therapy to 30 days",
+      "associated with elevated transaminases",
+      "slows cyst growth in ADPKD",
+      "selective V2 receptor antagonist",
+      "oral -vaptan, FDA-monitored hepatotoxicity"
+    ]
+  },
+  {
+    "id": "21-3",
+    "title": "Demeclocycline",
+    "brick_id": "21",
+    "brick_title": "Antidiuretic Hormone Receptor Antagonists",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "tetracycline antibiotic repurposed for SIADH",
+      "treats chronic SIADH",
+      "not a true vasopressin receptor antagonist",
+      "interferes with post-receptor ADH signaling",
+      "prevents aquaporin-2 translocation to apical membrane",
+      "acts downstream of V2 receptor binding",
+      "induces nephrogenic diabetes insipidus-like state",
+      "the tetracycline -vaptan mimic"
+    ]
+  }
+]

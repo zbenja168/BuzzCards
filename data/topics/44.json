@@ -1,0 +1,38 @@
+[
+  {
+    "id": "44-1",
+    "title": "Primary (Idiopathic) Membranous Nephropathy",
+    "brick_id": "44",
+    "brick_title": "Membranous Nephropathy",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Middle-aged man with bilateral leg swelling",
+      "Slowly progressive nephrotic-range proteinuria",
+      "Hypoalbuminemia, hyperlipidemia, edema",
+      "Renal vein thrombosis from antithrombin loss",
+      "Normal serum complement levels",
+      "Diffuse glomerular basement membrane thickening on light microscopy",
+      "Granular subepithelial IgG and C3 with silver-stain spikes",
+      "Anti-phospholipase A2 receptor (PLA2R) antibodies positive"
+    ]
+  },
+  {
+    "id": "44-2",
+    "title": "Secondary Membranous Nephropathy",
+    "brick_id": "44",
+    "brick_title": "Membranous Nephropathy",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Nephrotic syndrome with an identifiable trigger",
+      "Anti-PLA2R antibody negative on serology",
+      "Low serum complement when lupus-associated",
+      "Resolves after stopping offending NSAID, gold, or penicillamine",
+      "Solid-tumor malignancy: prostate, lung, breast, GI, bladder",
+      "Hepatitis B (also HCV, syphilis) chronic infection",
+      "Subepithelial AND mesangial immune deposits on EM",
+      "SLE class V lupus nephritis pattern"
+    ]
+  }
+]

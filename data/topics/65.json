@@ -1,0 +1,128 @@
+[
+  {
+    "id": "65-1",
+    "title": "Stress Incontinence",
+    "brick_id": "65",
+    "brick_title": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "Small-volume leakage with daily activity",
+      "Leaks with coughing, laughing, or sneezing",
+      "Triggered by increased intra-abdominal pressure",
+      "Multiparous woman after vaginal deliveries",
+      "Weakened pelvic floor support of urethra",
+      "Can follow prostate surgery in men",
+      "Treated with Kegel exercises and pessary",
+      "Sling procedure for urethral hypermobility"
+    ]
+  },
+  {
+    "id": "65-2",
+    "title": "Urge Incontinence",
+    "brick_id": "65",
+    "brick_title": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "Sudden intense urge to urinate",
+      "Frequency and nocturia with small voids",
+      "Bladder spasms followed by involuntary leak",
+      "Worsened by caffeine, UTI, or stones",
+      "Overactive bladder from detrusor hyperactivity",
+      "First-line antimuscarinic oxybutynin or solifenacin",
+      "β3-agonist mirabegron relaxes detrusor in storage",
+      "Refractory cases: intradetrusor botulinum toxin injections"
+    ]
+  },
+  {
+    "id": "65-3",
+    "title": "Overflow Incontinence",
+    "brick_id": "65",
+    "brick_title": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "Continuous or intermittent dribbling of urine",
+      "Weak stream, hesitancy, and postvoid leakage",
+      "Chronic bladder overdistension and urinary retention",
+      "Elevated postvoid residual on bladder ultrasound",
+      "Detrusor underactivity or bladder outlet obstruction",
+      "Common in BPH, anticholinergics, or pelvic surgery",
+      "Bethanechol stimulates M3 to empty hypotonic bladder",
+      "α1-blocker tamsulosin relieves BPH-related obstruction"
+    ]
+  },
+  {
+    "id": "65-4",
+    "title": "Mixed Urinary Incontinence",
+    "brick_id": "65",
+    "brick_title": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "Older woman with overlapping leakage patterns",
+      "Leaks with coughing and with sudden urgency",
+      "Combined sphincter weakness and detrusor overactivity",
+      "Multiparous postmenopausal with frequency and nocturia",
+      "Both stress and urge symptoms coexist",
+      "Pelvic floor exercises plus bladder retraining",
+      "Antimuscarinic added to Kegels and pessary",
+      "Treat the more bothersome component first"
+    ]
+  },
+  {
+    "id": "65-5",
+    "title": "Spastic (Upper Motor Neuron) Neurogenic Bladder",
+    "brick_id": "65",
+    "brick_title": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "Low-volume bladder with involuntary contractions",
+      "Urge incontinence in patient with CNS disease",
+      "Frequent small voids with high detrusor pressure",
+      "Suprasacral spinal cord injury above S2",
+      "Multiple sclerosis or transverse myelitis cause",
+      "Detrusor overactivity from intact sacral reflex arc",
+      "Treated with antimuscarinics or β3-agonist mirabegron",
+      "Upper motor neuron hyperreflexic overactive bladder"
+    ]
+  },
+  {
+    "id": "65-6",
+    "title": "Flaccid (Lower Motor Neuron) Neurogenic Bladder",
+    "brick_id": "65",
+    "brick_title": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "Hypotonic bladder with painless distension",
+      "Overflow dribbling and large postvoid residual",
+      "Impaired sensation of bladder fullness",
+      "Diabetic autonomic neuropathy or B12 deficiency",
+      "Sacral/infrasacral cord lesion below S2",
+      "Cauda equina or conus medullaris syndrome",
+      "Areflexic bladder with absent detrusor contractions",
+      "Bethanechol or intermittent self-catheterization"
+    ]
+  },
+  {
+    "id": "65-7",
+    "title": "Detrusor-Sphincter Dyssynergia",
+    "brick_id": "65",
+    "brick_title": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "Paradoxical urinary retention in overactive bladder",
+      "High bladder pressures with incomplete emptying",
+      "Loss of coordinated voiding reflex",
+      "Suprasacral spinal cord injury patient",
+      "Multiple sclerosis with both urgency and retention",
+      "Detrusor contracts against closed external sphincter",
+      "Somatic external sphincter fails to relax",
+      "Hallmark of upper motor neuron neurogenic bladder"
+    ]
+  }
+]

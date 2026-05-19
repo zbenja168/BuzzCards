@@ -1,0 +1,110 @@
+[
+  {
+    "id": "6-1",
+    "title": "Inulin Clearance",
+    "brick_id": "6",
+    "brick_title": "Glomerular Filtration Rate (GFR)",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "exogenous filtration marker requiring IV infusion",
+      "small, neutral, biologically inert tracer",
+      "freely filtered with no secretion or reabsorption",
+      "not produced or metabolized by the body",
+      "needs timed urine collections and specialized assay",
+      "impractical clinically, reserved for research",
+      "plant-derived fructose polymer",
+      "gold-standard reference for GFR measurement"
+    ]
+  },
+  {
+    "id": "6-2",
+    "title": "Creatinine Clearance",
+    "brick_id": "6",
+    "brick_title": "Glomerular Filtration Rate (GFR)",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "endogenous marker produced at near-constant rate",
+      "byproduct of muscle creatine phosphate metabolism",
+      "production scales with muscle mass, age, sex, diet",
+      "cheap blood test with reliable assays",
+      "freely filtered with minimal protein binding",
+      "rises 24-48 hours after acute kidney injury",
+      "10-20% tubular secretion overestimates true GFR",
+      "blocked by cimetidine and trimethoprim"
+    ]
+  },
+  {
+    "id": "6-3",
+    "title": "Cystatin C",
+    "brick_id": "6",
+    "brick_title": "Glomerular Filtration Rate (GFR)",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "alternative endogenous filtration marker",
+      "produced at constant rate by all nucleated cells",
+      "independent of muscle mass and diet",
+      "improves accuracy in sarcopenic or elderly patients",
+      "often combined with creatinine for best estimate",
+      "low-molecular-weight protein freely filtered",
+      "akin to beta-2-microglobulin and beta-trace protein",
+      "13 kDa cysteine protease inhibitor"
+    ]
+  },
+  {
+    "id": "6-4",
+    "title": "eGFR Estimation from Serum Creatinine",
+    "brick_id": "6",
+    "brick_title": "Glomerular Filtration Rate (GFR)",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "clinical surrogate calculated from a blood draw",
+      "indexed to body surface area",
+      "hyperbolic, non-linear relationship to its input marker",
+      "insensitive at near-normal kidney function",
+      "incorporates age, sex, and body size",
+      "reported in mL/min/1.73m^2",
+      "serum value doubles for each halving of function",
+      "creatinine-based estimating equation"
+    ]
+  },
+  {
+    "id": "6-5",
+    "title": "KDIGO CKD Staging",
+    "brick_id": "6",
+    "brick_title": "Glomerular Filtration Rate (GFR)",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "framework stratifying chronic kidney function",
+      "two-dimensional grid combining filtration and proteinuria",
+      "albuminuria worsens prognosis at any given stage",
+      "hyperkalemia and metabolic acidosis emerge in mid stages",
+      "salt-sensitive volume overload at advanced stages",
+      "dialysis or transplant required at the lowest tier",
+      "thresholds at 60 and 15 mL/min/1.73m^2",
+      "Kidney Disease: Improving Global Outcomes classification"
+    ]
+  },
+  {
+    "id": "6-6",
+    "title": "Hemodynamic Determinants of GFR",
+    "brick_id": "6",
+    "brick_title": "Glomerular Filtration Rate (GFR)",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "balance of Starling forces across glomerular capillary",
+      "hydrostatic pressure opposed by rising oncotic pressure",
+      "filtration fraction set by arteriolar tone",
+      "mesangial contraction lowers filtration surface area",
+      "NSAIDs constrict the upstream arteriole",
+      "ACE inhibitors dilate the downstream arteriole",
+      "hypoalbuminemia raises filtration, lowers filtration fraction",
+      "efferent constriction raises GFR while lowering RBF"
+    ]
+  }
+]

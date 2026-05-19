@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3-1",
+    "title": "Horseshoe Kidney",
+    "brick_id": "3",
+    "brick_title": "Congenital Disorders of the Kidney",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "Congenital renal fusion anomaly",
+      "Often asymptomatic incidental finding",
+      "Predisposes to UPJ obstruction and stones",
+      "Lower poles join across the midline",
+      "U-shaped kidney straddling the spine",
+      "Ascent arrested during embryologic migration",
+      "Associated with Turner syndrome and trisomy 18",
+      "Isthmus trapped beneath inferior mesenteric artery"
+    ]
+  },
+  {
+    "id": "3-2",
+    "title": "Ectopic (Pelvic) Kidney",
+    "brick_id": "3",
+    "brick_title": "Congenital Disorders of the Kidney",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "Malpositioned but functioning kidney",
+      "Discovered incidentally on imaging",
+      "Risk of hydronephrosis and recurrent UTIs",
+      "Failure to migrate during development",
+      "Kidney remains low in the abdomen",
+      "Tortuous ureter predisposes to reflux",
+      "Arrested ascent leaves organ in pelvis",
+      "Aberrant arterial supply from iliac vessels"
+    ]
+  },
+  {
+    "id": "3-3",
+    "title": "Renal Agenesis",
+    "brick_id": "3",
+    "brick_title": "Congenital Disorders of the Kidney",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "Complete congenital absence of renal tissue",
+      "Unilateral form causes compensatory hypertrophy",
+      "Solitary kidney risks hypertension and CKD",
+      "Bilateral form causes severe oligohydramnios",
+      "Lethal bilateral form produces Potter sequence",
+      "No fetal urine, pulmonary hypoplasia at birth",
+      "Empty renal fossa on prenatal ultrasound",
+      "Ureteric bud fails to induce metanephric blastema"
+    ]
+  },
+  {
+    "id": "3-4",
+    "title": "Multicystic Dysplastic Kidney (MCDK)",
+    "brick_id": "3",
+    "brick_title": "Congenital Disorders of the Kidney",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "Nonfunctional dysplastic congenital kidney",
+      "Unilateral cases have good prognosis",
+      "Bilateral form is lethal with oligohydramnios",
+      "Parenchyma replaced by disorganized tissue",
+      "Primitive tubules balloon into dilated cysts",
+      "Faulty ureteric bud-mesenchyme induction",
+      "Multiple non-communicating cysts on ultrasound",
+      "Cluster-of-grapes kidney lacking renal pelvis architecture"
+    ]
+  },
+  {
+    "id": "3-5",
+    "title": "Renal Hypoplasia/Dysplasia",
+    "brick_id": "3",
+    "brick_title": "Congenital Disorders of the Kidney",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "Congenitally undersized kidneys",
+      "Reduced nephron number from birth",
+      "Bilateral form causes childhood CKD",
+      "Hypertension and impaired growth in kids",
+      "Compensatory hypertrophy of remaining nephrons",
+      "Incomplete induction within metanephric blastema",
+      "Small echogenic kidneys on imaging",
+      "Biopsy reveals dysplastic nephron architecture"
+    ]
+  }
+]

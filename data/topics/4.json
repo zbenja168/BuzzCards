@@ -1,0 +1,128 @@
+[
+  {
+    "id": "4-1",
+    "title": "Renal Corpuscle (Glomerulus and Bowman Capsule)",
+    "brick_id": "4",
+    "brick_title": "Histology of the Renal Corpuscle and Renal Tubular System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Most proximal part of the nephron",
+      "Where blood is filtered into ultrafiltrate",
+      "Capillary tuft inside a double-walled capsule",
+      "Has a vascular pole and a tubular pole",
+      "Fed by afferent, drained by efferent arteriole",
+      "Parietal layer is simple squamous epithelium",
+      "Mesangial cells support and modulate capillary flow",
+      "Glomerulus plus Bowman capsule together"
+    ]
+  },
+  {
+    "id": "4-2",
+    "title": "Glomerular Filtration Barrier",
+    "brick_id": "4",
+    "brick_title": "Histology of the Renal Corpuscle and Renal Tubular System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Three-layer size- and charge-selective sieve",
+      "Separates capillary blood from urinary space",
+      "Fenestrated endothelium is the innermost layer",
+      "Heparan sulfate repels negatively charged albumin",
+      "Damaged in diabetes causing proteinuria",
+      "Thickened basement membrane in diabetic nephropathy",
+      "Visceral epithelial foot processes wrap the GBM",
+      "Slit diaphragms bridge interdigitating podocyte pedicels"
+    ]
+  },
+  {
+    "id": "4-3",
+    "title": "Proximal Convoluted Tubule (PCT)",
+    "brick_id": "4",
+    "brick_title": "Histology of the Renal Corpuscle and Renal Tubular System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Long tortuous tubules filling most of the cortex",
+      "Continuous with parietal capsule at the tubular pole",
+      "Simple cuboidal epithelium with central nuclei",
+      "Acidophilic pink cytoplasm from abundant mitochondria",
+      "Reabsorbs two-thirds of filtered water and electrolytes",
+      "Reclaims essentially all glucose and amino acids",
+      "Performs hydroxylation of vitamin D",
+      "Prominent apical brush border of long microvilli"
+    ]
+  },
+  {
+    "id": "4-4",
+    "title": "Loop of Henle",
+    "brick_id": "4",
+    "brick_title": "Histology of the Renal Corpuscle and Renal Tubular System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "U-shaped tubular segment dipping into medulla",
+      "Concentrates the filtrate by countercurrent design",
+      "Descending portion reabsorbs water",
+      "Ascending portion reabsorbs sodium chloride",
+      "Thick limb lined by simple cuboidal cells",
+      "Hairpin between proximal and distal tubules",
+      "Thin limbs lined by simple squamous epithelium",
+      "Descends into medulla, ascends back to cortex"
+    ]
+  },
+  {
+    "id": "4-5",
+    "title": "Distal Convoluted Tubule (DCT)",
+    "brick_id": "4",
+    "brick_title": "Histology of the Renal Corpuscle and Renal Tubular System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Cortical tubule following the ascending limb",
+      "Performs limited fine-tuning reabsorption",
+      "Simple cuboidal cells smaller than PCT cells",
+      "Sparse brush border and fewer organelles",
+      "Touches arterioles of its own parent corpuscle",
+      "Contributes the macula densa to the JGA",
+      "Drains into the collecting duct system",
+      "Contacts vascular pole forming juxtaglomerular apparatus"
+    ]
+  },
+  {
+    "id": "4-6",
+    "title": "Juxtaglomerular Apparatus (JGA)",
+    "brick_id": "4",
+    "brick_title": "Histology of the Renal Corpuscle and Renal Tubular System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Specialized structure at the vascular pole",
+      "Senses tubular flow and arterial pressure",
+      "Densely packed tubular cells abut afferent arteriole",
+      "Modified smooth muscle cells in the arteriole wall",
+      "Activates the renin-angiotensin-aldosterone system",
+      "Salt-sensing macula densa from the DCT",
+      "JG granular cells secrete renin",
+      "Triggered by low pressure to release renin"
+    ]
+  },
+  {
+    "id": "4-7",
+    "title": "Collecting Duct",
+    "brick_id": "4",
+    "brick_title": "Histology of the Renal Corpuscle and Renal Tubular System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Final tubular component before the renal pelvis",
+      "Collects fluid from many nephrons",
+      "Simple cuboidal cells with unusually distinct boundaries",
+      "Pale-staining epithelium with sparse microvilli",
+      "Site of final water and acid-base regulation",
+      "Principal cells respond to ADH and aldosterone",
+      "Principal cells house aquaporin water channels",
+      "Intercalated cells handle acid-base balance"
+    ]
+  }
+]

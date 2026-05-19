@@ -1,0 +1,110 @@
+[
+  {
+    "id": "33-1",
+    "title": "Fanconi Syndrome (Generalized Proximal Tubule Defect)",
+    "brick_id": "33",
+    "brick_title": "Fanconi Syndrome",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "polyuria, polydipsia, failure to thrive in infant",
+      "rickets with bowed legs and frontal bossing",
+      "non-anion-gap metabolic acidosis with hypokalemia",
+      "glucosuria despite normal serum glucose",
+      "wasting of phosphate, bicarbonate, and amino acids",
+      "proximal (type 2) renal tubular acidosis",
+      "generalized proximal tubule reabsorption defect",
+      "aminoaciduria plus phosphaturia plus glucosuria triad"
+    ]
+  },
+  {
+    "id": "33-2",
+    "title": "Cystinosis",
+    "brick_id": "33",
+    "brick_title": "Fanconi Syndrome",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "infant with polyuria, polydipsia, failure to thrive",
+      "photophobia and severe eye pain in a child",
+      "autosomal recessive inborn error of metabolism",
+      "most common hereditary cause of Fanconi syndrome",
+      "lysosomal storage disease of recycling centers",
+      "ATP depletion and apoptosis from crystal damage",
+      "intracellular cystine accumulation in lysosomes",
+      "corneal cystine crystals on slit-lamp exam"
+    ]
+  },
+  {
+    "id": "33-3",
+    "title": "Multiple Myeloma–Induced Fanconi Syndrome",
+    "brick_id": "33",
+    "brick_title": "Fanconi Syndrome",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "older adult with fatigue and bone pain",
+      "incidental glucosuria with normal serum glucose",
+      "anemia, hypercalcemia, and renal dysfunction",
+      "lytic bone lesions on skeletal survey",
+      "monoclonal gammopathy on serum electrophoresis",
+      "clonal plasma cell malignancy",
+      "filtered light chains overwhelm proximal tubule",
+      "Bence Jones proteins toxic to proximal tubule"
+    ]
+  },
+  {
+    "id": "33-4",
+    "title": "Cisplatin / Ifosfamide Nephrotoxicity",
+    "brick_id": "33",
+    "brick_title": "Fanconi Syndrome",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "new glucosuria in a cancer patient",
+      "hypophosphatemia and hypokalemia after chemotherapy",
+      "non-anion-gap acidosis post-chemo infusion",
+      "acute kidney injury during oncologic treatment",
+      "direct proximal tubule toxin from chemotherapy",
+      "platinum-based or oxazaphosphorine alkylator",
+      "irreversible proximal tubular damage",
+      "Fanconi syndrome after testicular or sarcoma chemo"
+    ]
+  },
+  {
+    "id": "33-5",
+    "title": "Tenofovir-Induced Fanconi Syndrome",
+    "brick_id": "33",
+    "brick_title": "Fanconi Syndrome",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "glucosuria and phosphaturia in HIV patient",
+      "bone pain and hypophosphatemia on antiretrovirals",
+      "non-anion-gap acidosis with normal blood sugar",
+      "rising creatinine on long-term antiviral therapy",
+      "mitochondrial toxicity in proximal tubule",
+      "reversible after stopping the offending agent",
+      "nucleotide reverse transcriptase inhibitor",
+      "tenofovir disoproxil fumarate proximal tubulopathy"
+    ]
+  },
+  {
+    "id": "33-6",
+    "title": "Lead Nephropathy",
+    "brick_id": "33",
+    "brick_title": "Fanconi Syndrome",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "child in an old building with peeling paint",
+      "abdominal pain, constipation, and developmental delay",
+      "microcytic anemia with basophilic stippling",
+      "wrist drop and peripheral neuropathy in adults",
+      "battery, smelter, or pottery glaze exposure",
+      "heavy metal proximal tubule toxin",
+      "basophilic stippling on peripheral smear",
+      "burton lines and lead lines on metaphyses"
+    ]
+  }
+]

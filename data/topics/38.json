@@ -1,0 +1,92 @@
+[
+  {
+    "id": "38-1",
+    "title": "Renal Ultrasound",
+    "brick_id": "38",
+    "brick_title": "Renal Imaging",
+    "week": 2,
+    "type": "imaging",
+    "buzzwords": [
+      "Noninvasive bedside first-line renal study",
+      "No radiation, no contrast required",
+      "Preferred modality in pregnancy",
+      "Detects hydronephrosis and simple cysts",
+      "Echogenic kidneys suggest chronic kidney disease",
+      "Bear-claw dilation of renal calyces",
+      "Doppler assesses renal vascular flow",
+      "Bilateral enlarged cystic kidneys reveal ADPCKD"
+    ]
+  },
+  {
+    "id": "38-2",
+    "title": "Noncontrast CT",
+    "brick_id": "38",
+    "brick_title": "Renal Imaging",
+    "week": 2,
+    "type": "imaging",
+    "buzzwords": [
+      "High-resolution anatomic kidney imaging",
+      "No iodinated contrast required",
+      "Avoids contrast-induced nephropathy risk",
+      "Detects even tiny urinary tract stones",
+      "Localizes obstruction in flank pain workup",
+      "Test of choice for renal trauma",
+      "Best for acute right flank pain radiating to pelvis",
+      "Gold standard for nephrolithiasis"
+    ]
+  },
+  {
+    "id": "38-3",
+    "title": "Contrast-Enhanced CT",
+    "brick_id": "38",
+    "brick_title": "Renal Imaging",
+    "week": 2,
+    "type": "imaging",
+    "buzzwords": [
+      "Iodinated dye highlights renal parenchyma",
+      "Distinguishes solid tumors from simple cysts",
+      "Evaluates complicated pyelonephritis and abscess",
+      "Characterizes enhancement patterns of masses",
+      "Avoid in contrast allergy or renal failure",
+      "Stages malignancy and vascular invasion",
+      "Workup of suspected renal cell carcinoma",
+      "Bosniak classification of cystic renal lesions"
+    ]
+  },
+  {
+    "id": "38-4",
+    "title": "DMSA Nuclear Scan",
+    "brick_id": "38",
+    "brick_title": "Renal Imaging",
+    "week": 2,
+    "type": "imaging",
+    "buzzwords": [
+      "Injected radioisotope tracks renal function",
+      "Compares function between left and right kidneys",
+      "Guides decision before nephrectomy",
+      "Confirms viability of contralateral kidney",
+      "Quantifies differential split kidney function",
+      "Cortical binding agent shows scarring",
+      "Technetium-99m labeled tracer",
+      "99mTc-DMSA radionuclide scan"
+    ]
+  },
+  {
+    "id": "38-5",
+    "title": "Renal MRI",
+    "brick_id": "38",
+    "brick_title": "Renal Imaging",
+    "week": 2,
+    "type": "imaging",
+    "buzzwords": [
+      "No ionizing radiation exposure",
+      "Superior soft-tissue contrast resolution",
+      "Used when CT is indeterminate or contraindicated",
+      "Safe alternative in contrast allergy",
+      "Option in pregnancy and renal failure",
+      "Characterizes indeterminate renal masses",
+      "Identifies benign fat-containing lesions",
+      "Detects angiomyolipoma soft-tissue features"
+    ]
+  }
+]

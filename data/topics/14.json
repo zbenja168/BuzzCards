@@ -1,0 +1,38 @@
+[
+  {
+    "id": "14-1",
+    "title": "Mannitol",
+    "brick_id": "14",
+    "brick_title": "Osmotic Diuretics",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "IV agent given in the ICU",
+      "Raises serum osmolality without entering cells",
+      "Pulls water from brain into bloodstream",
+      "Freely filtered, poorly reabsorbed sugar alcohol",
+      "Emergent therapy for elevated intracranial pressure",
+      "Causes Na+ and water diuresis at proximal tubule",
+      "Risks volume overload if GFR is low",
+      "Mannitol"
+    ]
+  },
+  {
+    "id": "14-2",
+    "title": "Pharmacologic Urea",
+    "brick_id": "14",
+    "brick_title": "Osmotic Diuretics",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "Oral osmotic agent, not IV",
+      "Increases free water excretion in the nephron",
+      "Used for chronic euvolemic hyponatremia",
+      "Filtered into nephron, draws water into tubule",
+      "Treats water excess from inappropriate ADH",
+      "Second-line osmotic diuretic after mannitol",
+      "Endogenous nitrogenous waste given as a drug",
+      "SIADH-associated hyponatremia therapy"
+    ]
+  }
+]

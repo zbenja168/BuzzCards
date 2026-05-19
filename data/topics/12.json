@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12-1",
+    "title": "Furosemide",
+    "brick_id": "12",
+    "brick_title": "Loop Diuretics",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "Most commonly used loop diuretic",
+      "Sulfonamide-based agent",
+      "Oral bioavailability around 60%",
+      "Reference potency in dosing equivalence",
+      "First-line for pulmonary edema in CHF",
+      "Risk of ototoxicity with rapid IV push",
+      "40 mg equals 1 mg bumetanide",
+      "Prototype Na+/K+/2Cl- cotransporter inhibitor"
+    ]
+  },
+  {
+    "id": "12-2",
+    "title": "Bumetanide",
+    "brick_id": "12",
+    "brick_title": "Loop Diuretics",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "Loop diuretic with sulfonamide structure",
+      "More potent than the prototype loop",
+      "Higher oral bioavailability (~80%)",
+      "Longer half-life than furosemide",
+      "Used when furosemide absorption is unreliable",
+      "Useful in gut edema from heart failure",
+      "1 mg equivalent to 40 mg furosemide",
+      "Most potent loop diuretic per milligram"
+    ]
+  },
+  {
+    "id": "12-3",
+    "title": "Torsemide",
+    "brick_id": "12",
+    "brick_title": "Loop Diuretics",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "Sulfonamide loop diuretic",
+      "Oral bioavailability around 80%",
+      "Longer half-life than furosemide",
+      "Once-daily dosing option in CHF",
+      "Reliable absorption in decompensated heart failure",
+      "More potent than furosemide milligram-for-milligram",
+      "20 mg equivalent to 40 mg furosemide",
+      "Long-acting NKCC2 inhibitor"
+    ]
+  },
+  {
+    "id": "12-4",
+    "title": "Ethacrynic Acid",
+    "brick_id": "12",
+    "brick_title": "Loop Diuretics",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "Structurally distinct loop diuretic",
+      "Lacks a sulfonamide group",
+      "Reserved for sulfa-allergic patients",
+      "100% oral bioavailability",
+      "Highest ototoxicity risk of the class",
+      "Phenoxyacetic acid derivative",
+      "Only non-sulfa NKCC2 inhibitor",
+      "Loop diuretic safe in sulfa cross-reactivity"
+    ]
+  }
+]

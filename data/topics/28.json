@@ -1,0 +1,200 @@
+[
+  {
+    "id": "28-1",
+    "title": "Diabetic Ketoacidosis",
+    "brick_id": "28",
+    "brick_title": "Metabolic Acidosis",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "nausea, vomiting, abdominal pain in a sick patient",
+      "deep rapid breathing with dehydration",
+      "high anion gap acidosis with hyperglycemia",
+      "fruity-smelling breath on exam",
+      "insulin deficiency drives ketone production",
+      "acetoacetate and beta-hydroxybutyrate accumulation",
+      "treated with insulin and normal saline",
+      "type 1 diabetic with Kussmaul respirations and ketonemia"
+    ]
+  },
+  {
+    "id": "28-2",
+    "title": "Lactic Acidosis",
+    "brick_id": "28",
+    "brick_title": "Metabolic Acidosis",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "hypotensive, febrile patient with poor perfusion",
+      "anaerobic glycolysis from tissue hypoxia",
+      "high anion gap acidosis in sepsis or shock",
+      "elevated serum lactate level",
+      "short-bowel syndrome causing D-lactate confusion",
+      "metformin-associated pyruvate-to-lactate conversion",
+      "L-lactate from sepsis, D-lactate from gut bacteria",
+      "septic shock with elevated lactate and Kussmaul breathing"
+    ]
+  },
+  {
+    "id": "28-3",
+    "title": "Uremic Acidosis",
+    "brick_id": "28",
+    "brick_title": "Metabolic Acidosis",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "fatigue and malaise in a chronically ill patient",
+      "low GFR fails to excrete daily acid load",
+      "starts as NAGMA from poor ammoniagenesis",
+      "progresses to anion gap acidosis as disease worsens",
+      "retained sulfate and phosphate acids accumulate",
+      "elevated BUN and creatinine on labs",
+      "advanced CKD approaching dialysis",
+      "high anion gap acidosis with severely reduced GFR"
+    ]
+  },
+  {
+    "id": "28-4",
+    "title": "Toxic Alcohol Ingestion",
+    "brick_id": "28",
+    "brick_title": "Metabolic Acidosis",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "altered patient after suspected ingestion",
+      "high anion gap acidosis with elevated osmolal gap",
+      "metabolized by alcohol dehydrogenase to toxic acid",
+      "methanol causes blindness and optic disc edema",
+      "ethylene glycol produces urine oxalate crystals",
+      "propylene glycol from IV medication vehicles",
+      "treat by blocking alcohol dehydrogenase",
+      "fomepizole antidote with osmolal gap >10"
+    ]
+  },
+  {
+    "id": "28-5",
+    "title": "Salicylate Toxicity",
+    "brick_id": "28",
+    "brick_title": "Metabolic Acidosis",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "intentional or accidental overdose ingestion",
+      "ringing in the ears with GI bleeding",
+      "mixed acid-base picture on ABG",
+      "inhibits Krebs cycle producing lactic acid",
+      "early respiratory alkalosis from medullary stimulation",
+      "late high anion gap metabolic acidosis",
+      "tinnitus plus tachypnea after aspirin overdose",
+      "concurrent respiratory alkalosis and AGMA"
+    ]
+  },
+  {
+    "id": "28-6",
+    "title": "Diarrheal NAGMA",
+    "brick_id": "28",
+    "brick_title": "Metabolic Acidosis",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "volume-depleted patient with frequent stools",
+      "loss of alkaline intestinal secretions",
+      "normal anion gap metabolic acidosis",
+      "compensatory chloride rise to replace bicarbonate",
+      "hyperchloremic acidosis with low HCO3",
+      "treat underlying GI losses and replete bicarbonate",
+      "most common cause of NAGMA",
+      "secretory diarrhea causing hyperchloremic metabolic acidosis"
+    ]
+  },
+  {
+    "id": "28-7",
+    "title": "Distal (Type 1) RTA",
+    "brick_id": "28",
+    "brick_title": "Metabolic Acidosis",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "patient with recurrent kidney stones",
+      "collecting duct cannot acidify urine",
+      "severe normal anion gap metabolic acidosis",
+      "alpha-intercalated cell H+ secretion defect",
+      "hypokalemia with hypercalciuria and hypocitraturia",
+      "amphotericin B, lithium, Sjogren, lupus, amyloidosis",
+      "urine pH inappropriately >5.3 despite acidemia",
+      "calcium phosphate nephrolithiasis with type 1 RTA"
+    ]
+  },
+  {
+    "id": "28-8",
+    "title": "Proximal (Type 2) RTA",
+    "brick_id": "28",
+    "brick_title": "Metabolic Acidosis",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "patient on carbonic anhydrase inhibitor",
+      "wasting of bicarbonate in the urine",
+      "mild normal anion gap metabolic acidosis",
+      "proximal tubule HCO3 reabsorption defect",
+      "urine pH <5.3 once serum HCO3 falls low",
+      "glucosuria, phosphaturia, aminoaciduria in Fanconi",
+      "multiple myeloma light chains damage proximal tubule",
+      "acetazolamide- or myeloma-induced proximal RTA"
+    ]
+  },
+  {
+    "id": "28-9",
+    "title": "Hyperkalemic (Type 4) RTA",
+    "brick_id": "28",
+    "brick_title": "Metabolic Acidosis",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "diabetic patient with mildly low bicarbonate",
+      "most common form of renal tubular acidosis",
+      "hyperkalemia driving impaired acid excretion",
+      "low aldosterone or aldosterone-receptor blockade",
+      "decreased ammoniagenesis reduces NH4+ secretion",
+      "ACE inhibitors and spironolactone as triggers",
+      "urine pH <5.3 with elevated serum potassium",
+      "hyporeninemic hypoaldosteronism in diabetic kidney disease"
+    ]
+  },
+  {
+    "id": "28-10",
+    "title": "Winter's Formula",
+    "brick_id": "28",
+    "brick_title": "Metabolic Acidosis",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "checking adequacy of respiratory compensation",
+      "lungs hyperventilate to lower CO2",
+      "predicts expected PaCO2 in metabolic acidosis",
+      "deviation reveals superimposed respiratory disorder",
+      "uses serum bicarbonate to estimate CO2",
+      "formula: 1.5 x HCO3 + 8 plus or minus 2",
+      "low expected PaCO2 in compensated AGMA",
+      "Winter's formula for metabolic acidosis compensation"
+    ]
+  },
+  {
+    "id": "28-11",
+    "title": "Osmolal Gap",
+    "brick_id": "28",
+    "brick_title": "Metabolic Acidosis",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "suspected ingestion of an unknown substance",
+      "difference between measured and calculated osmolality",
+      "abnormal when greater than 10 mOsm/kg",
+      "calculated from sodium, urea, and glucose",
+      "elevated by ethanol and other low-MW solutes",
+      "screening tool when toxic alcohol labs unavailable",
+      "AGMA plus elevated gap suggests glycol or methanol",
+      "osmolal gap >10 with high anion gap acidosis"
+    ]
+  }
+]

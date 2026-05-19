@@ -1,0 +1,92 @@
+[
+  {
+    "id": "39-1",
+    "title": "Glomerular Hematuria",
+    "brick_id": "39",
+    "brick_title": "Hematuria",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "Blood in urine with high-grade proteinuria",
+      "Tea-colored or cola-colored urine",
+      "Hypertension and declining renal function",
+      "Breaks in the glomerular basement membrane",
+      "Postinfectious GN, lupus, IgA nephropathy",
+      "Donut-shaped RBCs with surface blebs",
+      "Dysmorphic RBCs and acanthocytes on microscopy",
+      "RBC casts pathognomonic for glomerular source"
+    ]
+  },
+  {
+    "id": "39-2",
+    "title": "Nonglomerular (Extraglomerular) Hematuria",
+    "brick_id": "39",
+    "brick_title": "Hematuria",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "Bleeding anywhere downstream from the glomerulus",
+      "Stones, trauma, infection, or urologic malignancy",
+      "Painless gross hematuria in a smoker",
+      "Whole clots passed in the urine",
+      "Normally shaped RBCs on microscopy",
+      "No proteinuria and no RBC casts",
+      "Transitional cell bladder cancer on cystoscopy",
+      "Cyclophosphamide-induced hemorrhagic cystitis"
+    ]
+  },
+  {
+    "id": "39-3",
+    "title": "Gross vs Microscopic Hematuria",
+    "brick_id": "39",
+    "brick_title": "Hematuria",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "Incidental finding on routine urinalysis screening",
+      "Patient sees bright red or pink urine",
+      "Trauma, stones, and hemorrhagic cystitis classically",
+      "Naked-eye visible blood versus microscope-only",
+      "Whole clots favor lower urinary tract",
+      "Asymptomatic dipstick blood without visible change",
+      "More than 3 RBCs per high-power field",
+      "Visible hematuria defines gross; microscopy defines micro"
+    ]
+  },
+  {
+    "id": "39-4",
+    "title": "Pseudohematuria and Pigment Mimics",
+    "brick_id": "39",
+    "brick_title": "Hematuria",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "Red or discolored urine without true RBCs",
+      "Heme-positive dipstick but no cells on microscopy",
+      "Beeturia after dietary beet ingestion",
+      "Rifampin, phenazopyridine, doxorubicin discoloration",
+      "Crush injury with brown urine and elevated CK",
+      "Hemoglobinuria from intravascular hemolysis",
+      "Port-wine urine of acute intermittent porphyria",
+      "Myoglobinuria from rhabdomyolysis mimicking hematuria"
+    ]
+  },
+  {
+    "id": "39-5",
+    "title": "Hematuria Workup Approach",
+    "brick_id": "39",
+    "brick_title": "Hematuria",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "Confirm positive dipstick with urine microscopy",
+      "Pyuria plus bacteria points to UTI",
+      "Serum creatinine and eGFR for renal function",
+      "Noncontrast CT preferred for stones and trauma",
+      "Ultrasound first in pregnancy and young children",
+      "Cystoscopy when imaging negative, especially smokers",
+      "Kidney biopsy when glomerular disease suspected",
+      "Dipstick over 90% sensitive for hematuria"
+    ]
+  }
+]

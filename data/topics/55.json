@@ -1,0 +1,92 @@
+[
+  {
+    "id": "55-1",
+    "title": "Schistosoma haematobium (Urogenital Schistosomiasis)",
+    "brick_id": "55",
+    "brick_title": "Renal Schistosomiasis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "traveler from sub-Saharan Africa or Middle East",
+      "freshwater snail intermediate host",
+      "blood fluke trematode infection",
+      "skin penetration during freshwater contact",
+      "adults live in bladder venous plexus",
+      "terminal hematuria and dysuria",
+      "ova with terminal spine in urine",
+      "Schistosoma haematobium vesical plexus infection"
+    ]
+  },
+  {
+    "id": "55-2",
+    "title": "Schistosoma Life Cycle",
+    "brick_id": "55",
+    "brick_title": "Renal Schistosomiasis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "two-host parasitic cycle in freshwater",
+      "eggs released in human urine or feces",
+      "snail is obligate intermediate host",
+      "free-swimming larvae penetrate intact skin",
+      "miracidia hatch and infect snails",
+      "cercariae become schistosomula in host",
+      "adults pair in mesenteric or vesical venules",
+      "miracidia–snail–cercariae–schistosomula sequence"
+    ]
+  },
+  {
+    "id": "55-3",
+    "title": "Katayama Fever (Acute Schistosomiasis)",
+    "brick_id": "55",
+    "brick_title": "Renal Schistosomiasis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "non-immune traveler 2–12 weeks post-exposure",
+      "fever, urticaria, myalgia, dry cough",
+      "marked peripheral eosinophilia",
+      "hepatosplenomegaly with lymphadenopathy",
+      "type III hypersensitivity to migrating worms",
+      "self-limited febrile serum-sickness-like illness",
+      "rare transverse myelitis or cerebral disease",
+      "Katayama fever from early egg deposition"
+    ]
+  },
+  {
+    "id": "55-4",
+    "title": "Chronic Urogenital Schistosomiasis & Bladder SCC",
+    "brick_id": "55",
+    "brick_title": "Renal Schistosomiasis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "long-standing painless terminal hematuria",
+      "sterile pyuria with frequency and dysuria",
+      "granulomatous bladder wall fibrosis and calcification",
+      "hydroureter and obstructive uropathy on imaging",
+      "female genital disease causing infertility",
+      "egg deposition drives chronic inflammation",
+      "endemic Egypt risk for bladder malignancy",
+      "squamous cell carcinoma of the bladder"
+    ]
+  },
+  {
+    "id": "55-5",
+    "title": "Praziquantel Treatment",
+    "brick_id": "55",
+    "brick_title": "Renal Schistosomiasis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "first-line antihelminthic for all Schistosoma species",
+      "single oral dose for trematode infection",
+      "adjunctive steroids in acute hypersensitivity phase",
+      "may repeat dose weeks later for immature worms",
+      "increases tegument permeability to calcium ions",
+      "spastic paralysis and tegument disruption",
+      "exposes parasite antigens to host immunity",
+      "praziquantel for fluke and tapeworm infections"
+    ]
+  }
+]

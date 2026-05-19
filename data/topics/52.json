@@ -1,0 +1,20 @@
+[
+  {
+    "id": "52-1",
+    "title": "Renal Papillary Necrosis",
+    "brick_id": "52",
+    "brick_title": "Renal Papillary Necrosis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Flank pain with gross hematuria",
+      "Renal colic mimicking a kidney stone",
+      "Polyuria from impaired medullary concentrating ability",
+      "Ischemic injury to the vasa recta",
+      "Sloughed medullary tips causing ureteral obstruction",
+      "Chronic NSAID/analgesic abuse in a sickle cell patient",
+      "Necrotic renal papillae with neutrophilic infiltrate",
+      "POSTCARDS mnemonic for papillary necrosis causes"
+    ]
+  }
+]

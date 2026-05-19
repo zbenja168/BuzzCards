@@ -1,0 +1,56 @@
+[
+  {
+    "id": "43-1",
+    "title": "Immune Complex-Mediated MPGN",
+    "brick_id": "43",
+    "brick_title": "Membranoproliferative Glomerulonephritis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "mixed nephritic and nephrotic picture",
+      "hematuria with heavy proteinuria",
+      "low C3 and low C4 complement",
+      "thickened GBM with mesangial proliferation",
+      "subendothelial electron-dense deposits",
+      "granular IgG and C3 on immunofluorescence",
+      "driven by chronic antigenemia or autoimmunity",
+      "tram-track basement membrane on silver stain"
+    ]
+  },
+  {
+    "id": "43-2",
+    "title": "HCV-Associated MPGN with Cryoglobulinemia",
+    "brick_id": "43",
+    "brick_title": "Membranoproliferative Glomerulonephritis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "adult with palpable purpura and hematuria",
+      "arthralgias, neuropathy, and proteinuria",
+      "low C3 with markedly low C4",
+      "antibodies precipitating in the cold",
+      "membranoproliferative pattern on biopsy",
+      "chronic hepatitis C viremia",
+      "treat with antiviral protease inhibitors",
+      "serum cryoglobulins with HCV infection"
+    ]
+  },
+  {
+    "id": "43-3",
+    "title": "C3 Glomerulopathy / Dense Deposit Disease",
+    "brick_id": "43",
+    "brick_title": "Membranoproliferative Glomerulonephritis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "child with hematuria and proteinuria",
+      "persistently low C3 with normal C4",
+      "alternative complement pathway dysregulation",
+      "stabilizing autoantibody against C3 convertase",
+      "dominant C3 staining without immunoglobulin",
+      "intramembranous ribbon-like dense deposits",
+      "treated with steroids, poor prognosis",
+      "C3 nephritic factor positive"
+    ]
+  }
+]

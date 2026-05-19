@@ -1,0 +1,38 @@
+[
+  {
+    "id": "63-1",
+    "title": "Urothelial (Transitional Cell) Carcinoma of Bladder",
+    "brick_id": "63",
+    "brick_title": "Bladder Cancer",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "Older male, 50-80, 3:1 male predominance",
+      "Painless gross or microscopic hematuria",
+      "Heavy long-term tobacco smoker",
+      "Arylamine dye exposure in tire/rubber workers",
+      "Prior cyclophosphamide-induced hemorrhagic cystitis",
+      "Papillary lesion with fibrovascular stalks on cystoscopy",
+      "TP53 and RB tumor suppressor loss-of-function",
+      "Intravesical BCG after transurethral resection"
+    ]
+  },
+  {
+    "id": "63-2",
+    "title": "Squamous Cell Carcinoma of Bladder",
+    "brick_id": "63",
+    "brick_title": "Bladder Cancer",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "Roughly 5% of bladder cancers, often muscle-invasive at diagnosis",
+      "Patient from Middle East or sub-Saharan Africa",
+      "Chronic bladder irritation drives squamous metaplasia",
+      "Granulomatous inflammation from parasitic ova in bladder wall",
+      "High-grade tumor, poor prognosis (5-yr survival 33-48%)",
+      "Treated up front with radical cystectomy",
+      "Schistosoma haematobium fluke infection",
+      "Squamous cell carcinoma from chronic schistosomiasis"
+    ]
+  }
+]

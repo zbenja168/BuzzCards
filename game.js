@@ -1,5 +1,6 @@
 // Brick Buzz — game logic.
-// Card data shape: { id, title, week, type, source, pages, buzzwords:[vague→specific], transcript }
+// Card data shape: { id, title, brick_id, brick_title, week, type, buzzwords:[8] }
+// One brick contributes 1..N cards. Selection happens at the brick level.
 
 const TYPES = ['disease', 'physiology', 'anatomy', 'drug', 'lab', 'imaging'];
 const TYPE_LABEL = {
@@ -14,8 +15,9 @@ const EXHAUST_PENALTY = 3;   // extra "buzzword equivalents" when buzzwords are 
 const MISS_PENALTY    = 1;   // extra "buzzword equivalents" per miss
 
 const state = {
-  allCards: [],
-  selectedIds: new Set(),
+  allCards: [],              // flat list of all cards
+  bricks: [],                // [{id, title, type, week, cards:[...]}], one per brick
+  selectedBrickIds: new Set(),
   typeFilter: new Set(TYPES),
   game: null,
 };
@@ -24,10 +26,30 @@ const state = {
 
 document.addEventListener('DOMContentLoaded', async () => {
   state.allCards = await loadCards();
-  state.selectedIds = new Set(state.allCards.map(c => c.id));
+  state.bricks = groupByBrick(state.allCards);
+  state.selectedBrickIds = new Set(state.bricks.map(b => b.id));
   renderSelectScreen();
   wireButtons();
 });
+
+function groupByBrick(cards) {
+  const byId = new Map();
+  for (const c of cards) {
+    if (!byId.has(c.brick_id)) {
+      byId.set(c.brick_id, {
+        id: c.brick_id,
+        title: c.brick_title,
+        type: c.type,
+        week: c.week,
+        cards: [],
+      });
+    }
+    byId.get(c.brick_id).cards.push(c);
+  }
+  return [...byId.values()].sort((a, b) =>
+    (a.week - b.week) || (Number(a.id) - Number(b.id))
+  );
+}
 
 async function loadCards() {
   try {
@@ -43,11 +65,12 @@ async function loadCards() {
 function wireButtons() {
   byId('btn-start').onclick     = () => show('select');
   byId('btn-deal').onclick      = startGame;
-  byId('btn-select-all').onclick  = () => { state.allCards.forEach(c => state.selectedIds.add(c.id)); renderSelectScreen(); };
-  byId('btn-select-none').onclick = () => { state.selectedIds.clear(); renderSelectScreen(); };
+  byId('btn-select-all').onclick  = () => { state.bricks.forEach(b => state.selectedBrickIds.add(b.id)); renderSelectScreen(); };
+  byId('btn-select-none').onclick = () => { state.selectedBrickIds.clear(); renderSelectScreen(); };
   byId('btn-call-clue').onclick = () => revealNextClue('voluntary');
   byId('btn-quit').onclick      = () => { if (confirm('Quit this game?')) show('title'); };
   byId('btn-replay').onclick    = () => show('select');
+  byId('hand-size').addEventListener('input', renderSelectScreen);
 }
 
 // ---------- screens ----------
@@ -61,7 +84,7 @@ function show(name) {
 // ---------- select screen ----------
 
 function renderSelectScreen() {
-  // type filter pills
+  // type filter pills (counts: number of cards of this type)
   const tf = byId('type-filters');
   tf.innerHTML = '';
   for (const t of TYPES) {
@@ -75,49 +98,44 @@ function renderSelectScreen() {
     tf.append(pill);
   }
 
-  // tiles
+  // brick tiles
   const grid = byId('brick-grid');
   grid.innerHTML = '';
-  const visible = state.allCards.filter(c => state.typeFilter.has(c.type));
-  visible.sort((a,b) => (a.week - b.week) || (Number(a.id) - Number(b.id)));
-  for (const c of visible) {
-    const checked = state.selectedIds.has(c.id);
+  const visible = state.bricks.filter(b => state.typeFilter.has(b.type));
+  for (const b of visible) {
+    const checked = state.selectedBrickIds.has(b.id);
     const tile = el('label', { class: 'tile' + (checked ? ' selected' : '') });
     const cb = el('input', { type:'checkbox' });
     cb.checked = checked;
     cb.onchange = () => {
-      cb.checked ? state.selectedIds.add(c.id) : state.selectedIds.delete(c.id);
+      cb.checked ? state.selectedBrickIds.add(b.id) : state.selectedBrickIds.delete(b.id);
       renderSelectScreen();
     };
-    const body = el('div', { class: 'flex-1' });
+    const body = el('div', { class: 'flex-1 min-w-0' });
     body.append(
-      el('div', { class: 'font-medium leading-snug' }, c.title),
-      el('div', { class: 'text-[10px] uppercase tracking-wider text-ink-500 mt-1' }, `${TYPE_LABEL[c.type] || c.type} · Wk ${c.week}`)
+      el('div', { class: 'font-medium leading-snug' }, b.title),
+      el('div', { class: 'text-[10px] uppercase tracking-wider text-ink-500 mt-1' },
+        `${TYPE_LABEL[b.type] || b.type} · Wk ${b.week} · ${b.cards.length} card${b.cards.length === 1 ? '' : 's'}`)
     );
     tile.append(cb, body);
     grid.append(tile);
   }
 
-  // counter + dealer button
-  const selectedVisible = visible.filter(c => state.selectedIds.has(c.id)).length;
-  byId('selected-count').textContent = selectedVisible;
-  byId('btn-deal').disabled = selectedVisible < parseInt(byId('hand-size').value, 10);
-}
-
-byId_lazy(); // safe-guard: ensure handlers below run after DOMContentLoaded
-function byId_lazy() {
-  document.addEventListener('DOMContentLoaded', () => {
-    byId('hand-size').addEventListener('input', renderSelectScreen);
-  });
+  // counter shows total CARDS from selected, visible bricks
+  const selectedCardCount = visible
+    .filter(b => state.selectedBrickIds.has(b.id))
+    .reduce((sum, b) => sum + b.cards.length, 0);
+  byId('selected-count').textContent = selectedCardCount;
+  byId('btn-deal').disabled = selectedCardCount < parseInt(byId('hand-size').value, 10);
 }
 
 // ---------- game loop ----------
 
 function startGame() {
   const handSize = clamp(parseInt(byId('hand-size').value, 10) || 5, 3, 10);
-  const pool = state.allCards
-    .filter(c => state.selectedIds.has(c.id) && state.typeFilter.has(c.type))
-    .map(c => ({ ...c }));
+  const pool = state.bricks
+    .filter(b => state.selectedBrickIds.has(b.id) && state.typeFilter.has(b.type))
+    .flatMap(b => b.cards.map(c => ({ ...c })));
   if (pool.length < handSize) return;
 
   shuffle(pool);
@@ -142,6 +160,9 @@ function startRound() {
   if (g.hand.length === 0) return endGame();
   // pick a hidden target from the hand
   g.target = g.hand[Math.floor(Math.random() * g.hand.length)];
+  // shuffle a copy of the target's buzzwords so reveal order is random each round
+  g.shuffledClues = [...g.target.buzzwords];
+  shuffle(g.shuffledClues);
   g.revealed = [];
   g.wrongThisRound = new Set();
   // reveal the first clue immediately
@@ -152,12 +173,12 @@ function startRound() {
 function revealNextClue(why) {
   const g = state.game;
   if (!g.target) return;
-  if (g.revealed.length >= g.target.buzzwords.length) {
+  if (g.revealed.length >= g.shuffledClues.length) {
     // all clues exhausted — auto-resolve round
     return exhaustRound();
   }
   const idx = g.revealed.length;
-  g.revealed.push(g.target.buzzwords[idx]);
+  g.revealed.push(g.shuffledClues[idx]);
   if (why !== 'initial') g.buzzwordsUsed += 1;
   renderGame();
 }
@@ -235,14 +256,17 @@ function renderGame() {
     });
     card.append(
       el('div', { class: 'card-title' }, c.title),
-      el('div', { class: 'card-type' }, `${TYPE_LABEL[c.type] || c.type} · Wk ${c.week}`),
+      el('div', { class: 'card-type' },
+        c.brick_title && c.brick_title !== c.title
+          ? `${c.brick_title} · Wk ${c.week}`
+          : `${TYPE_LABEL[c.type] || c.type} · Wk ${c.week}`),
     );
     if (!g.wrongThisRound.has(c.id)) card.onclick = () => playCard(c.id);
     handEl.append(card);
   }
 
   // call-clue button disable when exhausted
-  byId('btn-call-clue').disabled = !g.target || g.revealed.length >= g.target.buzzwords.length;
+  byId('btn-call-clue').disabled = !g.target || g.revealed.length >= g.shuffledClues.length;
 }
 
 // ---------- helpers ----------
@@ -270,16 +294,13 @@ function toast(text, kind = 'info', ms = 1100) {
   toastTimer = setTimeout(() => { t.classList.remove('show'); }, ms);
 }
 
-// fallback stub data so the UI is browsable before extraction completes
+// Fallback stub data shown only when data/cards.json fails to load (e.g. file:// access).
+// Three example cards from one brick so the brick-grouping UI is browsable.
 const STUB_CARDS = [
-  { id:'demo1', title:'Anti-GBM Disease (Goodpasture Syndrome)', week:3, type:'disease', source:'', pages:0,
-    buzzwords:['hemoptysis and hematuria together','young smoker with cough and renal failure','rapidly progressive glomerulonephritis','pulmonary-renal syndrome','crescentic glomerulonephritis on biopsy','type II hypersensitivity reaction','antibodies against alpha-3 chain of type IV collagen','linear IgG along glomerular basement membrane'], transcript:'' },
-  { id:'demo2', title:'Minimal Change Disease', week:3, type:'disease', source:'', pages:0,
-    buzzwords:['child with sudden swelling','nephrotic syndrome in a child','massive proteinuria, normal BP','selective albuminuria','responds to steroids','light microscopy looks normal','effacement of podocyte foot processes','electron microscopy buzzword'], transcript:'' },
-  { id:'demo3', title:'Loop Diuretics', week:1, type:'drug', source:'', pages:0,
-    buzzwords:['drug for fluid overload','strongest diuretic class','works on the thick ascending limb','can cause ototoxicity','wastes calcium','furosemide and bumetanide','blocks NKCC2','blocks Na-K-2Cl cotransporter'], transcript:'' },
-  { id:'demo4', title:'Sodium Homeostasis', week:1, type:'physiology', source:'', pages:0,
-    buzzwords:['key extracellular cation','sets plasma osmolality','regulated by aldosterone','reabsorbed all along the nephron','principal cell channel','ENaC in the collecting duct','target of mineralocorticoid receptor','sodium-potassium pump driven'], transcript:'' },
-  { id:'demo5', title:'Renal Stones', week:3, type:'disease', source:'', pages:0,
-    buzzwords:['flank pain radiating to groin','hematuria with severe colic','most common type is calcium oxalate','radiopaque on x-ray','envelope-shaped crystals','non-contrast CT is best test','strain the urine','calcium oxalate dihydrate buzzword'], transcript:'' },
+  { id:'54-1', title:'Calcium Oxalate Stones', brick_id:'54', brick_title:'Renal Stones', week:3, type:'disease',
+    buzzwords:['flank pain radiating to groin','most common kidney stone type','Crohn disease or bariatric surgery','low urinary citrate inhibitor','hyperparathyroidism mobilizes bone calcium','high urine calcium and oxalate','thiazides and citrate for prevention','envelope or dumbbell urine crystals'] },
+  { id:'54-3', title:'Struvite Stones', brick_id:'54', brick_title:'Renal Stones', week:3, type:'disease',
+    buzzwords:['recurrent upper urinary tract infections','alkaline urine pH','magnesium ammonium phosphate composition','urease-positive bacteria split urea','Proteus, Klebsiella, Ureaplasma organisms','large branching renal pelvis cast','staghorn calculus on imaging','coffin-lid shaped crystals'] },
+  { id:'47-1', title:'Anti-GBM Disease (Goodpasture Syndrome)', brick_id:'47', brick_title:'Anti-GBM Disease (Goodpasture Syndrome)', week:3, type:'disease',
+    buzzwords:['hemoptysis and hematuria together','young smoker with cough and renal failure','rapidly progressive glomerulonephritis','pulmonary-renal syndrome','type II hypersensitivity reaction','antibodies against alpha-3 chain of type IV collagen','crescentic glomerulonephritis on biopsy','linear IgG along glomerular basement membrane'] },
 ];

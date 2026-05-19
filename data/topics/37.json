@@ -1,0 +1,110 @@
+[
+  {
+    "id": "37-1",
+    "title": "Serum Creatinine and eGFR Equations",
+    "brick_id": "37",
+    "brick_title": "Renal Laboratory Tests",
+    "week": 2,
+    "type": "lab",
+    "buzzwords": [
+      "Byproduct of daily muscle breakdown",
+      "Freely filtered, not reabsorbed, minimally secreted",
+      "Value varies with sex, age, muscle mass",
+      "Plugged into equations to estimate filtration",
+      "Vegetarians and low muscle mass underestimate disease",
+      "SWAG mnemonic: sex, weight, age, gender",
+      "MDRD replaced by ethnicity-free 2021 update",
+      "Cockcroft-Gault, MDRD, and CKD-EPI"
+    ]
+  },
+  {
+    "id": "37-2",
+    "title": "24-Hour Creatinine Clearance",
+    "brick_id": "37",
+    "brick_title": "Renal Laboratory Tests",
+    "week": 2,
+    "type": "lab",
+    "buzzwords": [
+      "Direct timed measurement of solute clearance",
+      "Requires a full-day urine collection jug",
+      "Paired serum draw at midpoint of collection",
+      "Bypasses demographic-based estimating equations",
+      "Volume times urine concentration over plasma",
+      "Inaccurate if collection is missed or incomplete",
+      "Formula divides by 1440 minutes per day",
+      "CrCl = (UCr x V) / (PCr x 1440)"
+    ]
+  },
+  {
+    "id": "37-3",
+    "title": "Blood Urea Nitrogen (BUN)",
+    "brick_id": "37",
+    "brick_title": "Renal Laboratory Tests",
+    "week": 2,
+    "type": "lab",
+    "buzzwords": [
+      "Serum assay reported as a nitrogen value",
+      "Rises with dehydration and high catabolism",
+      "Elevated after upper GI bleeding",
+      "Tracks confusion, asterixis, and pericarditis symptoms",
+      "Normal range roughly 7 to 20 mg/dL",
+      "Surrogate marker, not an estimate of filtration",
+      "Reflects uremic solute burden",
+      "Nitrogen portion of urea (BUN)"
+    ]
+  },
+  {
+    "id": "37-4",
+    "title": "Urine Dipstick",
+    "brick_id": "37",
+    "brick_title": "Renal Laboratory Tests",
+    "week": 2,
+    "type": "lab",
+    "buzzwords": [
+      "Rapid bedside point-of-care screen",
+      "Colorimetric pads change shade by analyte",
+      "Reported semi-quantitatively from 0 to 4+",
+      "Estimates concentration via specific gravity 1.003-1.035",
+      "Catches glucose once threshold around 180 exceeded",
+      "Heme pad falsely positive in rhabdomyolysis",
+      "Detects leukocyte esterase and bacterial nitrites",
+      "Reagent strip for pH, protein, blood, glucose"
+    ]
+  },
+  {
+    "id": "37-5",
+    "title": "Urine Microscopy (Sediment)",
+    "brick_id": "37",
+    "brick_title": "Renal Laboratory Tests",
+    "week": 2,
+    "type": "lab",
+    "buzzwords": [
+      "Centrifuged pellet examined on a slide",
+      "Reported per high-power field",
+      "Distinguishes dysmorphic from normal red cells",
+      "Identifies coffin-lid, envelope, and hexagonal crystals",
+      "Eosinophils suggest allergic interstitial nephritis",
+      "Muddy brown granular casts mark tubular necrosis",
+      "WBC casts localize infection to the kidney",
+      "RBC casts pathognomonic for glomerulonephritis"
+    ]
+  },
+  {
+    "id": "37-6",
+    "title": "Proteinuria Quantification (UPCR, ACR, 24h)",
+    "brick_id": "37",
+    "brick_title": "Renal Laboratory Tests",
+    "week": 2,
+    "type": "lab",
+    "buzzwords": [
+      "Quantifies leak of plasma proteins into urine",
+      "Spot ratios use creatinine to normalize concentration",
+      "Daylong collection considered the most accurate method",
+      "Immunoassay variant detects microalbuminuria early",
+      "Screens for diabetic and hypertensive kidney damage",
+      "Turbidimetric ratio catches all protein types",
+      "Bence Jones light chains missed by dipstick and ACR",
+      "UPCR, ACR, and 24-hour urine protein"
+    ]
+  }
+]

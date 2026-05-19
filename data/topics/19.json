@@ -1,0 +1,92 @@
+[
+  {
+    "id": "19-1",
+    "title": "Extrarenal (Hypotonic Fluid) Water Loss",
+    "brick_id": "19",
+    "brick_title": "Hypernatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "Hot environment with profuse sweating",
+      "Severe diarrhea or persistent vomiting",
+      "Dry mucous membranes and poor skin turgor",
+      "Low urine output with very concentrated urine",
+      "Hypotonic body fluid losses exceed sodium losses",
+      "Urine osmolality above 600 mOsm/kg with high serum sodium",
+      "Sweat sodium only 40-60 mEq/L drives free water loss",
+      "Intact ADH response producing maximally concentrated urine"
+    ]
+  },
+  {
+    "id": "19-2",
+    "title": "Central Diabetes Insipidus",
+    "brick_id": "19",
+    "brick_title": "Hypernatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "Polyuria and polydipsia with dilute urine",
+      "Onset after head trauma or neurosurgery",
+      "Pituitary mass or autoimmune hypophysitis",
+      "High serum sodium with inappropriately low urine osmolality",
+      "Posterior pituitary fails to release ADH",
+      "Urine concentrates after exogenous ADH administration",
+      "DDAVP increases urine osmolality on water deprivation test",
+      "Treat with desmopressin nasal spray"
+    ]
+  },
+  {
+    "id": "19-3",
+    "title": "Nephrogenic Diabetes Insipidus",
+    "brick_id": "19",
+    "brick_title": "Hypernatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "Polyuria unresponsive to thirst correction",
+      "Bipolar patient on long-term mood stabilizer",
+      "Hypercalcemia or chronic hypokalemia background",
+      "Kidneys fail to respond to circulating ADH",
+      "No rise in urine osmolality after DDAVP",
+      "Aquaporin-2 not inserted in collecting duct",
+      "Lithium toxicity or V2-receptor antagonist tolvaptan",
+      "Treat with thiazide or amiloride plus low-salt diet"
+    ]
+  },
+  {
+    "id": "19-4",
+    "title": "Osmotic Diuresis",
+    "brick_id": "19",
+    "brick_title": "Hypernatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "Polyuria with high serum sodium and high urine output",
+      "Uncontrolled diabetic with severe hyperglycemia",
+      "Patient receiving treatment for cerebral edema",
+      "Unexpected solute drags water into the urine",
+      "High urine osmolality but with non-electrolyte osmole",
+      "Glucosuria pulls free water and electrolytes along",
+      "Mannitol infusion produces obligate water loss",
+      "Urine electrolyte concentration lower than serum"
+    ]
+  },
+  {
+    "id": "19-5",
+    "title": "Sodium Overload Hypernatremia",
+    "brick_id": "19",
+    "brick_title": "Hypernatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "Hypernatremia without free water deficit",
+      "Iatrogenic cause during inpatient resuscitation",
+      "Hypervolemia rather than dehydration on exam",
+      "Sodium intake exceeds water intake",
+      "Large hypertonic saline bolus administration",
+      "Post-code patient given concentrated sodium bicarbonate",
+      "1000 mEq/L sodium push during cardiac arrest",
+      "True salt excess, not a water problem"
+    ]
+  }
+]

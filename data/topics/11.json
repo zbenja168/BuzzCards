@@ -1,0 +1,110 @@
+[
+  {
+    "id": "11-1",
+    "title": "Na+/K+-ATPase",
+    "brick_id": "11",
+    "brick_title": "Potassium Homeostasis",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "ATP-dependent membrane ion pump",
+      "Maintains negative resting membrane potential",
+      "Moves cations against concentration gradients",
+      "Keeps 98% of potassium intracellular",
+      "Three out, two in stoichiometry",
+      "Stimulated by insulin and beta-2 agonists",
+      "Sets the 3.5-5.0 mEq/L serum window",
+      "Exchanges 3 Na+ out for 2 K+ in"
+    ]
+  },
+  {
+    "id": "11-2",
+    "title": "Insulin and Beta-2 Agonist K+ Shifts",
+    "brick_id": "11",
+    "brick_title": "Potassium Homeostasis",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Hormonal drivers of transcellular cation shift",
+      "Lower serum levels without changing total body stores",
+      "Deficiency causes pseudo-hyperkalemia in DKA",
+      "Used acutely to treat dangerous hyperkalemia",
+      "Stimulate the sodium-potassium pump",
+      "Albuterol nebulizer lowers serum K+",
+      "Insulin plus dextrose drip therapy",
+      "Beta-2 receptor activation shifts K+ intracellularly"
+    ]
+  },
+  {
+    "id": "11-3",
+    "title": "Acid-Base Effects on Potassium",
+    "brick_id": "11",
+    "brick_title": "Potassium Homeostasis",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "pH disturbance alters serum cation",
+      "Transcellular exchange to preserve electroneutrality",
+      "Also modulates distal nephron channel permeability",
+      "Lactic acidosis worsens elevated serum levels",
+      "Vomiting-induced contraction state lowers it",
+      "Luminal H+ secretion inhibits tubular K+ secretion",
+      "Acidemia drives K+ out as H+ enters cells",
+      "Alkalemia causes hypokalemia; acidemia causes hyperkalemia"
+    ]
+  },
+  {
+    "id": "11-4",
+    "title": "Proximal and TAL K+ Reabsorption",
+    "brick_id": "11",
+    "brick_title": "Potassium Homeostasis",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Bulk recovery of filtered cation",
+      "Unregulated, follows sodium and water",
+      "Filtered load far exceeds dietary intake",
+      "Paracellular movement driven by solvent drag",
+      "About 90% reabsorbed before distal nephron",
+      "Loop segment uses NKCC2 cotransporter",
+      "70% reclaimed in proximal convoluted tubule",
+      "Apical K+ recycling supports loop NKCC2 function"
+    ]
+  },
+  {
+    "id": "11-5",
+    "title": "ROMK and Aldosterone-Driven Principal Cell Secretion",
+    "brick_id": "11",
+    "brick_title": "Potassium Homeostasis",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Hormonally regulated distal cation excretion",
+      "Final arbiter of long-term balance",
+      "Hyperkalemia directly stimulates adrenal release",
+      "Upregulates ENaC and basolateral pump together",
+      "Lumen-negative voltage favors apical efflux",
+      "Blocked by ACE inhibitors, ARBs, spironolactone",
+      "Renal outer medullary K+ channel in cortical collecting duct",
+      "Aldosterone-driven ROMK secretion in principal cells"
+    ]
+  },
+  {
+    "id": "11-6",
+    "title": "BK (Maxi-K) Flow-Dependent K+ Channels",
+    "brick_id": "11",
+    "brick_title": "Potassium Homeostasis",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Flow-activated luminal cation channel",
+      "Recruited during high tubular delivery states",
+      "Explains kaliuresis with loop and thiazide diuretics",
+      "Activated by mechanical cell stretch",
+      "Large-conductance distal nephron channel",
+      "Complements ROMK during high intake",
+      "Furosemide-induced hypokalemia partly via this channel",
+      "BK/Maxi-K channel driven by tubular flow rate"
+    ]
+  }
+]

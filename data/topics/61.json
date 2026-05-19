@@ -1,0 +1,92 @@
+[
+  {
+    "id": "61-1",
+    "title": "Clear Cell Renal Cell Carcinoma",
+    "brick_id": "61",
+    "brick_title": "Renal Cell Carcinoma",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "Most common adult renal malignancy subtype",
+      "Arises from proximal tubular epithelium",
+      "Solitary unilateral upper pole mass",
+      "Golden-yellow cut surface with hemorrhage",
+      "Lipid and glycogen-laden cytoplasm",
+      "Nests of clear cells with delicate vasculature",
+      "Loss of chromosome 3p short arm",
+      "VHL gene inactivation driving HIF-1 and VEGF"
+    ]
+  },
+  {
+    "id": "61-2",
+    "title": "Papillary Renal Cell Carcinoma",
+    "brick_id": "61",
+    "brick_title": "Renal Cell Carcinoma",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "Second most common renal cell carcinoma type",
+      "Arises from distal convoluted tubule",
+      "Multifocal and frequently bilateral tumors",
+      "Hemorrhagic and cystic gross appearance",
+      "Fingerlike projections into cystic spaces",
+      "Foamy macrophages within fibrovascular cores",
+      "Psammoma bodies on histology",
+      "MET proto-oncogene mutations"
+    ]
+  },
+  {
+    "id": "61-3",
+    "title": "Chromophobe Renal Cell Carcinoma",
+    "brick_id": "61",
+    "brick_title": "Renal Cell Carcinoma",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "Least common of three major RCC subtypes",
+      "Low grade with favorable prognosis",
+      "Arises from collecting duct intercalated cells",
+      "Small well-circumscribed tan-brown tumor",
+      "Sheets of pale eosinophilic cells",
+      "Largest cells clustered around vessels",
+      "Perinuclear halos on microscopy",
+      "Hypoploidy with multiple chromosome losses"
+    ]
+  },
+  {
+    "id": "61-4",
+    "title": "Paraneoplastic Syndromes of RCC",
+    "brick_id": "61",
+    "brick_title": "Renal Cell Carcinoma",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "Constitutional symptoms preceding tumor diagnosis",
+      "Anemia of chronic disease in most patients",
+      "Unexplained fever and weight loss",
+      "Cytokine-mediated hepatic dysfunction",
+      "Secondary amyloid deposition",
+      "Polycythemia from ectopic erythropoietin",
+      "Hypercalcemia from PTHrP secretion",
+      "Calcium normalizes after tumor resection"
+    ]
+  },
+  {
+    "id": "61-5",
+    "title": "Von Hippel-Lindau Disease",
+    "brick_id": "61",
+    "brick_title": "Renal Cell Carcinoma",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "Autosomal dominant familial tumor syndrome",
+      "Bilateral and multifocal renal tumors at young age",
+      "CNS and retinal vascular tumors",
+      "Adrenal catecholamine-secreting tumor",
+      "Tumor suppressor on chromosome 3p",
+      "Defective ubiquitin ligase fails to degrade HIF-1",
+      "Unopposed VEGF drives angiogenesis",
+      "Hemangioblastomas, retinal angiomas, pheochromocytomas, clear cell RCC"
+    ]
+  }
+]

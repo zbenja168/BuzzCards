@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1-1",
+    "title": "Kidney Gross Anatomy",
+    "brick_id": "1",
+    "brick_title": "Anatomy of the Urinary System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Paired retroperitoneal bean-shaped filtering organs",
+      "Receives roughly a quarter of cardiac output",
+      "Sits behind peritoneum from T12 to L3",
+      "Right one sits lower because of liver",
+      "Cortex, medulla, pyramids drain to renal pelvis",
+      "Wrapped by capsule, perirenal fat, and Gerota fascia",
+      "Hilum transmits renal artery, vein, and ureter",
+      "Left renal vein crosses under the SMA (nutcracker)"
+    ]
+  },
+  {
+    "id": "1-2",
+    "title": "Ureter Anatomy",
+    "brick_id": "1",
+    "brick_title": "Anatomy of the Urinary System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Twenty-five centimeter retroperitoneal muscular tube",
+      "Smooth muscle peristalsis propels fluid downstream",
+      "Crosses anterior to psoas and common iliacs",
+      "Segmental blood supply from many adjacent arteries",
+      "Three narrowings predispose to stone impaction",
+      "Colicky flank-to-groin pain with hematuria",
+      "In females passes under the uterine artery",
+      "Narrows at UPJ, pelvic brim, and UVJ"
+    ]
+  },
+  {
+    "id": "1-3",
+    "title": "Urinary Bladder Anatomy",
+    "brick_id": "1",
+    "brick_title": "Anatomy of the Urinary System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Hollow muscular pelvic reservoir behind pubic symphysis",
+      "Has apex, body, fundus, and neck",
+      "Oblique entry of inflow tubes prevents reflux",
+      "Wall smooth muscle contracts to expel contents",
+      "Superior and inferior vesical arteries supply it",
+      "Sympathetics store, parasympathetics (S2-S4) void",
+      "Detrusor contraction empties via the internal urethral orifice",
+      "Trigone bounded by two ureteric orifices and urethra"
+    ]
+  },
+  {
+    "id": "1-4",
+    "title": "Urethra Anatomy",
+    "brick_id": "1",
+    "brick_title": "Anatomy of the Urinary System",
+    "week": 1,
+    "type": "anatomy",
+    "buzzwords": [
+      "Terminal conduit from bladder to outside",
+      "Two sphincters regulate outflow",
+      "Internal sphincter involuntary; external sphincter voluntary",
+      "Female version short, predisposes to UTIs",
+      "Male version about 18-20 cm, three segments",
+      "Membranous portion vulnerable to catheterization rupture",
+      "Prostatic, membranous, and spongy male divisions",
+      "Pudendal nerve controls external sphincter voluntarily"
+    ]
+  }
+]

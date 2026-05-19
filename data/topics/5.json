@@ -1,0 +1,146 @@
+[
+  {
+    "id": "5-1",
+    "title": "Size and Charge Selectivity of the Filtration Barrier",
+    "brick_id": "5",
+    "brick_title": "Glomerular Function",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Wall blocks big molecules from urine",
+      "Small neutral solutes pass freely",
+      "Negative wall charge repels anions",
+      "Cutoff around 70 kDa or 4 nm radius",
+      "Albumin restricted more than neutral equivalents",
+      "Heparan sulfate proteoglycans give negative charge",
+      "Slit diaphragm is most restrictive size component",
+      "Foot process effacement causes selective albuminuria"
+    ]
+  },
+  {
+    "id": "5-2",
+    "title": "Starling Forces and Net Filtration Pressure",
+    "brick_id": "5",
+    "brick_title": "Glomerular Function",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Pressures drive plasma across capillary wall",
+      "Hydrostatic in, oncotic out",
+      "Bowman space pressure opposes filtration",
+      "Hypoalbuminemia initially raises filtration rate",
+      "Obstruction raises P_BS and lowers GFR",
+      "Efferent constriction raises P_GC; afferent constriction lowers it",
+      "NFP = (P_GC - P_BS) - pi_GC",
+      "GFR = Kf x NFP"
+    ]
+  },
+  {
+    "id": "5-3",
+    "title": "Podocyte Injury Pattern",
+    "brick_id": "5",
+    "brick_title": "Glomerular Function",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Loss of size selectivity at outer barrier",
+      "Frothy urine and lower extremity edema",
+      "Hypoalbuminemia with peripheral swelling",
+      "Selective proteinuria, minimal hematuria",
+      "ACR often greater than 1000 mg/g",
+      "Nephrotic-range albuminuria",
+      "Minimal change, FSGS, membranous nephropathy",
+      "Foot process effacement on electron microscopy"
+    ]
+  },
+  {
+    "id": "5-4",
+    "title": "GBM Injury Pattern",
+    "brick_id": "5",
+    "brick_title": "Glomerular Function",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Middle barrier layer disrupted",
+      "Both size and charge selectivity impaired",
+      "Non-selective proteinuria plus hematuria",
+      "ACR roughly 300-1000 mg/g",
+      "Thinning, splitting, or altered composition",
+      "Thin basement membrane disease as mild form",
+      "Anti-GBM disease and ANCA vasculitis",
+      "Alport basket-weave pattern on EM"
+    ]
+  },
+  {
+    "id": "5-5",
+    "title": "Endothelial Injury Pattern",
+    "brick_id": "5",
+    "brick_title": "Glomerular Function",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Innermost barrier layer inflamed",
+      "Loss of capillary fenestrations",
+      "Hematuria more prominent than proteinuria",
+      "Mild-moderate proteinuria, ACR 30-300 mg/g",
+      "Microthrombi and fibrin deposition",
+      "Dysmorphic RBCs with RBC casts",
+      "IgA nephropathy and post-infectious GN",
+      "Active urinary sediment from vasculitis"
+    ]
+  },
+  {
+    "id": "5-6",
+    "title": "Mesangial Expansion Pattern",
+    "brick_id": "5",
+    "brick_title": "Glomerular Function",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Matrix accumulation around glomerular capillaries",
+      "Reduced capillary surface area",
+      "Falling Kf with declining GFR",
+      "Variable hematuria and proteinuria",
+      "Driven by advanced glycation end-products",
+      "Progression to glomerulosclerosis",
+      "Diabetic kidney disease classic cause",
+      "IgA nephropathy with mesangial deposits"
+    ]
+  },
+  {
+    "id": "5-7",
+    "title": "Mixed/Combined Glomerular Injury Pattern",
+    "brick_id": "5",
+    "brick_title": "Glomerular Function",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Multiple barrier components damaged at once",
+      "Heavy proteinuria with hematuria",
+      "Active sediment with cellular casts",
+      "ACR greater than 1000 mg/g",
+      "Edema, hypertension, accelerated GFR decline",
+      "RBC and granular casts together",
+      "Diffuse proliferative lupus nephritis",
+      "MPGN and advanced diabetic nephropathy"
+    ]
+  },
+  {
+    "id": "5-8",
+    "title": "Alport Syndrome (Type IV Collagen Nephropathy)",
+    "brick_id": "5",
+    "brick_title": "Glomerular Function",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Hereditary GBM collagen defect",
+      "Young male with persistent microscopic hematuria",
+      "Progression to proteinuria and hypertension",
+      "Sensorineural hearing loss accompanies kidney disease",
+      "Anterior lenticonus on eye exam",
+      "Perimacular retinal flecks",
+      "X-linked type IV collagen mutation",
+      "Basket-weave GBM splitting on EM"
+    ]
+  }
+]

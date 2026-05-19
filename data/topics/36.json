@@ -1,0 +1,164 @@
+[
+  {
+    "id": "36-1",
+    "title": "End-Stage Kidney Disease (ESKD)",
+    "brick_id": "36",
+    "brick_title": "End-Stage Kidney Disease and Kidney Replacement Therapy",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "advanced chronic kidney disease worsening",
+      "kidneys can no longer sustain life",
+      "refractory hyperkalemia and volume overload",
+      "uremic nausea, vomiting, poor appetite",
+      "needs dialysis or transplant to survive",
+      "nephrologist's clinical determination, not a number",
+      "eGFR typically around 10 mL/min/1.73m^2",
+      "end-stage kidney disease requiring kidney replacement therapy"
+    ]
+  },
+  {
+    "id": "36-2",
+    "title": "Kidney Transplantation",
+    "brick_id": "36",
+    "brick_title": "End-Stage Kidney Disease and Kidney Replacement Therapy",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "preferred kidney replacement therapy",
+      "best mortality and quality-of-life outcomes",
+      "graft placed in the recipient's pelvis",
+      "native kidneys usually left in place",
+      "renal artery anastomosed to common iliac artery",
+      "lifelong prednisone, tacrolimus, mycophenolate",
+      "increased CMV, EBV, polyomavirus infection risk",
+      "living or deceased donor kidney transplant"
+    ]
+  },
+  {
+    "id": "36-3",
+    "title": "Transplant Rejection",
+    "brick_id": "36",
+    "brick_title": "End-Stage Kidney Disease and Kidney Replacement Therapy",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "rising creatinine after kidney transplant",
+      "graft dysfunction despite immunosuppression",
+      "most common shortly after transplantation",
+      "nonadherence to immunosuppressants triggers it",
+      "can also occur years later",
+      "three-fold malignancy risk on chronic immunosuppression",
+      "recipient immune response against donor kidney",
+      "renal transplant rejection requiring biopsy"
+    ]
+  },
+  {
+    "id": "36-4",
+    "title": "Hemodialysis",
+    "brick_id": "36",
+    "brick_title": "End-Stage Kidney Disease and Kidney Replacement Therapy",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "blood cleaned outside the body",
+      "in-center three times weekly, 3-4 hours",
+      "countercurrent dialysate across semipermeable membrane",
+      "heparin given to prevent filter clotting",
+      "intradialytic hypotension from rapid fluid removal",
+      "urea, creatinine, potassium diffuse into dialysate",
+      "synthetic dialyzer membrane filters blood",
+      "diffusion-based hemodialysis with extracorporeal circuit"
+    ]
+  },
+  {
+    "id": "36-5",
+    "title": "Arteriovenous (AV) Fistula Access",
+    "brick_id": "36",
+    "brick_title": "End-Stage Kidney Disease and Kidney Replacement Therapy",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "long-term vascular access for dialysis",
+      "surgically created in nondominant arm",
+      "uses patient's own native vasculature",
+      "extremely low infection risk versus catheters",
+      "needs weeks to mature before use",
+      "thrombosis or stenosis is most common complication",
+      "high-output heart failure after years",
+      "surgical arteriovenous fistula for hemodialysis"
+    ]
+  },
+  {
+    "id": "36-6",
+    "title": "Peritoneal Dialysis",
+    "brick_id": "36",
+    "brick_title": "End-Stage Kidney Disease and Kidney Replacement Therapy",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "home-based kidney replacement therapy",
+      "automated overnight using a cycler",
+      "peritoneal capillaries serve as the membrane",
+      "dialysate dwells in abdominal cavity",
+      "cloudy effluent with abdominal pain and fever",
+      "complicated by hernias and pleural effusions",
+      "Staph epidermidis bacterial peritonitis is most serious",
+      "intraperitoneal antibiotics via tunneled abdominal catheter"
+    ]
+  },
+  {
+    "id": "36-7",
+    "title": "Continuous Renal Replacement Therapy (CRRT)",
+    "brick_id": "36",
+    "brick_title": "End-Stage Kidney Disease and Kidney Replacement Therapy",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "hospital-based dialysis for unstable patients",
+      "ICU setting with shock or hypotension",
+      "central venous catheter required for access",
+      "runs continuously over 24 hours",
+      "gradual fluid removal, minimal hemodynamic shifts",
+      "tolerated when intermittent hemodialysis is not",
+      "used in acute kidney injury with instability",
+      "continuous renal replacement therapy in critically ill"
+    ]
+  },
+  {
+    "id": "36-8",
+    "title": "Dialysis-Related Amyloidosis",
+    "brick_id": "36",
+    "brick_title": "End-Stage Kidney Disease and Kidney Replacement Therapy",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "chronic complication of long-term dialysis",
+      "bilateral shoulder pain in dialysis patient",
+      "median nerve entrapment at the wrist",
+      "cervical pain and periarticular cysts",
+      "amyloid deposition in synovium and joints",
+      "protein not cleared by dialysis membranes",
+      "carpal tunnel syndrome in hemodialysis patient",
+      "beta-2 microglobulin amyloid deposition"
+    ]
+  },
+  {
+    "id": "36-9",
+    "title": "AEIOU Indications for Acute Dialysis",
+    "brick_id": "36",
+    "brick_title": "End-Stage Kidney Disease and Kidney Replacement Therapy",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "emergent indications for starting dialysis",
+      "refractory metabolic acidosis with pH <7.1",
+      "hyperkalemia >6.5 unresponsive to medical therapy",
+      "fluid overload despite maximal diuresis",
+      "uremic pericarditis or encephalopathy",
+      "dialyzable toxins: lithium, aspirin, methanol",
+      "ethylene glycol poisoning needing clearance",
+      "AEIOU mnemonic for acute dialysis indications"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "46-1",
+    "title": "Postinfectious Glomerulonephritis",
+    "brick_id": "46",
+    "brick_title": "Postinfectious Glomerulonephritis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "child with periorbital and peripheral edema",
+      "nephritic syndrome weeks after extrarenal infection",
+      "gross hematuria with hypertension",
+      "tea-colored or cola-colored urine",
+      "dysmorphic RBCs and RBC casts on urinalysis",
+      "low serum C3 with normal C4",
+      "subepithelial dome-shaped humps on electron microscopy",
+      "starry sky granular IgG/C3 after group A strep"
+    ]
+  }
+]

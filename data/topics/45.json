@@ -1,0 +1,110 @@
+[
+  {
+    "id": "45-1",
+    "title": "Nephritic Syndrome Clinical Features",
+    "brick_id": "45",
+    "brick_title": "Nephritic Syndrome",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Tea-colored urine after recent illness",
+      "New hypertension with leg swelling",
+      "Mild proteinuria under two grams daily",
+      "Rising creatinine with falling filtration",
+      "Dysmorphic red cells on urine microscopy",
+      "Red blood cell casts in sediment",
+      "Inflammatory glomerular injury with hematuria",
+      "Hematuria, HTN, edema, azotemia pentad"
+    ]
+  },
+  {
+    "id": "45-2",
+    "title": "Glomerular Hypercellularity and Immune Complex Patterns",
+    "brick_id": "45",
+    "brick_title": "Nephritic Syndrome",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Inflamed glomerular tuft on biopsy",
+      "Proliferation of mesangial and endothelial cells",
+      "Neutrophils packing capillary loops",
+      "Granular IgG and C3 along GBM",
+      "Mesangial versus endocapillary proliferative patterns",
+      "Subepithelial humps and subendothelial deposits",
+      "Immune complexes trapped within glomerulus",
+      "Lumpy-bumpy immunofluorescence staining"
+    ]
+  },
+  {
+    "id": "45-3",
+    "title": "Rapidly Progressive Glomerulonephritis (Crescentic GN)",
+    "brick_id": "45",
+    "brick_title": "Nephritic Syndrome",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Renal failure developing over days to weeks",
+      "Oliguria with active urinary sediment",
+      "Doubling of creatinine in short interval",
+      "Hematuria plus rapidly falling GFR",
+      "Proliferating parietal epithelial cells in Bowman space",
+      "Macrophages and fibrin filling Bowman capsule",
+      "Crescent formation on light microscopy",
+      "Pulse steroids and cyclophosphamide indicated"
+    ]
+  },
+  {
+    "id": "45-4",
+    "title": "IgA Nephropathy",
+    "brick_id": "45",
+    "brick_title": "Nephritic Syndrome",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Young adult with episodic gross hematuria",
+      "Cola-colored urine during a cold",
+      "Synpharyngitic hematuria within days of URI",
+      "Normal complement levels on labs",
+      "Most common primary glomerulonephritis worldwide",
+      "Mesangial proliferation on light microscopy",
+      "Galactose-deficient IgA1 immune complexes",
+      "Mesangial IgA deposits on immunofluorescence"
+    ]
+  },
+  {
+    "id": "45-5",
+    "title": "Lupus Nephritis",
+    "brick_id": "45",
+    "brick_title": "Nephritic Syndrome",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Young woman with malar rash and arthritis",
+      "Hematuria plus nephrotic-range proteinuria",
+      "Both nephritic and nephrotic features together",
+      "Low C3 and low C4 levels",
+      "Positive ANA with anti-dsDNA antibodies",
+      "Anti-Smith antibody positivity",
+      "Wire-loop capillary lesions on biopsy",
+      "Full-house immunofluorescence staining pattern"
+    ]
+  },
+  {
+    "id": "45-6",
+    "title": "ANCA-Associated Vasculitis GN (Pauci-Immune)",
+    "brick_id": "45",
+    "brick_title": "Nephritic Syndrome",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Sinusitis and hemoptysis with hematuria",
+      "Pulmonary-renal syndrome with normal complement",
+      "Small-vessel inflammation damaging glomerular capillaries",
+      "Necrotizing glomerular lesions with few deposits",
+      "Pauci-immune pattern on immunofluorescence",
+      "Crescents without immune complex deposition",
+      "c-ANCA positive granulomatosis with polyangiitis",
+      "p-ANCA with eosinophilia in EGPA"
+    ]
+  }
+]

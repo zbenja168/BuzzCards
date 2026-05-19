@@ -1,0 +1,110 @@
+[
+  {
+    "id": "35-1",
+    "title": "CKD Definition and Staging (eGFR + Albuminuria)",
+    "brick_id": "35",
+    "brick_title": "Chronic Kidney Disease",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "Decreased kidney function or damage",
+      "Persistent for at least 3 months",
+      "Risk-stratified by two parallel axes",
+      "Filtration rate combined with protein leak",
+      "Diabetes and hypertension drive the disease",
+      "ACR > 30 mg/g signals damage",
+      "G1 through G5, A1 through A3",
+      "eGFR < 60 mL/min/1.73 m^2"
+    ]
+  },
+  {
+    "id": "35-2",
+    "title": "Anemia of CKD",
+    "brick_id": "35",
+    "brick_title": "Chronic Kidney Disease",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "Fatigue and pallor in advanced kidney disease",
+      "Normocytic, normochromic at baseline",
+      "Iron deficiency common in early stages",
+      "Shortened RBC survival from inflammation",
+      "Worsens as GFR falls below 30",
+      "Treated with recombinant hormone injections",
+      "Hypertension and VTE are therapy complications",
+      "Reduced EPO from peritubular fibroblasts"
+    ]
+  },
+  {
+    "id": "35-3",
+    "title": "CKD-Mineral and Bone Disorder (Renal Osteodystrophy)",
+    "brick_id": "35",
+    "brick_title": "Chronic Kidney Disease",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "Bone pain and fractures in dialysis patients",
+      "Phosphate retention starts the cascade",
+      "Low 1,25-(OH)2 vitamin D",
+      "Hypocalcemia drives secondary hyperparathyroidism",
+      "Treated with vitamin D and phosphate binders",
+      "FGF-23 elevated from osteocytes",
+      "Reduced renal 1-alpha hydroxylase activity",
+      "Renal osteodystrophy from sustained PTH excess"
+    ]
+  },
+  {
+    "id": "35-4",
+    "title": "Hyperkalemia and Metabolic Acidosis of CKD",
+    "brick_id": "35",
+    "brick_title": "Chronic Kidney Disease",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "Peaked T waves on routine ECG",
+      "Worsened by ACE inhibitors and ARBs",
+      "MRAs and diabetes raise the risk",
+      "Low bicarbonate with normal anion gap early",
+      "Decreased ammoniogenesis impairs acid handling",
+      "Acid retention as nephron mass falls",
+      "Resistant elevation is a dialysis indication",
+      "High anion gap acidosis in advanced CKD"
+    ]
+  },
+  {
+    "id": "35-5",
+    "title": "Uremia / Uremic Syndrome",
+    "brick_id": "35",
+    "brick_title": "Chronic Kidney Disease",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "Fatigue, poor appetite, and weakness",
+      "Pruritus without an obvious rash",
+      "Nausea and vomiting in advanced disease",
+      "Asterixis and confusion at end-stage",
+      "Pericarditis and pleuritis as classic triggers",
+      "Sensory neuropathy prompting urgent dialysis",
+      "Symptoms appear when eGFR < 10–15",
+      "Buildup of nitrogenous waste products"
+    ]
+  },
+  {
+    "id": "35-6",
+    "title": "Cardiovascular Complications of CKD",
+    "brick_id": "35",
+    "brick_title": "Chronic Kidney Disease",
+    "week": 2,
+    "type": "disease",
+    "buzzwords": [
+      "Leading cause of death in this population",
+      "Accelerated atherosclerosis from uremic milieu",
+      "Hypertension worsens ischemic heart disease",
+      "Heart failure common at advanced stages",
+      "Low-fat diet and lipid-lowering therapy",
+      "Statins reduce mortality in this group",
+      "Considered a coronary artery disease equivalent",
+      "Cardiovascular death exceeds progression to ESKD"
+    ]
+  }
+]

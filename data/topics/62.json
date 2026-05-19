@@ -1,0 +1,38 @@
+[
+  {
+    "id": "62-1",
+    "title": "Renal Oncocytoma",
+    "brick_id": "62",
+    "brick_title": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "benign renal tumor, often incidental",
+      "older adult man, age 50-80",
+      "mimics renal cell carcinoma on imaging",
+      "well-circumscribed, not encapsulated",
+      "arises from collecting-duct intercalated cells",
+      "large eosinophilic cells packed with mitochondria",
+      "central stellate scar on CT",
+      "mahogany-brown tumor on gross pathology"
+    ]
+  },
+  {
+    "id": "62-2",
+    "title": "Renal Angiomyolipoma",
+    "brick_id": "62",
+    "brick_title": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)",
+    "week": 4,
+    "type": "disease",
+    "buzzwords": [
+      "benign kidney tumor, female predominance",
+      "risk of life-threatening retroperitoneal hemorrhage",
+      "fat-containing renal mass on CT",
+      "arises from perivascular epithelioid cells",
+      "vessels, smooth muscle, and adipose tissue",
+      "associated with TSC1/TSC2 mutations",
+      "linked to tuberous sclerosis complex",
+      "treated with mTOR inhibitors (sirolimus/everolimus)"
+    ]
+  }
+]

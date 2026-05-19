@@ -1,0 +1,92 @@
+[
+  {
+    "id": "27-1",
+    "title": "Proximal Tubule Bicarbonate Reabsorption",
+    "brick_id": "27",
+    "brick_title": "Mechanisms of Acid-Base Transport",
+    "week": 2,
+    "type": "physiology",
+    "buzzwords": [
+      "reclaims most filtered base, no net acid change",
+      "CO2 shuttle across the apical membrane",
+      "sodium-coupled antiporter pumps H+ into lumen",
+      "basolateral cotransporter exports reclaimed anion",
+      "handles 70-80% of the daily filtered load",
+      "stimulated by angiotensin II and volume depletion",
+      "NHE3 apical, NBCe1 basolateral",
+      "blocked by acetazolamide via carbonic anhydrase inhibition"
+    ]
+  },
+  {
+    "id": "27-2",
+    "title": "Alpha-Intercalated Cell H+ Secretion",
+    "brick_id": "27",
+    "brick_title": "Mechanisms of Acid-Base Transport",
+    "week": 2,
+    "type": "physiology",
+    "buzzwords": [
+      "distal segment sets the final urine pH",
+      "secretes acid and regenerates new base",
+      "limited by ~1000-fold gradient, urine floor 4.6",
+      "upregulated by systemic acidosis",
+      "potassium-sparing exchanger contributes to secretion",
+      "stimulated by aldosterone in collecting duct",
+      "H+-ATPase and H+/K+-ATPase on apical membrane",
+      "hyperaldosteronism triad: HTN, hypokalemia, alkalosis"
+    ]
+  },
+  {
+    "id": "27-3",
+    "title": "Beta-Intercalated Cell Bicarbonate Secretion",
+    "brick_id": "27",
+    "brick_title": "Mechanisms of Acid-Base Transport",
+    "week": 2,
+    "type": "physiology",
+    "buzzwords": [
+      "alkalinizes urine up to pH 8.0",
+      "activated during systemic alkalemia",
+      "mirror image of its acid-secreting sibling",
+      "exchanges luminal chloride for intracellular base",
+      "helps offload excess filtered HCO3- load",
+      "collecting duct cell type, not proximal",
+      "apical Cl-/HCO3- exchanger",
+      "pendrin-mediated bicarbonate secretion"
+    ]
+  },
+  {
+    "id": "27-4",
+    "title": "Titratable Acid Buffering (Phosphate)",
+    "brick_id": "27",
+    "brick_title": "Mechanisms of Acid-Base Transport",
+    "week": 2,
+    "type": "physiology",
+    "buzzwords": [
+      "filtered weak acids sponge secreted H+",
+      "covers about half of daily acid excretion",
+      "not specifically regulated, depends on filtration",
+      "lost capacity contributes to acidosis of CKD",
+      "includes citrate and sulfate as minor players",
+      "cannot ramp up during acid load",
+      "H2PO4-/HPO4(2-) buffer system in tubule",
+      "phosphate is the dominant filtered buffer (~50%)"
+    ]
+  },
+  {
+    "id": "27-5",
+    "title": "Ammoniagenesis and NH4+ Trapping",
+    "brick_id": "27",
+    "brick_title": "Mechanisms of Acid-Base Transport",
+    "week": 2,
+    "type": "physiology",
+    "buzzwords": [
+      "the kidney's most adjustable acid-excretion route",
+      "can ramp ~5-fold during systemic acidosis",
+      "generates one new base molecule per cycle",
+      "suppressed by hyperkalemia, enhanced by hypokalemia",
+      "lets urine excrete acid beyond the pH 4.6 floor",
+      "impaired ammoniagenesis drives NAGMA of CKD",
+      "glutamine metabolism in PCT yields NH4+ and HCO3-",
+      "type 4 RTA: low aldosterone blocks NH4+ production"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "42-1",
+    "title": "Primary (Idiopathic) FSGS",
+    "brick_id": "42",
+    "brick_title": "Focal Segmental Glomerulosclerosis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Adult with new-onset generalized edema",
+      "Foamy urine, hypertension, hypoalbuminemia",
+      "Nephrotic syndrome with no obvious cause",
+      "Normal complement, negative serologies",
+      "Leading nondiabetic nephrotic syndrome in US",
+      "Surpassed membranous as top biopsy diagnosis",
+      "Steroid-treated idiopathic podocytopathy",
+      "Focal segmental sclerosis with podocyte effacement"
+    ]
+  },
+  {
+    "id": "42-2",
+    "title": "APOL1-Associated FSGS",
+    "brick_id": "42",
+    "brick_title": "Focal Segmental Glomerulosclerosis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Young Black patient with nephrotic syndrome",
+      "Steroid-resistant proteinuria, rapid CKD progression",
+      "3-7x higher incidence than white population",
+      "Aggressive course despite immunosuppression",
+      "Trypanosoma brucei protective genetic variant",
+      "Sleeping-sickness resistance gene allele",
+      "West African ancestry, 17-fold FSGS risk",
+      "APOL1 G1/G2 high-risk genotype"
+    ]
+  },
+  {
+    "id": "42-3",
+    "title": "Secondary (Adaptive/Compensatory) FSGS",
+    "brick_id": "42",
+    "brick_title": "Focal Segmental Glomerulosclerosis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Sub-nephrotic proteinuria, preserved albumin",
+      "Slowly progressive proteinuria without edema",
+      "Glomerular hyperfiltration from increased demand",
+      "BMI > 40 with foamy urine",
+      "Solitary kidney after partial nephrectomy",
+      "Vesicoureteral reflux with cortical scarring",
+      "Heroin, pamidronate, or interferon exposure",
+      "Reduced nephron mass driving podocyte stress"
+    ]
+  },
+  {
+    "id": "42-4",
+    "title": "HIV-Associated Nephropathy (Collapsing FSGS)",
+    "brick_id": "42",
+    "brick_title": "Focal Segmental Glomerulosclerosis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Black patient with rapidly progressive renal failure",
+      "Massive proteinuria with normal-sized kidneys on US",
+      "Untreated retroviral infection, low CD4 count",
+      "Nephrotic syndrome plus AKI trajectory",
+      "Tubuloreticular inclusions on electron microscopy",
+      "Microcystic tubular dilation on biopsy",
+      "Collapsing glomerular tuft with podocyte hyperplasia",
+      "HIVAN responding to antiretroviral therapy"
+    ]
+  },
+  {
+    "id": "42-5",
+    "title": "Hereditary FSGS (Nephrin/NPHS1)",
+    "brick_id": "42",
+    "brick_title": "Focal Segmental Glomerulosclerosis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Infant with massive edema at birth",
+      "Familial nephrotic syndrome, steroid-unresponsive",
+      "Large placenta and prematurity",
+      "Congenital proteinuria refractory to immunosuppression",
+      "Slit diaphragm protein mutation",
+      "Finnish-type congenital nephrotic syndrome",
+      "Chromosome 19 podocyte gene defect",
+      "NPHS1 nephrin loss-of-function mutation"
+    ]
+  }
+]

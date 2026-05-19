@@ -1,0 +1,128 @@
+[
+  {
+    "id": "18-1",
+    "title": "Hypovolemic Hyponatremia",
+    "brick_id": "18",
+    "brick_title": "Hyponatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "low serum sodium with volume depletion",
+      "orthostatic hypotension and poor skin turgor",
+      "history of vomiting, diarrhea, or sweating",
+      "low effective circulating volume triggers ADH",
+      "urine sodium <25 mEq/L with high urine osmolality",
+      "RAAS activation drives water retention",
+      "treat with isotonic saline to restore volume",
+      "loop diuretic or thiazide-induced GI losses"
+    ]
+  },
+  {
+    "id": "18-2",
+    "title": "Hypervolemic Hyponatremia",
+    "brick_id": "18",
+    "brick_title": "Hyponatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "edematous patient with low serum sodium",
+      "peripheral edema and jugular venous distention",
+      "ascites with proteinuria or heart failure",
+      "increased total body sodium and proportionally more water",
+      "low effective circulating volume despite total overload",
+      "urine sodium <25 mEq/L from RAAS activation",
+      "seen in CHF, cirrhosis, nephrotic syndrome",
+      "treat underlying cause plus loop diuretics"
+    ]
+  },
+  {
+    "id": "18-3",
+    "title": "SIADH (Euvolemic Hyponatremia)",
+    "brick_id": "18",
+    "brick_title": "Hyponatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "euvolemic patient with low serum sodium",
+      "low BUN and low serum uric acid",
+      "inappropriately concentrated urine despite dilute serum",
+      "urine osmolality >100 mOsm/kg with hypotonic plasma",
+      "urine sodium >40 mEq/L while euvolemic",
+      "SSRIs, carbamazepine, MDMA, or cyclophosphamide",
+      "treat with water restriction and vaptans",
+      "small cell lung cancer with ectopic ADH"
+    ]
+  },
+  {
+    "id": "18-4",
+    "title": "Primary (Psychogenic) Polydipsia",
+    "brick_id": "18",
+    "brick_title": "Hyponatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "euvolemic hyponatremia from excess water intake",
+      "compulsive drinking in a psychiatric patient",
+      "intake exceeds kidneys' free-water excretion capacity",
+      "marathon runner drinking only pure water on cool day",
+      "appropriately dilute urine with low urine sodium",
+      "urine osmolality low, distinguishing from SIADH",
+      "schizophrenia patient with chronic water drinking",
+      "treat with strict fluid restriction"
+    ]
+  },
+  {
+    "id": "18-5",
+    "title": "Pseudohyponatremia (Isotonic Hyponatremia)",
+    "brick_id": "18",
+    "brick_title": "Hyponatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "low measured sodium with normal serum osmolality",
+      "lab artifact, not a true sodium deficit",
+      "expanded non-aqueous plasma phase",
+      "severe hyperlipidemia or hypertriglyceridemia",
+      "hyperproteinemia from monoclonal gammopathy",
+      "multiple myeloma with paraprotein elevation",
+      "no treatment needed beyond fixing underlying cause",
+      "flame photometry artifact from lipids/proteins"
+    ]
+  },
+  {
+    "id": "18-6",
+    "title": "Hypertonic Hyponatremia",
+    "brick_id": "18",
+    "brick_title": "Hyponatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "low serum sodium with high serum osmolality",
+      "osmotic shift of water out of cells",
+      "another solute is driving plasma tonicity",
+      "sodium drops ~1.6 mEq/L per 100 mg/dL glucose",
+      "neurosurgical patient on mannitol infusion",
+      "diabetic ketoacidosis with severe hyperglycemia",
+      "hyperosmolar hyperglycemic state in type 2 diabetic",
+      "treat by lowering glucose with insulin"
+    ]
+  },
+  {
+    "id": "18-7",
+    "title": "Osmotic Demyelination Syndrome",
+    "brick_id": "18",
+    "brick_title": "Hyponatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "neurologic complication of overzealous correction",
+      "delayed dysarthria, dysphagia, and quadriparesis",
+      "locked-in syndrome days after sodium correction",
+      "iatrogenic demyelination from rapid osmolar shift",
+      "sodium raised more than 8-10 mEq/L in 24 hours",
+      "chronic hyponatremia corrected too quickly",
+      "central pontine myelinolysis on MRI",
+      "prevent by limiting rise to 4-6 mEq/L per day"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "54-1",
+    "title": "Calcium Oxalate Stones",
+    "brick_id": "54",
+    "brick_title": "Renal Stones",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Most common kidney stone type",
+      "Low urinary citrate inhibitor",
+      "Crohn disease or bariatric surgery",
+      "High urine calcium and oxalate",
+      "Bound fat frees gut oxalate",
+      "Hyperparathyroidism mobilizes bone calcium",
+      "Thiazides and citrate for prevention",
+      "Envelope or dumbbell urine crystals"
+    ]
+  },
+  {
+    "id": "54-2",
+    "title": "Calcium Phosphate Stones",
+    "brick_id": "54",
+    "brick_title": "Renal Stones",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Precipitate in alkaline urine",
+      "Hypercalciuria with hypocitraturia",
+      "Distal tubule cannot acidify urine",
+      "Hypokalemia and non-anion-gap acidosis",
+      "Type 1 renal tubular acidosis",
+      "Topiramate or acetazolamide trigger",
+      "Wedge-shaped urinary crystals",
+      "Coffin-lid crystal variant"
+    ]
+  },
+  {
+    "id": "54-3",
+    "title": "Struvite Stones",
+    "brick_id": "54",
+    "brick_title": "Renal Stones",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Recurrent upper urinary tract infections",
+      "Alkaline urine pH",
+      "Magnesium ammonium phosphate composition",
+      "Urease-positive bacteria split urea",
+      "Proteus, Klebsiella, Ureaplasma organisms",
+      "Large branching renal pelvis cast",
+      "Staghorn calculus on imaging",
+      "Coffin-lid shaped crystals"
+    ]
+  },
+  {
+    "id": "54-4",
+    "title": "Uric Acid Stones",
+    "brick_id": "54",
+    "brick_title": "Renal Stones",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Persistently acidic urine, pH under 5.5",
+      "Red meat and high purine diet",
+      "History of gout or podagra",
+      "Post-chemotherapy tumor lysis syndrome",
+      "Invisible on plain abdominal x-ray",
+      "Radiolucent stone seen only on CT",
+      "Rhomboid or rosette crystals",
+      "Allopurinol and urinary alkalinization for prevention"
+    ]
+  },
+  {
+    "id": "54-5",
+    "title": "Cystine Stones",
+    "brick_id": "54",
+    "brick_title": "Renal Stones",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Recurrent stones beginning in childhood",
+      "Autosomal recessive inheritance",
+      "Defective proximal tubular reabsorption",
+      "Cystine, ornithine, lysine, arginine wasting",
+      "COLA transporter defect",
+      "Cystinuria",
+      "Hexagonal urinary crystals",
+      "Tiopronin or penicillamine therapy"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "8-1",
+    "title": "Myogenic Response",
+    "brick_id": "8",
+    "brick_title": "Regulation of Renal Blood Flow",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Intrinsic autoregulation independent of nerves and hormones",
+      "Rises in pressure trigger reflex vessel constriction",
+      "Engages within seconds of pressure change",
+      "Vessel wall tension drives the feedback",
+      "Buffers transient swings from posture or activity",
+      "Operates across MAP roughly 80 to 180",
+      "Stretch opens calcium channels in smooth muscle",
+      "Afferent arteriole constricts when wall is stretched"
+    ]
+  },
+  {
+    "id": "8-2",
+    "title": "Tubuloglomerular Feedback",
+    "brick_id": "8",
+    "brick_title": "Regulation of Renal Blood Flow",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Tubular signal feeds back onto upstream arteriole",
+      "Engages over 10 to 15 seconds",
+      "Matches filtered load to reabsorptive capacity",
+      "High tubular flow shortens reabsorption time",
+      "Specialized thick ascending limb cells sense salt",
+      "High distal salt triggers afferent constriction",
+      "Macula densa senses tubular NaCl concentration",
+      "Adenosine and ATP release constrict afferent arteriole"
+    ]
+  },
+  {
+    "id": "8-3",
+    "title": "Sympathetic Regulation of Renal Vasculature",
+    "brick_id": "8",
+    "brick_title": "Regulation of Renal Blood Flow",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Extrinsic neural control overrides autoregulation during stress",
+      "Dominant in hemorrhage and hypovolemic shock",
+      "Norepinephrine from dense postganglionic innervation",
+      "Can reduce renal blood flow by 30 to 50 percent",
+      "Increases tubular sodium reabsorption alongside constriction",
+      "Also triggers renin release from juxtaglomerular cells",
+      "Alpha-1 receptors on afferent and efferent arterioles",
+      "Predominantly afferent constriction lowering both RBF and GFR"
+    ]
+  },
+  {
+    "id": "8-4",
+    "title": "Angiotensin II (RAAS) and Renal Hemodynamics",
+    "brick_id": "8",
+    "brick_title": "Regulation of Renal Blood Flow",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Circulating hormonal vasoconstrictor of renal arterioles",
+      "Activated by hypotension and low distal sodium",
+      "Preserves filtration despite falling renal blood flow",
+      "Raises glomerular hydrostatic pressure selectively",
+      "Maintains GFR while RBF drops, raising filtration fraction",
+      "Acts through AT1 receptors on arteriolar smooth muscle",
+      "Renin from juxtaglomerular cells initiates the cascade",
+      "Preferential efferent arteriolar constriction"
+    ]
+  },
+  {
+    "id": "8-5",
+    "title": "Renal Prostaglandins",
+    "brick_id": "8",
+    "brick_title": "Regulation of Renal Blood Flow",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Locally produced vasodilator paracrine mediator",
+      "Especially important when perfusion is low",
+      "Counterbalances sympathetic and angiotensin II constriction",
+      "Protects GFR in heart failure, cirrhosis, volume depletion",
+      "Cyclooxygenase-derived arachidonic acid products",
+      "PGE2 and PGI2 dilate afferent arteriole",
+      "Inhibition by NSAIDs precipitates acute kidney injury",
+      "Afferent dilation preserves flow during hypoperfusion"
+    ]
+  }
+]

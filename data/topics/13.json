@@ -1,0 +1,74 @@
+[
+  {
+    "id": "13-1",
+    "title": "Hydrochlorothiazide (HCTZ)",
+    "brick_id": "13",
+    "brick_title": "Thiazide Diuretics",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "Cheap first-line oral antihypertensive",
+      "Blocks Na+/Cl- symporter in distal tubule",
+      "Causes hypokalemia, hyponatremia, hyperuricemia",
+      "Raises serum calcium, lowers urinary calcium",
+      "Avoid in sulfa allergy or gout",
+      "Prevents calcium-containing kidney stones",
+      "Paradoxically treats nephrogenic diabetes insipidus",
+      "Most commonly prescribed thiazide, abbreviated HCTZ"
+    ]
+  },
+  {
+    "id": "13-2",
+    "title": "Chlorthalidone",
+    "brick_id": "13",
+    "brick_title": "Thiazide Diuretics",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "Thiazide-type diuretic for hypertension",
+      "Inhibits distal convoluted tubule Na+/Cl- symporter",
+      "Longer half-life than HCTZ",
+      "Used to prevent calcium kidney stones",
+      "Causes hypokalemia and metabolic alkalosis",
+      "Sulfonamide drug, contraindicated in sulfa allergy",
+      "More potent BP reduction per milligram than HCTZ",
+      "Phthalimidine-derived long-acting thiazide-like diuretic"
+    ]
+  },
+  {
+    "id": "13-3",
+    "title": "Indapamide",
+    "brick_id": "13",
+    "brick_title": "Thiazide Diuretics",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "Thiazide-like antihypertensive diuretic",
+      "Acts at distal convoluted tubule Na+/Cl- symporter",
+      "Prominent vasodilatory effect beyond diuresis",
+      "Less metabolic disturbance at antihypertensive doses",
+      "Lipophilic indoline-derivative diuretic",
+      "Used in HYVET trial for elderly hypertension",
+      "Causes hypokalemia, hyperuricemia, hyperglycemia",
+      "Non-benzothiadiazine thiazide-like agent"
+    ]
+  },
+  {
+    "id": "13-4",
+    "title": "Metolazone",
+    "brick_id": "13",
+    "brick_title": "Thiazide Diuretics",
+    "week": 1,
+    "type": "drug",
+    "buzzwords": [
+      "Thiazide-like diuretic blocking DCT Na+/Cl- symporter",
+      "Added to loop diuretic for refractory edema",
+      "Used in diuretic-resistant heart failure",
+      "Effective even at low GFR",
+      "Given before loop diuretic for synergy",
+      "Causes profound hypokalemia and volume depletion",
+      "Sequential nephron blockade with furosemide",
+      "Quinazoline-derived long-acting thiazide-like agent"
+    ]
+  }
+]
