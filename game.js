@@ -139,27 +139,38 @@ const sfx = {
     o.start(t0);
     o.stop(t0 + attack + hold + release + 0.02);
   },
-  _noise(duration, filterType, filterFreq, filterQ, gain = 0.25) {
+  // Soft noise burst with a smooth quadratic decay + optional filter sweep, used by
+  // card-flip/click/shuffle. Lower-pitched and quieter than a raw highpass hiss.
+  _swoosh({ dur = 0.12, filter = 'lowpass', f0 = 2200, f1 = 500, q = 0.7, gain = 0.09, fadeIn = 0.01 }) {
     if (this.muted || !this.ensure()) return;
     const t0 = this.ctx.currentTime;
-    const buf = this.ctx.createBuffer(1, Math.max(1, this.ctx.sampleRate * duration), this.ctx.sampleRate);
+    const sr = this.ctx.sampleRate;
+    const buf = this.ctx.createBuffer(1, Math.max(1, sr * dur), sr);
     const d = buf.getChannelData(0);
-    for (let i = 0; i < d.length; i++) d[i] = (Math.random() * 2 - 1) * (1 - i / d.length);
+    const fadeInSamples = Math.max(1, fadeIn * sr);
+    for (let i = 0; i < d.length; i++) {
+      const t = i / d.length;
+      const attack = Math.min(1, i / fadeInSamples);     // smooth attack
+      const decay = Math.pow(1 - t, 1.8);                 // quadratic-ish decay
+      d[i] = (Math.random() * 2 - 1) * attack * decay;
+    }
     const src = this.ctx.createBufferSource();
     src.buffer = buf;
     const filt = this.ctx.createBiquadFilter();
-    filt.type = filterType; filt.frequency.value = filterFreq; filt.Q.value = filterQ;
+    filt.type = filter; filt.Q.value = q;
+    filt.frequency.setValueAtTime(f0, t0);
+    filt.frequency.exponentialRampToValueAtTime(Math.max(50, f1), t0 + dur);
     const g = this.ctx.createGain();
     g.gain.value = gain;
     src.connect(filt).connect(g).connect(this.master);
     src.start(t0);
   },
-  click()    { this._noise(0.04, 'bandpass', 2400, 8,  0.30); },
-  flip()     { this._noise(0.10, 'highpass', 1200, 1,  0.18); },
-  wrong()    { this._osc(220, 'sawtooth', 0.005, 0.04, 0.20, 0.20, 110); },
+  click()    { this._swoosh({ dur: 0.05, filter: 'bandpass', f0: 1400, f1: 1400, q: 2.5, gain: 0.11 }); },
+  flip()     { this._swoosh({ dur: 0.14, filter: 'lowpass',  f0: 2400, f1: 450,  q: 0.7, gain: 0.07 }); },
+  wrong()    { this._osc(180, 'triangle', 0.006, 0.05, 0.22, 0.13, 95); },
   coin()     { this._osc(1320, 'sine', 0.002, 0.02, 0.18, 0.14); setTimeout(() => this._osc(1760, 'sine', 0.002, 0.02, 0.18, 0.10), 50); },
   streak()   { this._osc(880, 'sine', 0.003, 0.02, 0.30, 0.18, 1760); },
-  shuffle()  { for (let i = 0; i < 4; i++) setTimeout(() => this._noise(0.06, 'highpass', 900, 1, 0.14), i * 60); },
+  shuffle()  { for (let i = 0; i < 3; i++) setTimeout(() => this._swoosh({ dur: 0.10, filter: 'lowpass', f0: 1800, f1: 350, q: 0.7, gain: 0.06 }), i * 80); },
   celebrate() {
     // Quick C major arpeggio with a sparkle on top
     const notes = [523.25, 659.25, 784.0, 1046.5];
