@@ -126,6 +126,17 @@
   filter: grayscale(0.5);
 }
 
+/* Shuffle wobble: brief wiggle after cards return to the deck at round-end. */
+@keyframes deckShuffle {
+  0%   { transform: translate(0, 0) rotate(0deg); }
+  20%  { transform: translate(-3px, -2px) rotate(-3deg); }
+  40%  { transform: translate(3px, 1px) rotate(3deg); }
+  60%  { transform: translate(-2px, 2px) rotate(-2deg); }
+  80%  { transform: translate(2px, -1px) rotate(2deg); }
+  100% { transform: translate(0, 0) rotate(0deg); }
+}
+.card.face-down.shuffling { animation: deckShuffle 0.36s ease-in-out; }
+
 /* --- GAME LAYOUT ---------------------------------------------------- */
 .game-zone { margin-bottom: 1.75rem; }
 .zone-label {

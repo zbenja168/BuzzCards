@@ -78,19 +78,20 @@ function wireButtons() {
 
 function onClueDeckClick() {
   const g = state.game;
-  if (!g || !g.target) return;
+  if (!g || !g.target || g.animating) return;
   revealNextClue('voluntary');
 }
 
 function onExtrasDeckClick() {
   const g = state.game;
-  if (!g || !g.target) return;
+  if (!g || !g.target || g.animating) return;
   if (g.extras.length === 0) return;
   // Pop next extra and merge into the player's hand. Draws are free during the round —
   // but each draw retroactively counts as a miss if the target was already in the hand
   // when the round started. We apply that penalty at round-end (correct play or exhaust).
   const drawn = g.extras.shift();
   g.hand.push(drawn);
+  g.justDrewExtraId = drawn.id;  // flag for animation in renderGame
   renderGame();
 }
 
@@ -277,8 +278,8 @@ function startRound() {
   shuffle(g.shuffledClues);
   g.revealed = [];
   g.wrongThisRound = new Set();
-  revealNextClue('initial');
-  renderGame();
+  g.justStartedRound = true;                     // tells renderGame to animate the deal
+  revealNextClue('initial');                     // this calls renderGame, which animates everything
 }
 
 // Pick decoy cards for the extras: prefer siblings of target, fall back to cousins, then any.
@@ -313,25 +314,34 @@ function revealNextClue(why) {
   const idx = g.revealed.length;
   g.revealed.push(g.shuffledClues[idx]);
   if (why !== 'initial') g.buzzwordsUsed += 1;
+  g.justRevealedClueIdx = idx;   // flag for animation in renderGame
   renderGame();
 }
 
 function playCard(cardId) {
   const g = state.game;
-  if (!g.target) return;
+  if (!g.target || g.animating) return;
   if (!g.hand.some(c => c.id === cardId)) return; // only hand cards are playable; extras must be drawn first
 
   if (cardId === g.target.id) {
-    // Correct — round ends, target retires, fresh hand next round.
+    // Correct — apply penalty, show toast, animate cards back to decks, then start next round.
     g.cardsPlayed += 1;
     g.usedTargetIds.add(g.target.id);
     const penalty = applyEndOfRoundDrawPenalty();
     const msg = `Correct — ${g.target.title}` + (penalty > 0 ? ` (+${penalty} miss${penalty > 1 ? 'es' : ''} for unneeded draws)` : '');
     toast(msg, 'right', penalty > 0 ? 1700 : 1100);
-    g.target = null;
-    g.revealed = [];
-    setTimeout(() => startRound(), penalty > 0 ? 1100 : 700);
-    renderGame();
+    // Update only the stat counters; the round-end animation will move the cards.
+    byId('stat-misses').textContent = g.misses;
+    byId('stat-cards-left').textContent = g.pool.length - g.usedTargetIds.size;
+    g.target = null;   // disables further input via the animating-or-no-target guard
+    g.animating = true;
+    setTimeout(() => {
+      endRoundAnimation().then(() => {
+        g.animating = false;
+        g.revealed = [];
+        startRound();
+      });
+    }, penalty > 0 ? 600 : 450);
   } else {
     // Wrong: stays where it is, miss++, eliminated from this round, force next clue.
     g.misses += 1;
@@ -349,9 +359,18 @@ function exhaustRound() {
   toast(`Out of clues — it was ${target.title}${tail}`, 'info', 1800);
   g.usedTargetIds.add(target.id);
   g.buzzwordsUsed += EXHAUST_PENALTY;
+  byId('stat-buzzwords').textContent = g.buzzwordsUsed;
+  byId('stat-misses').textContent    = g.misses;
+  byId('stat-cards-left').textContent = g.pool.length - g.usedTargetIds.size;
   g.target = null;
-  g.revealed = [];
-  setTimeout(() => startRound(), 1400);
+  g.animating = true;
+  setTimeout(() => {
+    endRoundAnimation().then(() => {
+      g.animating = false;
+      g.revealed = [];
+      startRound();
+    });
+  }, 1100);
 }
 
 // If the target was in the hand at the start of the round, each extra the player
@@ -390,7 +409,6 @@ function renderGame() {
   byId('clue-deck').classList.toggle('disabled', !g.target || cluesLeft <= 0);
 
   // Clue pile: each revealed clue is a face-up card, oldest first, newest on top.
-  // CSS handles stacked state + hover fan.
   const pile = byId('clue-pile');
   pile.innerHTML = '';
   g.revealed.forEach((clue, i) => {
@@ -403,14 +421,13 @@ function renderGame() {
     pile.append(card);
   });
 
-  // Hand (fan layout): cards overlap with negative margin and each is rotated
-  // slightly around its bottom-center. Hover lifts the card and brings it to the top.
+  // Hand (fan layout)
   const handEl = byId('hand');
   handEl.innerHTML = '';
   const n = g.hand.length;
   const center = (n - 1) / 2;
-  const ROT_STEP = 6;   // degrees between adjacent cards
-  const ARC_STEP = 3;   // px of edge lift for the arc curve
+  const ROT_STEP = 6;
+  const ARC_STEP = 3;
   g.hand.forEach((c, i) => {
     const offset   = i - center;
     const rotation = offset * ROT_STEP;
@@ -422,16 +439,108 @@ function renderGame() {
     handEl.append(card);
   });
 
-  // Pass 2: shrink the title font on any card whose text still overflows.
-  // We measure after appending; the loop also fits clue-pile cards.
-  requestAnimationFrame(() => {
-    handEl.querySelectorAll('.card-title').forEach(t => autoFitText(t, 16, 11));
-    byId('clue-pile').querySelectorAll('.clue-text').forEach(t => autoFitText(t, 15, 10));
-  });
-
-  // Extras deck (single pile, click to draw into hand)
+  // Extras deck
   byId('extras-deck-count').textContent = g.extras.length;
   byId('extras-deck').classList.toggle('disabled', !g.target || g.extras.length === 0);
+
+  // Post-render: auto-fit text + run animations triggered by state flags.
+  requestAnimationFrame(() => {
+    handEl.querySelectorAll('.card-title').forEach(t => autoFitText(t, 16, 11));
+    pile.querySelectorAll('.clue-text').forEach(t => autoFitText(t, 15, 10));
+
+    // Deal-in animation when a fresh round starts
+    if (g.justStartedRound) {
+      const deck = byId('extras-deck');
+      [...handEl.children].forEach((c, i) => flyFromDeck(c, deck, { delay: 60 + i * 55 }));
+      g.justStartedRound = false;
+    }
+    // Clue reveal animation
+    if (g.justRevealedClueIdx !== undefined) {
+      const newClue = pile.children[g.justRevealedClueIdx];
+      if (newClue) flyFromDeck(newClue, byId('clue-deck'), { duration: 380 });
+      g.justRevealedClueIdx = undefined;
+    }
+    // Extra-draw animation
+    if (g.justDrewExtraId) {
+      const drawnCard = handEl.querySelector(`[data-id="${g.justDrewExtraId}"]`);
+      if (drawnCard) flyFromDeck(drawnCard, byId('extras-deck'), { duration: 380 });
+      g.justDrewExtraId = null;
+    }
+  });
+}
+
+// ---------- Animations ----------
+
+// Animate a freshly-placed card so it appears to fly out of the given deck into its current position.
+function flyFromDeck(targetEl, deckEl, opts = {}) {
+  if (!targetEl || !deckEl || typeof targetEl.animate !== 'function') return null;
+  const t = targetEl.getBoundingClientRect();
+  const d = deckEl.getBoundingClientRect();
+  const dx = (d.left + d.width / 2) - (t.left + t.width / 2);
+  const dy = (d.top  + d.height / 2) - (t.top  + t.height / 2);
+  // The card already has a CSS-computed transform (fan/stack rotation). Concatenate
+  // the deck-direction translate onto it so the FROM state preserves rotation.
+  const natural  = getComputedStyle(targetEl).transform;
+  const naturalT = (natural && natural !== 'none') ? natural : 'translate(0,0)';
+  const startT   = `${naturalT} translate(${dx}px, ${dy}px) scale(0.55)`;
+  return targetEl.animate(
+    [
+      { transform: startT,   opacity: 0 },
+      { transform: naturalT, opacity: 1 },
+    ],
+    {
+      duration: opts.duration ?? 420,
+      delay: opts.delay ?? 0,
+      easing: 'cubic-bezier(0.22, 1, 0.36, 1)',
+      fill: 'none',
+    }
+  );
+}
+
+// Animate a card from its current spot away into the given deck (round-end).
+function flyToDeck(sourceEl, deckEl, opts = {}) {
+  if (!sourceEl || !deckEl || typeof sourceEl.animate !== 'function') return { finished: Promise.resolve() };
+  const s = sourceEl.getBoundingClientRect();
+  const d = deckEl.getBoundingClientRect();
+  const dx = (d.left + d.width / 2) - (s.left + s.width / 2);
+  const dy = (d.top  + d.height / 2) - (s.top  + s.height / 2);
+  const natural  = getComputedStyle(sourceEl).transform;
+  const naturalT = (natural && natural !== 'none') ? natural : 'translate(0,0)';
+  const endT     = `${naturalT} translate(${dx}px, ${dy}px) scale(0.35)`;
+  return sourceEl.animate(
+    [
+      { transform: naturalT, opacity: 1 },
+      { transform: endT,     opacity: 0 },
+    ],
+    {
+      duration: opts.duration ?? 380,
+      delay: opts.delay ?? 0,
+      easing: 'cubic-bezier(0.55, 0, 0.65, 0)',
+      fill: 'forwards',
+    }
+  );
+}
+
+// End-of-round: send hand cards → extras deck and clue cards → clue deck, then wiggle both decks.
+function endRoundAnimation() {
+  const handCards = [...byId('hand').children];
+  const clueCards = [...byId('clue-pile').children];
+  const extrasDeck = byId('extras-deck');
+  const clueDeck   = byId('clue-deck');
+  const finished = [];
+  handCards.forEach((c, i) => finished.push(flyToDeck(c, extrasDeck, { delay: i * 25 }).finished));
+  clueCards.forEach((c, i) => finished.push(flyToDeck(c, clueDeck,   { delay: i * 25 }).finished));
+  if (!finished.length) return Promise.resolve();
+  return Promise.all(finished).catch(() => {}).then(() => {
+    // Both decks do a quick shuffle wobble; resolve when wobble ends.
+    extrasDeck.classList.add('shuffling');
+    clueDeck.classList.add('shuffling');
+    return new Promise(resolve => setTimeout(() => {
+      extrasDeck.classList.remove('shuffling');
+      clueDeck.classList.remove('shuffling');
+      resolve();
+    }, 380));
+  });
 }
 
 // Shrink a text element's font size by 1px at a time until it stops overflowing
