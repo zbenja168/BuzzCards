@@ -168,6 +168,45 @@
   font-size: 5.5rem;
 }
 
+/* --- The played-correct ANSWER card, parked under the clue stack. --- */
+.clue-pile .answer-card {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  width: 140px;
+  height: 196px;
+  margin: 0 !important;
+  transform: none !important;
+  z-index: 0;
+  border-color: #10b981 !important;
+  box-shadow:
+    0 0 36px 4px rgba(16, 185, 129, 0.55),
+    0 0 80px 8px rgba(16, 185, 129, 0.18),
+    0 4px 8px rgba(0, 0, 0, 0.45),
+    0 14px 32px -8px rgba(0, 0, 0, 0.55) !important;
+}
+.clue-pile .answer-card::before,
+.clue-pile .answer-card::after {
+  color: #10b981 !important;
+  text-shadow: 0 0 8px rgba(16, 185, 129, 0.6) !important;
+  opacity: 1 !important;
+}
+.clue-pile .answer-card .card-emblem {
+  color: #10b981 !important;
+  opacity: 0.20 !important;
+}
+/* When the pile is fanned (hover), the answer card stays put and the clues
+   spread to the right — revealing the answer underneath. Add a soft lift so
+   it's clear which card is the answer. */
+.clue-pile:hover .answer-card {
+  transform: translateY(-6px) scale(1.04) !important;
+  box-shadow:
+    0 0 44px 6px rgba(16, 185, 129, 0.7),
+    0 0 100px 14px rgba(16, 185, 129, 0.22),
+    0 6px 12px rgba(0, 0, 0, 0.5),
+    0 20px 40px -8px rgba(0, 0, 0, 0.6) !important;
+}
+
 .card:hover {
   transform: translateY(-4px);
   border-color: var(--gold-bright);

@@ -543,7 +543,11 @@ function playCard(cardId) {
     updateStreakDisplay(true);
     if (g.streak >= 2) sfx.streak();
 
-    let t = 950;  // give the celebration room to land
+    // After the spotlight, the played card glides into the center of the clue pile
+    // and becomes the "base" of the stack; the remaining clues then land on top of it.
+    setTimeout(() => moveAnswerToPile(playedCardEl, g.hand.find(c => c.id === cardId) || { id: cardId }), 800);
+
+    let t = 1350;  // celebration (~800ms) + move-into-pile flight (~550ms)
     if (penaltyCount > 0) {
       for (let i = 0; i < penaltyCount; i++) {
         setTimeout(() => deductScore(POINTS_PER_MISS, byId('extras-deck')), t + i * 220);
@@ -601,6 +605,8 @@ function computeUnneededDrawCount() {
 }
 
 // Deal each remaining (unused) clue out as a card. Each awards POINTS_PER_CLUE * streakMultiplier.
+// We append new clue cards directly to the pile DOM rather than re-rendering so the
+// .answer-card we placed in the pile center is preserved underneath the growing stack.
 function dealRemainingCluesThenShuffle() {
   const g = state.game;
   const total = g.shuffledClues.length;
@@ -610,6 +616,8 @@ function dealRemainingCluesThenShuffle() {
     return;
   }
   const perClue = Math.round(POINTS_PER_CLUE * getStreakMultiplier());
+  const pile = byId('clue-pile');
+  const clueDeck = byId('clue-deck');
   let i = 0;
   function dealNext() {
     if (i >= remaining) {
@@ -617,14 +625,31 @@ function dealRemainingCluesThenShuffle() {
       return;
     }
     const newIdx = g.revealed.length;
-    g.revealed.push(g.shuffledClues[newIdx]);
-    g.justRevealedClueIdx = newIdx;
-    renderGame();
+    const clueText = g.shuffledClues[newIdx];
+    g.revealed.push(clueText);
+
+    // Build + append the new clue card manually (z-index above the answer card).
+    const card = el('div', { class: 'card clue-card' });
+    card.style.zIndex = String(newIdx + 1);
+    card.append(
+      el('div', { class: 'card-emblem clue-emblem' }, '✦'),
+      el('div', { class: 'clue-index' }, toRoman(newIdx + 1)),
+      el('div', { class: 'clue-text' }, clueText),
+    );
+    pile.append(card);
+
+    // Animate it in from the clue deck, auto-fit its text, ping the deck count.
+    requestAnimationFrame(() => {
+      autoFitText(card.querySelector('.clue-text'), 15, 7);
+      flyFromDeck(card, clueDeck, { duration: 380 });
+    });
     sfx.flip();
+    // Decrement the deck counter visually
+    byId('clue-deck-count').textContent = Math.max(0, total - g.revealed.length);
+
     // Award the (multiplied) points once the new clue card has landed visually
     setTimeout(() => {
-      const newClue = byId('clue-pile').lastElementChild;
-      awardScore(perClue, newClue);
+      awardScore(perClue, card);
       sfx.coin();
     }, 280);
     i++;
@@ -665,14 +690,52 @@ function endRoundFlyBackAndShuffle() {
   });
 }
 
+// After the celebration, the played card flies from the hand into the clue pile
+// where it becomes the "base" of the stack; subsequent clues land on top of it.
+function moveAnswerToPile(cardEl, cardData) {
+  if (!cardEl) return;
+  // FLIP pattern: measure old rect, swap into the new parent, measure new rect, animate.
+  const oldRect = cardEl.getBoundingClientRect();
+
+  // Strip celebration + hand-specific styling.
+  cardEl.classList.remove('celebrating', 'fading', 'hand-card');
+  cardEl.classList.add('answer-card');
+  cardEl.style.removeProperty('--card-rot');
+  cardEl.style.removeProperty('--card-y');
+  cardEl.style.removeProperty('--card-z');
+  cardEl.style.removeProperty('margin-left');
+  cardEl.style.transform = '';
+
+  // Prepend to clue pile so its DOM index is 0 — sits under the clue cards (whose
+  // z-index counts up from 1). Hover-fan rule targets .clue-card only, so the
+  // answer card stays anchored in place when the pile fans out.
+  const pile = byId('clue-pile');
+  pile.prepend(cardEl);
+
+  // Drop the played card from the hand state so subsequent renders don't re-create it.
+  if (state.game) state.game.hand = state.game.hand.filter(c => c.id !== cardData.id);
+
+  const newRect = cardEl.getBoundingClientRect();
+  const dx = oldRect.left - newRect.left;
+  const dy = oldRect.top  - newRect.top;
+  const sx = oldRect.width  / Math.max(1, newRect.width);
+  const sy = oldRect.height / Math.max(1, newRect.height);
+
+  cardEl.animate(
+    [
+      { transform: `translate(${dx}px, ${dy}px) scale(${((sx + sy) / 2).toFixed(3)})`, opacity: 1 },
+      { transform: 'none', opacity: 1 },
+    ],
+    { duration: 600, easing: 'cubic-bezier(0.34, 1.56, 0.64, 1)', fill: 'none' }
+  );
+}
+
 // --- Celebration ---
 
 function celebrateCorrect(cardEl, title) {
   // 1) Lift, glow, and scale the played card via a CSS class.
-  if (cardEl) {
-    cardEl.classList.add('celebrating');
-    setTimeout(() => cardEl.classList.add('fading'), 700);
-  }
+  // (No .fading anymore — the card animates into the clue pile instead.)
+  if (cardEl) cardEl.classList.add('celebrating');
   // 2) Confetti burst centered on the played card.
   if (cardEl) {
     const r = cardEl.getBoundingClientRect();
