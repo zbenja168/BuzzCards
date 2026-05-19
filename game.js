@@ -165,12 +165,12 @@ const sfx = {
     src.connect(filt).connect(g).connect(this.master);
     src.start(t0);
   },
-  click()    { this._swoosh({ dur: 0.05, filter: 'bandpass', f0: 1400, f1: 1400, q: 2.5, gain: 0.11 }); },
-  flip()     { this._swoosh({ dur: 0.14, filter: 'lowpass',  f0: 2400, f1: 450,  q: 0.7, gain: 0.07 }); },
-  wrong()    { this._osc(180, 'triangle', 0.006, 0.05, 0.22, 0.13, 95); },
-  coin()     { this._osc(1320, 'sine', 0.002, 0.02, 0.18, 0.14); setTimeout(() => this._osc(1760, 'sine', 0.002, 0.02, 0.18, 0.10), 50); },
+  click()    { this._swoosh({ dur: 0.06, filter: 'bandpass', f0: 1800, f1: 1800, q: 4,   gain: 0.18 }); },
+  flip()     { this._swoosh({ dur: 0.14, filter: 'lowpass',  f0: 2800, f1: 700,  q: 0.7, gain: 0.12 }); },
+  wrong()    { this._osc(200, 'triangle', 0.006, 0.05, 0.22, 0.16, 105); },
+  coin()     { this._osc(1320, 'sine', 0.002, 0.02, 0.18, 0.16); setTimeout(() => this._osc(1760, 'sine', 0.002, 0.02, 0.18, 0.12), 50); },
   streak()   { this._osc(880, 'sine', 0.003, 0.02, 0.30, 0.18, 1760); },
-  shuffle()  { for (let i = 0; i < 3; i++) setTimeout(() => this._swoosh({ dur: 0.10, filter: 'lowpass', f0: 1800, f1: 350, q: 0.7, gain: 0.06 }), i * 80); },
+  shuffle()  { for (let i = 0; i < 3; i++) setTimeout(() => this._swoosh({ dur: 0.11, filter: 'lowpass', f0: 2200, f1: 550, q: 0.7, gain: 0.09 }), i * 75); },
   celebrate() {
     // Quick C major arpeggio with a sparkle on top
     const notes = [523.25, 659.25, 784.0, 1046.5];
