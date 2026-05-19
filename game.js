@@ -20,7 +20,6 @@ const state = {
   selectedBrickIds: new Set(),
   typeFilter: new Set(TYPES),
   handMode: 'decoys',        // 'decoys' | 'siblings' | 'random'
-  hideTypes: false,          // hide type/brick footer on hand cards for hard mode
   game: null,
 };
 
@@ -73,7 +72,6 @@ function wireButtons() {
   byId('btn-replay').onclick    = () => show('select');
   byId('hand-size').addEventListener('input', renderSelectScreen);
   byId('hand-mode').addEventListener('change', e => { state.handMode = e.target.value; });
-  byId('hide-types').addEventListener('change', e => { state.hideTypes = e.target.checked; });
   byId('clue-deck').onclick     = () => onClueDeckClick();
   byId('extras-deck').onclick   = () => onExtrasDeckClick();
 }
@@ -387,10 +385,24 @@ function renderGame() {
     pile.append(card);
   });
 
-  // Hand
+  // Hand (fan layout): cards overlap with negative margin and each is rotated
+  // slightly around its bottom-center. Hover lifts the card and brings it to the top.
   const handEl = byId('hand');
   handEl.innerHTML = '';
-  for (const c of g.hand) handEl.append(renderHandCard(c));
+  const n = g.hand.length;
+  const center = (n - 1) / 2;
+  const ROT_STEP = 6;   // degrees between adjacent cards
+  const ARC_STEP = 3;   // px of edge lift for the arc curve
+  g.hand.forEach((c, i) => {
+    const offset   = i - center;
+    const rotation = offset * ROT_STEP;
+    const yArc     = Math.abs(offset) * ARC_STEP;
+    const card     = renderHandCard(c);
+    card.style.setProperty('--card-rot', `${rotation}deg`);
+    card.style.setProperty('--card-y',   `${yArc}px`);
+    card.style.setProperty('--card-z',   String(i + 1));
+    handEl.append(card);
+  });
 
   // Extras deck (single pile, click to draw into hand)
   byId('extras-deck-count').textContent = g.extras.length;
@@ -400,16 +412,10 @@ function renderGame() {
 function renderHandCard(c) {
   const g = state.game;
   const card = el('div', {
-    class: 'card' + (g.wrongThisRound.has(c.id) ? ' eliminated' : ''),
+    class: 'card hand-card' + (g.wrongThisRound.has(c.id) ? ' eliminated' : ''),
     'data-id': c.id,
   });
   card.append(el('div', { class: 'card-title' }, c.title));
-  if (!state.hideTypes) {
-    card.append(el('div', { class: 'card-type' },
-      c.brick_title && c.brick_title !== c.title
-        ? `${c.brick_title} · Wk ${c.week}`
-        : `${TYPE_LABEL[c.type] || c.type} · Wk ${c.week}`));
-  }
   if (!g.wrongThisRound.has(c.id)) card.onclick = () => playCard(c.id);
   return card;
 }

@@ -138,14 +138,44 @@
   flex-shrink: 0;
 }
 
-/* The hand: row of vertical cards. Wraps to a new row if hand grows. */
+/* The hand: cards fan with rotation + overlap. Hover lifts a card on top. */
 .hand-row {
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
   flex: 1;
-  min-height: 196px;
-  align-items: flex-start;
+  justify-content: center;
+  align-items: flex-end;
+  height: 260px;            /* room for the hover lift to fly into */
+  padding-top: 50px;         /* breathing space above the fan */
+  overflow: visible;
+}
+.hand-row .hand-card {
+  margin-left: -55px;        /* overlap between siblings */
+  transform-origin: bottom center;
+  transform: translateY(var(--card-y, 0)) rotate(var(--card-rot, 0deg));
+  z-index: var(--card-z, 1);
+  transition: transform .25s cubic-bezier(.2,.7,.3,1),
+              box-shadow .15s ease;
+}
+.hand-row .hand-card:first-child { margin-left: 0; }
+.hand-row .hand-card:hover {
+  transform: translateY(-50px) rotate(0deg) scale(1.06) !important;
+  z-index: 1000 !important;
+  box-shadow: 0 8px 16px rgba(15,23,42,.10), 0 32px 64px -20px rgba(15,23,42,.30);
+}
+.hand-row .hand-card.eliminated:hover {
+  transform: translateY(var(--card-y, 0)) rotate(var(--card-rot, 0deg)) !important;
+  z-index: var(--card-z, 1) !important;
+  box-shadow: 0 1px 2px rgba(15,23,42,.06), 0 8px 24px -8px rgba(15,23,42,.10);
+}
+
+/* When the hand has only a title (no footer), center the title vertically. */
+.hand-row .hand-card {
+  justify-content: center;
+  text-align: center;
+}
+.hand-row .hand-card .card-title {
+  font-size: 1rem;
+  margin-top: 0;
 }
 
 /* --- CLUE PILE: stacked by default, fans on hover ------------------- */
