@@ -654,8 +654,10 @@ function renderGame() {
 
   // Post-render: auto-fit text + run animations triggered by state flags.
   requestAnimationFrame(() => {
-    handEl.querySelectorAll('.card-title').forEach(t => autoFitText(t, 16, 11));
-    pile.querySelectorAll('.clue-text').forEach(t => autoFitText(t, 15, 10));
+    // Shrink the font down to as small as 8-9px when needed so the longest
+    // single word fits the card width — no hyphenation, no mid-word breaks.
+    handEl.querySelectorAll('.card-title').forEach(t => autoFitText(t, 16, 9));
+    pile.querySelectorAll('.clue-text').forEach(t => autoFitText(t, 15, 8));
 
     // Deal-in animation when a fresh round starts
     if (g.justStartedRound) {

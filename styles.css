@@ -118,12 +118,10 @@
   color: var(--card-ink);
   margin: 0;
   letter-spacing: 0.01em;
-  overflow-wrap: anywhere;
-  word-break: break-word;
-  hyphens: auto;
-  -webkit-hyphens: auto;
-  text-wrap: balance;
+  text-wrap: balance;          /* balance line lengths when multi-line */
   max-width: 100%;
+  /* No mid-word breaking or hyphenation. The JS auto-fit shrinks the
+     font instead so the longest single word always fits the card. */
 }
 .card .card-type {
   font-size: 0.6rem;
@@ -389,12 +387,9 @@
   font-size: 0.95rem;
   line-height: 1.25;
   color: var(--card-ink);
-  overflow-wrap: anywhere;
-  word-break: break-word;
-  hyphens: auto;
-  -webkit-hyphens: auto;
   text-wrap: balance;
   max-width: 100%;
+  /* Same rule as hand cards: shrink-to-fit, never break a word. */
 }
 .clue-card .clue-index {
   position: absolute;
