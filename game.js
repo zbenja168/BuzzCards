@@ -264,12 +264,10 @@ let toastTimer = null;
 function toast(text, kind = 'info', ms = 1100) {
   const t = byId('toast');
   t.textContent = text;
-  t.className = '';
-  t.classList.add(kind, 'show');
-  // ensure base classes still apply via classList; the fixed positioning is on the element directly in HTML
-  t.classList.add('fixed','bottom-6','left-1/2','-translate-x-1/2','px-5','py-3','rounded-full','shadow-cardLg','font-semibold','transition-all');
+  t.className = '';                  // strip everything
+  t.classList.add(kind, 'show');      // visual style + visibility (#toast styles in styles.css)
   clearTimeout(toastTimer);
-  toastTimer = setTimeout(() => { t.classList.remove('show'); t.classList.add('opacity-0','pointer-events-none'); }, ms);
+  toastTimer = setTimeout(() => { t.classList.remove('show'); }, ms);
 }
 
 // fallback stub data so the UI is browsable before extraction completes

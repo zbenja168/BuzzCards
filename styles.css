@@ -1,56 +1,166 @@
-/* Small bits of custom CSS Tailwind doesn't cover ergonomically. */
+/* Plain CSS — Tailwind CDN doesn't process @apply in external files, so all
+   custom component styles live here in vanilla CSS. */
 
 .screen { animation: fade-in .25s ease both; }
-@keyframes fade-in { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
-
-/* Card */
-.card {
-  @apply bg-white rounded-2xl p-4 text-left shadow-card border border-ink-200
-         transition-all cursor-pointer select-none;
-  min-height: 110px;
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: none; }
 }
-.card:hover { @apply shadow-cardLg -translate-y-0.5 border-brand-400; }
-.card:active { transform: translateY(0); }
-.card .card-title { @apply font-semibold text-ink-900 leading-snug; }
-.card .card-type  { @apply text-[10px] uppercase tracking-wider text-ink-500 mt-2; }
+
+/* --- HAND CARDS ----------------------------------------------------- */
+.card {
+  background: #ffffff;
+  border-radius: 1rem;
+  padding: 1.1rem 1rem 0.9rem;
+  text-align: left;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 2px rgba(15,23,42,.06), 0 8px 24px -8px rgba(15,23,42,.10);
+  cursor: pointer;
+  user-select: none;
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+  min-height: 140px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  overflow: hidden;
+}
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 6px;
+  background: linear-gradient(90deg, #fb923c, #f97316);
+}
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 8px rgba(15,23,42,.08), 0 24px 48px -16px rgba(15,23,42,.22);
+  border-color: #fb923c;
+}
+.card:active { transform: translateY(-1px); }
+.card .card-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1.3;
+  color: #0f172a;
+  margin-top: 0.4rem;
+}
+.card .card-type {
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #64748b;
+  margin-top: 0.75rem;
+  font-weight: 500;
+}
 
 .card.eliminated {
-  @apply opacity-40 grayscale cursor-not-allowed;
+  opacity: 0.4;
+  filter: grayscale(1);
+  cursor: not-allowed;
 }
-.card.eliminated:hover { @apply shadow-card translate-y-0 border-ink-200; }
+.card.eliminated:hover {
+  transform: none;
+  box-shadow: 0 1px 2px rgba(15,23,42,.06), 0 8px 24px -8px rgba(15,23,42,.10);
+  border-color: #e2e8f0;
+}
+.card.eliminated::before {
+  background: linear-gradient(90deg, #cbd5e1, #94a3b8);
+}
 
-/* brick-select tile */
+/* --- BRICK SELECT TILES -------------------------------------------- */
 .tile {
-  @apply bg-white rounded-xl p-3 border border-ink-200 cursor-pointer transition
-         flex items-start gap-3 text-sm;
+  background: #ffffff;
+  border-radius: 0.75rem;
+  padding: 0.75rem 0.85rem;
+  border: 1px solid #e2e8f0;
+  cursor: pointer;
+  transition: border-color .15s ease, box-shadow .15s ease, background .15s ease;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.65rem;
+  font-size: 0.875rem;
 }
-.tile:hover { @apply border-brand-400 shadow-card; }
-.tile.selected { @apply border-brand-500 bg-brand-50 ring-1 ring-brand-500; }
-.tile input[type=checkbox] { @apply mt-0.5 accent-brand-500; }
+.tile:hover {
+  border-color: #fb923c;
+  box-shadow: 0 1px 2px rgba(15,23,42,.06), 0 8px 24px -8px rgba(15,23,42,.08);
+}
+.tile.selected {
+  border-color: #f97316;
+  background: #fff7ed;
+  box-shadow: 0 0 0 1px #f97316;
+}
+.tile input[type=checkbox] {
+  margin-top: 0.15rem;
+  accent-color: #f97316;
+  width: 1rem;
+  height: 1rem;
+  flex-shrink: 0;
+}
 
-/* type pill */
+/* --- TYPE FILTER PILLS --------------------------------------------- */
 .pill {
-  @apply px-3 py-1 rounded-full text-sm font-medium border border-ink-200
-         bg-white hover:bg-ink-100 cursor-pointer transition;
+  padding: 0.4rem 0.85rem;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border: 1px solid #e2e8f0;
+  background: #ffffff;
+  cursor: pointer;
+  transition: background .15s ease, color .15s ease, border-color .15s ease;
 }
-.pill.active { @apply bg-ink-900 text-white border-ink-900; }
+.pill:hover { background: #f1f5f9; }
+.pill.active {
+  background: #0f172a;
+  color: #ffffff;
+  border-color: #0f172a;
+}
 
-/* buzzword list entry */
+/* --- BUZZWORD LIST ------------------------------------------------- */
 #buzzword-list li {
-  @apply pl-5 relative;
+  padding-left: 1.5rem;
+  position: relative;
 }
 #buzzword-list li::before {
   content: '';
-  @apply absolute left-0 top-2.5 w-2 h-2 rounded-full bg-brand-500;
+  position: absolute;
+  left: 0;
+  top: 0.7rem;
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 9999px;
+  background: #f97316;
 }
 #buzzword-list li.revealing { animation: clue-in .35s ease both; }
 @keyframes clue-in {
   from { opacity: 0; transform: translateX(-6px); }
-  to { opacity: 1; transform: none; }
+  to   { opacity: 1; transform: none; }
 }
 
-/* toast */
+/* --- TOAST --------------------------------------------------------- */
+#toast {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 0.7rem 1.25rem;
+  border-radius: 9999px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  box-shadow: 0 4px 8px rgba(15,23,42,.08), 0 24px 48px -16px rgba(15,23,42,.25);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .2s ease, transform .2s ease;
+  z-index: 50;
+}
 #toast.show { opacity: 1; transform: translate(-50%, -8px); }
-#toast.right { @apply bg-emerald-500 text-white; }
-#toast.wrong { @apply bg-rose-500 text-white; }
-#toast.info  { @apply bg-ink-900 text-white; }
+#toast.right { background: #10b981; color: #ffffff; }
+#toast.wrong { background: #f43f5e; color: #ffffff; }
+#toast.info  { background: #0f172a; color: #ffffff; }
+
+/* --- DISABLED button state ---------------------------------------- */
+button:disabled {
+  background: #cbd5e1 !important;
+  cursor: not-allowed;
+  box-shadow: none;
+}
