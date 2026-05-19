@@ -8,9 +8,9 @@
     "type": "drug",
     "buzzwords": [
       "K+-sparing diuretic",
-      "ascites drug",
+      { "img": "data/images/15/15-1/2.png" },
       "HFrEF adjunct",
-      "MR antagonist",
+      { "img": "data/images/15/15-1/1.png" },
       "blocks aldosterone",
       "gynecomastia",
       "antiandrogen",
@@ -30,7 +30,7 @@
       "selective MR blocker",
       "no gynecomastia",
       "spares libido",
-      "blocks aldosterone",
+      { "img": "data/images/15/15-2/1.png" },
       "hyperkalemia risk",
       "type IV RTA"
     ]
@@ -44,7 +44,7 @@
     "type": "drug",
     "buzzwords": [
       "K+-sparing diuretic",
-      "ENaC blocker",
+      { "img": "data/images/15/15-3/1.png" },
       "collecting duct",
       "no MR effect",
       "paired with HCTZ",
@@ -62,7 +62,7 @@
     "type": "drug",
     "buzzwords": [
       "K+-sparing diuretic",
-      "ENaC blocker",
+      { "img": "data/images/15/15-4/1.png" },
       "collecting duct",
       "weak diuretic",
       "HCTZ combo pill",

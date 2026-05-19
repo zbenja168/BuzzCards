@@ -46,7 +46,7 @@
       "advanced stage",
       "worse prognosis",
       "edema",
-      "GBM leak",
+      { "img": "data/images/49/49-3/1.png" },
       "declining GFR",
       "ACR >300",
       ">3000 nephrotic",
@@ -61,14 +61,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "nodular glomerulosclerosis",
+      { "img": "data/images/49/49-4/1.png" },
       "pink eosinophilic",
       "spherical hyaline",
       "advanced DKD",
       "mesangial ECM",
       "TGF-beta driven",
       "type IV collagen",
-      "linear IgG"
+      { "img": "data/images/49/49-4/2.png" }
     ]
   },
   {

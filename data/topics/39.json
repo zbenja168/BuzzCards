@@ -11,8 +11,8 @@
       "cola urine",
       "heavy proteinuria",
       "GBM breaks",
-      "dysmorphic RBCs",
-      "acanthocytes",
+      { "img": "data/images/39/39-1/2.png" },
+      { "img": "data/images/39/39-1/1.png" },
       "RBC casts",
       "IgA nephropathy"
     ]
@@ -28,10 +28,10 @@
       "painless hematuria",
       "smoker",
       "whole clots",
-      "normal RBCs",
+      { "img": "data/images/39/39-2/1.png" },
       "no casts",
       "bladder cancer",
-      "stones",
+      { "img": "data/images/39/39-2/2.png" },
       "cyclophosphamide cystitis"
     ]
   },
@@ -44,13 +44,13 @@
     "type": "disease",
     "buzzwords": [
       "incidental finding",
-      "bright red urine",
       "pink tinge",
-      "naked-eye blood",
+      { "img": "data/images/39/39-3/1.png" },
       "microscope only",
       ">3 RBCs/hpf",
       "asymptomatic dipstick",
-      "trauma classic"
+      { "img": "data/images/39/39-3/2.png" },
+      "bright red urine"
     ]
   },
   {
@@ -79,11 +79,11 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "confirm with microscopy",
+      { "img": "data/images/39/39-5/2.png" },
       "dipstick sensitive",
       "check creatinine",
       "noncontrast CT",
-      "US in pregnancy",
+      { "img": "data/images/39/39-5/1.png" },
       "cystoscopy smokers",
       "renal biopsy",
       "urine culture"

@@ -10,11 +10,11 @@
       "filters blood",
       "makes ultrafiltrate",
       "proximal nephron",
-      "capillary tuft",
+      { "img": "data/images/4/4-1/1.png" },
       "Bowman capsule",
       "vascular pole",
       "afferent/efferent arterioles",
-      "mesangial support"
+      { "img": "data/images/4/4-1/2.png" }
     ]
   },
   {
@@ -27,10 +27,10 @@
     "buzzwords": [
       "three layers",
       "size/charge sieve",
-      "fenestrated endothelium",
+      { "img": "data/images/4/4-2/2.png" },
       "GBM",
       "heparan sulfate",
-      "podocyte pedicels",
+      { "img": "data/images/4/4-2/1.png" },
       "slit diaphragms",
       "diabetic proteinuria"
     ]
@@ -46,7 +46,7 @@
       "cortex workhorse",
       "bulk reabsorption",
       "brush border",
-      "pink cytoplasm",
+      { "img": "data/images/4/4-3/1.png" },
       "mitochondria-rich",
       "reclaims glucose",
       "two-thirds water",
@@ -67,7 +67,7 @@
       "countercurrent",
       "descending water",
       "ascending NaCl",
-      "thin squamous limbs",
+      { "img": "data/images/4/4-4/1.png" },
       "thick cuboidal limb"
     ]
   },
@@ -100,7 +100,7 @@
       "vascular pole",
       "pressure sensor",
       "salt sensor",
-      "macula densa",
+      { "img": "data/images/4/4-6/1.png" },
       "JG cells",
       "renin secretion",
       "RAAS trigger",
@@ -118,7 +118,7 @@
       "final tubule",
       "pools many nephrons",
       "pale epithelium",
-      "distinct cell borders",
+      { "img": "data/images/4/4-7/1.png" },
       "principal cells",
       "intercalated cells",
       "ADH/aldosterone target",

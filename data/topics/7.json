@@ -10,7 +10,7 @@
       "plasma scrubbed",
       "mL/min",
       "(Ux x V) / Px",
-      "excretion over plasma",
+      { "img": "data/images/7/7-1/1.png" },
       "Cx < GFR reabsorbed",
       "Cx = GFR filtered only",
       "Cx > GFR secreted",
@@ -62,7 +62,7 @@
     "type": "physiology",
     "buzzwords": [
       "estimates RPF",
-      "filtered + secreted",
+      { "img": "data/images/7/7-4/1.png" },
       "OAT transport",
       "~90% extraction",
       "single-pass clearance",
@@ -84,7 +84,7 @@
       "RPF / (1 - Hct)",
       "FF = GFR/RPF",
       "normal 15-20%",
-      "high FF in CHF",
+      { "img": "data/images/7/7-5/1.png" },
       "low FF in pregnancy",
       "Ang II efferent tone"
     ]
@@ -100,7 +100,7 @@
       "PCT secretion",
       "OAT anions",
       "OCT cations",
-      "transporter competition",
+      { "img": "data/images/7/7-6/1.png" },
       "saturation kinetics",
       "ion trapping",
       "dose reduction",

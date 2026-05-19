@@ -11,9 +11,9 @@
       "retrograde urine",
       "short intramural ureter",
       "flap-valve failure",
-      "graded I-V",
+      { "img": "data/images/57/57-1/1.png" },
       "reflux nephropathy",
-      "VCUG gold standard",
+      { "img": "data/images/57/57-1/2.png" },
       "outgrows it"
     ]
   },
@@ -26,8 +26,8 @@
     "type": "disease",
     "buzzwords": [
       "flank pain",
-      "unilateral hydronephrosis",
-      "prenatal ultrasound find",
+      { "img": "data/images/57/57-2/2.png" },
+      { "img": "data/images/57/57-2/1.png" },
       "narrowed junction",
       "aberrant renal artery",
       "bear-paw pattern",
@@ -45,7 +45,7 @@
     "buzzwords": [
       "continuous incontinence",
       "girl always wet",
-      "two ureters",
+      { "img": "data/images/57/57-3/1.png" },
       "ectopic insertion",
       "split ureteric bud",
       "vaginal drainage",
@@ -61,7 +61,7 @@
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "exposed bladder",
+      { "img": "data/images/57/57-4/1.png" },
       "open abdominal wall",
       "midline closure failure",
       "mesoderm migration defect",
@@ -82,7 +82,7 @@
       "umbilical urine leak",
       "wet umbilicus",
       "allantois remnant",
-      "patent urachus",
+      { "img": "data/images/57/57-5/1.png" },
       "urachal cyst",
       "median umbilical ligament",
       "bladder-umbilicus tract",
@@ -100,8 +100,8 @@
       "male infant only",
       "weak urinary stream",
       "oligohydramnios",
-      "keyhole sign",
-      "thick-walled bladder",
+      { "img": "data/images/57/57-6/1.png" },
+      { "img": "data/images/57/57-6/2.png" },
       "bilateral hydronephrosis",
       "pulmonary hypoplasia",
       "endoscopic ablation"

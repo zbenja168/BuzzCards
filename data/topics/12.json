@@ -10,7 +10,7 @@
       "potent diuretic",
       "pulmonary edema",
       "CHF first-line",
-      "sulfa drug",
+      { "img": "data/images/12/12-1/1.png" },
       "blocks NKCC2",
       "TAL action",
       "contraction alkalosis",
@@ -26,7 +26,7 @@
     "type": "drug",
     "buzzwords": [
       "loop diuretic",
-      "sulfonamide group",
+      { "img": "data/images/12/12-2/1.png" },
       "most potent loop",
       "80% bioavailable",
       "1 mg dose",
@@ -61,7 +61,7 @@
     "week": 1,
     "type": "drug",
     "buzzwords": [
-      "non-sulfonamide loop",
+      { "img": "data/images/12/12-4/1.png" },
       "sulfa allergy",
       "most ototoxic",
       "tinnitus risk",

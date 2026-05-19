@@ -13,8 +13,8 @@
       "hematuria + proteinuria",
       "thickened GBM",
       "mesangial hypercellularity",
-      "tram-track GBM",
-      "subendothelial deposits"
+      { "img": "data/images/43/43-1/1.png" },
+      { "img": "data/images/43/43-1/2.png" }
     ]
   },
   {
@@ -31,7 +31,7 @@
       "Raynaud phenomenon",
       "cold-precipitating Igs",
       "low C3 + low C4",
-      "granular IgG/IgM/C3",
+      { "img": "data/images/43/43-2/1.png" },
       "antiviral therapy"
     ]
   },

@@ -50,7 +50,7 @@
       "seconds-fast",
       "buffers posture changes",
       "fails <80 mmHg",
-      "pressure-flow buffer"
+      { "img": "data/images/8/8-3/1.png" }
     ]
   },
   {

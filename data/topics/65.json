@@ -12,9 +12,9 @@
       "sneeze leak",
       "multiparous woman",
       "weak pelvic floor",
-      "urethral hypermobility",
+      { "img": "data/images/65/65-1/1.png" },
       "Kegel exercises",
-      "sling procedure"
+      { "img": "data/images/65/65-1/2.png" }
     ]
   },
   {
@@ -28,7 +28,7 @@
       "sudden urgency",
       "frequency",
       "nocturia",
-      "overactive bladder",
+      { "img": "data/images/65/65-2/1.png" },
       "detrusor hyperactivity",
       "oxybutynin",
       "mirabegron",
@@ -46,9 +46,9 @@
       "constant dribbling",
       "weak stream",
       "hesitancy",
-      "high postvoid residual",
+      { "img": "data/images/65/65-3/1.png" },
       "detrusor underactivity",
-      "BPH obstruction",
+      { "img": "data/images/65/65-3/2.png" },
       "diabetic neuropathy",
       "bethanechol"
     ]
@@ -83,7 +83,7 @@
       "hypotonic bladder",
       "no contractions",
       "cauda equina",
-      "conus medullaris",
+      { "img": "data/images/65/65-5/1.png" },
       "diabetic autonomic neuropathy",
       "overflow leakage",
       "intermittent catheterization"

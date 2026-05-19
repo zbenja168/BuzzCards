@@ -12,8 +12,8 @@
       "nephrotic syndrome",
       "heavy proteinuria",
       "renal vein thrombosis",
-      "GBM thickening",
-      "subepithelial spikes",
+      { "img": "data/images/44/44-1/1.png" },
+      { "img": "data/images/44/44-1/2.png" },
       "anti-PLA2R"
     ]
   },

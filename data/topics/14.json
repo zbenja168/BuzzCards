@@ -11,10 +11,10 @@
       "IV only",
       "sugar alcohol",
       "raises osmolality",
-      "shrinks brain",
+      { "img": "data/images/14/14-1/1.png" },
       "lowers ICP",
       "freely filtered",
-      "proximal tubule"
+      { "img": "data/images/14/14-1/2.png" }
     ]
   },
   {

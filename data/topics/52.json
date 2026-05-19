@@ -12,9 +12,9 @@
       "cloudy urine",
       "sloughed papillae",
       "mimics nephrolithiasis",
-      "vasa recta ischemia",
+      { "img": "data/images/52/52-1/1.png" },
       "POSTCARDS mnemonic",
-      "necrotic medullary tips"
+      { "img": "data/images/52/52-1/2.png" }
     ]
   },
   {
@@ -83,7 +83,7 @@
       "WBC casts",
       "urinary obstruction",
       "high intrapelvic pressure",
-      "neutrophilic infiltrate",
+      { "img": "data/images/52/52-5/1.png" },
       "tubular necrosis",
       "relieve obstruction",
       "antibiotics"

@@ -48,7 +48,7 @@
       "height = osmolality",
       "area = solute",
       "equal heights",
-      "ICF/ECF boxes",
+      { "img": "data/images/16/16-3/1.png" },
       "predicts water shift",
       "Darrow-Yannet"
     ]

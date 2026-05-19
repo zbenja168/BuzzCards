@@ -80,12 +80,12 @@
     "type": "disease",
     "buzzwords": [
       "ECG if K+ > 5.5",
-      "peaked T waves",
+      { "img": "data/images/23/23-5/1.png" },
       "short QT",
       "prolonged PR",
       "wide QRS",
       "lost P waves",
-      "sine wave",
+      { "img": "data/images/23/23-5/2.png" },
       "asystole"
     ]
   },

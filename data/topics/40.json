@@ -7,14 +7,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "leg swelling",
       "foamy urine",
       "periorbital edema",
       "4+ proteinuria",
       "low albumin",
       "high lipids",
       "classic tetrad",
-      ">3.5 g/day"
+      ">3.5 g/day",
+      { "img": "data/images/40/40-1/1.png" }
     ]
   },
   {
@@ -28,11 +28,11 @@
       "selective albuminuria",
       "charge barrier lost",
       "visceral epithelial cells",
-      "foot process effacement",
       "slit diaphragm",
-      "GBM disruption",
+      { "img": "data/images/40/40-2/1.png" },
       "bland sediment",
-      "EM effacement"
+      "EM effacement",
+      { "img": "data/images/40/40-2/2.png" }
     ]
   },
   {
@@ -99,7 +99,7 @@
     "buzzwords": [
       "edema workup",
       "4+ dipstick",
-      "spot UPCR",
+      { "img": "data/images/40/40-6/1.png" },
       "UPCR >3.5",
       "hep/HIV/lupus serologies",
       "renal biopsy",

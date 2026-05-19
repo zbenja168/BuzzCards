@@ -11,10 +11,10 @@
       "3-month rule",
       "eGFR <60",
       "ACR >30",
-      "foamy urine",
+      { "img": "data/images/35/35-1/1.png" },
       "G1-G5 staging",
       "A1-A3 albuminuria",
-      "KDIGO grid"
+      { "img": "data/images/35/35-1/2.png" }
     ]
   },
   {

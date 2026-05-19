@@ -25,13 +25,13 @@
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "arteriolar tone",
+      { "img": "data/images/6/6-2/1.png" },
       "afferent down",
       "efferent up",
       "Ang II efferent",
       "NSAIDs afferent",
       "ACEi dilates efferent",
-      "oncotic opposes",
+      { "img": "data/images/6/6-2/2.png" },
       "mesangial Kf"
     ]
   },
@@ -68,7 +68,7 @@
       "cimetidine blocks",
       "trimethoprim blocks",
       "lags AKI 24-48h",
-      "doubles per halving"
+      { "img": "data/images/6/6-4/1.png" }
     ]
   },
   {

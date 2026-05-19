@@ -441,6 +441,12 @@
   width: 100%;
   height: 220px;
 }
+/* When an answer card has been placed, slide the whole pile to the right of its
+   original anchor so the played card lands at a distinct spot. Per-card WAA
+   animations in moveAnswerToPile() handle the smooth transition. */
+.clue-pile.has-answer {
+  transform: translateX(240px);
+}
 .clue-pile .clue-card {
   position: absolute;
   top: 0;
@@ -547,6 +553,32 @@
 }
 .clue-card .clue-index::after {
   content: attr(data-mirror);  /* unused; could be used for mirrored corner index */
+}
+
+/* Image clues — the card body becomes the cropped figure with the gold trim
+   acting as a frame. Suit corners + index are kept above the image. */
+.clue-card.has-image {
+  padding: 0.45rem;
+  background:
+    radial-gradient(ellipse at top, #1a1a1a 0%, #0d0d0d 100%);
+}
+.clue-card.has-image .card-emblem { display: none; }
+.clue-card.has-image .clue-index {
+  color: var(--gold);
+  text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+  z-index: 2;
+}
+.clue-card.has-image::before,
+.clue-card.has-image::after {
+  color: var(--gold);
+  z-index: 2;
+}
+.clue-card .clue-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0.35rem;
+  display: block;
 }
 
 /* --- BRICK SELECT WEEK SECTIONS ------------------------------------ */
@@ -1172,4 +1204,19 @@ button:disabled {
   background: #fff7ed;
   color: #c2410c;
   font-weight: 600;
+}
+.history-buzzword.is-image {
+  padding: 2px;
+  border-radius: 6px;
+  background: #0d0d0d;
+}
+.history-buzzword.is-image img {
+  display: block;
+  height: 48px;
+  width: auto;
+  border-radius: 4px;
+}
+.history-buzzword.is-image.seen {
+  outline: 2px solid #c2410c;
+  outline-offset: 1px;
 }

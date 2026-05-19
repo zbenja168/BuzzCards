@@ -12,7 +12,7 @@
       "compliant reservoir",
       "sympathetic dominant",
       "T10-L2",
-      "hypogastric nerve",
+      { "img": "data/images/64/64-1/1.png" },
       "sphincters closed",
       "detrusor relaxed"
     ]
@@ -49,7 +49,7 @@
       "Gq/PLC",
       "Ca-driven contraction",
       "beta-3 relaxes",
-      "M2 amplifies",
+      { "img": "data/images/64/64-3/1.png" },
       "the pump"
     ]
   },

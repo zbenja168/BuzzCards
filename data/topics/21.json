@@ -11,7 +11,7 @@
       "IV only",
       "SIADH",
       "V1 + V2 blocker",
-      "aquaresis",
+      { "img": "data/images/21/21-1/1.png" },
       "orthostatic hypotension",
       "CYP3A4 inhibitor",
       "pairs with hypertonic saline"

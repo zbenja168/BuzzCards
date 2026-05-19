@@ -9,7 +9,7 @@
     "buzzwords": [
       "urinary lining",
       "stratified epithelium",
-      "transitional epithelium",
+      { "img": "data/images/56/56-1/1.png" },
       "dome cells",
       "stretches flat",
       "salt-impermeable",
@@ -28,7 +28,7 @@
       "paired tubes",
       "renal pelvis to bladder",
       "retroperitoneal",
-      "4-5 cell urothelium",
+      { "img": "data/images/56/56-2/1.png" },
       "three muscle layers",
       "inner-circular-outer",
       "adventitia outside",
@@ -45,7 +45,7 @@
     "buzzwords": [
       "urine reservoir",
       "6+ cell urothelium",
-      "detrusor muscle",
+      { "img": "data/images/56/56-3/1.png" },
       "thickest smooth muscle",
       "micturition contraction",
       "serosa on dome",
@@ -65,7 +65,7 @@
       "four segments",
       "preprostatic + prostatic",
       "membranous segment",
-      "penile/spongy segment",
+      { "img": "data/images/56/56-4/1.png" },
       "external sphincter",
       "pseudostratified columnar",
       "distal squamous"

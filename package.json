@@ -1,0 +1,24 @@
+{
+  "name": "card_buzzwordgame",
+  "version": "1.0.0",
+  "description": "A browser card game where you guess medical topics from buzzword clues — built from ScholarRx renal/urinary brick PDFs.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbenja168/BuzzCards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zbenja168/BuzzCards/issues"
+  },
+  "homepage": "https://github.com/zbenja168/BuzzCards#readme",
+  "devDependencies": {
+    "jimp": "^1.6.1"
+  }
+}

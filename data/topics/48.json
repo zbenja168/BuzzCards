@@ -8,11 +8,11 @@
     "type": "disease",
     "buzzwords": [
       "microscopic hematuria",
-      "kidney-ear-eye triad",
+      { "img": "data/images/48/48-1/1.png" },
       "young male ESRD",
       "sensorineural deafness",
       "anterior lenticonus",
-      "basket-weave GBM",
+      { "img": "data/images/48/48-1/2.png" },
       "X-linked COL4A5",
       "type IV collagen"
     ]

@@ -10,11 +10,11 @@
       "barrier filter",
       "size selectivity",
       "charge selectivity",
-      "70 kDa cutoff",
+      { "img": "data/images/5/5-1/2.png" },
       "4 nm cutoff",
       "anion repulsion",
       "heparan sulfate",
-      "slit diaphragm"
+      { "img": "data/images/5/5-1/1.png" }
     ]
   },
   {
@@ -26,11 +26,11 @@
     "type": "physiology",
     "buzzwords": [
       "filtration pressure",
-      "hydrostatic in",
+      { "img": "data/images/5/5-2/1.png" },
       "oncotic out",
       "P_GC favors",
       "P_BS opposes",
-      "efferent raises P_GC",
+      { "img": "data/images/5/5-2/2.png" },
       "NFP = (P_GC-P_BS) - pi_GC",
       "GFR = Kf x NFP"
     ]

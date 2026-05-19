@@ -8,12 +8,16 @@
     "type": "anatomy",
     "buzzwords": [
       "retroperitoneal",
-      "T12-L3",
+      {
+        "img": "data/images/1/1-1/2.png"
+      },
       "25% cardiac output",
       "right sits lower",
       "perinephric fat",
       "cortex and medulla",
-      "renal pyramids",
+      {
+        "img": "data/images/1/1-1/1.png"
+      },
       "hilum entry"
     ]
   },
@@ -29,9 +33,13 @@
       "peristaltic",
       "25-30 cm",
       "crosses psoas",
-      "UPJ narrowing",
+      {
+        "img": "data/images/1/1-2/1.png"
+      },
       "pelvic brim",
-      "UVJ narrowing",
+      {
+        "img": "data/images/1/1-2/2.png"
+      },
       "water under bridge"
     ]
   },
@@ -46,10 +54,14 @@
       "hollow reservoir",
       "behind pubic symphysis",
       "detrusor muscle",
-      "trigone",
+      {
+        "img": "data/images/1/1-3/1.png"
+      },
       "oblique ureter entry",
       "prevents reflux",
-      "hypogastric sympathetics",
+      {
+        "img": "data/images/1/1-3/2.png"
+      },
       "pelvic splanchnic S2-S4"
     ]
   },
@@ -63,11 +75,15 @@
     "buzzwords": [
       "exit conduit",
       "internal sphincter",
-      "external sphincter",
+      {
+        "img": "data/images/1/1-4/1.png"
+      },
       "pudendal nerve",
       "female 4 cm",
       "male 18-20 cm",
-      "prostatic-membranous-spongy",
+      {
+        "img": "data/images/1/1-4/2.png"
+      },
       "membranous rupture risk"
     ]
   },
@@ -85,7 +101,9 @@
       "rudimentary",
       "nonfunctional",
       "no urine",
-      "degenerates early",
+      {
+        "img": "data/images/2/2-1/1.png"
+      },
       "rostral remnant"
     ]
   },
@@ -103,7 +121,9 @@
       "Wolffian duct",
       "epididymis",
       "ductus deferens",
-      "seminal vesicles",
+      {
+        "img": "data/images/2/2-2/1.png"
+      },
       "Gartner's duct"
     ]
   },
@@ -121,7 +141,9 @@
       "week 5 start",
       "two components",
       "reciprocal induction",
-      "bud plus blastema",
+      {
+        "img": "data/images/2/2-3/1.png"
+      },
       "definitive kidney"
     ]
   },
@@ -138,7 +160,9 @@
       "collecting ducts",
       "calyces",
       "renal pelvis",
-      "ureters",
+      {
+        "img": "data/images/2/2-4/1.png"
+      },
       "failed induction",
       "renal agenesis"
     ]
@@ -157,7 +181,9 @@
       "Bowman's capsule",
       "PCT and DCT",
       "loop of Henle",
-      "endothelial invasion",
+      {
+        "img": "data/images/2/2-5/1.png"
+      },
       "glomerular formation"
     ]
   },
@@ -175,7 +201,9 @@
       "torso lengthens",
       "T12 to L3",
       "transient arteries",
-      "accessory renal artery",
+      {
+        "img": "data/images/2/2-6/1.png"
+      },
       "UPJ hydronephrosis"
     ]
   },
@@ -210,7 +238,9 @@
       "urogenital sinus",
       "anorectal canal",
       "bladder and urethra",
-      "rectum and anus",
+      {
+        "img": "data/images/2/2-8/1.png"
+      },
       "sinovaginal bulbs",
       "lower vagina"
     ]
@@ -227,7 +257,9 @@
       "yolk sac diverticulum",
       "fails to obliterate",
       "bladder to umbilicus",
-      "median umbilical ligament",
+      {
+        "img": "data/images/2/2-9/1.png"
+      },
       "umbilical urine leak",
       "neonatal presentation",
       "persistent tract"
@@ -242,13 +274,17 @@
     "type": "disease",
     "buzzwords": [
       "fusion anomaly",
-      "U-shaped kidney",
+      {
+        "img": "data/images/3/3-1/1.png"
+      },
       "lower-pole fusion",
       "stuck under IMA",
       "1 in 400",
       "UPJ obstruction",
       "Turner syndrome",
-      "midline isthmus"
+      {
+        "img": "data/images/3/3-1/2.png"
+      }
     ]
   },
   {
@@ -260,13 +296,17 @@
     "type": "disease",
     "buzzwords": [
       "failed ascent",
-      "ectopic kidney",
+      {
+        "img": "data/images/3/3-2/2.png"
+      },
       "iliac blood supply",
       "aberrant arteries",
       "asymptomatic finding",
       "hydronephrosis risk",
       "recurrent UTIs",
-      "incidental on imaging"
+      {
+        "img": "data/images/3/3-2/1.png"
+      }
     ]
   },
   {
@@ -334,11 +374,15 @@
       "filters blood",
       "makes ultrafiltrate",
       "proximal nephron",
-      "capillary tuft",
+      {
+        "img": "data/images/4/4-1/1.png"
+      },
       "Bowman capsule",
       "vascular pole",
       "afferent/efferent arterioles",
-      "mesangial support"
+      {
+        "img": "data/images/4/4-1/2.png"
+      }
     ]
   },
   {
@@ -351,10 +395,14 @@
     "buzzwords": [
       "three layers",
       "size/charge sieve",
-      "fenestrated endothelium",
+      {
+        "img": "data/images/4/4-2/2.png"
+      },
       "GBM",
       "heparan sulfate",
-      "podocyte pedicels",
+      {
+        "img": "data/images/4/4-2/1.png"
+      },
       "slit diaphragms",
       "diabetic proteinuria"
     ]
@@ -370,7 +418,9 @@
       "cortex workhorse",
       "bulk reabsorption",
       "brush border",
-      "pink cytoplasm",
+      {
+        "img": "data/images/4/4-3/1.png"
+      },
       "mitochondria-rich",
       "reclaims glucose",
       "two-thirds water",
@@ -391,7 +441,9 @@
       "countercurrent",
       "descending water",
       "ascending NaCl",
-      "thin squamous limbs",
+      {
+        "img": "data/images/4/4-4/1.png"
+      },
       "thick cuboidal limb"
     ]
   },
@@ -424,7 +476,9 @@
       "vascular pole",
       "pressure sensor",
       "salt sensor",
-      "macula densa",
+      {
+        "img": "data/images/4/4-6/1.png"
+      },
       "JG cells",
       "renin secretion",
       "RAAS trigger",
@@ -442,7 +496,9 @@
       "final tubule",
       "pools many nephrons",
       "pale epithelium",
-      "distinct cell borders",
+      {
+        "img": "data/images/4/4-7/1.png"
+      },
       "principal cells",
       "intercalated cells",
       "ADH/aldosterone target",
@@ -460,11 +516,15 @@
       "barrier filter",
       "size selectivity",
       "charge selectivity",
-      "70 kDa cutoff",
+      {
+        "img": "data/images/5/5-1/2.png"
+      },
       "4 nm cutoff",
       "anion repulsion",
       "heparan sulfate",
-      "slit diaphragm"
+      {
+        "img": "data/images/5/5-1/1.png"
+      }
     ]
   },
   {
@@ -476,11 +536,15 @@
     "type": "physiology",
     "buzzwords": [
       "filtration pressure",
-      "hydrostatic in",
+      {
+        "img": "data/images/5/5-2/1.png"
+      },
       "oncotic out",
       "P_GC favors",
       "P_BS opposes",
-      "efferent raises P_GC",
+      {
+        "img": "data/images/5/5-2/2.png"
+      },
       "NFP = (P_GC-P_BS) - pi_GC",
       "GFR = Kf x NFP"
     ]
@@ -619,13 +683,17 @@
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "arteriolar tone",
+      {
+        "img": "data/images/6/6-2/1.png"
+      },
       "afferent down",
       "efferent up",
       "Ang II efferent",
       "NSAIDs afferent",
       "ACEi dilates efferent",
-      "oncotic opposes",
+      {
+        "img": "data/images/6/6-2/2.png"
+      },
       "mesangial Kf"
     ]
   },
@@ -662,7 +730,9 @@
       "cimetidine blocks",
       "trimethoprim blocks",
       "lags AKI 24-48h",
-      "doubles per halving"
+      {
+        "img": "data/images/6/6-4/1.png"
+      }
     ]
   },
   {
@@ -712,7 +782,9 @@
       "plasma scrubbed",
       "mL/min",
       "(Ux x V) / Px",
-      "excretion over plasma",
+      {
+        "img": "data/images/7/7-1/1.png"
+      },
       "Cx < GFR reabsorbed",
       "Cx = GFR filtered only",
       "Cx > GFR secreted",
@@ -764,7 +836,9 @@
     "type": "physiology",
     "buzzwords": [
       "estimates RPF",
-      "filtered + secreted",
+      {
+        "img": "data/images/7/7-4/1.png"
+      },
       "OAT transport",
       "~90% extraction",
       "single-pass clearance",
@@ -786,7 +860,9 @@
       "RPF / (1 - Hct)",
       "FF = GFR/RPF",
       "normal 15-20%",
-      "high FF in CHF",
+      {
+        "img": "data/images/7/7-5/1.png"
+      },
       "low FF in pregnancy",
       "Ang II efferent tone"
     ]
@@ -802,7 +878,9 @@
       "PCT secretion",
       "OAT anions",
       "OCT cations",
-      "transporter competition",
+      {
+        "img": "data/images/7/7-6/1.png"
+      },
       "saturation kinetics",
       "ion trapping",
       "dose reduction",
@@ -860,7 +938,9 @@
       "seconds-fast",
       "buffers posture changes",
       "fails <80 mmHg",
-      "pressure-flow buffer"
+      {
+        "img": "data/images/8/8-3/1.png"
+      }
     ]
   },
   {
@@ -966,7 +1046,9 @@
       "65-70% Na+",
       "leaky claudin-2",
       "AQP1 water",
-      "SGLT2 glucose",
+      {
+        "img": "data/images/9/9-1/1.png"
+      },
       "NHE-3 bicarb",
       "Fanconi site"
     ]
@@ -983,7 +1065,9 @@
       "water-permeable",
       "solute-impermeable",
       "concentrates filtrate",
-      "dives into medulla",
+      {
+        "img": "data/images/9/9-2/1.png"
+      },
       "no active transport",
       "AQP1 efflux",
       "countercurrent arm"
@@ -999,7 +1083,9 @@
     "buzzwords": [
       "diluting segment",
       "water-impermeable",
-      "NKCC2 cotransporter",
+      {
+        "img": "data/images/9/9-3/1.png"
+      },
       "furosemide target",
       "lumen-positive voltage",
       "ROMK recycling",
@@ -1017,7 +1103,9 @@
     "buzzwords": [
       "fine-tuning segment",
       "5-8% Na+",
-      "NCC cotransporter",
+      {
+        "img": "data/images/9/9-4/1.png"
+      },
       "thiazide target",
       "water-tight",
       "PTH-regulated Ca",
@@ -1034,11 +1122,15 @@
     "type": "physiology",
     "buzzwords": [
       "final checkpoint",
-      "ENaC sodium",
+      {
+        "img": "data/images/9/9-5/1.png"
+      },
       "aldosterone-driven",
       "ROMK K+ secretion",
       "ADH-tuned water",
-      "AQP2 insertion",
+      {
+        "img": "data/images/9/9-5/2.png"
+      },
       "cortical CD",
       "amiloride target"
     ]
@@ -1052,7 +1144,9 @@
     "type": "physiology",
     "buzzwords": [
       "acid-base specialists",
-      "H+-ATPase",
+      {
+        "img": "data/images/9/9-6/1.png"
+      },
       "type A acidosis",
       "type B alkalosis",
       "H+ secretion",
@@ -1073,7 +1167,9 @@
       "Tm threshold",
       "glucose Tm ~375",
       "renal threshold 180",
-      "splay curve",
+      {
+        "img": "data/images/9/9-7/1.png"
+      },
       "nephron heterogeneity",
       "osmotic diuresis",
       "pan-proximal Fanconi"
@@ -1088,7 +1184,9 @@
     "type": "physiology",
     "buzzwords": [
       "bulk reabsorption",
-      "65-80% reabsorbed",
+      {
+        "img": "data/images/10/10-1/1.png"
+      },
       "isoosmotic",
       "NHE3 exchanger",
       "Na+/H+ swap",
@@ -1160,9 +1258,13 @@
     "type": "physiology",
     "buzzwords": [
       "intrarenal autoregulation",
-      "macula densa",
+      {
+        "img": "data/images/10/10-5/1.png"
+      },
       "senses NaCl",
-      "JG apparatus",
+      {
+        "img": "data/images/10/10-5/2.png"
+      },
       "renin modulation",
       "afferent/efferent tone",
       "GFR stabilization",
@@ -1180,7 +1282,9 @@
       "low BP trigger",
       "hemorrhage response",
       "renin release",
-      "Ang II",
+      {
+        "img": "data/images/10/10-6/1.png"
+      },
       "efferent constriction",
       "aldosterone surge",
       "ENaC upregulation",
@@ -1234,7 +1338,9 @@
       "3.5-5.0 mEq/L",
       "98% intracellular",
       "Na+/K+-ATPase",
-      "3 Na out, 2 K in",
+      {
+        "img": "data/images/11/11-1/1.png"
+      },
       "sets RMP",
       "arrhythmia risk",
       "narrow window",
@@ -1256,7 +1362,9 @@
       "alpha shifts out",
       "DKA hyperkalemia",
       "treats hyperkalemia",
-      "stimulates Na/K-ATPase"
+      {
+        "img": "data/images/11/11-2/1.png"
+      }
     ]
   },
   {
@@ -1304,7 +1412,9 @@
     "type": "physiology",
     "buzzwords": [
       "freely filtered",
-      "70% PCT",
+      {
+        "img": "data/images/11/11-5/1.png"
+      },
       "20% TAL",
       "paracellular PCT",
       "NKCC2 cotransporter",
@@ -1321,7 +1431,9 @@
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "principal cells",
+      {
+        "img": "data/images/11/11-6/1.png"
+      },
       "ROMK channel",
       "BK/Maxi-K",
       "ENaC pairing",
@@ -1360,7 +1472,9 @@
       "potent diuretic",
       "pulmonary edema",
       "CHF first-line",
-      "sulfa drug",
+      {
+        "img": "data/images/12/12-1/1.png"
+      },
       "blocks NKCC2",
       "TAL action",
       "contraction alkalosis",
@@ -1376,7 +1490,9 @@
     "type": "drug",
     "buzzwords": [
       "loop diuretic",
-      "sulfonamide group",
+      {
+        "img": "data/images/12/12-2/1.png"
+      },
       "most potent loop",
       "80% bioavailable",
       "1 mg dose",
@@ -1411,7 +1527,9 @@
     "week": 1,
     "type": "drug",
     "buzzwords": [
-      "non-sulfonamide loop",
+      {
+        "img": "data/images/12/12-4/1.png"
+      },
       "sulfa allergy",
       "most ototoxic",
       "tinnitus risk",
@@ -1431,8 +1549,12 @@
     "buzzwords": [
       "first-line HTN",
       "HCTZ",
-      "DCT diuretic",
-      "blocks NCC",
+      {
+        "img": "data/images/13/13-1/1.png"
+      },
+      {
+        "img": "data/images/13/13-1/2.png"
+      },
       "hypokalemia",
       "hyperuricemia",
       "hypercalcemia",
@@ -1451,10 +1573,14 @@
       "IV only",
       "sugar alcohol",
       "raises osmolality",
-      "shrinks brain",
+      {
+        "img": "data/images/14/14-1/1.png"
+      },
       "lowers ICP",
       "freely filtered",
-      "proximal tubule"
+      {
+        "img": "data/images/14/14-1/2.png"
+      }
     ]
   },
   {
@@ -1484,9 +1610,13 @@
     "type": "drug",
     "buzzwords": [
       "K+-sparing diuretic",
-      "ascites drug",
+      {
+        "img": "data/images/15/15-1/2.png"
+      },
       "HFrEF adjunct",
-      "MR antagonist",
+      {
+        "img": "data/images/15/15-1/1.png"
+      },
       "blocks aldosterone",
       "gynecomastia",
       "antiandrogen",
@@ -1506,7 +1636,9 @@
       "selective MR blocker",
       "no gynecomastia",
       "spares libido",
-      "blocks aldosterone",
+      {
+        "img": "data/images/15/15-2/1.png"
+      },
       "hyperkalemia risk",
       "type IV RTA"
     ]
@@ -1520,7 +1652,9 @@
     "type": "drug",
     "buzzwords": [
       "K+-sparing diuretic",
-      "ENaC blocker",
+      {
+        "img": "data/images/15/15-3/1.png"
+      },
       "collecting duct",
       "no MR effect",
       "paired with HCTZ",
@@ -1538,7 +1672,9 @@
     "type": "drug",
     "buzzwords": [
       "K+-sparing diuretic",
-      "ENaC blocker",
+      {
+        "img": "data/images/15/15-4/1.png"
+      },
       "collecting duct",
       "weak diuretic",
       "HCTZ combo pill",
@@ -1596,7 +1732,9 @@
       "height = osmolality",
       "area = solute",
       "equal heights",
-      "ICF/ECF boxes",
+      {
+        "img": "data/images/16/16-3/1.png"
+      },
       "predicts water shift",
       "Darrow-Yannet"
     ]
@@ -1670,7 +1808,9 @@
       "multiplier effect",
       "NKCC2-driven",
       "1200 mOsm/kg",
-      "corticomedullary gradient"
+      {
+        "img": "data/images/17/17-1/1.png"
+      }
     ]
   },
   {
@@ -1686,7 +1826,9 @@
       "salt leaves ascending",
       "TAL water-impermeable",
       "thin descending water-permeable",
-      "diluting segment",
+      {
+        "img": "data/images/17/17-2/1.png"
+      },
       "100 mOsm/kg exit",
       "passive water exit"
     ]
@@ -1718,7 +1860,9 @@
     "type": "physiology",
     "buzzwords": [
       "antidiuretic hormone",
-      "posterior pituitary",
+      {
+        "img": "data/images/17/17-4/1.png"
+      },
       "V2 receptor",
       "AQP2 insertion",
       "principal cells",
@@ -1778,7 +1922,9 @@
       "hyperproteinemia",
       "multiple myeloma",
       "no treatment",
-      "flame photometry"
+      {
+        "img": "data/images/18/18-1/1.png"
+      }
     ]
   },
   {
@@ -1790,7 +1936,9 @@
     "type": "disease",
     "buzzwords": [
       "high osmolality",
-      "hyperglycemia",
+      {
+        "img": "data/images/18/18-2/1.png"
+      },
       "DKA",
       "mannitol",
       "HHS",
@@ -1814,7 +1962,9 @@
       "urine Na <25",
       "RAAS on",
       "ADH driven",
-      "isotonic saline"
+      {
+        "img": "data/images/18/18-3/1.png"
+      }
     ]
   },
   {
@@ -1832,7 +1982,9 @@
       "cirrhosis",
       "nephrotic",
       "low urine Na",
-      "loop diuretics"
+      {
+        "img": "data/images/18/18-4/1.png"
+      }
     ]
   },
   {
@@ -1886,7 +2038,9 @@
       "not SIADH",
       "30% incidence",
       "stop thiazide",
-      "HCTZ culprit"
+      {
+        "img": "data/images/18/18-7/1.png"
+      }
     ]
   },
   {
@@ -1933,7 +2087,9 @@
     "week": 1,
     "type": "disease",
     "buzzwords": [
-      "hypotonic losses",
+      {
+        "img": "data/images/19/19-2/1.png"
+      },
       "low urine output",
       "concentrated urine",
       "Uosm >600",
@@ -1953,7 +2109,9 @@
     "buzzwords": [
       "polyuria",
       "dilute urine",
-      "no ADH release",
+      {
+        "img": "data/images/19/19-3/1.png"
+      },
       "pituitary tumor",
       "head trauma",
       "post-neurosurgery",
@@ -1969,7 +2127,9 @@
     "week": 1,
     "type": "disease",
     "buzzwords": [
-      "ADH resistance",
+      {
+        "img": "data/images/19/19-4/1.png"
+      },
       "lithium",
       "hypercalcemia",
       "hypokalemia",
@@ -1992,7 +2152,9 @@
       "glucosuria",
       "DKA/HHS",
       "mannitol",
-      "drags water out",
+      {
+        "img": "data/images/19/19-5/1.png"
+      },
       "high Uosm",
       "non-electrolyte osmole"
     ]
@@ -2043,7 +2205,9 @@
     "buzzwords": [
       "diagnoses DI",
       "restrict fluids",
-      "measure Uosm",
+      {
+        "img": "data/images/19/19-8/1.png"
+      },
       "give DDAVP",
       "Uosm rises = central",
       "no change = nephrogenic",
@@ -2065,7 +2229,9 @@
       "central DI",
       "von Willebrand",
       "nasal/oral/IV",
-      "AQP2 insertion",
+      {
+        "img": "data/images/20/20-1/1.png"
+      },
       "hyponatremia risk"
     ]
   },
@@ -2081,7 +2247,9 @@
       "IV only",
       "septic shock",
       "bleeding varices",
-      "V1 agonist",
+      {
+        "img": "data/images/20/20-2/1.png"
+      },
       "splanchnic vasoconstriction",
       "mesenteric ischemia",
       "skin necrosis"
@@ -2099,7 +2267,9 @@
       "IV only",
       "SIADH",
       "V1 + V2 blocker",
-      "aquaresis",
+      {
+        "img": "data/images/21/21-1/1.png"
+      },
       "orthostatic hypotension",
       "CYP3A4 inhibitor",
       "pairs with hypertonic saline"
@@ -2171,7 +2341,9 @@
       "frequent PVCs",
       "flat T waves",
       "ST depression",
-      "prominent U waves",
+      {
+        "img": "data/images/22/22-2/1.png"
+      },
       "PR prolongation",
       "torsades risk",
       "SVT/VT"
@@ -2330,12 +2502,16 @@
     "type": "disease",
     "buzzwords": [
       "ECG if K+ > 5.5",
-      "peaked T waves",
+      {
+        "img": "data/images/23/23-5/1.png"
+      },
       "short QT",
       "prolonged PR",
       "wide QRS",
       "lost P waves",
-      "sine wave",
+      {
+        "img": "data/images/23/23-5/2.png"
+      },
       "asystole"
     ]
   },
@@ -2402,13 +2578,17 @@
     "type": "physiology",
     "buzzwords": [
       "bulk reabsorption",
-      "70% calcium",
-      "85% phosphate",
+      {
+        "img": "data/images/24/24-1/1.png"
+      },
       "paracellular calcium",
-      "Na-Pi cotransporter",
+      {
+        "img": "data/images/24/24-1/2.png"
+      },
       "lumen-positive drive",
       "PTH downregulates",
-      "FGF-23 target"
+      "FGF-23 target",
+      "85% phosphate"
     ]
   },
   {
@@ -2442,7 +2622,9 @@
       "hormone-driven",
       "PTH stimulated",
       "calcitriol stimulated",
-      "apical Ca channel",
+      {
+        "img": "data/images/24/24-3/1.png"
+      },
       "Ca-ATPase exit",
       "thiazide site"
     ]
@@ -2564,10 +2746,14 @@
     "type": "physiology",
     "buzzwords": [
       "major site",
-      "~70% reabsorbed",
+      {
+        "img": "data/images/25/25-1/1.png"
+      },
       "paracellular",
       "lumen-positive voltage",
-      "NKCC2/ROMK loop",
+      {
+        "img": "data/images/25/25-1/2.png"
+      },
       "claudin-16/19",
       "loop diuretics abolish",
       "CaSR activation blocks"
@@ -2658,7 +2844,9 @@
       "polyuria",
       "loop-diuretic mimic",
       "TAL defect",
-      "NKCC2 mutation",
+      {
+        "img": "data/images/26/26-1/1.png"
+      },
       "hypercalciuria",
       "indomethacin helps"
     ]
@@ -2675,7 +2863,9 @@
       "tetany",
       "thiazide mimic",
       "DCT defect",
-      "NCC mutation",
+      {
+        "img": "data/images/26/26-2/1.png"
+      },
       "low Mg",
       "hypocalciuria",
       "chondrocalcinosis"
@@ -2693,7 +2883,9 @@
       "pseudohyperaldosteronism",
       "low renin",
       "low aldosterone",
-      "ENaC gain-of-function",
+      {
+        "img": "data/images/26/26-3/1.png"
+      },
       "autosomal dominant",
       "spironolactone fails",
       "amiloride works"
@@ -2727,7 +2919,9 @@
     "buzzwords": [
       "acid secretors",
       "collecting duct",
-      "H+-ATPase",
+      {
+        "img": "data/images/27/27-2/1.png"
+      },
       "H+/K+-ATPase",
       "new bicarbonate",
       "urine floor 4.6",
@@ -2781,7 +2975,9 @@
     "buzzwords": [
       "glutamine metabolism",
       "proximal tubule",
-      "makes NH4+",
+      {
+        "img": "data/images/27/27-5/1.png"
+      },
       "new HCO3-",
       "5x in acidosis",
       "hyperkalemia inhibits",
@@ -2818,7 +3014,9 @@
       "sick patient",
       "Kussmaul breathing",
       "low pH",
-      "AG >12",
+      {
+        "img": "data/images/28/28-1/1.png"
+      },
       "MUDPILES",
       "GOLDMARK",
       "unmeasured anions",
@@ -2838,7 +3036,9 @@
       "bicarb loss",
       "diarrhea",
       "RTA",
-      "Cl rises",
+      {
+        "img": "data/images/28/28-2/1.png"
+      },
       "low HCO3",
       "give bicarb"
     ]
@@ -2854,7 +3054,9 @@
       "kidney stones",
       "hypokalemia",
       "urine pH >5.3",
-      "alpha-intercalated defect",
+      {
+        "img": "data/images/28/28-3/1.png"
+      },
       "hypercalciuria",
       "amphotericin B",
       "Sjogren",
@@ -2869,7 +3071,9 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "bicarb wasting",
+      {
+        "img": "data/images/28/28-4/1.png"
+      },
       "acetazolamide",
       "multiple myeloma",
       "Fanconi syndrome",
@@ -2892,7 +3096,9 @@
       "diabetic kidney",
       "ACE inhibitor",
       "spironolactone",
-      "low NH4+",
+      {
+        "img": "data/images/28/28-5/1.png"
+      },
       "urine pH <5.3",
       "fludrocortisone"
     ]
@@ -2909,7 +3115,9 @@
       "NG suction",
       "dry mucous membranes",
       "gastric HCl loss",
-      "urine Cl <10",
+      {
+        "img": "data/images/29/29-1/1.png"
+      },
       "saline corrects",
       "bulimic patient",
       "parietal HCO3-"
@@ -3127,7 +3335,9 @@
       "may be normoxic",
       "immobilization",
       "D-dimer first",
-      "CTA gold standard",
+      {
+        "img": "data/images/31/31-3/1.png"
+      },
       "pulmonary thrombus"
     ]
   },
@@ -3197,10 +3407,14 @@
       "-zolamide suffix",
       "acetazolamide",
       "altitude prophylaxis",
-      "open-angle glaucoma",
+      {
+        "img": "data/images/32/32-1/2.png"
+      },
       "pseudotumor cerebri",
       "proximal RTA",
-      "HCO3- wasting"
+      {
+        "img": "data/images/32/32-1/1.png"
+      }
     ]
   },
   {
@@ -3213,11 +3427,15 @@
     "buzzwords": [
       "polyuria",
       "failure to thrive",
-      "rickets",
+      {
+        "img": "data/images/33/33-1/2.png"
+      },
       "glucosuria",
       "non-gap acidosis",
       "hypokalemia",
-      "PT reabsorption defect",
+      {
+        "img": "data/images/33/33-1/1.png"
+      },
       "type 2 RTA"
     ]
   },
@@ -3326,7 +3544,9 @@
       "urine Na <20",
       "FENa <1%",
       "saline responsive",
-      "NSAIDs + ACEi"
+      {
+        "img": "data/images/34/34-1/1.png"
+      }
     ]
   },
   {
@@ -3342,8 +3562,12 @@
       "aminoglycosides",
       "IV contrast",
       "FENa >2%",
-      "muddy brown casts",
-      "fried-egg cells",
+      {
+        "img": "data/images/34/34-2/2.png"
+      },
+      {
+        "img": "data/images/34/34-2/1.png"
+      },
       "tubular backleak"
     ]
   },
@@ -3378,7 +3602,9 @@
       "hematuria",
       "dysmorphic RBCs",
       "RBC casts",
-      "Mickey Mouse ears",
+      {
+        "img": "data/images/34/34-4/1.png"
+      },
       "Goodpasture",
       "biopsy confirms"
     ]
@@ -3395,7 +3621,9 @@
       "anuria",
       "BPH",
       "bilateral stones",
-      "hydronephrosis",
+      {
+        "img": "data/images/34/34-5/1.png"
+      },
       "bear-paw calyces",
       "bladder catheter fix",
       "back-pressure"
@@ -3431,10 +3659,14 @@
       "3-month rule",
       "eGFR <60",
       "ACR >30",
-      "foamy urine",
+      {
+        "img": "data/images/35/35-1/1.png"
+      },
       "G1-G5 staging",
       "A1-A3 albuminuria",
-      "KDIGO grid"
+      {
+        "img": "data/images/35/35-1/2.png"
+      }
     ]
   },
   {
@@ -3554,8 +3786,12 @@
     "type": "disease",
     "buzzwords": [
       "preferred KRT",
-      "pelvic placement",
-      "iliac anastomosis",
+      {
+        "img": "data/images/36/36-2/1.png"
+      },
+      {
+        "img": "data/images/36/36-2/2.png"
+      },
       "natives untouched",
       "tacro/MMF/pred",
       "CMV risk",
@@ -3590,12 +3826,16 @@
     "type": "disease",
     "buzzwords": [
       "thrice weekly",
-      "dialyzer membrane",
+      {
+        "img": "data/images/36/36-4/1.png"
+      },
       "countercurrent dialysate",
       "heparin circuit",
       "diffusion clearance",
       "intradialytic hypotension",
-      "extracorporeal blood",
+      {
+        "img": "data/images/36/36-4/2.png"
+      },
       "urea gradient"
     ]
   },
@@ -3609,10 +3849,14 @@
     "buzzwords": [
       "long-term access",
       "nondominant arm",
-      "native vessels",
+      {
+        "img": "data/images/36/36-5/1.png"
+      },
       "low infection risk",
       "needs maturation",
-      "thrombosis common",
+      {
+        "img": "data/images/36/36-5/2.png"
+      },
       "thrill on exam",
       "high-output failure"
     ]
@@ -3627,8 +3871,12 @@
     "buzzwords": [
       "home cycler",
       "overnight dwell",
-      "peritoneal membrane",
-      "cloudy effluent",
+      {
+        "img": "data/images/36/36-6/2.png"
+      },
+      {
+        "img": "data/images/36/36-6/1.png"
+      },
       "bacterial peritonitis",
       "Staph epidermidis",
       "intraperitoneal antibiotics",
@@ -3770,7 +4018,9 @@
     "type": "lab",
     "buzzwords": [
       "bedside strip",
-      "colorimetric",
+      {
+        "img": "data/images/37/37-5/1.png"
+      },
       "heme",
       "leukocyte esterase",
       "nitrites",
@@ -3809,8 +4059,12 @@
       "stones",
       "UTI",
       "GN clue",
-      "dysmorphic RBCs",
-      "acanthocytes",
+      {
+        "img": "data/images/37/37-7/1.png"
+      },
+      {
+        "img": "data/images/37/37-7/2.png"
+      },
       "RBC casts",
       "myoglobin false+"
     ]
@@ -3823,12 +4077,16 @@
     "week": 2,
     "type": "lab",
     "buzzwords": [
-      "WBCs in urine",
+      {
+        "img": "data/images/37/37-8/1.png"
+      },
       "leukocyte esterase",
       "nitrites",
       "UTI",
       "eosinophils->AIN",
-      "WBC casts",
+      {
+        "img": "data/images/37/37-8/2.png"
+      },
       "pyelonephritis",
       "interstitial nephritis"
     ]
@@ -3843,11 +4101,15 @@
     "buzzwords": [
       "envelopes",
       "calcium oxalate",
-      "coffin-lid",
+      {
+        "img": "data/images/37/37-9/1.png"
+      },
       "struvite",
       "rhomboids",
       "uric acid",
-      "hexagonal",
+      {
+        "img": "data/images/37/37-9/2.png"
+      },
       "cystine"
     ]
   },
@@ -3877,9 +4139,13 @@
     "week": 2,
     "type": "lab",
     "buzzwords": [
-      "muddy brown casts",
+      {
+        "img": "data/images/37/37-11/1.png"
+      },
       "granular casts",
-      "RTE cells",
+      {
+        "img": "data/images/37/37-11/2.png"
+      },
       "tubular injury",
       "central nuclei",
       "epithelial sheets",
@@ -3900,8 +4166,12 @@
       "pregnancy-safe",
       "hydronephrosis",
       "bear-claw calyces",
-      "echogenic kidneys",
-      "ADPCKD cysts",
+      {
+        "img": "data/images/38/38-1/1.png"
+      },
+      {
+        "img": "data/images/38/38-1/2.png"
+      },
       "Doppler flow"
     ]
   },
@@ -3920,7 +4190,9 @@
       "tiny stones seen",
       "locates obstruction",
       "no contrast",
-      "ureteral stone"
+      {
+        "img": "data/images/38/38-2/1.png"
+      }
     ]
   },
   {
@@ -3931,7 +4203,9 @@
     "week": 2,
     "type": "imaging",
     "buzzwords": [
-      "renal mass",
+      {
+        "img": "data/images/38/38-3/1.png"
+      },
       "solid vs cyst",
       "RCC workup",
       "renal trauma",
@@ -3969,7 +4243,9 @@
     "buzzwords": [
       "soft-tissue detail",
       "indeterminate mass",
-      "angiomyolipoma",
+      {
+        "img": "data/images/38/38-5/1.png"
+      },
       "contrast allergy",
       "pregnancy option",
       "CT inconclusive",
@@ -3989,8 +4265,12 @@
       "cola urine",
       "heavy proteinuria",
       "GBM breaks",
-      "dysmorphic RBCs",
-      "acanthocytes",
+      {
+        "img": "data/images/39/39-1/2.png"
+      },
+      {
+        "img": "data/images/39/39-1/1.png"
+      },
       "RBC casts",
       "IgA nephropathy"
     ]
@@ -4006,10 +4286,14 @@
       "painless hematuria",
       "smoker",
       "whole clots",
-      "normal RBCs",
+      {
+        "img": "data/images/39/39-2/1.png"
+      },
       "no casts",
       "bladder cancer",
-      "stones",
+      {
+        "img": "data/images/39/39-2/2.png"
+      },
       "cyclophosphamide cystitis"
     ]
   },
@@ -4022,13 +4306,17 @@
     "type": "disease",
     "buzzwords": [
       "incidental finding",
-      "bright red urine",
       "pink tinge",
-      "naked-eye blood",
+      {
+        "img": "data/images/39/39-3/1.png"
+      },
       "microscope only",
       ">3 RBCs/hpf",
       "asymptomatic dipstick",
-      "trauma classic"
+      {
+        "img": "data/images/39/39-3/2.png"
+      },
+      "bright red urine"
     ]
   },
   {
@@ -4057,11 +4345,15 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "confirm with microscopy",
+      {
+        "img": "data/images/39/39-5/2.png"
+      },
       "dipstick sensitive",
       "check creatinine",
       "noncontrast CT",
-      "US in pregnancy",
+      {
+        "img": "data/images/39/39-5/1.png"
+      },
       "cystoscopy smokers",
       "renal biopsy",
       "urine culture"
@@ -4075,14 +4367,16 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "leg swelling",
       "foamy urine",
       "periorbital edema",
       "4+ proteinuria",
       "low albumin",
       "high lipids",
       "classic tetrad",
-      ">3.5 g/day"
+      ">3.5 g/day",
+      {
+        "img": "data/images/40/40-1/1.png"
+      }
     ]
   },
   {
@@ -4096,11 +4390,15 @@
       "selective albuminuria",
       "charge barrier lost",
       "visceral epithelial cells",
-      "foot process effacement",
       "slit diaphragm",
-      "GBM disruption",
+      {
+        "img": "data/images/40/40-2/1.png"
+      },
       "bland sediment",
-      "EM effacement"
+      "EM effacement",
+      {
+        "img": "data/images/40/40-2/2.png"
+      }
     ]
   },
   {
@@ -4167,7 +4465,9 @@
     "buzzwords": [
       "edema workup",
       "4+ dipstick",
-      "spot UPCR",
+      {
+        "img": "data/images/40/40-6/1.png"
+      },
       "UPCR >3.5",
       "hep/HIV/lupus serologies",
       "renal biopsy",
@@ -4187,9 +4487,13 @@
       "periorbital edema",
       "pediatric nephrotic",
       "selective albuminuria",
-      "normal light micro",
+      {
+        "img": "data/images/41/41-1/1.png"
+      },
       "steroid-responsive",
-      "foot process effacement",
+      {
+        "img": "data/images/41/41-1/2.png"
+      },
       "nephrin antibodies"
     ]
   },
@@ -4205,9 +4509,13 @@
       "foamy urine",
       "generalized edema",
       "idiopathic",
-      "podocyte effacement",
+      {
+        "img": "data/images/42/42-1/1.png"
+      },
       "normal complement",
-      "circulating factor",
+      {
+        "img": "data/images/42/42-1/2.png"
+      },
       "steroid first-line"
     ]
   },
@@ -4315,8 +4623,12 @@
       "hematuria + proteinuria",
       "thickened GBM",
       "mesangial hypercellularity",
-      "tram-track GBM",
-      "subendothelial deposits"
+      {
+        "img": "data/images/43/43-1/1.png"
+      },
+      {
+        "img": "data/images/43/43-1/2.png"
+      }
     ]
   },
   {
@@ -4333,7 +4645,9 @@
       "Raynaud phenomenon",
       "cold-precipitating Igs",
       "low C3 + low C4",
-      "granular IgG/IgM/C3",
+      {
+        "img": "data/images/43/43-2/1.png"
+      },
       "antiviral therapy"
     ]
   },
@@ -4368,8 +4682,12 @@
       "nephrotic syndrome",
       "heavy proteinuria",
       "renal vein thrombosis",
-      "GBM thickening",
-      "subepithelial spikes",
+      {
+        "img": "data/images/44/44-1/1.png"
+      },
+      {
+        "img": "data/images/44/44-1/2.png"
+      },
       "anti-PLA2R"
     ]
   },
@@ -4400,11 +4718,15 @@
     "type": "disease",
     "buzzwords": [
       "hematuria",
-      "RBC casts",
+      {
+        "img": "data/images/45/45-1/2.png"
+      },
       "tea-colored urine",
       "hypertension",
       "mild proteinuria",
-      "dysmorphic RBCs",
+      {
+        "img": "data/images/45/45-1/1.png"
+      },
       "rising creatinine",
       "glomerular inflammation"
     ]
@@ -4435,12 +4757,16 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "crescents",
+      {
+        "img": "data/images/45/45-3/1.png"
+      },
       "days-to-weeks failure",
       "rapidly falling GFR",
       "oliguria",
       "Bowman space proliferation",
-      "fibrin crescents",
+      {
+        "img": "data/images/45/45-3/2.png"
+      },
       "pulse steroids",
       "cyclophosphamide"
     ]
@@ -4567,8 +4893,12 @@
       "nephritic syndrome",
       "low C3",
       "RBC casts",
-      "starry sky IF",
-      "subepithelial humps"
+      {
+        "img": "data/images/46/46-1/1.png"
+      },
+      {
+        "img": "data/images/46/46-1/2.png"
+      }
     ]
   },
   {
@@ -4585,8 +4915,12 @@
       "RPGN",
       "type II hypersensitivity",
       "anti-α3(IV) collagen",
-      "crescentic GN",
-      "linear IgG ribbons"
+      {
+        "img": "data/images/47/47-1/1.png"
+      },
+      {
+        "img": "data/images/47/47-1/2.png"
+      }
     ]
   },
   {
@@ -4598,11 +4932,15 @@
     "type": "disease",
     "buzzwords": [
       "microscopic hematuria",
-      "kidney-ear-eye triad",
+      {
+        "img": "data/images/48/48-1/1.png"
+      },
       "young male ESRD",
       "sensorineural deafness",
       "anterior lenticonus",
-      "basket-weave GBM",
+      {
+        "img": "data/images/48/48-1/2.png"
+      },
       "X-linked COL4A5",
       "type IV collagen"
     ]
@@ -4654,7 +4992,9 @@
       "advanced stage",
       "worse prognosis",
       "edema",
-      "GBM leak",
+      {
+        "img": "data/images/49/49-3/1.png"
+      },
       "declining GFR",
       "ACR >300",
       ">3000 nephrotic",
@@ -4669,14 +5009,18 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "nodular glomerulosclerosis",
+      {
+        "img": "data/images/49/49-4/1.png"
+      },
       "pink eosinophilic",
       "spherical hyaline",
       "advanced DKD",
       "mesangial ECM",
       "TGF-beta driven",
       "type IV collagen",
-      "linear IgG"
+      {
+        "img": "data/images/49/49-4/2.png"
+      }
     ]
   },
   {
@@ -4764,8 +5108,12 @@
       "sepsis kidney",
       "end-arteries",
       "hypoxic tubules",
-      "lost brush border",
-      "muddy brown casts",
+      {
+        "img": "data/images/50/50-1/2.png"
+      },
+      {
+        "img": "data/images/50/50-1/1.png"
+      },
       "FENa >2%"
     ]
   },
@@ -4872,7 +5220,9 @@
       "recovery diuresis",
       "rising creatinine",
       "tubuloglomerular feedback",
-      "back-leak",
+      {
+        "img": "data/images/50/50-7/1.png"
+      },
       "hyperkalemia",
       "self-resolves"
     ]
@@ -4907,7 +5257,9 @@
       "new drug",
       "fever/rash/eos",
       "7-10 day lag",
-      "WBC casts",
+      {
+        "img": "data/images/51/51-1/1.png"
+      },
       "drug as hapten",
       "NSAIDs/PPIs/penicillins",
       "stop the drug"
@@ -4924,7 +5276,9 @@
       "AKI",
       "no drug trigger",
       "sterile pyuria",
-      "WBC casts",
+      {
+        "img": "data/images/51/51-2/1.png"
+      },
       "no allergic triad",
       "nonallergic infiltrate",
       "bacterial pyelo",
@@ -4940,7 +5294,9 @@
     "type": "disease",
     "buzzwords": [
       "intrarenal AKI",
-      "sterile pyuria",
+      {
+        "img": "data/images/51/51-3/1.png"
+      },
       "no recent drug",
       "noncaseating granulomas",
       "sicca symptoms",
@@ -4962,9 +5318,13 @@
       "cloudy urine",
       "sloughed papillae",
       "mimics nephrolithiasis",
-      "vasa recta ischemia",
+      {
+        "img": "data/images/52/52-1/1.png"
+      },
       "POSTCARDS mnemonic",
-      "necrotic medullary tips"
+      {
+        "img": "data/images/52/52-1/2.png"
+      }
     ]
   },
   {
@@ -5033,7 +5393,9 @@
       "WBC casts",
       "urinary obstruction",
       "high intrapelvic pressure",
-      "neutrophilic infiltrate",
+      {
+        "img": "data/images/52/52-5/1.png"
+      },
       "tubular necrosis",
       "relieve obstruction",
       "antibiotics"
@@ -5069,7 +5431,9 @@
       "pregnancy",
       "diabetic host",
       "indwelling catheter",
-      "recurrent UTIs",
+      {
+        "img": "data/images/53/53-2/1.png"
+      },
       "culture mandatory",
       "resistant gram-negatives",
       "fluoroquinolone"
@@ -5089,7 +5453,9 @@
       "nausea, vomiting",
       "WBC casts",
       "leukocytosis",
-      "striated nephrogram",
+      {
+        "img": "data/images/53/53-3/1.png"
+      },
       "IV ceftriaxone"
     ]
   },
@@ -5179,8 +5545,12 @@
       "hypercalciuria",
       "enteric hyperoxaluria",
       "low citrate",
-      "envelope crystals",
-      "dumbbell crystals"
+      {
+        "img": "data/images/54/54-1/2.png"
+      },
+      {
+        "img": "data/images/54/54-1/1.png"
+      }
     ]
   },
   {
@@ -5215,8 +5585,12 @@
       "urease bacteria",
       "Proteus mirabilis",
       "branched cast",
-      "staghorn calculus",
-      "coffin-lid crystals"
+      {
+        "img": "data/images/54/54-3/1.png"
+      },
+      {
+        "img": "data/images/54/54-3/2.png"
+      }
     ]
   },
   {
@@ -5232,7 +5606,9 @@
       "gouty patient",
       "tumor lysis",
       "radiolucent stone",
-      "rhomboid crystals",
+      {
+        "img": "data/images/54/54-4/1.png"
+      },
       "rosette crystals",
       "allopurinol prevents"
     ]
@@ -5250,7 +5626,9 @@
       "cystinuria",
       "PCT transport defect",
       "COLA wasting",
-      "hexagonal crystals",
+      {
+        "img": "data/images/54/54-5/1.png"
+      },
       "penicillamine",
       "tiopronin"
     ]
@@ -5264,12 +5642,16 @@
     "type": "disease",
     "buzzwords": [
       "snail fever",
-      "blood fluke",
+      {
+        "img": "data/images/55/55-1/1.png"
+      },
       "sub-Saharan Africa",
       "freshwater exposure",
       "cercaria penetrates skin",
       "bladder venous plexus",
-      "trematode worm",
+      {
+        "img": "data/images/55/55-1/2.png"
+      },
       "vesical plexus"
     ]
   },
@@ -5281,13 +5663,17 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "snail host",
+      {
+        "img": "data/images/55/55-2/1.png"
+      },
       "freshwater cycle",
       "miracidia hatch",
       "cercariae swim",
       "skin penetration",
       "schistosomula migrate",
-      "paired adults",
+      {
+        "img": "data/images/55/55-2/2.png"
+      },
       "eggs drive pathology"
     ]
   },
@@ -5354,9 +5740,13 @@
     "type": "disease",
     "buzzwords": [
       "urine microscopy",
-      "terminal spine",
+      {
+        "img": "data/images/55/55-6/2.png"
+      },
       "ova in urine",
-      "lateral spine = mansoni",
+      {
+        "img": "data/images/55/55-6/1.png"
+      },
       "lateral knob = japonicum",
       "eosinophilia",
       "serology early",
@@ -5391,7 +5781,9 @@
     "buzzwords": [
       "urinary lining",
       "stratified epithelium",
-      "transitional epithelium",
+      {
+        "img": "data/images/56/56-1/1.png"
+      },
       "dome cells",
       "stretches flat",
       "salt-impermeable",
@@ -5410,7 +5802,9 @@
       "paired tubes",
       "renal pelvis to bladder",
       "retroperitoneal",
-      "4-5 cell urothelium",
+      {
+        "img": "data/images/56/56-2/1.png"
+      },
       "three muscle layers",
       "inner-circular-outer",
       "adventitia outside",
@@ -5427,7 +5821,9 @@
     "buzzwords": [
       "urine reservoir",
       "6+ cell urothelium",
-      "detrusor muscle",
+      {
+        "img": "data/images/56/56-3/1.png"
+      },
       "thickest smooth muscle",
       "micturition contraction",
       "serosa on dome",
@@ -5447,7 +5843,9 @@
       "four segments",
       "preprostatic + prostatic",
       "membranous segment",
-      "penile/spongy segment",
+      {
+        "img": "data/images/56/56-4/1.png"
+      },
       "external sphincter",
       "pseudostratified columnar",
       "distal squamous"
@@ -5483,9 +5881,13 @@
       "retrograde urine",
       "short intramural ureter",
       "flap-valve failure",
-      "graded I-V",
+      {
+        "img": "data/images/57/57-1/1.png"
+      },
       "reflux nephropathy",
-      "VCUG gold standard",
+      {
+        "img": "data/images/57/57-1/2.png"
+      },
       "outgrows it"
     ]
   },
@@ -5498,8 +5900,12 @@
     "type": "disease",
     "buzzwords": [
       "flank pain",
-      "unilateral hydronephrosis",
-      "prenatal ultrasound find",
+      {
+        "img": "data/images/57/57-2/2.png"
+      },
+      {
+        "img": "data/images/57/57-2/1.png"
+      },
       "narrowed junction",
       "aberrant renal artery",
       "bear-paw pattern",
@@ -5517,7 +5923,9 @@
     "buzzwords": [
       "continuous incontinence",
       "girl always wet",
-      "two ureters",
+      {
+        "img": "data/images/57/57-3/1.png"
+      },
       "ectopic insertion",
       "split ureteric bud",
       "vaginal drainage",
@@ -5533,7 +5941,9 @@
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "exposed bladder",
+      {
+        "img": "data/images/57/57-4/1.png"
+      },
       "open abdominal wall",
       "midline closure failure",
       "mesoderm migration defect",
@@ -5554,7 +5964,9 @@
       "umbilical urine leak",
       "wet umbilicus",
       "allantois remnant",
-      "patent urachus",
+      {
+        "img": "data/images/57/57-5/1.png"
+      },
       "urachal cyst",
       "median umbilical ligament",
       "bladder-umbilicus tract",
@@ -5572,8 +5984,12 @@
       "male infant only",
       "weak urinary stream",
       "oligohydramnios",
-      "keyhole sign",
-      "thick-walled bladder",
+      {
+        "img": "data/images/57/57-6/1.png"
+      },
+      {
+        "img": "data/images/57/57-6/2.png"
+      },
       "bilateral hydronephrosis",
       "pulmonary hypoplasia",
       "endoscopic ablation"
@@ -5588,11 +6004,15 @@
     "type": "disease",
     "buzzwords": [
       "flank pain",
-      "palpable kidneys",
+      {
+        "img": "data/images/58/58-1/1.png"
+      },
       "adult onset",
       "new HTN",
       "PKD1/PKD2",
-      "berry aneurysm",
+      {
+        "img": "data/images/58/58-1/2.png"
+      },
       "hepatic cysts",
       "tolvaptan"
     ]
@@ -5611,8 +6031,12 @@
       "PKHD1",
       "fibrocystin",
       "hepatic fibrosis",
-      "pepper kidneys",
-      "collecting duct cysts"
+      {
+        "img": "data/images/58/58-2/2.png"
+      },
+      {
+        "img": "data/images/58/58-2/1.png"
+      }
     ]
   },
   {
@@ -5628,8 +6052,12 @@
       "young adult",
       "recurrent UTIs",
       "distal duct cysts",
-      "echogenic pyramids",
-      "paintbrush calyces",
+      {
+        "img": "data/images/59/59-1/2.png"
+      },
+      {
+        "img": "data/images/59/59-1/1.png"
+      },
       "ureteric bud defect"
     ]
   },
@@ -5643,10 +6071,14 @@
     "buzzwords": [
       "abdominal mass",
       "painless mass",
-      "young child",
+      {
+        "img": "data/images/60/60-1/1.png"
+      },
       "ages 2-5",
       "nephroblastoma",
-      "triphasic histology",
+      {
+        "img": "data/images/60/60-1/2.png"
+      },
       "WT1 mutation",
       "small blue cells"
     ]
@@ -5716,8 +6148,12 @@
       "most common RCC",
       "proximal tubule",
       "upper pole",
-      "golden yellow",
-      "clear cytoplasm",
+      {
+        "img": "data/images/61/61-1/1.png"
+      },
+      {
+        "img": "data/images/61/61-1/2.png"
+      },
       "glycogen and lipid",
       "3p loss",
       "VHL/HIF/VEGF"
@@ -5735,7 +6171,9 @@
       "multifocal",
       "bilateral tumors",
       "hemorrhagic cystic",
-      "papillae",
+      {
+        "img": "data/images/61/61-2/1.png"
+      },
       "foamy macrophages",
       "psammoma bodies",
       "MET mutation"
@@ -5755,7 +6193,9 @@
       "tan-brown",
       "well-circumscribed",
       "pale eosinophilic",
-      "perinuclear halos",
+      {
+        "img": "data/images/61/61-3/1.png"
+      },
       "hypoploidy"
     ]
   },
@@ -5806,9 +6246,13 @@
       "incidental mass",
       "mimics RCC",
       "benign tumor",
-      "mahogany brown",
+      {
+        "img": "data/images/62/62-1/1.png"
+      },
       "stellate scar",
-      "intercalated cells",
+      {
+        "img": "data/images/62/62-1/2.png"
+      },
       "eosinophilic cytoplasm",
       "mitochondria-rich"
     ]
@@ -5821,11 +6265,15 @@
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "fat on CT",
+      {
+        "img": "data/images/62/62-2/2.png"
+      },
       "retroperitoneal bleed",
       "tuberous sclerosis",
       "TSC1/TSC2 loss",
-      "vessels-muscle-fat",
+      {
+        "img": "data/images/62/62-2/1.png"
+      },
       "perivascular epithelioid",
       "mTOR inhibitors",
       "arterial embolization"
@@ -5845,8 +6293,12 @@
       "arylamine dyes",
       "tire/rubber worker",
       "cyclophosphamide history",
-      "papillary lesion",
-      "TP53/RB loss"
+      {
+        "img": "data/images/63/63-1/1.png"
+      },
+      {
+        "img": "data/images/63/63-1/2.png"
+      }
     ]
   },
   {
@@ -5863,7 +6315,9 @@
       "squamous metaplasia",
       "chronic inflammation",
       "S. haematobium",
-      "schistosomiasis link",
+      {
+        "img": "data/images/63/63-2/1.png"
+      },
       "upfront cystectomy"
     ]
   },
@@ -5880,7 +6334,9 @@
       "compliant reservoir",
       "sympathetic dominant",
       "T10-L2",
-      "hypogastric nerve",
+      {
+        "img": "data/images/64/64-1/1.png"
+      },
       "sphincters closed",
       "detrusor relaxed"
     ]
@@ -5917,7 +6373,9 @@
       "Gq/PLC",
       "Ca-driven contraction",
       "beta-3 relaxes",
-      "M2 amplifies",
+      {
+        "img": "data/images/64/64-3/1.png"
+      },
       "the pump"
     ]
   },
@@ -6006,9 +6464,13 @@
       "sneeze leak",
       "multiparous woman",
       "weak pelvic floor",
-      "urethral hypermobility",
+      {
+        "img": "data/images/65/65-1/1.png"
+      },
       "Kegel exercises",
-      "sling procedure"
+      {
+        "img": "data/images/65/65-1/2.png"
+      }
     ]
   },
   {
@@ -6022,7 +6484,9 @@
       "sudden urgency",
       "frequency",
       "nocturia",
-      "overactive bladder",
+      {
+        "img": "data/images/65/65-2/1.png"
+      },
       "detrusor hyperactivity",
       "oxybutynin",
       "mirabegron",
@@ -6040,9 +6504,13 @@
       "constant dribbling",
       "weak stream",
       "hesitancy",
-      "high postvoid residual",
+      {
+        "img": "data/images/65/65-3/1.png"
+      },
       "detrusor underactivity",
-      "BPH obstruction",
+      {
+        "img": "data/images/65/65-3/2.png"
+      },
       "diabetic neuropathy",
       "bethanechol"
     ]
@@ -6077,7 +6545,9 @@
       "hypotonic bladder",
       "no contractions",
       "cauda equina",
-      "conus medullaris",
+      {
+        "img": "data/images/65/65-5/1.png"
+      },
       "diabetic autonomic neuropathy",
       "overflow leakage",
       "intermittent catheterization"

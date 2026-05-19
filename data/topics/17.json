@@ -14,7 +14,7 @@
       "multiplier effect",
       "NKCC2-driven",
       "1200 mOsm/kg",
-      "corticomedullary gradient"
+      { "img": "data/images/17/17-1/1.png" }
     ]
   },
   {
@@ -30,7 +30,7 @@
       "salt leaves ascending",
       "TAL water-impermeable",
       "thin descending water-permeable",
-      "diluting segment",
+      { "img": "data/images/17/17-2/1.png" },
       "100 mOsm/kg exit",
       "passive water exit"
     ]
@@ -62,7 +62,7 @@
     "type": "physiology",
     "buzzwords": [
       "antidiuretic hormone",
-      "posterior pituitary",
+      { "img": "data/images/17/17-4/1.png" },
       "V2 receptor",
       "AQP2 insertion",
       "principal cells",

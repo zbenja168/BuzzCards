@@ -11,10 +11,10 @@
       "-zolamide suffix",
       "acetazolamide",
       "altitude prophylaxis",
-      "open-angle glaucoma",
+      { "img": "data/images/32/32-1/2.png" },
       "pseudotumor cerebri",
       "proximal RTA",
-      "HCO3- wasting"
+      { "img": "data/images/32/32-1/1.png" }
     ]
   }
 ]

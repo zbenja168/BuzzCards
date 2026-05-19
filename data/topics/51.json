@@ -11,7 +11,7 @@
       "new drug",
       "fever/rash/eos",
       "7-10 day lag",
-      "WBC casts",
+      { "img": "data/images/51/51-1/1.png" },
       "drug as hapten",
       "NSAIDs/PPIs/penicillins",
       "stop the drug"
@@ -28,7 +28,7 @@
       "AKI",
       "no drug trigger",
       "sterile pyuria",
-      "WBC casts",
+      { "img": "data/images/51/51-2/1.png" },
       "no allergic triad",
       "nonallergic infiltrate",
       "bacterial pyelo",
@@ -44,7 +44,7 @@
     "type": "disease",
     "buzzwords": [
       "intrarenal AKI",
-      "sterile pyuria",
+      { "img": "data/images/51/51-3/1.png" },
       "no recent drug",
       "noncaseating granulomas",
       "sicca symptoms",

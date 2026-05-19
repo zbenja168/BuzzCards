@@ -8,10 +8,10 @@
     "type": "physiology",
     "buzzwords": [
       "major site",
-      "~70% reabsorbed",
+      { "img": "data/images/25/25-1/1.png" },
       "paracellular",
       "lumen-positive voltage",
-      "NKCC2/ROMK loop",
+      { "img": "data/images/25/25-1/2.png" },
       "claudin-16/19",
       "loop diuretics abolish",
       "CaSR activation blocks"

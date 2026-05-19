@@ -8,12 +8,12 @@
     "type": "anatomy",
     "buzzwords": [
       "retroperitoneal",
-      "T12-L3",
+      { "img": "data/images/1/1-1/2.png" },
       "25% cardiac output",
       "right sits lower",
       "perinephric fat",
       "cortex and medulla",
-      "renal pyramids",
+      { "img": "data/images/1/1-1/1.png" },
       "hilum entry"
     ]
   },
@@ -29,9 +29,9 @@
       "peristaltic",
       "25-30 cm",
       "crosses psoas",
-      "UPJ narrowing",
+      { "img": "data/images/1/1-2/1.png" },
       "pelvic brim",
-      "UVJ narrowing",
+      { "img": "data/images/1/1-2/2.png" },
       "water under bridge"
     ]
   },
@@ -46,10 +46,10 @@
       "hollow reservoir",
       "behind pubic symphysis",
       "detrusor muscle",
-      "trigone",
+      { "img": "data/images/1/1-3/1.png" },
       "oblique ureter entry",
       "prevents reflux",
-      "hypogastric sympathetics",
+      { "img": "data/images/1/1-3/2.png" },
       "pelvic splanchnic S2-S4"
     ]
   },
@@ -63,11 +63,11 @@
     "buzzwords": [
       "exit conduit",
       "internal sphincter",
-      "external sphincter",
+      { "img": "data/images/1/1-4/1.png" },
       "pudendal nerve",
       "female 4 cm",
       "male 18-20 cm",
-      "prostatic-membranous-spongy",
+      { "img": "data/images/1/1-4/2.png" },
       "membranous rupture risk"
     ]
   }

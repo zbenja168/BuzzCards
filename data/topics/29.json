@@ -11,7 +11,7 @@
       "NG suction",
       "dry mucous membranes",
       "gastric HCl loss",
-      "urine Cl <10",
+      { "img": "data/images/29/29-1/1.png" },
       "saline corrects",
       "bulimic patient",
       "parietal HCO3-"

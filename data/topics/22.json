@@ -29,7 +29,7 @@
       "frequent PVCs",
       "flat T waves",
       "ST depression",
-      "prominent U waves",
+      { "img": "data/images/22/22-2/1.png" },
       "PR prolongation",
       "torsades risk",
       "SVT/VT"

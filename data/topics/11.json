@@ -10,7 +10,7 @@
       "3.5-5.0 mEq/L",
       "98% intracellular",
       "Na+/K+-ATPase",
-      "3 Na out, 2 K in",
+      { "img": "data/images/11/11-1/1.png" },
       "sets RMP",
       "arrhythmia risk",
       "narrow window",
@@ -32,7 +32,7 @@
       "alpha shifts out",
       "DKA hyperkalemia",
       "treats hyperkalemia",
-      "stimulates Na/K-ATPase"
+      { "img": "data/images/11/11-2/1.png" }
     ]
   },
   {
@@ -80,7 +80,7 @@
     "type": "physiology",
     "buzzwords": [
       "freely filtered",
-      "70% PCT",
+      { "img": "data/images/11/11-5/1.png" },
       "20% TAL",
       "paracellular PCT",
       "NKCC2 cotransporter",
@@ -97,7 +97,7 @@
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "principal cells",
+      { "img": "data/images/11/11-6/1.png" },
       "ROMK channel",
       "BK/Maxi-K",
       "ENaC pairing",

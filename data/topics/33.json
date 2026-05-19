@@ -9,11 +9,11 @@
     "buzzwords": [
       "polyuria",
       "failure to thrive",
-      "rickets",
+      { "img": "data/images/33/33-1/2.png" },
       "glucosuria",
       "non-gap acidosis",
       "hypokalemia",
-      "PT reabsorption defect",
+      { "img": "data/images/33/33-1/1.png" },
       "type 2 RTA"
     ]
   },

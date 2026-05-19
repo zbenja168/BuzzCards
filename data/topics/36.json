@@ -26,8 +26,8 @@
     "type": "disease",
     "buzzwords": [
       "preferred KRT",
-      "pelvic placement",
-      "iliac anastomosis",
+      { "img": "data/images/36/36-2/1.png" },
+      { "img": "data/images/36/36-2/2.png" },
       "natives untouched",
       "tacro/MMF/pred",
       "CMV risk",
@@ -62,12 +62,12 @@
     "type": "disease",
     "buzzwords": [
       "thrice weekly",
-      "dialyzer membrane",
+      { "img": "data/images/36/36-4/1.png" },
       "countercurrent dialysate",
       "heparin circuit",
       "diffusion clearance",
       "intradialytic hypotension",
-      "extracorporeal blood",
+      { "img": "data/images/36/36-4/2.png" },
       "urea gradient"
     ]
   },
@@ -81,10 +81,10 @@
     "buzzwords": [
       "long-term access",
       "nondominant arm",
-      "native vessels",
+      { "img": "data/images/36/36-5/1.png" },
       "low infection risk",
       "needs maturation",
-      "thrombosis common",
+      { "img": "data/images/36/36-5/2.png" },
       "thrill on exam",
       "high-output failure"
     ]
@@ -99,8 +99,8 @@
     "buzzwords": [
       "home cycler",
       "overnight dwell",
-      "peritoneal membrane",
-      "cloudy effluent",
+      { "img": "data/images/36/36-6/2.png" },
+      { "img": "data/images/36/36-6/1.png" },
       "bacterial peritonitis",
       "Staph epidermidis",
       "intraperitoneal antibiotics",

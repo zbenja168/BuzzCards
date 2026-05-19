@@ -8,13 +8,13 @@
     "type": "disease",
     "buzzwords": [
       "fusion anomaly",
-      "U-shaped kidney",
+      { "img": "data/images/3/3-1/1.png" },
       "lower-pole fusion",
       "stuck under IMA",
       "1 in 400",
       "UPJ obstruction",
       "Turner syndrome",
-      "midline isthmus"
+      { "img": "data/images/3/3-1/2.png" }
     ]
   },
   {
@@ -26,13 +26,13 @@
     "type": "disease",
     "buzzwords": [
       "failed ascent",
-      "ectopic kidney",
+      { "img": "data/images/3/3-2/2.png" },
       "iliac blood supply",
       "aberrant arteries",
       "asymptomatic finding",
       "hydronephrosis risk",
       "recurrent UTIs",
-      "incidental on imaging"
+      { "img": "data/images/3/3-2/1.png" }
     ]
   },
   {

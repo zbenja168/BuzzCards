@@ -214,7 +214,13 @@ function renderHistory() {
     const chips = el('div', { class: 'history-buzzwords' });
     entry.shuffledClues.forEach((b, idx) => {
       const cls = 'history-buzzword' + (idx < entry.cluesUsed ? ' seen' : '');
-      chips.append(el('span', { class: cls }, b));
+      if (isImageClue(b)) {
+        chips.append(el('span', { class: cls + ' is-image' },
+          el('img', { src: b.img, alt: 'visual clue' })
+        ));
+      } else {
+        chips.append(el('span', { class: cls }, b));
+      }
     });
     card.append(chips);
     listEl.append(card);
@@ -547,7 +553,7 @@ function playCard(cardId) {
     // and becomes the "base" of the stack; the remaining clues then land on top of it.
     setTimeout(() => moveAnswerToPile(playedCardEl, g.hand.find(c => c.id === cardId) || { id: cardId }), 800);
 
-    let t = 1350;  // celebration (~800ms) + move-into-pile flight (~550ms)
+    let t = 1700;  // celebration (~800ms) + move-into-pile flight (~900ms)
     if (penaltyCount > 0) {
       for (let i = 0; i < penaltyCount; i++) {
         setTimeout(() => deductScore(POINTS_PER_MISS, byId('extras-deck')), t + i * 220);
@@ -625,8 +631,8 @@ function dealRemainingCluesThenShuffle() {
       return;
     }
     const newIdx = g.revealed.length;
-    const clueText = g.shuffledClues[newIdx];
-    g.revealed.push(clueText);
+    const clue = g.shuffledClues[newIdx];
+    g.revealed.push(clue);
 
     // Build + append the new clue card manually (z-index above the answer card).
     const card = el('div', { class: 'card clue-card' });
@@ -634,13 +640,15 @@ function dealRemainingCluesThenShuffle() {
     card.append(
       el('div', { class: 'card-emblem clue-emblem' }, '✦'),
       el('div', { class: 'clue-index' }, toRoman(newIdx + 1)),
-      el('div', { class: 'clue-text' }, clueText),
     );
+    appendClueBody(card, clue);
     pile.append(card);
 
-    // Animate it in from the clue deck, auto-fit its text, ping the deck count.
+    // Animate it in from the clue deck, auto-fit its text (text clues only),
+    // ping the deck count.
     requestAnimationFrame(() => {
-      autoFitText(card.querySelector('.clue-text'), 15, 7);
+      const txt = card.querySelector('.clue-text');
+      if (txt) autoFitText(txt, 15, 7);
       flyFromDeck(card, clueDeck, { duration: 380 });
     });
     sfx.flip();
@@ -690,14 +698,28 @@ function endRoundFlyBackAndShuffle() {
   });
 }
 
-// After the celebration, the played card flies from the hand into the clue pile
-// where it becomes the "base" of the stack; subsequent clues land on top of it.
+// After the celebration, the played card flies from the hand to a NEW spot
+// to the right of the clue pile. The whole pile shifts with it — existing
+// clue cards slide along, and any clues dealt out next will land on top of
+// the answer card at that new location.
 function moveAnswerToPile(cardEl, cardData) {
   if (!cardEl) return;
-  // FLIP pattern: measure old rect, swap into the new parent, measure new rect, animate.
-  const oldRect = cardEl.getBoundingClientRect();
+  const pile = byId('clue-pile');
 
-  // Strip celebration + hand-specific styling.
+  // 1) Capture old positions BEFORE applying the pile shift, so we can
+  //    FLIP each affected card to its new home in one synchronized animation.
+  const playedOldRect = cardEl.getBoundingClientRect();
+  const existingClues = [...pile.querySelectorAll('.clue-card')];
+  const clueOldRects  = existingClues.map(c => c.getBoundingClientRect());
+
+  // 2) Strip celebration + hand-specific styling. Suppress the base .card
+  //    transform transition so CSS doesn't try to ease the celebrating
+  //    transform back to none in parallel with the WAA animation below.
+  //    Also pin a high z-index inline so the card stays visible the whole
+  //    flight — .celebrating has z-index 2000 but .answer-card drops to 0,
+  //    which lets the hand cards / decks / confetti occlude the travel.
+  cardEl.style.transition = 'none';
+  cardEl.style.zIndex = '3000';
   cardEl.classList.remove('celebrating', 'fading', 'hand-card');
   cardEl.classList.add('answer-card');
   cardEl.style.removeProperty('--card-rot');
@@ -706,28 +728,68 @@ function moveAnswerToPile(cardEl, cardData) {
   cardEl.style.removeProperty('margin-left');
   cardEl.style.transform = '';
 
-  // Prepend to clue pile so its DOM index is 0 — sits under the clue cards (whose
-  // z-index counts up from 1). Hover-fan rule targets .clue-card only, so the
-  // answer card stays anchored in place when the pile fans out.
-  const pile = byId('clue-pile');
-  pile.prepend(cardEl);
+  // 3) Apply the pile shift instantly — CSS moves .clue-pile right via a
+  //    translateX rule keyed on .has-answer. Each card then gets its own
+  //    WAA animation below so they all slide together smoothly.
+  pile.classList.add('has-answer');
 
-  // Drop the played card from the hand state so subsequent renders don't re-create it.
+  // 4) Move the played card into the pile DOM (prepend → DOM index 0 →
+  //    z-index 0 by the .answer-card rule, so clues stack on top of it).
+  pile.prepend(cardEl);
   if (state.game) state.game.hand = state.game.hand.filter(c => c.id !== cardData.id);
 
-  const newRect = cardEl.getBoundingClientRect();
-  const dx = oldRect.left - newRect.left;
-  const dy = oldRect.top  - newRect.top;
-  const sx = oldRect.width  / Math.max(1, newRect.width);
-  const sy = oldRect.height / Math.max(1, newRect.height);
-
-  cardEl.animate(
+  // 5) FLIP-animate the played card from its hand position to its new spot.
+  //    Because the card was scaled up by .celebrating, we MUST use the center
+  //    delta (not left/top delta) — `transform: translate() scale()` with
+  //    transform-origin 50% 50% positions by center, not by top-left.
+  const playedNewRect = cardEl.getBoundingClientRect();
+  const oldCx = playedOldRect.left + playedOldRect.width  / 2;
+  const oldCy = playedOldRect.top  + playedOldRect.height / 2;
+  const newCx = playedNewRect.left + playedNewRect.width  / 2;
+  const newCy = playedNewRect.top  + playedNewRect.height / 2;
+  const pdx = oldCx - newCx;
+  const pdy = oldCy - newCy;
+  const psx = playedOldRect.width  / Math.max(1, playedNewRect.width);
+  const psy = playedOldRect.height / Math.max(1, playedNewRect.height);
+  const startScale = ((psx + psy) / 2).toFixed(3);
+  // Slight arc: lift the card a bit past straight-line during the middle of
+  // the flight so it visibly travels rather than dissolving toward the target.
+  const midScale = (1 + parseFloat(startScale)) / 2;
+  const playedAni = cardEl.animate(
     [
-      { transform: `translate(${dx}px, ${dy}px) scale(${((sx + sy) / 2).toFixed(3)})`, opacity: 1 },
-      { transform: 'none', opacity: 1 },
+      { transform: `translate(${pdx}px, ${pdy}px) scale(${startScale})`, opacity: 1, offset: 0 },
+      { transform: `translate(${(pdx * 0.5).toFixed(1)}px, ${(pdy * 0.5 - 30).toFixed(1)}px) scale(${midScale.toFixed(3)})`, opacity: 1, offset: 0.5 },
+      { transform: 'none', opacity: 1, offset: 1 },
     ],
-    { duration: 600, easing: 'cubic-bezier(0.34, 1.56, 0.64, 1)', fill: 'none' }
+    { duration: 900, easing: 'cubic-bezier(0.4, 0, 0.2, 1)', fill: 'none' }
   );
+  // Restore the base transition + drop the inline z-index once the flight ends,
+  // letting CSS (z-index 0 from .clue-pile .answer-card) take over.
+  const restore = () => {
+    cardEl.style.transition = '';
+    cardEl.style.zIndex = '';
+  };
+  playedAni.finished.then(restore, restore);
+
+  // 6) FLIP-animate each existing clue card so it slides along with the pile
+  //    to its new (shifted) position. We compose the inverse offset with each
+  //    card's natural nth-child transform so it lands exactly where CSS wants it.
+  existingClues.forEach((c, i) => {
+    const oldR = clueOldRects[i];
+    const newR = c.getBoundingClientRect();
+    const cdx = oldR.left - newR.left;
+    const cdy = oldR.top  - newR.top;
+    if (Math.abs(cdx) < 1 && Math.abs(cdy) < 1) return;
+    const naturalT = getComputedStyle(c).transform;
+    const naturalStr = naturalT && naturalT !== 'none' ? naturalT : 'translate(0,0)';
+    c.animate(
+      [
+        { transform: `translate(${cdx}px, ${cdy}px) ${naturalStr}` },
+        { transform: naturalStr },
+      ],
+      { duration: 700, easing: 'cubic-bezier(0.4, 0, 0.2, 1)', fill: 'none' }
+    );
+  });
 }
 
 // --- Celebration ---
@@ -867,6 +929,7 @@ function renderGame() {
 
   // Clue pile: each revealed clue is a face-up card, oldest first, newest on top.
   const pile = byId('clue-pile');
+  pile.classList.remove('has-answer');
   pile.innerHTML = '';
   g.revealed.forEach((clue, i) => {
     const card = el('div', { class: 'card clue-card' });
@@ -874,8 +937,8 @@ function renderGame() {
     card.append(
       el('div', { class: 'card-emblem clue-emblem' }, '✦'),
       el('div', { class: 'clue-index' }, toRoman(i + 1)),
-      el('div', { class: 'clue-text' }, clue),
     );
+    appendClueBody(card, clue);
     pile.append(card);
   });
 
@@ -1060,6 +1123,18 @@ function el(tag, attrs = {}, ...kids) {
   }
   for (const k of kids) if (k != null) n.append(k.nodeType ? k : document.createTextNode(k));
   return n;
+}
+
+// A clue is either a plain string (text buzzword) or an object { img: "path" }.
+function isImageClue(c) { return c && typeof c === 'object' && typeof c.img === 'string'; }
+// Append the right body content to a .clue-card based on the clue shape.
+function appendClueBody(card, clue) {
+  if (isImageClue(clue)) {
+    card.classList.add('has-image');
+    card.append(el('img', { class: 'clue-image', src: clue.img, alt: 'visual clue', loading: 'eager' }));
+  } else {
+    card.append(el('div', { class: 'clue-text' }, clue));
+  }
 }
 function shuffle(a) { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } }
 function clamp(n, lo, hi) { return Math.max(lo, Math.min(hi, n)); }

@@ -80,7 +80,7 @@
     "type": "lab",
     "buzzwords": [
       "bedside strip",
-      "colorimetric",
+      { "img": "data/images/37/37-5/1.png" },
       "heme",
       "leukocyte esterase",
       "nitrites",
@@ -119,8 +119,8 @@
       "stones",
       "UTI",
       "GN clue",
-      "dysmorphic RBCs",
-      "acanthocytes",
+      { "img": "data/images/37/37-7/1.png" },
+      { "img": "data/images/37/37-7/2.png" },
       "RBC casts",
       "myoglobin false+"
     ]
@@ -133,12 +133,12 @@
     "week": 2,
     "type": "lab",
     "buzzwords": [
-      "WBCs in urine",
+      { "img": "data/images/37/37-8/1.png" },
       "leukocyte esterase",
       "nitrites",
       "UTI",
       "eosinophils->AIN",
-      "WBC casts",
+      { "img": "data/images/37/37-8/2.png" },
       "pyelonephritis",
       "interstitial nephritis"
     ]
@@ -153,11 +153,11 @@
     "buzzwords": [
       "envelopes",
       "calcium oxalate",
-      "coffin-lid",
+      { "img": "data/images/37/37-9/1.png" },
       "struvite",
       "rhomboids",
       "uric acid",
-      "hexagonal",
+      { "img": "data/images/37/37-9/2.png" },
       "cystine"
     ]
   },
@@ -187,9 +187,9 @@
     "week": 2,
     "type": "lab",
     "buzzwords": [
-      "muddy brown casts",
+      { "img": "data/images/37/37-11/1.png" },
       "granular casts",
-      "RTE cells",
+      { "img": "data/images/37/37-11/2.png" },
       "tubular injury",
       "central nuclei",
       "epithelial sheets",

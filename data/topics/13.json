@@ -9,8 +9,8 @@
     "buzzwords": [
       "first-line HTN",
       "HCTZ",
-      "DCT diuretic",
-      "blocks NCC",
+      { "img": "data/images/13/13-1/1.png" },
+      { "img": "data/images/13/13-1/2.png" },
       "hypokalemia",
       "hyperuricemia",
       "hypercalcemia",

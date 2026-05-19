@@ -10,9 +10,9 @@
       "incidental mass",
       "mimics RCC",
       "benign tumor",
-      "mahogany brown",
+      { "img": "data/images/62/62-1/1.png" },
       "stellate scar",
-      "intercalated cells",
+      { "img": "data/images/62/62-1/2.png" },
       "eosinophilic cytoplasm",
       "mitochondria-rich"
     ]
@@ -25,11 +25,11 @@
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "fat on CT",
+      { "img": "data/images/62/62-2/2.png" },
       "retroperitoneal bleed",
       "tuberous sclerosis",
       "TSC1/TSC2 loss",
-      "vessels-muscle-fat",
+      { "img": "data/images/62/62-2/1.png" },
       "perivascular epithelioid",
       "mTOR inhibitors",
       "arterial embolization"

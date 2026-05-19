@@ -12,8 +12,8 @@
       "pregnancy-safe",
       "hydronephrosis",
       "bear-claw calyces",
-      "echogenic kidneys",
-      "ADPCKD cysts",
+      { "img": "data/images/38/38-1/1.png" },
+      { "img": "data/images/38/38-1/2.png" },
       "Doppler flow"
     ]
   },
@@ -32,7 +32,7 @@
       "tiny stones seen",
       "locates obstruction",
       "no contrast",
-      "ureteral stone"
+      { "img": "data/images/38/38-2/1.png" }
     ]
   },
   {
@@ -43,7 +43,7 @@
     "week": 2,
     "type": "imaging",
     "buzzwords": [
-      "renal mass",
+      { "img": "data/images/38/38-3/1.png" },
       "solid vs cyst",
       "RCC workup",
       "renal trauma",
@@ -81,7 +81,7 @@
     "buzzwords": [
       "soft-tissue detail",
       "indeterminate mass",
-      "angiomyolipoma",
+      { "img": "data/images/38/38-5/1.png" },
       "contrast allergy",
       "pregnancy option",
       "CT inconclusive",

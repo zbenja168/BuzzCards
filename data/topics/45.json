@@ -8,11 +8,11 @@
     "type": "disease",
     "buzzwords": [
       "hematuria",
-      "RBC casts",
+      { "img": "data/images/45/45-1/2.png" },
       "tea-colored urine",
       "hypertension",
       "mild proteinuria",
-      "dysmorphic RBCs",
+      { "img": "data/images/45/45-1/1.png" },
       "rising creatinine",
       "glomerular inflammation"
     ]
@@ -43,12 +43,12 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "crescents",
+      { "img": "data/images/45/45-3/1.png" },
       "days-to-weeks failure",
       "rapidly falling GFR",
       "oliguria",
       "Bowman space proliferation",
-      "fibrin crescents",
+      { "img": "data/images/45/45-3/2.png" },
       "pulse steroids",
       "cyclophosphamide"
     ]

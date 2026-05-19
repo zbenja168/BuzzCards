@@ -13,7 +13,7 @@
       "central DI",
       "von Willebrand",
       "nasal/oral/IV",
-      "AQP2 insertion",
+      { "img": "data/images/20/20-1/1.png" },
       "hyponatremia risk"
     ]
   },
@@ -29,7 +29,7 @@
       "IV only",
       "septic shock",
       "bleeding varices",
-      "V1 agonist",
+      { "img": "data/images/20/20-2/1.png" },
       "splanchnic vasoconstriction",
       "mesenteric ischemia",
       "skin necrosis"

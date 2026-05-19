@@ -8,12 +8,12 @@
     "type": "disease",
     "buzzwords": [
       "snail fever",
-      "blood fluke",
+      { "img": "data/images/55/55-1/1.png" },
       "sub-Saharan Africa",
       "freshwater exposure",
       "cercaria penetrates skin",
       "bladder venous plexus",
-      "trematode worm",
+      { "img": "data/images/55/55-1/2.png" },
       "vesical plexus"
     ]
   },
@@ -25,13 +25,13 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "snail host",
+      { "img": "data/images/55/55-2/1.png" },
       "freshwater cycle",
       "miracidia hatch",
       "cercariae swim",
       "skin penetration",
       "schistosomula migrate",
-      "paired adults",
+      { "img": "data/images/55/55-2/2.png" },
       "eggs drive pathology"
     ]
   },
@@ -98,9 +98,9 @@
     "type": "disease",
     "buzzwords": [
       "urine microscopy",
-      "terminal spine",
+      { "img": "data/images/55/55-6/2.png" },
       "ova in urine",
-      "lateral spine = mansoni",
+      { "img": "data/images/55/55-6/1.png" },
       "lateral knob = japonicum",
       "eosinophilia",
       "serology early",

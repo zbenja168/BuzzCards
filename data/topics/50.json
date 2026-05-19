@@ -12,8 +12,8 @@
       "sepsis kidney",
       "end-arteries",
       "hypoxic tubules",
-      "lost brush border",
-      "muddy brown casts",
+      { "img": "data/images/50/50-1/2.png" },
+      { "img": "data/images/50/50-1/1.png" },
       "FENa >2%"
     ]
   },
@@ -120,7 +120,7 @@
       "recovery diuresis",
       "rising creatinine",
       "tubuloglomerular feedback",
-      "back-leak",
+      { "img": "data/images/50/50-7/1.png" },
       "hyperkalemia",
       "self-resolves"
     ]

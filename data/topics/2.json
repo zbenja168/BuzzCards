@@ -13,7 +13,7 @@
       "rudimentary",
       "nonfunctional",
       "no urine",
-      "degenerates early",
+      { "img": "data/images/2/2-1/1.png" },
       "rostral remnant"
     ]
   },
@@ -31,7 +31,7 @@
       "Wolffian duct",
       "epididymis",
       "ductus deferens",
-      "seminal vesicles",
+      { "img": "data/images/2/2-2/1.png" },
       "Gartner's duct"
     ]
   },
@@ -49,7 +49,7 @@
       "week 5 start",
       "two components",
       "reciprocal induction",
-      "bud plus blastema",
+      { "img": "data/images/2/2-3/1.png" },
       "definitive kidney"
     ]
   },
@@ -66,7 +66,7 @@
       "collecting ducts",
       "calyces",
       "renal pelvis",
-      "ureters",
+      { "img": "data/images/2/2-4/1.png" },
       "failed induction",
       "renal agenesis"
     ]
@@ -85,7 +85,7 @@
       "Bowman's capsule",
       "PCT and DCT",
       "loop of Henle",
-      "endothelial invasion",
+      { "img": "data/images/2/2-5/1.png" },
       "glomerular formation"
     ]
   },
@@ -103,7 +103,7 @@
       "torso lengthens",
       "T12 to L3",
       "transient arteries",
-      "accessory renal artery",
+      { "img": "data/images/2/2-6/1.png" },
       "UPJ hydronephrosis"
     ]
   },
@@ -138,7 +138,7 @@
       "urogenital sinus",
       "anorectal canal",
       "bladder and urethra",
-      "rectum and anus",
+      { "img": "data/images/2/2-8/1.png" },
       "sinovaginal bulbs",
       "lower vagina"
     ]
@@ -155,7 +155,7 @@
       "yolk sac diverticulum",
       "fails to obliterate",
       "bladder to umbilicus",
-      "median umbilical ligament",
+      { "img": "data/images/2/2-9/1.png" },
       "umbilical urine leak",
       "neonatal presentation",
       "persistent tract"

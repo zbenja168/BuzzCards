@@ -12,7 +12,7 @@
       "polyuria",
       "loop-diuretic mimic",
       "TAL defect",
-      "NKCC2 mutation",
+      { "img": "data/images/26/26-1/1.png" },
       "hypercalciuria",
       "indomethacin helps"
     ]
@@ -29,7 +29,7 @@
       "tetany",
       "thiazide mimic",
       "DCT defect",
-      "NCC mutation",
+      { "img": "data/images/26/26-2/1.png" },
       "low Mg",
       "hypocalciuria",
       "chondrocalcinosis"
@@ -47,7 +47,7 @@
       "pseudohyperaldosteronism",
       "low renin",
       "low aldosterone",
-      "ENaC gain-of-function",
+      { "img": "data/images/26/26-3/1.png" },
       "autosomal dominant",
       "spironolactone fails",
       "amiloride works"

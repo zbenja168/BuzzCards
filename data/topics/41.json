@@ -11,9 +11,9 @@
       "periorbital edema",
       "pediatric nephrotic",
       "selective albuminuria",
-      "normal light micro",
+      { "img": "data/images/41/41-1/1.png" },
       "steroid-responsive",
-      "foot process effacement",
+      { "img": "data/images/41/41-1/2.png" },
       "nephrin antibodies"
     ]
   }

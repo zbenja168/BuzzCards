@@ -12,7 +12,7 @@
       "65-70% Na+",
       "leaky claudin-2",
       "AQP1 water",
-      "SGLT2 glucose",
+      { "img": "data/images/9/9-1/1.png" },
       "NHE-3 bicarb",
       "Fanconi site"
     ]
@@ -29,7 +29,7 @@
       "water-permeable",
       "solute-impermeable",
       "concentrates filtrate",
-      "dives into medulla",
+      { "img": "data/images/9/9-2/1.png" },
       "no active transport",
       "AQP1 efflux",
       "countercurrent arm"
@@ -45,7 +45,7 @@
     "buzzwords": [
       "diluting segment",
       "water-impermeable",
-      "NKCC2 cotransporter",
+      { "img": "data/images/9/9-3/1.png" },
       "furosemide target",
       "lumen-positive voltage",
       "ROMK recycling",
@@ -63,7 +63,7 @@
     "buzzwords": [
       "fine-tuning segment",
       "5-8% Na+",
-      "NCC cotransporter",
+      { "img": "data/images/9/9-4/1.png" },
       "thiazide target",
       "water-tight",
       "PTH-regulated Ca",
@@ -80,11 +80,11 @@
     "type": "physiology",
     "buzzwords": [
       "final checkpoint",
-      "ENaC sodium",
+      { "img": "data/images/9/9-5/1.png" },
       "aldosterone-driven",
       "ROMK K+ secretion",
       "ADH-tuned water",
-      "AQP2 insertion",
+      { "img": "data/images/9/9-5/2.png" },
       "cortical CD",
       "amiloride target"
     ]
@@ -98,7 +98,7 @@
     "type": "physiology",
     "buzzwords": [
       "acid-base specialists",
-      "H+-ATPase",
+      { "img": "data/images/9/9-6/1.png" },
       "type A acidosis",
       "type B alkalosis",
       "H+ secretion",
@@ -119,7 +119,7 @@
       "Tm threshold",
       "glucose Tm ~375",
       "renal threshold 180",
-      "splay curve",
+      { "img": "data/images/9/9-7/1.png" },
       "nephron heterogeneity",
       "osmotic diuresis",
       "pan-proximal Fanconi"

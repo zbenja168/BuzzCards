@@ -13,8 +13,8 @@
       "arylamine dyes",
       "tire/rubber worker",
       "cyclophosphamide history",
-      "papillary lesion",
-      "TP53/RB loss"
+      { "img": "data/images/63/63-1/1.png" },
+      { "img": "data/images/63/63-1/2.png" }
     ]
   },
   {
@@ -31,7 +31,7 @@
       "squamous metaplasia",
       "chronic inflammation",
       "S. haematobium",
-      "schistosomiasis link",
+      { "img": "data/images/63/63-2/1.png" },
       "upfront cystectomy"
     ]
   }

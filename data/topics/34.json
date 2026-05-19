@@ -14,7 +14,7 @@
       "urine Na <20",
       "FENa <1%",
       "saline responsive",
-      "NSAIDs + ACEi"
+      { "img": "data/images/34/34-1/1.png" }
     ]
   },
   {
@@ -30,8 +30,8 @@
       "aminoglycosides",
       "IV contrast",
       "FENa >2%",
-      "muddy brown casts",
-      "fried-egg cells",
+      { "img": "data/images/34/34-2/2.png" },
+      { "img": "data/images/34/34-2/1.png" },
       "tubular backleak"
     ]
   },
@@ -66,7 +66,7 @@
       "hematuria",
       "dysmorphic RBCs",
       "RBC casts",
-      "Mickey Mouse ears",
+      { "img": "data/images/34/34-4/1.png" },
       "Goodpasture",
       "biopsy confirms"
     ]
@@ -83,7 +83,7 @@
       "anuria",
       "BPH",
       "bilateral stones",
-      "hydronephrosis",
+      { "img": "data/images/34/34-5/1.png" },
       "bear-paw calyces",
       "bladder catheter fix",
       "back-pressure"

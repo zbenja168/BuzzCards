@@ -12,8 +12,8 @@
       "young adult",
       "recurrent UTIs",
       "distal duct cysts",
-      "echogenic pyramids",
-      "paintbrush calyces",
+      { "img": "data/images/59/59-1/2.png" },
+      { "img": "data/images/59/59-1/1.png" },
       "ureteric bud defect"
     ]
   }

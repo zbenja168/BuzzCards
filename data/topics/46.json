@@ -13,8 +13,8 @@
       "nephritic syndrome",
       "low C3",
       "RBC casts",
-      "starry sky IF",
-      "subepithelial humps"
+      { "img": "data/images/46/46-1/1.png" },
+      { "img": "data/images/46/46-1/2.png" }
     ]
   }
 ]

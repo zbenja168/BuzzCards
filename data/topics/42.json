@@ -11,9 +11,9 @@
       "foamy urine",
       "generalized edema",
       "idiopathic",
-      "podocyte effacement",
+      { "img": "data/images/42/42-1/1.png" },
       "normal complement",
-      "circulating factor",
+      { "img": "data/images/42/42-1/2.png" },
       "steroid first-line"
     ]
   },

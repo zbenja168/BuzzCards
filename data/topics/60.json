@@ -9,10 +9,10 @@
     "buzzwords": [
       "abdominal mass",
       "painless mass",
-      "young child",
+      { "img": "data/images/60/60-1/1.png" },
       "ages 2-5",
       "nephroblastoma",
-      "triphasic histology",
+      { "img": "data/images/60/60-1/2.png" },
       "WT1 mutation",
       "small blue cells"
     ]

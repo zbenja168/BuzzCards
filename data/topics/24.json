@@ -8,13 +8,13 @@
     "type": "physiology",
     "buzzwords": [
       "bulk reabsorption",
-      "70% calcium",
-      "85% phosphate",
+      { "img": "data/images/24/24-1/1.png" },
       "paracellular calcium",
-      "Na-Pi cotransporter",
+      { "img": "data/images/24/24-1/2.png" },
       "lumen-positive drive",
       "PTH downregulates",
-      "FGF-23 target"
+      "FGF-23 target",
+      "85% phosphate"
     ]
   },
   {
@@ -48,7 +48,7 @@
       "hormone-driven",
       "PTH stimulated",
       "calcitriol stimulated",
-      "apical Ca channel",
+      { "img": "data/images/24/24-3/1.png" },
       "Ca-ATPase exit",
       "thiazide site"
     ]

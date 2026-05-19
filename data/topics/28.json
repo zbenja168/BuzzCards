@@ -10,7 +10,7 @@
       "sick patient",
       "Kussmaul breathing",
       "low pH",
-      "AG >12",
+      { "img": "data/images/28/28-1/1.png" },
       "MUDPILES",
       "GOLDMARK",
       "unmeasured anions",
@@ -30,7 +30,7 @@
       "bicarb loss",
       "diarrhea",
       "RTA",
-      "Cl rises",
+      { "img": "data/images/28/28-2/1.png" },
       "low HCO3",
       "give bicarb"
     ]
@@ -46,7 +46,7 @@
       "kidney stones",
       "hypokalemia",
       "urine pH >5.3",
-      "alpha-intercalated defect",
+      { "img": "data/images/28/28-3/1.png" },
       "hypercalciuria",
       "amphotericin B",
       "Sjogren",
@@ -61,7 +61,7 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "bicarb wasting",
+      { "img": "data/images/28/28-4/1.png" },
       "acetazolamide",
       "multiple myeloma",
       "Fanconi syndrome",
@@ -84,7 +84,7 @@
       "diabetic kidney",
       "ACE inhibitor",
       "spironolactone",
-      "low NH4+",
+      { "img": "data/images/28/28-5/1.png" },
       "urine pH <5.3",
       "fludrocortisone"
     ]

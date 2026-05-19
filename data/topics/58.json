@@ -8,11 +8,11 @@
     "type": "disease",
     "buzzwords": [
       "flank pain",
-      "palpable kidneys",
+      { "img": "data/images/58/58-1/1.png" },
       "adult onset",
       "new HTN",
       "PKD1/PKD2",
-      "berry aneurysm",
+      { "img": "data/images/58/58-1/2.png" },
       "hepatic cysts",
       "tolvaptan"
     ]
@@ -31,8 +31,8 @@
       "PKHD1",
       "fibrocystin",
       "hepatic fibrosis",
-      "pepper kidneys",
-      "collecting duct cysts"
+      { "img": "data/images/58/58-2/2.png" },
+      { "img": "data/images/58/58-2/1.png" }
     ]
   }
 ]

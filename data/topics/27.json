@@ -27,7 +27,7 @@
     "buzzwords": [
       "acid secretors",
       "collecting duct",
-      "H+-ATPase",
+      { "img": "data/images/27/27-2/1.png" },
       "H+/K+-ATPase",
       "new bicarbonate",
       "urine floor 4.6",
@@ -81,7 +81,7 @@
     "buzzwords": [
       "glutamine metabolism",
       "proximal tubule",
-      "makes NH4+",
+      { "img": "data/images/27/27-5/1.png" },
       "new HCO3-",
       "5x in acidosis",
       "hyperkalemia inhibits",

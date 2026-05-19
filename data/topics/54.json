@@ -13,8 +13,8 @@
       "hypercalciuria",
       "enteric hyperoxaluria",
       "low citrate",
-      "envelope crystals",
-      "dumbbell crystals"
+      { "img": "data/images/54/54-1/2.png" },
+      { "img": "data/images/54/54-1/1.png" }
     ]
   },
   {
@@ -49,8 +49,8 @@
       "urease bacteria",
       "Proteus mirabilis",
       "branched cast",
-      "staghorn calculus",
-      "coffin-lid crystals"
+      { "img": "data/images/54/54-3/1.png" },
+      { "img": "data/images/54/54-3/2.png" }
     ]
   },
   {
@@ -66,7 +66,7 @@
       "gouty patient",
       "tumor lysis",
       "radiolucent stone",
-      "rhomboid crystals",
+      { "img": "data/images/54/54-4/1.png" },
       "rosette crystals",
       "allopurinol prevents"
     ]
@@ -84,7 +84,7 @@
       "cystinuria",
       "PCT transport defect",
       "COLA wasting",
-      "hexagonal crystals",
+      { "img": "data/images/54/54-5/1.png" },
       "penicillamine",
       "tiopronin"
     ]
