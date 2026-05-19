@@ -20,6 +20,7 @@ const state = {
   selectedBrickIds: new Set(),
   typeFilter: new Set(TYPES),
   handMode: 'decoys',        // 'decoys' | 'siblings' | 'random'
+  expandedWeeks: new Set(),  // weeks the user has opened in the select screen
   history: [],               // past round outcomes for review; persists across games this page-session
   game: null,
 };
@@ -170,28 +171,18 @@ function renderSelectScreen() {
     tf.append(pill);
   }
 
-  // brick tiles
+  // Bricks grouped by week, each in its own collapsible section.
   const grid = byId('brick-grid');
   grid.innerHTML = '';
   const visible = state.bricks.filter(b => state.typeFilter.has(b.type));
+
+  const byWeek = new Map();
   for (const b of visible) {
-    const checked = state.selectedBrickIds.has(b.id);
-    const tile = el('label', { class: 'tile' + (checked ? ' selected' : '') });
-    const cb = el('input', { type:'checkbox' });
-    cb.checked = checked;
-    cb.onchange = () => {
-      cb.checked ? state.selectedBrickIds.add(b.id) : state.selectedBrickIds.delete(b.id);
-      renderSelectScreen();
-    };
-    const body = el('div', { class: 'flex-1 min-w-0' });
-    body.append(
-      el('div', { class: 'font-medium leading-snug' }, b.title),
-      el('div', { class: 'text-[10px] uppercase tracking-wider text-ink-500 mt-1' },
-        `${TYPE_LABEL[b.type] || b.type} · Wk ${b.week} · ${b.cards.length} card${b.cards.length === 1 ? '' : 's'}`)
-    );
-    tile.append(cb, body);
-    grid.append(tile);
+    if (!byWeek.has(b.week)) byWeek.set(b.week, []);
+    byWeek.get(b.week).push(b);
   }
+  const weeks = [...byWeek.keys()].sort((a, b) => a - b);
+  for (const wk of weeks) grid.append(renderWeekSection(wk, byWeek.get(wk)));
 
   // counter shows total CARDS from selected, visible bricks
   const selectedCardCount = visible
@@ -199,6 +190,65 @@ function renderSelectScreen() {
     .reduce((sum, b) => sum + b.cards.length, 0);
   byId('selected-count').textContent = selectedCardCount;
   byId('btn-deal').disabled = selectedCardCount < parseInt(byId('hand-size').value, 10);
+}
+
+// One collapsible week panel — header bar + an expanding grid of brick tiles.
+function renderWeekSection(week, bricks) {
+  const expanded     = state.expandedWeeks.has(week);
+  const totalCards   = bricks.reduce((s, b) => s + b.cards.length, 0);
+  const selectedHere = bricks.filter(b => state.selectedBrickIds.has(b.id)).length;
+  const allSelected  = selectedHere === bricks.length;
+
+  const section = el('div', { class: 'week-section' + (expanded ? ' expanded' : '') });
+
+  // ---- header ----
+  const header = el('div', { class: 'week-header' });
+  header.append(
+    el('span', { class: 'week-chevron' }, '▾'),
+    el('span', { class: 'week-title' }, `Week ${week}`),
+    el('span', { class: 'week-meta' },
+      `${selectedHere}/${bricks.length} bricks · ${totalCards} cards`),
+  );
+  const selAll = el('button', { class: 'week-select-all', type: 'button' },
+    allSelected ? 'Clear week' : 'All in week');
+  selAll.onclick = (e) => {
+    e.stopPropagation();
+    if (allSelected) bricks.forEach(b => state.selectedBrickIds.delete(b.id));
+    else             bricks.forEach(b => state.selectedBrickIds.add(b.id));
+    renderSelectScreen();
+  };
+  header.append(selAll);
+  header.onclick = () => {
+    if (state.expandedWeeks.has(week)) state.expandedWeeks.delete(week);
+    else                                state.expandedWeeks.add(week);
+    section.classList.toggle('expanded');
+  };
+
+  // ---- body (brick tiles) ----
+  const body = el('div', { class: 'week-body' });
+  for (const b of bricks) body.append(renderBrickTile(b));
+
+  section.append(header, body);
+  return section;
+}
+
+function renderBrickTile(b) {
+  const checked = state.selectedBrickIds.has(b.id);
+  const tile = el('label', { class: 'tile' + (checked ? ' selected' : '') });
+  const cb = el('input', { type: 'checkbox' });
+  cb.checked = checked;
+  cb.onchange = () => {
+    cb.checked ? state.selectedBrickIds.add(b.id) : state.selectedBrickIds.delete(b.id);
+    renderSelectScreen();
+  };
+  const body = el('div', { class: 'flex-1 min-w-0' });
+  body.append(
+    el('div', { class: 'font-medium leading-snug' }, b.title),
+    el('div', { class: 'text-[10px] uppercase tracking-wider text-ink-500 mt-1' },
+      `${TYPE_LABEL[b.type] || b.type} · ${b.cards.length} card${b.cards.length === 1 ? '' : 's'}`),
+  );
+  tile.append(cb, body);
+  return tile;
 }
 
 // ---------- game loop ----------
