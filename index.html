@@ -113,7 +113,10 @@
             <div class="text-2xl font-display" id="stat-cards-left">0</div>
           </div>
         </div>
-        <button id="btn-quit" class="text-ink-500 hover:text-ink-900 text-sm">Quit</button>
+        <div class="flex items-center gap-4">
+          <button id="btn-history" class="text-ink-500 hover:text-ink-900 text-sm">History</button>
+          <button id="btn-quit" class="text-ink-500 hover:text-ink-900 text-sm">Quit</button>
+        </div>
       </header>
 
       <!-- CLUE ZONE: face-down clue deck + face-up revealed pile -->
@@ -164,9 +167,27 @@
         <div class="text-ink-500 uppercase tracking-wide text-xs">Cards played</div>
         <div id="final-played" class="text-xl font-display">—</div>
       </div>
-      <button id="btn-replay" class="bg-brand-500 hover:bg-brand-600 text-white font-semibold px-8 py-3 rounded-full shadow-card transition">Play again</button>
+      <div class="flex items-center justify-center gap-3">
+        <button id="btn-replay" class="bg-brand-500 hover:bg-brand-600 text-white font-semibold px-8 py-3 rounded-full shadow-card transition">Play again</button>
+        <button id="btn-history-over" class="text-ink-700 hover:text-ink-900 font-semibold px-5 py-3 rounded-full bg-ink-100 hover:bg-ink-200 transition">View history</button>
+      </div>
     </div>
   </section>
+
+  <!-- HISTORY MODAL (overlays anything; hidden by default) -->
+  <div id="history-modal" class="hidden fixed inset-0 z-[200] flex items-center justify-center px-4">
+    <div class="absolute inset-0 bg-ink-900/60" id="history-backdrop"></div>
+    <div class="relative bg-white rounded-3xl shadow-cardLg max-w-2xl w-full max-h-[85vh] flex flex-col overflow-hidden">
+      <div class="flex items-center justify-between px-6 py-4 border-b border-ink-200">
+        <div>
+          <h3 class="font-display text-2xl leading-none">History</h3>
+          <div class="text-xs uppercase tracking-wide text-ink-500 mt-1">Past rounds · most recent first</div>
+        </div>
+        <button id="btn-close-history" class="text-ink-500 hover:text-ink-900 text-2xl leading-none" aria-label="Close">×</button>
+      </div>
+      <div id="history-list" class="overflow-y-auto px-5 py-4 flex-1"></div>
+    </div>
+  </div>
 
   <script src="game.js" type="module"></script>
 </body>

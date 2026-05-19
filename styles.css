@@ -430,3 +430,73 @@ button:disabled {
 #stat-score { display: inline-block; transform-origin: left center; }
 #stat-score.pulse-positive { animation: scorePulsePositive 0.5s ease both; }
 #stat-score.pulse-negative { animation: scorePulseNegative 0.5s ease both; }
+
+/* --- HISTORY MODAL ------------------------------------------------- */
+.history-empty {
+  text-align: center;
+  color: #64748b;
+  padding: 2rem 0;
+  font-size: 0.95rem;
+}
+.history-entry {
+  border: 1px solid #e2e8f0;
+  border-radius: 0.875rem;
+  padding: 0.9rem 1rem;
+  margin-bottom: 0.7rem;
+  background: #ffffff;
+  transition: border-color .15s ease, box-shadow .15s ease;
+}
+.history-entry:hover {
+  border-color: #cbd5e1;
+  box-shadow: 0 2px 6px rgba(15,23,42,.06);
+}
+.history-entry.correct { border-left: 4px solid #10b981; }
+.history-entry.exhaust { border-left: 4px solid #f43f5e; }
+.history-entry-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+}
+.history-entry-title {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: #0f172a;
+  line-height: 1.25;
+}
+.history-entry-meta {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #64748b;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.history-entry.correct .history-entry-meta { color: #059669; }
+.history-entry.exhaust .history-entry-meta { color: #e11d48; }
+.history-entry-brick {
+  font-size: 0.72rem;
+  color: #94a3b8;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.02em;
+}
+.history-buzzwords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.history-buzzword {
+  background: #f1f5f9;
+  color: #475569;
+  padding: 0.22rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  line-height: 1.2;
+}
+.history-buzzword.seen {
+  background: #fff7ed;
+  color: #c2410c;
+  font-weight: 600;
+}

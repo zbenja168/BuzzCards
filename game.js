@@ -20,6 +20,7 @@ const state = {
   selectedBrickIds: new Set(),
   typeFilter: new Set(TYPES),
   handMode: 'decoys',        // 'decoys' | 'siblings' | 'random'
+  history: [],               // past round outcomes for review; persists across games this page-session
   game: null,
 };
 
@@ -74,6 +75,55 @@ function wireButtons() {
   byId('hand-mode').addEventListener('change', e => { state.handMode = e.target.value; });
   byId('clue-deck').onclick     = () => onClueDeckClick();
   byId('extras-deck').onclick   = () => onExtrasDeckClick();
+  byId('btn-history').onclick      = openHistory;
+  byId('btn-history-over').onclick = openHistory;
+  byId('btn-close-history').onclick = closeHistory;
+  byId('history-backdrop').onclick  = closeHistory;
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && !byId('history-modal').classList.contains('hidden')) closeHistory();
+  });
+}
+
+function openHistory() {
+  renderHistory();
+  byId('history-modal').classList.remove('hidden');
+}
+function closeHistory() {
+  byId('history-modal').classList.add('hidden');
+}
+function renderHistory() {
+  const listEl = byId('history-list');
+  listEl.innerHTML = '';
+  if (state.history.length === 0) {
+    listEl.append(el('div', { class: 'history-empty' }, 'No rounds played yet.'));
+    return;
+  }
+  // Most recent first.
+  for (let i = state.history.length - 1; i >= 0; i--) {
+    const entry = state.history[i];
+    const card = el('div', { class: 'history-entry ' + entry.result });
+    // Header row
+    const head = el('div', { class: 'history-entry-head' });
+    head.append(
+      el('div', { class: 'history-entry-title' }, entry.target.title),
+      el('div', { class: 'history-entry-meta' },
+        entry.result === 'correct' ? '✓ solved' : '✕ exhausted',
+        ` · ${entry.cluesUsed}/${entry.totalClues} clue${entry.cluesUsed === 1 ? '' : 's'} used`),
+    );
+    card.append(head);
+    // Brick lineage (if it differs from the entity title)
+    if (entry.target.brick_title && entry.target.brick_title !== entry.target.title) {
+      card.append(el('div', { class: 'history-entry-brick' }, `From: ${entry.target.brick_title}`));
+    }
+    // Buzzword chips — first cluesUsed were seen during play, rest were dealt at round-end
+    const chips = el('div', { class: 'history-buzzwords' });
+    entry.shuffledClues.forEach((b, idx) => {
+      const cls = 'history-buzzword' + (idx < entry.cluesUsed ? ' seen' : '');
+      chips.append(el('span', { class: cls }, b));
+    });
+    card.append(chips);
+    listEl.append(card);
+  }
 }
 
 function onClueDeckClick() {
@@ -325,6 +375,14 @@ function playCard(cardId) {
     // Correct — sequence: penalty popups (if any) → deal remaining clues for +10 each → fly back & shuffle → next round.
     g.cardsPlayed += 1;
     g.usedTargetIds.add(g.target.id);
+    // Record this round in history BEFORE the deal-out so cluesUsed reflects actual gameplay reveals.
+    state.history.push({
+      target: { ...g.target },
+      result: 'correct',
+      cluesUsed:     g.revealed.length,
+      totalClues:    g.shuffledClues.length,
+      shuffledClues: [...g.shuffledClues],
+    });
     const penaltyCount = computeUnneededDrawCount();
     toast(`Correct — ${g.target.title}`, 'right', 1100);
     byId('stat-cards-left').textContent = g.pool.length - g.usedTargetIds.size;
@@ -354,6 +412,13 @@ function playCard(cardId) {
 function exhaustRound() {
   const g = state.game;
   const target = g.target;
+  state.history.push({
+    target: { ...target },
+    result: 'exhaust',
+    cluesUsed:     g.revealed.length,
+    totalClues:    g.shuffledClues.length,
+    shuffledClues: [...g.shuffledClues],
+  });
   const penaltyCount = computeUnneededDrawCount();
   toast(`Out of clues — it was ${target.title}`, 'info', 1800);
   g.usedTargetIds.add(target.id);
