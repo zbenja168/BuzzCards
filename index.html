@@ -67,12 +67,27 @@
         <!-- type pills injected here -->
       </div>
 
-      <div class="flex flex-wrap gap-3 mb-6 text-sm">
+      <div class="flex flex-wrap items-center gap-3 mb-6 text-sm">
         <button id="btn-select-all"   class="px-3 py-1.5 rounded-full bg-ink-200 hover:bg-ink-300">Select all</button>
         <button id="btn-select-none"  class="px-3 py-1.5 rounded-full bg-ink-200 hover:bg-ink-300">Select none</button>
+
         <label class="ml-auto flex items-center gap-2 text-ink-700">
-          Hand size
+          Hand
+          <select id="hand-mode" class="px-2 py-1 rounded border border-ink-300 bg-white">
+            <option value="decoys">Decoys (default)</option>
+            <option value="siblings">Pure siblings</option>
+            <option value="random">Random</option>
+          </select>
+        </label>
+
+        <label class="flex items-center gap-2 text-ink-700">
+          Size
           <input id="hand-size" type="number" min="3" max="10" value="5" class="w-16 px-2 py-1 rounded border border-ink-300 bg-white">
+        </label>
+
+        <label class="flex items-center gap-1.5 text-ink-700 cursor-pointer">
+          <input id="hide-types" type="checkbox" class="accent-brand-500">
+          Hide types
         </label>
       </div>
 
@@ -115,13 +130,18 @@
       </div>
 
       <div class="flex items-center justify-between mb-4">
-        <div class="text-xs uppercase tracking-wide text-ink-500" id="hand-prompt">Pick a card from your hand — or call for another clue.</div>
+        <div class="text-xs uppercase tracking-wide text-ink-500" id="hand-prompt">Pick a card — call a clue — or draw an extra (target may be hidden among the extras).</div>
         <button id="btn-call-clue" class="bg-accent-500 hover:bg-accent-600 text-white font-semibold px-5 py-2 rounded-full shadow-card transition">
           Call for another clue
         </button>
       </div>
 
-      <div id="hand" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3"></div>
+      <div id="hand" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 mb-4"></div>
+
+      <div id="extras-wrap">
+        <div class="text-xs uppercase tracking-wide text-ink-500 mb-2 mt-2">Extras — target may be hiding here</div>
+        <div id="extras" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3"></div>
+      </div>
 
       <!-- toast/feedback (styled via #toast in styles.css) -->
       <div id="toast"></div>

@@ -19,6 +19,8 @@ const state = {
   bricks: [],                // [{id, title, type, week, cards:[...]}], one per brick
   selectedBrickIds: new Set(),
   typeFilter: new Set(TYPES),
+  handMode: 'decoys',        // 'decoys' | 'siblings' | 'random'
+  hideTypes: false,          // hide type/brick footer on hand cards for hard mode
   game: null,
 };
 
@@ -71,6 +73,8 @@ function wireButtons() {
   byId('btn-quit').onclick      = () => { if (confirm('Quit this game?')) show('title'); };
   byId('btn-replay').onclick    = () => show('select');
   byId('hand-size').addEventListener('input', renderSelectScreen);
+  byId('hand-mode').addEventListener('change', e => { state.handMode = e.target.value; });
+  byId('hide-types').addEventListener('change', e => { state.hideTypes = e.target.checked; });
 }
 
 // ---------- screens ----------
@@ -140,33 +144,108 @@ function startGame() {
 
   shuffle(pool);
 
-  const hand = pool.splice(0, handSize);
+  // Pick the first target, then build the hand around it according to the mode.
+  const target = pool[0];
+  const hand = buildBiasedHand(target, pool, handSize, state.handMode);
+  const handIds = new Set(hand.map(c => c.id));
+  const deck = pool.filter(c => !handIds.has(c.id));
+
   state.game = {
-    deck: pool,
+    deck,
     hand,
+    initialTarget: target,    // first round target, set in startRound
     target: null,
-    revealed: [],            // buzzwords revealed for current target
+    revealed: [],
     buzzwordsUsed: 0,
     misses: 0,
     cardsPlayed: 0,
-    wrongThisRound: new Set(),  // ids in hand that were tried wrong this round
+    wrongThisRound: new Set(),
   };
   startRound();
   show('game');
 }
 
+// Build a hand that biases toward the target's siblings/cousins.
+// modes:
+//   'siblings' — fill with same-brick siblings first, then cousins (same week+type), then anything.
+//   'decoys'   — half siblings, ~25% cousins, ~25% other. The default.
+//   'random'   — old behavior, no bias.
+function buildBiasedHand(target, pool, n, mode) {
+  const others = pool.filter(c => c.id !== target.id);
+  if (mode === 'random') {
+    return [target, ...shuffled(others).slice(0, n - 1)];
+  }
+
+  const siblings = shuffled(others.filter(c => c.brick_id === target.brick_id));
+  const cousins  = shuffled(others.filter(c =>
+    c.brick_id !== target.brick_id && c.week === target.week && c.type === target.type
+  ));
+  const rest     = shuffled(others.filter(c =>
+    c.brick_id !== target.brick_id && (c.week !== target.week || c.type !== target.type)
+  ));
+
+  let need = n - 1;
+  const hand = [target];
+
+  if (mode === 'siblings') {
+    take(hand, siblings, need); need = n - hand.length;
+    take(hand, cousins,  need); need = n - hand.length;
+    take(hand, rest,     need);
+  } else { // decoys
+    const wantSib    = Math.min(siblings.length, Math.max(1, Math.floor((n - 1) * 0.5)));
+    const wantCousin = Math.min(cousins.length,  Math.max(1, Math.floor((n - 1) * 0.25)));
+    take(hand, siblings, wantSib);
+    take(hand, cousins,  wantCousin);
+    take(hand, rest,     n - hand.length);
+    // if not enough rest, top up from remaining cousins then siblings
+    if (hand.length < n) take(hand, cousins,  n - hand.length);
+    if (hand.length < n) take(hand, siblings, n - hand.length);
+  }
+
+  return shuffled(hand);
+}
+
+function take(target, src, k) {
+  while (k-- > 0 && src.length) target.push(src.shift());
+}
+function shuffled(arr) { const a = [...arr]; shuffle(a); return a; }
+
 function startRound() {
   const g = state.game;
-  if (g.hand.length === 0) return endGame();
-  // pick a hidden target from the hand
-  g.target = g.hand[Math.floor(Math.random() * g.hand.length)];
-  // shuffle a copy of the target's buzzwords so reveal order is random each round
+  if (g.hand.length === 0 && g.deck.length === 0) return endGame();
+
+  // Draw up to 2 face-down extras from deck for this round.
+  g.extras = [];
+  while (g.extras.length < 2 && g.deck.length > 0) g.extras.push(g.deck.shift());
+  g.extrasFlipped = new Set();
+
+  // Target candidate pool = hand + extras. First round bias respected if possible.
+  const pool = [...g.hand, ...g.extras];
+  if (pool.length === 0) return endGame();
+
+  if (g.initialTarget && pool.some(c => c.id === g.initialTarget.id)) {
+    g.target = pool.find(c => c.id === g.initialTarget.id);
+    g.initialTarget = null;
+  } else {
+    g.target = pool[Math.floor(Math.random() * pool.length)];
+  }
+
   g.shuffledClues = [...g.target.buzzwords];
   shuffle(g.shuffledClues);
   g.revealed = [];
   g.wrongThisRound = new Set();
-  // reveal the first clue immediately
   revealNextClue('initial');
+  renderGame();
+}
+
+// Flip a face-down extra to face-up. Costs +1 buzzword (same as calling a clue).
+function flipExtra(cardId) {
+  const g = state.game;
+  if (!g.target) return;
+  if (!g.extras.some(c => c.id === cardId)) return;
+  if (g.extrasFlipped.has(cardId)) return;
+  g.extrasFlipped.add(cardId);
+  g.buzzwordsUsed += 1;
   renderGame();
 }
 
@@ -186,20 +265,27 @@ function revealNextClue(why) {
 function playCard(cardId) {
   const g = state.game;
   if (!g.target) return;
+  // Must be playable: either in hand, or a flipped extra.
+  const inHand   = g.hand.some(c => c.id === cardId);
+  const inExtras = g.extras.some(c => c.id === cardId) && g.extrasFlipped.has(cardId);
+  if (!inHand && !inExtras) return;
+
   if (cardId === g.target.id) {
     // correct
     g.cardsPlayed += 1;
     toast('Correct — ' + g.target.title, 'right');
-    // remove from hand
-    g.hand = g.hand.filter(c => c.id !== cardId);
-    // replenish if deck has cards
-    if (g.deck.length > 0) g.hand.push(g.deck.shift());
+    if (inHand) {
+      g.hand = g.hand.filter(c => c.id !== cardId);
+      if (g.deck.length > 0) g.hand.push(g.deck.shift());
+    }
+    // If correct was from extras, hand size stays the same; the un-flipped extras get returned to deck below.
+    returnUnusedExtrasToDeck();
     g.target = null;
     g.revealed = [];
     setTimeout(() => startRound(), 700);
     renderGame();
   } else {
-    // wrong: stays in hand, miss++, eliminate this card from this round, force next clue
+    // wrong: stays where it is, miss++, eliminate it from this round, force next clue
     g.misses += 1;
     g.wrongThisRound.add(cardId);
     toast('Not it — try again', 'wrong');
@@ -211,13 +297,30 @@ function exhaustRound() {
   const g = state.game;
   const target = g.target;
   toast(`Out of clues — it was ${target.title}`, 'info', 1800);
-  // remove from hand, replenish
-  g.hand = g.hand.filter(c => c.id !== target.id);
-  if (g.deck.length > 0) g.hand.push(g.deck.shift());
+  // Remove target from wherever it lived; replenish hand if needed.
+  const wasInHand = g.hand.some(c => c.id === target.id);
+  if (wasInHand) {
+    g.hand = g.hand.filter(c => c.id !== target.id);
+    if (g.deck.length > 0) g.hand.push(g.deck.shift());
+  }
+  // Unrevealed/extra cards (other than the target) return to the deck.
+  returnUnusedExtrasToDeck(target.id);
   g.buzzwordsUsed += EXHAUST_PENALTY;
   g.target = null;
   g.revealed = [];
   setTimeout(() => startRound(), 1400);
+}
+
+// Return any extras (face-up or face-down) that weren't played back to the bottom of the deck.
+// Caller may pass a "skipId" to drop a specific card (e.g. the revealed target).
+function returnUnusedExtrasToDeck(skipId) {
+  const g = state.game;
+  for (const c of g.extras) {
+    if (c.id === skipId) continue;
+    g.deck.push(c);
+  }
+  g.extras = [];
+  g.extrasFlipped = new Set();
 }
 
 function endGame() {
@@ -249,24 +352,45 @@ function renderGame() {
   // hand
   const handEl = byId('hand');
   handEl.innerHTML = '';
-  for (const c of g.hand) {
-    const card = el('div', {
-      class: 'card' + (g.wrongThisRound.has(c.id) ? ' eliminated' : ''),
-      'data-id': c.id,
-    });
-    card.append(
-      el('div', { class: 'card-title' }, c.title),
-      el('div', { class: 'card-type' },
-        c.brick_title && c.brick_title !== c.title
-          ? `${c.brick_title} · Wk ${c.week}`
-          : `${TYPE_LABEL[c.type] || c.type} · Wk ${c.week}`),
-    );
-    if (!g.wrongThisRound.has(c.id)) card.onclick = () => playCard(c.id);
-    handEl.append(card);
+  for (const c of g.hand) handEl.append(renderHandCard(c));
+
+  // extras
+  const extrasEl = byId('extras');
+  extrasEl.innerHTML = '';
+  for (const c of g.extras) {
+    if (g.extrasFlipped.has(c.id)) {
+      extrasEl.append(renderHandCard(c));
+    } else {
+      const slot = el('div', { class: 'card face-down', 'data-id': c.id });
+      slot.append(
+        el('div', { class: 'face-down-label' }, 'Draw extra'),
+        el('div', { class: 'face-down-cost' }, '+1 buzzword'),
+      );
+      slot.onclick = () => flipExtra(c.id);
+      extrasEl.append(slot);
+    }
   }
+  byId('extras-wrap').style.display = g.extras.length ? '' : 'none';
 
   // call-clue button disable when exhausted
   byId('btn-call-clue').disabled = !g.target || g.revealed.length >= g.shuffledClues.length;
+}
+
+function renderHandCard(c) {
+  const g = state.game;
+  const card = el('div', {
+    class: 'card' + (g.wrongThisRound.has(c.id) ? ' eliminated' : ''),
+    'data-id': c.id,
+  });
+  card.append(el('div', { class: 'card-title' }, c.title));
+  if (!state.hideTypes) {
+    card.append(el('div', { class: 'card-type' },
+      c.brick_title && c.brick_title !== c.title
+        ? `${c.brick_title} · Wk ${c.week}`
+        : `${TYPE_LABEL[c.type] || c.type} · Wk ${c.week}`));
+  }
+  if (!g.wrongThisRound.has(c.id)) card.onclick = () => playCard(c.id);
+  return card;
 }
 
 // ---------- helpers ----------
