@@ -422,9 +422,35 @@ function renderGame() {
     handEl.append(card);
   });
 
+  // Pass 2: shrink the title font on any card whose text still overflows.
+  // We measure after appending; the loop also fits clue-pile cards.
+  requestAnimationFrame(() => {
+    handEl.querySelectorAll('.card-title').forEach(t => autoFitText(t, 16, 11));
+    byId('clue-pile').querySelectorAll('.clue-text').forEach(t => autoFitText(t, 15, 10));
+  });
+
   // Extras deck (single pile, click to draw into hand)
   byId('extras-deck-count').textContent = g.extras.length;
   byId('extras-deck').classList.toggle('disabled', !g.target || g.extras.length === 0);
+}
+
+// Shrink a text element's font size by 1px at a time until it stops overflowing
+// either dimension of its parent card. Cheap to run on a handful of elements.
+function autoFitText(el, startPx, minPx) {
+  if (!el) return;
+  const card = el.closest('.card');
+  if (!card) return;
+  let px = startPx;
+  el.style.fontSize = px + 'px';
+  let guard = 0;
+  while (guard++ < 24) {
+    const overflows =
+      el.scrollHeight > card.clientHeight - 10 ||
+      el.scrollWidth  > card.clientWidth  - 4;
+    if (!overflows || px <= minPx) break;
+    px -= 1;
+    el.style.fontSize = px + 'px';
+  }
 }
 
 function renderHandCard(c) {
