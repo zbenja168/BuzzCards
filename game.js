@@ -704,10 +704,10 @@ function renderGame() {
 
   // Post-render: auto-fit text + run animations triggered by state flags.
   requestAnimationFrame(() => {
-    // Shrink the font down to as small as 8-9px when needed so the longest
+    // Shrink the font as low as 7px when needed so even the longest
     // single word fits the card width — no hyphenation, no mid-word breaks.
-    handEl.querySelectorAll('.card-title').forEach(t => autoFitText(t, 16, 9));
-    pile.querySelectorAll('.clue-text').forEach(t => autoFitText(t, 15, 8));
+    handEl.querySelectorAll('.card-title').forEach(t => autoFitText(t, 16, 7));
+    pile.querySelectorAll('.clue-text').forEach(t => autoFitText(t, 15, 7));
 
     // Deal-in animation when a fresh round starts
     if (g.justStartedRound) {
@@ -805,19 +805,26 @@ function endRoundAnimation() {
 }
 
 // Shrink a text element's font size by 1px at a time until it stops overflowing
-// either dimension of its parent card. Cheap to run on a handful of elements.
+// either dimension of its parent card. Uses the element's own scrollWidth vs
+// clientWidth (standard overflow check) and the card's available content height
+// (computed from its padding) for accurate measurement.
 function autoFitText(el, startPx, minPx) {
   if (!el) return;
   const card = el.closest('.card');
   if (!card) return;
   let px = startPx;
   el.style.fontSize = px + 'px';
+
+  const cs = getComputedStyle(card);
+  const padTop    = parseFloat(cs.paddingTop)    || 0;
+  const padBottom = parseFloat(cs.paddingBottom) || 0;
+  const availH    = card.clientHeight - padTop - padBottom - 4;   // tiny extra margin
+
   let guard = 0;
-  while (guard++ < 24) {
-    const overflows =
-      el.scrollHeight > card.clientHeight - 10 ||
-      el.scrollWidth  > card.clientWidth  - 4;
-    if (!overflows || px <= minPx) break;
+  while (guard++ < 36) {
+    const overflowsW = el.scrollWidth  > el.clientWidth;            // a single word wider than its line
+    const overflowsH = el.scrollHeight > availH;                    // wrapped text too tall
+    if ((!overflowsW && !overflowsH) || px <= minPx) break;
     px -= 1;
     el.style.fontSize = px + 'px';
   }
