@@ -142,20 +142,16 @@ function startGame() {
     .flatMap(b => b.cards.map(c => ({ ...c })));
   if (pool.length < handSize) return;
 
-  shuffle(pool);
-
-  // Pick the first target, then build the hand around it according to the mode.
-  const target = pool[0];
-  const hand = buildBiasedHand(target, pool, handSize, state.handMode);
-  const handIds = new Set(hand.map(c => c.id));
-  const deck = pool.filter(c => !handIds.has(c.id));
-
   state.game = {
-    deck,
-    hand,
-    initialTarget: target,    // first round target, set in startRound
+    pool,                       // universe of cards for this session (no mutation)
+    usedTargetIds: new Set(),   // targets already played this game (correct or exhausted)
+    handSize,                   // per-round
+    hand: [],
+    extras: [],
+    extrasFlipped: new Set(),
     target: null,
     revealed: [],
+    shuffledClues: [],
     buzzwordsUsed: 0,
     misses: 0,
     cardsPlayed: 0,
@@ -212,30 +208,82 @@ function shuffled(arr) { const a = [...arr]; shuffle(a); return a; }
 
 function startRound() {
   const g = state.game;
-  if (g.hand.length === 0 && g.deck.length === 0) return endGame();
 
-  // Draw up to 2 face-down extras from deck for this round.
-  g.extras = [];
-  while (g.extras.length < 2 && g.deck.length > 0) g.extras.push(g.deck.shift());
-  g.extrasFlipped = new Set();
+  // Eligible targets = pool minus already-used targets.
+  const eligible = g.pool.filter(c => !g.usedTargetIds.has(c.id));
+  if (eligible.length === 0) return endGame();
 
-  // Target candidate pool = hand + extras. First round bias respected if possible.
-  const pool = [...g.hand, ...g.extras];
-  if (pool.length === 0) return endGame();
+  // Pick the round's target at random.
+  const target = eligible[Math.floor(Math.random() * eligible.length)];
 
-  if (g.initialTarget && pool.some(c => c.id === g.initialTarget.id)) {
-    g.target = pool.find(c => c.id === g.initialTarget.id);
-    g.initialTarget = null;
+  // Build a fresh hand biased around THIS target. The decoys actually decoy now.
+  // Hand draws from the eligible pool (excluding used targets) but excludes the target
+  // itself from filler choices (we want target placed deliberately, in hand or extras).
+  const handCandidates = eligible.filter(c => c.id !== target.id);
+  const handAndTarget  = buildBiasedHand(target, [target, ...handCandidates], g.handSize, state.handMode);
+
+  // Hand is the set MINUS the target (we'll place target in either hand or extras separately).
+  let hand   = handAndTarget.filter(c => c.id !== target.id);
+  let extras = [];
+
+  // Decide where the target goes: ~5/7 of the time in hand, ~2/7 in extras, mirroring the layout odds.
+  const totalSlots = g.handSize + 2;
+  const targetInExtras = Math.random() < (2 / totalSlots);
+
+  if (targetInExtras) {
+    // Hand: pick handSize cards from the non-target pool (already in `hand` above, but length = handSize - 1).
+    // We need to top it up.
+    if (hand.length < g.handSize) {
+      const used = new Set([target.id, ...hand.map(c => c.id)]);
+      const extra = shuffled(eligible.filter(c => !used.has(c.id))).slice(0, g.handSize - hand.length);
+      hand = [...hand, ...extra];
+    }
+    // Extras: target + 1 more decoy
+    const handIds = new Set([target.id, ...hand.map(c => c.id)]);
+    const extraDecoy = pickExtraDecoy(target, eligible, handIds);
+    extras = shuffled([target, ...(extraDecoy ? [extraDecoy] : [])]);
   } else {
-    g.target = pool[Math.floor(Math.random() * pool.length)];
+    // Target sits in hand. Replace one hand slot with the target.
+    if (hand.length >= g.handSize) hand = hand.slice(0, g.handSize - 1);
+    hand = shuffled([target, ...hand]);
+    // Extras: 2 decoys from the eligible pool
+    const handIds = new Set(hand.map(c => c.id));
+    const decoys = pickExtraDecoys(target, 2, eligible, handIds);
+    extras = decoys;
   }
 
-  g.shuffledClues = [...g.target.buzzwords];
+  g.hand = hand;
+  g.extras = extras;
+  g.extrasFlipped = new Set();
+  g.target = target;
+  g.shuffledClues = [...target.buzzwords];
   shuffle(g.shuffledClues);
   g.revealed = [];
   g.wrongThisRound = new Set();
   revealNextClue('initial');
   renderGame();
+}
+
+// Pick decoy cards for the extras: prefer siblings of target, fall back to cousins, then any.
+function pickExtraDecoys(target, n, eligible, excludeIds) {
+  const out = [];
+  const remaining = eligible.filter(c => !excludeIds.has(c.id) && c.id !== target.id);
+  const siblings = shuffled(remaining.filter(c => c.brick_id === target.brick_id));
+  const cousins  = shuffled(remaining.filter(c =>
+    c.brick_id !== target.brick_id && c.week === target.week && c.type === target.type
+  ));
+  const rest     = shuffled(remaining.filter(c =>
+    c.brick_id !== target.brick_id && (c.week !== target.week || c.type !== target.type)
+  ));
+  while (out.length < n) {
+    let next = siblings.shift() || cousins.shift() || rest.shift();
+    if (!next) break;
+    out.push(next);
+  }
+  return out;
+}
+function pickExtraDecoy(target, eligible, excludeIds) {
+  return pickExtraDecoys(target, 1, eligible, excludeIds)[0];
 }
 
 // Flip a face-down extra to face-up. Costs +1 buzzword (same as calling a clue).
@@ -271,21 +319,16 @@ function playCard(cardId) {
   if (!inHand && !inExtras) return;
 
   if (cardId === g.target.id) {
-    // correct
+    // Correct — round ends, target retires, fresh hand next round.
     g.cardsPlayed += 1;
+    g.usedTargetIds.add(g.target.id);
     toast('Correct — ' + g.target.title, 'right');
-    if (inHand) {
-      g.hand = g.hand.filter(c => c.id !== cardId);
-      if (g.deck.length > 0) g.hand.push(g.deck.shift());
-    }
-    // If correct was from extras, hand size stays the same; the un-flipped extras get returned to deck below.
-    returnUnusedExtrasToDeck();
     g.target = null;
     g.revealed = [];
     setTimeout(() => startRound(), 700);
     renderGame();
   } else {
-    // wrong: stays where it is, miss++, eliminate it from this round, force next clue
+    // Wrong: stays where it is, miss++, eliminated from this round, force next clue.
     g.misses += 1;
     g.wrongThisRound.add(cardId);
     toast('Not it — try again', 'wrong');
@@ -297,30 +340,11 @@ function exhaustRound() {
   const g = state.game;
   const target = g.target;
   toast(`Out of clues — it was ${target.title}`, 'info', 1800);
-  // Remove target from wherever it lived; replenish hand if needed.
-  const wasInHand = g.hand.some(c => c.id === target.id);
-  if (wasInHand) {
-    g.hand = g.hand.filter(c => c.id !== target.id);
-    if (g.deck.length > 0) g.hand.push(g.deck.shift());
-  }
-  // Unrevealed/extra cards (other than the target) return to the deck.
-  returnUnusedExtrasToDeck(target.id);
+  g.usedTargetIds.add(target.id);
   g.buzzwordsUsed += EXHAUST_PENALTY;
   g.target = null;
   g.revealed = [];
   setTimeout(() => startRound(), 1400);
-}
-
-// Return any extras (face-up or face-down) that weren't played back to the bottom of the deck.
-// Caller may pass a "skipId" to drop a specific card (e.g. the revealed target).
-function returnUnusedExtrasToDeck(skipId) {
-  const g = state.game;
-  for (const c of g.extras) {
-    if (c.id === skipId) continue;
-    g.deck.push(c);
-  }
-  g.extras = [];
-  g.extrasFlipped = new Set();
 }
 
 function endGame() {
@@ -339,7 +363,7 @@ function renderGame() {
   const g = state.game;
   byId('stat-buzzwords').textContent = g.buzzwordsUsed;
   byId('stat-misses').textContent    = g.misses;
-  byId('stat-cards-left').textContent = g.deck.length + g.hand.length;
+  byId('stat-cards-left').textContent = g.pool.length - g.usedTargetIds.size;
 
   // buzzwords
   const ol = byId('buzzword-list');
