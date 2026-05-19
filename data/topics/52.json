@@ -7,14 +7,86 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Flank pain with gross hematuria",
-      "Renal colic mimicking a kidney stone",
-      "Polyuria from impaired medullary concentrating ability",
-      "Ischemic injury to the vasa recta",
-      "Sloughed medullary tips causing ureteral obstruction",
-      "Chronic NSAID/analgesic abuse in a sickle cell patient",
-      "Necrotic renal papillae with neutrophilic infiltrate",
-      "POSTCARDS mnemonic for papillary necrosis causes"
+      "flank pain",
+      "gross hematuria",
+      "cloudy urine",
+      "sloughed papillae",
+      "mimics nephrolithiasis",
+      "vasa recta ischemia",
+      "POSTCARDS mnemonic",
+      "necrotic medullary tips"
+    ]
+  },
+  {
+    "id": "52-2",
+    "title": "Sickle Cell RPN",
+    "brick_id": "52",
+    "brick_title": "Renal Papillary Necrosis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "young patient",
+      "painful crisis",
+      "sickled RBCs",
+      "hypoxic medulla",
+      "vasa recta occlusion",
+      "hydroxyurea",
+      "IV hydration",
+      "hemoglobinopathy"
+    ]
+  },
+  {
+    "id": "52-3",
+    "title": "Analgesic Nephropathy",
+    "brick_id": "52",
+    "brick_title": "Renal Papillary Necrosis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "chronic NSAIDs",
+      "PG inhibition",
+      "vasa recta vasoconstriction",
+      "age over 40",
+      "rising creatinine",
+      "stop NSAIDs",
+      "high-dose acetaminophen",
+      "small echogenic kidneys"
+    ]
+  },
+  {
+    "id": "52-4",
+    "title": "Diabetic RPN",
+    "brick_id": "52",
+    "brick_title": "Renal Papillary Necrosis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "diabetes mellitus",
+      "microvascular disease",
+      "vasa recta narrowing",
+      "medullary hypoperfusion",
+      "glycemic control",
+      "chronic kidney injury",
+      "calcified papillae",
+      "longstanding DM"
+    ]
+  },
+  {
+    "id": "52-5",
+    "title": "Obstructive/Infectious RPN",
+    "brick_id": "52",
+    "brick_title": "Renal Papillary Necrosis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "severe pyelonephritis",
+      "WBC casts",
+      "urinary obstruction",
+      "high intrapelvic pressure",
+      "neutrophilic infiltrate",
+      "tubular necrosis",
+      "relieve obstruction",
+      "antibiotics"
     ]
   }
 ]

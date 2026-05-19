@@ -7,14 +7,14 @@
     "week": 1,
     "type": "drug",
     "buzzwords": [
-      "IV agent given in the ICU",
-      "Raises serum osmolality without entering cells",
-      "Pulls water from brain into bloodstream",
-      "Freely filtered, poorly reabsorbed sugar alcohol",
-      "Emergent therapy for elevated intracranial pressure",
-      "Causes Na+ and water diuresis at proximal tubule",
-      "Risks volume overload if GFR is low",
-      "Mannitol"
+      "ICU drug",
+      "IV only",
+      "sugar alcohol",
+      "raises osmolality",
+      "shrinks brain",
+      "lowers ICP",
+      "freely filtered",
+      "proximal tubule"
     ]
   },
   {
@@ -25,14 +25,14 @@
     "week": 1,
     "type": "drug",
     "buzzwords": [
-      "Oral osmotic agent, not IV",
-      "Increases free water excretion in the nephron",
-      "Used for chronic euvolemic hyponatremia",
-      "Filtered into nephron, draws water into tubule",
-      "Treats water excess from inappropriate ADH",
-      "Second-line osmotic diuretic after mannitol",
-      "Endogenous nitrogenous waste given as a drug",
-      "SIADH-associated hyponatremia therapy"
+      "oral osmotic",
+      "treats SIADH",
+      "euvolemic hyponatremia",
+      "free water diuresis",
+      "filtered solute",
+      "second-line agent",
+      "nitrogenous waste",
+      "raises serum Na"
     ]
   }
 ]

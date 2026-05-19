@@ -1,74 +1,74 @@
 [
   {
     "id": "40-1",
-    "title": "Nephrotic Syndrome Tetrad",
+    "title": "Nephrotic Tetrad",
     "brick_id": "40",
     "brick_title": "Nephrotic Syndrome",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Adult with worsening leg swelling",
-      "Pitting edema and foamy urine",
-      "Periorbital swelling on morning exam",
-      "Low serum albumin under 2.5",
-      "Elevated cholesterol and LDL",
-      "Heavy albuminuria with normal sediment",
-      "Classic four-feature glomerular syndrome",
-      "Proteinuria >3.5 g/day, edema, hypoalbuminemia, hyperlipidemia"
+      "leg swelling",
+      "foamy urine",
+      "periorbital edema",
+      "4+ proteinuria",
+      "low albumin",
+      "high lipids",
+      "classic tetrad",
+      ">3.5 g/day"
     ]
   },
   {
     "id": "40-2",
-    "title": "Podocyte Injury and Charge Barrier Loss",
+    "title": "Podocyte Injury",
     "brick_id": "40",
     "brick_title": "Nephrotic Syndrome",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Selective albumin loss across filter",
-      "Loss of negative charge barrier",
-      "Visceral epithelial cell dysfunction",
-      "Flattening of interdigitating foot processes",
-      "Damage to slit diaphragm proteins",
-      "Three-layer GBM disruption",
-      "Heavy proteinuria without inflammation",
-      "Effaced foot processes on electron microscopy"
+      "selective albuminuria",
+      "charge barrier lost",
+      "visceral epithelial cells",
+      "foot process effacement",
+      "slit diaphragm",
+      "GBM disruption",
+      "bland sediment",
+      "EM effacement"
     ]
   },
   {
     "id": "40-3",
-    "title": "Nephrotic Hypercoagulability and Renal Vein Thrombosis",
+    "title": "Renal Vein Thrombosis",
     "brick_id": "40",
     "brick_title": "Nephrotic Syndrome",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Sudden flank pain in proteinuric patient",
-      "New DVT or pulmonary embolism",
-      "Urinary loss of antithrombotic proteins",
-      "Antithrombin III lost in urine",
-      "Acute rise in creatinine with hematuria",
-      "Membranous nephropathy with leg swelling and clot",
-      "Anticoagulation considered, not routine",
-      "Renal vein thrombosis in nephrotic patient"
+      "flank pain",
+      "new DVT",
+      "PE risk",
+      "antithrombin III loss",
+      "hypercoagulable state",
+      "membranous + clot",
+      "creatinine bump",
+      "anticoag not routine"
     ]
   },
   {
     "id": "40-4",
-    "title": "Infection Risk in Nephrotic Syndrome",
+    "title": "Nephrotic Infection Risk",
     "brick_id": "40",
     "brick_title": "Nephrotic Syndrome",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Proteinuric patient with recurrent infections",
-      "Take every fever seriously",
-      "Urinary loss of opsonizing proteins",
-      "Hypogammaglobulinemia from glomerular leak",
-      "Encapsulated organism susceptibility",
-      "Spontaneous bacterial peritonitis in edematous child",
-      "Streptococcus pneumoniae sepsis risk",
-      "Immunoglobulin loss in urine causing immunodeficiency"
+      "recurrent infections",
+      "take fevers seriously",
+      "opsonin loss",
+      "hypogammaglobulinemia",
+      "encapsulated organisms",
+      "SBP risk",
+      "pneumococcal sepsis",
+      "urinary Ig loss"
     ]
   },
   {
@@ -79,32 +79,32 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Elevated cholesterol with heavy proteinuria",
-      "High LDL and triglycerides on labs",
-      "Increased cardiovascular mortality risk",
-      "Fatty casts and oval fat bodies",
-      "Maltese cross under polarized light",
-      "Compensatory hepatic lipoprotein synthesis",
-      "Reduced lipoprotein catabolism in low oncotic state",
-      "Statin therapy indicated for atherosclerotic risk"
+      "high cholesterol",
+      "elevated LDL",
+      "CV mortality",
+      "fatty casts",
+      "oval fat bodies",
+      "Maltese cross",
+      "hepatic overproduction",
+      "statin indicated"
     ]
   },
   {
     "id": "40-6",
-    "title": "Diagnostic Workup of Nephrotic Syndrome",
+    "title": "Nephrotic Workup",
     "brick_id": "40",
     "brick_title": "Nephrotic Syndrome",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Evaluation of edema and foamy urine",
-      "4+ protein on dipstick screening",
-      "Spot quantification of urinary protein",
-      "Urine protein/creatinine ratio above 3.5",
-      "Serologies for hepatitis, HIV, lupus",
-      "Renal biopsy for definitive diagnosis",
-      "Empiric steroids without biopsy in children",
-      "Biopsy skipped in long-standing diabetic nephropathy"
+      "edema workup",
+      "4+ dipstick",
+      "spot UPCR",
+      "UPCR >3.5",
+      "hep/HIV/lupus serologies",
+      "renal biopsy",
+      "empiric steroids kids",
+      "skip biopsy diabetics"
     ]
   }
 ]

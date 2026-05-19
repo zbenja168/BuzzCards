@@ -1,38 +1,38 @@
 [
   {
     "id": "58-1",
-    "title": "Autosomal Dominant Polycystic Kidney Disease (ADPKD)",
+    "title": "ADPKD",
     "brick_id": "58",
     "brick_title": "Polycystic Kidney Disease",
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "Adult with flank pain and hematuria",
-      "New-onset hypertension with palpable kidneys",
-      "Family history of early renal failure",
-      "Recurrent uric acid kidney stones",
-      "Hepatic cysts incidentally found on CT",
-      "Worst-headache-of-life subarachnoid hemorrhage risk",
-      "Tolvaptan slows GFR decline",
-      "Autosomal dominant PKD1/PKD2 polycystin mutation"
+      "flank pain",
+      "palpable kidneys",
+      "adult onset",
+      "new HTN",
+      "PKD1/PKD2",
+      "berry aneurysm",
+      "hepatic cysts",
+      "tolvaptan"
     ]
   },
   {
     "id": "58-2",
-    "title": "Autosomal Recessive Polycystic Kidney Disease (ARPKD)",
+    "title": "ARPKD",
     "brick_id": "58",
     "brick_title": "Polycystic Kidney Disease",
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "Neonate with bilateral flank masses",
-      "Oligohydramnios on prenatal ultrasound",
-      "Potter sequence with pulmonary hypoplasia",
-      "Hepatic fibrosis with portal hypertension",
-      "Spongelike kidneys with fusiform collecting-duct cysts",
-      "Echogenic 'pepper kidneys' without gross cysts",
-      "Chromosome 6 PKHD1 fibrocystin mutation",
-      "Autosomal recessive infantile polycystic kidneys"
+      "neonate",
+      "oligohydramnios",
+      "Potter sequence",
+      "PKHD1",
+      "fibrocystin",
+      "hepatic fibrosis",
+      "pepper kidneys",
+      "collecting duct cysts"
     ]
   }
 ]

@@ -1,74 +1,74 @@
 [
   {
     "id": "29-1",
-    "title": "Vomiting / NG Suction-Induced Metabolic Alkalosis",
+    "title": "Vomiting-Induced Alkalosis",
     "brick_id": "29",
     "brick_title": "Metabolic Alkalosis",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Intoxicated patient with repeated emesis",
-      "Volume depletion with dizziness and dry mucous membranes",
-      "Loss of gastric acid raises serum bicarbonate",
-      "Hypokalemic hypochloremic alkalosis with paradoxical aciduria",
-      "Urine chloride less than 10 mEq/L",
-      "Corrected by normal saline infusion",
-      "Bulimic patient or chronic NG tube drainage",
-      "Parietal cell HCl loss regenerates new HCO3-"
+      "repeated emesis",
+      "NG suction",
+      "dry mucous membranes",
+      "gastric HCl loss",
+      "urine Cl <10",
+      "saline corrects",
+      "bulimic patient",
+      "parietal HCO3-"
     ]
   },
   {
     "id": "29-2",
-    "title": "Diuretic-Induced Metabolic Alkalosis",
+    "title": "Diuretic-Induced Alkalosis",
     "brick_id": "29",
     "brick_title": "Metabolic Alkalosis",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Edematous patient on chronic outpatient therapy",
-      "Contraction alkalosis with hypokalemia",
-      "RAAS activation drives distal H+ secretion",
-      "Chloride-responsive but urine chloride paradoxically high",
-      "Resolves after offending agent is discontinued",
-      "Loop or thiazide agent causes NaCl wasting",
-      "Furosemide or hydrochlorothiazide use",
-      "Saline plus potassium repletion restores acid-base balance"
+      "edematous patient",
+      "contraction alkalosis",
+      "RAAS activation",
+      "urine Cl paradoxically high",
+      "stop the diuretic",
+      "loop or thiazide",
+      "furosemide",
+      "K+ repletion"
     ]
   },
   {
     "id": "29-3",
-    "title": "Hyperaldosteronism-Induced Metabolic Alkalosis",
+    "title": "Hyperaldosteronism Alkalosis",
     "brick_id": "29",
     "brick_title": "Metabolic Alkalosis",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Resistant hypertension with unexplained hypokalemia",
-      "Alkalosis that does not improve with saline",
-      "Urine chloride greater than 20 mEq/L",
-      "Mineralocorticoid excess drives H+ and K+ wasting",
-      "Suppressed renin with elevated aldosterone",
-      "Adrenal adenoma or bilateral adrenal hyperplasia",
-      "Conn syndrome with chloride-resistant alkalosis",
-      "Treated with spironolactone or eplerenone"
+      "resistant hypertension",
+      "unexplained hypokalemia",
+      "urine Cl >20",
+      "mineralocorticoid excess",
+      "suppressed renin",
+      "adrenal adenoma",
+      "Conn syndrome",
+      "spironolactone"
     ]
   },
   {
     "id": "29-4",
-    "title": "Congenital Tubulopathy-Induced Metabolic Alkalosis",
+    "title": "Congenital Tubulopathy Alkalosis",
     "brick_id": "29",
     "brick_title": "Metabolic Alkalosis",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Young patient with persistent hypokalemia and alkalosis",
-      "Normotensive salt-wasting despite high urine chloride",
-      "Mimics chronic loop or thiazide diuretic use",
-      "Family history of unexplained electrolyte abnormalities",
-      "Chloride-resistant alkalosis without volume depletion",
-      "Inherited defect of distal tubular sodium handling",
-      "Bartter, Gitelman, or Liddle syndrome",
-      "Treated with potassium and amiloride or spironolactone"
+      "young patient",
+      "normotensive salt-waster",
+      "mimics diuretic",
+      "family history",
+      "chloride-resistant",
+      "Bartter/Gitelman",
+      "Liddle syndrome",
+      "amiloride"
     ]
   }
 ]

@@ -1,38 +1,38 @@
 [
   {
     "id": "50-1",
-    "title": "Ischemic Acute Tubular Necrosis",
+    "title": "Ischemic ATN",
     "brick_id": "50",
     "brick_title": "Acute Tubular Necrosis",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "AKI after prolonged hypotension",
-      "Tubular death from low oxygen delivery",
-      "End-arteries with no collateral circulation",
-      "High metabolic demand meets low perfusion",
-      "Post-cardiac arrest rising creatinine",
-      "Sepsis or shock with oliguria",
-      "Unreversed prerenal AKI becomes intrinsic",
-      "Hypoxic necrosis of proximal tubule cells"
+      "post-shock AKI",
+      "prolonged hypotension",
+      "sepsis kidney",
+      "end-arteries",
+      "hypoxic tubules",
+      "lost brush border",
+      "muddy brown casts",
+      "FENa >2%"
     ]
   },
   {
     "id": "50-2",
-    "title": "Aminoglycoside-Induced ATN",
+    "title": "Aminoglycoside ATN",
     "brick_id": "50",
     "brick_title": "Acute Tubular Necrosis",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Renal failure after Gram-negative antibiotic therapy",
-      "Non-oliguric tubular injury with preserved urine output",
-      "Proximal tubule uptake of filtered drug",
-      "Mitochondrial dysfunction in tubular epithelium",
-      "Also classically ototoxic",
-      "Long intracellular half-life in cortex",
-      "Tobramycin spares kidney more than peers",
-      "Gentamicin nephrotoxicity"
+      "gentamicin",
+      "Gram-negative tx",
+      "non-oliguric ATN",
+      "PCT uptake",
+      "mitochondrial toxicity",
+      "long half-life",
+      "ototoxic too",
+      "tobramycin safer"
     ]
   },
   {
@@ -43,86 +43,104 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Creatinine bump 48 hours after imaging",
-      "Renal vasoconstriction plus direct cytotoxicity",
-      "Quick spontaneous resolution unlike other nephrotoxins",
-      "Risk amplified by diabetes and volume depletion",
-      "Mild and limited tubular necrosis",
-      "Often overlaps with prerenal physiology",
-      "AKI post-coronary angiography",
-      "Iodinated radiocontrast dye nephrotoxicity"
+      "post-angiography",
+      "IV contrast",
+      "renal vasoconstriction",
+      "resolves 48h",
+      "diabetic risk",
+      "volume depletion",
+      "mild necrosis",
+      "prehydrate"
     ]
   },
   {
     "id": "50-4",
-    "title": "Heme Pigment ATN (Rhabdomyolysis/Hemolysis)",
+    "title": "Rhabdomyolysis ATN",
     "brick_id": "50",
     "brick_title": "Acute Tubular Necrosis",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "AKI after crush injury or heatstroke",
-      "Tea-colored urine without red cells",
-      "Endogenous pigment toxic to tubules",
-      "Statin-induced muscle breakdown with renal failure",
-      "ABO mismatch transfusion reaction kidney injury",
-      "Dipstick heme-positive, microscopy RBC-negative",
-      "Myoglobinuria filtered into proximal tubule",
-      "Free hemoglobin from massive intravascular hemolysis"
+      "crush injury",
+      "myoglobinuria",
+      "heme+ dipstick",
+      "no RBCs",
+      "tea-colored urine",
+      "statin trigger",
+      "heatstroke",
+      "high CK"
     ]
   },
   {
     "id": "50-5",
-    "title": "ATN Initiation Phase",
+    "title": "Cisplatin ATN",
     "brick_id": "50",
     "brick_title": "Acute Tubular Necrosis",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Earliest stage after renal insult",
-      "Tubular cells injured but still intact",
-      "Subtle decline in urine output",
-      "Modest rise in BUN only",
-      "Loss of reabsorption with normal architecture",
-      "Sodium escaping into tubular fluid",
-      "Clinically silent prelude to necrosis",
-      "Inciting hypoxic or toxic event phase"
+      "chemo nephrotox",
+      "PCT damage",
+      "binds DNA",
+      "ototoxic",
+      "cancer patient",
+      "platinum agent",
+      "dose-dependent",
+      "tubular cell death"
     ]
   },
   {
     "id": "50-6",
-    "title": "ATN Maintenance Phase",
+    "title": "Ethylene Glycol ATN",
     "brick_id": "50",
     "brick_title": "Acute Tubular Necrosis",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Sustained oliguria 40 to 400 mL/day",
-      "Necrotic cells sloughing and obstructing tubules",
-      "Hyperkalemia and metabolic acidosis peak",
-      "Salt and water overload with uremia",
-      "Back-leak of filtrate through disrupted epithelium",
-      "Highest mortality phase of ATN",
-      "Muddy-brown granular casts on urinalysis",
-      "Tubuloglomerular feedback constricting afferent arteriole"
+      "antifreeze ingestion",
+      "glycolate toxicity",
+      "oxalate crystals",
+      "anion-gap acidosis",
+      "osmolal gap",
+      "envelope crystals",
+      "fomepizole",
+      "suicidal patient"
     ]
   },
   {
     "id": "50-7",
-    "title": "ATN Recovery Phase",
+    "title": "ATN Clinical Course",
     "brick_id": "50",
     "brick_title": "Acute Tubular Necrosis",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Tubular epithelium regenerating after injury",
-      "Brisk rise in urine output",
-      "Risk of hypotension from fluid losses",
-      "Resorptive function returning gradually",
-      "Accumulated osmoles flooding into urine",
-      "Marker of returning tubular function",
-      "Dialysis can be discontinued here",
-      "Polyuric diuretic phase of ATN"
+      "initiation phase",
+      "maintenance oliguria",
+      "recovery diuresis",
+      "rising creatinine",
+      "tubuloglomerular feedback",
+      "back-leak",
+      "hyperkalemia",
+      "self-resolves"
+    ]
+  },
+  {
+    "id": "50-8",
+    "title": "ATN Management",
+    "brick_id": "50",
+    "brick_title": "Acute Tubular Necrosis",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "supportive only",
+      "stop nephrotoxins",
+      "treat hyperkalemia",
+      "normal saline",
+      "loop diuretics",
+      "dialysis if uremic",
+      "support BP",
+      "await regeneration"
     ]
   }
 ]

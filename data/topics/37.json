@@ -1,110 +1,200 @@
 [
   {
     "id": "37-1",
-    "title": "Serum Creatinine and eGFR Equations",
+    "title": "Serum Creatinine",
     "brick_id": "37",
     "brick_title": "Renal Laboratory Tests",
     "week": 2,
     "type": "lab",
     "buzzwords": [
-      "Byproduct of daily muscle breakdown",
-      "Freely filtered, not reabsorbed, minimally secreted",
-      "Value varies with sex, age, muscle mass",
-      "Plugged into equations to estimate filtration",
-      "Vegetarians and low muscle mass underestimate disease",
-      "SWAG mnemonic: sex, weight, age, gender",
-      "MDRD replaced by ethnicity-free 2021 update",
-      "Cockcroft-Gault, MDRD, and CKD-EPI"
+      "kidney clearance",
+      "0.6-1.4 mg/dL",
+      "muscle byproduct",
+      "freely filtered",
+      "minimally secreted",
+      "tracks GFR",
+      "mass-dependent",
+      "low in vegetarians"
     ]
   },
   {
     "id": "37-2",
-    "title": "24-Hour Creatinine Clearance",
+    "title": "eGFR Equations",
     "brick_id": "37",
     "brick_title": "Renal Laboratory Tests",
     "week": 2,
     "type": "lab",
     "buzzwords": [
-      "Direct timed measurement of solute clearance",
-      "Requires a full-day urine collection jug",
-      "Paired serum draw at midpoint of collection",
-      "Bypasses demographic-based estimating equations",
-      "Volume times urine concentration over plasma",
-      "Inaccurate if collection is missed or incomplete",
-      "Formula divides by 1440 minutes per day",
-      "CrCl = (UCr x V) / (PCr x 1440)"
+      "estimates GFR",
+      "Cockcroft-Gault",
+      "SWAG mnemonic",
+      "MDRD",
+      "CKD-EPI",
+      "no race variable",
+      "~120 mL/min normal",
+      "drops 10/decade"
     ]
   },
   {
     "id": "37-3",
-    "title": "Blood Urea Nitrogen (BUN)",
+    "title": "24-Hour CrCl",
     "brick_id": "37",
     "brick_title": "Renal Laboratory Tests",
     "week": 2,
     "type": "lab",
     "buzzwords": [
-      "Serum assay reported as a nitrogen value",
-      "Rises with dehydration and high catabolism",
-      "Elevated after upper GI bleeding",
-      "Tracks confusion, asterixis, and pericarditis symptoms",
-      "Normal range roughly 7 to 20 mg/dL",
-      "Surrogate marker, not an estimate of filtration",
-      "Reflects uremic solute burden",
-      "Nitrogen portion of urea (BUN)"
+      "day-long collection",
+      "timed urine",
+      "UCr*V/PCr",
+      "divide by 1440",
+      "GFR estimate",
+      "jug collection",
+      "miss = inaccurate",
+      "validates eGFR"
     ]
   },
   {
     "id": "37-4",
+    "title": "BUN",
+    "brick_id": "37",
+    "brick_title": "Renal Laboratory Tests",
+    "week": 2,
+    "type": "lab",
+    "buzzwords": [
+      "7-20 mg/dL",
+      "uremic marker",
+      "not GFR",
+      "dehydration spike",
+      "GI bleed rises",
+      "catabolic states",
+      "urea nitrogen",
+      "tracks symptoms"
+    ]
+  },
+  {
+    "id": "37-5",
     "title": "Urine Dipstick",
     "brick_id": "37",
     "brick_title": "Renal Laboratory Tests",
     "week": 2,
     "type": "lab",
     "buzzwords": [
-      "Rapid bedside point-of-care screen",
-      "Colorimetric pads change shade by analyte",
-      "Reported semi-quantitatively from 0 to 4+",
-      "Estimates concentration via specific gravity 1.003-1.035",
-      "Catches glucose once threshold around 180 exceeded",
-      "Heme pad falsely positive in rhabdomyolysis",
-      "Detects leukocyte esterase and bacterial nitrites",
-      "Reagent strip for pH, protein, blood, glucose"
-    ]
-  },
-  {
-    "id": "37-5",
-    "title": "Urine Microscopy (Sediment)",
-    "brick_id": "37",
-    "brick_title": "Renal Laboratory Tests",
-    "week": 2,
-    "type": "lab",
-    "buzzwords": [
-      "Centrifuged pellet examined on a slide",
-      "Reported per high-power field",
-      "Distinguishes dysmorphic from normal red cells",
-      "Identifies coffin-lid, envelope, and hexagonal crystals",
-      "Eosinophils suggest allergic interstitial nephritis",
-      "Muddy brown granular casts mark tubular necrosis",
-      "WBC casts localize infection to the kidney",
-      "RBC casts pathognomonic for glomerulonephritis"
+      "bedside strip",
+      "colorimetric",
+      "heme",
+      "leukocyte esterase",
+      "nitrites",
+      "protein",
+      "specific gravity",
+      "semi-quantitative"
     ]
   },
   {
     "id": "37-6",
-    "title": "Proteinuria Quantification (UPCR, ACR, 24h)",
+    "title": "Urine Microscopy",
     "brick_id": "37",
     "brick_title": "Renal Laboratory Tests",
     "week": 2,
     "type": "lab",
     "buzzwords": [
-      "Quantifies leak of plasma proteins into urine",
-      "Spot ratios use creatinine to normalize concentration",
-      "Daylong collection considered the most accurate method",
-      "Immunoassay variant detects microalbuminuria early",
-      "Screens for diabetic and hypertensive kidney damage",
-      "Turbidimetric ratio catches all protein types",
-      "Bence Jones light chains missed by dipstick and ACR",
-      "UPCR, ACR, and 24-hour urine protein"
+      "spun sediment",
+      "high-power field",
+      "cells",
+      "casts",
+      "crystals",
+      "dysmorphic RBCs",
+      "nephrologist tool",
+      "post-centrifuge"
+    ]
+  },
+  {
+    "id": "37-7",
+    "title": "Hematuria",
+    "brick_id": "37",
+    "brick_title": "Renal Laboratory Tests",
+    "week": 2,
+    "type": "lab",
+    "buzzwords": [
+      "blood in urine",
+      "stones",
+      "UTI",
+      "GN clue",
+      "dysmorphic RBCs",
+      "acanthocytes",
+      "RBC casts",
+      "myoglobin false+"
+    ]
+  },
+  {
+    "id": "37-8",
+    "title": "Pyuria",
+    "brick_id": "37",
+    "brick_title": "Renal Laboratory Tests",
+    "week": 2,
+    "type": "lab",
+    "buzzwords": [
+      "WBCs in urine",
+      "leukocyte esterase",
+      "nitrites",
+      "UTI",
+      "eosinophils->AIN",
+      "WBC casts",
+      "pyelonephritis",
+      "interstitial nephritis"
+    ]
+  },
+  {
+    "id": "37-9",
+    "title": "Crystalluria",
+    "brick_id": "37",
+    "brick_title": "Renal Laboratory Tests",
+    "week": 2,
+    "type": "lab",
+    "buzzwords": [
+      "envelopes",
+      "calcium oxalate",
+      "coffin-lid",
+      "struvite",
+      "rhomboids",
+      "uric acid",
+      "hexagonal",
+      "cystine"
+    ]
+  },
+  {
+    "id": "37-10",
+    "title": "Proteinuria Assays",
+    "brick_id": "37",
+    "brick_title": "Renal Laboratory Tests",
+    "week": 2,
+    "type": "lab",
+    "buzzwords": [
+      "UA",
+      "UPCR",
+      "ACR",
+      "24-hr collection",
+      "albumin-specific",
+      "turbidimetry",
+      "Bence Jones miss",
+      "early CKD clue"
+    ]
+  },
+  {
+    "id": "37-11",
+    "title": "ATN Sediment",
+    "brick_id": "37",
+    "brick_title": "Renal Laboratory Tests",
+    "week": 2,
+    "type": "lab",
+    "buzzwords": [
+      "muddy brown casts",
+      "granular casts",
+      "RTE cells",
+      "tubular injury",
+      "central nuclei",
+      "epithelial sheets",
+      "toxic/hypoxic",
+      "intrarenal AKI"
     ]
   }
 ]

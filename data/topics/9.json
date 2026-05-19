@@ -1,110 +1,128 @@
 [
   {
     "id": "9-1",
-    "title": "Proximal Convoluted Tubule (PCT)",
+    "title": "Proximal Convoluted Tubule",
     "brick_id": "9",
     "brick_title": "Nephron Segmental Physiology",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Bulk isosmotic reabsorption workhorse",
-      "Reabsorbs 65-70% of filtered sodium",
-      "Leaky epithelium with claudin-2 tight junctions",
-      "Reclaims all glucose and amino acids",
-      "Brush border with apical aquaporin-1 channels",
-      "NHE-3 drives bicarbonate reclamation",
-      "Site of Fanconi syndrome and glucosuria with normoglycemia",
-      "SGLT2 and SGLT1 cotransporters"
+      "workhorse segment",
+      "isosmotic reabsorption",
+      "65-70% Na+",
+      "leaky claudin-2",
+      "AQP1 water",
+      "SGLT2 glucose",
+      "NHE-3 bicarb",
+      "Fanconi site"
     ]
   },
   {
     "id": "9-2",
-    "title": "Thin Descending Limb of Henle",
+    "title": "Thin Descending Limb",
     "brick_id": "9",
     "brick_title": "Nephron Segmental Physiology",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Passive water-losing segment",
-      "Highly water-permeable, solute-impermeable",
-      "Filtrate concentrates as it descends",
-      "Dives into hypertonic medulla",
-      "No active transport activity",
-      "Contributes to countercurrent multiplication",
-      "Water exits osmotically into medullary interstitium",
-      "Aquaporin-1 mediated water efflux"
+      "passive segment",
+      "water-permeable",
+      "solute-impermeable",
+      "concentrates filtrate",
+      "dives into medulla",
+      "no active transport",
+      "AQP1 efflux",
+      "countercurrent arm"
     ]
   },
   {
     "id": "9-3",
-    "title": "Thick Ascending Limb (TAL)",
+    "title": "Thick Ascending Limb",
     "brick_id": "9",
     "brick_title": "Nephron Segmental Physiology",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Diluting segment of the nephron",
-      "Water-impermeable despite active salt reabsorption",
-      "Generates the medullary osmotic gradient",
-      "Lumen-positive voltage from K+ recycling via ROMK",
-      "Paracellular Ca2+ and Mg2+ reabsorption",
-      "Claudin-16/19 mutations cause familial hypomagnesemia",
-      "Furosemide target",
-      "NKCC2 (Na+-K+-2Cl-) cotransporter"
+      "diluting segment",
+      "water-impermeable",
+      "NKCC2 cotransporter",
+      "furosemide target",
+      "lumen-positive voltage",
+      "ROMK recycling",
+      "paracellular Mg/Ca",
+      "claudin-16/19"
     ]
   },
   {
     "id": "9-4",
-    "title": "Distal Convoluted Tubule (DCT)",
+    "title": "Distal Convoluted Tubule",
     "brick_id": "9",
     "brick_title": "Nephron Segmental Physiology",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Fine-tuning NaCl segment, water-impermeable",
-      "Reabsorbs 5-8% of filtered sodium",
-      "PTH-regulated calcium reabsorption site",
-      "TRPV5 apical channels and basolateral NCX",
-      "TRPM6 channels handle magnesium",
-      "Further dilutes tubular fluid",
-      "Thiazide diuretic target",
-      "NCC (Na+-Cl-) cotransporter"
+      "fine-tuning segment",
+      "5-8% Na+",
+      "NCC cotransporter",
+      "thiazide target",
+      "water-tight",
+      "PTH-regulated Ca",
+      "TRPV5 channels",
+      "TRPM6 magnesium"
     ]
   },
   {
     "id": "9-5",
-    "title": "Principal Cells of the Collecting Duct",
+    "title": "Principal Cells",
     "brick_id": "9",
     "brick_title": "Nephron Segmental Physiology",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Final regulatory checkpoint for sodium and water",
-      "Aldosterone-driven Na+ retention",
-      "Secrete K+ through ROMK channels",
-      "ADH inserts AQP2 via V2/cAMP/PKA cascade",
-      "Most abundant in cortical collecting duct",
-      "Urine concentration 50-1200 mOsm/kg",
-      "Amiloride and triamterene target site",
-      "Apical ENaC sodium channels"
+      "final checkpoint",
+      "ENaC sodium",
+      "aldosterone-driven",
+      "ROMK K+ secretion",
+      "ADH-tuned water",
+      "AQP2 insertion",
+      "cortical CD",
+      "amiloride target"
     ]
   },
   {
     "id": "9-6",
-    "title": "Intercalated Cells of the Collecting Duct",
+    "title": "Intercalated Cells",
     "brick_id": "9",
     "brick_title": "Nephron Segmental Physiology",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Renal acid-base balance specialists",
-      "No role in sodium or water handling",
-      "Two functional subtypes with opposite polarity",
-      "Type A secretes H+, reabsorbs HCO3-",
-      "Type B secretes HCO3-, reabsorbs H+",
-      "Active in acidosis (type A) vs alkalosis (type B)",
-      "Dysfunction causes distal renal tubular acidosis",
-      "Apical H+-ATPase and H+/K+-ATPase pumps"
+      "acid-base specialists",
+      "H+-ATPase",
+      "type A acidosis",
+      "type B alkalosis",
+      "H+ secretion",
+      "HCO3- reclamation",
+      "distal RTA",
+      "no Na+/water role"
+    ]
+  },
+  {
+    "id": "9-7",
+    "title": "Transport Maximum and Splay",
+    "brick_id": "9",
+    "brick_title": "Nephron Segmental Physiology",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "saturation kinetics",
+      "Tm threshold",
+      "glucose Tm ~375",
+      "renal threshold 180",
+      "splay curve",
+      "nephron heterogeneity",
+      "osmotic diuresis",
+      "pan-proximal Fanconi"
     ]
   }
 ]

@@ -8,13 +8,13 @@
     "type": "disease",
     "buzzwords": [
       "sudden altered mental status",
-      "rapid drop in blood pH",
-      "no time for renal compensation",
-      "bicarbonate barely budges from baseline",
-      "abrupt hypercapnia, severely symptomatic",
-      "found unresponsive overnight on the ward",
-      "pH low, PaCO2 high, HCO3 ~24 mEq/L",
-      "acute uncompensated primary hypercapnia"
+      "abrupt hypercapnia",
+      "low pH",
+      "HCO3 barely budges",
+      "no renal compensation",
+      "found unresponsive overnight",
+      "rapid CO2 rise",
+      "uncompensated hypercapnia"
     ]
   },
   {
@@ -25,50 +25,50 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "asymptomatic despite high CO2",
-      "incidental lab finding in lung disease",
-      "kidneys have had weeks to compensate",
-      "markedly elevated serum bicarbonate",
-      "near-normal pH with high PaCO2",
-      "CSF buffering blunts mental status changes",
-      "renal H+ excretion regenerates HCO3-",
-      "compensated primary hypercapnia"
+      "asymptomatic hypercapnia",
+      "incidental ABG finding",
+      "near-normal pH",
+      "high HCO3",
+      "renal H+ excretion",
+      "CSF buffering",
+      "weeks to compensate",
+      "compensated hypercapnia"
     ]
   },
   {
     "id": "30-3",
-    "title": "Opioid Overdose Respiratory Acidosis",
+    "title": "Opioid Overdose",
     "brick_id": "30",
     "brick_title": "Respiratory Acidosis",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "young patient found unresponsive",
-      "respiratory rate 7 per minute",
-      "fresh injection sites on the arms",
-      "needles seen nearby on the couch",
-      "depressed central respiratory drive",
-      "pinpoint (miotic) pupils",
-      "reverses within minutes of naloxone",
-      "mu-opioid receptor-mediated hypoventilation"
+      "young, unresponsive",
+      "RR 7",
+      "pinpoint pupils",
+      "fresh track marks",
+      "needles nearby",
+      "depressed respiratory drive",
+      "give naloxone",
+      "mu-receptor hypoventilation"
     ]
   },
   {
     "id": "30-4",
-    "title": "COPD Exacerbation Respiratory Acidosis",
+    "title": "COPD Exacerbation",
     "brick_id": "30",
     "brick_title": "Respiratory Acidosis",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "cough and worsening dyspnea",
-      "pursed-lip breathing and wheezing",
-      "long-standing smoker admitted overnight",
+      "cough and dyspnea",
+      "pursed-lip breathing",
+      "wheezing smoker",
       "acute-on-chronic hypercapnia",
-      "air trapping with CO2 retention",
-      "treated initially with bronchodilators",
-      "BiPAP for persistent acidosis",
-      "obstructive lung disease flare with hypercarbia"
+      "CO2 trapping",
+      "bronchodilators first",
+      "BiPAP next",
+      "obstructive flare"
     ]
   },
   {
@@ -79,32 +79,32 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "progressive muscle weakness with dyspnea",
-      "inability to take a deep breath",
-      "shallow tidal volumes with normal drive",
-      "declining vital capacity on bedside spirometry",
-      "diaphragmatic weakness drives hypercapnia",
-      "myasthenia gravis, ALS, or Guillain-Barre",
-      "botulism or muscular dystrophy presentations",
-      "respiratory muscle pump failure"
+      "progressive weakness",
+      "shallow breaths",
+      "low tidal volume",
+      "falling vital capacity",
+      "diaphragm weakness",
+      "myasthenia or ALS",
+      "Guillain-Barre",
+      "respiratory pump failure"
     ]
   },
   {
     "id": "30-6",
-    "title": "Obesity Hypoventilation Syndrome (OHS)",
+    "title": "Obesity Hypoventilation",
     "brick_id": "30",
     "brick_title": "Respiratory Acidosis",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "daytime sleepiness in a heavy patient",
-      "morning headaches and fatigue",
-      "BMI well above 30",
-      "blunted central response to CO2",
-      "chronic daytime hypercapnia awake",
-      "often overlaps with obstructive sleep apnea",
+      "daytime sleepiness",
+      "morning headaches",
+      "BMI over 30",
+      "awake hypercapnia",
+      "blunted CO2 response",
+      "overlaps OSA",
       "Pickwickian syndrome",
-      "obesity-related awake hypoventilation with elevated HCO3-"
+      "elevated HCO3"
     ]
   }
 ]

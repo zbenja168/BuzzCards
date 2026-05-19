@@ -1,38 +1,96 @@
 # Brick → card-list extraction procedure
 
-You read one brick's already-extracted transcript and emit a list of **named entities** (cards) that live inside that brick, each with its own 8 buzzwords.
+You read one brick's already-extracted transcript and emit a list of **named entities** (cards) that live inside that brick, each with its own 8 punchy buzzwords.
 
 The orchestrator passes you these variables:
 - `brick_id` — numeric id (e.g. `54`)
 - `brick_title` — the brick's overall title (e.g. `Renal Stones`)
 - `week`, `type` — same as the source brick
 - `input` — path to the existing JSON: `data/bricks/<brick_id>.json`. Contains `{transcript, ...}`.
-- `output` — path to write: `data/topics/<brick_id>.json` (an **array** of card objects)
+- `output` — path to write: `data/topics/<brick_id>.json` (an **array** of card objects). **Overwrite** any existing file.
 
 ## What counts as a card
 
-A card is **one specific named entity** that the brick teaches as a distinct learnable thing. Examples of how granularity should go:
+A card is **one specific named entity** that the brick teaches as a distinct learnable thing. Examples:
 
-- `Renal Stones` brick → cards for **calcium oxalate**, **struvite**, **uric acid**, **cystine**, **calcium phosphate** stones (each is a named entity).
-- `Hereditary Renal Transport Disorders` brick → **Bartter syndrome**, **Gitelman syndrome**, **Liddle syndrome**, **pseudohypoaldosteronism** if mentioned.
-- `Renal Imaging` brick → **renal ultrasound**, **noncontrast CT**, **DMSA scan**, **MRI** (each named modality).
-- `GFR` brick → **inulin clearance**, **creatinine clearance**, **KDIGO eGFR staging**, **renal plasma flow / PAH**, etc. — break out distinct concepts/methods.
-- `Acute Kidney Injury` brick → cards for **prerenal AKI**, **intrinsic AKI**, **postrenal AKI** (the brick's own enumeration), plus any specific named entities like contrast-induced nephropathy if substantively covered.
-- `Anatomy of the Urinary System` brick → **kidney gross anatomy**, **ureter anatomy**, **bladder anatomy**, **urethra anatomy** — distinct structures.
+- `Renal Stones` → calcium oxalate, struvite, uric acid, cystine, calcium phosphate stones (5 cards).
+- `Hereditary Renal Transport Disorders` → Bartter, Gitelman, Liddle (3 cards).
+- `Renal Imaging` → renal US, noncontrast CT, MRI, DMSA scan (4+ cards).
+- `GFR` → inulin clearance, creatinine clearance, KDIGO staging, hemodynamic determinants (4+ cards).
+- `Acute Kidney Injury` → prerenal AKI, intrinsic AKI, postrenal AKI (3 cards minimum).
+- `Anatomy of the Urinary System` → kidney, ureter, bladder, urethra (4 cards).
 
-If the brick is genuinely atomic (e.g. `Anti-GBM Disease (Goodpasture Syndrome)`, `Minimal Change Disease`, `Polycystic Kidney Disease`, single drug-class bricks), emit **exactly one card** — the brick itself.
+If the brick is genuinely atomic (e.g. `Anti-GBM Disease`, `Minimal Change Disease`, `Polycystic Kidney Disease`, single drug-class bricks), emit **exactly one card** — the brick itself.
 
-**Rule of thumb**: if the brick has section headings, sub-tables, or a list-style enumeration of named conditions/concepts/structures, those are your cards. If it's one continuous narrative about one entity, it's one card.
+**Rule of thumb**: if the brick has section headings, sub-tables, or list-style enumeration of named conditions/concepts/structures, those are your cards. Aim for **1–6 cards** per brick; rarely more.
 
-Don't fan out into trivia — only break out things a learner would want to be able to identify from buzzwords. Aim for **1–6 cards per brick**; rarely more.
+## CARD TITLES — short and plain
 
-## Buzzword rules per card
+- **Aim for ≤4 words.** Plain English is fine — no need to force abbreviations. But drop redundant parentheticals and over-qualification.
+- Use the natural name of the entity, not a textbook section heading.
 
-For each card, write exactly **8 buzzwords**, ordered **vague → giveaway**:
-- ≤ 8 words each, punchy.
-- The buzzwords must distinguish THIS card from its siblings within the brick. E.g. for calcium oxalate stones, lead with clues that point specifically to calcium oxalate (hypercalciuria, ethylene glycol, envelope crystals) — not generic "renal stone" clues that fit struvite or uric acid equally.
-- Last 1–2 buzzwords should be dead-giveaway (pathognomonic feature, eponymous finding, defining mechanism).
-- No proper nouns / eponyms in the first 4 buzzwords.
+Bad → Good examples:
+
+| Bad | Good |
+|---|---|
+| `Refractory Hypokalemia and Hypocalcemia from Mg2+ Deficiency` | `Mg-Refractory Hypokalemia` |
+| `TAL Paracellular Mg2+ Reabsorption` | `TAL Mg Reabsorption` |
+| `Hypomagnesemia: Causes and Management` | `Hypomagnesemia` |
+| `Glomerular Hypercellularity and Immune Complex Patterns` | `Immune-Complex GN Pattern` |
+| `HCV-Associated MPGN with Cryoglobulinemia` | `Cryoglobulinemic MPGN` |
+| `Anti-GBM Disease (Goodpasture Syndrome)` | `Anti-GBM Disease` |
+| `Proximal Tubule Sodium Reabsorption (NHE3)` | `PCT Sodium Handling` |
+| `Iv Calcium Gluconate (Membrane Stabilization)` | `IV Calcium Gluconate` |
+| `ATN Initiation Phase` | `ATN: Initiation Phase` |
+
+## BUZZWORDS — punchy clinical pearls, not textbook sentences
+
+This is the most important style rule. Buzzwords should sound like **flashcard snippets a student would mutter to themselves**, not like sentences from a textbook chapter.
+
+- **Target 1–3 words per buzzword. Maximum 6 words.**
+- No full sentences. No conjunctions like "and"/"with"/"due to" stitching multiple ideas together — pick ONE idea per buzzword.
+- **Clinical pearl voice.** Phrase like a clinician's hint, not a definition.
+- 8 buzzwords per card. They should still **distinguish this card from its siblings within the brick** — but distinction is made by what feature you pick, not by how thoroughly you describe it.
+- Order them roughly vague → specific so the underlying data is reusable, but **the game shuffles them at runtime**, so each one must stand on its own.
+
+### Bad → Good buzzword examples
+
+| Bad (too long, too explanatory) | Good (punchy) |
+|---|---|
+| `Low K+ that won't correct with replacement` | `K+ won't budge` |
+| `Underlying cation deficit must be repleted first` | `fix Mg first` |
+| `Parathyroid CaSR fails without adequate magnesium` | `CaSR needs Mg` |
+| `Linear IgG deposition along glomerular basement membrane` | `linear IgG ribbons` |
+| `Antibodies against alpha-3 chain of type IV collagen` | `anti-α3(IV) collagen` |
+| `Driven by lumen-positive transepithelial voltage` | `lumen-positive voltage` |
+| `Voltage generated by NKCC2 plus ROMK recycling` | `NKCC2/ROMK loop` |
+| `Most common kidney stone type` | `most common stone` |
+| `Crohn disease or bariatric surgery` | `enteric hyperoxaluria` |
+| `Recurrent upper urinary tract infections` | `recurrent UTIs` |
+| `Magnesium ammonium phosphate composition` | `Mg-NH4-PO4 stone` |
+| `Urease-positive bacteria split urea` | `urease bacteria` |
+| `Proteus, Klebsiella, Ureaplasma organisms` | `Proteus mirabilis` |
+| `Large branching renal pelvis cast` | `branched cast` |
+| `Coffin-lid shaped crystals` | `coffin-lid crystals` |
+| `Persistently acidic urine, pH under 5.5` | `acidic urine` |
+| `Red meat and high purine diet` | `high purine diet` |
+| `History of gout or podagra` | `gouty patient` |
+| `Post-chemotherapy tumor lysis syndrome` | `tumor lysis` |
+| `Invisible on plain abdominal x-ray` | `radiolucent stone` |
+| `Allopurinol and urinary alkalinization for prevention` | `allopurinol prevents` |
+| `Cystine, ornithine, lysine, arginine wasting` | `COLA wasting` |
+| `Hexagonal urinary crystals` | `hexagonal crystals` |
+| `Tiopronin or penicillamine therapy` | `penicillamine` |
+
+The pattern: pick **one suggestive feature** per buzzword and **drop everything else** — the connecting words, the qualifiers, the explanation of why. The reader supplies the inference.
+
+### What "vague" buzzwords look like in this style
+
+Vague buzzwords (early in the disk order) should also be 1–3 words but pointing at a broader class:
+
+- For Calcium Oxalate Stones — vague: `flank pain`, `hematuria`, `colicky pain`. Specific: `envelope crystals`, `oxalate stone`.
+- For Anti-GBM — vague: `hemoptysis`, `young smoker`, `pulmonary-renal`. Specific: `linear IgG`, `anti-α3(IV) collagen`.
+- For Wilms Tumor — vague: `abdominal mass`, `painless mass`, `young child`. Specific: `nephroblastoma`, `WT1 mutation`.
 
 ## Output shape
 
@@ -47,10 +105,9 @@ For each card, write exactly **8 buzzwords**, ordered **vague → giveaway**:
     "brick_title": "<brick_title>",
     "week": <week>,
     "type": "<type>",
-    "buzzwords": ["vague clue", "...", "giveaway"]
+    "buzzwords": ["punchy", "shorter", "even shorter", "...", "8 total"]
   },
-  { "id": "<brick_id>-2", ... },
-  ...
+  { "id": "<brick_id>-2", ... }
 ]
 ```
 
@@ -61,12 +118,11 @@ Use real `\n`-escaped JSON. Use sequential sub-ids starting from `1`.
 After writing, validate from `C:\Users\zbenj\card_buzzwordgame`:
 
 ```
-node -e "const a=JSON.parse(require('fs').readFileSync(process.argv[1])); if(!Array.isArray(a)) throw new Error('expected array'); a.forEach((c,i)=>{ if(c.buzzwords.length!==8) throw new Error('card '+i+' has '+c.buzzwords.length+' buzzwords, expected 8'); if(!c.title||!c.brick_id||!c.type) throw new Error('card '+i+' missing fields'); }); console.log('OK',a.length,'cards'); a.forEach(c=>console.log('  -',c.title));" <output>
+node -e "const a=JSON.parse(require('fs').readFileSync(process.argv[1])); if(!Array.isArray(a)) throw new Error('expected array'); a.forEach((c,i)=>{ if(c.buzzwords.length!==8) throw new Error('card '+i+' has '+c.buzzwords.length+' buzzwords, expected 8'); if(!c.title||!c.brick_id||!c.type) throw new Error('card '+i+' missing fields'); const long=c.buzzwords.filter(b=>b.split(/\\s+/).length>6); if(long.length>2) throw new Error('card '+i+' has '+long.length+' buzzwords over 6 words: '+long.join(' | ')); }); console.log('OK',a.length,'cards'); a.forEach(c=>console.log('  -',c.title));" <output>
 ```
+
+(The validator flags cards with more than 2 buzzwords over 6 words — a soft guardrail. The procedure target is 1–3 words; a few longer ones are acceptable if truly necessary.)
 
 ## Report
 
-Report back:
-- Number of cards emitted
-- The list of card titles (so the user can spot misses or over-splits)
-- 1-sentence justification of how you decided the split
+Report back: number of cards, card titles, and 1 sentence on how the split decision went.

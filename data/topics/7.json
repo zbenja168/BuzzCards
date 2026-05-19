@@ -1,20 +1,20 @@
 [
   {
     "id": "7-1",
-    "title": "Clearance Equation and Classification",
+    "title": "Clearance Equation",
     "brick_id": "7",
     "brick_title": "Renal Clearance",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Volume of plasma scrubbed per unit time",
-      "Reported in milliliters per minute",
-      "Numerator is excretion rate",
-      "Denominator is plasma concentration",
-      "Below filtration suggests net reabsorption",
-      "Above filtration suggests net secretion",
-      "Compared against GFR to classify handling",
-      "Equals (Ux times V) divided by Px"
+      "plasma scrubbed",
+      "mL/min",
+      "(Ux x V) / Px",
+      "excretion over plasma",
+      "Cx < GFR reabsorbed",
+      "Cx = GFR filtered only",
+      "Cx > GFR secreted",
+      "compare to GFR"
     ]
   },
   {
@@ -25,14 +25,14 @@
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Exogenous polysaccharide given by infusion",
-      "Freely filtered across the glomerulus",
-      "Neither reabsorbed nor secreted by tubules",
-      "Metabolically inert and protein-free",
-      "Excretion equals filtered load exactly",
-      "Requires continuous infusion and timed collection",
-      "Impractical outside research settings",
-      "Gold standard for measuring true GFR"
+      "GFR gold standard",
+      "freely filtered",
+      "no reabsorption",
+      "no secretion",
+      "metabolically inert",
+      "exogenous polysaccharide",
+      "continuous infusion",
+      "research only"
     ]
   },
   {
@@ -43,68 +43,68 @@
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Endogenous waste from muscle metabolism",
-      "Produced at a relatively constant rate",
-      "Measurable from serum without infusion",
-      "Filtered and modestly secreted in proximal tubule",
-      "Overestimates true GFR by 10-20 percent",
-      "Most common clinical surrogate for filtration",
-      "Used to stage chronic kidney disease",
-      "Refined by MDRD and CKD-EPI equations"
+      "muscle byproduct",
+      "endogenous marker",
+      "constant production",
+      "slightly secreted",
+      "overestimates GFR",
+      "10-20% overshoot",
+      "CKD staging",
+      "MDRD / CKD-EPI"
     ]
   },
   {
     "id": "7-4",
-    "title": "PAH Clearance and Renal Plasma Flow",
+    "title": "PAH Clearance",
     "brick_id": "7",
     "brick_title": "Renal Clearance",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Quantifies perfusion to the kidneys",
-      "Filtered and avidly secreted in proximal tubule",
-      "Handled by organic anion transporters",
-      "About 90 percent extracted in one pass",
-      "Yields the 'effective' qualifier on plasma flow",
-      "True flow equals measured value over extraction ratio",
-      "Para-aminohippuric acid is the classical tracer",
-      "Combined with hematocrit gives renal blood flow"
+      "estimates RPF",
+      "filtered + secreted",
+      "OAT transport",
+      "~90% extraction",
+      "single-pass clearance",
+      "effective RPF",
+      "para-aminohippurate",
+      "research tracer"
     ]
   },
   {
     "id": "7-5",
-    "title": "Renal Blood Flow and Filtration Fraction",
+    "title": "RBF and Filtration Fraction",
     "brick_id": "7",
     "brick_title": "Renal Clearance",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Approximately 20-25 percent of cardiac output",
-      "Roughly 1000-1200 mL per minute in adults",
-      "Plasma flow scaled by one minus hematocrit",
-      "Normal filtered fraction is 15-20 percent",
-      "Rises in heart failure via efferent constriction",
-      "Falls in pregnancy from disproportionate vasodilation",
-      "Angiotensin II preserves filtration during hypoperfusion",
-      "Ratio of GFR to renal plasma flow"
+      "20-25% cardiac output",
+      "~1200 mL/min",
+      "RPF / (1 - Hct)",
+      "FF = GFR/RPF",
+      "normal 15-20%",
+      "high FF in CHF",
+      "low FF in pregnancy",
+      "Ang II efferent tone"
     ]
   },
   {
     "id": "7-6",
-    "title": "Tubular Transport and Drug Clearance",
+    "title": "Tubular Drug Handling",
     "brick_id": "7",
     "brick_title": "Renal Clearance",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Proximal tubule carriers move drugs against gradients",
-      "Competition between substrates lowers elimination",
-      "Saturation produces non-linear kinetics",
-      "Urine pH alters ionization and passive reabsorption",
-      "Dose reduction or interval extension corrects accumulation",
-      "Penicillins, methotrexate, and NSAIDs share an anion pathway",
-      "Metformin, cimetidine, and trimethoprim share a cation pathway",
-      "Mediated by OAT and OCT transporter families"
+      "PCT secretion",
+      "OAT anions",
+      "OCT cations",
+      "transporter competition",
+      "saturation kinetics",
+      "ion trapping",
+      "dose reduction",
+      "interval extension"
     ]
   }
 ]

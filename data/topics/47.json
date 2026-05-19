@@ -1,20 +1,20 @@
 [
   {
     "id": "47-1",
-    "title": "Anti-GBM Disease (Goodpasture Syndrome)",
+    "title": "Anti-GBM Disease",
     "brick_id": "47",
     "brick_title": "Anti-GBM Disease (Goodpasture Syndrome)",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "hemoptysis and hematuria together",
-      "young smoker with cough and renal failure",
-      "rapidly progressive glomerulonephritis",
-      "pulmonary-renal syndrome",
-      "type II hypersensitivity reaction",
-      "antibodies against alpha-3 chain of type IV collagen",
-      "crescentic glomerulonephritis on biopsy",
-      "linear IgG deposition along glomerular basement membrane"
+      "hemoptysis",
+      "young smoker",
+      "pulmonary-renal",
+      "RPGN",
+      "type II hypersensitivity",
+      "anti-α3(IV) collagen",
+      "crescentic GN",
+      "linear IgG ribbons"
     ]
   }
 ]

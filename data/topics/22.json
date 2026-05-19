@@ -1,164 +1,110 @@
 [
   {
     "id": "22-1",
-    "title": "GI Losses Causing Hypokalemia",
+    "title": "Hypokalemia",
     "brick_id": "22",
     "brick_title": "Hypokalemia",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Low serum potassium after gastroenteritis",
-      "Laxative abuse with watery stools",
-      "Bulimic patient with low K+ and chloride",
-      "Volume depletion drives secondary aldosterone rise",
-      "Metabolic alkalosis from HCl loss in vomiting",
-      "Bicarbonaturia with chloride depletion wastes distal K+",
-      "Rapid stool transit prevents colonic K+ reabsorption",
-      "Hypokalemia from diarrhea or vomiting"
+      "muscle cramps",
+      "palpitations",
+      "diffuse weakness",
+      "K+ < 3.5",
+      "hyperpolarized cells",
+      "polyuria",
+      "constipation",
+      "rhabdo risk"
     ]
   },
   {
     "id": "22-2",
-    "title": "Thiazide/Loop Diuretic-Induced Hypokalemia",
+    "title": "Hypokalemia ECG",
     "brick_id": "22",
     "brick_title": "Hypokalemia",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Elderly woman on blood pressure pill with cramps",
-      "CHF patient on furosemide with PVCs",
-      "Up to 50% of patients on K+-wasting diuretics",
-      "Increased distal sodium delivery drives K+ secretion",
-      "Coexisting hypomagnesemia makes repletion refractory",
-      "Add amiloride, triamterene, or spironolactone to spare K+",
-      "Hydrochlorothiazide or furosemide as the offending drug",
-      "Diuretic-induced renal potassium wasting"
+      "irregular rhythm",
+      "frequent PVCs",
+      "flat T waves",
+      "ST depression",
+      "prominent U waves",
+      "PR prolongation",
+      "torsades risk",
+      "SVT/VT"
     ]
   },
   {
     "id": "22-3",
-    "title": "Hyperaldosteronism (Conn Syndrome) Hypokalemia",
+    "title": "Renal K+ Wasting",
     "brick_id": "22",
     "brick_title": "Hypokalemia",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Resistant hypertension with low potassium",
-      "Metabolic alkalosis and suppressed renin",
-      "Adrenal adenoma on imaging",
-      "Increased ENaC and ROMK activity in collecting duct",
-      "Aldosterone-to-renin ratio markedly elevated",
-      "Spironolactone treats both HTN and hypokalemia",
-      "Conn syndrome from autonomous aldosterone secretion",
-      "Primary hyperaldosteronism"
+      "thiazide diuretic",
+      "loop diuretic",
+      "Conn syndrome",
+      "high distal Na+",
+      "RTA I/II",
+      "Liddle syndrome",
+      "Gitelman/Bartter",
+      "urine K+ >30"
     ]
   },
   {
     "id": "22-4",
-    "title": "Hypomagnesemia-Induced Refractory Hypokalemia",
+    "title": "Transcellular K+ Shift",
     "brick_id": "22",
     "brick_title": "Hypokalemia",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Potassium won't come up despite aggressive repletion",
-      "Alcoholic or PPI user with low K+",
-      "Cisplatin or aminoglycoside therapy",
-      "Loss of intracellular Mg2+ block on distal channels",
-      "Persistent urinary K+ wasting in distal convoluted tubule",
-      "ROMK channels leak K+ when Mg2+ depleted",
-      "Refractory until magnesium repleted",
-      "Hypomagnesemia driving hypokalemia"
+      "insulin shift",
+      "albuterol",
+      "beta-agonist",
+      "alkalosis",
+      "K+/H+ swap",
+      "normal total K+",
+      "periodic paralysis",
+      "stress catecholamines"
     ]
   },
   {
     "id": "22-5",
-    "title": "Gitelman Syndrome",
+    "title": "Mg-Refractory Hypokalemia",
     "brick_id": "22",
     "brick_title": "Hypokalemia",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Teenager with cramps, tetany, and low K+",
-      "Normotensive hypokalemic metabolic alkalosis",
-      "Hypocalciuria and hypomagnesemia",
-      "Distal convoluted tubule transport defect",
-      "Mimics chronic thiazide diuretic use",
-      "Autosomal recessive inheritance",
-      "SLC12A3 mutation causing NCC loss-of-function",
-      "Gitelman syndrome"
+      "K+ won't budge",
+      "fix Mg first",
+      "ROMK unblocked",
+      "DCT K+ leak",
+      "low Mg2+",
+      "alcoholic patient",
+      "replete magnesium",
+      "refractory hypokalemia"
     ]
   },
   {
     "id": "22-6",
-    "title": "Bartter Syndrome",
+    "title": "K+ Repletion",
     "brick_id": "22",
     "brick_title": "Hypokalemia",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Infant with polyuria, failure to thrive, low K+",
-      "Normotensive hypokalemic metabolic alkalosis",
-      "Hypercalciuria with normal magnesium",
-      "Thick ascending limb transport defect",
-      "Mimics chronic loop diuretic use",
-      "Elevated renin and aldosterone",
-      "NKCC2 or ROMK loss-of-function mutation",
-      "Bartter syndrome"
-    ]
-  },
-  {
-    "id": "22-7",
-    "title": "Liddle Syndrome",
-    "brick_id": "22",
-    "brick_title": "Hypokalemia",
-    "week": 2,
-    "type": "disease",
-    "buzzwords": [
-      "Young patient with severe hypertension and low K+",
-      "Suppressed renin AND suppressed aldosterone",
-      "Metabolic alkalosis with family history of early HTN",
-      "Collecting duct sodium channel always open",
-      "Mimics primary hyperaldosteronism biochemically",
-      "Responds to amiloride or triamterene, not spironolactone",
-      "Constitutively active ENaC from gain-of-function mutation",
-      "Liddle syndrome"
-    ]
-  },
-  {
-    "id": "22-8",
-    "title": "Transcellular Shift Hypokalemia",
-    "brick_id": "22",
-    "brick_title": "Hypokalemia",
-    "week": 2,
-    "type": "disease",
-    "buzzwords": [
-      "DKA patient drops K+ after insulin started",
-      "Asthmatic on nebulized albuterol with palpitations",
-      "Hyperventilating anxious patient with low K+",
-      "Total body potassium is normal",
-      "Na+/K+-ATPase driven uptake into cells",
-      "Beta-2 agonists and insulin shift K+ intracellularly",
-      "Alkalosis swaps extracellular K+ for intracellular H+",
-      "Hypokalemic periodic paralysis after carb load"
-    ]
-  },
-  {
-    "id": "22-9",
-    "title": "ECG Findings of Hypokalemia",
-    "brick_id": "22",
-    "brick_title": "Hypokalemia",
-    "week": 2,
-    "type": "disease",
-    "buzzwords": [
-      "Patient on diuretics with new arrhythmia on telemetry",
-      "Hyperpolarized myocardium with delayed repolarization",
-      "Frequent premature ventricular contractions",
-      "Flattened or inverted T waves",
-      "ST-segment depression with PR prolongation",
-      "Progresses to torsades, SVT, or VT when severe",
-      "Prominent U waves after the T wave",
-      "Classic ECG of serum K+ < 3.5 mEq/L"
+      "oral KCl default",
+      "IV ≤10 mEq/h",
+      "10 mEq raises 0.1",
+      "K-citrate for RTA",
+      "K-phos if low PO4",
+      "spironolactone",
+      "amiloride",
+      "treat underlying cause"
     ]
   }
 ]

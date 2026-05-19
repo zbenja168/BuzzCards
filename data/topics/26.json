@@ -7,14 +7,14 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Infant with polyuria and failure to thrive",
-      "Hypokalemic hypochloremic metabolic alkalosis",
-      "Salt-wasting tubulopathy with hypercalciuria",
-      "Nephrocalcinosis in a dehydrated toddler",
-      "High renin and aldosterone, normal blood pressure",
-      "Mimics chronic loop diuretic use",
-      "Autosomal recessive NKCC2 defect in thick ascending limb",
-      "Treated with indomethacin and potassium supplementation"
+      "sick infant",
+      "failure to thrive",
+      "polyuria",
+      "loop-diuretic mimic",
+      "TAL defect",
+      "NKCC2 mutation",
+      "hypercalciuria",
+      "indomethacin helps"
     ]
   },
   {
@@ -25,14 +25,14 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Adolescent with fatigue, cramps, and salt craving",
-      "Asymptomatic hypokalemia found incidentally in adult",
-      "Hypomagnesemia with hypocalciuria",
-      "Tetany and chondrocalcinosis from low magnesium",
-      "Mild salt-wasting with normal blood pressure",
-      "Mimics chronic thiazide diuretic use",
-      "Autosomal recessive NCC defect in distal convoluted tubule",
-      "Treated with spironolactone or amiloride plus oral magnesium"
+      "salt craving",
+      "tetany",
+      "thiazide mimic",
+      "DCT defect",
+      "NCC mutation",
+      "low Mg",
+      "hypocalciuria",
+      "chondrocalcinosis"
     ]
   },
   {
@@ -43,14 +43,14 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Young patient with early-onset hypertension",
-      "Hypertension with hypokalemia and metabolic alkalosis",
-      "Pseudohyperaldosteronism with suppressed renin and aldosterone",
-      "Spironolactone fails to control blood pressure",
-      "Autosomal dominant tubulopathy presenting as secondary HTN",
-      "Gain-of-function ENaC mutation in collecting duct",
-      "Constitutively active sodium channel independent of aldosterone",
-      "Treated with amiloride or triamterene and low-sodium diet"
+      "young hypertensive",
+      "pseudohyperaldosteronism",
+      "low renin",
+      "low aldosterone",
+      "ENaC gain-of-function",
+      "autosomal dominant",
+      "spironolactone fails",
+      "amiloride works"
     ]
   }
 ]

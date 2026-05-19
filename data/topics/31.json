@@ -7,14 +7,14 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Sudden hyperventilation with rising pH",
-      "Perioral and limb paresthesias minutes after onset",
-      "Carpopedal spasm from drop in ionized calcium",
-      "Tachypnea triggered by pain or fear",
-      "PaCO2 drops fast, bicarbonate near normal",
-      "No time for kidneys to compensate",
-      "Classic in panic attack or acute PE",
-      "Uncompensated low PaCO2, high pH on ABG"
+      "high pH",
+      "low PaCO2",
+      "perioral tingling",
+      "carpopedal spasm",
+      "low ionized Ca",
+      "HCO3 normal",
+      "no renal comp",
+      "panic or PE"
     ]
   },
   {
@@ -25,32 +25,32 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Persistent hyperventilation over days to weeks",
-      "Mildly elevated pH despite ongoing hypocapnia",
-      "Serum bicarbonate low with normal anion gap",
-      "Kidneys dump bicarbonate to buffer pH",
-      "Seen in high-altitude residents and pregnancy",
-      "Renal compensation takes hours to days",
-      "Near-normal pH with low PaCO2 and low HCO3-",
-      "Compensated primary hypocapnia via bicarbonaturia"
+      "near-normal pH",
+      "sustained hypocapnia",
+      "low HCO3",
+      "normal anion gap",
+      "renal HCO3 dumping",
+      "days to compensate",
+      "altitude dweller",
+      "pregnancy pattern"
     ]
   },
   {
     "id": "31-3",
-    "title": "Pulmonary Embolism (Hypoxemic Cause)",
+    "title": "PE Hyperventilation",
     "brick_id": "31",
     "brick_title": "Respiratory Alkalosis",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Sudden dyspnea with unexplained tachypnea",
-      "Pleuritic chest pain, may be absent",
-      "Hyperventilation with or without hypoxemia",
-      "Potentially fatal cause of acute alkalosis",
-      "Recent immobilization or hypercoagulable risk",
-      "Elevated D-dimer triggers further imaging",
-      "CT angiography is the gold-standard test",
-      "Thrombus lodged in pulmonary arteries"
+      "sudden dyspnea",
+      "pleuritic pain",
+      "can't-miss cause",
+      "may be normoxic",
+      "immobilization",
+      "D-dimer first",
+      "CTA gold standard",
+      "pulmonary thrombus"
     ]
   },
   {
@@ -61,86 +61,50 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Hyperventilation in healthy climbers",
-      "Low inspired oxygen drives the response",
-      "Carotid and aortic chemoreceptors sense hypoxemia",
-      "Headache and dizziness above several thousand meters",
-      "Reduced FiO2 with normal lungs",
-      "Chronic form compensated by bicarbonate excretion",
-      "Mountaineer with low PaO2 and low PaCO2",
-      "Hypobaric hypoxia-induced respiratory alkalosis"
+      "low FiO2",
+      "healthy climber",
+      "carotid bodies",
+      "hypobaric hypoxia",
+      "headache, dizziness",
+      "low PaO2",
+      "normal lungs",
+      "chronic compensated"
     ]
   },
   {
     "id": "31-5",
-    "title": "Anxiety / Panic Disorder Hyperventilation",
+    "title": "Panic Hyperventilation",
     "brick_id": "31",
     "brick_title": "Respiratory Alkalosis",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Sudden breathlessness with fear of dying",
-      "Perioral tingling and hand cramping",
-      "Normal PaO2 with low PaCO2",
-      "CNS-driven hyperventilation, no lung disease",
-      "Episodic, often resolves with reassurance",
-      "Carpopedal spasm from acute alkalemia",
-      "Most common overall cause of respiratory alkalosis",
-      "Nonhypoxemic hyperventilation from panic attack"
+      "most common cause",
+      "normal PaO2",
+      "fear of dying",
+      "hand cramping",
+      "perioral tingling",
+      "CNS-driven",
+      "episodic",
+      "reassurance resolves"
     ]
   },
   {
     "id": "31-6",
-    "title": "Salicylate (Aspirin) Overdose",
+    "title": "Salicylate Overdose",
     "brick_id": "31",
     "brick_title": "Respiratory Alkalosis",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "Hyperventilation after pill ingestion",
-      "Tinnitus and nausea in a toxic patient",
-      "Direct stimulation of medullary respiratory center",
-      "Early ABG shows isolated low PaCO2",
-      "Later evolves into mixed acid-base picture",
-      "High anion gap from lactic acid accumulation",
-      "Mixed respiratory alkalosis with metabolic acidosis",
-      "Aspirin overdose with classic biphasic ABG"
-    ]
-  },
-  {
-    "id": "31-7",
-    "title": "Pregnancy-Induced Respiratory Alkalosis",
-    "brick_id": "31",
-    "brick_title": "Respiratory Alkalosis",
-    "week": 2,
-    "type": "disease",
-    "buzzwords": [
-      "Mild chronic dyspnea in a healthy woman",
-      "Increased tidal volume without true tachypnea",
-      "Hormonally driven bronchodilation",
-      "Compensated low PaCO2 over second/third trimester",
-      "Serum bicarbonate appropriately decreased",
-      "Normal pregnancy ABG finding",
-      "Progesterone stimulates the respiratory center",
-      "Physiologic chronic respiratory alkalosis of gestation"
-    ]
-  },
-  {
-    "id": "31-8",
-    "title": "Sepsis-Induced Hyperventilation",
-    "brick_id": "31",
-    "brick_title": "Respiratory Alkalosis",
-    "week": 2,
-    "type": "disease",
-    "buzzwords": [
-      "Febrile patient with rapid shallow breathing",
-      "Tachypnea precedes hemodynamic collapse",
-      "Increased metabolic demand drives ventilation",
-      "Early ABG shows low PaCO2 and high pH",
-      "Cytokine-mediated stimulation of brainstem",
-      "May coexist with later lactic acidosis",
-      "Nonhypoxemic hyperventilation in systemic infection",
-      "Early sepsis presenting as respiratory alkalosis"
+      "aspirin OD",
+      "tinnitus",
+      "medullary stimulation",
+      "early hypocapnia",
+      "later mixed picture",
+      "high anion gap",
+      "lactic acidosis",
+      "biphasic ABG"
     ]
   }
 ]

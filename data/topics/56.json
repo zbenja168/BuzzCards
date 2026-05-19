@@ -1,74 +1,92 @@
 [
   {
     "id": "56-1",
-    "title": "Urothelium (Transitional Epithelium)",
+    "title": "Urothelium",
     "brick_id": "56",
     "brick_title": "Histology of the Ureters, Bladder, and Urethra",
     "week": 4,
     "type": "anatomy",
     "buzzwords": [
-      "Stratified epithelium impermeable to salts and water",
-      "Adapts to massive distention without rupturing",
-      "Layers flatten and unfold when stretched",
-      "Cell-layer count varies along the urinary tract",
-      "Two layers in minor calyces, six-plus in bladder",
-      "Loose lamina propria facilitates folding",
-      "Surface cells have a characteristic dome shape",
-      "Urothelium / transitional epithelium"
+      "urinary lining",
+      "stratified epithelium",
+      "transitional epithelium",
+      "dome cells",
+      "stretches flat",
+      "salt-impermeable",
+      "calyces to bladder",
+      "unfolds when full"
     ]
   },
   {
     "id": "56-2",
-    "title": "Ureter Histology",
+    "title": "Ureters",
     "brick_id": "56",
     "brick_title": "Histology of the Ureters, Bladder, and Urethra",
     "week": 4,
     "type": "anatomy",
     "buzzwords": [
-      "Paired tubes from renal pelvis to bladder",
-      "Inner lining four to five cells thick",
-      "Retroperitoneal, so wrapped in adventitia not serosa",
-      "Three smooth-muscle layers in the wall",
-      "Inner longitudinal, middle circular, outer longitudinal",
-      "Outer layer carries vessels, nerves, and adipose",
-      "Distinguished by an extra longitudinal muscle layer",
-      "Three-layer muscularis of the ureter"
+      "paired tubes",
+      "renal pelvis to bladder",
+      "retroperitoneal",
+      "4-5 cell urothelium",
+      "three muscle layers",
+      "inner-circular-outer",
+      "adventitia outside",
+      "no serosa"
     ]
   },
   {
     "id": "56-3",
-    "title": "Urinary Bladder Histology (Detrusor)",
+    "title": "Urinary Bladder",
     "brick_id": "56",
     "brick_title": "Histology of the Ureters, Bladder, and Urethra",
     "week": 4,
     "type": "anatomy",
     "buzzwords": [
-      "Hollow organ that stores urine until micturition",
-      "Inner lining six or more cell layers thick",
-      "Thickest smooth-muscle wall of the urinary tract",
-      "Muscle contraction expels stored urine",
-      "Superior surface covered by serosa, rest by adventitia",
-      "Epithelium thins to three layers when filled",
-      "Voluntary contraction drives urination",
-      "Detrusor muscle of the bladder"
+      "urine reservoir",
+      "6+ cell urothelium",
+      "detrusor muscle",
+      "thickest smooth muscle",
+      "micturition contraction",
+      "serosa on dome",
+      "adventitia elsewhere",
+      "won't burst"
     ]
   },
   {
     "id": "56-4",
-    "title": "Urethra: Male vs Female Epithelial Transitions",
+    "title": "Male Urethra",
     "brick_id": "56",
     "brick_title": "Histology of the Ureters, Bladder, and Urethra",
     "week": 4,
     "type": "anatomy",
     "buzzwords": [
-      "Conduit from bladder to the outside world",
-      "Lining shifts along its length toward skin-like epithelium",
-      "Starts transitional, ends stratified squamous",
-      "Female version is short and undivided",
-      "Male version is ~20 cm with four named segments",
-      "Pseudostratified columnar lines the middle of the male tube",
-      "Preprostatic, prostatic, membranous, penile segments",
-      "Transitional to pseudostratified columnar to stratified squamous"
+      "~20 cm long",
+      "four segments",
+      "preprostatic + prostatic",
+      "membranous segment",
+      "penile/spongy segment",
+      "external sphincter",
+      "pseudostratified columnar",
+      "distal squamous"
+    ]
+  },
+  {
+    "id": "56-5",
+    "title": "Female Urethra",
+    "brick_id": "56",
+    "brick_title": "Histology of the Ureters, Bladder, and Urethra",
+    "week": 4,
+    "type": "anatomy",
+    "buzzwords": [
+      "3-5 cm short",
+      "no segments",
+      "transitional proximally",
+      "squamous distally",
+      "urogenital diaphragm",
+      "external sphincter",
+      "UTI-prone",
+      "near rectum"
     ]
   }
 ]

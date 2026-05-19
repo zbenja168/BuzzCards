@@ -1,74 +1,20 @@
 [
   {
     "id": "32-1",
-    "title": "Acetazolamide",
+    "title": "Carbonic Anhydrase Inhibitors",
     "brick_id": "32",
     "brick_title": "Carbonic Anhydrase Inhibitors",
     "week": 2,
     "type": "drug",
     "buzzwords": [
-      "Weak diuretic with systemic acid-base effects",
-      "Oral or IV sulfonamide-type agent",
-      "Prophylaxis before rapid high-altitude ascent",
-      "Induces compensatory metabolic acidosis to drive hyperventilation",
-      "Lowers CSF production in pseudotumor cerebri",
-      "Adjunct for refractory seizures",
-      "Systemic carbonic anhydrase inhibitor of choice for acute glaucoma",
-      "Prototype -zolamide given PO/IV"
-    ]
-  },
-  {
-    "id": "32-2",
-    "title": "Methazolamide",
-    "brick_id": "32",
-    "brick_title": "Carbonic Anhydrase Inhibitors",
-    "week": 2,
-    "type": "drug",
-    "buzzwords": [
-      "Oral carbonic anhydrase inhibitor",
-      "Reduces aqueous humor production from ciliary body",
-      "Used when systemic therapy is preferred over eye drops",
-      "Lowers intraocular pressure in open-angle glaucoma",
-      "Sulfonamide-derived -zolamide drug",
-      "Alternative oral agent when acetazolamide poorly tolerated",
-      "PO-only CAI indicated solely for glaucoma",
-      "Oral methazolamide for chronic glaucoma"
-    ]
-  },
-  {
-    "id": "32-3",
-    "title": "Dorzolamide",
-    "brick_id": "32",
-    "brick_title": "Carbonic Anhydrase Inhibitors",
-    "week": 2,
-    "type": "drug",
-    "buzzwords": [
-      "Eye-drop carbonic anhydrase inhibitor",
-      "Minimizes systemic adverse effects via local delivery",
-      "Preferred for chronic open-angle glaucoma",
-      "Suppresses ciliary body HCO3- and aqueous humor",
-      "Often combined with timolol in fixed eye drop",
-      "Sulfonamide-based -zolamide for ocular use",
-      "First topical CAI approved for glaucoma",
-      "Topical dorzolamide ophthalmic solution"
-    ]
-  },
-  {
-    "id": "32-4",
-    "title": "Brinzolamide",
-    "brick_id": "32",
-    "brick_title": "Carbonic Anhydrase Inhibitors",
-    "week": 2,
-    "type": "drug",
-    "buzzwords": [
-      "Topical ophthalmic suspension for elevated IOP",
-      "Local CAI sparing systemic acidosis",
-      "Long-term outpatient glaucoma therapy",
-      "Decreases aqueous humor by blocking ciliary CA",
-      "Milky white eye-drop formulation",
-      "Sulfonamide-derived -zolamide for the eye",
-      "Often paired with brimonidine in combination drop",
-      "Topical brinzolamide ophthalmic suspension"
+      "weak diuretic",
+      "-zolamide suffix",
+      "acetazolamide",
+      "altitude prophylaxis",
+      "open-angle glaucoma",
+      "pseudotumor cerebri",
+      "proximal RTA",
+      "HCO3- wasting"
     ]
   }
 ]

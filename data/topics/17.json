@@ -1,110 +1,110 @@
 [
   {
     "id": "17-1",
-    "title": "Hypothalamic Osmoreceptors and Thirst",
-    "brick_id": "17",
-    "brick_title": "Water Regulation",
-    "week": 1,
-    "type": "physiology",
-    "buzzwords": [
-      "specialized neurons sense plasma tonicity",
-      "shrinking cells trigger behavioral drive to drink",
-      "angiotensin II and hypovolemia amplify the urge",
-      "baroreceptor input adds non-osmotic stimulus",
-      "supraoptic and paraventricular nuclei activated",
-      "subfornical organ and OVLT circumventricular sensors",
-      "rising tonicity dehydrates hypothalamic cells",
-      "osmoreceptors drive thirst above ~290 mOsm/kg"
-    ]
-  },
-  {
-    "id": "17-2",
     "title": "Countercurrent Multiplication",
     "brick_id": "17",
     "brick_title": "Water Regulation",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "kidney separates water from salt along a hairpin",
-      "builds a corticomedullary concentration gradient",
-      "descending limb water-permeable, ascending impermeable",
-      "diluting segment exits at ~100 mOsm/kg",
-      "NKCC2 in thick ascending limb pumps salt without water",
-      "vasa recta exchange preserves the gradient",
-      "loop diuretics collapse the medullary gradient",
-      "inner medulla reaches ~1,200 mOsm/kg"
+      "medullary gradient",
+      "concentrates urine",
+      "hairpin loop",
+      "separates salt and water",
+      "multiplier effect",
+      "NKCC2-driven",
+      "1200 mOsm/kg",
+      "corticomedullary gradient"
+    ]
+  },
+  {
+    "id": "17-2",
+    "title": "Loop of Henle Permeabilities",
+    "brick_id": "17",
+    "brick_title": "Water Regulation",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "segmental permeability",
+      "water leaves descending",
+      "salt leaves ascending",
+      "TAL water-impermeable",
+      "thin descending water-permeable",
+      "diluting segment",
+      "100 mOsm/kg exit",
+      "passive water exit"
     ]
   },
   {
     "id": "17-3",
-    "title": "ADH/AQP2 Collecting Duct Axis",
+    "title": "Vasa Recta Exchange",
     "brick_id": "17",
     "brick_title": "Water Regulation",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "posterior pituitary peptide concentrates urine",
-      "responds to rising tonicity or volume loss",
-      "acts on principal cells of the collecting duct",
-      "Gs-coupled receptor raises intracellular cAMP",
-      "shuttles water channels to the apical membrane",
-      "without it urine falls to ~50 mOsm/kg",
-      "V2 receptor signaling inserts aquaporin-2",
-      "vasopressin-driven AQP2 trafficking"
+      "medullary blood supply",
+      "countercurrent exchanger",
+      "preserves gradient",
+      "oxygen delivery",
+      "hairpin vessels",
+      "medullary washout",
+      "high flow flattens",
+      "ADH-resistant defect"
     ]
   },
   {
     "id": "17-4",
-    "title": "Central Diabetes Insipidus",
+    "title": "ADH / Vasopressin",
     "brick_id": "17",
     "brick_title": "Water Regulation",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "dilute polyuria with rising serum sodium",
-      "intense thirst with preference for cold water",
-      "follows pituitary surgery, trauma, or tumor",
-      "low urine osmolality despite plasma hypertonicity",
-      "water deprivation fails to concentrate urine",
-      "hypothalamic-posterior pituitary hormone deficiency",
-      "desmopressin sharply raises urine osmolality",
-      "ADH deficiency corrected by exogenous vasopressin"
+      "antidiuretic hormone",
+      "posterior pituitary",
+      "V2 receptor",
+      "AQP2 insertion",
+      "principal cells",
+      "collecting duct",
+      "cAMP signaling",
+      "non-osmotic release"
     ]
   },
   {
     "id": "17-5",
-    "title": "Nephrogenic Diabetes Insipidus",
+    "title": "Osmoreceptors and Thirst",
     "brick_id": "17",
     "brick_title": "Water Regulation",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "polyuria unresponsive to hormonal correction",
-      "hypernatremia with inappropriately dilute urine",
-      "lithium and hypercalcemia are classic triggers",
-      "collecting duct resistant despite high ADH levels",
-      "water deprivation fails to concentrate urine",
-      "desmopressin challenge produces no response",
-      "V2 receptor or AQP2 gene mutations in inherited form",
-      "kidney unresponsive to vasopressin"
+      "hypothalamic sensors",
+      "cell shrinkage signal",
+      "thirst drive",
+      "supraoptic nucleus",
+      "paraventricular nucleus",
+      "angiotensin II amplifies",
+      "baroreceptor input",
+      "OVLT/subfornical"
     ]
   },
   {
     "id": "17-6",
-    "title": "SIADH",
+    "title": "Medullary Gradient Disruption",
     "brick_id": "17",
     "brick_title": "Water Regulation",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "euvolemic hyponatremia with concentrated urine",
-      "low plasma osmolality fails to suppress the hormone",
-      "urine sodium remains inappropriately high",
-      "small cell lung cancer and CNS lesions trigger it",
-      "SSRIs and carbamazepine are common culprits",
-      "water restriction is first-line therapy",
-      "tolvaptan blocks V2 receptors as treatment",
-      "inappropriate ADH secretion despite hypotonicity"
+      "concentrating defect",
+      "polyuria",
+      "loop diuretics",
+      "NKCC2 blockade",
+      "ATN damage",
+      "hypokalemia blunts",
+      "hypercalcemia blunts",
+      "medullary washout"
     ]
   }
 ]

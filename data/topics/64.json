@@ -1,110 +1,128 @@
 [
   {
     "id": "64-1",
-    "title": "Storage Phase (Sympathetic Pathway)",
+    "title": "Storage Phase",
     "brick_id": "64",
     "brick_title": "Micturition",
     "week": 4,
     "type": "physiology",
     "buzzwords": [
-      "low-pressure reservoir state",
-      "compliant filling without pressure rise",
-      "outlet kept closed, wall kept quiet",
-      "norepinephrine dominates the cycle",
-      "thoracolumbar outflow controls continence",
-      "hypogastric nerve carries the fibers",
-      "T10-L2 sympathetic outflow",
-      "beta3 relaxes detrusor, alpha1 closes internal sphincter"
+      "bladder fills",
+      "low pressure",
+      "compliant reservoir",
+      "sympathetic dominant",
+      "T10-L2",
+      "hypogastric nerve",
+      "sphincters closed",
+      "detrusor relaxed"
     ]
   },
   {
     "id": "64-2",
-    "title": "Voiding Phase (Parasympathetic Pathway)",
+    "title": "Voiding Phase",
     "brick_id": "64",
     "brick_title": "Micturition",
     "week": 4,
     "type": "physiology",
     "buzzwords": [
-      "high-pressure emptying phase",
-      "self-sustaining reflex once initiated",
-      "active pump replaces passive reservoir",
-      "acetylcholine drives the contraction",
-      "sacral outflow opens the outlet",
-      "pelvic nerve carries the fibers",
-      "S2-S4 parasympathetic outflow",
-      "M3/M2 muscarinic detrusor contraction with sphincter release"
+      "bladder empties",
+      "parasympathetic dominant",
+      "S2-S4",
+      "pelvic nerve",
+      "detrusor contracts",
+      "sphincters open",
+      "self-sustaining reflex",
+      "switch-like onset"
     ]
   },
   {
     "id": "64-3",
-    "title": "Somatic Pudendal Control of External Sphincter",
+    "title": "Detrusor Muscle",
     "brick_id": "64",
     "brick_title": "Micturition",
     "week": 4,
     "type": "physiology",
     "buzzwords": [
-      "voluntary continence mechanism",
-      "striated muscle around the outlet",
-      "acetylcholine on nicotinic receptors",
-      "actively suppressed to permit voiding",
-      "somatic motor, not autonomic",
-      "sacral S2-S4 somatic origin",
-      "pudendal nerve to external urethral sphincter",
-      "Onuf's nucleus motor neurons"
+      "bladder wall",
+      "smooth muscle",
+      "M3 receptors",
+      "Gq/PLC",
+      "Ca-driven contraction",
+      "beta-3 relaxes",
+      "M2 amplifies",
+      "the pump"
     ]
   },
   {
     "id": "64-4",
-    "title": "Detrusor Receptor Pharmacology (M3 and Beta3)",
+    "title": "Internal Urethral Sphincter",
     "brick_id": "64",
     "brick_title": "Micturition",
     "week": 4,
     "type": "physiology",
     "buzzwords": [
-      "opposing receptors on the same smooth muscle",
-      "one relaxes for filling, one contracts for emptying",
-      "Gq raises calcium for contraction",
-      "Gs raises cAMP for relaxation",
-      "muscarinic versus adrenergic balance",
-      "antimuscarinics and mirabegron target this cell",
-      "M2 amplifies by suppressing cAMP",
-      "M3 contracts, beta3 relaxes the detrusor"
+      "bladder neck",
+      "smooth muscle",
+      "involuntary",
+      "alpha-1 receptors",
+      "Gq/IP3",
+      "NE contracts",
+      "passive opening",
+      "outlet resistance"
     ]
   },
   {
     "id": "64-5",
-    "title": "PAG and Pontine Micturition Center",
+    "title": "External Urethral Sphincter",
     "brick_id": "64",
     "brick_title": "Micturition",
     "week": 4,
     "type": "physiology",
     "buzzwords": [
-      "supraspinal switch for the voiding reflex",
-      "gates social and contextual appropriateness",
-      "receives A-delta stretch afferents",
-      "modulated by prefrontal and limbic cortex",
-      "simultaneously excites detrusor and inhibits sphincter",
-      "midbrain relay to dorsal pons",
-      "periaqueductal gray to Barrington's nucleus",
-      "PMC is the master micturition switch"
+      "striated muscle",
+      "voluntary control",
+      "pudendal nerve",
+      "Onuf's nucleus",
+      "nicotinic ACh",
+      "guarding reflex",
+      "continence gatekeeper",
+      "actively suppressed"
     ]
   },
   {
     "id": "64-6",
+    "title": "Neural Control Loop",
+    "brick_id": "64",
+    "brick_title": "Micturition",
+    "week": 4,
+    "type": "physiology",
+    "buzzwords": [
+      "stretch sensing",
+      "A-delta afferents",
+      "wall tension",
+      "PAG relay",
+      "pontine micturition center",
+      "Barrington's nucleus",
+      "cortical inhibition",
+      "voluntary deferral"
+    ]
+  },
+  {
+    "id": "64-7",
     "title": "Guarding Reflex",
     "brick_id": "64",
     "brick_title": "Micturition",
     "week": 4,
     "type": "physiology",
     "buzzwords": [
-      "protects continence during pressure spikes",
-      "tightens outlet when you cough or sneeze",
-      "operates without brainstem or cortex",
-      "preserved after incomplete spinal cord injury",
-      "bladder afferents drive sphincter motor neurons",
-      "spinal interneuron loop in sacral cord",
-      "pudendal-mediated EUS contraction",
-      "stretch-triggered external sphincter reinforcement"
+      "spinal loop",
+      "cough/sneeze",
+      "pressure spike",
+      "EUS contracts",
+      "pudendal motor",
+      "no brainstem needed",
+      "preserves continence",
+      "intact after SCI"
     ]
   }
 ]

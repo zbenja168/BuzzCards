@@ -1,20 +1,20 @@
 [
   {
     "id": "60-1",
-    "title": "Wilms Tumor (Nephroblastoma)",
+    "title": "Wilms Tumor",
     "brick_id": "60",
     "brick_title": "Wilms Tumor",
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "Aggressive malignancy of early childhood",
-      "Peak incidence ages 2 to 5",
-      "Painless palpable abdominal mass in a toddler",
-      "Hematuria and hypertension with unilateral flank mass",
-      "Large well-circumscribed renal tumor not crossing midline",
-      "Triphasic blastemal, epithelial, and stromal histology",
-      "Treated with vincristine, dactinomycin, doxorubicin",
-      "Nephroblastoma from WT1/WT2 mutation on chromosome 11"
+      "abdominal mass",
+      "painless mass",
+      "young child",
+      "ages 2-5",
+      "nephroblastoma",
+      "triphasic histology",
+      "WT1 mutation",
+      "small blue cells"
     ]
   },
   {
@@ -25,14 +25,14 @@
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "Contiguous gene deletion syndrome with renal tumor risk",
-      "Child with absent iris and developmental delay",
-      "Cryptorchidism or ambiguous genitalia with kidney tumor predisposition",
-      "Genitourinary anomalies plus intellectual disability tetrad",
-      "Surveillance ultrasound every 3 months until age 5",
-      "Aniridia paired with nephroblastoma",
-      "Germline deletion at 11p13 involving WT1",
-      "Wilms, Aniridia, GU anomalies, Range of developmental delay"
+      "Wilms + aniridia",
+      "absent iris",
+      "GU anomalies",
+      "intellectual disability",
+      "WT1 deletion",
+      "11p13 deletion",
+      "cryptorchidism",
+      "contiguous gene syndrome"
     ]
   },
   {
@@ -43,32 +43,32 @@
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "Childhood renal failure with gonadal dysgenesis",
-      "Early-onset nephrotic syndrome progressing to chronic kidney disease",
-      "Abnormal external genitalia with predisposition to renal tumor",
-      "Disorders of sexual development plus nephroblastoma risk",
-      "Triad of CKD, DSD, and Wilms tumor",
-      "Diffuse mesangial sclerosis on renal biopsy",
-      "Germline missense mutation in WT1",
-      "Dominant-negative WT1 point mutation syndrome"
+      "Wilms + CKD",
+      "DSD",
+      "abnormal genitalia",
+      "WT1 missense",
+      "early kidney failure",
+      "diffuse mesangial sclerosis",
+      "germline mutation",
+      "pseudohermaphroditism"
     ]
   },
   {
     "id": "60-4",
-    "title": "Beckwith-Wiedemann Syndrome",
+    "title": "Beckwith-Wiedemann",
     "brick_id": "60",
     "brick_title": "Wilms Tumor",
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "Pediatric overgrowth syndrome with embryonal tumor risk",
-      "Newborn with enlarged tongue and abdominal wall defect",
-      "Asymmetric body overgrowth with neonatal hypoglycemia",
-      "Organomegaly with predisposition to nephroblastoma",
-      "Macroglossia, omphalocele, hemihypertrophy triad",
-      "Surveillance ultrasound every 3 months until age 7",
-      "Imprinting disorder at 11p15.5 (CDKN1C, IGF2)",
-      "Beckwith-Wiedemann overgrowth syndrome"
+      "overgrowth syndrome",
+      "macroglossia",
+      "hemihypertrophy",
+      "omphalocele",
+      "organomegaly",
+      "11p15.5 imprinting",
+      "IGF2 epimutation",
+      "neonatal hypoglycemia"
     ]
   }
 ]

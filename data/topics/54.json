@@ -7,14 +7,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Most common kidney stone type",
-      "Low urinary citrate inhibitor",
-      "Crohn disease or bariatric surgery",
-      "High urine calcium and oxalate",
-      "Bound fat frees gut oxalate",
-      "Hyperparathyroidism mobilizes bone calcium",
-      "Thiazides and citrate for prevention",
-      "Envelope or dumbbell urine crystals"
+      "flank pain",
+      "colicky pain",
+      "most common stone",
+      "hypercalciuria",
+      "enteric hyperoxaluria",
+      "low citrate",
+      "envelope crystals",
+      "dumbbell crystals"
     ]
   },
   {
@@ -25,14 +25,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Precipitate in alkaline urine",
-      "Hypercalciuria with hypocitraturia",
-      "Distal tubule cannot acidify urine",
-      "Hypokalemia and non-anion-gap acidosis",
-      "Type 1 renal tubular acidosis",
-      "Topiramate or acetazolamide trigger",
-      "Wedge-shaped urinary crystals",
-      "Coffin-lid crystal variant"
+      "alkaline urine",
+      "hypocitraturia",
+      "type 1 RTA",
+      "non-gap acidosis",
+      "topiramate trigger",
+      "acetazolamide trigger",
+      "wedge crystals",
+      "coffin-lid variant"
     ]
   },
   {
@@ -43,14 +43,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Recurrent upper urinary tract infections",
-      "Alkaline urine pH",
-      "Magnesium ammonium phosphate composition",
-      "Urease-positive bacteria split urea",
-      "Proteus, Klebsiella, Ureaplasma organisms",
-      "Large branching renal pelvis cast",
-      "Staghorn calculus on imaging",
-      "Coffin-lid shaped crystals"
+      "recurrent UTIs",
+      "alkaline urine",
+      "Mg-NH4-PO4 stone",
+      "urease bacteria",
+      "Proteus mirabilis",
+      "branched cast",
+      "staghorn calculus",
+      "coffin-lid crystals"
     ]
   },
   {
@@ -61,14 +61,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Persistently acidic urine, pH under 5.5",
-      "Red meat and high purine diet",
-      "History of gout or podagra",
-      "Post-chemotherapy tumor lysis syndrome",
-      "Invisible on plain abdominal x-ray",
-      "Radiolucent stone seen only on CT",
-      "Rhomboid or rosette crystals",
-      "Allopurinol and urinary alkalinization for prevention"
+      "acidic urine",
+      "high purine diet",
+      "gouty patient",
+      "tumor lysis",
+      "radiolucent stone",
+      "rhomboid crystals",
+      "rosette crystals",
+      "allopurinol prevents"
     ]
   },
   {
@@ -79,14 +79,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Recurrent stones beginning in childhood",
-      "Autosomal recessive inheritance",
-      "Defective proximal tubular reabsorption",
-      "Cystine, ornithine, lysine, arginine wasting",
-      "COLA transporter defect",
-      "Cystinuria",
-      "Hexagonal urinary crystals",
-      "Tiopronin or penicillamine therapy"
+      "childhood stones",
+      "autosomal recessive",
+      "cystinuria",
+      "PCT transport defect",
+      "COLA wasting",
+      "hexagonal crystals",
+      "penicillamine",
+      "tiopronin"
     ]
   }
 ]

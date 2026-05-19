@@ -1,128 +1,146 @@
 [
   {
     "id": "18-1",
-    "title": "Hypovolemic Hyponatremia",
+    "title": "Pseudohyponatremia",
     "brick_id": "18",
     "brick_title": "Hyponatremia",
     "week": 1,
     "type": "disease",
     "buzzwords": [
-      "low serum sodium with volume depletion",
-      "orthostatic hypotension and poor skin turgor",
-      "history of vomiting, diarrhea, or sweating",
-      "low effective circulating volume triggers ADH",
-      "urine sodium <25 mEq/L with high urine osmolality",
-      "RAAS activation drives water retention",
-      "treat with isotonic saline to restore volume",
-      "loop diuretic or thiazide-induced GI losses"
+      "lab artifact",
+      "isotonic",
+      "normal osmolality",
+      "high lipids",
+      "hyperproteinemia",
+      "multiple myeloma",
+      "no treatment",
+      "flame photometry"
     ]
   },
   {
     "id": "18-2",
-    "title": "Hypervolemic Hyponatremia",
-    "brick_id": "18",
-    "brick_title": "Hyponatremia",
-    "week": 1,
-    "type": "disease",
-    "buzzwords": [
-      "edematous patient with low serum sodium",
-      "peripheral edema and jugular venous distention",
-      "ascites with proteinuria or heart failure",
-      "increased total body sodium and proportionally more water",
-      "low effective circulating volume despite total overload",
-      "urine sodium <25 mEq/L from RAAS activation",
-      "seen in CHF, cirrhosis, nephrotic syndrome",
-      "treat underlying cause plus loop diuretics"
-    ]
-  },
-  {
-    "id": "18-3",
-    "title": "SIADH (Euvolemic Hyponatremia)",
-    "brick_id": "18",
-    "brick_title": "Hyponatremia",
-    "week": 1,
-    "type": "disease",
-    "buzzwords": [
-      "euvolemic patient with low serum sodium",
-      "low BUN and low serum uric acid",
-      "inappropriately concentrated urine despite dilute serum",
-      "urine osmolality >100 mOsm/kg with hypotonic plasma",
-      "urine sodium >40 mEq/L while euvolemic",
-      "SSRIs, carbamazepine, MDMA, or cyclophosphamide",
-      "treat with water restriction and vaptans",
-      "small cell lung cancer with ectopic ADH"
-    ]
-  },
-  {
-    "id": "18-4",
-    "title": "Primary (Psychogenic) Polydipsia",
-    "brick_id": "18",
-    "brick_title": "Hyponatremia",
-    "week": 1,
-    "type": "disease",
-    "buzzwords": [
-      "euvolemic hyponatremia from excess water intake",
-      "compulsive drinking in a psychiatric patient",
-      "intake exceeds kidneys' free-water excretion capacity",
-      "marathon runner drinking only pure water on cool day",
-      "appropriately dilute urine with low urine sodium",
-      "urine osmolality low, distinguishing from SIADH",
-      "schizophrenia patient with chronic water drinking",
-      "treat with strict fluid restriction"
-    ]
-  },
-  {
-    "id": "18-5",
-    "title": "Pseudohyponatremia (Isotonic Hyponatremia)",
-    "brick_id": "18",
-    "brick_title": "Hyponatremia",
-    "week": 1,
-    "type": "disease",
-    "buzzwords": [
-      "low measured sodium with normal serum osmolality",
-      "lab artifact, not a true sodium deficit",
-      "expanded non-aqueous plasma phase",
-      "severe hyperlipidemia or hypertriglyceridemia",
-      "hyperproteinemia from monoclonal gammopathy",
-      "multiple myeloma with paraprotein elevation",
-      "no treatment needed beyond fixing underlying cause",
-      "flame photometry artifact from lipids/proteins"
-    ]
-  },
-  {
-    "id": "18-6",
     "title": "Hypertonic Hyponatremia",
     "brick_id": "18",
     "brick_title": "Hyponatremia",
     "week": 1,
     "type": "disease",
     "buzzwords": [
-      "low serum sodium with high serum osmolality",
-      "osmotic shift of water out of cells",
-      "another solute is driving plasma tonicity",
-      "sodium drops ~1.6 mEq/L per 100 mg/dL glucose",
-      "neurosurgical patient on mannitol infusion",
-      "diabetic ketoacidosis with severe hyperglycemia",
-      "hyperosmolar hyperglycemic state in type 2 diabetic",
-      "treat by lowering glucose with insulin"
+      "high osmolality",
+      "hyperglycemia",
+      "DKA",
+      "mannitol",
+      "HHS",
+      "1.6 per 100",
+      "osmotic pull",
+      "give insulin"
     ]
   },
   {
-    "id": "18-7",
-    "title": "Osmotic Demyelination Syndrome",
+    "id": "18-3",
+    "title": "Hypovolemic Hyponatremia",
     "brick_id": "18",
     "brick_title": "Hyponatremia",
     "week": 1,
     "type": "disease",
     "buzzwords": [
-      "neurologic complication of overzealous correction",
-      "delayed dysarthria, dysphagia, and quadriparesis",
-      "locked-in syndrome days after sodium correction",
-      "iatrogenic demyelination from rapid osmolar shift",
-      "sodium raised more than 8-10 mEq/L in 24 hours",
-      "chronic hyponatremia corrected too quickly",
-      "central pontine myelinolysis on MRI",
-      "prevent by limiting rise to 4-6 mEq/L per day"
+      "volume down",
+      "orthostatic",
+      "poor turgor",
+      "vomiting/diarrhea",
+      "urine Na <25",
+      "RAAS on",
+      "ADH driven",
+      "isotonic saline"
+    ]
+  },
+  {
+    "id": "18-4",
+    "title": "Hypervolemic Hyponatremia",
+    "brick_id": "18",
+    "brick_title": "Hyponatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "edema",
+      "ascites",
+      "JVD",
+      "CHF",
+      "cirrhosis",
+      "nephrotic",
+      "low urine Na",
+      "loop diuretics"
+    ]
+  },
+  {
+    "id": "18-5",
+    "title": "SIADH",
+    "brick_id": "18",
+    "brick_title": "Hyponatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "euvolemic",
+      "inappropriate ADH",
+      "small cell lung CA",
+      "urine osm >100",
+      "urine Na >40",
+      "low uric acid",
+      "low BUN",
+      "vaptans"
+    ]
+  },
+  {
+    "id": "18-6",
+    "title": "Primary Polydipsia",
+    "brick_id": "18",
+    "brick_title": "Hyponatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "water drinker",
+      "schizophrenia",
+      "marathon runner",
+      "dilute urine",
+      "low urine osm",
+      "low urine Na",
+      "euvolemic",
+      "fluid restrict"
+    ]
+  },
+  {
+    "id": "18-7",
+    "title": "Thiazide-Induced Hyponatremia",
+    "brick_id": "18",
+    "brick_title": "Hyponatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "elderly woman",
+      "appears euvolemic",
+      "DCT block",
+      "impaired dilution",
+      "not SIADH",
+      "30% incidence",
+      "stop thiazide",
+      "HCTZ culprit"
+    ]
+  },
+  {
+    "id": "18-8",
+    "title": "Osmotic Demyelination",
+    "brick_id": "18",
+    "brick_title": "Hyponatremia",
+    "week": 1,
+    "type": "disease",
+    "buzzwords": [
+      "corrected too fast",
+      "central pontine",
+      "locked-in",
+      "quadriparesis",
+      "dysarthria",
+      "chronic hypoNa risk",
+      "max 6-8/24h",
+      "delayed onset"
     ]
   }
 ]

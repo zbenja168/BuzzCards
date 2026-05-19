@@ -1,56 +1,56 @@
 [
   {
     "id": "45-1",
-    "title": "Nephritic Syndrome Clinical Features",
+    "title": "Nephritic Syndrome",
     "brick_id": "45",
     "brick_title": "Nephritic Syndrome",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Tea-colored urine after recent illness",
-      "New hypertension with leg swelling",
-      "Mild proteinuria under two grams daily",
-      "Rising creatinine with falling filtration",
-      "Dysmorphic red cells on urine microscopy",
-      "Red blood cell casts in sediment",
-      "Inflammatory glomerular injury with hematuria",
-      "Hematuria, HTN, edema, azotemia pentad"
+      "hematuria",
+      "RBC casts",
+      "tea-colored urine",
+      "hypertension",
+      "mild proteinuria",
+      "dysmorphic RBCs",
+      "rising creatinine",
+      "glomerular inflammation"
     ]
   },
   {
     "id": "45-2",
-    "title": "Glomerular Hypercellularity and Immune Complex Patterns",
+    "title": "Immune-Complex GN Pattern",
     "brick_id": "45",
     "brick_title": "Nephritic Syndrome",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Inflamed glomerular tuft on biopsy",
-      "Proliferation of mesangial and endothelial cells",
-      "Neutrophils packing capillary loops",
-      "Granular IgG and C3 along GBM",
-      "Mesangial versus endocapillary proliferative patterns",
-      "Subepithelial humps and subendothelial deposits",
-      "Immune complexes trapped within glomerulus",
-      "Lumpy-bumpy immunofluorescence staining"
+      "hypercellular glomeruli",
+      "mesangial proliferation",
+      "endocapillary proliferation",
+      "neutrophil influx",
+      "granular IgG/C3",
+      "lumpy-bumpy IF",
+      "subepithelial humps",
+      "subendothelial deposits"
     ]
   },
   {
     "id": "45-3",
-    "title": "Rapidly Progressive Glomerulonephritis (Crescentic GN)",
+    "title": "RPGN",
     "brick_id": "45",
     "brick_title": "Nephritic Syndrome",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Renal failure developing over days to weeks",
-      "Oliguria with active urinary sediment",
-      "Doubling of creatinine in short interval",
-      "Hematuria plus rapidly falling GFR",
-      "Proliferating parietal epithelial cells in Bowman space",
-      "Macrophages and fibrin filling Bowman capsule",
-      "Crescent formation on light microscopy",
-      "Pulse steroids and cyclophosphamide indicated"
+      "crescents",
+      "days-to-weeks failure",
+      "rapidly falling GFR",
+      "oliguria",
+      "Bowman space proliferation",
+      "fibrin crescents",
+      "pulse steroids",
+      "cyclophosphamide"
     ]
   },
   {
@@ -61,14 +61,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Young adult with episodic gross hematuria",
-      "Cola-colored urine during a cold",
-      "Synpharyngitic hematuria within days of URI",
-      "Normal complement levels on labs",
-      "Most common primary glomerulonephritis worldwide",
-      "Mesangial proliferation on light microscopy",
-      "Galactose-deficient IgA1 immune complexes",
-      "Mesangial IgA deposits on immunofluorescence"
+      "Berger disease",
+      "synpharyngitic hematuria",
+      "post-URI",
+      "Cola-colored urine",
+      "normal complement",
+      "mesangial IgA",
+      "galactose-deficient IgA1",
+      "most common worldwide"
     ]
   },
   {
@@ -79,32 +79,86 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Young woman with malar rash and arthritis",
-      "Hematuria plus nephrotic-range proteinuria",
-      "Both nephritic and nephrotic features together",
-      "Low C3 and low C4 levels",
-      "Positive ANA with anti-dsDNA antibodies",
-      "Anti-Smith antibody positivity",
-      "Wire-loop capillary lesions on biopsy",
-      "Full-house immunofluorescence staining pattern"
+      "young woman",
+      "malar rash",
+      "low C3/C4",
+      "anti-dsDNA",
+      "anti-Smith",
+      "wire-loop lesions",
+      "full-house IF",
+      "nephritic-nephrotic overlap"
     ]
   },
   {
     "id": "45-6",
-    "title": "ANCA-Associated Vasculitis GN (Pauci-Immune)",
+    "title": "ANCA Vasculitis GN",
     "brick_id": "45",
     "brick_title": "Nephritic Syndrome",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Sinusitis and hemoptysis with hematuria",
-      "Pulmonary-renal syndrome with normal complement",
-      "Small-vessel inflammation damaging glomerular capillaries",
-      "Necrotizing glomerular lesions with few deposits",
-      "Pauci-immune pattern on immunofluorescence",
-      "Crescents without immune complex deposition",
-      "c-ANCA positive granulomatosis with polyangiitis",
-      "p-ANCA with eosinophilia in EGPA"
+      "pauci-immune",
+      "pulmonary-renal",
+      "sinusitis",
+      "hemoptysis",
+      "normal complement",
+      "c-ANCA GPA",
+      "p-ANCA EGPA",
+      "necrotizing crescents"
+    ]
+  },
+  {
+    "id": "45-7",
+    "title": "Anti-GBM Disease",
+    "brick_id": "45",
+    "brick_title": "Nephritic Syndrome",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Goodpasture",
+      "hemoptysis",
+      "pulmonary-renal",
+      "linear IgG",
+      "anti-α3(IV) collagen",
+      "crescents",
+      "plasmapheresis",
+      "young smoker"
+    ]
+  },
+  {
+    "id": "45-8",
+    "title": "Poststreptococcal GN",
+    "brick_id": "45",
+    "brick_title": "Nephritic Syndrome",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "child post-strep",
+      "sore throat 2wk ago",
+      "Cola-colored urine",
+      "low C3",
+      "positive ASO",
+      "anti-DNase B",
+      "subepithelial humps",
+      "self-limited"
+    ]
+  },
+  {
+    "id": "45-9",
+    "title": "MPGN",
+    "brick_id": "45",
+    "brick_title": "Nephritic Syndrome",
+    "week": 3,
+    "type": "disease",
+    "buzzwords": [
+      "Hep C",
+      "cryoglobulinemia",
+      "tram-track GBM",
+      "low complement",
+      "split basement membrane",
+      "mesangial proliferation",
+      "subendothelial deposits",
+      "nephritic-nephrotic mix"
     ]
   }
 ]

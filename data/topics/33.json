@@ -1,20 +1,20 @@
 [
   {
     "id": "33-1",
-    "title": "Fanconi Syndrome (Generalized Proximal Tubule Defect)",
+    "title": "Fanconi Syndrome",
     "brick_id": "33",
     "brick_title": "Fanconi Syndrome",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "polyuria, polydipsia, failure to thrive in infant",
-      "rickets with bowed legs and frontal bossing",
-      "non-anion-gap metabolic acidosis with hypokalemia",
-      "glucosuria despite normal serum glucose",
-      "wasting of phosphate, bicarbonate, and amino acids",
-      "proximal (type 2) renal tubular acidosis",
-      "generalized proximal tubule reabsorption defect",
-      "aminoaciduria plus phosphaturia plus glucosuria triad"
+      "polyuria",
+      "failure to thrive",
+      "rickets",
+      "glucosuria",
+      "non-gap acidosis",
+      "hypokalemia",
+      "PT reabsorption defect",
+      "type 2 RTA"
     ]
   },
   {
@@ -25,68 +25,68 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "infant with polyuria, polydipsia, failure to thrive",
-      "photophobia and severe eye pain in a child",
-      "autosomal recessive inborn error of metabolism",
-      "most common hereditary cause of Fanconi syndrome",
-      "lysosomal storage disease of recycling centers",
-      "ATP depletion and apoptosis from crystal damage",
-      "intracellular cystine accumulation in lysosomes",
-      "corneal cystine crystals on slit-lamp exam"
+      "infant polyuria",
+      "photophobia",
+      "eye pain",
+      "autosomal recessive",
+      "lysosomal storage",
+      "cystine crystals",
+      "corneal crystals",
+      "ATP depletion"
     ]
   },
   {
     "id": "33-3",
-    "title": "Multiple Myeloma–Induced Fanconi Syndrome",
+    "title": "Myeloma Fanconi",
     "brick_id": "33",
     "brick_title": "Fanconi Syndrome",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "older adult with fatigue and bone pain",
-      "incidental glucosuria with normal serum glucose",
-      "anemia, hypercalcemia, and renal dysfunction",
-      "lytic bone lesions on skeletal survey",
-      "monoclonal gammopathy on serum electrophoresis",
-      "clonal plasma cell malignancy",
-      "filtered light chains overwhelm proximal tubule",
-      "Bence Jones proteins toxic to proximal tubule"
+      "older adult",
+      "bone pain",
+      "lytic lesions",
+      "hypercalcemia",
+      "monoclonal gammopathy",
+      "light chains",
+      "Bence Jones",
+      "plasma cell clone"
     ]
   },
   {
     "id": "33-4",
-    "title": "Cisplatin / Ifosfamide Nephrotoxicity",
+    "title": "Cisplatin/Ifosfamide Toxicity",
     "brick_id": "33",
     "brick_title": "Fanconi Syndrome",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "new glucosuria in a cancer patient",
-      "hypophosphatemia and hypokalemia after chemotherapy",
-      "non-anion-gap acidosis post-chemo infusion",
-      "acute kidney injury during oncologic treatment",
-      "direct proximal tubule toxin from chemotherapy",
-      "platinum-based or oxazaphosphorine alkylator",
-      "irreversible proximal tubular damage",
-      "Fanconi syndrome after testicular or sarcoma chemo"
+      "post-chemo",
+      "new glucosuria",
+      "hypophosphatemia",
+      "AKI on chemo",
+      "platinum agent",
+      "alkylator",
+      "irreversible damage",
+      "testicular cancer chemo"
     ]
   },
   {
     "id": "33-5",
-    "title": "Tenofovir-Induced Fanconi Syndrome",
+    "title": "Tenofovir Tubulopathy",
     "brick_id": "33",
     "brick_title": "Fanconi Syndrome",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "glucosuria and phosphaturia in HIV patient",
-      "bone pain and hypophosphatemia on antiretrovirals",
-      "non-anion-gap acidosis with normal blood sugar",
-      "rising creatinine on long-term antiviral therapy",
-      "mitochondrial toxicity in proximal tubule",
-      "reversible after stopping the offending agent",
-      "nucleotide reverse transcriptase inhibitor",
-      "tenofovir disoproxil fumarate proximal tubulopathy"
+      "HIV patient",
+      "bone pain on ART",
+      "phosphaturia",
+      "rising creatinine",
+      "mitochondrial toxicity",
+      "reversible on stop",
+      "NRTI",
+      "tenofovir"
     ]
   },
   {
@@ -97,14 +97,14 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "child in an old building with peeling paint",
-      "abdominal pain, constipation, and developmental delay",
-      "microcytic anemia with basophilic stippling",
-      "wrist drop and peripheral neuropathy in adults",
-      "battery, smelter, or pottery glaze exposure",
-      "heavy metal proximal tubule toxin",
-      "basophilic stippling on peripheral smear",
-      "burton lines and lead lines on metaphyses"
+      "old paint",
+      "microcytic anemia",
+      "basophilic stippling",
+      "wrist drop",
+      "abdominal colic",
+      "heavy metal",
+      "Burton lines",
+      "lead lines"
     ]
   }
 ]

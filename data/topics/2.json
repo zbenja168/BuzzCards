@@ -7,14 +7,14 @@
     "week": 1,
     "type": "anatomy",
     "buzzwords": [
-      "First embryonic excretory attempt",
-      "Most cranial of three progenitor pairs",
-      "Appears earliest in week 4",
-      "Never produces urine in humans",
-      "Rudimentary and nonfunctional structure",
-      "Degenerates before the next pair forms",
-      "Sits above the mesonephros cranially",
-      "Earliest and most rostral of the three kidneys"
+      "first kidney",
+      "most cranial",
+      "week 4",
+      "rudimentary",
+      "nonfunctional",
+      "no urine",
+      "degenerates early",
+      "rostral remnant"
     ]
   },
   {
@@ -25,14 +25,14 @@
     "week": 1,
     "type": "anatomy",
     "buzzwords": [
-      "Transiently functional embryonic kidney",
-      "Active only during the first trimester",
-      "Filters fetal blood from weeks 4 to 8",
-      "Its duct persists in male reproductive tract",
-      "Gives rise to epididymis and ductus deferens",
-      "Forms seminal vesicles and ejaculatory duct",
-      "Wolffian duct origin",
-      "Female remnant is Gartner's duct"
+      "transient kidney",
+      "weeks 4-8",
+      "first trimester only",
+      "Wolffian duct",
+      "epididymis",
+      "ductus deferens",
+      "seminal vesicles",
+      "Gartner's duct"
     ]
   },
   {
@@ -43,14 +43,14 @@
     "week": 1,
     "type": "anatomy",
     "buzzwords": [
-      "Third and most caudal progenitor pair",
-      "Becomes the permanent adult kidney",
-      "Arises from intermediate mesoderm",
-      "Formed by two interacting components",
-      "Begins forming around week 5",
-      "Combines an outgrowth with a blastema",
-      "Reciprocal induction between bud and mesenchyme",
-      "Definitive kidney of the fetus and adult"
+      "permanent kidney",
+      "most caudal",
+      "intermediate mesoderm",
+      "week 5 start",
+      "two components",
+      "reciprocal induction",
+      "bud plus blastema",
+      "definitive kidney"
     ]
   },
   {
@@ -61,14 +61,14 @@
     "week": 1,
     "type": "anatomy",
     "buzzwords": [
-      "Outgrowth from a more cranial duct",
-      "Induces overlying mesenchyme to differentiate",
-      "Forms the collecting portion of the kidney",
-      "Sprouts off the mesonephric duct",
-      "Gives rise to collecting ducts and calyces",
-      "Forms the renal pelvis and ureters",
-      "Failed induction causes renal agenesis",
-      "Wolffian duct diverticulum to metanephric mesenchyme"
+      "Wolffian outgrowth",
+      "induces blastema",
+      "collecting ducts",
+      "calyces",
+      "renal pelvis",
+      "ureters",
+      "failed induction",
+      "renal agenesis"
     ]
   },
   {
@@ -79,32 +79,32 @@
     "week": 1,
     "type": "anatomy",
     "buzzwords": [
-      "Mesenchymal cap on a ductal outgrowth",
-      "Derived from intermediate mesoderm",
-      "Differentiates into the filtering unit",
-      "Forms Bowman's capsule",
-      "Gives rise to proximal and distal tubules",
-      "Forms the loop of Henle",
-      "Endothelial cells invade to form glomeruli",
-      "Nephron-producing component of the metanephros"
+      "mesenchymal cap",
+      "intermediate mesoderm",
+      "makes nephrons",
+      "Bowman's capsule",
+      "PCT and DCT",
+      "loop of Henle",
+      "endothelial invasion",
+      "glomerular formation"
     ]
   },
   {
     "id": "2-6",
-    "title": "Renal Ascent and Transient Arteries",
+    "title": "Renal Ascent",
     "brick_id": "2",
     "brick_title": "Development of the Urinary System",
     "week": 1,
     "type": "anatomy",
     "buzzwords": [
-      "Apparent cephalad migration of an organ",
-      "Movement is relative, not active",
-      "Driven by elongation of the embryonic torso",
-      "Pelvic origin to retroperitoneal final site",
-      "Successive vessels form and regress during ascent",
-      "Final position between T12 and L3",
-      "Persistent lower-pole vessels can obstruct ureter",
-      "Accessory renal arteries cause UPJ hydronephrosis"
+      "pelvic origin",
+      "weeks 6-9",
+      "relative ascent",
+      "torso lengthens",
+      "T12 to L3",
+      "transient arteries",
+      "accessory renal artery",
+      "UPJ hydronephrosis"
     ]
   },
   {
@@ -115,50 +115,50 @@
     "week": 1,
     "type": "anatomy",
     "buzzwords": [
-      "Congenital fusion anomaly of paired organs",
-      "Lower poles join across the midline",
-      "Single U-shaped organ on imaging",
-      "Ascent halted by a midline arterial root",
-      "Trapped beneath an arterial branch of the aorta",
-      "Caught under the inferior mesenteric artery",
-      "Found in living-donor pretransplant ultrasound",
-      "U-shaped kidney hooked on the IMA"
+      "fusion anomaly",
+      "lower poles fuse",
+      "U-shaped kidney",
+      "midline fusion",
+      "trapped under IMA",
+      "ascent blocked",
+      "incidental on US",
+      "donor screening find"
     ]
   },
   {
     "id": "2-8",
-    "title": "Cloacal Partitioning and Urogenital Sinus",
+    "title": "Cloacal Partitioning",
     "brick_id": "2",
     "brick_title": "Development of the Urinary System",
     "week": 1,
     "type": "anatomy",
     "buzzwords": [
-      "Hindgut endodermal chamber gets divided",
-      "Mesoderm-derived septum grows inferiorly",
-      "Splits anterior from posterior compartments",
-      "Anterior portion becomes bladder and urethra",
-      "Posterior portion becomes rectum and anus",
-      "Posterior wall contributes to lower vagina",
-      "Urorectal septum partitions the cloaca",
-      "Anterior compartment is the urogenital sinus"
+      "weeks 4-7",
+      "urorectal septum",
+      "urogenital sinus",
+      "anorectal canal",
+      "bladder and urethra",
+      "rectum and anus",
+      "sinovaginal bulbs",
+      "lower vagina"
     ]
   },
   {
     "id": "2-9",
-    "title": "Allantois, Urachus, and Patent Urachus",
+    "title": "Patent Urachus",
     "brick_id": "2",
     "brick_title": "Development of the Urinary System",
     "week": 1,
     "type": "anatomy",
     "buzzwords": [
-      "Diverticulum from the yolk sac",
-      "Extends into the connecting stalk",
-      "Normally obliterates during development",
-      "Fibrous remnant connects bladder to umbilicus",
-      "Adult vestige is the median umbilical ligament",
-      "Failure of atrophy leaves a bladder-umbilicus tract",
-      "Neonate leaks urine from the umbilicus",
-      "Patent urachus from non-obliterated allantois"
+      "allantois remnant",
+      "yolk sac diverticulum",
+      "fails to obliterate",
+      "bladder to umbilicus",
+      "median umbilical ligament",
+      "umbilical urine leak",
+      "neonatal presentation",
+      "persistent tract"
     ]
   }
 ]

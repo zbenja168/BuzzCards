@@ -7,14 +7,14 @@
     "week": 1,
     "type": "drug",
     "buzzwords": [
-      "synthetic ADH analogue with selective receptor action",
-      "concentrates urine without raising blood pressure",
-      "available nasal, oral, or IV",
-      "triggers endothelial von Willebrand factor release",
-      "first-line for central diabetes insipidus",
-      "treats nocturnal enuresis in children",
-      "main adverse effect is hyponatremia",
-      "selective V2 receptor agonist (DDAVP)"
+      "concentrates urine",
+      "stops bedwetting",
+      "V2 selective",
+      "central DI",
+      "von Willebrand",
+      "nasal/oral/IV",
+      "AQP2 insertion",
+      "hyponatremia risk"
     ]
   },
   {
@@ -25,14 +25,14 @@
     "week": 1,
     "type": "drug",
     "buzzwords": [
-      "IV-only posterior pituitary hormone analogue",
-      "potent arteriolar vasoconstrictor raising blood pressure",
-      "adjunct pressor in distributive/septic shock",
-      "stops bleeding esophageal varices via splanchnic constriction",
-      "causes mesenteric ischemia and skin necrosis",
-      "associated with pulmonary hypertension",
-      "strong V1 receptor activity, not used for DI",
-      "non-selective V1/V2 agonist (ADH itself)"
+      "raises BP",
+      "IV only",
+      "septic shock",
+      "bleeding varices",
+      "V1 agonist",
+      "splanchnic vasoconstriction",
+      "mesenteric ischemia",
+      "skin necrosis"
     ]
   }
 ]

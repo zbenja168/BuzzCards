@@ -7,32 +7,32 @@
     "week": 1,
     "type": "disease",
     "buzzwords": [
-      "Congenital renal fusion anomaly",
-      "Often asymptomatic incidental finding",
-      "Predisposes to UPJ obstruction and stones",
-      "Lower poles join across the midline",
-      "U-shaped kidney straddling the spine",
-      "Ascent arrested during embryologic migration",
-      "Associated with Turner syndrome and trisomy 18",
-      "Isthmus trapped beneath inferior mesenteric artery"
+      "fusion anomaly",
+      "U-shaped kidney",
+      "lower-pole fusion",
+      "stuck under IMA",
+      "1 in 400",
+      "UPJ obstruction",
+      "Turner syndrome",
+      "midline isthmus"
     ]
   },
   {
     "id": "3-2",
-    "title": "Ectopic (Pelvic) Kidney",
+    "title": "Pelvic Kidney",
     "brick_id": "3",
     "brick_title": "Congenital Disorders of the Kidney",
     "week": 1,
     "type": "disease",
     "buzzwords": [
-      "Malpositioned but functioning kidney",
-      "Discovered incidentally on imaging",
-      "Risk of hydronephrosis and recurrent UTIs",
-      "Failure to migrate during development",
-      "Kidney remains low in the abdomen",
-      "Tortuous ureter predisposes to reflux",
-      "Arrested ascent leaves organ in pelvis",
-      "Aberrant arterial supply from iliac vessels"
+      "failed ascent",
+      "ectopic kidney",
+      "iliac blood supply",
+      "aberrant arteries",
+      "asymptomatic finding",
+      "hydronephrosis risk",
+      "recurrent UTIs",
+      "incidental on imaging"
     ]
   },
   {
@@ -43,50 +43,50 @@
     "week": 1,
     "type": "disease",
     "buzzwords": [
-      "Complete congenital absence of renal tissue",
-      "Unilateral form causes compensatory hypertrophy",
-      "Solitary kidney risks hypertension and CKD",
-      "Bilateral form causes severe oligohydramnios",
-      "Lethal bilateral form produces Potter sequence",
-      "No fetal urine, pulmonary hypoplasia at birth",
-      "Empty renal fossa on prenatal ultrasound",
-      "Ureteric bud fails to induce metanephric blastema"
+      "absent kidney",
+      "ureteric bud failure",
+      "Potter sequence",
+      "oligohydramnios",
+      "pulmonary hypoplasia",
+      "compensatory hypertrophy",
+      "bilateral lethal",
+      "no induction"
     ]
   },
   {
     "id": "3-4",
-    "title": "Multicystic Dysplastic Kidney (MCDK)",
+    "title": "Multicystic Dysplastic Kidney",
     "brick_id": "3",
     "brick_title": "Congenital Disorders of the Kidney",
     "week": 1,
     "type": "disease",
     "buzzwords": [
-      "Nonfunctional dysplastic congenital kidney",
-      "Unilateral cases have good prognosis",
-      "Bilateral form is lethal with oligohydramnios",
-      "Parenchyma replaced by disorganized tissue",
-      "Primitive tubules balloon into dilated cysts",
-      "Faulty ureteric bud-mesenchyme induction",
-      "Multiple non-communicating cysts on ultrasound",
-      "Cluster-of-grapes kidney lacking renal pelvis architecture"
+      "MCDK",
+      "non-communicating cysts",
+      "nonfunctional kidney",
+      "bunch of grapes",
+      "bad bud induction",
+      "75% unilateral",
+      "bilateral fatal",
+      "nephrectomy if symptomatic"
     ]
   },
   {
     "id": "3-5",
-    "title": "Renal Hypoplasia/Dysplasia",
+    "title": "Renal Hypodysplasia",
     "brick_id": "3",
     "brick_title": "Congenital Disorders of the Kidney",
     "week": 1,
     "type": "disease",
     "buzzwords": [
-      "Congenitally undersized kidneys",
-      "Reduced nephron number from birth",
-      "Bilateral form causes childhood CKD",
-      "Hypertension and impaired growth in kids",
-      "Compensatory hypertrophy of remaining nephrons",
-      "Incomplete induction within metanephric blastema",
-      "Small echogenic kidneys on imaging",
-      "Biopsy reveals dysplastic nephron architecture"
+      "small kidneys",
+      "few nephrons",
+      "echogenic on US",
+      "pediatric CKD",
+      "childhood hypertension",
+      "growth failure",
+      "low GFR",
+      "dysplastic tissue"
     ]
   }
 ]

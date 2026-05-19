@@ -7,14 +7,14 @@
     "week": 1,
     "type": "drug",
     "buzzwords": [
-      "Weak collecting-duct diuretic",
-      "Competitive mineralocorticoid receptor antagonist",
-      "First-line for cirrhotic ascites",
-      "Mortality benefit in HFrEF NYHA II-IV",
-      "Treats hirsutism and PCOS via antiandrogen effect",
-      "Causes gynecomastia and decreased libido in men",
-      "Discontinue in pregnancy due to fetal harm",
-      "Aldactone, the prototype steroid-like aldosterone blocker"
+      "K+-sparing diuretic",
+      "ascites drug",
+      "HFrEF adjunct",
+      "MR antagonist",
+      "blocks aldosterone",
+      "gynecomastia",
+      "antiandrogen",
+      "PCOS acne"
     ]
   },
   {
@@ -25,14 +25,14 @@
     "week": 1,
     "type": "drug",
     "buzzwords": [
-      "Selective collecting-duct aldosterone blocker",
-      "Mineralocorticoid receptor antagonist with fewer sex-steroid effects",
-      "Used in HFrEF and resistant hypertension",
-      "Minimal antiandrogen activity",
-      "No gynecomastia compared with its sibling agent",
-      "Causes hyperkalemia and type IV RTA",
-      "Selective MR antagonist avoiding sex-hormone side effects",
-      "Inspra"
+      "K+-sparing diuretic",
+      "HFrEF adjunct",
+      "selective MR blocker",
+      "no gynecomastia",
+      "spares libido",
+      "blocks aldosterone",
+      "hyperkalemia risk",
+      "type IV RTA"
     ]
   },
   {
@@ -43,14 +43,14 @@
     "week": 1,
     "type": "drug",
     "buzzwords": [
-      "Weak distal-nephron diuretic",
-      "Does not act through aldosterone receptor",
-      "Often combined with hydrochlorothiazide to prevent hypokalemia",
-      "No antiandrogen or gynecomastia side effects",
-      "Blocks apical sodium channel in principal cells",
-      "Treats lithium-induced nephrogenic diabetes insipidus",
-      "Direct ENaC blocker, K+-sparing without MR antagonism",
-      "Midamor"
+      "K+-sparing diuretic",
+      "ENaC blocker",
+      "collecting duct",
+      "no MR effect",
+      "paired with HCTZ",
+      "counters thiazide hypoK+",
+      "lithium-induced NDI",
+      "hyperkalemia risk"
     ]
   },
   {
@@ -61,14 +61,14 @@
     "week": 1,
     "type": "drug",
     "buzzwords": [
-      "Mild K+-sparing diuretic, not an MR antagonist",
-      "Blocks luminal sodium channel in collecting duct",
-      "Packaged with hydrochlorothiazide as Dyazide/Maxzide",
-      "Counters thiazide-induced hypokalemia",
-      "No gynecomastia, unlike steroid-based siblings",
-      "Can cause hyperkalemia and type IV RTA",
-      "Pteridine ENaC blocker (non-amiloride)",
-      "Dyrenium"
+      "K+-sparing diuretic",
+      "ENaC blocker",
+      "collecting duct",
+      "weak diuretic",
+      "HCTZ combo pill",
+      "spares potassium",
+      "no antiandrogen",
+      "hyperkalemia risk"
     ]
   }
 ]

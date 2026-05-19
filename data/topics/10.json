@@ -1,146 +1,146 @@
 [
   {
     "id": "10-1",
-    "title": "Proximal Tubule Sodium Reabsorption (NHE3)",
+    "title": "PCT Sodium Handling",
     "brick_id": "10",
     "brick_title": "Sodium Homeostasis",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Bulk reabsorption of the filtered load",
-      "Recovers roughly 65 to 80 percent",
-      "Isoosmotic with water following passively",
-      "Drives secondary uptake of glucose and amino acids",
-      "Couples to bicarbonate and phosphate recovery",
-      "Stimulated by angiotensin II",
-      "Apical sodium-hydrogen exchanger",
-      "NHE3 transporter"
+      "bulk reabsorption",
+      "65-80% reabsorbed",
+      "isoosmotic",
+      "NHE3 exchanger",
+      "Na+/H+ swap",
+      "glucose cotransport",
+      "Ang II stimulated",
+      "HCO3- recovery"
     ]
   },
   {
     "id": "10-2",
-    "title": "Thick Ascending Limb Sodium Reabsorption (NKCC2)",
+    "title": "TAL Sodium Handling",
     "brick_id": "10",
     "brick_title": "Sodium Homeostasis",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Handles about 10 to 20 percent of filtrate",
-      "Segment is impermeable to water",
-      "Generates the medullary concentration gradient",
-      "Permits dilution of tubular fluid",
-      "Couples Na, K, and 2 Cl uptake",
-      "Inhibited by furosemide and bumetanide",
-      "Used clinically for CHF edema",
-      "NKCC2 cotransporter"
+      "thick ascending limb",
+      "10-20% reabsorbed",
+      "water-impermeable",
+      "NKCC2 transporter",
+      "Na/K/2Cl cotransport",
+      "diluting segment",
+      "loop diuretic target",
+      "furosemide site"
     ]
   },
   {
     "id": "10-3",
-    "title": "Distal Convoluted Tubule Sodium Reabsorption (NCC)",
+    "title": "DCT Sodium Handling",
     "brick_id": "10",
     "brick_title": "Sodium Homeostasis",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Reabsorbs about 10 percent of the filtered load",
-      "Electroneutral sodium-chloride uptake",
-      "Water impermeable diluting segment",
-      "Targeted by first-line antihypertensives",
-      "Blocked by hydrochlorothiazide",
-      "Loss-of-function mimics Gitelman syndrome",
-      "Apical Na-Cl cotransporter",
-      "NCC transporter"
+      "distal tubule",
+      "~10% reabsorbed",
+      "NCC cotransporter",
+      "Na-Cl symport",
+      "thiazide target",
+      "HTN first-line",
+      "Gitelman-like",
+      "water-impermeable"
     ]
   },
   {
     "id": "10-4",
-    "title": "Collecting Duct Sodium Reabsorption (ENaC)",
+    "title": "Collecting Duct ENaC",
     "brick_id": "10",
     "brick_title": "Sodium Homeostasis",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Fine-tunes the last 2 to 5 percent",
-      "Located in principal cells",
-      "Electrogenic channel drives potassium secretion",
-      "Hormone-sensitive final adjustment site",
-      "Upregulated by aldosterone",
-      "Blocked by amiloride and triamterene",
-      "Gain-of-function causes Liddle syndrome",
-      "Epithelial sodium channel ENaC"
+      "fine-tuning",
+      "2-5% reabsorbed",
+      "principal cells",
+      "ENaC channel",
+      "aldosterone-driven",
+      "K+ secretion coupled",
+      "amiloride blocks",
+      "Liddle gain-of-function"
     ]
   },
   {
     "id": "10-5",
-    "title": "Renin-Angiotensin-Aldosterone System",
-    "brick_id": "10",
-    "brick_title": "Sodium Homeostasis",
-    "week": 1,
-    "type": "physiology",
-    "buzzwords": [
-      "Long-term defender of total body sodium",
-      "Activated by hypoperfusion and hemorrhage",
-      "Constricts the efferent arteriole to preserve GFR",
-      "Stimulates proximal NHE3 activity",
-      "Drives thirst and ADH release",
-      "Aldosterone acts on principal cells via ENaC and ROMK",
-      "Increases potassium secretion alongside sodium retention",
-      "Angiotensin II and aldosterone axis"
-    ]
-  },
-  {
-    "id": "10-6",
-    "title": "Sympathetic Nervous System Regulation",
-    "brick_id": "10",
-    "brick_title": "Sodium Homeostasis",
-    "week": 1,
-    "type": "physiology",
-    "buzzwords": [
-      "Rapid response to hypovolemia or trauma",
-      "Reinforced by circulating catecholamines",
-      "Alpha-1 vasoconstriction of renal arterioles",
-      "Lowers filtered sodium load",
-      "Directly stimulates tubular sodium reabsorption",
-      "Activates renin release from JG cells",
-      "Mediated through beta-1 adrenergic receptors",
-      "Renal sympathetic nerve activity"
-    ]
-  },
-  {
-    "id": "10-7",
-    "title": "Natriuretic Peptides (ANP and BNP)",
-    "brick_id": "10",
-    "brick_title": "Sodium Homeostasis",
-    "week": 1,
-    "type": "physiology",
-    "buzzwords": [
-      "Counterregulatory natural diuretics",
-      "Released in volume-expanded states",
-      "Suppress renin secretion from JG cells",
-      "Directly inhibit tubular sodium reabsorption",
-      "Dilate the afferent arteriole to raise GFR",
-      "Triggered by cardiac chamber stretch",
-      "BNP elevated in congestive heart failure",
-      "Atrial and B-type natriuretic peptides"
-    ]
-  },
-  {
-    "id": "10-8",
     "title": "Tubuloglomerular Feedback",
     "brick_id": "10",
     "brick_title": "Sodium Homeostasis",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Intrarenal minute-to-minute autoregulation",
-      "Senses distal NaCl delivery",
-      "Adjusts single-nephron GFR to stabilize load",
-      "High salt sensing lowers renin and dilates efferent arteriole",
-      "Low salt sensing raises renin and constricts efferent arteriole",
-      "Operates at the juxtaglomerular apparatus",
-      "Specialized cells abut the afferent arteriole",
-      "Macula densa feedback loop"
+      "intrarenal autoregulation",
+      "macula densa",
+      "senses NaCl",
+      "JG apparatus",
+      "renin modulation",
+      "afferent/efferent tone",
+      "GFR stabilization",
+      "minute-to-minute"
+    ]
+  },
+  {
+    "id": "10-6",
+    "title": "RAAS Na Retention",
+    "brick_id": "10",
+    "brick_title": "Sodium Homeostasis",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "low BP trigger",
+      "hemorrhage response",
+      "renin release",
+      "Ang II",
+      "efferent constriction",
+      "aldosterone surge",
+      "ENaC upregulation",
+      "thirst + ADH"
+    ]
+  },
+  {
+    "id": "10-7",
+    "title": "Natriuretic Peptides",
+    "brick_id": "10",
+    "brick_title": "Sodium Homeostasis",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "volume overload",
+      "atrial stretch",
+      "ANP",
+      "BNP",
+      "afferent dilation",
+      "suppresses renin",
+      "natural diuretic",
+      "CHF marker"
+    ]
+  },
+  {
+    "id": "10-8",
+    "title": "Sympathetic Na Reabsorption",
+    "brick_id": "10",
+    "brick_title": "Sodium Homeostasis",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "hypovolemia",
+      "trauma response",
+      "alpha1 vasoconstriction",
+      "renal hypoperfusion",
+      "beta1 on JG",
+      "renin trigger",
+      "tubular Na+ uptake",
+      "reinforces RAAS"
     ]
   }
 ]

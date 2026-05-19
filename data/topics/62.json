@@ -7,14 +7,14 @@
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "benign renal tumor, often incidental",
-      "older adult man, age 50-80",
-      "mimics renal cell carcinoma on imaging",
-      "well-circumscribed, not encapsulated",
-      "arises from collecting-duct intercalated cells",
-      "large eosinophilic cells packed with mitochondria",
-      "central stellate scar on CT",
-      "mahogany-brown tumor on gross pathology"
+      "incidental mass",
+      "mimics RCC",
+      "benign tumor",
+      "mahogany brown",
+      "stellate scar",
+      "intercalated cells",
+      "eosinophilic cytoplasm",
+      "mitochondria-rich"
     ]
   },
   {
@@ -25,14 +25,14 @@
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "benign kidney tumor, female predominance",
-      "risk of life-threatening retroperitoneal hemorrhage",
-      "fat-containing renal mass on CT",
-      "arises from perivascular epithelioid cells",
-      "vessels, smooth muscle, and adipose tissue",
-      "associated with TSC1/TSC2 mutations",
-      "linked to tuberous sclerosis complex",
-      "treated with mTOR inhibitors (sirolimus/everolimus)"
+      "fat on CT",
+      "retroperitoneal bleed",
+      "tuberous sclerosis",
+      "TSC1/TSC2 loss",
+      "vessels-muscle-fat",
+      "perivascular epithelioid",
+      "mTOR inhibitors",
+      "arterial embolization"
     ]
   }
 ]

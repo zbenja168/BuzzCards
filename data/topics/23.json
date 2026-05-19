@@ -1,56 +1,56 @@
 [
   {
     "id": "23-1",
-    "title": "Decreased Renal Potassium Excretion",
+    "title": "Decreased Renal K+ Excretion",
     "brick_id": "23",
     "brick_title": "Hyperkalemia",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "most common mechanism of high serum potassium",
-      "rising potassium tracks declining glomerular filtration",
-      "cortical collecting duct fails to secrete",
-      "RAAS blockade and NSAIDs unmask the problem",
-      "spironolactone, eplerenone, amiloride implicated",
-      "type IV RTA with normal-gap acidosis",
-      "GFR below 15-30 mL/min in CKD precipitates it",
-      "hypoaldosteronism impairs principal-cell K+ secretion"
+      "most common cause",
+      "low GFR",
+      "CKD",
+      "AKI",
+      "K+-sparing diuretics",
+      "ACE/ARB",
+      "type IV RTA",
+      "NSAIDs"
     ]
   },
   {
     "id": "23-2",
-    "title": "Transcellular Potassium Shift",
+    "title": "Transcellular K+ Shift",
     "brick_id": "23",
     "brick_title": "Hyperkalemia",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "intracellular store leaks into the serum",
-      "Na+/K+-ATPase suppression drives the rise",
-      "acidemia exchanges H+ in for K+ out",
-      "insulin deficiency lowers pump activity",
-      "succinylcholine, digoxin, beta-blockers implicated",
-      "hyperglycemic osmotic drag pulls K+ from cells",
-      "rapidly reversible with insulin or beta-2 agonist",
-      "DKA's classic mechanism of hyperkalemia"
+      "K+ leaks out",
+      "acidemia",
+      "H+/K+ exchange",
+      "insulin deficiency",
+      "Na/K-ATPase down",
+      "succinylcholine",
+      "digoxin",
+      "beta-blockers"
     ]
   },
   {
     "id": "23-3",
-    "title": "Rhabdomyolysis-Induced Hyperkalemia",
+    "title": "Rhabdomyolysis Hyperkalemia",
     "brick_id": "23",
     "brick_title": "Hyperkalemia",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "massive muscle injury dumps intracellular contents",
-      "crush victim with dark tea-colored urine",
-      "heme-positive dipstick without red blood cells",
-      "creatine kinase soars into the thousands",
-      "compounded by AKI from pigment nephropathy",
-      "hyperphosphatemia and hypocalcemia accompany it",
-      "myoglobin tubular obstruction worsens excretion",
-      "crush-injury potassium release with peaked T waves"
+      "crush injury",
+      "muscle breakdown",
+      "tea-colored urine",
+      "heme+ no RBCs",
+      "high CK",
+      "myoglobinuria",
+      "pigment nephropathy",
+      "peaked T waves"
     ]
   },
   {
@@ -61,86 +61,86 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "bulky malignancy lysed after starting therapy",
-      "intracellular contents flood the circulation",
-      "hyperkalemia, hyperphosphatemia, hyperuricemia together",
-      "secondary hypocalcemia from phosphate binding",
-      "acute kidney injury from urate crystal deposition",
-      "Burkitt lymphoma and acute leukemias notorious",
-      "prevent with allopurinol, rasburicase, IV hydration",
-      "chemotherapy-induced potassium release within 72 hours"
+      "post-chemo",
+      "bulky tumor",
+      "hyperuricemia",
+      "hyperphosphatemia",
+      "hypocalcemia",
+      "Burkitt lymphoma",
+      "urate AKI",
+      "rasburicase"
     ]
   },
   {
     "id": "23-5",
-    "title": "Hyperkalemic ECG Changes",
+    "title": "Hyperkalemic ECG",
     "brick_id": "23",
     "brick_title": "Hyperkalemia",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "obtain immediately when K+ exceeds 5.5 mEq/L",
-      "progressive conduction abnormality with rising levels",
-      "shortened QT interval may appear early",
-      "PR prolongation precedes loss of P waves",
-      "QRS widens beyond 0.12 seconds",
-      "sine-wave morphology heralds asystole above 8 mEq/L",
-      "tall, thin, pointy T waves at K+ > 6.5",
-      "peaked T waves are the classic finding"
+      "ECG if K+ > 5.5",
+      "peaked T waves",
+      "short QT",
+      "prolonged PR",
+      "wide QRS",
+      "lost P waves",
+      "sine wave",
+      "asystole"
     ]
   },
   {
     "id": "23-6",
-    "title": "IV Calcium Gluconate (Membrane Stabilization)",
+    "title": "IV Calcium Gluconate",
     "brick_id": "23",
     "brick_title": "Hyperkalemia",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "given emergently when ECG shows changes",
-      "does not lower the serum potassium level",
-      "onset within 2-5 minutes, duration 30-60",
-      "withhold if the ECG is normal",
-      "raises threshold potential of cardiac myocytes",
-      "chloride form preferred via central line",
-      "buys time for shifters and removal agents",
-      "calcium stabilizes the cardiac membrane in hyperkalemia"
+      "membrane stabilizer",
+      "onset 2-5 min",
+      "no K+ lowering",
+      "give if ECG changes",
+      "skip if ECG normal",
+      "raises threshold",
+      "chloride via central",
+      "buys time"
     ]
   },
   {
     "id": "23-7",
-    "title": "Insulin and Glucose (Potassium Shifter)",
+    "title": "Insulin + Glucose Shift",
     "brick_id": "23",
     "brick_title": "Hyperkalemia",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "rapid temporary lowering of serum potassium",
-      "co-administered dextrose prevents hypoglycemia",
-      "onset 10-20 minutes, duration 2-6 hours",
-      "must be paired with a removal therapy",
-      "drives K+ back into the intracellular space",
-      "albuterol nebulizer shares the same mechanism",
-      "bicarbonate also shifts K+ if acidotic",
-      "stimulates Na+/K+-ATPase to internalize potassium"
+      "K+ shifter",
+      "drives K+ intracellular",
+      "stimulates Na/K-ATPase",
+      "dextrose co-given",
+      "onset 10-20 min",
+      "temporary fix",
+      "albuterol same idea",
+      "bicarb if acidotic"
     ]
   },
   {
     "id": "23-8",
-    "title": "Potassium Binders and Removal",
+    "title": "K+ Binders and Removal",
     "brick_id": "23",
     "brick_title": "Hyperkalemia",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "definitive lowering of total body potassium",
-      "loop diuretics with IV fluids enhance urinary loss",
-      "hemodialysis is the rescue in ESRD or anuria",
-      "patiromer and zirconium cyclosilicate are newer agents",
-      "binding resins exchange K+ in the GI tract",
-      "slow onset compared with shifters and calcium",
-      "risk of intestinal necrosis with older resin",
-      "sodium polystyrene sulfonate (Kayexalate)"
+      "removes total body K+",
+      "loop diuretics",
+      "IV fluids",
+      "patiromer",
+      "zirconium cyclosilicate",
+      "Kayexalate",
+      "dialysis",
+      "ESRD rescue"
     ]
   }
 ]

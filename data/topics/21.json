@@ -7,14 +7,14 @@
     "week": 1,
     "type": "drug",
     "buzzwords": [
-      "IV drug for euvolemic hyponatremia",
-      "promotes free-water aquaresis",
-      "given with hypertonic saline for severe SIADH",
-      "moderate CYP3A4 inhibitor",
-      "may cause orthostatic hypotension",
-      "blocks both V1 and V2 receptors",
-      "nonselective vasopressin receptor antagonist",
-      "the IV -vaptan"
+      "-vaptan",
+      "IV only",
+      "SIADH",
+      "V1 + V2 blocker",
+      "aquaresis",
+      "orthostatic hypotension",
+      "CYP3A4 inhibitor",
+      "pairs with hypertonic saline"
     ]
   },
   {
@@ -25,14 +25,14 @@
     "week": 1,
     "type": "drug",
     "buzzwords": [
-      "oral drug for outpatient SIADH",
-      "also used in CHF hyponatremia",
-      "avoid in liver disease",
-      "limit therapy to 30 days",
-      "associated with elevated transaminases",
-      "slows cyst growth in ADPKD",
-      "selective V2 receptor antagonist",
-      "oral -vaptan, FDA-monitored hepatotoxicity"
+      "oral -vaptan",
+      "selective V2",
+      "euvolemic hyponatremia",
+      "slows ADPKD cysts",
+      "hepatotoxic",
+      "avoid in cirrhosis",
+      "max 30 days",
+      "FDA-monitored"
     ]
   },
   {
@@ -43,14 +43,14 @@
     "week": 1,
     "type": "drug",
     "buzzwords": [
-      "tetracycline antibiotic repurposed for SIADH",
-      "treats chronic SIADH",
-      "not a true vasopressin receptor antagonist",
-      "interferes with post-receptor ADH signaling",
-      "prevents aquaporin-2 translocation to apical membrane",
-      "acts downstream of V2 receptor binding",
-      "induces nephrogenic diabetes insipidus-like state",
-      "the tetracycline -vaptan mimic"
+      "tetracycline antibiotic",
+      "not true antagonist",
+      "chronic SIADH",
+      "blocks AQP2 signaling",
+      "post-receptor block",
+      "mild ADH effect",
+      "induces nephrogenic DI",
+      "oral option"
     ]
   }
 ]

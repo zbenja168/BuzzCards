@@ -7,86 +7,86 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "kidney failure from poor perfusion",
-      "vomiting, diarrhea, or hemorrhage triggers it",
-      "orthostatic hypotension with rising creatinine",
-      "bland urinalysis with low urine sodium",
-      "BUN-to-creatinine ratio above 20",
-      "FENa under 1% from avid sodium retention",
-      "saline challenge rapidly improves GFR",
-      "NSAIDs plus ACE inhibitor classic combo"
+      "perfusion problem",
+      "volume depletion",
+      "orthostatic hypotension",
+      "BUN:Cr >20",
+      "urine Na <20",
+      "FENa <1%",
+      "saline responsive",
+      "NSAIDs + ACEi"
     ]
   },
   {
     "id": "34-2",
-    "title": "Acute Tubular Necrosis (ATN)",
+    "title": "Acute Tubular Necrosis",
     "brick_id": "34",
     "brick_title": "Acute Kidney Injury",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "intrinsic AKI from tubular cell death",
-      "ischemia, sepsis, or nephrotoxin exposure",
-      "aminoglycosides, IV contrast, vancomycin, cisplatin",
-      "sloughed cells obstruct tubules with backleak",
-      "urine sodium above 40 with FENa over 2%",
-      "renal tubular epithelial cells in urine",
-      "fried-egg cells on urinalysis",
-      "muddy brown granular casts pathognomonic"
+      "intrinsic AKI",
+      "ischemia or nephrotoxin",
+      "aminoglycosides",
+      "IV contrast",
+      "FENa >2%",
+      "muddy brown casts",
+      "fried-egg cells",
+      "tubular backleak"
     ]
   },
   {
     "id": "34-3",
-    "title": "Acute Interstitial Nephritis (AIN)",
+    "title": "Acute Interstitial Nephritis",
     "brick_id": "34",
     "brick_title": "Acute Kidney Injury",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "intrinsic AKI from drug hypersensitivity",
-      "rising creatinine after starting new medication",
-      "antibiotics, NSAIDs, or PPIs trigger it",
-      "T-cell and antibody-mediated interstitial inflammation",
-      "fever and rash with eosinophilia",
-      "WBCs and WBC casts on urinalysis",
-      "urine eosinophils on Hansel or Wright stain",
-      "FENa unreliable in this diagnosis"
+      "drug hypersensitivity",
+      "new medication",
+      "NSAIDs/PPIs/antibiotics",
+      "fever and rash",
+      "eosinophilia",
+      "WBC casts",
+      "urine eosinophils",
+      "Hansel stain"
     ]
   },
   {
     "id": "34-4",
-    "title": "Glomerulonephritis / RPGN as Intrinsic AKI",
+    "title": "RPGN as AKI",
     "brick_id": "34",
     "brick_title": "Acute Kidney Injury",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "intrinsic AKI from autoimmune glomerular injury",
-      "rapidly worsening renal function over weeks",
-      "proteinuria with hematuria on dipstick",
-      "dysmorphic red cells in urine sediment",
-      "Mickey Mouse ear acanthocytes in sediment",
-      "red blood cell casts on urinalysis",
-      "Goodpasture, lupus nephritis, IgA vasculitis examples",
-      "renal biopsy confirms rapidly progressive glomerulonephritis"
+      "autoimmune glomerular",
+      "proteinuria",
+      "hematuria",
+      "dysmorphic RBCs",
+      "RBC casts",
+      "Mickey Mouse ears",
+      "Goodpasture",
+      "biopsy confirms"
     ]
   },
   {
     "id": "34-5",
-    "title": "Postrenal AKI (Obstruction)",
+    "title": "Postrenal AKI",
     "brick_id": "34",
     "brick_title": "Acute Kidney Injury",
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "AKI from urinary tract blockage",
-      "anuria with suprapubic fullness",
-      "older man with BPH and rising creatinine",
-      "bilateral ureteral stones or pelvic malignancy",
-      "back-pressure transmitted into Bowman space",
-      "bladder catheter both diagnoses and treats",
-      "hydronephrosis on renal ultrasound",
-      "dilated calyces with bear-paw appearance"
+      "obstruction",
+      "anuria",
+      "BPH",
+      "bilateral stones",
+      "hydronephrosis",
+      "bear-paw calyces",
+      "bladder catheter fix",
+      "back-pressure"
     ]
   },
   {
@@ -97,14 +97,14 @@
     "week": 2,
     "type": "disease",
     "buzzwords": [
-      "urgent indications to start renal replacement",
-      "severe metabolic derangements unresponsive to medical therapy",
-      "refractory acidosis with pH below 7.1",
-      "potassium above 6.5 despite treatment",
-      "toxic alcohol or dialyzable drug ingestion",
-      "volume overload refractory to diuretics",
-      "uremic pericarditis or encephalopathy",
-      "mnemonic AEIOU triggers urgent dialysis"
+      "urgent dialysis",
+      "acidosis pH<7.1",
+      "K+ >6.5",
+      "toxic ingestion",
+      "fluid overload",
+      "uremic pericarditis",
+      "uremic encephalopathy",
+      "AEIOU mnemonic"
     ]
   }
 ]

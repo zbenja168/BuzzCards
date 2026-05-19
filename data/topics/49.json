@@ -7,14 +7,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Earliest functional change in this disease",
-      "Paradoxically elevated GFR before injury",
-      "Enlarged kidneys in newly diabetic patient",
-      "Efferent arteriole preferentially constricted",
-      "RAAS-driven rise in intraglomerular pressure",
-      "Mechanical stress on mesangium and podocytes",
-      "Reversed by ACE inhibitor afferent-efferent balance",
-      "Glomerular hyperfiltration of early diabetes"
+      "early DKD",
+      "big kidneys",
+      "elevated GFR",
+      "efferent constriction",
+      "RAAS driven",
+      "high glomerular pressure",
+      "mesangial stress",
+      "ACEi reverses"
     ]
   },
   {
@@ -25,32 +25,32 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Earliest detectable lab abnormality of nephropathy",
-      "Asymptomatic finding on yearly diabetic screening",
-      "Urine dipstick is too insensitive to detect",
-      "Spot urine albumin/creatinine ratio above 30",
-      "Often reversible with tight glycemic control",
-      "Triggers initiation of ACE inhibitor therapy",
-      "30 to 300 mg albumin per gram creatinine",
-      "Moderately increased albuminuria (formerly microalbuminuria)"
+      "earliest sign",
+      "asymptomatic",
+      "yearly screen",
+      "dipstick misses it",
+      "spot ACR",
+      "30-300 mg/g",
+      "reversible early",
+      "start ACEi"
     ]
   },
   {
     "id": "49-3",
-    "title": "Overt Proteinuria / Nephrotic-Range",
+    "title": "Overt Proteinuria",
     "brick_id": "49",
     "brick_title": "Diabetic Kidney Disease",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Advanced stage with far worse prognosis",
-      "Edema, hyperlipidemia, hypoalbuminemia in diabetic",
-      "Damaged GBM leaking heavy protein loads",
-      "Declining GFR accompanies the proteinuria",
-      "Urine ACR persistently exceeds 300 mg/g",
-      "Can climb past 3000 mg/g over time",
-      "Heralds progression toward end-stage kidney disease",
-      "Nephrotic-range proteinuria of diabetic nephropathy"
+      "advanced stage",
+      "worse prognosis",
+      "edema",
+      "GBM leak",
+      "declining GFR",
+      "ACR >300",
+      ">3000 nephrotic",
+      "heading to ESRD"
     ]
   },
   {
@@ -61,14 +61,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Histologic hallmark of advanced disease",
-      "Spherical eosinophilic glomerular deposits",
-      "Driven by TGF-beta-mediated mesangial expansion",
-      "Accumulated extracellular matrix in mesangium",
-      "Type IV collagen, laminin, heparan sulfate",
-      "Linear IgG staining on immunofluorescence too",
-      "Nodular glomerulosclerosis on light microscopy",
-      "Eponymous Kimmelstiel-Wilson nodules"
+      "nodular glomerulosclerosis",
+      "pink eosinophilic",
+      "spherical hyaline",
+      "advanced DKD",
+      "mesangial ECM",
+      "TGF-beta driven",
+      "type IV collagen",
+      "linear IgG"
     ]
   },
   {
@@ -79,14 +79,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "First-line antihypertensive in this nephropathy",
-      "Dilates the efferent arteriole specifically",
-      "Lowers intraglomerular pressure and proteinuria",
-      "Reduces hyperfiltration injury and fibrosis",
-      "Watch for hyperkalemia in renal patients",
-      "Blocks angiotensin II at AT1 receptor (ARB)",
-      "Inhibits angiotensin-converting enzyme (ACEi)",
-      "Renin-angiotensin system blockade"
+      "first-line",
+      "efferent vasodilation",
+      "lowers proteinuria",
+      "drops glomerular pressure",
+      "BP <130/80",
+      "watch K+",
+      "RAAS blockade",
+      "renoprotective"
     ]
   },
   {
@@ -97,32 +97,32 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Glucose-lowering drug with renoprotective effect",
-      "Causes osmotic diuresis and mild weight loss",
-      "Increased risk of genital mycotic infections",
-      "Restores tubuloglomerular feedback in diabetes",
-      "Blocks proximal tubule glucose reabsorption",
-      "Glucosuria is the intended pharmacologic effect",
-      "Drugs ending in '-flozin'",
-      "Sodium-glucose cotransporter 2 inhibitor"
+      "-flozins",
+      "proximal tubule",
+      "blocks glucose reabsorption",
+      "glucosuria",
+      "osmotic diuresis",
+      "genital yeast",
+      "restores TG feedback",
+      "renoprotective"
     ]
   },
   {
     "id": "49-7",
-    "title": "GLP-1 Receptor Agonists",
+    "title": "GLP-1 Agonists",
     "brick_id": "49",
     "brick_title": "Diabetic Kidney Disease",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Injectable diabetes therapy with weight loss",
-      "Slows gastric emptying and increases satiety",
-      "Glucose-dependent insulin secretion, suppresses glucagon",
-      "Reduces major adverse cardiovascular events",
-      "Slows progression of chronic kidney disease",
-      "Drugs ending in '-tide' (semaglutide, liraglutide)",
-      "Incretin mimetic mechanism",
-      "Glucagon-like peptide-1 receptor agonist"
+      "-tides",
+      "semaglutide",
+      "incretin mimetic",
+      "boosts insulin",
+      "suppresses glucagon",
+      "delays gastric emptying",
+      "weight loss",
+      "reduces MACE"
     ]
   },
   {
@@ -133,14 +133,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Add-on agent after ACEi/ARB plus SGLT2i",
-      "For persistent albuminuria above 30 mg/g",
-      "Blocks aldosterone-driven inflammation and fibrosis",
-      "More receptor-specific than spironolactone",
-      "Less gynecomastia than steroidal counterpart",
-      "Hyperkalemia is the main adverse effect",
-      "Nonsteroidal mineralocorticoid receptor antagonist",
-      "Finerenone"
+      "nonsteroidal MRA",
+      "selective receptor block",
+      "anti-fibrotic",
+      "anti-inflammatory",
+      "add-on therapy",
+      "persistent albuminuria",
+      "less gynecomastia",
+      "watch K+"
     ]
   }
 ]

@@ -1,38 +1,38 @@
 [
   {
     "id": "57-1",
-    "title": "Vesicoureteral Reflux (VUR)",
+    "title": "Vesicoureteral Reflux",
     "brick_id": "57",
     "brick_title": "Congenital Disorders of the Lower Urinary Tract",
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "recurrent UTIs in young child",
-      "retrograde urine flow during micturition",
-      "shortened intramural ureteral segment",
-      "abnormal oblique angle at bladder entry",
-      "graded I through V by severity",
-      "reflux nephropathy with renal scarring",
-      "often self-resolves with growth",
-      "VCUG is the gold-standard diagnostic test"
+      "recurrent UTIs",
+      "retrograde urine",
+      "short intramural ureter",
+      "flap-valve failure",
+      "graded I-V",
+      "reflux nephropathy",
+      "VCUG gold standard",
+      "outgrows it"
     ]
   },
   {
     "id": "57-2",
-    "title": "Ureteropelvic Junction (UPJ) Obstruction",
+    "title": "UPJ Obstruction",
     "brick_id": "57",
     "brick_title": "Congenital Disorders of the Lower Urinary Tract",
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "unilateral hydronephrosis on prenatal ultrasound",
-      "narrowing where renal pelvis meets ureter",
-      "failed recanalization or muscular development",
-      "aberrant crossing renal artery compresses ureter",
-      "dilated calyces without bladder wall thickening",
-      "flank pain and failure to thrive",
-      "no associated hydroureter below obstruction",
-      "bear paw hydronephrosis pattern on imaging"
+      "flank pain",
+      "unilateral hydronephrosis",
+      "prenatal ultrasound find",
+      "narrowed junction",
+      "aberrant renal artery",
+      "bear-paw pattern",
+      "no bladder thickening",
+      "pyeloplasty"
     ]
   },
   {
@@ -43,14 +43,14 @@
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "more than one ureter from a kidney",
-      "continuous urinary incontinence in a girl",
-      "premature branching of the ureteric bud",
-      "two ureteric buds from mesonephric duct",
-      "ectopic insertion bypassing sphincter mechanism",
-      "ureter draining into vagina or prostatic urethra",
-      "partial versus complete duplication subtypes",
-      "diagnosed on ultrasound showing duplex system"
+      "continuous incontinence",
+      "girl always wet",
+      "two ureters",
+      "ectopic insertion",
+      "split ureteric bud",
+      "vaginal drainage",
+      "bypasses sphincter",
+      "duplex on US"
     ]
   },
   {
@@ -61,14 +61,14 @@
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "rare severe congenital anomaly, more common in males",
-      "failed midline closure of anterior abdominal wall",
-      "incomplete mesoderm migration between ectoderm and endoderm",
-      "associated pelvic bone and genital malformations",
-      "continuous urine leakage from birth",
-      "bladder not visualized on second-trimester ultrasound",
-      "staged surgical reconstruction required",
-      "bladder mucosa exposed on lower abdominal wall"
+      "exposed bladder",
+      "open abdominal wall",
+      "midline closure failure",
+      "mesoderm migration defect",
+      "male predominance",
+      "pelvic bone defects",
+      "constant urine leak",
+      "staged surgical repair"
     ]
   },
   {
@@ -79,32 +79,32 @@
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "failed obliteration of an embryologic remnant",
-      "allantois fails to regress into fibrous cord",
-      "tract between bladder apex and umbilicus",
-      "rare malignant transformation in adults",
-      "median umbilical ligament fails to form",
-      "patent, cyst, sinus, or diverticulum subtypes",
-      "infected midline mass below the umbilicus",
-      "clear urine drainage from the umbilicus"
+      "umbilical urine leak",
+      "wet umbilicus",
+      "allantois remnant",
+      "patent urachus",
+      "urachal cyst",
+      "median umbilical ligament",
+      "bladder-umbilicus tract",
+      "adult malignancy risk"
     ]
   },
   {
     "id": "57-6",
-    "title": "Posterior Urethral Valves (PUV)",
+    "title": "Posterior Urethral Valves",
     "brick_id": "57",
     "brick_title": "Congenital Disorders of the Lower Urinary Tract",
     "week": 4,
     "type": "disease",
     "buzzwords": [
-      "infant boy with weak urinary stream",
-      "prenatal oligohydramnios with pulmonary hypoplasia",
-      "obstructing membranous folds in prostatic urethra",
-      "bilateral hydronephrosis with thick-walled bladder",
-      "progresses to childhood end-stage renal disease",
-      "treated with endoscopic valve ablation",
-      "fetal vesicoamniotic shunting under investigation",
-      "keyhole sign on prenatal ultrasound"
+      "male infant only",
+      "weak urinary stream",
+      "oligohydramnios",
+      "keyhole sign",
+      "thick-walled bladder",
+      "bilateral hydronephrosis",
+      "pulmonary hypoplasia",
+      "endoscopic ablation"
     ]
   }
 ]

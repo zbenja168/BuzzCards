@@ -1,92 +1,146 @@
 [
   {
     "id": "8-1",
+    "title": "Renal Blood Flow Basics",
+    "brick_id": "8",
+    "brick_title": "Regulation of Renal Blood Flow",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "20-25% CO",
+      "1% body weight",
+      "1.0-1.2 L/min",
+      "cortex 90%",
+      "medulla 10%",
+      "vasa recta",
+      "drives GFR",
+      "preserves gradient"
+    ]
+  },
+  {
+    "id": "8-2",
+    "title": "Renal Hemodynamics: Q=DP/R",
+    "brick_id": "8",
+    "brick_title": "Regulation of Renal Blood Flow",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Q = DP/R",
+      "RBF = MAP/RVR",
+      "radius^4 rule",
+      "afferent resistance",
+      "efferent resistance",
+      "venous ~2-4 mmHg",
+      "small radius, big effect",
+      "FF depends on efferent"
+    ]
+  },
+  {
+    "id": "8-3",
     "title": "Myogenic Response",
     "brick_id": "8",
     "brick_title": "Regulation of Renal Blood Flow",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Intrinsic autoregulation independent of nerves and hormones",
-      "Rises in pressure trigger reflex vessel constriction",
-      "Engages within seconds of pressure change",
-      "Vessel wall tension drives the feedback",
-      "Buffers transient swings from posture or activity",
-      "Operates across MAP roughly 80 to 180",
-      "Stretch opens calcium channels in smooth muscle",
-      "Afferent arteriole constricts when wall is stretched"
+      "intrinsic autoregulation",
+      "wall stretch",
+      "stretch-activated Ca channels",
+      "afferent constricts",
+      "seconds-fast",
+      "buffers posture changes",
+      "fails <80 mmHg",
+      "pressure-flow buffer"
     ]
   },
   {
-    "id": "8-2",
+    "id": "8-4",
     "title": "Tubuloglomerular Feedback",
     "brick_id": "8",
     "brick_title": "Regulation of Renal Blood Flow",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Tubular signal feeds back onto upstream arteriole",
-      "Engages over 10 to 15 seconds",
-      "Matches filtered load to reabsorptive capacity",
-      "High tubular flow shortens reabsorption time",
-      "Specialized thick ascending limb cells sense salt",
-      "High distal salt triggers afferent constriction",
-      "Macula densa senses tubular NaCl concentration",
-      "Adenosine and ATP release constrict afferent arteriole"
-    ]
-  },
-  {
-    "id": "8-3",
-    "title": "Sympathetic Regulation of Renal Vasculature",
-    "brick_id": "8",
-    "brick_title": "Regulation of Renal Blood Flow",
-    "week": 1,
-    "type": "physiology",
-    "buzzwords": [
-      "Extrinsic neural control overrides autoregulation during stress",
-      "Dominant in hemorrhage and hypovolemic shock",
-      "Norepinephrine from dense postganglionic innervation",
-      "Can reduce renal blood flow by 30 to 50 percent",
-      "Increases tubular sodium reabsorption alongside constriction",
-      "Also triggers renin release from juxtaglomerular cells",
-      "Alpha-1 receptors on afferent and efferent arterioles",
-      "Predominantly afferent constriction lowering both RBF and GFR"
-    ]
-  },
-  {
-    "id": "8-4",
-    "title": "Angiotensin II (RAAS) and Renal Hemodynamics",
-    "brick_id": "8",
-    "brick_title": "Regulation of Renal Blood Flow",
-    "week": 1,
-    "type": "physiology",
-    "buzzwords": [
-      "Circulating hormonal vasoconstrictor of renal arterioles",
-      "Activated by hypotension and low distal sodium",
-      "Preserves filtration despite falling renal blood flow",
-      "Raises glomerular hydrostatic pressure selectively",
-      "Maintains GFR while RBF drops, raising filtration fraction",
-      "Acts through AT1 receptors on arteriolar smooth muscle",
-      "Renin from juxtaglomerular cells initiates the cascade",
-      "Preferential efferent arteriolar constriction"
+      "macula densa",
+      "thick ascending limb",
+      "NaCl sensor",
+      "adenosine release",
+      "A1 afferent constriction",
+      "matches load to capacity",
+      "10-15 seconds",
+      "slower than myogenic"
     ]
   },
   {
     "id": "8-5",
-    "title": "Renal Prostaglandins",
+    "title": "Sympathetic Renal Control",
     "brick_id": "8",
     "brick_title": "Regulation of Renal Blood Flow",
     "week": 1,
     "type": "physiology",
     "buzzwords": [
-      "Locally produced vasodilator paracrine mediator",
-      "Especially important when perfusion is low",
-      "Counterbalances sympathetic and angiotensin II constriction",
-      "Protects GFR in heart failure, cirrhosis, volume depletion",
-      "Cyclooxygenase-derived arachidonic acid products",
-      "PGE2 and PGI2 dilate afferent arteriole",
-      "Inhibition by NSAIDs precipitates acute kidney injury",
-      "Afferent dilation preserves flow during hypoperfusion"
+      "alpha-1 receptors",
+      "norepinephrine",
+      "afferent > efferent",
+      "30-50% RBF drop",
+      "renin release",
+      "Na+ reabsorption up",
+      "shock response",
+      "overrides autoregulation"
+    ]
+  },
+  {
+    "id": "8-6",
+    "title": "Vasoactive Modulators",
+    "brick_id": "8",
+    "brick_title": "Regulation of Renal Blood Flow",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "Ang II efferent",
+      "AT1 receptor",
+      "endothelin constricts",
+      "thromboxane A2",
+      "NO dilates both",
+      "PGE2/PGI2 afferent",
+      "bradykinin dilates",
+      "dopamine D1"
+    ]
+  },
+  {
+    "id": "8-7",
+    "title": "NSAID-Induced AKI",
+    "brick_id": "8",
+    "brick_title": "Regulation of Renal Blood Flow",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "blocks prostaglandins",
+      "loses afferent dilation",
+      "heart failure risk",
+      "cirrhosis risk",
+      "volume depletion",
+      "low-perfusion state",
+      "prerenal AKI",
+      "COX inhibition"
+    ]
+  },
+  {
+    "id": "8-8",
+    "title": "Hemorrhage Response",
+    "brick_id": "8",
+    "brick_title": "Regulation of Renal Blood Flow",
+    "week": 1,
+    "type": "physiology",
+    "buzzwords": [
+      "sympathetic surge",
+      "RAAS activation",
+      "efferent constriction",
+      "FF increases",
+      "GFR preserved early",
+      ">30% loss fails",
+      "MAP <80 mmHg",
+      "pressure-dependent"
     ]
   }
 ]

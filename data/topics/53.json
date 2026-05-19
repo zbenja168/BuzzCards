@@ -7,14 +7,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Healthy young woman with urinary complaints",
-      "Dysuria, frequency, urgency without fever",
-      "Suprapubic pain, no vaginal discharge",
-      "No urologic abnormalities or immunosuppression",
-      "Afebrile, no flank pain or CVA tenderness",
-      "Diagnosed by history and physical alone",
-      "Urinalysis and culture not required",
-      "Treated with nitrofurantoin, TMP-SMX, or fosfomycin"
+      "dysuria",
+      "urgency, frequency",
+      "suprapubic pain",
+      "afebrile",
+      "healthy young female",
+      "no workup needed",
+      "clinical diagnosis",
+      "nitrofurantoin first-line"
     ]
   },
   {
@@ -25,14 +25,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Lower UTI in higher-risk host",
-      "Any male with bladder infection symptoms",
-      "Pregnancy, diabetes, or immunosuppression with cystitis",
-      "Indwelling catheter or structural abnormality",
-      "Recurrent infections — 2 in 6 months",
-      "Urine culture obtained to guide therapy",
-      "Concern for resistant gram-negative pathogens",
-      "Treated with fluoroquinolone or TMP-SMX"
+      "any male UTI",
+      "pregnancy",
+      "diabetic host",
+      "indwelling catheter",
+      "recurrent UTIs",
+      "culture mandatory",
+      "resistant gram-negatives",
+      "fluoroquinolone"
     ]
   },
   {
@@ -43,14 +43,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Ascending bacterial infection reaching the kidney",
-      "High-grade fever with chills and rigors",
-      "Flank pain with nausea and vomiting",
-      "Costovertebral angle tenderness on percussion",
-      "Leukocytosis with pyuria and bacteriuria",
-      "WBC casts indicate tubular involvement",
-      "Striated parenchymal enhancement on CT scan",
-      "IV ceftriaxone or fluoroquinolone first-line"
+      "flank pain",
+      "fever, chills",
+      "CVA tenderness",
+      "nausea, vomiting",
+      "WBC casts",
+      "leukocytosis",
+      "striated nephrogram",
+      "IV ceftriaxone"
     ]
   },
   {
@@ -61,50 +61,50 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Bladder inflammation with visible bleeding",
-      "Gross hematuria without ascending infection",
-      "Sterile urine cultures despite dysuria",
-      "Often follows pelvic radiation therapy",
-      "Viral or parasitic etiologies possible",
-      "BK virus in bone marrow transplant patients",
-      "Acrolein metabolite damages urothelium",
-      "Caused by cyclophosphamide or ifosfamide"
+      "gross hematuria",
+      "sterile cultures",
+      "cyclophosphamide",
+      "ifosfamide",
+      "acrolein toxicity",
+      "BK virus",
+      "post-radiation bladder",
+      "mesna prophylaxis"
     ]
   },
   {
     "id": "53-5",
-    "title": "Interstitial Cystitis (Bladder Pain Syndrome)",
+    "title": "Interstitial Cystitis",
     "brick_id": "53",
     "brick_title": "Cystitis and Pyelonephritis",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Chronic bladder pain without infection",
-      "Negative urine cultures and no pyuria",
-      "Pain worsens as bladder fills",
-      "Symptoms improve immediately after voiding",
-      "Coexists with fibromyalgia or IBS",
-      "Cytokine-mediated hypersensitivity proposed mechanism",
-      "Diagnosis of exclusion in chronic dysuria",
-      "Also called bladder pain syndrome"
+      "chronic bladder pain",
+      "negative cultures",
+      "fills hurts",
+      "voiding relieves",
+      "fibromyalgia overlap",
+      "IBS overlap",
+      "bladder pain syndrome",
+      "diagnosis of exclusion"
     ]
   },
   {
     "id": "53-6",
-    "title": "Uropathogenic Escherichia coli (UPEC)",
+    "title": "Uropathogenic E. coli",
     "brick_id": "53",
     "brick_title": "Cystitis and Pyelonephritis",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Most common cause of urinary tract infection",
-      "Ascends from fecal flora to urethra",
-      "Lactose-fermenting gram-negative rod",
-      "Reduces nitrate to nitrite on dipstick",
-      "Pink colonies on MacConkey agar",
-      "Causes 75 to 95 percent of cystitis",
-      "P fimbriae mediate uroepithelial adherence",
-      "Metallic green sheen on EMB agar"
+      "most common UTI",
+      "fecal flora",
+      "gram-negative rod",
+      "nitrite-positive",
+      "P fimbriae",
+      "MacConkey pink",
+      "EMB green sheen",
+      "75-95% of UTIs"
     ]
   },
   {
@@ -115,14 +115,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "UTI in sexually active young female",
-      "Second most common cystitis pathogen",
-      "Normal flora of genitourinary perineum",
-      "Gram-positive cocci in clusters",
-      "Catalase-positive, coagulase-negative organism",
-      "Nitrite-negative despite true infection",
-      "Novobiocin-resistant on susceptibility testing",
-      "Honeymoon cystitis in young women"
+      "honeymoon cystitis",
+      "sexually active female",
+      "gram-positive cocci",
+      "coagulase-negative",
+      "novobiocin-resistant",
+      "nitrite-negative UTI",
+      "second-most common",
+      "perineal flora"
     ]
   }
 ]

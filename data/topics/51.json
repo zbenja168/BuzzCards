@@ -1,56 +1,56 @@
 [
   {
     "id": "51-1",
-    "title": "Drug-Induced Acute Interstitial Nephritis",
+    "title": "Drug-Induced AIN",
     "brick_id": "51",
     "brick_title": "Acute Interstitial Nephritis",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "AKI 7-10 days after a new pill",
-      "Fever, rash, peripheral eosinophilia triad",
-      "Sterile pyuria with WBC casts",
-      "Nephrotic-range proteinuria with ibuprofen",
-      "Combined type I and type IV hypersensitivity",
-      "Offending drug acts as a hapten",
-      "NSAIDs, PPIs, penicillins, cephalosporins",
-      "Stop drug; glucocorticoids except for NSAID cases"
+      "rising creatinine",
+      "new drug",
+      "fever/rash/eos",
+      "7-10 day lag",
+      "WBC casts",
+      "drug as hapten",
+      "NSAIDs/PPIs/penicillins",
+      "stop the drug"
     ]
   },
   {
     "id": "51-2",
-    "title": "Infection-Induced Acute Interstitial Nephritis",
+    "title": "Infection-Induced AIN",
     "brick_id": "51",
     "brick_title": "Acute Interstitial Nephritis",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Rising creatinine during a systemic infection",
-      "WBC casts without an allergic drug history",
-      "Nonallergic interstitial inflammatory infiltrate",
-      "Renal cells as immune bystanders",
-      "No fever-rash-eosinophilia triad",
-      "Glucocorticoids generally not indicated",
-      "Triggered by acute bacterial pyelonephritis",
-      "Direct microbial stimulation of renal interstitium"
+      "AKI",
+      "no drug trigger",
+      "sterile pyuria",
+      "WBC casts",
+      "no allergic triad",
+      "nonallergic infiltrate",
+      "bacterial pyelo",
+      "steroids unhelpful"
     ]
   },
   {
     "id": "51-3",
-    "title": "Autoimmune-Induced Acute Interstitial Nephritis",
+    "title": "Autoimmune AIN",
     "brick_id": "51",
     "brick_title": "Acute Interstitial Nephritis",
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Intrarenal AKI in a connective tissue disease patient",
-      "Sterile pyuria without recent drug exposure",
-      "Nonallergic immune-mediated interstitial inflammation",
-      "Noncaseating granulomas on renal biopsy",
-      "Sicca symptoms with rising creatinine",
-      "Malar rash, arthritis, and WBC casts",
-      "Sarcoidosis, Sjogren syndrome, or lupus",
-      "Treat underlying systemic autoimmune disease"
+      "intrarenal AKI",
+      "sterile pyuria",
+      "no recent drug",
+      "noncaseating granulomas",
+      "sicca symptoms",
+      "malar rash",
+      "sarcoid/Sjogren/SLE",
+      "treat underlying"
     ]
   }
 ]

@@ -7,14 +7,14 @@
     "week": 3,
     "type": "disease",
     "buzzwords": [
-      "Young boy with persistent microscopic hematuria",
-      "Family history of kidney failure on dialysis",
-      "Triad of kidney, ear, and eye disease",
-      "Progressive glomerulonephritis with sensorineural hearing loss",
-      "Bilateral high-frequency sensorineural deafness in adolescence",
-      "Anterior lenticonus on slit-lamp exam",
-      "Basket-weave splitting of glomerular basement membrane",
-      "X-linked COL4A5 mutation in type IV collagen"
+      "microscopic hematuria",
+      "kidney-ear-eye triad",
+      "young male ESRD",
+      "sensorineural deafness",
+      "anterior lenticonus",
+      "basket-weave GBM",
+      "X-linked COL4A5",
+      "type IV collagen"
     ]
   }
 ]

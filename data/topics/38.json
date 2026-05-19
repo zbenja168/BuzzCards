@@ -7,14 +7,14 @@
     "week": 2,
     "type": "imaging",
     "buzzwords": [
-      "Noninvasive bedside first-line renal study",
-      "No radiation, no contrast required",
-      "Preferred modality in pregnancy",
-      "Detects hydronephrosis and simple cysts",
-      "Echogenic kidneys suggest chronic kidney disease",
-      "Bear-claw dilation of renal calyces",
-      "Doppler assesses renal vascular flow",
-      "Bilateral enlarged cystic kidneys reveal ADPCKD"
+      "first-line",
+      "no radiation",
+      "pregnancy-safe",
+      "hydronephrosis",
+      "bear-claw calyces",
+      "echogenic kidneys",
+      "ADPCKD cysts",
+      "Doppler flow"
     ]
   },
   {
@@ -25,14 +25,14 @@
     "week": 2,
     "type": "imaging",
     "buzzwords": [
-      "High-resolution anatomic kidney imaging",
-      "No iodinated contrast required",
-      "Avoids contrast-induced nephropathy risk",
-      "Detects even tiny urinary tract stones",
-      "Localizes obstruction in flank pain workup",
-      "Test of choice for renal trauma",
-      "Best for acute right flank pain radiating to pelvis",
-      "Gold standard for nephrolithiasis"
+      "flank pain",
+      "renal colic",
+      "stone hunt",
+      "gold standard stones",
+      "tiny stones seen",
+      "locates obstruction",
+      "no contrast",
+      "ureteral stone"
     ]
   },
   {
@@ -43,14 +43,14 @@
     "week": 2,
     "type": "imaging",
     "buzzwords": [
-      "Iodinated dye highlights renal parenchyma",
-      "Distinguishes solid tumors from simple cysts",
-      "Evaluates complicated pyelonephritis and abscess",
-      "Characterizes enhancement patterns of masses",
-      "Avoid in contrast allergy or renal failure",
-      "Stages malignancy and vascular invasion",
-      "Workup of suspected renal cell carcinoma",
-      "Bosniak classification of cystic renal lesions"
+      "renal mass",
+      "solid vs cyst",
+      "RCC workup",
+      "renal trauma",
+      "abscess hunt",
+      "tumor staging",
+      "iodinated contrast",
+      "Bosniak classification"
     ]
   },
   {
@@ -61,14 +61,14 @@
     "week": 2,
     "type": "imaging",
     "buzzwords": [
-      "Injected radioisotope tracks renal function",
-      "Compares function between left and right kidneys",
-      "Guides decision before nephrectomy",
-      "Confirms viability of contralateral kidney",
-      "Quantifies differential split kidney function",
-      "Cortical binding agent shows scarring",
-      "Technetium-99m labeled tracer",
-      "99mTc-DMSA radionuclide scan"
+      "split function",
+      "radioisotope",
+      "99mTc-DMSA",
+      "pre-nephrectomy",
+      "salvage decision",
+      "nonfunctioning kidney",
+      "cortical uptake",
+      "differential function"
     ]
   },
   {
@@ -79,14 +79,14 @@
     "week": 2,
     "type": "imaging",
     "buzzwords": [
-      "No ionizing radiation exposure",
-      "Superior soft-tissue contrast resolution",
-      "Used when CT is indeterminate or contraindicated",
-      "Safe alternative in contrast allergy",
-      "Option in pregnancy and renal failure",
-      "Characterizes indeterminate renal masses",
-      "Identifies benign fat-containing lesions",
-      "Detects angiomyolipoma soft-tissue features"
+      "soft-tissue detail",
+      "indeterminate mass",
+      "angiomyolipoma",
+      "contrast allergy",
+      "pregnancy option",
+      "CT inconclusive",
+      "high resolution",
+      "no radiation"
     ]
   }
 ]
