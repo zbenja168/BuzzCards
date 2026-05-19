@@ -11,15 +11,14 @@ const TYPE_LABEL = {
   lab:        'Labs',
   imaging:    'Imaging',
 };
-// Per-type medical emoji that appears as a faded center watermark on each card.
-// Corners use a small gold ✦ tinted in the type color (see CSS).
+// Per-type "suit" symbol that appears in card corners + as a faded center watermark.
 const TYPE_SYMBOL = {
-  disease:    '🩺',
-  drug:       '💊',
-  anatomy:    '🦴',
-  physiology: '⚡',
-  lab:        '🧪',
-  imaging:    '🩻',
+  disease:    '♥',
+  drug:       '♣',
+  anatomy:    '♠',
+  physiology: '♦',
+  lab:        '★',
+  imaging:    '◐',
 };
 const POINTS_PER_CLUE = 10;  // each unused clue dealt at round-end
 const POINTS_PER_MISS = 10;  // deducted per wrong pick or unneeded extra-draw
