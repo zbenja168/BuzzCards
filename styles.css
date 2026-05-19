@@ -198,7 +198,8 @@
 /* When the pile is fanned (hover), the answer card stays put and the clues
    spread to the right — revealing the answer underneath. Add a soft lift so
    it's clear which card is the answer. */
-.clue-pile:hover .answer-card {
+.clue-pile:hover .answer-card,
+.clue-pile.fanned .answer-card {
   transform: translateY(-6px) scale(1.04) !important;
   box-shadow:
     0 0 44px 6px rgba(16, 185, 129, 0.7),
@@ -473,15 +474,17 @@
 .clue-pile .clue-card:nth-child(7) { --fan-x: 432px; --fan-rot: 10deg; }
 .clue-pile .clue-card:nth-child(8) { --fan-x: 504px; --fan-rot: 14deg; }
 
-/* Hover the pile: cards fan out using the vars above. */
-.clue-pile:hover .clue-card {
+/* Hover (desktop) or tap (touch, via JS-toggled .fanned class): cards fan out. */
+.clue-pile:hover .clue-card,
+.clue-pile.fanned .clue-card {
   transition: transform .35s cubic-bezier(.2,.7,.3,1);
   transform: translateX(var(--fan-x, 0)) rotate(var(--fan-rot, 0deg));
 }
 
 /* Hover an individual clue card (only matters once the pile is fanned):
    lift it above everything else, un-rotate, scale slightly. */
-.clue-pile:hover .clue-card:hover {
+.clue-pile:hover .clue-card:hover,
+.clue-pile.fanned .clue-card:hover {
   transform: translateX(var(--fan-x, 0)) translateY(-44px) rotate(0deg) scale(1.06);
   z-index: 1000 !important;
   box-shadow: 0 8px 16px rgba(15,23,42,.12), 0 32px 64px -20px rgba(15,23,42,.32);
@@ -579,6 +582,39 @@
   object-fit: cover;
   border-radius: 0.35rem;
   display: block;
+}
+.clue-card.has-image { cursor: zoom-in; }
+
+/* Click-to-enlarge lightbox for image clues. */
+.image-lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.86);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+  cursor: zoom-out;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  padding: 4vmin;
+}
+.image-lightbox.open { opacity: 1; }
+.image-lightbox img {
+  max-width: 92vw;
+  max-height: 92vh;
+  border: 3px solid var(--gold);
+  border-radius: 0.6rem;
+  box-shadow:
+    0 0 60px rgba(212, 160, 23, 0.35),
+    0 20px 60px rgba(0, 0, 0, 0.6);
+  animation: lightbox-pop 0.28s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+@keyframes lightbox-pop {
+  from { transform: scale(0.7); opacity: 0; }
+  to   { transform: scale(1);   opacity: 1; }
 }
 
 /* --- BRICK SELECT WEEK SECTIONS ------------------------------------ */
@@ -1216,7 +1252,207 @@ button:disabled {
   width: auto;
   border-radius: 4px;
 }
+.history-buzzword.is-image { cursor: zoom-in; }
 .history-buzzword.is-image.seen {
   outline: 2px solid #c2410c;
   outline-offset: 1px;
+}
+
+/* ------------------------------------------------------------------- */
+/* --- MOBILE / NARROW VIEWPORTS ------------------------------------- */
+/* ------------------------------------------------------------------- */
+@media (max-width: 640px) {
+  /* Card sizing: drop from 140x196 to 95x133 (same 2.5:3.5 ratio). */
+  .card {
+    width: 95px;
+    height: 133px;
+    padding: 0.6rem 0.5rem;
+    border-radius: 0.65rem;
+    outline-offset: -4px;
+  }
+  .clue-card {
+    width: 95px;
+    height: 133px;
+    padding: 0.55rem 0.45rem;
+  }
+  .clue-card .clue-text {
+    font-size: 0.78rem;
+    line-height: 1.2;
+  }
+  .clue-card .clue-index {
+    font-size: 0.72rem;
+    top: 5px;
+    left: 7px;
+  }
+  .clue-card::before,
+  .clue-card::after {
+    font-size: 0.7rem;
+  }
+  .clue-card::before { top: 16px; left: 6px; }
+  .clue-card::after  { bottom: 16px; right: 6px; }
+
+  .hand-row .hand-card .card-title {
+    font-size: 0.85rem;
+  }
+  .face-down-label {
+    font-size: 0.65rem;
+  }
+  .face-down-cost {
+    font-size: 0.55rem;
+  }
+  .deck-count {
+    font-size: 0.85rem;
+  }
+
+  /* Game-screen outer padding (override Tailwind px-6 py-8). */
+  #screen-game {
+    padding-left: 0.75rem !important;
+    padding-right: 0.75rem !important;
+    padding-top: 0.75rem !important;
+    padding-bottom: 1rem !important;
+  }
+  #screen-game header {
+    margin-bottom: 0.9rem !important;
+  }
+  /* Shrink header stats + buttons. */
+  #screen-game header .gap-8 { gap: 1.1rem !important; }
+  #stat-score  { font-size: 1.7rem !important; }
+  #stat-streak { font-size: 1.05rem !important; }
+  #stat-cards-left { font-size: 1.05rem !important; }
+  #screen-game header .text-xs { font-size: 0.58rem !important; }
+  #screen-game header .text-sm { font-size: 0.78rem !important; }
+  .chip-btn { padding: 0.35rem 0.6rem !important; font-size: 0.95rem !important; }
+
+  .zone-label {
+    font-size: 0.6rem;
+    margin-bottom: 0.35rem;
+  }
+  .game-zone {
+    margin-bottom: 1rem;
+  }
+
+  /* CLUE ZONE: stack deck above pile, center the pile. */
+  .clue-row {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.7rem;
+  }
+  .clue-pile-wrap {
+    min-height: 160px;
+    width: 100%;
+    min-width: 0;
+  }
+  .clue-pile {
+    height: 160px;
+    width: 100%;
+  }
+  /* Center the stacked cards horizontally inside the full-width pile, and
+     re-anchor the fan steps around the center (not the left edge). */
+  .clue-pile .clue-card {
+    left: 50%;
+    margin-left: -47.5px; /* half of 95px */
+  }
+  .clue-pile.has-answer {
+    /* On mobile, ditch the rightward shift — answer just lands on the pile. */
+    transform: none;
+  }
+  /* Centered fan: 28px steps, 8 cards spread -98 to +98. */
+  .clue-pile .clue-card:nth-child(1) { --fan-x: -98px; --fan-rot: -14deg; }
+  .clue-pile .clue-card:nth-child(2) { --fan-x: -70px; --fan-rot: -10deg; }
+  .clue-pile .clue-card:nth-child(3) { --fan-x: -42px; --fan-rot: -6deg; }
+  .clue-pile .clue-card:nth-child(4) { --fan-x: -14px; --fan-rot: -2deg; }
+  .clue-pile .clue-card:nth-child(5) { --fan-x:  14px; --fan-rot:  2deg; }
+  .clue-pile .clue-card:nth-child(6) { --fan-x:  42px; --fan-rot:  6deg; }
+  .clue-pile .clue-card:nth-child(7) { --fan-x:  70px; --fan-rot: 10deg; }
+  .clue-pile .clue-card:nth-child(8) { --fan-x:  98px; --fan-rot: 14deg; }
+  /* Tighter lift on tap (was 44px; cards are smaller now). */
+  .clue-pile:hover .clue-card:hover,
+  .clue-pile.fanned .clue-card:hover {
+    transform: translateX(var(--fan-x, 0)) translateY(-30px) rotate(0deg) scale(1.05);
+  }
+  .clue-pile-wrap::after {
+    width: 100%;
+    height: 200px;
+  }
+
+  /* HAND ZONE: stack the extras deck below the hand. */
+  .hand-row-wrap {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.6rem;
+  }
+  .hand-row {
+    height: 170px;
+    padding-top: 30px;
+    width: 100%;
+  }
+  .hand-row .hand-card {
+    margin-left: -38px;
+  }
+  .hand-row .hand-card:hover {
+    transform: translateY(-30px) rotate(0deg) scale(1.04) !important;
+  }
+
+  /* TITLE screen: drop the giant headline. */
+  #screen-title h1 {
+    font-size: 3.2rem !important;
+    line-height: 1 !important;
+  }
+  #screen-title p {
+    font-size: 0.95rem !important;
+  }
+
+  /* SELECT screen: compact week sections + grid. */
+  #screen-select {
+    padding-left: 0.75rem !important;
+    padding-right: 0.75rem !important;
+    padding-top: 1.25rem !important;
+  }
+  #screen-select header h2 {
+    font-size: 1.7rem !important;
+  }
+  #screen-select header p {
+    font-size: 0.8rem !important;
+  }
+  #selected-count {
+    font-size: 1.5rem !important;
+  }
+
+  /* TOAST: keep it readable but not full-width. */
+  #toast {
+    font-size: 0.85rem !important;
+  }
+
+  /* LIGHTBOX: tighter padding on tiny screens. */
+  .image-lightbox {
+    padding: 2vmin;
+  }
+
+  /* CELEBRATION: smaller scale so the played card doesn't escape the screen. */
+  .card.celebrating {
+    transform: translateY(-60px) scale(1.35) rotate(0deg) !important;
+  }
+}
+
+/* Extra-narrow phones (≤ 360px wide). */
+@media (max-width: 360px) {
+  .card, .clue-card {
+    width: 84px;
+    height: 117px;
+  }
+  .clue-pile .clue-card {
+    margin-left: -42px;
+  }
+  .hand-row .hand-card {
+    margin-left: -32px;
+  }
+  /* Re-anchor fan for 84px cards (24px steps). */
+  .clue-pile .clue-card:nth-child(1) { --fan-x: -84px; }
+  .clue-pile .clue-card:nth-child(2) { --fan-x: -60px; }
+  .clue-pile .clue-card:nth-child(3) { --fan-x: -36px; }
+  .clue-pile .clue-card:nth-child(4) { --fan-x: -12px; }
+  .clue-pile .clue-card:nth-child(5) { --fan-x:  12px; }
+  .clue-pile .clue-card:nth-child(6) { --fan-x:  36px; }
+  .clue-pile .clue-card:nth-child(7) { --fan-x:  60px; }
+  .clue-pile .clue-card:nth-child(8) { --fan-x:  84px; }
 }

@@ -20,9 +20,10 @@ const TYPE_SYMBOL = {
   lab:        '★',
   imaging:    '◐',
 };
-const POINTS_PER_CLUE = 10;  // each unused clue dealt at round-end (before streak multiplier)
-const POINTS_PER_MISS = 10;  // deducted per wrong pick or unneeded extra-draw
-const STREAK_CAP      = 3;   // multiplier cap (3x at streak >= 5)
+const POINTS_PER_CLUE  = 10;  // each unused clue dealt at round-end (before streak multiplier)
+const POINTS_PER_MISS  = 10;  // deducted per unneeded extra-draw (target was already in hand)
+const POINTS_PER_WRONG = 25;  // deducted per wrong card played; also resets the streak
+const STREAK_CAP       = 3;   // multiplier cap (3x at streak >= 5)
 
 const state = {
   allCards: [],              // flat list of all cards
@@ -91,8 +92,38 @@ function wireButtons() {
   byId('btn-close-history').onclick = closeHistory;
   byId('history-backdrop').onclick  = closeHistory;
   byId('btn-sound').onclick     = () => { sfx.toggleMute(); sfx.click(); };
+
+  // Click-to-enlarge for image clue cards (anywhere they appear: clue pile,
+  // history modal thumbnails). Also tap-to-fan the clue pile (mainly for touch
+  // devices where :hover doesn't fire). All delegated so it works for
+  // dynamically-added cards.
+  document.addEventListener('click', e => {
+    const clueCard = e.target.closest('.clue-card.has-image');
+    if (clueCard) {
+      const img = clueCard.querySelector('.clue-image');
+      if (img && img.src) openImageLightbox(img.src);
+      return;
+    }
+    const historyChip = e.target.closest('.history-buzzword.is-image');
+    if (historyChip) {
+      const img = historyChip.querySelector('img');
+      if (img && img.src) openImageLightbox(img.src);
+      return;
+    }
+    // Tap inside the clue pile toggles the fan; tap anywhere else collapses it.
+    const pile = byId('clue-pile');
+    if (!pile) return;
+    if (e.target.closest('#clue-pile')) {
+      pile.classList.toggle('fanned');
+    } else if (pile.classList.contains('fanned')) {
+      pile.classList.remove('fanned');
+    }
+  });
+
   document.addEventListener('keydown', e => {
-    if (e.key === 'Escape' && !byId('history-modal').classList.contains('hidden')) closeHistory();
+    if (e.key !== 'Escape') return;
+    if (byId('image-lightbox')) closeImageLightbox();
+    else if (!byId('history-modal').classList.contains('hidden')) closeHistory();
   });
   // Initial sound button glyph
   byId('btn-sound').textContent = sfx.muted ? '🔇' : '🔊';
@@ -476,8 +507,7 @@ function startRound() {
   g.target = target;
   g.targetInHandAtStart = !targetInExtras;       // for end-of-round draw penalty
   g.initialExtrasCount  = extras.length;
-  g.shuffledClues = [...target.buzzwords];
-  shuffle(g.shuffledClues);
+  g.shuffledClues = shuffleWithImageBias([...target.buzzwords]);
   g.revealed = [];
   g.wrongThisRound = new Set();
   g.justStartedRound = true;                     // tells renderGame to animate the deal
@@ -562,12 +592,18 @@ function playCard(cardId) {
     }
     setTimeout(() => dealRemainingCluesThenShuffle(), t);
   } else {
-    // Wrong: stays where it is, -10 points, eliminated from this round, force next clue.
+    // Wrong: stays in hand, eliminated from this round, force next clue. Hefty
+    // penalty + the streak resets — wrong diagnoses should sting.
     g.wrongThisRound.add(cardId);
     const cardEl = byId('hand').querySelector(`[data-id="${cardId}"]`);
-    deductScore(POINTS_PER_MISS, cardEl);
+    deductScore(POINTS_PER_WRONG, cardEl);
     sfx.wrong();
-    toast('Not it · −10', 'wrong');
+    const streakBroke = g.streak >= 2;
+    if (streakBroke) {
+      g.streak = 0;
+      updateStreakDisplay(true);
+    }
+    toast(`Not it · −${POINTS_PER_WRONG}${streakBroke ? ' · streak broken' : ''}`, 'wrong');
     revealNextClue('forced');
   }
 }
@@ -1127,6 +1163,32 @@ function el(tag, attrs = {}, ...kids) {
 
 // A clue is either a plain string (text buzzword) or an object { img: "path" }.
 function isImageClue(c) { return c && typeof c === 'object' && typeof c.img === 'string'; }
+// Click-to-enlarge lightbox for image clues. Click anywhere on the overlay
+// (including the image) to dismiss; ESC also closes it.
+function openImageLightbox(src) {
+  closeImageLightbox();
+  const overlay = el('div', { class: 'image-lightbox', id: 'image-lightbox' });
+  overlay.append(el('img', { src, alt: 'enlarged clue image' }));
+  overlay.addEventListener('click', closeImageLightbox);
+  document.body.append(overlay);
+  requestAnimationFrame(() => overlay.classList.add('open'));
+  if (typeof sfx !== 'undefined') sfx.click();
+}
+function closeImageLightbox() {
+  const overlay = byId('image-lightbox');
+  if (overlay) overlay.remove();
+}
+// Shuffle that biases image clues toward the front of the reveal order.
+// Each clue gets a sort key; images draw their key from a narrower range
+// near 0, so they almost always end up in the first ~2 reveals, with enough
+// noise that the exact slot still varies. Cards with no image clues behave
+// like a uniform shuffle.
+function shuffleWithImageBias(arr) {
+  return arr
+    .map(c => ({ c, k: isImageClue(c) ? Math.random() * 0.25 : Math.random() }))
+    .sort((a, b) => a.k - b.k)
+    .map(o => o.c);
+}
 // Append the right body content to a .clue-card based on the clue shape.
 function appendClueBody(card, clue) {
   if (isImageClue(clue)) {
