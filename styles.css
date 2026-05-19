@@ -205,16 +205,29 @@
 .clue-pile .clue-card:nth-child(8n+7) { transform: translate(-1px, 1px) rotate(2deg); }
 .clue-pile .clue-card:nth-child(8n)   { transform: translate(2px, -1px) rotate(-1deg); }
 
-/* Hover: fan all the cards out, oldest on left → newest on right. */
-.clue-pile:hover .clue-card { transition: transform .35s cubic-bezier(.2,.7,.3,1); }
-.clue-pile:hover .clue-card:nth-child(1) { transform: translate(0px, 0px)   rotate(-14deg); }
-.clue-pile:hover .clue-card:nth-child(2) { transform: translate(72px, 0px)  rotate(-10deg); }
-.clue-pile:hover .clue-card:nth-child(3) { transform: translate(144px, 0px) rotate(-6deg); }
-.clue-pile:hover .clue-card:nth-child(4) { transform: translate(216px, 0px) rotate(-2deg); }
-.clue-pile:hover .clue-card:nth-child(5) { transform: translate(288px, 0px) rotate(2deg); }
-.clue-pile:hover .clue-card:nth-child(6) { transform: translate(360px, 0px) rotate(6deg); }
-.clue-pile:hover .clue-card:nth-child(7) { transform: translate(432px, 0px) rotate(10deg); }
-.clue-pile:hover .clue-card:nth-child(8) { transform: translate(504px, 0px) rotate(14deg); }
+/* Fan positions (also accessible via CSS vars so hovered-card override can preserve X). */
+.clue-pile .clue-card:nth-child(1) { --fan-x: 0px;   --fan-rot: -14deg; }
+.clue-pile .clue-card:nth-child(2) { --fan-x: 72px;  --fan-rot: -10deg; }
+.clue-pile .clue-card:nth-child(3) { --fan-x: 144px; --fan-rot: -6deg; }
+.clue-pile .clue-card:nth-child(4) { --fan-x: 216px; --fan-rot: -2deg; }
+.clue-pile .clue-card:nth-child(5) { --fan-x: 288px; --fan-rot: 2deg; }
+.clue-pile .clue-card:nth-child(6) { --fan-x: 360px; --fan-rot: 6deg; }
+.clue-pile .clue-card:nth-child(7) { --fan-x: 432px; --fan-rot: 10deg; }
+.clue-pile .clue-card:nth-child(8) { --fan-x: 504px; --fan-rot: 14deg; }
+
+/* Hover the pile: cards fan out using the vars above. */
+.clue-pile:hover .clue-card {
+  transition: transform .35s cubic-bezier(.2,.7,.3,1);
+  transform: translateX(var(--fan-x, 0)) rotate(var(--fan-rot, 0deg));
+}
+
+/* Hover an individual clue card (only matters once the pile is fanned):
+   lift it above everything else, un-rotate, scale slightly. */
+.clue-pile:hover .clue-card:hover {
+  transform: translateX(var(--fan-x, 0)) translateY(-44px) rotate(0deg) scale(1.06);
+  z-index: 1000 !important;
+  box-shadow: 0 8px 16px rgba(15,23,42,.12), 0 32px 64px -20px rgba(15,23,42,.32);
+}
 
 /* The clue-pile zone needs an oversized hit area so cards stay hovered when fanned. */
 .clue-pile-wrap::after {

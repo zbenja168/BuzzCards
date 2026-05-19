@@ -86,10 +86,11 @@ function onExtrasDeckClick() {
   const g = state.game;
   if (!g || !g.target) return;
   if (g.extras.length === 0) return;
-  // Pop next extra and merge into the player's hand.
+  // Pop next extra and merge into the player's hand. Draws are free during the round —
+  // but each draw retroactively counts as a miss if the target was already in the hand
+  // when the round started. We apply that penalty at round-end (correct play or exhaust).
   const drawn = g.extras.shift();
   g.hand.push(drawn);
-  g.buzzwordsUsed += 1;
   renderGame();
 }
 
@@ -270,6 +271,8 @@ function startRound() {
   g.hand = hand;
   g.extras = extras;
   g.target = target;
+  g.targetInHandAtStart = !targetInExtras;       // for end-of-round draw penalty
+  g.initialExtrasCount  = extras.length;
   g.shuffledClues = [...target.buzzwords];
   shuffle(g.shuffledClues);
   g.revealed = [];
@@ -322,10 +325,12 @@ function playCard(cardId) {
     // Correct — round ends, target retires, fresh hand next round.
     g.cardsPlayed += 1;
     g.usedTargetIds.add(g.target.id);
-    toast('Correct — ' + g.target.title, 'right');
+    const penalty = applyEndOfRoundDrawPenalty();
+    const msg = `Correct — ${g.target.title}` + (penalty > 0 ? ` (+${penalty} miss${penalty > 1 ? 'es' : ''} for unneeded draws)` : '');
+    toast(msg, 'right', penalty > 0 ? 1700 : 1100);
     g.target = null;
     g.revealed = [];
-    setTimeout(() => startRound(), 700);
+    setTimeout(() => startRound(), penalty > 0 ? 1100 : 700);
     renderGame();
   } else {
     // Wrong: stays where it is, miss++, eliminated from this round, force next clue.
@@ -339,12 +344,25 @@ function playCard(cardId) {
 function exhaustRound() {
   const g = state.game;
   const target = g.target;
-  toast(`Out of clues — it was ${target.title}`, 'info', 1800);
+  const penalty = applyEndOfRoundDrawPenalty();
+  const tail = penalty > 0 ? ` (+${penalty} miss${penalty > 1 ? 'es' : ''} for unneeded draws)` : '';
+  toast(`Out of clues — it was ${target.title}${tail}`, 'info', 1800);
   g.usedTargetIds.add(target.id);
   g.buzzwordsUsed += EXHAUST_PENALTY;
   g.target = null;
   g.revealed = [];
   setTimeout(() => startRound(), 1400);
+}
+
+// If the target was in the hand at the start of the round, each extra the player
+// drew was an "unneeded" reveal — count one miss per draw. Returns the penalty applied.
+function applyEndOfRoundDrawPenalty() {
+  const g = state.game;
+  if (!g.targetInHandAtStart) return 0;
+  const drawn = (g.initialExtrasCount || 0) - g.extras.length;
+  if (drawn <= 0) return 0;
+  g.misses += drawn;
+  return drawn;
 }
 
 function endGame() {
