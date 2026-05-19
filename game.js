@@ -11,8 +11,8 @@ const TYPE_LABEL = {
   lab:        'Labs',
   imaging:    'Imaging',
 };
-const EXHAUST_PENALTY = 3;   // extra "buzzword equivalents" when buzzwords are exhausted unsolved
-const MISS_PENALTY    = 1;   // extra "buzzword equivalents" per miss
+const POINTS_PER_CLUE = 10;  // each unused clue dealt at round-end
+const POINTS_PER_MISS = 10;  // deducted per wrong pick or unneeded extra-draw
 
 const state = {
   allCards: [],              // flat list of all cards
@@ -169,8 +169,7 @@ function startGame() {
     target: null,
     revealed: [],
     shuffledClues: [],
-    buzzwordsUsed: 0,
-    misses: 0,
+    score: 0,
     cardsPlayed: 0,
     wrongThisRound: new Set(),
   };
@@ -313,7 +312,6 @@ function revealNextClue(why) {
   }
   const idx = g.revealed.length;
   g.revealed.push(g.shuffledClues[idx]);
-  if (why !== 'initial') g.buzzwordsUsed += 1;
   g.justRevealedClueIdx = idx;   // flag for animation in renderGame
   renderGame();
 }
@@ -324,29 +322,31 @@ function playCard(cardId) {
   if (!g.hand.some(c => c.id === cardId)) return; // only hand cards are playable; extras must be drawn first
 
   if (cardId === g.target.id) {
-    // Correct — apply penalty, show toast, animate cards back to decks, then start next round.
+    // Correct — sequence: penalty popups (if any) → deal remaining clues for +10 each → fly back & shuffle → next round.
     g.cardsPlayed += 1;
     g.usedTargetIds.add(g.target.id);
-    const penalty = applyEndOfRoundDrawPenalty();
-    const msg = `Correct — ${g.target.title}` + (penalty > 0 ? ` (+${penalty} miss${penalty > 1 ? 'es' : ''} for unneeded draws)` : '');
-    toast(msg, 'right', penalty > 0 ? 1700 : 1100);
-    // Update only the stat counters; the round-end animation will move the cards.
-    byId('stat-misses').textContent = g.misses;
+    const penaltyCount = computeUnneededDrawCount();
+    toast(`Correct — ${g.target.title}`, 'right', 1100);
     byId('stat-cards-left').textContent = g.pool.length - g.usedTargetIds.size;
-    g.target = null;   // disables further input via the animating-or-no-target guard
+    g.target = null;
     g.animating = true;
-    setTimeout(() => {
-      endRoundAnimation().then(() => {
-        g.animating = false;
-        g.revealed = [];
-        startRound();
-      });
-    }, penalty > 0 ? 600 : 450);
+
+    let t = 350;  // initial pause for "correct" feedback
+    // Penalty popups: -10 each from the extras deck position
+    if (penaltyCount > 0) {
+      for (let i = 0; i < penaltyCount; i++) {
+        setTimeout(() => deductScore(POINTS_PER_MISS, byId('extras-deck')), t + i * 220);
+      }
+      t += penaltyCount * 220 + 250;
+    }
+    // Deal remaining clues, awarding +10 per clue
+    setTimeout(() => dealRemainingCluesThenShuffle(), t);
   } else {
-    // Wrong: stays where it is, miss++, eliminated from this round, force next clue.
-    g.misses += 1;
+    // Wrong: stays where it is, -10 points, eliminated from this round, force next clue.
     g.wrongThisRound.add(cardId);
-    toast('Not it — try again', 'wrong');
+    const cardEl = byId('hand').querySelector(`[data-id="${cardId}"]`);
+    deductScore(POINTS_PER_MISS, cardEl);
+    toast('Not it · −10', 'wrong');
     revealNextClue('forced');
   }
 }
@@ -354,43 +354,123 @@ function playCard(cardId) {
 function exhaustRound() {
   const g = state.game;
   const target = g.target;
-  const penalty = applyEndOfRoundDrawPenalty();
-  const tail = penalty > 0 ? ` (+${penalty} miss${penalty > 1 ? 'es' : ''} for unneeded draws)` : '';
-  toast(`Out of clues — it was ${target.title}${tail}`, 'info', 1800);
+  const penaltyCount = computeUnneededDrawCount();
+  toast(`Out of clues — it was ${target.title}`, 'info', 1800);
   g.usedTargetIds.add(target.id);
-  g.buzzwordsUsed += EXHAUST_PENALTY;
-  byId('stat-buzzwords').textContent = g.buzzwordsUsed;
-  byId('stat-misses').textContent    = g.misses;
   byId('stat-cards-left').textContent = g.pool.length - g.usedTargetIds.size;
   g.target = null;
   g.animating = true;
-  setTimeout(() => {
-    endRoundAnimation().then(() => {
-      g.animating = false;
-      g.revealed = [];
-      startRound();
-    });
-  }, 1100);
+
+  let t = 1000;
+  if (penaltyCount > 0) {
+    for (let i = 0; i < penaltyCount; i++) {
+      setTimeout(() => deductScore(POINTS_PER_MISS, byId('extras-deck')), 400 + i * 220);
+    }
+    t = Math.max(t, 400 + penaltyCount * 220 + 200);
+  }
+  setTimeout(() => endRoundFlyBackAndShuffle(), t);
 }
 
-// If the target was in the hand at the start of the round, each extra the player
-// drew was an "unneeded" reveal — count one miss per draw. Returns the penalty applied.
-function applyEndOfRoundDrawPenalty() {
+// Returns how many extras were drawn while the target was already in the hand.
+function computeUnneededDrawCount() {
   const g = state.game;
   if (!g.targetInHandAtStart) return 0;
-  const drawn = (g.initialExtrasCount || 0) - g.extras.length;
-  if (drawn <= 0) return 0;
-  g.misses += drawn;
-  return drawn;
+  return Math.max(0, (g.initialExtrasCount || 0) - g.extras.length);
+}
+
+// Deal each remaining (unused) clue out as a card with a +10 popup. Then fly back & shuffle.
+function dealRemainingCluesThenShuffle() {
+  const g = state.game;
+  const total = g.shuffledClues.length;
+  const remaining = total - g.revealed.length;
+  if (remaining === 0) {
+    setTimeout(endRoundFlyBackAndShuffle, 250);
+    return;
+  }
+  let i = 0;
+  function dealNext() {
+    if (i >= remaining) {
+      setTimeout(endRoundFlyBackAndShuffle, 400);
+      return;
+    }
+    const newIdx = g.revealed.length;
+    g.revealed.push(g.shuffledClues[newIdx]);
+    g.justRevealedClueIdx = newIdx;
+    renderGame();
+    // Award +10 once the new clue card has landed visually
+    setTimeout(() => {
+      const newClue = byId('clue-pile').lastElementChild;
+      awardScore(POINTS_PER_CLUE, newClue);
+    }, 280);
+    i++;
+    setTimeout(dealNext, 330);
+  }
+  dealNext();
+}
+
+function endRoundFlyBackAndShuffle() {
+  endRoundAnimation().then(() => {
+    state.game.animating = false;
+    state.game.revealed = [];
+    startRound();
+  });
+}
+
+// --- Score helpers ---
+function awardScore(amount, originEl) {
+  const g = state.game;
+  g.score += amount;
+  byId('stat-score').textContent = g.score;
+  pulseScore('positive');
+  spawnPointsPopup(`+${amount}`, originEl, true);
+}
+function deductScore(amount, originEl) {
+  const g = state.game;
+  g.score -= amount;
+  byId('stat-score').textContent = g.score;
+  pulseScore('negative');
+  spawnPointsPopup(`−${amount}`, originEl, false);
+}
+function spawnPointsPopup(text, originEl, positive) {
+  let x, y;
+  if (originEl) {
+    const r = originEl.getBoundingClientRect();
+    x = r.left + r.width / 2;
+    y = r.top + r.height * 0.25;
+  } else {
+    const r = byId('stat-score').getBoundingClientRect();
+    x = r.left + r.width / 2;
+    y = r.top;
+  }
+  const popup = document.createElement('div');
+  popup.className = 'score-popup ' + (positive ? 'positive' : 'negative');
+  popup.textContent = text;
+  popup.style.left = x + 'px';
+  popup.style.top  = y + 'px';
+  document.body.appendChild(popup);
+  popup.animate(
+    [
+      { transform: 'translate(-50%, 8px) scale(0.7)',   opacity: 0 },
+      { transform: 'translate(-50%, -16px) scale(1.25)', opacity: 1, offset: 0.18 },
+      { transform: 'translate(-50%, -90px) scale(1.0)',  opacity: 0 },
+    ],
+    { duration: 1100, easing: 'cubic-bezier(0.22, 0.8, 0.36, 1)', fill: 'forwards' }
+  ).finished.then(() => popup.remove(), () => popup.remove());
+}
+let scorePulseTimer = null;
+function pulseScore(kind) {
+  const el = byId('stat-score');
+  el.classList.remove('pulse-positive', 'pulse-negative');
+  void el.offsetWidth;       // restart animation
+  el.classList.add(kind === 'positive' ? 'pulse-positive' : 'pulse-negative');
+  clearTimeout(scorePulseTimer);
+  scorePulseTimer = setTimeout(() => el.classList.remove('pulse-positive', 'pulse-negative'), 500);
 }
 
 function endGame() {
   const g = state.game;
-  const score = g.buzzwordsUsed + g.misses * MISS_PENALTY;
-  byId('final-score').textContent = score;
+  byId('final-score').textContent  = g.score;
   byId('final-played').textContent = g.cardsPlayed;
-  byId('final-misses').textContent = g.misses;
-  byId('final-avg').textContent = g.cardsPlayed > 0 ? (g.buzzwordsUsed / g.cardsPlayed).toFixed(1) : '—';
   show('over');
 }
 
@@ -398,8 +478,7 @@ function endGame() {
 
 function renderGame() {
   const g = state.game;
-  byId('stat-buzzwords').textContent = g.buzzwordsUsed;
-  byId('stat-misses').textContent    = g.misses;
+  byId('stat-score').textContent      = g.score;
   byId('stat-cards-left').textContent = g.pool.length - g.usedTargetIds.size;
 
   // Clue deck: shows clues remaining; disabled when none left

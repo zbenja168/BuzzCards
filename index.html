@@ -40,12 +40,13 @@
       <h1 class="font-display text-6xl md:text-7xl leading-none mb-6">Brick&nbsp;Buzz</h1>
       <p class="text-ink-700 text-lg mb-10">
         Each round, one card in your hand is the hidden target.
-        Clues drip in from vague to dead-giveaway — guess in as few as you can.
+        Every clue you don't need = <span class="font-semibold text-emerald-600">+10 points</span>.
+        Wrong picks = <span class="font-semibold text-rose-500">−10 points</span>.
       </p>
       <button id="btn-start" class="bg-brand-500 hover:bg-brand-600 active:bg-brand-700 text-white font-semibold px-8 py-3 rounded-full shadow-card transition">
         Pick your bricks →
       </button>
-      <p class="text-ink-500 text-xs mt-6">Lower score is better.</p>
+      <p class="text-ink-500 text-xs mt-6">Higher score wins.</p>
     </div>
   </section>
 
@@ -102,14 +103,10 @@
     <div class="max-w-5xl mx-auto">
 
       <header class="flex items-center justify-between mb-6">
-        <div class="flex items-center gap-6">
+        <div class="flex items-center gap-8">
           <div>
-            <div class="text-xs uppercase tracking-wide text-ink-500">Buzzwords used</div>
-            <div class="text-2xl font-display" id="stat-buzzwords">0</div>
-          </div>
-          <div>
-            <div class="text-xs uppercase tracking-wide text-ink-500">Misses</div>
-            <div class="text-2xl font-display" id="stat-misses">0</div>
+            <div class="text-xs uppercase tracking-wide text-ink-500">Score</div>
+            <div class="text-4xl font-display" id="stat-score">0</div>
           </div>
           <div>
             <div class="text-xs uppercase tracking-wide text-ink-500">Cards left</div>
@@ -160,13 +157,12 @@
   <!-- GAMEOVER SCREEN -->
   <section id="screen-over" class="screen hidden min-h-screen flex items-center justify-center px-6">
     <div class="max-w-lg text-center bg-white rounded-3xl shadow-cardLg p-10">
-      <p class="uppercase tracking-[0.2em] text-xs text-brand-600 font-semibold mb-3">round complete</p>
-      <h2 class="font-display text-5xl mb-6">Score</h2>
-      <div class="text-7xl font-display mb-6" id="final-score">—</div>
-      <div class="grid grid-cols-3 gap-4 text-sm mb-8">
-        <div><div class="text-ink-500 text-xs uppercase tracking-wide">Cards played</div><div id="final-played" class="text-xl font-display">—</div></div>
-        <div><div class="text-ink-500 text-xs uppercase tracking-wide">Misses</div><div id="final-misses" class="text-xl font-display">—</div></div>
-        <div><div class="text-ink-500 text-xs uppercase tracking-wide">Avg clues / card</div><div id="final-avg" class="text-xl font-display">—</div></div>
+      <p class="uppercase tracking-[0.2em] text-xs text-brand-600 font-semibold mb-3">game complete</p>
+      <h2 class="font-display text-5xl mb-6">Final Score</h2>
+      <div class="text-7xl font-display mb-6 text-emerald-500" id="final-score">—</div>
+      <div class="text-sm mb-8">
+        <div class="text-ink-500 uppercase tracking-wide text-xs">Cards played</div>
+        <div id="final-played" class="text-xl font-display">—</div>
       </div>
       <button id="btn-replay" class="bg-brand-500 hover:bg-brand-600 text-white font-semibold px-8 py-3 rounded-full shadow-card transition">Play again</button>
     </div>

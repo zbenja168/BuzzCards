@@ -399,3 +399,34 @@ button:disabled {
   cursor: not-allowed;
   box-shadow: none;
 }
+
+/* --- SCORE POPUP (floating +10 / −10) ------------------------------ */
+.score-popup {
+  position: fixed;
+  pointer-events: none;
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 2.4rem;
+  font-weight: 700;
+  z-index: 9999;
+  white-space: nowrap;
+  letter-spacing: 0.02em;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.25);
+  transform: translate(-50%, 0);
+}
+.score-popup.positive { color: #10b981; }
+.score-popup.negative { color: #f43f5e; }
+
+/* --- SCORE COUNTER PULSE ------------------------------------------- */
+@keyframes scorePulsePositive {
+  0%   { transform: scale(1);    color: inherit; }
+  35%  { transform: scale(1.32); color: #10b981; }
+  100% { transform: scale(1);    color: inherit; }
+}
+@keyframes scorePulseNegative {
+  0%   { transform: scale(1);    color: inherit; }
+  35%  { transform: scale(1.18); color: #f43f5e; }
+  100% { transform: scale(1);    color: inherit; }
+}
+#stat-score { display: inline-block; transform-origin: left center; }
+#stat-score.pulse-positive { animation: scorePulsePositive 0.5s ease both; }
+#stat-score.pulse-negative { animation: scorePulseNegative 0.5s ease both; }
