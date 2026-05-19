@@ -20,8 +20,9 @@ const TYPE_SYMBOL = {
   lab:        '★',
   imaging:    '◐',
 };
-const POINTS_PER_CLUE = 10;  // each unused clue dealt at round-end
+const POINTS_PER_CLUE = 10;  // each unused clue dealt at round-end (before streak multiplier)
 const POINTS_PER_MISS = 10;  // deducted per wrong pick or unneeded extra-draw
+const STREAK_CAP      = 3;   // multiplier cap (3x at streak >= 5)
 
 const state = {
   allCards: [],              // flat list of all cards
@@ -89,10 +90,83 @@ function wireButtons() {
   byId('btn-history-over').onclick = openHistory;
   byId('btn-close-history').onclick = closeHistory;
   byId('history-backdrop').onclick  = closeHistory;
+  byId('btn-sound').onclick     = () => { sfx.toggleMute(); sfx.click(); };
   document.addEventListener('keydown', e => {
     if (e.key === 'Escape' && !byId('history-modal').classList.contains('hidden')) closeHistory();
   });
+  // Initial sound button glyph
+  byId('btn-sound').textContent = sfx.muted ? '🔇' : '🔊';
 }
+
+// ============= SOUND EFFECTS ====================================================
+// Synthesized via Web Audio API. AudioContext is created lazily on first user gesture.
+
+const sfx = {
+  ctx: null,
+  muted: localStorage.getItem('sfxMuted') === '1',
+  master: null,
+  ensure() {
+    if (!this.ctx) {
+      const AC = window.AudioContext || window.webkitAudioContext;
+      if (!AC) return false;
+      this.ctx = new AC();
+      this.master = this.ctx.createGain();
+      this.master.gain.value = 0.4;
+      this.master.connect(this.ctx.destination);
+    }
+    if (this.ctx.state === 'suspended') this.ctx.resume();
+    return true;
+  },
+  toggleMute() {
+    this.muted = !this.muted;
+    localStorage.setItem('sfxMuted', this.muted ? '1' : '0');
+    const btn = byId('btn-sound');
+    if (btn) btn.textContent = this.muted ? '🔇' : '🔊';
+  },
+  _osc(freq, type, attack, hold, release, gain = 0.18, freqEnd = null) {
+    if (this.muted || !this.ensure()) return;
+    const t0 = this.ctx.currentTime;
+    const o = this.ctx.createOscillator();
+    const g = this.ctx.createGain();
+    o.type = type;
+    o.frequency.setValueAtTime(freq, t0);
+    if (freqEnd != null) o.frequency.exponentialRampToValueAtTime(Math.max(0.01, freqEnd), t0 + attack + hold + release);
+    g.gain.setValueAtTime(0, t0);
+    g.gain.linearRampToValueAtTime(gain, t0 + attack);
+    g.gain.setValueAtTime(gain, t0 + attack + hold);
+    g.gain.exponentialRampToValueAtTime(0.001, t0 + attack + hold + release);
+    o.connect(g).connect(this.master);
+    o.start(t0);
+    o.stop(t0 + attack + hold + release + 0.02);
+  },
+  _noise(duration, filterType, filterFreq, filterQ, gain = 0.25) {
+    if (this.muted || !this.ensure()) return;
+    const t0 = this.ctx.currentTime;
+    const buf = this.ctx.createBuffer(1, Math.max(1, this.ctx.sampleRate * duration), this.ctx.sampleRate);
+    const d = buf.getChannelData(0);
+    for (let i = 0; i < d.length; i++) d[i] = (Math.random() * 2 - 1) * (1 - i / d.length);
+    const src = this.ctx.createBufferSource();
+    src.buffer = buf;
+    const filt = this.ctx.createBiquadFilter();
+    filt.type = filterType; filt.frequency.value = filterFreq; filt.Q.value = filterQ;
+    const g = this.ctx.createGain();
+    g.gain.value = gain;
+    src.connect(filt).connect(g).connect(this.master);
+    src.start(t0);
+  },
+  click()    { this._noise(0.04, 'bandpass', 2400, 8,  0.30); },
+  flip()     { this._noise(0.10, 'highpass', 1200, 1,  0.18); },
+  wrong()    { this._osc(220, 'sawtooth', 0.005, 0.04, 0.20, 0.20, 110); },
+  coin()     { this._osc(1320, 'sine', 0.002, 0.02, 0.18, 0.14); setTimeout(() => this._osc(1760, 'sine', 0.002, 0.02, 0.18, 0.10), 50); },
+  streak()   { this._osc(880, 'sine', 0.003, 0.02, 0.30, 0.18, 1760); },
+  shuffle()  { for (let i = 0; i < 4; i++) setTimeout(() => this._noise(0.06, 'highpass', 900, 1, 0.14), i * 60); },
+  celebrate() {
+    // Quick C major arpeggio with a sparkle on top
+    const notes = [523.25, 659.25, 784.0, 1046.5];
+    notes.forEach((f, i) => setTimeout(() => this._osc(f, 'triangle', 0.005, 0.04, 0.55, 0.22), i * 75));
+    setTimeout(() => this._osc(1568.0, 'sine', 0.002, 0.05, 0.7, 0.16), 320);
+  },
+};
 
 function openHistory() {
   renderHistory();
@@ -139,6 +213,7 @@ function renderHistory() {
 function onClueDeckClick() {
   const g = state.game;
   if (!g || !g.target || g.animating) return;
+  sfx.flip();
   revealNextClue('voluntary');
 }
 
@@ -152,6 +227,7 @@ function onExtrasDeckClick() {
   const drawn = g.extras.shift();
   g.hand.push(drawn);
   g.justDrewExtraId = drawn.id;  // flag for animation in renderGame
+  sfx.flip();
   renderGame();
 }
 
@@ -279,6 +355,7 @@ function startGame() {
     revealed: [],
     shuffledClues: [],
     score: 0,
+    streak: 0,                  // consecutive correct rounds; resets on exhaust
     cardsPlayed: 0,
     wrongThisRound: new Set(),
   };
@@ -434,6 +511,7 @@ function playCard(cardId) {
     // Correct — celebrate, then penalty popups, then deal remaining clues, then fly back & shuffle.
     g.cardsPlayed += 1;
     g.usedTargetIds.add(g.target.id);
+    g.streak += 1;
     state.history.push({
       target: { ...g.target },
       result: 'correct',
@@ -449,6 +527,10 @@ function playCard(cardId) {
     // 🎉 Celebration: card spotlight + confetti + big target title overlay.
     const playedCardEl = byId('hand').querySelector(`[data-id="${cardId}"]`);
     celebrateCorrect(playedCardEl, g.hand.find(c => c.id === cardId).title);
+    sfx.celebrate();
+    // Streak ticked up — show the new multiplier with a pulse and chime if it grew the multiplier.
+    updateStreakDisplay(true);
+    if (g.streak >= 2) sfx.streak();
 
     let t = 950;  // give the celebration room to land
     if (penaltyCount > 0) {
@@ -463,6 +545,7 @@ function playCard(cardId) {
     g.wrongThisRound.add(cardId);
     const cardEl = byId('hand').querySelector(`[data-id="${cardId}"]`);
     deductScore(POINTS_PER_MISS, cardEl);
+    sfx.wrong();
     toast('Not it · −10', 'wrong');
     revealNextClue('forced');
   }
@@ -479,9 +562,13 @@ function exhaustRound() {
     shuffledClues: [...g.shuffledClues],
   });
   const penaltyCount = computeUnneededDrawCount();
-  toast(`Out of clues — it was ${target.title}`, 'info', 1800);
+  const streakBroken = g.streak >= 2;
+  toast(`Out of clues — it was ${target.title}${streakBroken ? ' · streak broken' : ''}`, 'info', 1800);
   g.usedTargetIds.add(target.id);
   byId('stat-cards-left').textContent = g.pool.length - g.usedTargetIds.size;
+  g.streak = 0;
+  updateStreakDisplay(true);
+  sfx.wrong();
   g.target = null;
   g.animating = true;
 
@@ -502,7 +589,7 @@ function computeUnneededDrawCount() {
   return Math.max(0, (g.initialExtrasCount || 0) - g.extras.length);
 }
 
-// Deal each remaining (unused) clue out as a card with a +10 popup. Then fly back & shuffle.
+// Deal each remaining (unused) clue out as a card. Each awards POINTS_PER_CLUE * streakMultiplier.
 function dealRemainingCluesThenShuffle() {
   const g = state.game;
   const total = g.shuffledClues.length;
@@ -511,6 +598,7 @@ function dealRemainingCluesThenShuffle() {
     setTimeout(endRoundFlyBackAndShuffle, 250);
     return;
   }
+  const perClue = Math.round(POINTS_PER_CLUE * getStreakMultiplier());
   let i = 0;
   function dealNext() {
     if (i >= remaining) {
@@ -521,15 +609,41 @@ function dealRemainingCluesThenShuffle() {
     g.revealed.push(g.shuffledClues[newIdx]);
     g.justRevealedClueIdx = newIdx;
     renderGame();
-    // Award +10 once the new clue card has landed visually
+    sfx.flip();
+    // Award the (multiplied) points once the new clue card has landed visually
     setTimeout(() => {
       const newClue = byId('clue-pile').lastElementChild;
-      awardScore(POINTS_PER_CLUE, newClue);
+      awardScore(perClue, newClue);
+      sfx.coin();
     }, 280);
     i++;
     setTimeout(dealNext, 330);
   }
   dealNext();
+}
+
+function getStreakMultiplier() {
+  const s = state.game ? (state.game.streak || 0) : 0;
+  if (s <= 1) return 1;
+  return Math.min(1 + (s - 1) * 0.5, STREAK_CAP);
+}
+
+function updateStreakDisplay(pulse) {
+  const g = state.game;
+  if (!g) return;
+  const mult = getStreakMultiplier();
+  const el = byId('stat-streak');
+  if (!el) return;
+  el.textContent = '×' + (mult % 1 === 0 ? mult : mult.toFixed(1));
+  el.classList.remove('warm', 'hot', 'blazing');
+  if      (g.streak >= 6) el.classList.add('blazing');
+  else if (g.streak >= 4) el.classList.add('hot');
+  else if (g.streak >= 2) el.classList.add('warm');
+  if (pulse) {
+    el.classList.remove('streak-pulse');
+    void el.offsetWidth;
+    el.classList.add('streak-pulse');
+  }
 }
 
 function endRoundFlyBackAndShuffle() {
@@ -669,6 +783,7 @@ function renderGame() {
   const g = state.game;
   byId('stat-score').textContent      = g.score;
   byId('stat-cards-left').textContent = g.pool.length - g.usedTargetIds.size;
+  updateStreakDisplay(false);
 
   // Clue deck: shows clues remaining; disabled when none left
   const totalClues = g.shuffledClues ? g.shuffledClues.length : 0;
@@ -684,7 +799,7 @@ function renderGame() {
     card.style.zIndex = String(i + 1);
     card.append(
       el('div', { class: 'card-emblem clue-emblem' }, '✦'),
-      el('div', { class: 'clue-index' }, `Clue ${i + 1}`),
+      el('div', { class: 'clue-index' }, toRoman(i + 1)),
       el('div', { class: 'clue-text' }, clue),
     );
     pile.append(card);
@@ -806,6 +921,7 @@ function endRoundAnimation() {
     // Both decks do a quick shuffle wobble; resolve when wobble ends.
     extrasDeck.classList.add('shuffling');
     clueDeck.classList.add('shuffling');
+    sfx.shuffle();
     return new Promise(resolve => setTimeout(() => {
       extrasDeck.classList.remove('shuffling');
       clueDeck.classList.remove('shuffling');
@@ -858,6 +974,10 @@ function renderHandCard(c) {
 // ---------- helpers ----------
 
 function byId(id) { return document.getElementById(id); }
+function toRoman(n) {
+  const map = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
+  return map[n] || String(n);
+}
 function el(tag, attrs = {}, ...kids) {
   const n = document.createElement(tag);
   for (const [k, v] of Object.entries(attrs)) {
