@@ -372,10 +372,9 @@ function playCard(cardId) {
   if (!g.hand.some(c => c.id === cardId)) return; // only hand cards are playable; extras must be drawn first
 
   if (cardId === g.target.id) {
-    // Correct — sequence: penalty popups (if any) → deal remaining clues for +10 each → fly back & shuffle → next round.
+    // Correct — celebrate, then penalty popups, then deal remaining clues, then fly back & shuffle.
     g.cardsPlayed += 1;
     g.usedTargetIds.add(g.target.id);
-    // Record this round in history BEFORE the deal-out so cluesUsed reflects actual gameplay reveals.
     state.history.push({
       target: { ...g.target },
       result: 'correct',
@@ -384,20 +383,21 @@ function playCard(cardId) {
       shuffledClues: [...g.shuffledClues],
     });
     const penaltyCount = computeUnneededDrawCount();
-    toast(`Correct — ${g.target.title}`, 'right', 1100);
     byId('stat-cards-left').textContent = g.pool.length - g.usedTargetIds.size;
     g.target = null;
     g.animating = true;
 
-    let t = 350;  // initial pause for "correct" feedback
-    // Penalty popups: -10 each from the extras deck position
+    // 🎉 Celebration: card spotlight + confetti + big target title overlay.
+    const playedCardEl = byId('hand').querySelector(`[data-id="${cardId}"]`);
+    celebrateCorrect(playedCardEl, g.hand.find(c => c.id === cardId).title);
+
+    let t = 950;  // give the celebration room to land
     if (penaltyCount > 0) {
       for (let i = 0; i < penaltyCount; i++) {
         setTimeout(() => deductScore(POINTS_PER_MISS, byId('extras-deck')), t + i * 220);
       }
-      t += penaltyCount * 220 + 250;
+      t += penaltyCount * 220 + 200;
     }
-    // Deal remaining clues, awarding +10 per clue
     setTimeout(() => dealRemainingCluesThenShuffle(), t);
   } else {
     // Wrong: stays where it is, -10 points, eliminated from this round, force next clue.
@@ -479,6 +479,71 @@ function endRoundFlyBackAndShuffle() {
     state.game.revealed = [];
     startRound();
   });
+}
+
+// --- Celebration ---
+
+function celebrateCorrect(cardEl, title) {
+  // 1) Lift, glow, and scale the played card via a CSS class.
+  if (cardEl) {
+    cardEl.classList.add('celebrating');
+    setTimeout(() => cardEl.classList.add('fading'), 700);
+  }
+  // 2) Confetti burst centered on the played card.
+  if (cardEl) {
+    const r = cardEl.getBoundingClientRect();
+    spawnConfetti(r.left + r.width / 2, r.top + r.height / 2);
+  } else {
+    spawnConfetti(window.innerWidth / 2, window.innerHeight / 2);
+  }
+  // 3) Big target-title burst near the top of the screen.
+  spawnTitleBurst(title);
+}
+
+function spawnConfetti(x, y) {
+  const COUNT = 30;
+  const COLORS = ['#10b981', '#f59e0b', '#3b82f6', '#ec4899', '#f97316', '#a855f7', '#22c55e'];
+  for (let i = 0; i < COUNT; i++) {
+    const piece = document.createElement('div');
+    piece.className = 'confetti' + (i % 3 === 0 ? ' square' : '');
+    const angle = (Math.PI * 2 * i / COUNT) + (Math.random() * 0.5 - 0.25);
+    const dist  = 90 + Math.random() * 130;
+    const dx = Math.cos(angle) * dist;
+    const dy = Math.sin(angle) * dist - 30;            // slight upward bias
+    const finalDy = dy + 220 + Math.random() * 120;     // gravity after the burst
+    const rot = Math.random() * 720 - 360;
+    piece.style.left = x + 'px';
+    piece.style.top  = y + 'px';
+    piece.style.backgroundColor = COLORS[i % COLORS.length];
+    document.body.appendChild(piece);
+    piece.animate(
+      [
+        { transform: 'translate(-50%, -50%) rotate(0deg) scale(1)',                opacity: 1 },
+        { transform: `translate(calc(-50% + ${dx}px), calc(-50% + ${dy}px)) rotate(${rot}deg) scale(1)`,             opacity: 1, offset: 0.32 },
+        { transform: `translate(calc(-50% + ${dx * 1.15}px), calc(-50% + ${finalDy}px)) rotate(${rot * 1.6}deg) scale(0.8)`, opacity: 0 }
+      ],
+      { duration: 1400 + Math.random() * 600, easing: 'cubic-bezier(0.2, 0.6, 0.3, 1)', fill: 'forwards' }
+    ).finished.then(() => piece.remove(), () => piece.remove());
+  }
+}
+
+function spawnTitleBurst(title) {
+  const div = document.createElement('div');
+  div.className = 'correct-burst';
+  div.append(
+    el('div', { class: 'correct-burst-check' }, '✓'),
+    el('div', { class: 'correct-burst-title' }, title),
+  );
+  document.body.appendChild(div);
+  div.animate(
+    [
+      { transform: 'translate(-50%, -50%) scale(0.45) rotate(-6deg)', opacity: 0 },
+      { transform: 'translate(-50%, -50%) scale(1.15) rotate(2deg)',  opacity: 1, offset: 0.18 },
+      { transform: 'translate(-50%, -50%) scale(1.0) rotate(-1deg)',  opacity: 1, offset: 0.60 },
+      { transform: 'translate(-50%, -50%) scale(0.92) rotate(0deg)',  opacity: 0 }
+    ],
+    { duration: 1500, easing: 'cubic-bezier(0.34, 1.56, 0.64, 1)', fill: 'forwards' }
+  ).finished.then(() => div.remove(), () => div.remove());
 }
 
 // --- Score helpers ---
