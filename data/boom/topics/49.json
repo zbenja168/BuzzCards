@@ -1,0 +1,92 @@
+[
+  {
+    "id": "boom-49-1",
+    "title": "Repeat Expansion",
+    "course": "boom",
+    "brick_id": "49",
+    "brick_title": "Repeat Expansion Disorders",
+    "type": "physiology",
+    "buzzwords": [
+      "unstable repeats",
+      "polymerase slippage",
+      "loop structures form",
+      "dynamic mutation",
+      "premutation carrier",
+      "crosses critical threshold",
+      "earlier onset each generation",
+      "anticipation"
+    ]
+  },
+  {
+    "id": "boom-49-2",
+    "title": "Huntington Disease",
+    "course": "boom",
+    "brick_id": "49",
+    "brick_title": "Repeat Expansion Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal dominant",
+      "onset 30s-50s",
+      "chorea",
+      "dementia",
+      "caudate atrophy",
+      "toxic protein aggregates",
+      "CAG repeat",
+      "HTT gene"
+    ]
+  },
+  {
+    "id": "boom-49-3",
+    "title": "Fragile X Syndrome",
+    "course": "boom",
+    "brick_id": "49",
+    "brick_title": "Repeat Expansion Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "X-linked dominant",
+      "intellectual disability",
+      "long narrow face",
+      "large ears",
+      "macroorchidism",
+      "promoter hypermethylation",
+      "absent FMRP",
+      "CGG repeat FMR1"
+    ]
+  },
+  {
+    "id": "boom-49-4",
+    "title": "Friedreich Ataxia",
+    "course": "boom",
+    "brick_id": "49",
+    "brick_title": "Repeat Expansion Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "childhood onset",
+      "progressive ataxia",
+      "hypertrophic cardiomyopathy",
+      "reduced frataxin",
+      "impaired iron-sulfur clusters",
+      "intronic GAA repeat",
+      "FXN gene"
+    ]
+  },
+  {
+    "id": "boom-49-5",
+    "title": "Myotonic Dystrophy 1",
+    "course": "boom",
+    "brick_id": "49",
+    "brick_title": "Repeat Expansion Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal dominant",
+      "delayed grip release",
+      "frontal balding",
+      "cataracts",
+      "toxic RNA foci",
+      "disrupted RNA splicing",
+      "CTG repeat 3'UTR",
+      "DMPK gene"
+    ]
+  }
+]

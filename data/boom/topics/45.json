@@ -1,0 +1,74 @@
+[
+  {
+    "id": "boom-45-1",
+    "title": "Karyotyping",
+    "course": "boom",
+    "brick_id": "45",
+    "brick_title": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+    "type": "lab",
+    "buzzwords": [
+      "visualizes chromosomes",
+      "low sensitivity",
+      "detects aneuploidy",
+      "arrested at metaphase",
+      "colchicine treatment",
+      "detects 5-10 Mb defects",
+      "G-banding pattern",
+      "Giemsa stain"
+    ]
+  },
+  {
+    "id": "boom-45-2",
+    "title": "FISH",
+    "course": "boom",
+    "brick_id": "45",
+    "brick_title": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+    "type": "lab",
+    "buzzwords": [
+      "targeted technique",
+      "needs known sequence",
+      "fluorescent probes",
+      "detects microdeletions",
+      "high specificity",
+      "two-probe with control",
+      "confirms 22q11 deletion",
+      "fluorescence in situ hybridization"
+    ]
+  },
+  {
+    "id": "boom-45-3",
+    "title": "Array CGH",
+    "course": "boom",
+    "brick_id": "45",
+    "brick_title": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+    "type": "lab",
+    "buzzwords": [
+      "high resolution",
+      "genome-wide",
+      "detects CNVs",
+      "test vs reference DNA",
+      "red-to-green ratio",
+      "misses balanced translocations",
+      "poor for mosaicism",
+      "comparative genomic hybridization"
+    ]
+  },
+  {
+    "id": "boom-45-4",
+    "title": "Southern Blot",
+    "course": "boom",
+    "brick_id": "45",
+    "brick_title": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+    "type": "lab",
+    "buzzwords": [
+      "detects DNA sequences",
+      "moderate sensitivity",
+      "requires lots of DNA",
+      "restriction enzyme digestion",
+      "labeled probe hybridization",
+      "sizes repeat expansions",
+      "GAA repeat sizing",
+      "Friedreich ataxia testing"
+    ]
+  }
+]

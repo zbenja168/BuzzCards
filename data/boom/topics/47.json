@@ -1,0 +1,128 @@
+[
+  {
+    "id": "boom-47-1",
+    "title": "Penetrance",
+    "course": "boom",
+    "brick_id": "47",
+    "brick_title": "Genotype-Phenotype Correlation",
+    "type": "physiology",
+    "buzzwords": [
+      "all-or-none",
+      "proportion affected",
+      "expresses expected phenotype",
+      "fraction with genotype",
+      "complete vs incomplete",
+      "incomplete is under 100%",
+      "BRCA1 carriers spared",
+      "fewer affected than predicted"
+    ]
+  },
+  {
+    "id": "boom-47-2",
+    "title": "Expressivity",
+    "course": "boom",
+    "brick_id": "47",
+    "brick_title": "Genotype-Phenotype Correlation",
+    "type": "physiology",
+    "buzzwords": [
+      "severity spectrum",
+      "degree of disease",
+      "same genotype differs",
+      "highest in autosomal dominant",
+      "café-au-lait of variable size",
+      "variable neurofibroma number",
+      "variable expressivity",
+      "neurofibromatosis 1 example"
+    ]
+  },
+  {
+    "id": "boom-47-3",
+    "title": "Codominance",
+    "course": "boom",
+    "brick_id": "47",
+    "brick_title": "Genotype-Phenotype Correlation",
+    "type": "physiology",
+    "buzzwords": [
+      "two alleles expressed",
+      "neither masks the other",
+      "both phenotypes appear",
+      "heterozygote shows both",
+      "A and B both made",
+      "AB blood type",
+      "ABO blood group",
+      "HbS and HbA together"
+    ]
+  },
+  {
+    "id": "boom-47-4",
+    "title": "Pleiotropy",
+    "course": "boom",
+    "brick_id": "47",
+    "brick_title": "Genotype-Phenotype Correlation",
+    "type": "physiology",
+    "buzzwords": [
+      "one gene, many effects",
+      "multiple organ systems",
+      "single variant",
+      "unrelated symptoms",
+      "constellation of findings",
+      "Marfan multisystem disease",
+      "elevated serum phenylalanine",
+      "PKU example"
+    ]
+  },
+  {
+    "id": "boom-47-5",
+    "title": "Allelic Heterogeneity",
+    "course": "boom",
+    "brick_id": "47",
+    "brick_title": "Genotype-Phenotype Correlation",
+    "type": "physiology",
+    "buzzwords": [
+      "same disease",
+      "different mutations",
+      "same locus",
+      "one gene affected",
+      "many variants, one gene",
+      "CFTR many mutations",
+      "cystic fibrosis example",
+      "alkaptonuria example"
+    ]
+  },
+  {
+    "id": "boom-47-6",
+    "title": "Locus Heterogeneity",
+    "course": "boom",
+    "brick_id": "47",
+    "brick_title": "Genotype-Phenotype Correlation",
+    "type": "physiology",
+    "buzzwords": [
+      "same disease",
+      "different loci",
+      "mutations in different genes",
+      "multiple causative genes",
+      "can cause false negative",
+      "retinitis pigmentosa example",
+      "three possible genes",
+      "Cornelia de Lange syndrome"
+    ]
+  },
+  {
+    "id": "boom-47-7",
+    "title": "Modifier Genes",
+    "course": "boom",
+    "brick_id": "47",
+    "brick_title": "Genotype-Phenotype Correlation",
+    "type": "physiology",
+    "buzzwords": [
+      "secondary gene",
+      "alters another gene's phenotype",
+      "tunes expression",
+      "affects dominance",
+      "affects penetrance",
+      "affects expressivity",
+      "not the primary mutation",
+      "modifies disease severity"
+    ]
+  }
+]

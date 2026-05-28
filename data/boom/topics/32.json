@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-32-1",
+    "title": "Protein Digestion",
+    "course": "boom",
+    "brick_id": "32",
+    "brick_title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "denatures dietary protein",
+      "hydrolyzes peptide bonds",
+      "acidic stomach starts it",
+      "three GI sites",
+      "pancreatic zymogens activated",
+      "brush-border aminopeptidases finish",
+      "frees single amino acids",
+      "pepsin, trypsin, chymotrypsin"
+    ]
+  },
+  {
+    "id": "boom-32-2",
+    "title": "Transaminase",
+    "course": "boom",
+    "brick_id": "32",
+    "brick_title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "swaps functional groups",
+      "moves amino to alpha-ketoacid",
+      "nitrogen onto new skeleton",
+      "avoids free ammonia release",
+      "needs vitamin B6 cofactor",
+      "PLP-dependent",
+      "liver biomarkers",
+      "ALT and AST"
+    ]
+  },
+  {
+    "id": "boom-32-3",
+    "title": "Glutamate Dehydrogenase",
+    "course": "boom",
+    "brick_id": "32",
+    "brick_title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "reversible reaction",
+      "fixes free ammonia",
+      "uses alpha-ketoglutarate",
+      "links TCA to nitrogen",
+      "forms glutamate",
+      "uses NAD(P)",
+      "releases ammonia for urea",
+      "GDH"
+    ]
+  },
+  {
+    "id": "boom-32-4",
+    "title": "Glutamine Synthetase",
+    "course": "boom",
+    "brick_id": "32",
+    "brick_title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "irreversible reaction",
+      "consumes ATP",
+      "adds ammonia to glutamate",
+      "safe nitrogen transport",
+      "loads nitrogen for transport",
+      "active in peripheral tissue",
+      "forms glutamine",
+      "glutamate plus ammonia"
+    ]
+  },
+  {
+    "id": "boom-32-5",
+    "title": "Glutaminase",
+    "course": "boom",
+    "brick_id": "32",
+    "brick_title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "uses water to cleave",
+      "liberates ammonia",
+      "glutamine to glutamate",
+      "liver makes urea ammonia",
+      "kidney for urine pH",
+      "resolves metabolic acidosis",
+      "unloads transported nitrogen",
+      "hydrolytic deamidation"
+    ]
+  },
+  {
+    "id": "boom-32-6",
+    "title": "Hepatic Encephalopathy",
+    "course": "boom",
+    "brick_id": "32",
+    "brick_title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "CNS-centric symptoms",
+      "from liver dysfunction",
+      "elevated ammonia",
+      "confusion and lethargy",
+      "cerebral edema",
+      "depletes alpha-ketoglutarate",
+      "neurotoxic glutamine accumulation",
+      "flapping tremor asterixis"
+    ]
+  }
+]

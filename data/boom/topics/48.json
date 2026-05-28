@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-48-1",
+    "title": "SNP Microarray",
+    "course": "boom",
+    "brick_id": "48",
+    "brick_title": "Molecular Biology Techniques (2 of 3), DNA analysis",
+    "type": "lab",
+    "buzzwords": [
+      "targeted approach",
+      "detects single base swaps",
+      "many variants per chip",
+      "cost-effective",
+      "high-frequency mutations",
+      "misses rare variants",
+      "loss of heterozygosity",
+      "SNP array"
+    ]
+  },
+  {
+    "id": "boom-48-2",
+    "title": "PCR",
+    "course": "boom",
+    "brick_id": "48",
+    "brick_title": "Molecular Biology Techniques (2 of 3), DNA analysis",
+    "type": "lab",
+    "buzzwords": [
+      "amplifies target region",
+      "forward and reverse primers",
+      "exponential 2 to the n",
+      "denaturation 95C",
+      "annealing 50 to 65C",
+      "elongation 72C",
+      "heat-stable polymerase",
+      "Taq polymerase"
+    ]
+  },
+  {
+    "id": "boom-48-3",
+    "title": "RFLP Digestion",
+    "course": "boom",
+    "brick_id": "48",
+    "brick_title": "Molecular Biology Techniques (2 of 3), DNA analysis",
+    "type": "lab",
+    "buzzwords": [
+      "cuts at recognition sites",
+      "genotypes known mutations",
+      "mutation alters cut site",
+      "fragment-length differences",
+      "sickle cell genotyping",
+      "uncut means mutant allele",
+      "restriction enzyme digestion",
+      "DdeI enzyme"
+    ]
+  },
+  {
+    "id": "boom-48-4",
+    "title": "Gel Electrophoresis",
+    "course": "boom",
+    "brick_id": "48",
+    "brick_title": "Molecular Biology Techniques (2 of 3), DNA analysis",
+    "type": "lab",
+    "buzzwords": [
+      "separates by size",
+      "charged molecules migrate",
+      "small fragments migrate faster",
+      "DNA ladder reference",
+      "agarose gel",
+      "band pattern readout",
+      "no exact sequence",
+      "polyacrylamide gel"
+    ]
+  },
+  {
+    "id": "boom-48-5",
+    "title": "Sanger Sequencing",
+    "course": "boom",
+    "brick_id": "48",
+    "brick_title": "Molecular Biology Techniques (2 of 3), DNA analysis",
+    "type": "lab",
+    "buzzwords": [
+      "reads base by base",
+      "detects point mutations",
+      "single-gene testing",
+      "chain-terminating ddNTPs",
+      "fluorochrome-labeled",
+      "lacks 3-prime hydroxyl",
+      "electropherogram peaks",
+      "developed by Frederick Sanger"
+    ]
+  },
+  {
+    "id": "boom-48-6",
+    "title": "Next-Generation Sequencing",
+    "course": "boom",
+    "brick_id": "48",
+    "brick_title": "Molecular Biology Techniques (2 of 3), DNA analysis",
+    "type": "lab",
+    "buzzwords": [
+      "high-throughput",
+      "massively parallel",
+      "DNA fragmentation first",
+      "targeted gene panels",
+      "whole exome sequencing",
+      "whole genome sequencing",
+      "deep coverage for mosaicism",
+      "NGS"
+    ]
+  }
+]

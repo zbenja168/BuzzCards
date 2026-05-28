@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-35-1",
+    "title": "Heme Biosynthesis",
+    "course": "boom",
+    "brick_id": "35",
+    "brick_title": "Porphyrins and Iron Homeostasis (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "ring system",
+      "needs vitamin B6",
+      "PLP-dependent first step",
+      "80% in bone marrow",
+      "glycine + succinyl-CoA",
+      "protoporphyrin IX",
+      "ferrochelatase adds iron",
+      "ALA synthase rate-limiting"
+    ]
+  },
+  {
+    "id": "boom-35-2",
+    "title": "ALA Synthase Regulation",
+    "course": "boom",
+    "brick_id": "35",
+    "brick_title": "Porphyrins and Iron Homeostasis (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "rate-limiting enzyme",
+      "heme negative feedback",
+      "induced by EPO",
+      "iron stimulates synthesis",
+      "tissue-specific isoforms",
+      "ALAS1 in liver",
+      "ALAS2 in erythroid cells",
+      "ALAS2 defect causes sideroblastic anemia"
+    ]
+  },
+  {
+    "id": "boom-35-3",
+    "title": "Lead Poisoning",
+    "course": "boom",
+    "brick_id": "35",
+    "brick_title": "Porphyrins and Iron Homeostasis (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "inhibits heme synthesis",
+      "peripheral neuropathy",
+      "microcytic anemia",
+      "ALA accumulation neurotoxic",
+      "inhibits two enzymes",
+      "blocks ALA dehydratase",
+      "blocks ferrochelatase",
+      "ringed sideroblasts"
+    ]
+  },
+  {
+    "id": "boom-35-4",
+    "title": "Heme Degradation",
+    "course": "boom",
+    "brick_id": "35",
+    "brick_title": "Porphyrins and Iron Homeostasis (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "occurs in macrophages",
+      "releases CO and iron",
+      "biliverdin intermediate",
+      "conjugated in liver",
+      "albumin-bound transport",
+      "UDPGT conjugation",
+      "indirect is unconjugated",
+      "heme oxygenase"
+    ]
+  },
+  {
+    "id": "boom-35-5",
+    "title": "Neonatal Jaundice",
+    "course": "boom",
+    "brick_id": "35",
+    "brick_title": "Porphyrins and Iron Homeostasis (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "physiologic in newborns",
+      "immature liver enzymes",
+      "unconjugated bilirubin rises",
+      "crosses blood-brain barrier",
+      "treated with phototherapy",
+      "light isomerizes bilirubin",
+      "bili-lights",
+      "kernicterus"
+    ]
+  },
+  {
+    "id": "boom-35-6",
+    "title": "Hereditary Hyperbilirubinemias",
+    "course": "boom",
+    "brick_id": "35",
+    "brick_title": "Porphyrins and Iron Homeostasis (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "Gilbert is common and benign",
+      "fasting raises bilirubin",
+      "reduced UDPGT activity",
+      "Crigler-Najjar absent UDPGT",
+      "phenobarbital for type 2",
+      "Dubin-Johnson black liver",
+      "Rotor SLCO1B1 mutation"
+    ]
+  }
+]

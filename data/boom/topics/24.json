@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-24-1",
+    "title": "Arachidonic Acid",
+    "course": "boom",
+    "brick_id": "24",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "20-carbon fatty acid",
+      "polyunsaturated",
+      "omega-6",
+      "eicosanoid precursor",
+      "from membrane phospholipids",
+      "feeds COX and LOX",
+      "synthesized from linoleic acid",
+      "arachidonic acid"
+    ]
+  },
+  {
+    "id": "boom-24-2",
+    "title": "Phospholipase A2",
+    "course": "boom",
+    "brick_id": "24",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "membrane-acting enzyme",
+      "releases arachidonic acid",
+      "calcium-dependent",
+      "upstream of eicosanoids",
+      "rate-limiting step",
+      "inhibited by steroids",
+      "blocks both COX and LOX",
+      "PLA2"
+    ]
+  },
+  {
+    "id": "boom-24-3",
+    "title": "Cyclooxygenase",
+    "course": "boom",
+    "brick_id": "24",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "metabolizes arachidonic acid",
+      "makes prostaglandins",
+      "makes thromboxanes",
+      "produces prostaglandin H2",
+      "constitutive isoform COX-1",
+      "inducible isoform COX-2",
+      "blocked by NSAIDs",
+      "cyclooxygenase"
+    ]
+  },
+  {
+    "id": "boom-24-4",
+    "title": "Lipoxygenase",
+    "course": "boom",
+    "brick_id": "24",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "metabolizes arachidonic acid",
+      "makes leukotrienes",
+      "mediates allergic response",
+      "drives neutrophil chemotaxis",
+      "not blocked by NSAIDs",
+      "dampened by steroids",
+      "slow-reacting substance anaphylaxis",
+      "lipoxygenase"
+    ]
+  },
+  {
+    "id": "boom-24-5",
+    "title": "Corticosteroids",
+    "course": "boom",
+    "brick_id": "24",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+    "type": "drug",
+    "buzzwords": [
+      "anti-inflammatory agents",
+      "made in adrenal cortex",
+      "inhibit phospholipase A2",
+      "reduce arachidonic acid",
+      "block COX and LOX",
+      "dampen entire cascade",
+      "prednisone and dexamethasone",
+      "glucocorticoids"
+    ]
+  },
+  {
+    "id": "boom-24-6",
+    "title": "Aspirin",
+    "course": "boom",
+    "brick_id": "24",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+    "type": "drug",
+    "buzzwords": [
+      "an NSAID",
+      "inhibits COX enzymes",
+      "irreversible inhibition",
+      "acetylates active-site serine",
+      "antithrombotic prophylaxis",
+      "blocks platelet TXA2",
+      "lasts platelet lifespan",
+      "aspirin"
+    ]
+  }
+]

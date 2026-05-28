@@ -1,0 +1,92 @@
+[
+  {
+    "id": "boom-19-1",
+    "title": "Glycogen",
+    "course": "boom",
+    "brick_id": "19",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "glucose storage polymer",
+      "highly branched",
+      "liver and muscle",
+      "one reducing end",
+      "many non-reducing ends",
+      "linear alpha-1,4 bonds",
+      "branch alpha-1,6 bonds",
+      "branch every ~12 residues"
+    ]
+  },
+  {
+    "id": "boom-19-2",
+    "title": "Lactose Intolerance",
+    "course": "boom",
+    "brick_id": "19",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "bloating and flatulence",
+      "watery diarrhea",
+      "osmotically active gut",
+      "bacterial fermentation",
+      "hydrogen breath test",
+      "declines after age 5",
+      "adult hypolactasia",
+      "lactase deficiency"
+    ]
+  },
+  {
+    "id": "boom-19-3",
+    "title": "Galactose Metabolism",
+    "course": "boom",
+    "brick_id": "19",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "from dietary lactose",
+      "metabolized in liver",
+      "galactose to galactose-1-P",
+      "uses UDP-glucose",
+      "yields glucose-1-phosphate",
+      "galactokinase first step",
+      "GALT then GALE",
+      "epimerase makes UDP-glucose"
+    ]
+  },
+  {
+    "id": "boom-19-4",
+    "title": "Classical Galactosemia",
+    "course": "boom",
+    "brick_id": "19",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "failure to thrive",
+      "vomiting and jaundice",
+      "hepatomegaly",
+      "E. coli sepsis risk",
+      "galactose-1-P accumulation",
+      "ATP and phosphate trapping",
+      "GALT deficiency"
+    ]
+  },
+  {
+    "id": "boom-19-5",
+    "title": "Galactokinase Deficiency",
+    "course": "boom",
+    "brick_id": "19",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "milder galactosemia",
+      "type II galactosemia",
+      "no liver damage",
+      "no hypoglycemia",
+      "galactose to galactitol",
+      "aldose reductase pathway",
+      "infantile cataracts",
+      "galactokinase deficiency"
+    ]
+  }
+]

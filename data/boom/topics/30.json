@@ -1,0 +1,74 @@
+[
+  {
+    "id": "boom-30-1",
+    "title": "Vitamin A",
+    "course": "boom",
+    "brick_id": "30",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (2 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "fat-soluble vitamin",
+      "vision pigment",
+      "cell differentiation",
+      "active form regulates genes",
+      "deficiency causes night blindness",
+      "excess keratinization, dry skin",
+      "xerophthalmia in deficiency",
+      "retinol, retinoic acid"
+    ]
+  },
+  {
+    "id": "boom-30-2",
+    "title": "Vitamin D",
+    "course": "boom",
+    "brick_id": "30",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (2 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "fat-soluble vitamin",
+      "calcium-phosphate homeostasis",
+      "UV light synthesizes it",
+      "from 7-dehydrocholesterol",
+      "two hydroxylations to activate",
+      "deficiency causes rickets",
+      "renal 1-alpha-hydroxylase",
+      "calcitriol, cholecalciferol"
+    ]
+  },
+  {
+    "id": "boom-30-3",
+    "title": "Vitamin E",
+    "course": "boom",
+    "brick_id": "30",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (2 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "fat-soluble vitamin",
+      "lipid-membrane antioxidant",
+      "prevents lipid peroxidation",
+      "protects PUFAs",
+      "deficiency rare",
+      "newborn hemolytic anemia",
+      "neuromuscular deficits in deficiency",
+      "tocopherol"
+    ]
+  },
+  {
+    "id": "boom-30-4",
+    "title": "Vitamin K",
+    "course": "boom",
+    "brick_id": "30",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (2 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "fat-soluble vitamin",
+      "made by gut flora",
+      "clotting factor synthesis",
+      "carboxylase cofactor",
+      "deficiency prolongs PT",
+      "newborn hemorrhage risk",
+      "gamma-carboxyglutamate (Gla)",
+      "warfarin blocks epoxide reductase"
+    ]
+  }
+]

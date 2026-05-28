@@ -1,0 +1,74 @@
+[
+  {
+    "id": "boom-43-1",
+    "title": "Subchromosomal variants",
+    "course": "boom",
+    "brick_id": "43",
+    "brick_title": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+    "type": "physiology",
+    "buzzwords": [
+      "only part of chromosome affected",
+      "insertion, deletion, duplication",
+      "inversion or translocation",
+      "loss of hundreds of kilobases",
+      "recurrent vs nonrecurrent",
+      "recurrent from unequal crossover",
+      "nonrecurrent from error-prone NHEJ",
+      "nonallelic homologous recombination"
+    ]
+  },
+  {
+    "id": "boom-43-2",
+    "title": "22q11.2 deletion",
+    "course": "boom",
+    "brick_id": "43",
+    "brick_title": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent ~3Mb microdeletion",
+      "1 in 3400 live births",
+      "craniofacial anomalies",
+      "conotruncal cardiac defects",
+      "T-cell immunodeficiency",
+      "hypocalcemia",
+      "thymic and parathyroid aplasia",
+      "DiGeorge syndrome"
+    ]
+  },
+  {
+    "id": "boom-43-3",
+    "title": "Williams syndrome",
+    "course": "boom",
+    "brick_id": "43",
+    "brick_title": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "7q11.23 microdeletion",
+      "25-27 genes affected",
+      "recurrent structural variant",
+      "intellectual disability",
+      "broad forehead",
+      "overfriendly personality",
+      "elfin facial features",
+      "supravalvular aortic stenosis"
+    ]
+  },
+  {
+    "id": "boom-43-4",
+    "title": "Cri du chat",
+    "course": "boom",
+    "brick_id": "43",
+    "brick_title": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "short arm chromosome 5 deletion",
+      "5p- karyotype",
+      "nonrecurrent, mostly sporadic",
+      "variable breakpoints",
+      "microcephaly",
+      "intellectual disability",
+      "ventricular septal defect",
+      "high-pitched catlike cry"
+    ]
+  }
+]

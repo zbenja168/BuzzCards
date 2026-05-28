@@ -1,0 +1,128 @@
+[
+  {
+    "id": "boom-5-1",
+    "title": "Red Blood Cell",
+    "course": "boom",
+    "brick_id": "5",
+    "brick_title": "BOOM: Metabolic Overview III: O2 Delivery (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "carries oxygen",
+      "deformable",
+      "extra membrane",
+      "no organelles",
+      "no mitochondria",
+      "relies on glycolysis",
+      "central pallor",
+      "biconcave disc"
+    ]
+  },
+  {
+    "id": "boom-5-2",
+    "title": "CBC Indices",
+    "course": "boom",
+    "brick_id": "5",
+    "brick_title": "BOOM: Metabolic Overview III: O2 Delivery (1 of 2)",
+    "type": "lab",
+    "buzzwords": [
+      "blood count",
+      "RBC count",
+      "hemoglobin concentration",
+      "low values define anemia",
+      "MCV sizes the cell",
+      "microcytic vs macrocytic",
+      "hematocrit",
+      "MCV"
+    ]
+  },
+  {
+    "id": "boom-5-3",
+    "title": "Adult Hemoglobin",
+    "course": "boom",
+    "brick_id": "5",
+    "brick_title": "BOOM: Metabolic Overview III: O2 Delivery (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "carries blood oxygen",
+      "tetramer",
+      "cooperative binding",
+      "sigmoidal curve",
+      "lowest affinity",
+      "two alpha two beta",
+      "P50 of 26",
+      "HbA"
+    ]
+  },
+  {
+    "id": "boom-5-4",
+    "title": "Myoglobin",
+    "course": "boom",
+    "brick_id": "5",
+    "brick_title": "BOOM: Metabolic Overview III: O2 Delivery (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "stores oxygen",
+      "found in muscle",
+      "single subunit monomer",
+      "no cooperativity",
+      "hyperbolic curve",
+      "highest affinity",
+      "P50 of 2.8",
+      "Mb"
+    ]
+  },
+  {
+    "id": "boom-5-5",
+    "title": "Fetal Hemoglobin",
+    "course": "boom",
+    "brick_id": "5",
+    "brick_title": "BOOM: Metabolic Overview III: O2 Delivery (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "tetramer",
+      "cooperative binding",
+      "pulls oxygen from mother",
+      "higher affinity than adult",
+      "left-shifted curve",
+      "two alpha two gamma",
+      "resists 2,3-BPG",
+      "HbF"
+    ]
+  },
+  {
+    "id": "boom-5-6",
+    "title": "2,3-BPG",
+    "course": "boom",
+    "brick_id": "5",
+    "brick_title": "BOOM: Metabolic Overview III: O2 Delivery (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "from glycolysis",
+      "decreases Hb affinity",
+      "promotes oxygen unloading",
+      "rises in hypoxia",
+      "rises at altitude",
+      "right-shifts the curve",
+      "binds deoxyhemoglobin",
+      "2,3-bisphosphoglycerate"
+    ]
+  },
+  {
+    "id": "boom-5-7",
+    "title": "Carbon Monoxide",
+    "course": "boom",
+    "brick_id": "5",
+    "brick_title": "BOOM: Metabolic Overview III: O2 Delivery (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "colorless odorless gas",
+      "binds heme iron",
+      "outcompetes oxygen",
+      "left-shifts the curve",
+      "blocks oxygen unloading",
+      "tissue hypoxia",
+      "carboxyhemoglobin",
+      "200x oxygen affinity"
+    ]
+  }
+]

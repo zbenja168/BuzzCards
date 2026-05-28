@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-58-1",
+    "title": "siRNA",
+    "course": "boom",
+    "brick_id": "58",
+    "brick_title": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+    "type": "physiology",
+    "buzzwords": [
+      "RNA interference",
+      "reduces gene expression",
+      "transient silencing",
+      "double-stranded",
+      "~21-23 nucleotides",
+      "guide strand loads RISC",
+      "exogenous synthetic",
+      "targets mutant HTT"
+    ]
+  },
+  {
+    "id": "boom-58-2",
+    "title": "shRNA",
+    "course": "boom",
+    "brick_id": "58",
+    "brick_title": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+    "type": "physiology",
+    "buzzwords": [
+      "RNA interference",
+      "single RNA strand",
+      "long-term silencing",
+      "stably expressed",
+      "encoded in vector",
+      "processed into siRNA",
+      "folds on itself",
+      "hairpin loop"
+    ]
+  },
+  {
+    "id": "boom-58-3",
+    "title": "miRNA",
+    "course": "boom",
+    "brick_id": "58",
+    "brick_title": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+    "type": "physiology",
+    "buzzwords": [
+      "RNA interference",
+      "single strand",
+      "endogenously encoded",
+      "~22 nucleotides",
+      "natural gene regulator",
+      "transcribed as pri-miRNA",
+      "processed to pre-miRNA",
+      "microRNA"
+    ]
+  },
+  {
+    "id": "boom-58-4",
+    "title": "Chemical Mutagenesis",
+    "course": "boom",
+    "brick_id": "58",
+    "brick_title": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+    "type": "physiology",
+    "buzzwords": [
+      "forward genetics",
+      "unbiased approach",
+      "random mutations",
+      "not for therapeutics",
+      "phenotypic screening",
+      "widely used in worms",
+      "hits coding and noncoding",
+      "single nucleotide changes"
+    ]
+  },
+  {
+    "id": "boom-58-5",
+    "title": "Homologous Recombination",
+    "course": "boom",
+    "brick_id": "58",
+    "brick_title": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+    "type": "physiology",
+    "buzzwords": [
+      "reverse genetics",
+      "targeted knockout",
+      "exchanges similar sequences",
+      "cassette flanked by homology arms",
+      "neomycin resistance selection",
+      "electroporated into ESCs",
+      "injected into blastocysts",
+      "chimeric mice"
+    ]
+  },
+  {
+    "id": "boom-58-6",
+    "title": "CRISPR-Cas9",
+    "course": "boom",
+    "brick_id": "58",
+    "brick_title": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+    "type": "physiology",
+    "buzzwords": [
+      "molecular scissors",
+      "bacterial adaptive immunity",
+      "guide RNA directs cut",
+      "20-nucleotide spacer",
+      "requires PAM site",
+      "double-strand break",
+      "NHEJ indels cause knockout",
+      "Doudna and Charpentier"
+    ]
+  }
+]

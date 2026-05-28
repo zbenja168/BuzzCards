@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-20-1",
+    "title": "Hexokinase vs Glucokinase",
+    "course": "boom",
+    "brick_id": "20",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "glycolysis step 1",
+      "traps glucose as G6P",
+      "most tissues vs liver",
+      "high affinity, low capacity",
+      "low affinity, high capacity",
+      "inhibited by glucose-6-phosphate",
+      "liver isoform uninhibited",
+      "hexokinase and glucokinase"
+    ]
+  },
+  {
+    "id": "boom-20-2",
+    "title": "Phosphofructokinase-1",
+    "course": "boom",
+    "brick_id": "20",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "glycolysis step 3",
+      "rate-limiting step",
+      "committed step",
+      "activated by AMP",
+      "inhibited by ATP and citrate",
+      "activated by fructose-2,6-bisphosphate",
+      "PFK-2 makes its activator",
+      "phosphofructokinase-1"
+    ]
+  },
+  {
+    "id": "boom-20-3",
+    "title": "Pyruvate Kinase",
+    "course": "boom",
+    "brick_id": "20",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "glycolysis step 10",
+      "final irreversible step",
+      "makes pyruvate and ATP",
+      "activated by fructose-1,6-bisphosphate",
+      "feed-forward activation",
+      "glucagon-cAMP-PKA inhibits it",
+      "phosphorylation turns it off",
+      "pyruvate kinase"
+    ]
+  },
+  {
+    "id": "boom-20-4",
+    "title": "NADH Shuttles",
+    "course": "boom",
+    "brick_id": "20",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "cytosolic NADH cannot cross",
+      "move reducing equivalents inward",
+      "feed the electron transport chain",
+      "glycerol-3-phosphate type",
+      "delivers electrons as FADH2",
+      "malate type yields NADH",
+      "uses aspartate aminotransferase",
+      "malate-aspartate shuttle"
+    ]
+  },
+  {
+    "id": "boom-20-5",
+    "title": "Pyruvate Dehydrogenase",
+    "course": "boom",
+    "brick_id": "20",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "links glycolysis to TCA",
+      "oxidative decarboxylation",
+      "pyruvate to acetyl-CoA",
+      "releases CO2 and NADH",
+      "five cofactors required",
+      "inhibited by phosphorylation",
+      "needs thiamine and lipoate",
+      "pyruvate dehydrogenase complex"
+    ]
+  },
+  {
+    "id": "boom-20-6",
+    "title": "Thiamine Deficiency",
+    "course": "boom",
+    "brick_id": "20",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "vitamin B1 deficiency",
+      "alcoholism or polished-rice diet",
+      "impaired oxidative decarboxylation",
+      "lactic acidosis from blocked PDH",
+      "high anion gap acidosis",
+      "wet beriberi cardiac failure",
+      "dry beriberi peripheral neuropathy",
+      "Wernicke-Korsakoff syndrome"
+    ]
+  }
+]

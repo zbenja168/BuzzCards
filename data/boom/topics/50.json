@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-50-1",
+    "title": "Mitochondria",
+    "course": "boom",
+    "brick_id": "50",
+    "brick_title": "Mitochondrial Diseases",
+    "type": "physiology",
+    "buzzwords": [
+      "double-membraned organelle",
+      "endosymbiont origin",
+      "primary site of ATP",
+      "divides by binary fission",
+      "houses beta-oxidation",
+      "site of TCA cycle",
+      "carries out OXPHOS",
+      "electron transport chain"
+    ]
+  },
+  {
+    "id": "boom-50-2",
+    "title": "Mitochondrial DNA",
+    "course": "boom",
+    "brick_id": "50",
+    "brick_title": "Mitochondrial Diseases",
+    "type": "physiology",
+    "buzzwords": [
+      "own circular genome",
+      "lacks histones",
+      "high mutation rate",
+      "vulnerable to ROS",
+      "multiple copies per organelle",
+      "16.6 kb, 37 genes",
+      "encodes 13 OXPHOS subunits",
+      "22 tRNAs, 2 rRNAs"
+    ]
+  },
+  {
+    "id": "boom-50-3",
+    "title": "Mitochondrial Inheritance",
+    "course": "boom",
+    "brick_id": "50",
+    "brick_title": "Mitochondrial Diseases",
+    "type": "physiology",
+    "buzzwords": [
+      "affects high-energy tissues",
+      "transmitted only through mother",
+      "affects males and females",
+      "no paternal transmission",
+      "heteroplasmy",
+      "homoplasmy",
+      "threshold effect",
+      "maternal inheritance"
+    ]
+  },
+  {
+    "id": "boom-50-4",
+    "title": "MELAS",
+    "course": "boom",
+    "brick_id": "50",
+    "brick_title": "Mitochondrial Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "high-energy tissue disease",
+      "muscle weakness",
+      "recurrent vomiting",
+      "lactic acidosis",
+      "stroke-like episodes",
+      "encephalomyopathy",
+      "ragged red fibers",
+      "mitochondrial tRNA mutation"
+    ]
+  },
+  {
+    "id": "boom-50-5",
+    "title": "MERRF",
+    "course": "boom",
+    "brick_id": "50",
+    "brick_title": "Mitochondrial Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "myopathy",
+      "hearing loss",
+      "ataxia",
+      "dementia",
+      "myoclonus",
+      "myoclonic epilepsy",
+      "ragged red fibers",
+      "MT-TK A8344G mutation"
+    ]
+  },
+  {
+    "id": "boom-50-6",
+    "title": "LHON",
+    "course": "boom",
+    "brick_id": "50",
+    "brick_title": "Mitochondrial Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "high-energy tissue disease",
+      "young adult onset",
+      "painless vision loss",
+      "bilateral central scotoma",
+      "retinal ganglion cell death",
+      "optic nerve atrophy",
+      "mostly affects males",
+      "Leber hereditary optic neuropathy"
+    ]
+  }
+]

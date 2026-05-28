@@ -1,0 +1,182 @@
+[
+  {
+    "id": "boom-34-1",
+    "title": "Phenylketonuria",
+    "course": "boom",
+    "brick_id": "34",
+    "brick_title": "Amino Acid Metabolism II: Inborn Errors of Amino Acid Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "musty mousy odor",
+      "phenylalanine accumulates",
+      "tyrosine becomes essential",
+      "low phenylalanine diet",
+      "fair skin, eczema",
+      "BH4 cofactor defect",
+      "phenylacetate in urine",
+      "phenylalanine hydroxylase deficiency"
+    ]
+  },
+  {
+    "id": "boom-34-2",
+    "title": "Albinism",
+    "course": "boom",
+    "brick_id": "34",
+    "brick_title": "Amino Acid Metabolism II: Inborn Errors of Amino Acid Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "absent skin pigment",
+      "white hair, pale skin",
+      "photophobia, nystagmus",
+      "high skin cancer risk",
+      "blocked melanin synthesis",
+      "ocular form X-linked",
+      "OCA autosomal recessive",
+      "tyrosinase deficiency"
+    ]
+  },
+  {
+    "id": "boom-34-3",
+    "title": "Alkaptonuria",
+    "course": "boom",
+    "brick_id": "34",
+    "brick_title": "Amino Acid Metabolism II: Inborn Errors of Amino Acid Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "urine darkens on air",
+      "benign until later life",
+      "early-onset arthritis",
+      "bluish-black connective tissue",
+      "homogentisic acid accumulates",
+      "ochronosis of sclera",
+      "black earwax",
+      "homogentisate oxidase deficiency"
+    ]
+  },
+  {
+    "id": "boom-34-4",
+    "title": "Homocystinuria",
+    "course": "boom",
+    "brick_id": "34",
+    "brick_title": "Amino Acid Metabolism II: Inborn Errors of Amino Acid Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "elevated homocysteine",
+      "marfanoid tall, long limbs",
+      "lens dislocation",
+      "thrombosis, coagulopathy",
+      "cysteine becomes essential",
+      "vitamin B6 responsive",
+      "methionine synthase defect",
+      "cystathionine beta-synthase deficiency"
+    ]
+  },
+  {
+    "id": "boom-34-5",
+    "title": "Maple Syrup Urine Disease",
+    "course": "boom",
+    "brick_id": "34",
+    "brick_title": "Amino Acid Metabolism II: Inborn Errors of Amino Acid Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "sweet burnt-sugar urine",
+      "neonatal neurotoxicity",
+      "low muscle tone",
+      "elevated branched-chain amino acids",
+      "toxic alpha-ketoacids accumulate",
+      "TPP-dependent enzyme",
+      "valine, leucine, isoleucine",
+      "alpha-ketoacid dehydrogenase deficiency"
+    ]
+  },
+  {
+    "id": "boom-34-6",
+    "title": "Isovaleric Acidemia",
+    "course": "boom",
+    "brick_id": "34",
+    "brick_title": "Amino Acid Metabolism II: Inborn Errors of Amino Acid Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "sweaty feet odor",
+      "organic acidemia",
+      "metabolic acidosis",
+      "leucine catabolism block",
+      "FAD-dependent enzyme",
+      "isovaleryl-CoA accumulates",
+      "isovaleric acid excess",
+      "isovaleryl-CoA dehydrogenase deficiency"
+    ]
+  },
+  {
+    "id": "boom-34-7",
+    "title": "Propionic Acidemia",
+    "course": "boom",
+    "brick_id": "34",
+    "brick_title": "Amino Acid Metabolism II: Inborn Errors of Amino Acid Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "organic acidemia",
+      "metabolic decompensation",
+      "carnitine supplementation",
+      "biotin-dependent enzyme",
+      "propionyl-CoA accumulates",
+      "methionine, threonine, isoleucine, valine",
+      "odd-chain fatty acid source",
+      "propionyl-CoA carboxylase deficiency"
+    ]
+  },
+  {
+    "id": "boom-34-8",
+    "title": "Methylmalonic Acidemia",
+    "course": "boom",
+    "brick_id": "34",
+    "brick_title": "Amino Acid Metabolism II: Inborn Errors of Amino Acid Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "organic acidemia",
+      "metabolic decompensation",
+      "B12 deficiency mimic",
+      "vitamin B12-dependent",
+      "methylmalonic acid accumulates",
+      "blocks succinyl-CoA entry",
+      "adenosyl-cobalamin cofactor",
+      "methylmalonyl-CoA mutase deficiency"
+    ]
+  },
+  {
+    "id": "boom-34-9",
+    "title": "Cystinuria",
+    "course": "boom",
+    "brick_id": "34",
+    "brick_title": "Amino Acid Metabolism II: Inborn Errors of Amino Acid Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent kidney stones",
+      "rotten egg sulfur smell",
+      "defective amino acid transporter",
+      "impaired renal reabsorption",
+      "alkalinize urine to treat",
+      "cystine, ornithine, lysine, arginine",
+      "hexagonal crystals",
+      "SLC3A1 or SLC7A9 mutation"
+    ]
+  },
+  {
+    "id": "boom-34-10",
+    "title": "Hartnup Disease",
+    "course": "boom",
+    "brick_id": "34",
+    "brick_title": "Amino Acid Metabolism II: Inborn Errors of Amino Acid Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "often asymptomatic",
+      "pellagra-like rash",
+      "defective neutral amino acid transport",
+      "tryptophan malabsorption",
+      "low niacin production",
+      "triggered by stressors",
+      "nicotinamide supplementation",
+      "SLC6A19 transporter defect"
+    ]
+  }
+]

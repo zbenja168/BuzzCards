@@ -1,0 +1,128 @@
+[
+  {
+    "id": "boom-23-1",
+    "title": "Cholesterol Synthesis",
+    "course": "boom",
+    "brick_id": "23",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (2 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "anabolic reductive pathway",
+      "occurs in cytoplasm",
+      "consumes NADPH",
+      "starts from acetyl-CoA",
+      "HMG-CoA intermediate",
+      "mevalonate then squalene",
+      "precursor to steroid hormones",
+      "squalene is 30 carbons"
+    ]
+  },
+  {
+    "id": "boom-23-2",
+    "title": "HMG-CoA Reductase",
+    "course": "boom",
+    "brick_id": "23",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (2 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "rate-limiting step",
+      "uses NADPH",
+      "activity peaks at night",
+      "insulin upregulates it",
+      "thyroid hormone upregulates",
+      "makes mevalonate",
+      "target of statins",
+      "HMG-CoA to mevalonate"
+    ]
+  },
+  {
+    "id": "boom-23-3",
+    "title": "Statins",
+    "course": "boom",
+    "brick_id": "23",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (2 of 3)",
+    "type": "drug",
+    "buzzwords": [
+      "treat hypercholesterolemia",
+      "competitive enzyme inhibitor",
+      "lowers hepatic synthesis",
+      "upregulates LDL receptors",
+      "lowers plasma LDL",
+      "can raise ALT and AST",
+      "myalgia side effect",
+      "inhibit HMG-CoA reductase"
+    ]
+  },
+  {
+    "id": "boom-23-4",
+    "title": "Xanthoma",
+    "course": "boom",
+    "brick_id": "23",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (2 of 3)",
+    "type": "disease",
+    "buzzwords": [
+      "chronic high cholesterol",
+      "yellow nodular lesions",
+      "lipid-laden foam cells",
+      "tendons and skin",
+      "Achilles tendon deposits",
+      "eyelid plaques are xanthelasma",
+      "ring around cornea is arcus",
+      "young arcus suggests dyslipidemia"
+    ]
+  },
+  {
+    "id": "boom-23-5",
+    "title": "Ketogenesis",
+    "course": "boom",
+    "brick_id": "23",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (2 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "occurs during fasting",
+      "in liver mitochondria",
+      "from excess acetyl-CoA",
+      "high glucagon:insulin",
+      "depleted oxaloacetate",
+      "acetone gives fruity breath",
+      "HMG-CoA synthase committed step",
+      "HMG-CoA lyase makes acetoacetate"
+    ]
+  },
+  {
+    "id": "boom-23-6",
+    "title": "Ketolysis",
+    "course": "boom",
+    "brick_id": "23",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (2 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "fuels peripheral tissues",
+      "brain during starvation",
+      "regenerates acetyl-CoA",
+      "absent in liver",
+      "prevents futile cycle",
+      "feeds the TCA cycle",
+      "uses succinyl-CoA",
+      "needs beta-ketoacyl-CoA transferase"
+    ]
+  },
+  {
+    "id": "boom-23-7",
+    "title": "Diabetic Ketoacidosis",
+    "course": "boom",
+    "brick_id": "23",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (2 of 3)",
+    "type": "disease",
+    "buzzwords": [
+      "absolute insulin deficiency",
+      "type 1 diabetes",
+      "hyperglycemia present",
+      "anion gap acidosis",
+      "Kussmaul breathing compensates",
+      "nausea and vomiting",
+      "fruity acetone breath",
+      "unrestrained lipolysis and ketogenesis"
+    ]
+  }
+]

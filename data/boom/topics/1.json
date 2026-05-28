@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-1-1",
+    "title": "Catabolism vs Anabolism",
+    "course": "boom",
+    "brick_id": "1",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "two opposing processes",
+      "energy released or spent",
+      "breakdown vs buildup",
+      "anabolism costs ATP",
+      "protein synthesis is anabolic",
+      "catabolism releases ATP",
+      "perspective-dependent",
+      "tyrosine from phenylalanine"
+    ]
+  },
+  {
+    "id": "boom-1-2",
+    "title": "Oxidation and Reduction",
+    "course": "boom",
+    "brick_id": "1",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "paired reactions",
+      "electron shuttling",
+      "one up, one down",
+      "loses bonds to hydrogen",
+      "gains bonds to oxygen",
+      "needs B-vitamin coenzyme",
+      "oxidoreductase enzymes",
+      "NAD+, FAD, NADP+"
+    ]
+  },
+  {
+    "id": "boom-1-3",
+    "title": "Vitamin A Oxidation",
+    "course": "boom",
+    "brick_id": "1",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "stepwise oxidation cascade",
+      "retinol largely inert",
+      "intermediate enables vision",
+      "endpoint drives immunity",
+      "uses ADH then ALDH",
+      "retinol to retinaldehyde",
+      "retinaldehyde to retinoic acid",
+      "active form is retinoic acid"
+    ]
+  },
+  {
+    "id": "boom-1-4",
+    "title": "Oxygen and the ETC",
+    "course": "boom",
+    "brick_id": "1",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "biological combustion",
+      "burns carbon for energy",
+      "yields CO2 and water",
+      "drives a proton gradient",
+      "powers ATP synthase",
+      "anemia limits this fuel",
+      "terminal electron acceptor",
+      "reduced to water"
+    ]
+  },
+  {
+    "id": "boom-1-5",
+    "title": "Hyperbaric Oxygen Therapy",
+    "course": "boom",
+    "brick_id": "1",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "supraphysiologic dosing",
+      "boosts wound healing",
+      "100% inspired oxygen",
+      "pressurized chamber",
+      "fixes diabetic foot hypoxia",
+      "treats flesh-eating disease",
+      "reverses decompression sickness",
+      "treats carbon monoxide poisoning"
+    ]
+  },
+  {
+    "id": "boom-1-6",
+    "title": "Fed vs Fasting States",
+    "course": "boom",
+    "brick_id": "1",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "fuel shifts with eating",
+      "hormonally controlled",
+      "insulin drives anabolism",
+      "glucagon drives catabolism",
+      "fed state stores glycogen",
+      "fasting taps glycogenolysis",
+      "starvation burns fat",
+      "starvation runs gluconeogenesis"
+    ]
+  }
+]

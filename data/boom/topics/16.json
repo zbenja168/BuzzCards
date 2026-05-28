@@ -1,0 +1,164 @@
+[
+  {
+    "id": "boom-16-1",
+    "title": "Hexokinase",
+    "course": "boom",
+    "brick_id": "16",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "phosphorylates glucose",
+      "first step of glycolysis",
+      "makes glucose-6-phosphate",
+      "high glucose affinity",
+      "works at low blood glucose",
+      "expressed in neurons and RBCs",
+      "inhibited by glucose-6-phosphate",
+      "low Km"
+    ]
+  },
+  {
+    "id": "boom-16-2",
+    "title": "Glucokinase",
+    "course": "boom",
+    "brick_id": "16",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "phosphorylates glucose",
+      "low glucose affinity",
+      "acts only when glucose abundant",
+      "expressed in liver and pancreas",
+      "not inhibited by product",
+      "high Km",
+      "high Vmax",
+      "glucose-sensing enzyme"
+    ]
+  },
+  {
+    "id": "boom-16-3",
+    "title": "GLUT Transporters",
+    "course": "boom",
+    "brick_id": "16",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "move glucose across membrane",
+      "non-enzyme protein with Km",
+      "affinity matches tissue function",
+      "complements kinase kinetics",
+      "low Km in neurons and RBCs",
+      "high Km in liver and pancreas",
+      "facilitated glucose uptake",
+      "GLUTs"
+    ]
+  },
+  {
+    "id": "boom-16-4",
+    "title": "Competitive Inhibitors",
+    "course": "boom",
+    "brick_id": "16",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "reversible inhibitor",
+      "binds the active site",
+      "resembles the substrate",
+      "overcome by more substrate",
+      "Vmax unchanged",
+      "apparent Km increases",
+      "diluted away easily",
+      "less negative x-intercept"
+    ]
+  },
+  {
+    "id": "boom-16-5",
+    "title": "Noncompetitive Inhibitors",
+    "course": "boom",
+    "brick_id": "16",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "reversible inhibitor",
+      "binds an allosteric site",
+      "not at the active site",
+      "not overcome by substrate",
+      "Km unchanged",
+      "Vmax decreased",
+      "changes enzyme shape",
+      "binds enzyme-substrate complex"
+    ]
+  },
+  {
+    "id": "boom-16-6",
+    "title": "Suicide Inhibitors",
+    "course": "boom",
+    "brick_id": "16",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "irreversible inhibitor",
+      "binds covalently",
+      "not removed by dilution",
+      "binds the active site",
+      "nerve agent sarin",
+      "organophosphate poisoning",
+      "aspirin",
+      "allopurinol"
+    ]
+  },
+  {
+    "id": "boom-16-7",
+    "title": "Phase I Enzymes",
+    "course": "boom",
+    "brick_id": "16",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "hepatic xenobiotic metabolism",
+      "oxidation reduction hydrolysis",
+      "exposes reactive groups",
+      "heme prosthetic group",
+      "generates reactive oxygen species",
+      "metabolizes ethanol and drugs",
+      "CYP3A4 inhibited by grapefruit",
+      "cytochrome P450"
+    ]
+  },
+  {
+    "id": "boom-16-8",
+    "title": "Phase II Enzymes",
+    "course": "boom",
+    "brick_id": "16",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "conjugation reactions",
+      "add polar group to substrate",
+      "increase water solubility",
+      "uses glutathione tripeptide",
+      "sulfotransferase adds sulfate",
+      "glucuronosyltransferase adds glucuronate",
+      "conjugates bilirubin",
+      "deficiency causes jaundice"
+    ]
+  },
+  {
+    "id": "boom-16-9",
+    "title": "Acetaminophen Toxicity",
+    "course": "boom",
+    "brick_id": "16",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "phase I meets phase II",
+      "normally conjugated to be excreted",
+      "alcohol shifts metabolism",
+      "CYP2E1 makes toxic metabolite",
+      "depletes glutathione stores",
+      "metabolite binds cell proteins",
+      "N-acetylcysteine is antidote",
+      "NAPQI"
+    ]
+  }
+]

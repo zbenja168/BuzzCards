@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-28-1",
+    "title": "Insulin Secretion",
+    "course": "boom",
+    "brick_id": "28",
+    "brick_title": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "triggered by glucose",
+      "GLUT2 uptake",
+      "raises ATP/ADP ratio",
+      "closes K+ channel",
+      "membrane depolarizes",
+      "Ca2+ influx",
+      "vesicle exocytosis",
+      "KATP channel"
+    ]
+  },
+  {
+    "id": "boom-28-2",
+    "title": "Sulfonylureas",
+    "course": "boom",
+    "brick_id": "28",
+    "brick_title": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "boost insulin output",
+      "needs working beta-cells",
+      "overcomes insulin resistance",
+      "used in gestational diabetes",
+      "add-on therapy",
+      "can cause hypoglycemia",
+      "closes K+ channel",
+      "KATP blocker"
+    ]
+  },
+  {
+    "id": "boom-28-3",
+    "title": "Insulin Processing",
+    "course": "boom",
+    "brick_id": "28",
+    "brick_title": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "made in beta-cells",
+      "disulfide bonds form",
+      "preproinsulin first",
+      "proinsulin intermediate",
+      "stored as hexamer",
+      "monomer is active",
+      "cleaved off in maturation",
+      "C-peptide marks endogenous"
+    ]
+  },
+  {
+    "id": "boom-28-4",
+    "title": "Exercise GLUT4 Uptake",
+    "course": "boom",
+    "brick_id": "28",
+    "brick_title": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "insulin-independent",
+      "in skeletal muscle",
+      "rising AMP sensor",
+      "adenylate kinase makes AMP",
+      "GLUT4 to membrane",
+      "enhances glucose clearance",
+      "inhibits anabolic pathways",
+      "AMPK activated"
+    ]
+  },
+  {
+    "id": "boom-28-5",
+    "title": "Insulin Shock",
+    "course": "boom",
+    "brick_id": "28",
+    "brick_title": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "severe hypoglycemia",
+      "CNS deprived of glucose",
+      "confusion and seizures",
+      "give fast sugar",
+      "IV dextrose if severe",
+      "glucagon injection",
+      "insulinoma raises C-peptide",
+      "low C-peptide if injected"
+    ]
+  },
+  {
+    "id": "boom-28-6",
+    "title": "Re-feeding Syndrome",
+    "course": "boom",
+    "brick_id": "28",
+    "brick_title": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "follows starvation refeeding",
+      "carbs spike insulin",
+      "electrolytes shift into cells",
+      "low potassium",
+      "low magnesium",
+      "thiamine depletion risk",
+      "muscle weakness arrhythmia",
+      "hypophosphatemia hallmark"
+    ]
+  }
+]

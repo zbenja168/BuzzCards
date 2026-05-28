@@ -1,0 +1,218 @@
+[
+  {
+    "id": "boom-18-1",
+    "title": "Glucose",
+    "course": "boom",
+    "brick_id": "18",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "six-carbon sugar",
+      "primary energy substrate",
+      "reducing sugar",
+      "anomeric carbon C1",
+      "aldehyde functional group",
+      "blood sugar measured clinically",
+      "aldohexose",
+      "C1 oxidizes to gluconate"
+    ]
+  },
+  {
+    "id": "boom-18-2",
+    "title": "Fructose",
+    "course": "boom",
+    "brick_id": "18",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "six-carbon sugar",
+      "found in fruits",
+      "added to sweeteners",
+      "anomeric carbon C2",
+      "ketone functional group",
+      "forms a furanose ring",
+      "sweetest dietary sugar",
+      "ketohexose"
+    ]
+  },
+  {
+    "id": "boom-18-3",
+    "title": "Sucrose",
+    "course": "boom",
+    "brick_id": "18",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "disaccharide",
+      "common table sugar",
+      "non-reducing sugar",
+      "no free anomeric carbon",
+      "from sugarcane and beets",
+      "fifty percent fructose",
+      "glucose plus fructose",
+      "split by sucrase"
+    ]
+  },
+  {
+    "id": "boom-18-4",
+    "title": "Lactose",
+    "course": "boom",
+    "brick_id": "18",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "disaccharide",
+      "sugar found in milk",
+      "reducing sugar",
+      "beta-1,4 glycosidic bond",
+      "galactose plus glucose",
+      "split by lactase",
+      "deficiency causes intolerance",
+      "lactase is a brush-border enzyme"
+    ]
+  },
+  {
+    "id": "boom-18-5",
+    "title": "Starch",
+    "course": "boom",
+    "brick_id": "18",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "plant storage polysaccharide",
+      "polymer of glucose",
+      "digestible by humans",
+      "amylose is linear",
+      "alpha-1,4 linkages",
+      "amylopectin is branched",
+      "branches via alpha-1,6 bonds",
+      "cleaved by amylase"
+    ]
+  },
+  {
+    "id": "boom-18-6",
+    "title": "Cellulose",
+    "course": "boom",
+    "brick_id": "18",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "plant polysaccharide",
+      "insoluble dietary fiber",
+      "indigestible by humans",
+      "polymer of glucose",
+      "lowers cholesterol levels",
+      "passes through gut in bulk",
+      "beta-1,4 linked glucose",
+      "humans lack the cleaving enzyme"
+    ]
+  },
+  {
+    "id": "boom-18-7",
+    "title": "SGLT",
+    "course": "boom",
+    "brick_id": "18",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "glucose transporter",
+      "located on apical membrane",
+      "uses a sodium gradient",
+      "secondary active transport",
+      "indirectly requires ATP",
+      "couples sodium with glucose",
+      "reabsorbs glucose from urine",
+      "rescues glucose from excretion"
+    ]
+  },
+  {
+    "id": "boom-18-8",
+    "title": "GLUT1",
+    "course": "boom",
+    "brick_id": "18",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "facilitated glucose transporter",
+      "low Km transporter",
+      "insulin-independent uptake",
+      "ensures basal uptake",
+      "works during fasting",
+      "high glucose affinity",
+      "expressed on red blood cells",
+      "RBC glucose transporter"
+    ]
+  },
+  {
+    "id": "boom-18-9",
+    "title": "GLUT2",
+    "course": "boom",
+    "brick_id": "18",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "facilitated glucose transporter",
+      "high relative Km",
+      "high Vmax",
+      "uptake only when glucose high",
+      "mirrors glucokinase kinetics",
+      "basolateral side of enterocytes",
+      "expressed in liver and pancreas",
+      "low-affinity GLUT"
+    ]
+  },
+  {
+    "id": "boom-18-10",
+    "title": "GLUT3",
+    "course": "boom",
+    "brick_id": "18",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "facilitated glucose transporter",
+      "low Km transporter",
+      "high glucose affinity",
+      "insulin-independent uptake",
+      "ensures neuronal supply",
+      "localized to CNS tissue",
+      "neuronal glucose transporter",
+      "major CNS transporter"
+    ]
+  },
+  {
+    "id": "boom-18-11",
+    "title": "GLUT4",
+    "course": "boom",
+    "brick_id": "18",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "facilitated glucose transporter",
+      "insulin responsive",
+      "translocates to membrane",
+      "uptake after a meal",
+      "expressed in skeletal muscle",
+      "expressed in adipocytes",
+      "stimulated by insulin signaling",
+      "insulin-sensitive GLUT"
+    ]
+  },
+  {
+    "id": "boom-18-12",
+    "title": "GLUT5",
+    "course": "boom",
+    "brick_id": "18",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "monosaccharide transporter",
+      "apical enterocyte membrane",
+      "facilitated diffusion",
+      "insulin-independent",
+      "does not transport glucose",
+      "specific for one ketohexose",
+      "absorbs fructose from gut",
+      "the fructose transporter"
+    ]
+  }
+]

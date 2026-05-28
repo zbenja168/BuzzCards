@@ -1,0 +1,128 @@
+[
+  {
+    "id": "boom-36-1",
+    "title": "Acute Intermittent Porphyria",
+    "course": "boom",
+    "brick_id": "36",
+    "brick_title": "Porphyrins and Iron Homeostasis (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "neurovisceral attacks",
+      "severe abdominal pain",
+      "no skin findings",
+      "port-wine urine",
+      "ALA and PBG buildup",
+      "triggered by CYP inducers",
+      "glucose or hemin treatment",
+      "porphobilinogen deaminase deficiency"
+    ]
+  },
+  {
+    "id": "boom-36-2",
+    "title": "Porphyria Cutanea Tarda",
+    "course": "boom",
+    "brick_id": "36",
+    "brick_title": "Porphyrins and Iron Homeostasis (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "most common porphyria",
+      "photosensitive blistering",
+      "delayed sun reaction",
+      "tea-colored urine",
+      "iron worsens it",
+      "uroporphyrin accumulation",
+      "phlebotomy treatment",
+      "uroporphyrinogen decarboxylase deficiency"
+    ]
+  },
+  {
+    "id": "boom-36-3",
+    "title": "Erythropoietic Protoporphyria",
+    "course": "boom",
+    "brick_id": "36",
+    "brick_title": "Porphyrins and Iron Homeostasis (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "childhood onset",
+      "painful photosensitivity",
+      "immediate burning sunlight",
+      "no blistering",
+      "bone marrow origin",
+      "protoporphyrin IX accumulation",
+      "final heme step blocked",
+      "ferrochelatase deficiency"
+    ]
+  },
+  {
+    "id": "boom-36-4",
+    "title": "Iron Absorption",
+    "course": "boom",
+    "brick_id": "36",
+    "brick_title": "Porphyrins and Iron Homeostasis (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "duodenal enterocytes",
+      "10-20% absorbed",
+      "ferrous form required",
+      "vitamin C enhances",
+      "DMT1 apical uptake",
+      "ferroportin basolateral export",
+      "hephaestin oxidizes iron",
+      "loss by epithelial shedding"
+    ]
+  },
+  {
+    "id": "boom-36-5",
+    "title": "Hepcidin",
+    "course": "boom",
+    "brick_id": "36",
+    "brick_title": "Porphyrins and Iron Homeostasis (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "liver-derived hormone",
+      "master iron regulator",
+      "rises with inflammation",
+      "lowers serum iron",
+      "degrades ferroportin",
+      "blocks intestinal absorption",
+      "traps iron in macrophages",
+      "high in anemia of chronic disease"
+    ]
+  },
+  {
+    "id": "boom-36-6",
+    "title": "Hereditary Hemochromatosis",
+    "course": "boom",
+    "brick_id": "36",
+    "brick_title": "Porphyrins and Iron Homeostasis (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "iron overload",
+      "low hepcidin",
+      "bronze skin diabetes",
+      "joint arthropathy",
+      "restrictive cardiomyopathy",
+      "treated by phlebotomy",
+      "chelators if anemic",
+      "HFE gene mutation"
+    ]
+  },
+  {
+    "id": "boom-36-7",
+    "title": "Iron Studies",
+    "course": "boom",
+    "brick_id": "36",
+    "brick_title": "Porphyrins and Iron Homeostasis (2 of 2)",
+    "type": "lab",
+    "buzzwords": [
+      "serum iron",
+      "ferritin reflects stores",
+      "transferrin saturation",
+      "TIBC measures free transferrin",
+      "deficiency lowers ferritin",
+      "deficiency raises TIBC",
+      "overload raises saturation",
+      "overload lowers TIBC"
+    ]
+  }
+]

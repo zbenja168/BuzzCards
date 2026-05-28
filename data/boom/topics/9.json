@@ -1,0 +1,200 @@
+[
+  {
+    "id": "boom-9-1",
+    "title": "Nucleotide",
+    "course": "boom",
+    "brick_id": "9",
+    "brick_title": "DNA Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "DNA monomer",
+      "three components",
+      "phosphate group",
+      "pentose sugar",
+      "nitrogenous base",
+      "deoxyribose in DNA",
+      "base plus sugar is nucleoside",
+      "add phosphate becomes nucleotide"
+    ]
+  },
+  {
+    "id": "boom-9-2",
+    "title": "Purines",
+    "course": "boom",
+    "brick_id": "9",
+    "brick_title": "DNA Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "nitrogenous base class",
+      "two-ring structure",
+      "fused double ring",
+      "pairs with pyrimidines",
+      "larger base",
+      "three bonds when paired with C",
+      "adenine",
+      "guanine"
+    ]
+  },
+  {
+    "id": "boom-9-3",
+    "title": "Pyrimidines",
+    "course": "boom",
+    "brick_id": "9",
+    "brick_title": "DNA Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "nitrogenous base class",
+      "single-ring structure",
+      "one ring",
+      "smaller base",
+      "uracil only in RNA",
+      "cytosine pairs guanine",
+      "thymine pairs adenine",
+      "cytosine and thymine"
+    ]
+  },
+  {
+    "id": "boom-9-4",
+    "title": "Phosphodiester Bond",
+    "course": "boom",
+    "brick_id": "9",
+    "brick_title": "DNA Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "covalent linkage",
+      "forms the backbone",
+      "links nucleotides together",
+      "joins sugar to phosphate",
+      "links 5' carbon to 3' hydroxyl",
+      "creates 5' and 3' ends",
+      "sugar-phosphate backbone",
+      "joins one nucleotide to next"
+    ]
+  },
+  {
+    "id": "boom-9-5",
+    "title": "DNA Double Helix",
+    "course": "boom",
+    "brick_id": "9",
+    "brick_title": "DNA Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "two strands",
+      "antiparallel orientation",
+      "3' pairs with 5'",
+      "bases on the inside",
+      "right-handed spiral",
+      "negative charge from phosphates",
+      "major and minor grooves",
+      "10 base pairs per turn"
+    ]
+  },
+  {
+    "id": "boom-9-6",
+    "title": "Complementary Base Pairing",
+    "course": "boom",
+    "brick_id": "9",
+    "brick_title": "DNA Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "held by hydrogen bonds",
+      "A pairs T",
+      "G pairs C",
+      "purine pairs pyrimidine",
+      "A-T two hydrogen bonds",
+      "G-C three hydrogen bonds",
+      "high G-C melts at higher temp",
+      "Chargaff base ratios"
+    ]
+  },
+  {
+    "id": "boom-9-7",
+    "title": "Nucleosome",
+    "course": "boom",
+    "brick_id": "9",
+    "brick_title": "DNA Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "DNA packaging unit",
+      "DNA wrapped around proteins",
+      "~147 base pairs wrapped",
+      "string of beads appearance",
+      "histone octamer core",
+      "H2A H2B H3 H4 pairs",
+      "H1 linker histone",
+      "Lys and Arg positive tails"
+    ]
+  },
+  {
+    "id": "boom-9-8",
+    "title": "Chromatin Condensation",
+    "course": "boom",
+    "brick_id": "9",
+    "brick_title": "DNA Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "higher-order DNA packing",
+      "nucleosomes coil up",
+      "solenoid fiber",
+      "loops then supercoiling",
+      "forms a chromatid",
+      "30 nm chromatin fiber",
+      "sister chromatids join",
+      "condensed metaphase chromosome"
+    ]
+  },
+  {
+    "id": "boom-9-9",
+    "title": "Euchromatin",
+    "course": "boom",
+    "brick_id": "9",
+    "brick_title": "DNA Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "loosely packed DNA",
+      "less condensed",
+      "accessible to polymerases",
+      "transcriptionally active",
+      "expressed genes",
+      "histone acetylation loosens it",
+      "low methylation",
+      "acetyl neutralizes histone charge"
+    ]
+  },
+  {
+    "id": "boom-9-10",
+    "title": "Heterochromatin",
+    "course": "boom",
+    "brick_id": "9",
+    "brick_title": "DNA Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "tightly packed DNA",
+      "highly condensed",
+      "inaccessible to polymerases",
+      "transcriptionally silent",
+      "repressed genes",
+      "DNA methylation tightens it",
+      "deacetylated histones",
+      "methyl recruits repressor proteins"
+    ]
+  },
+  {
+    "id": "boom-9-11",
+    "title": "Karyotype",
+    "course": "boom",
+    "brick_id": "9",
+    "brick_title": "DNA Structure",
+    "type": "lab",
+    "buzzwords": [
+      "depiction of chromosomes",
+      "full chromosome set",
+      "used for diagnosis",
+      "46 chromosomes in humans",
+      "23 pairs",
+      "diploid genome",
+      "22 autosome pairs",
+      "one sex chromosome pair"
+    ]
+  }
+]

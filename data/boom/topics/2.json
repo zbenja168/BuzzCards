@@ -1,0 +1,182 @@
+[
+  {
+    "id": "boom-2-1",
+    "title": "Substrate-Level Phosphorylation",
+    "course": "boom",
+    "brick_id": "2",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "makes ATP",
+      "no oxygen needed",
+      "anaerobic",
+      "direct phosphoryl transfer",
+      "donor compound to ADP",
+      "occurs in glycolysis",
+      "occurs in TCA cycle",
+      "substrate-level"
+    ]
+  },
+  {
+    "id": "boom-2-2",
+    "title": "Oxidative Phosphorylation",
+    "course": "boom",
+    "brick_id": "2",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "makes ATP",
+      "requires oxygen",
+      "needs mitochondria",
+      "uses reduced coenzymes",
+      "proton gradient",
+      "oxygen is terminal acceptor",
+      "electron transport chain",
+      "OXPHOS"
+    ]
+  },
+  {
+    "id": "boom-2-3",
+    "title": "Lactate Dehydrogenase",
+    "course": "boom",
+    "brick_id": "2",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "fully reversible",
+      "driven by equilibrium",
+      "regenerates NAD+",
+      "sustains glycolysis",
+      "pyruvate to lactate",
+      "NADH oxidized",
+      "anaerobic energy",
+      "LDH"
+    ]
+  },
+  {
+    "id": "boom-2-4",
+    "title": "Von Gierke's Disease",
+    "course": "boom",
+    "brick_id": "2",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "fasting hypoglycemia",
+      "lactic acidosis",
+      "glucose-6-phosphate buildup",
+      "excess pyruvate",
+      "glucose-6-phosphatase deficiency",
+      "type I glycogen storage",
+      "hepatomegaly",
+      "von Gierke"
+    ]
+  },
+  {
+    "id": "boom-2-5",
+    "title": "Marasmus",
+    "course": "boom",
+    "brick_id": "2",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "acute malnutrition",
+      "severe wasting",
+      "total calorie deprivation",
+      "muscle and fat loss",
+      "no edema",
+      "starved appearance",
+      "adequate protein relative",
+      "marasmus"
+    ]
+  },
+  {
+    "id": "boom-2-6",
+    "title": "Kwashiorkor",
+    "course": "boom",
+    "brick_id": "2",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "acute malnutrition",
+      "pitting edema",
+      "protein deficiency",
+      "low albumin",
+      "fatty liver",
+      "thin flaky skin",
+      "swollen belly",
+      "kwashiorkor"
+    ]
+  },
+  {
+    "id": "boom-2-7",
+    "title": "Ethanol Metabolism",
+    "course": "boom",
+    "brick_id": "2",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "liver oxidation",
+      "raises NADH",
+      "low NAD+/NADH ratio",
+      "fasting hypoglycemia",
+      "fatty liver",
+      "toxic acetaldehyde",
+      "causes hangover",
+      "ADH and ALDH"
+    ]
+  },
+  {
+    "id": "boom-2-8",
+    "title": "Methanol Poisoning",
+    "course": "boom",
+    "brick_id": "2",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "wood alcohol",
+      "toxic metabolite",
+      "high anion gap acidosis",
+      "optic nerve damage",
+      "blindness",
+      "metabolized by ADH",
+      "formaldehyde then formic acid",
+      "methanol"
+    ]
+  },
+  {
+    "id": "boom-2-9",
+    "title": "Ethylene Glycol Poisoning",
+    "course": "boom",
+    "brick_id": "2",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "antifreeze",
+      "high anion gap acidosis",
+      "renal failure",
+      "calcium oxalate crystals",
+      "proximal tubule precipitation",
+      "folded envelope crystals",
+      "metabolized by ADH",
+      "ethylene glycol"
+    ]
+  },
+  {
+    "id": "boom-2-10",
+    "title": "Anion Gap",
+    "course": "boom",
+    "brick_id": "2",
+    "brick_title": "BOOM: Metabolic Overview I: General Reactions (2 of 2)",
+    "type": "lab",
+    "buzzwords": [
+      "unmeasured anions",
+      "screens electroneutrality",
+      "high gap means acidosis",
+      "predicts pH below 7.4",
+      "toxic alcohol clue",
+      "Na minus Cl plus HCO3",
+      "normal 8 to 12",
+      "anion gap"
+    ]
+  }
+]

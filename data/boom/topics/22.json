@@ -1,0 +1,182 @@
+[
+  {
+    "id": "boom-22-1",
+    "title": "Chylomicrons",
+    "course": "boom",
+    "brick_id": "22",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "carries dietary lipids",
+      "made by enterocytes",
+      "largest lipoprotein",
+      "most triglyceride-enriched",
+      "gives plasma milky look",
+      "gets apolipoproteins from HDL",
+      "absorbed via lymphatics",
+      "only one with apoB-48"
+    ]
+  },
+  {
+    "id": "boom-22-2",
+    "title": "VLDL",
+    "course": "boom",
+    "brick_id": "22",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "liver-derived particle",
+      "carries endogenous lipids",
+      "triglyceride-rich",
+      "smaller than chylomicrons",
+      "no milky plasma",
+      "delivers fats to periphery",
+      "converted to IDL then LDL",
+      "structural apoB-100"
+    ]
+  },
+  {
+    "id": "boom-22-3",
+    "title": "LDL",
+    "course": "boom",
+    "brick_id": "22",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "delivers cholesterol to tissues",
+      "smallest densest particle",
+      "highest cholesterol content",
+      "derived from VLDL",
+      "taken up by receptor endocytosis",
+      "oxidized form forms foam cells",
+      "drives atherosclerotic plaque",
+      "single apoB-100"
+    ]
+  },
+  {
+    "id": "boom-22-4",
+    "title": "HDL",
+    "course": "boom",
+    "brick_id": "22",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "circulating reservoir particle",
+      "reverse cholesterol transport",
+      "returns cholesterol to liver",
+      "donates apolipoproteins",
+      "activates LCAT",
+      "supplies apoC-II and apoE",
+      "the good cholesterol",
+      "contains apoA-I"
+    ]
+  },
+  {
+    "id": "boom-22-5",
+    "title": "Cholesterol Esterification",
+    "course": "boom",
+    "brick_id": "22",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "esterifies dietary cholesterol",
+      "occurs in enterocytes",
+      "adds a fatty acyl group",
+      "allows tight packing",
+      "increases lipoprotein carrying",
+      "uses fatty acyl-CoA",
+      "forms cholesteryl esters",
+      "enzyme ACAT"
+    ]
+  },
+  {
+    "id": "boom-22-6",
+    "title": "Acetyl-CoA Carboxylase",
+    "course": "boom",
+    "brick_id": "22",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "commits to fatty acid synthesis",
+      "rate-limiting step",
+      "needs biotin and CO2",
+      "activated by citrate",
+      "activated by insulin",
+      "inhibited by palmitoyl-CoA",
+      "inactivated by AMP kinase",
+      "makes malonyl-CoA"
+    ]
+  },
+  {
+    "id": "boom-22-7",
+    "title": "Fatty Acid Synthase",
+    "course": "boom",
+    "brick_id": "22",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "builds fatty acid chains",
+      "occurs in cytoplasm",
+      "mostly hepatic",
+      "adds two-carbon units",
+      "donor is malonyl-CoA",
+      "repetitive four-step cycle",
+      "consumes NADPH",
+      "yields palmitate"
+    ]
+  },
+  {
+    "id": "boom-22-8",
+    "title": "Carnitine Shuttle",
+    "course": "boom",
+    "brick_id": "22",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "imports fats for oxidation",
+      "needed for long-chain fatty acids",
+      "crosses inner mitochondrial membrane",
+      "inhibited by malonyl-CoA",
+      "uses a non-protein amino acid",
+      "forms fatty acyl-carnitine",
+      "feeds beta-oxidation",
+      "enzyme CPT-1"
+    ]
+  },
+  {
+    "id": "boom-22-9",
+    "title": "Beta-Oxidation",
+    "course": "boom",
+    "brick_id": "22",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "breaks down fatty acids",
+      "in mitochondrial matrix",
+      "active during fasting",
+      "VLCFAs start in peroxisomes",
+      "chain-length-specific dehydrogenases",
+      "needs acyl-CoA synthetase",
+      "SCAD, MCAD, LCAD enzymes",
+      "yields acetyl-CoA"
+    ]
+  },
+  {
+    "id": "boom-22-10",
+    "title": "MCAD Deficiency",
+    "course": "boom",
+    "brick_id": "22",
+    "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (1 of 3)",
+    "type": "disease",
+    "buzzwords": [
+      "impaired fatty acid oxidation",
+      "presents in infancy",
+      "triggered by fasting",
+      "vomiting and lethargy",
+      "hepatomegaly",
+      "hypoketotic hypoglycemia",
+      "elevated acyl-carnitines",
+      "treat by avoiding fasting"
+    ]
+  }
+]

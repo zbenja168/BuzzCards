@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-8-1",
+    "title": "Direct Repair",
+    "course": "boom",
+    "brick_id": "8",
+    "brick_title": "DNA Damage and DNA Repair Mechanism",
+    "type": "physiology",
+    "buzzwords": [
+      "corrects single base",
+      "no backbone cut",
+      "reverses alkylation",
+      "fixes methylated guanine",
+      "humans lack photolyase",
+      "not error-prone",
+      "suicide enzyme",
+      "MGMT demethylation"
+    ]
+  },
+  {
+    "id": "boom-8-2",
+    "title": "Base Excision Repair",
+    "course": "boom",
+    "brick_id": "8",
+    "brick_title": "DNA Damage and DNA Repair Mechanism",
+    "type": "physiology",
+    "buzzwords": [
+      "single-strand repair",
+      "fixes one nucleotide",
+      "repairs ROS damage",
+      "removes uracil in DNA",
+      "creates AP site",
+      "endonuclease cuts 5'",
+      "glycosylase removes base",
+      "polymerase fills, ligase seals"
+    ]
+  },
+  {
+    "id": "boom-8-3",
+    "title": "Nucleotide Excision Repair",
+    "course": "boom",
+    "brick_id": "8",
+    "brick_title": "DNA Damage and DNA Repair Mechanism",
+    "type": "physiology",
+    "buzzwords": [
+      "removes nucleotide stretch",
+      "fixes helix-distorting lesions",
+      "occurs in G1",
+      "repairs pyrimidine dimers",
+      "uvr endonucleases",
+      "corrects UV damage",
+      "deficiency causes skin cancer",
+      "xeroderma pigmentosum"
+    ]
+  },
+  {
+    "id": "boom-8-4",
+    "title": "Mismatch Repair",
+    "course": "boom",
+    "brick_id": "8",
+    "brick_title": "DNA Damage and DNA Repair Mechanism",
+    "type": "physiology",
+    "buzzwords": [
+      "corrects replication errors",
+      "fixes base mispairing",
+      "high fidelity proofreading",
+      "removes mismatched nucleotide",
+      "deficiency raises cancer risk",
+      "colorectal cancer link",
+      "microsatellite instability",
+      "Lynch syndrome"
+    ]
+  },
+  {
+    "id": "boom-8-5",
+    "title": "Homologous Recombination",
+    "course": "boom",
+    "brick_id": "8",
+    "brick_title": "DNA Damage and DNA Repair Mechanism",
+    "type": "physiology",
+    "buzzwords": [
+      "repairs double-strand breaks",
+      "uses sister chromosome template",
+      "no nucleotide loss",
+      "high fidelity",
+      "occurs in S/G2",
+      "mimics meiotic crossing over",
+      "RAD51 dependent",
+      "BRCA1/BRCA2 mediated"
+    ]
+  },
+  {
+    "id": "boom-8-6",
+    "title": "Non-Homologous End Joining",
+    "course": "boom",
+    "brick_id": "8",
+    "brick_title": "DNA Damage and DNA Repair Mechanism",
+    "type": "physiology",
+    "buzzwords": [
+      "repairs double-strand breaks",
+      "no template needed",
+      "directly ligates ends",
+      "error-prone",
+      "introduces mutations",
+      "loses nucleotides",
+      "active throughout cell cycle",
+      "ataxia telangiectasia link"
+    ]
+  }
+]

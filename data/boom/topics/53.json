@@ -1,0 +1,128 @@
+[
+  {
+    "id": "boom-53-1",
+    "title": "Hardy-Weinberg Principle",
+    "course": "boom",
+    "brick_id": "53",
+    "brick_title": "Population Genetics",
+    "type": "physiology",
+    "buzzwords": [
+      "predicts allele frequencies",
+      "studies one gene at a time",
+      "assumes no selection",
+      "assumes random mating",
+      "assumes no migration",
+      "p + q = 1",
+      "2pq is heterozygote frequency",
+      "p2 + 2pq + q2 = 1"
+    ]
+  },
+  {
+    "id": "boom-53-2",
+    "title": "Genetic Drift",
+    "course": "boom",
+    "brick_id": "53",
+    "brick_title": "Population Genetics",
+    "type": "physiology",
+    "buzzwords": [
+      "random frequency change",
+      "driven by chance",
+      "not by fitness",
+      "strongest in small populations",
+      "sudden population change",
+      "alleles lost or fixed",
+      "contrasts with gene flow",
+      "violates Hardy-Weinberg"
+    ]
+  },
+  {
+    "id": "boom-53-3",
+    "title": "Founder Effect",
+    "course": "boom",
+    "brick_id": "53",
+    "brick_title": "Population Genetics",
+    "type": "physiology",
+    "buzzwords": [
+      "type of genetic drift",
+      "small isolated subpopulation",
+      "reduced genetic diversity",
+      "rare alleles amplified",
+      "splinter group founds population",
+      "skewed allele frequencies",
+      "Huntington in Lake Maracaibo",
+      "Afrikaner inherited disorders"
+    ]
+  },
+  {
+    "id": "boom-53-4",
+    "title": "Bottleneck Effect",
+    "course": "boom",
+    "brick_id": "53",
+    "brick_title": "Population Genetics",
+    "type": "physiology",
+    "buzzwords": [
+      "type of genetic drift",
+      "decreases genetic diversity",
+      "sudden population crash",
+      "caused by disaster",
+      "survivors not selected",
+      "few random survivors reproduce",
+      "loss of rare alleles",
+      "phenotype from chance survival"
+    ]
+  },
+  {
+    "id": "boom-53-5",
+    "title": "Gene Flow",
+    "course": "boom",
+    "brick_id": "53",
+    "brick_title": "Population Genetics",
+    "type": "physiology",
+    "buzzwords": [
+      "increases genetic diversity",
+      "introduces new alleles",
+      "gradual not sudden",
+      "transfer between populations",
+      "driven by migration",
+      "shares alleles across groups",
+      "homogenizes populations",
+      "opposes genetic drift"
+    ]
+  },
+  {
+    "id": "boom-53-6",
+    "title": "Assortative Mating",
+    "course": "boom",
+    "brick_id": "53",
+    "brick_title": "Population Genetics",
+    "type": "physiology",
+    "buzzwords": [
+      "nonrandom mating",
+      "violates Hardy-Weinberg",
+      "mates with similar individuals",
+      "by phenotype or socioeconomics",
+      "shared facial features",
+      "shared religion example",
+      "deviates from random pairing",
+      "trait-based partner choice"
+    ]
+  },
+  {
+    "id": "boom-53-7",
+    "title": "Mutation-Selection Equilibrium",
+    "course": "boom",
+    "brick_id": "53",
+    "brick_title": "Population Genetics",
+    "type": "physiology",
+    "buzzwords": [
+      "maintains genetic variation",
+      "stable allele frequency",
+      "creation balances elimination",
+      "deleterious alleles persist",
+      "usually recessive variants",
+      "mutation creates alleles",
+      "selection removes alleles",
+      "mutation rate equals selection rate"
+    ]
+  }
+]

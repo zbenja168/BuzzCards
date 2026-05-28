@@ -1,0 +1,92 @@
+[
+  {
+    "id": "boom-21-1",
+    "title": "Fructokinase",
+    "course": "boom",
+    "brick_id": "21",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "first step of fructose metabolism",
+      "low Km, high Vmax",
+      "extremely efficient",
+      "rapidly consumes ATP",
+      "raises AMP levels",
+      "mostly hepatic",
+      "yields fructose 1-phosphate",
+      "deficient in essential fructosuria"
+    ]
+  },
+  {
+    "id": "boom-21-2",
+    "title": "Aldolase B",
+    "course": "boom",
+    "brick_id": "21",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "second step of fructose metabolism",
+      "cleaves fructose 1-phosphate",
+      "yields DHAP",
+      "yields glyceraldehyde 3-phosphate",
+      "products enter glycolysis",
+      "convergence below PFK-1",
+      "hepatic enzyme",
+      "deficient in hereditary fructose intolerance"
+    ]
+  },
+  {
+    "id": "boom-21-3",
+    "title": "Polyol Pathway",
+    "course": "boom",
+    "brick_id": "21",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "converts glucose to fructose",
+      "active in hyperglycemia",
+      "consumes NADPH",
+      "depletes glutathione",
+      "causes oxidative stress",
+      "sorbitol causes osmotic stress",
+      "aldose reductase then sorbitol dehydrogenase",
+      "damages lens, retina, nerves"
+    ]
+  },
+  {
+    "id": "boom-21-4",
+    "title": "Essential Fructosuria",
+    "course": "boom",
+    "brick_id": "21",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "benign metabolic condition",
+      "rare and asymptomatic",
+      "often undiagnosed",
+      "no treatment needed",
+      "fructose in blood or urine",
+      "hexokinase provides bypass",
+      "considered a non-disease",
+      "fructokinase deficiency"
+    ]
+  },
+  {
+    "id": "boom-21-5",
+    "title": "Hereditary Fructose Intolerance",
+    "course": "boom",
+    "brick_id": "21",
+    "brick_title": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "symptoms after weaning",
+      "triggered by fruit or juice",
+      "vomiting and hypoglycemia",
+      "jaundice and hepatomegaly",
+      "fructose 1-phosphate accumulates",
+      "phosphate sink, hyperuricemia",
+      "treat by restricting fructose",
+      "aldolase B deficiency"
+    ]
+  }
+]

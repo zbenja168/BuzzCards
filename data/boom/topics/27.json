@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-27-1",
+    "title": "Insulin",
+    "course": "boom",
+    "brick_id": "27",
+    "brick_title": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "fed-state hormone",
+      "anabolic signal",
+      "lowers blood glucose",
+      "drives glucose into stores",
+      "promotes glycogen synthesis",
+      "promotes lipogenesis",
+      "recruits GLUT4 to membrane",
+      "activates protein phosphatase"
+    ]
+  },
+  {
+    "id": "boom-27-2",
+    "title": "Glucagon",
+    "course": "boom",
+    "brick_id": "27",
+    "brick_title": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "fasting-state hormone",
+      "catabolic signal",
+      "raises blood glucose",
+      "drives glucose out of stores",
+      "GPCR raises cAMP",
+      "activates PKA",
+      "favors gluconeogenesis",
+      "pancreatic alpha-cells"
+    ]
+  },
+  {
+    "id": "boom-27-3",
+    "title": "Epinephrine",
+    "course": "boom",
+    "brick_id": "27",
+    "brick_title": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "stress hormone",
+      "fight-or-flight fuel",
+      "glucose-independent action",
+      "overrides insulin signaling",
+      "stimulates glycogenolysis",
+      "acts via adrenergic GPCRs",
+      "mobilizes free fatty acids",
+      "adrenaline"
+    ]
+  },
+  {
+    "id": "boom-27-4",
+    "title": "Cortisol",
+    "course": "boom",
+    "brick_id": "27",
+    "brick_title": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "stress-response hormone",
+      "steroid hormone",
+      "binds intracellular receptors",
+      "alters gene expression",
+      "pleiotropic effects",
+      "anti-inflammatory agent",
+      "raises blood glucose",
+      "cortisol"
+    ]
+  },
+  {
+    "id": "boom-27-5",
+    "title": "Glycogen",
+    "course": "boom",
+    "brick_id": "27",
+    "brick_title": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "stored glucose polymer",
+      "rapidly mobilized fuel",
+      "stored in liver and muscle",
+      "liver buffers blood glucose",
+      "muscle stores stay local",
+      "muscle lacks glucose-6-phosphatase",
+      "muscle lacks glucagon receptors",
+      "broken down by phosphorylase"
+    ]
+  },
+  {
+    "id": "boom-27-6",
+    "title": "Triglyceride Stores",
+    "course": "boom",
+    "brick_id": "27",
+    "brick_title": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "main long-term energy depot",
+      "stored in adipocytes",
+      "limitless storage capacity",
+      "yields glycerol plus fatty acids",
+      "fatty acids feed beta-oxidation",
+      "released by hormone-sensitive lipase",
+      "adipocytes lack glycerol kinase",
+      "glycerol to liver gluconeogenesis"
+    ]
+  }
+]

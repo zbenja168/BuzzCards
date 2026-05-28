@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-46-1",
+    "title": "Autosomal Dominant",
+    "course": "boom",
+    "brick_id": "46",
+    "brick_title": "Pedigrees and Patterns of Monogenic Inheritance",
+    "type": "physiology",
+    "buzzwords": [
+      "one allele suffices",
+      "affected each generation",
+      "no skipped generations",
+      "males equally affected",
+      "vertical transmission",
+      "male-to-male transmission",
+      "homozygous often lethal",
+      "50% offspring affected"
+    ]
+  },
+  {
+    "id": "boom-46-2",
+    "title": "Autosomal Recessive",
+    "course": "boom",
+    "brick_id": "46",
+    "brick_title": "Pedigrees and Patterns of Monogenic Inheritance",
+    "type": "physiology",
+    "buzzwords": [
+      "needs two variants",
+      "sexes equally affected",
+      "skips generations",
+      "unaffected carrier parents",
+      "horizontal clustering",
+      "consanguinity raises risk",
+      "carriers are heterozygous",
+      "both parents carriers"
+    ]
+  },
+  {
+    "id": "boom-46-3",
+    "title": "X-linked Dominant",
+    "course": "boom",
+    "brick_id": "46",
+    "brick_title": "Pedigrees and Patterns of Monogenic Inheritance",
+    "type": "physiology",
+    "buzzwords": [
+      "gene on X",
+      "no male-to-male",
+      "more affected females",
+      "milder in females",
+      "X-inactivation effect",
+      "no carrier state",
+      "all daughters affected",
+      "affected dad, all daughters"
+    ]
+  },
+  {
+    "id": "boom-46-4",
+    "title": "X-linked Recessive",
+    "course": "boom",
+    "brick_id": "46",
+    "brick_title": "Pedigrees and Patterns of Monogenic Inheritance",
+    "type": "physiology",
+    "buzzwords": [
+      "mostly affected males",
+      "skips generations",
+      "no male-to-male",
+      "carrier mothers",
+      "females rarely affected",
+      "single X suffices in males",
+      "carrier mom, affected son",
+      "hemophilia A"
+    ]
+  },
+  {
+    "id": "boom-46-5",
+    "title": "Y-linked",
+    "course": "boom",
+    "brick_id": "46",
+    "brick_title": "Pedigrees and Patterns of Monogenic Inheritance",
+    "type": "physiology",
+    "buzzwords": [
+      "only males affected",
+      "father-to-son only",
+      "no female transmission",
+      "fewer than 100 genes",
+      "gonadal genital genes",
+      "holandric inheritance",
+      "all sons affected",
+      "passed down male line"
+    ]
+  },
+  {
+    "id": "boom-46-6",
+    "title": "Mitochondrial Inheritance",
+    "course": "boom",
+    "brick_id": "46",
+    "brick_title": "Pedigrees and Patterns of Monogenic Inheritance",
+    "type": "physiology",
+    "buzzwords": [
+      "maternally inherited",
+      "all offspring affected",
+      "no paternal transmission",
+      "high-energy tissues hit",
+      "muscle and nerve affected",
+      "random segregation",
+      "threshold effect",
+      "heteroplasmy"
+    ]
+  }
+]

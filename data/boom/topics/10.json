@@ -1,0 +1,182 @@
+[
+  {
+    "id": "boom-10-1",
+    "title": "Helicase",
+    "course": "boom",
+    "brick_id": "10",
+    "brick_title": "DNA Replication",
+    "type": "physiology",
+    "buzzwords": [
+      "unwinds duplex",
+      "acts at replication fork",
+      "separates two strands",
+      "breaks hydrogen bonds",
+      "creates replication bubble",
+      "recruited by initiator proteins",
+      "exposes template strands",
+      "helicase"
+    ]
+  },
+  {
+    "id": "boom-10-2",
+    "title": "SSB Proteins",
+    "course": "boom",
+    "brick_id": "10",
+    "brick_title": "DNA Replication",
+    "type": "physiology",
+    "buzzwords": [
+      "structural integrity",
+      "coats unwound strands",
+      "binds exposed nucleotides",
+      "prevents reannealing",
+      "keeps template single-stranded",
+      "stabilizes parent strands",
+      "no enzymatic activity",
+      "single-stranded binding proteins"
+    ]
+  },
+  {
+    "id": "boom-10-3",
+    "title": "Topoisomerase",
+    "course": "boom",
+    "brick_id": "10",
+    "brick_title": "DNA Replication",
+    "type": "physiology",
+    "buzzwords": [
+      "relieves torsional strain",
+      "unwinds supercoils",
+      "acts ahead of fork",
+      "nicks and reseals DNA",
+      "type I cuts one strand",
+      "type II cuts both strands",
+      "type II needs ATP",
+      "topoisomerase"
+    ]
+  },
+  {
+    "id": "boom-10-4",
+    "title": "Primase",
+    "course": "boom",
+    "brick_id": "10",
+    "brick_title": "DNA Replication",
+    "type": "physiology",
+    "buzzwords": [
+      "initiates synthesis",
+      "lays a primer",
+      "makes short RNA segment",
+      "primer on parent strand",
+      "provides free 3' end",
+      "needed by polymerase",
+      "subunit of Pol alpha",
+      "primase"
+    ]
+  },
+  {
+    "id": "boom-10-5",
+    "title": "DNA Pol Alpha",
+    "course": "boom",
+    "brick_id": "10",
+    "brick_title": "DNA Replication",
+    "type": "physiology",
+    "buzzwords": [
+      "starts new strand",
+      "has RNA primase subunit",
+      "low processivity",
+      "polymerizes short stretch",
+      "soon replaced",
+      "no proofreading",
+      "hands off to Pol delta",
+      "DNA pol alpha"
+    ]
+  },
+  {
+    "id": "boom-10-6",
+    "title": "DNA Pol Delta",
+    "course": "boom",
+    "brick_id": "10",
+    "brick_title": "DNA Replication",
+    "type": "physiology",
+    "buzzwords": [
+      "primary replicative polymerase",
+      "completes daughter strands",
+      "high processivity",
+      "high fidelity",
+      "3' to 5' exonuclease proofreading",
+      "associates with sliding clamp",
+      "PCNA keeps it anchored",
+      "DNA pol delta"
+    ]
+  },
+  {
+    "id": "boom-10-7",
+    "title": "Sliding Clamp",
+    "course": "boom",
+    "brick_id": "10",
+    "brick_title": "DNA Replication",
+    "type": "physiology",
+    "buzzwords": [
+      "boosts processivity",
+      "rings around DNA",
+      "tethers polymerase",
+      "keeps enzyme bound",
+      "prevents dissociation",
+      "binds Pol delta and epsilon",
+      "proliferating cell nuclear antigen",
+      "PCNA"
+    ]
+  },
+  {
+    "id": "boom-10-8",
+    "title": "DNA Ligase",
+    "course": "boom",
+    "brick_id": "10",
+    "brick_title": "DNA Replication",
+    "type": "physiology",
+    "buzzwords": [
+      "seals gaps",
+      "joins fragments",
+      "forms phosphodiester bonds",
+      "works on lagging strand",
+      "acts after flap removal",
+      "creates continuous strand",
+      "links Okazaki fragments",
+      "DNA ligase"
+    ]
+  },
+  {
+    "id": "boom-10-9",
+    "title": "Okazaki Fragments",
+    "course": "boom",
+    "brick_id": "10",
+    "brick_title": "DNA Replication",
+    "type": "physiology",
+    "buzzwords": [
+      "discontinuous synthesis",
+      "built on lagging strand",
+      "each starts with RNA primer",
+      "short polynucleotides",
+      "made away from fork",
+      "primers later removed",
+      "sealed by ligase",
+      "Okazaki fragments"
+    ]
+  },
+  {
+    "id": "boom-10-10",
+    "title": "Leading vs Lagging",
+    "course": "boom",
+    "brick_id": "10",
+    "brick_title": "DNA Replication",
+    "type": "physiology",
+    "buzzwords": [
+      "two daughter strands differ",
+      "polymerase only adds 5' to 3'",
+      "antiparallel templates",
+      "leading made continuously",
+      "lagging made in pieces",
+      "lagging needs many primers",
+      "semi-discontinuous replication",
+      "leading versus lagging strand"
+    ]
+  }
+]

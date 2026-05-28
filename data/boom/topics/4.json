@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-4-1",
+    "title": "Uncoupling Proteins",
+    "course": "boom",
+    "brick_id": "4",
+    "brick_title": "BOOM: Metabolic Overview II: OXPHOS (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "natural uncoupler",
+      "produces heat",
+      "thermogenesis",
+      "proton leak channel",
+      "spans inner membrane",
+      "tissue-specific expression",
+      "brown adipose tissue",
+      "UCP-1 / thermogenin"
+    ]
+  },
+  {
+    "id": "boom-4-2",
+    "title": "DNP",
+    "course": "boom",
+    "brick_id": "4",
+    "brick_title": "BOOM: Metabolic Overview II: OXPHOS (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "unnatural uncoupler",
+      "lipid-soluble proton shuttle",
+      "dissipates proton gradient",
+      "increases catabolism",
+      "hyperthermia",
+      "old weight-loss drug",
+      "diaphoresis and tachycardia",
+      "2,4-dinitrophenol"
+    ]
+  },
+  {
+    "id": "boom-4-3",
+    "title": "Rotenone",
+    "course": "boom",
+    "brick_id": "4",
+    "brick_title": "BOOM: Metabolic Overview II: OXPHOS (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "ETC inhibitor",
+      "blocks electron flow",
+      "raises NADH/NAD+ ratio",
+      "halts NADH oxidation",
+      "pesticide source",
+      "anion gap acidosis",
+      "complex I inhibitor",
+      "rotenone"
+    ]
+  },
+  {
+    "id": "boom-4-4",
+    "title": "Antimycin A",
+    "course": "boom",
+    "brick_id": "4",
+    "brick_title": "BOOM: Metabolic Overview II: OXPHOS (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "ETC inhibitor",
+      "stops electron flow",
+      "generates ROS",
+      "blocks CoQ to cytochrome c",
+      "lab research tool",
+      "depletes ATP",
+      "complex III inhibitor",
+      "antimycin A"
+    ]
+  },
+  {
+    "id": "boom-4-5",
+    "title": "Cyanide",
+    "course": "boom",
+    "brick_id": "4",
+    "brick_title": "BOOM: Metabolic Overview II: OXPHOS (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "ETC inhibitor",
+      "blocks oxygen consumption",
+      "lactic acidosis",
+      "altered mental status",
+      "shares target with CO",
+      "cherry-red skin",
+      "complex IV inhibitor",
+      "cyanide poisoning"
+    ]
+  },
+  {
+    "id": "boom-4-6",
+    "title": "Oligomycin",
+    "course": "boom",
+    "brick_id": "4",
+    "brick_title": "BOOM: Metabolic Overview II: OXPHOS (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "OXPHOS inhibitor",
+      "blocks proton return",
+      "stalls proton pumping",
+      "halts ATP synthesis",
+      "no thermogenesis",
+      "targets the synthase",
+      "binds ATP synthase",
+      "oligomycin"
+    ]
+  }
+]

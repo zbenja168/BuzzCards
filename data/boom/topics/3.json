@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-3-1",
+    "title": "Metabolic Compartmentalization",
+    "course": "boom",
+    "brick_id": "3",
+    "brick_title": "BOOM: Metabolic Overview II: OXPHOS (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "pathways have a locale",
+      "sequesters reactive metabolites",
+      "improves pathway regulation",
+      "maximizes reaction yield",
+      "glycolysis runs in cytosol",
+      "TCA confined to matrix",
+      "gluconeogenesis spans compartments",
+      "basis of inborn errors"
+    ]
+  },
+  {
+    "id": "boom-3-2",
+    "title": "Mitochondrial Structure",
+    "course": "boom",
+    "brick_id": "3",
+    "brick_title": "BOOM: Metabolic Overview II: OXPHOS (1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "double-membraned organelle",
+      "houses OXPHOS",
+      "two enclosed compartments",
+      "outer membrane is porous",
+      "inner membrane is selective",
+      "matrix holds TCA enzymes",
+      "high surface-to-volume ratio",
+      "cristae are inner foldings"
+    ]
+  },
+  {
+    "id": "boom-3-3",
+    "title": "Central Catabolic Flow",
+    "course": "boom",
+    "brick_id": "3",
+    "brick_title": "BOOM: Metabolic Overview II: OXPHOS (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "carbons oxidatively catabolized",
+      "feeds reduced coenzymes",
+      "ultimately powers ATP",
+      "glucose becomes pyruvate",
+      "fatty acids via beta-oxidation",
+      "converges on acetyl-CoA",
+      "TCA oxidizes acetyl-CoA",
+      "maintains blood glucose"
+    ]
+  },
+  {
+    "id": "boom-3-4",
+    "title": "Electron Transport Chain",
+    "course": "boom",
+    "brick_id": "3",
+    "brick_title": "BOOM: Metabolic Overview II: OXPHOS (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "series of protein complexes",
+      "inner membrane embedded",
+      "accepts electrons from carriers",
+      "pumps protons outward",
+      "builds the proton gradient",
+      "fueled by NADH and FADH2",
+      "oxygen is terminal acceptor",
+      "oxygen reduced to water"
+    ]
+  },
+  {
+    "id": "boom-3-5",
+    "title": "Proton Gradient",
+    "course": "boom",
+    "brick_id": "3",
+    "brick_title": "BOOM: Metabolic Overview II: OXPHOS (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "stored electrochemical energy",
+      "lipid bilayer blocks protons",
+      "protons accumulate one side",
+      "intermembrane space more acidic",
+      "matrix has higher pH",
+      "flows high to low",
+      "established by the ETC",
+      "powers ATP synthase"
+    ]
+  },
+  {
+    "id": "boom-3-6",
+    "title": "ATP Synthase",
+    "course": "boom",
+    "brick_id": "3",
+    "brick_title": "BOOM: Metabolic Overview II: OXPHOS (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "proton-driven enzyme",
+      "requires proton flow",
+      "couples ETC to synthesis",
+      "spans the inner membrane",
+      "converts gradient to ATP",
+      "stalls without a gradient",
+      "uncouplers separate its function",
+      "final step of OXPHOS"
+    ]
+  }
+]

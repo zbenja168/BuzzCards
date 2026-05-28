@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-44-1",
+    "title": "Mosaicism",
+    "course": "boom",
+    "brick_id": "44",
+    "brick_title": "Mosaicism",
+    "type": "physiology",
+    "buzzwords": [
+      "two genetically distinct cell lineages",
+      "both derived from one zygote",
+      "arises post-conception",
+      "from prenatal or postnatal events",
+      "spectrum from nondisjunction to point mutation",
+      "complicates recurrence-risk estimation",
+      "mixture of disomic and trisomic cells",
+      "mosaic Down syndrome milder phenotype"
+    ]
+  },
+  {
+    "id": "boom-44-2",
+    "title": "Confined placental mosaicism",
+    "course": "boom",
+    "brick_id": "44",
+    "brick_title": "Mosaicism",
+    "type": "physiology",
+    "buzzwords": [
+      "mutation only in extraembryonic tissue",
+      "embryo proper unaffected",
+      "arises in trophoblast",
+      "confined to chorionic villus stroma",
+      "often normal pregnancy outcome",
+      "may cause delayed fetal growth",
+      "growth delay implies trisomy mosaicism",
+      "detected on chorionic villus sampling"
+    ]
+  },
+  {
+    "id": "boom-44-3",
+    "title": "Somatic mosaicism",
+    "course": "boom",
+    "brick_id": "44",
+    "brick_title": "Mosaicism",
+    "type": "physiology",
+    "buzzwords": [
+      "present in some embryonic tissues",
+      "absent from the gametes",
+      "affects blood, kidney, muscle, skin",
+      "spares oocytes and sperm",
+      "phenotype affects the individual",
+      "not transmitted to offspring",
+      "circumscribed body location",
+      "segmental neurofibromatosis"
+    ]
+  },
+  {
+    "id": "boom-44-4",
+    "title": "Germline mosaicism",
+    "course": "boom",
+    "brick_id": "44",
+    "brick_title": "Mosaicism",
+    "type": "physiology",
+    "buzzwords": [
+      "mutation restricted to gamete lineage",
+      "arises after germline-somatic separation",
+      "individual usually unaffected",
+      "at risk of affected offspring",
+      "explains recurrence in unaffected parents",
+      "~30 germline divisions before female meiosis",
+      "hundreds of divisions in male germline",
+      "also called gonadal mosaicism"
+    ]
+  },
+  {
+    "id": "boom-44-5",
+    "title": "X-inactivation",
+    "course": "boom",
+    "brick_id": "44",
+    "brick_title": "Mosaicism",
+    "type": "physiology",
+    "buzzwords": [
+      "dosage compensation in females",
+      "silences one X per cell",
+      "random choice early in development",
+      "stably inherited through mitosis",
+      "expression mosaicism for X-linked genes",
+      "skewed when one X is abnormal",
+      "regulated by XIST noncoding RNA",
+      "inactive X forms a Barr body"
+    ]
+  },
+  {
+    "id": "boom-44-6",
+    "title": "Manifesting heterozygote",
+    "course": "boom",
+    "brick_id": "44",
+    "brick_title": "Mosaicism",
+    "type": "disease",
+    "buzzwords": [
+      "female carrier showing symptoms",
+      "X-linked recessive disorder",
+      "from skewed X-inactivation",
+      "normal allele inactivated in many cells",
+      "mutant allele active in high proportion",
+      "partial expression of the disease",
+      "seen in DMD carriers",
+      "muscle weakness in female carrier"
+    ]
+  }
+]

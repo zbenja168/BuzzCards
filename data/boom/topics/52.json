@@ -1,0 +1,92 @@
+[
+  {
+    "id": "boom-52-1",
+    "title": "Multifactorial Disorders",
+    "course": "boom",
+    "brick_id": "52",
+    "brick_title": "Multifactorial Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "complex disease",
+      "no clear inheritance pattern",
+      "genes plus environment",
+      "many genes, small effects",
+      "clusters in families",
+      "not strictly Mendelian",
+      "type 2 diabetes example",
+      "hypertension and obesity"
+    ]
+  },
+  {
+    "id": "boom-52-2",
+    "title": "Threshold Model",
+    "course": "boom",
+    "brick_id": "52",
+    "brick_title": "Multifactorial Disorders",
+    "type": "physiology",
+    "buzzwords": [
+      "liability distribution",
+      "disease above threshold",
+      "recurrence risk in relatives",
+      "more affected relatives, higher risk",
+      "severe case, higher recurrence",
+      "lower-prevalence sex more affected",
+      "opposite-sex relatives higher risk",
+      "liability-threshold model"
+    ]
+  },
+  {
+    "id": "boom-52-3",
+    "title": "GWAS",
+    "course": "boom",
+    "brick_id": "52",
+    "brick_title": "Multifactorial Disorders",
+    "type": "lab",
+    "buzzwords": [
+      "scans thousands of genomes",
+      "finds disease-linked SNPs",
+      "studies common variants",
+      "polymorphisms over 1% frequency",
+      "uncovers biological pathways",
+      "Manhattan plot output",
+      "~75 loci in T2D",
+      "genome-wide association study"
+    ]
+  },
+  {
+    "id": "boom-52-4",
+    "title": "Twin Studies",
+    "course": "boom",
+    "brick_id": "52",
+    "brick_title": "Multifactorial Disorders",
+    "type": "physiology",
+    "buzzwords": [
+      "separates genes from environment",
+      "compares disease concordance",
+      "monozygotic vs dizygotic",
+      "higher MZ concordance means genetic",
+      "estimates heritability",
+      "cleft lip example",
+      "identical share all DNA",
+      "twin concordance study"
+    ]
+  },
+  {
+    "id": "boom-52-5",
+    "title": "CYP2C9 Pharmacogenetics",
+    "course": "boom",
+    "brick_id": "52",
+    "brick_title": "Multifactorial Disorders",
+    "type": "drug",
+    "buzzwords": [
+      "narrow therapeutic window drug",
+      "metabolizes the anticoagulant",
+      "slow variants raise drug levels",
+      "bleeding risk with variants",
+      "guides personalized dosing",
+      "VKORC1 also affects dose",
+      "warfarin metabolism enzyme",
+      "CYP2C9 variants"
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-25-1",
+    "title": "Signaling Paradigms",
+    "course": "boom",
+    "brick_id": "25",
+    "brick_title": "BOOM: Overview of Cell Signaling (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "five communication types",
+      "vary by distance",
+      "autocrine acts on self",
+      "juxtacrine needs cell contact",
+      "paracrine hits nearby cells",
+      "endocrine travels via blood",
+      "synaptic uses neurotransmitters",
+      "juxtacrine paracrine autocrine endocrine synaptic"
+    ]
+  },
+  {
+    "id": "boom-25-2",
+    "title": "GPCRs",
+    "course": "boom",
+    "brick_id": "25",
+    "brick_title": "BOOM: Overview of Cell Signaling (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "membrane receptor",
+      "binds small G proteins",
+      "GDP-to-GTP exchange activates",
+      "Galpha dissociates from Gbetagamma",
+      "activates adenylate cyclase",
+      "raises cAMP",
+      "cAMP activates PKA",
+      "G-protein-coupled receptor"
+    ]
+  },
+  {
+    "id": "boom-25-3",
+    "title": "Ras/MAPK Pathway",
+    "course": "boom",
+    "brick_id": "25",
+    "brick_title": "BOOM: Overview of Cell Signaling (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "drives cell proliferation",
+      "monomeric GTPase switch",
+      "GTPase loss is oncogenic",
+      "kinase cascade to nucleus",
+      "Raf then MEK then Erk",
+      "ends in gene transcription",
+      "constitutively active in tumors",
+      "Ras/MAPK Erk cascade"
+    ]
+  },
+  {
+    "id": "boom-25-4",
+    "title": "Insulin Receptor",
+    "course": "boom",
+    "brick_id": "25",
+    "brick_title": "BOOM: Overview of Cell Signaling (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "an atypical RTK",
+      "pre-dimerized subunits",
+      "linked by disulfide bond",
+      "autophosphorylates tyrosines",
+      "docks IRS scaffold protein",
+      "PI3-kinase drives GLUT4 insertion",
+      "dampened in insulin resistance",
+      "insulin receptor"
+    ]
+  },
+  {
+    "id": "boom-25-5",
+    "title": "Second Messengers",
+    "course": "boom",
+    "brick_id": "25",
+    "brick_title": "BOOM: Overview of Cell Signaling (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "low molecular weight",
+      "intracellular relay molecules",
+      "amplify extracellular signals",
+      "cAMP and cGMP",
+      "IP3 releases stored calcium",
+      "DAG activates PKC",
+      "degraded by phosphodiesterases",
+      "cAMP cGMP IP3 DAG calcium"
+    ]
+  },
+  {
+    "id": "boom-25-6",
+    "title": "Galpha Subunits",
+    "course": "boom",
+    "brick_id": "25",
+    "brick_title": "BOOM: Overview of Cell Signaling (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "GPCR effector switches",
+      "classified into families",
+      "s stimulates adenylyl cyclase",
+      "i inhibits adenylyl cyclase",
+      "q activates phospholipase C",
+      "12/13 activates RhoA",
+      "RhoA drives cytoskeletal remodeling",
+      "Galpha s i q 12/13"
+    ]
+  }
+]

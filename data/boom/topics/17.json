@@ -1,0 +1,92 @@
+[
+  {
+    "id": "boom-17-1",
+    "title": "Western Blot",
+    "course": "boom",
+    "brick_id": "17",
+    "brick_title": "Biotechniques: Protein Detection",
+    "type": "lab",
+    "buzzwords": [
+      "antibody-based",
+      "proteins denatured first",
+      "separated by size",
+      "uniform negative charge",
+      "gel electrophoresis",
+      "transfer to membrane",
+      "reports molecular weight",
+      "HIV confirmatory test"
+    ]
+  },
+  {
+    "id": "boom-17-2",
+    "title": "ELISA",
+    "course": "boom",
+    "brick_id": "17",
+    "brick_title": "Biotechniques: Protein Detection",
+    "type": "lab",
+    "buzzwords": [
+      "antibody-based",
+      "measures abundance",
+      "color change readout",
+      "antigen immobilized on plastic",
+      "labeled anti-human antibody",
+      "serial dilution titer",
+      "lateral flow pregnancy test",
+      "indirect ELISA"
+    ]
+  },
+  {
+    "id": "boom-17-3",
+    "title": "Flow Cytometry",
+    "course": "boom",
+    "brick_id": "17",
+    "brick_title": "Biotechniques: Protein Detection",
+    "type": "lab",
+    "buzzwords": [
+      "analyzes intact cells",
+      "cells pass single-file",
+      "light scattering",
+      "side scatter granularity",
+      "forward scatter size",
+      "quadrant plots",
+      "counts CD4+ T-cells",
+      "CBC differential"
+    ]
+  },
+  {
+    "id": "boom-17-4",
+    "title": "Immunohistochemistry",
+    "course": "boom",
+    "brick_id": "17",
+    "brick_title": "Biotechniques: Protein Detection",
+    "type": "lab",
+    "buzzwords": [
+      "antibody-based",
+      "stains tissue biopsy",
+      "preserves spatial location",
+      "examined by microscopy",
+      "brown DAB precipitate",
+      "HRP-polymer secondary",
+      "used in pathology staging",
+      "IHC"
+    ]
+  },
+  {
+    "id": "boom-17-5",
+    "title": "Hb Electrophoresis",
+    "course": "boom",
+    "brick_id": "17",
+    "brick_title": "Biotechniques: Protein Detection",
+    "type": "lab",
+    "buzzwords": [
+      "separates by charge",
+      "distinguishes Hb variants",
+      "glutamate to valine swap",
+      "HbS migrates slower",
+      "trait shows both bands",
+      "detects sickle cell disease",
+      "negative glutamate lost",
+      "HbA vs HbS"
+    ]
+  }
+]

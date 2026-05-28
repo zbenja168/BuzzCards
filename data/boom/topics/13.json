@@ -1,0 +1,146 @@
+[
+  {
+    "id": "boom-13-1",
+    "title": "Alpha-Amino Acid",
+    "course": "boom",
+    "brick_id": "13",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "protein monomer",
+      "four groups attached",
+      "central alpha-carbon",
+      "variable R side chain",
+      "amine plus carboxyl",
+      "zwitterion at physiologic pH",
+      "20 proteogenic types",
+      "homocysteine is non-proteogenic"
+    ]
+  },
+  {
+    "id": "boom-13-2",
+    "title": "Peptide Bond",
+    "course": "boom",
+    "brick_id": "13",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "covalent linkage",
+      "specialized amide bond",
+      "formed by dehydration",
+      "releases water",
+      "links amino to carboxyl",
+      "creates chain directionality",
+      "free N- and C-termini",
+      "cleaved by proteases"
+    ]
+  },
+  {
+    "id": "boom-13-3",
+    "title": "Amino Acid Classes",
+    "course": "boom",
+    "brick_id": "13",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "grouped by side chain",
+      "nonpolar versus polar",
+      "acidic are negative",
+      "basic are positive",
+      "aspartate glutamate acidic",
+      "lysine arginine histidine basic",
+      "cysteine forms disulfides",
+      "ser thr tyr get phosphorylated"
+    ]
+  },
+  {
+    "id": "boom-13-4",
+    "title": "Hartnup Disease",
+    "course": "boom",
+    "brick_id": "13",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "genetic transporter defect",
+      "failed amino acid reabsorption",
+      "neutral amino acids lost",
+      "neutral aminoaciduria",
+      "pellagra-like rash",
+      "cerebellar ataxia",
+      "tryptophan wasted",
+      "autosomal recessive"
+    ]
+  },
+  {
+    "id": "boom-13-5",
+    "title": "Protein Structure Levels",
+    "course": "boom",
+    "brick_id": "13",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "hierarchical organization",
+      "primary is the sequence",
+      "secondary is local folds",
+      "alpha helix beta sheet",
+      "tertiary is one chain",
+      "single N- and C-terminus",
+      "quaternary multiple chains",
+      "multiple N- and C-termini"
+    ]
+  },
+  {
+    "id": "boom-13-6",
+    "title": "Denaturation",
+    "course": "boom",
+    "brick_id": "13",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "loss of native shape",
+      "disrupts weak interactions",
+      "spares covalent peptide bonds",
+      "caused by heat",
+      "caused by pH extremes",
+      "detergents and chaotropes",
+      "often irreversible",
+      "aggregation in CTE"
+    ]
+  },
+  {
+    "id": "boom-13-7",
+    "title": "Post-translational Mods",
+    "course": "boom",
+    "brick_id": "13",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "modify after translation",
+      "tune protein function",
+      "phosphorylation toggles activity",
+      "adds negative phosphate",
+      "glycosylation adds sugars",
+      "ubiquitination tags for degradation",
+      "gamma-carboxylation needs vitamin K",
+      "clotting factors carboxylated"
+    ]
+  },
+  {
+    "id": "boom-13-8",
+    "title": "Cofactor vs Coenzyme",
+    "course": "boom",
+    "brick_id": "13",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "non-protein helpers",
+      "required for activity",
+      "cofactor is inorganic ion",
+      "metal ions like Ca or Zn",
+      "coenzyme is organic",
+      "often vitamin-derived",
+      "NADH and FADH2 coenzymes",
+      "tightly bound is prosthetic"
+    ]
+  }
+]

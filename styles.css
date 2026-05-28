@@ -617,6 +617,70 @@
   to   { transform: scale(1);   opacity: 1; }
 }
 
+/* --- BRICK SELECT COURSE SECTIONS (top level) ---------------------- */
+.course-section {
+  border: 2px solid var(--gold);
+  border-radius: 0.85rem;
+  margin-bottom: 1.1rem;
+  overflow: hidden;
+  background: linear-gradient(180deg, rgba(0,0,0,0.42) 0%, rgba(0,0,0,0.18) 100%);
+  box-shadow:
+    inset 0 1px 0 rgba(255,255,255,0.05),
+    0 3px 10px rgba(0,0,0,0.4);
+}
+.course-header {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  padding: 0.95rem 1.1rem;
+  background: linear-gradient(180deg, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.3) 100%);
+  cursor: pointer;
+  transition: background .15s ease;
+  border-bottom: 1px solid transparent;
+}
+.course-section.expanded .course-header {
+  border-bottom-color: var(--gold);
+}
+.course-header:hover {
+  background: linear-gradient(180deg, rgba(0,0,0,0.42) 0%, rgba(0,0,0,0.2) 100%);
+}
+.course-section .week-chevron { color: var(--gold-bright); }
+.course-section.expanded .week-chevron { transform: rotate(0deg); }
+.course-section:not(.expanded) .week-chevron { transform: rotate(-90deg); }
+.course-title {
+  font-family: 'Cinzel', 'DM Serif Display', Georgia, serif;
+  font-weight: 800;
+  font-size: 1.3rem;
+  letter-spacing: 0.06em;
+  color: var(--gold-bright);
+  text-shadow: 0 1px 3px rgba(0,0,0,0.55);
+}
+.course-body {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  padding: 0 0.6rem;
+  transition: max-height .4s ease, padding .3s ease, opacity .3s ease;
+  pointer-events: none;
+}
+.course-section.expanded .course-body {
+  max-height: 30000px;
+  opacity: 1;
+  padding: 0.7rem 0.6rem;
+  pointer-events: auto;
+}
+/* Nested week sections sit a little tighter inside a course. */
+.course-body .week-section { margin-bottom: 0.6rem; }
+.course-body .week-section:last-child { margin-bottom: 0; }
+/* Flat brick-tile grid for courses without weeks (always visible when the
+   course is expanded; the course-body handles the collapse). */
+.course-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.5rem;
+  padding: 0.25rem;
+}
+
 /* --- BRICK SELECT WEEK SECTIONS ------------------------------------ */
 .week-section {
   border: 1.5px solid var(--gold-deep);

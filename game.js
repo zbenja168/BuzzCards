@@ -26,12 +26,15 @@ const POINTS_PER_WRONG = 25;  // deducted per wrong card played; also resets the
 const STREAK_CAP       = 3;   // multiplier cap (3x at streak >= 5)
 
 const state = {
-  allCards: [],              // flat list of all cards
-  bricks: [],                // [{id, title, type, week, cards:[...]}], one per brick
-  selectedBrickIds: new Set(),
+  courses: [],               // [{id, name, cards}] from data/courses.json
+  courseOrder: [],           // course ids in manifest order
+  allCards: [],              // flat list of all cards (tagged with .course/.courseName)
+  bricks: [],                // [{key, id, course, title, type, week, cards:[...]}], one per brick
+  selectedBrickIds: new Set(),// holds composite brick keys ("course:brick_id")
   typeFilter: new Set(TYPES),
   handMode: 'decoys',        // 'decoys' | 'siblings' | 'random'
-  expandedWeeks: new Set(),  // weeks the user has opened in the select screen
+  expandedCourses: new Set(),// course ids opened in the select screen
+  expandedWeeks: new Set(),  // "course:week" keys opened in the select screen
   history: [],               // past round outcomes for review; persists across games this page-session
   game: null,
 };
@@ -39,47 +42,73 @@ const state = {
 // ---------- bootstrap ----------
 
 document.addEventListener('DOMContentLoaded', async () => {
-  state.allCards = await loadCards();
+  state.courses = await loadCourses();
+  state.allCards = await loadAllCourseCards(state.courses);
   state.bricks = groupByBrick(state.allCards);
-  state.selectedBrickIds = new Set(state.bricks.map(b => b.id));
+  state.selectedBrickIds = new Set(state.bricks.map(b => b.key));
+  state.courseOrder = state.courses.map(c => c.id);
   renderSelectScreen();
   wireButtons();
 });
 
+// A brick is uniquely keyed by course + brick_id (brick numbers repeat across courses).
 function groupByBrick(cards) {
-  const byId = new Map();
+  const byKey = new Map();
   for (const c of cards) {
-    if (!byId.has(c.brick_id)) {
-      byId.set(c.brick_id, {
+    const key = `${c.course}:${c.brick_id}`;
+    if (!byKey.has(key)) {
+      byKey.set(key, {
+        key,
         id: c.brick_id,
+        course: c.course,
+        courseName: c.courseName,
         title: c.brick_title,
         type: c.type,
-        week: c.week,
+        week: c.week,        // may be undefined for courses without weeks
         cards: [],
       });
     }
-    byId.get(c.brick_id).cards.push(c);
+    byKey.get(key).cards.push(c);
   }
-  return [...byId.values()].sort((a, b) =>
-    (a.week - b.week) || (Number(a.id) - Number(b.id))
-  );
+  return [...byKey.values()];
 }
 
-async function loadCards() {
+// Load the course manifest. Falls back to a single legacy course if absent.
+async function loadCourses() {
   try {
-    const res = await fetch('data/cards.json');
-    if (!res.ok) throw new Error('cards.json fetch failed');
-    return await res.json();
+    const res = await fetch('data/courses.json');
+    if (!res.ok) throw new Error('courses.json fetch failed');
+    const courses = await res.json();
+    if (Array.isArray(courses) && courses.length) return courses;
+    throw new Error('empty courses.json');
   } catch (e) {
-    console.warn('Could not load cards.json — using stub data', e);
-    return STUB_CARDS;
+    console.warn('No courses.json — falling back to single legacy course', e);
+    return [{ id: 'renal', name: 'Renal & Urinary System', cards: 'data/cards.json' }];
   }
+}
+
+// Load every course's cards.json, tagging each card with its course id + name.
+// A course whose cards file is missing (e.g. still being built) is skipped.
+async function loadAllCourseCards(courses) {
+  const all = [];
+  for (const co of courses) {
+    try {
+      const res = await fetch(co.cards);
+      if (!res.ok) throw new Error('fetch failed: ' + co.cards);
+      const cards = await res.json();
+      for (const c of cards) { c.course = co.id; c.courseName = co.name; }
+      all.push(...cards);
+    } catch (e) {
+      console.warn('Could not load course cards:', co.id, e);
+    }
+  }
+  return all.length ? all : STUB_CARDS;
 }
 
 function wireButtons() {
   byId('btn-start').onclick     = () => show('select');
   byId('btn-deal').onclick      = startGame;
-  byId('btn-select-all').onclick  = () => { state.bricks.forEach(b => state.selectedBrickIds.add(b.id)); renderSelectScreen(); };
+  byId('btn-select-all').onclick  = () => { state.bricks.forEach(b => state.selectedBrickIds.add(b.key)); renderSelectScreen(); };
   byId('btn-select-none').onclick = () => { state.selectedBrickIds.clear(); renderSelectScreen(); };
   byId('btn-quit').onclick      = () => { if (confirm('Quit this game?')) show('title'); };
   byId('btn-replay').onclick    = () => show('select');
@@ -304,32 +333,92 @@ function renderSelectScreen() {
     tf.append(pill);
   }
 
-  // Bricks grouped by week, each in its own collapsible section.
+  // Bricks grouped by course (top level), then by week within a course if that
+  // course's bricks carry week numbers (renal), else a flat brick list (boom).
   const grid = byId('brick-grid');
   grid.innerHTML = '';
   const visible = state.bricks.filter(b => state.typeFilter.has(b.type));
 
-  const byWeek = new Map();
+  const byCourse = new Map();
   for (const b of visible) {
-    if (!byWeek.has(b.week)) byWeek.set(b.week, []);
-    byWeek.get(b.week).push(b);
+    if (!byCourse.has(b.course)) byCourse.set(b.course, []);
+    byCourse.get(b.course).push(b);
   }
-  const weeks = [...byWeek.keys()].sort((a, b) => a - b);
-  for (const wk of weeks) grid.append(renderWeekSection(wk, byWeek.get(wk)));
+  // Render courses in manifest order, then any leftovers.
+  const order = [...state.courseOrder, ...[...byCourse.keys()].filter(c => !state.courseOrder.includes(c))];
+  for (const courseId of order) {
+    if (!byCourse.has(courseId)) continue;
+    grid.append(renderCourseSection(courseId, byCourse.get(courseId)));
+  }
 
   // counter shows total CARDS from selected, visible bricks
   const selectedCardCount = visible
-    .filter(b => state.selectedBrickIds.has(b.id))
+    .filter(b => state.selectedBrickIds.has(b.key))
     .reduce((sum, b) => sum + b.cards.length, 0);
   byId('selected-count').textContent = selectedCardCount;
   byId('btn-deal').disabled = selectedCardCount < parseInt(byId('hand-size').value, 10);
 }
 
-// One collapsible week panel — header bar + an expanding grid of brick tiles.
-function renderWeekSection(week, bricks) {
-  const expanded     = state.expandedWeeks.has(week);
+// One collapsible course panel. Inside: week sub-sections if the course has
+// weeks, otherwise brick tiles directly.
+function renderCourseSection(courseId, bricks) {
+  const expanded     = state.expandedCourses.has(courseId);
+  const courseName   = bricks[0].courseName || courseId;
   const totalCards   = bricks.reduce((s, b) => s + b.cards.length, 0);
-  const selectedHere = bricks.filter(b => state.selectedBrickIds.has(b.id)).length;
+  const selectedHere = bricks.filter(b => state.selectedBrickIds.has(b.key)).length;
+  const allSelected  = selectedHere === bricks.length;
+
+  const section = el('div', { class: 'course-section' + (expanded ? ' expanded' : '') });
+
+  const header = el('div', { class: 'course-header' });
+  header.append(
+    el('span', { class: 'week-chevron' }, '▾'),
+    el('span', { class: 'course-title' }, courseName),
+    el('span', { class: 'week-meta' }, `${selectedHere}/${bricks.length} bricks · ${totalCards} cards`),
+  );
+  const selAll = el('button', { class: 'week-select-all', type: 'button' },
+    allSelected ? 'Clear course' : 'All in course');
+  selAll.onclick = (e) => {
+    e.stopPropagation();
+    if (allSelected) bricks.forEach(b => state.selectedBrickIds.delete(b.key));
+    else             bricks.forEach(b => state.selectedBrickIds.add(b.key));
+    renderSelectScreen();
+  };
+  header.append(selAll);
+  header.onclick = () => {
+    if (state.expandedCourses.has(courseId)) state.expandedCourses.delete(courseId);
+    else                                      state.expandedCourses.add(courseId);
+    section.classList.toggle('expanded');
+  };
+
+  const body = el('div', { class: 'course-body' });
+  const hasWeeks = bricks.some(b => b.week != null && b.week !== '');
+  if (hasWeeks) {
+    const byWeek = new Map();
+    for (const b of bricks) {
+      const wk = b.week != null ? b.week : 0;
+      if (!byWeek.has(wk)) byWeek.set(wk, []);
+      byWeek.get(wk).push(b);
+    }
+    const weeks = [...byWeek.keys()].sort((a, b) => a - b);
+    for (const wk of weeks) body.append(renderWeekSection(courseId, wk, byWeek.get(wk)));
+  } else {
+    const tiles = el('div', { class: 'course-tiles' });
+    for (const b of bricks) tiles.append(renderBrickTile(b));
+    body.append(tiles);
+  }
+
+  section.append(header, body);
+  return section;
+}
+
+// One collapsible week panel — header bar + an expanding grid of brick tiles.
+// Week expansion is keyed by "course:week" so weeks don't collide across courses.
+function renderWeekSection(courseId, week, bricks) {
+  const wkKey        = `${courseId}:${week}`;
+  const expanded     = state.expandedWeeks.has(wkKey);
+  const totalCards   = bricks.reduce((s, b) => s + b.cards.length, 0);
+  const selectedHere = bricks.filter(b => state.selectedBrickIds.has(b.key)).length;
   const allSelected  = selectedHere === bricks.length;
 
   const section = el('div', { class: 'week-section' + (expanded ? ' expanded' : '') });
@@ -346,14 +435,14 @@ function renderWeekSection(week, bricks) {
     allSelected ? 'Clear week' : 'All in week');
   selAll.onclick = (e) => {
     e.stopPropagation();
-    if (allSelected) bricks.forEach(b => state.selectedBrickIds.delete(b.id));
-    else             bricks.forEach(b => state.selectedBrickIds.add(b.id));
+    if (allSelected) bricks.forEach(b => state.selectedBrickIds.delete(b.key));
+    else             bricks.forEach(b => state.selectedBrickIds.add(b.key));
     renderSelectScreen();
   };
   header.append(selAll);
   header.onclick = () => {
-    if (state.expandedWeeks.has(week)) state.expandedWeeks.delete(week);
-    else                                state.expandedWeeks.add(week);
+    if (state.expandedWeeks.has(wkKey)) state.expandedWeeks.delete(wkKey);
+    else                                 state.expandedWeeks.add(wkKey);
     section.classList.toggle('expanded');
   };
 
@@ -366,12 +455,12 @@ function renderWeekSection(week, bricks) {
 }
 
 function renderBrickTile(b) {
-  const checked = state.selectedBrickIds.has(b.id);
+  const checked = state.selectedBrickIds.has(b.key);
   const tile = el('label', { class: 'tile' + (checked ? ' selected' : '') });
   const cb = el('input', { type: 'checkbox' });
   cb.checked = checked;
   cb.onchange = () => {
-    cb.checked ? state.selectedBrickIds.add(b.id) : state.selectedBrickIds.delete(b.id);
+    cb.checked ? state.selectedBrickIds.add(b.key) : state.selectedBrickIds.delete(b.key);
     renderSelectScreen();
   };
   const body = el('div', { class: 'flex-1 min-w-0' });
@@ -389,7 +478,7 @@ function renderBrickTile(b) {
 function startGame() {
   const handSize = clamp(parseInt(byId('hand-size').value, 10) || 5, 3, 10);
   const pool = state.bricks
-    .filter(b => state.selectedBrickIds.has(b.id) && state.typeFilter.has(b.type))
+    .filter(b => state.selectedBrickIds.has(b.key) && state.typeFilter.has(b.type))
     .flatMap(b => b.cards.map(c => ({ ...c })));
   if (pool.length < handSize) return;
 

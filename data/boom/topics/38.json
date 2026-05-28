@@ -1,0 +1,164 @@
+[
+  {
+    "id": "boom-38-1",
+    "title": "PCSK9",
+    "course": "boom",
+    "brick_id": "38",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "cholesterol regulator",
+      "binds LDL receptor",
+      "blocks receptor recycling",
+      "targets receptor to lysosome",
+      "fewer LDL receptors",
+      "gain-of-function raises LDL",
+      "monoclonal antibody target",
+      "siRNA therapeutic target"
+    ]
+  },
+  {
+    "id": "boom-38-2",
+    "title": "Familial Hyperchylomicronemia",
+    "course": "boom",
+    "brick_id": "38",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "very high triglycerides",
+      "elevated chylomicrons",
+      "eruptive xanthomas",
+      "milky lipemic serum",
+      "pancreatitis risk",
+      "Fredrickson type I",
+      "LPL deficiency",
+      "ApoC-II deficiency"
+    ]
+  },
+  {
+    "id": "boom-38-3",
+    "title": "Familial Hypercholesterolemia",
+    "course": "boom",
+    "brick_id": "38",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "high cholesterol",
+      "normal triglycerides",
+      "elevated LDL",
+      "tendon xanthomas",
+      "premature coronary disease",
+      "Fredrickson type IIa",
+      "defective LDL receptor",
+      "autosomal dominant"
+    ]
+  },
+  {
+    "id": "boom-38-4",
+    "title": "Familial Combined Hyperlipidemia",
+    "course": "boom",
+    "brick_id": "38",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "high cholesterol and TGs",
+      "most common dyslipidemia",
+      "elevated VLDL and LDL",
+      "mixed lipid subtypes",
+      "increased ApoB-100",
+      "decreased LDL receptors",
+      "Fredrickson type IIb",
+      "early atherosclerosis"
+    ]
+  },
+  {
+    "id": "boom-38-5",
+    "title": "Familial Dysbetalipoproteinemia",
+    "course": "boom",
+    "brick_id": "38",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "high cholesterol and TGs",
+      "remnant accumulation",
+      "palmar xanthomas",
+      "eruptive xanthomas",
+      "premature heart disease",
+      "Fredrickson type III",
+      "ApoE defect",
+      "APOE variant"
+    ]
+  },
+  {
+    "id": "boom-38-6",
+    "title": "Familial Hypertriglyceridemia",
+    "course": "boom",
+    "brick_id": "38",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "elevated triglycerides",
+      "normal cholesterol",
+      "elevated VLDL",
+      "eruptive xanthomas",
+      "pancreatitis risk",
+      "Fredrickson type IV",
+      "excess hepatic VLDL",
+      "VLDL overproduction"
+    ]
+  },
+  {
+    "id": "boom-38-7",
+    "title": "Tangier Disease",
+    "course": "boom",
+    "brick_id": "38",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "low HDL",
+      "low total cholesterol",
+      "impaired efflux",
+      "intracellular cholesterol accumulation",
+      "hepatomegaly",
+      "orange-yellow tonsils",
+      "enlarged tonsils",
+      "ABCA1 deficiency"
+    ]
+  },
+  {
+    "id": "boom-38-8",
+    "title": "MCAD Deficiency",
+    "course": "boom",
+    "brick_id": "38",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "impaired beta-oxidation",
+      "hypoketotic hypoglycemia",
+      "fasting intolerance",
+      "low acetyl-CoA",
+      "depleted ATP",
+      "avoid LCFA supplementation",
+      "no MCFA supplementation",
+      "medium-chain acyl-CoA dehydrogenase"
+    ]
+  },
+  {
+    "id": "boom-38-9",
+    "title": "Primary Carnitine Deficiency",
+    "course": "boom",
+    "brick_id": "38",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "impaired LCFA transport",
+      "blocked mitochondrial import",
+      "hypoketotic hypoglycemia",
+      "carnitine supplementation treats",
+      "MCFA supplementation allowed",
+      "high-dose carnitine",
+      "OCTN2 transporter defect",
+      "systemic carnitine deficiency"
+    ]
+  }
+]

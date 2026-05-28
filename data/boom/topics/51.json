@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-51-1",
+    "title": "Genomic Imprinting",
+    "course": "boom",
+    "brick_id": "51",
+    "brick_title": "Genomic Imprinting Disorders",
+    "type": "physiology",
+    "buzzwords": [
+      "monoallelic expression",
+      "parent-of-origin specific",
+      "one allele silenced",
+      "set during gametogenesis",
+      "regulated by DNA methylation",
+      "imprinting control region",
+      "methylated CpG islands silence",
+      "epigenetic, no sequence change"
+    ]
+  },
+  {
+    "id": "boom-51-2",
+    "title": "Angelman Syndrome",
+    "course": "boom",
+    "brick_id": "51",
+    "brick_title": "Genomic Imprinting Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "developmental delay",
+      "seizures",
+      "ataxic gait",
+      "minimal speech",
+      "inappropriate laughter",
+      "loss of maternal expression",
+      "15q11-q13 defect",
+      "UBE3A gene"
+    ]
+  },
+  {
+    "id": "boom-51-3",
+    "title": "Prader-Willi Syndrome",
+    "course": "boom",
+    "brick_id": "51",
+    "brick_title": "Genomic Imprinting Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "infantile hypotonia",
+      "poor suck, feeding difficulty",
+      "short stature",
+      "hypogonadism",
+      "hyperphagia and obesity",
+      "loss of paternal expression",
+      "15q11-q13 defect",
+      "SNRPN gene"
+    ]
+  },
+  {
+    "id": "boom-51-4",
+    "title": "Transient Neonatal Diabetes",
+    "course": "boom",
+    "brick_id": "51",
+    "brick_title": "Genomic Imprinting Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "low birth weight",
+      "diabetes at birth",
+      "resolves by 3 months",
+      "later type 2 diabetes risk",
+      "variable expressivity",
+      "6q24 dysregulation",
+      "PLAGL1 overexpression",
+      "ZFP57 mutation"
+    ]
+  },
+  {
+    "id": "boom-51-5",
+    "title": "Silver-Russell Syndrome",
+    "course": "boom",
+    "brick_id": "51",
+    "brick_title": "Genomic Imprinting Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "intrauterine growth restriction",
+      "postnatal short stature",
+      "triangular face",
+      "body asymmetry",
+      "fifth finger clinodactyly",
+      "11p15 region",
+      "ICR1 hypomethylation",
+      "reduced IGF2 expression"
+    ]
+  },
+  {
+    "id": "boom-51-6",
+    "title": "Beckwith-Wiedemann",
+    "course": "boom",
+    "brick_id": "51",
+    "brick_title": "Genomic Imprinting Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "overgrowth",
+      "neonatal hypoglycemia",
+      "umbilical hernia",
+      "macroglossia",
+      "delayed milestones",
+      "11p15 region",
+      "hypermethylation pattern",
+      "increased IGF2 expression"
+    ]
+  }
+]

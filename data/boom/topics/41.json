@@ -1,0 +1,92 @@
+[
+  {
+    "id": "boom-41-1",
+    "title": "Nondisjunction",
+    "course": "boom",
+    "brick_id": "41",
+    "brick_title": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+    "type": "physiology",
+    "buzzwords": [
+      "most common aneuploidy cause",
+      "failure to separate",
+      "yields trisomy or monosomy",
+      "meiosis I, II, or mitosis",
+      "meiotic affects every cell",
+      "mitotic causes mosaicism",
+      "rises with maternal age",
+      "chromosomes fail to disjoin"
+    ]
+  },
+  {
+    "id": "boom-41-2",
+    "title": "Robertsonian Translocation",
+    "course": "boom",
+    "brick_id": "41",
+    "brick_title": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+    "type": "physiology",
+    "buzzwords": [
+      "structural rearrangement",
+      "fusion of two long arms",
+      "p arms lost",
+      "acrocentric chromosomes only",
+      "balanced carrier normal",
+      "produces unbalanced gametes",
+      "chromosomes 13,14,15,21,22",
+      "commonly 14;21 in Down"
+    ]
+  },
+  {
+    "id": "boom-41-3",
+    "title": "Down Syndrome",
+    "course": "boom",
+    "brick_id": "41",
+    "brick_title": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+    "type": "disease",
+    "buzzwords": [
+      "most common viable trisomy",
+      "mild-moderate intellectual disability",
+      "flat facies",
+      "single palmar crease",
+      "duodenal atresia",
+      "early-onset Alzheimer",
+      "AML leukemia risk",
+      "trisomy 21"
+    ]
+  },
+  {
+    "id": "boom-41-4",
+    "title": "Edwards Syndrome",
+    "course": "boom",
+    "brick_id": "41",
+    "brick_title": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+    "type": "disease",
+    "buzzwords": [
+      "death within one year",
+      "severe intellectual disability",
+      "micrognathia",
+      "prominent occiput",
+      "overlapping clenched fingers",
+      "rocker-bottom feet",
+      "low-set ears",
+      "trisomy 18"
+    ]
+  },
+  {
+    "id": "boom-41-5",
+    "title": "Patau Syndrome",
+    "course": "boom",
+    "brick_id": "41",
+    "brick_title": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+    "type": "disease",
+    "buzzwords": [
+      "death within one year",
+      "holoprosencephaly",
+      "microcephaly",
+      "polydactyly",
+      "cleft lip/palate",
+      "omphalocele",
+      "cutis aplasia",
+      "trisomy 13"
+    ]
+  }
+]

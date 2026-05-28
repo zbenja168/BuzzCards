@@ -1,0 +1,146 @@
+[
+  {
+    "id": "boom-39-1",
+    "title": "Tay-Sachs disease",
+    "course": "boom",
+    "brick_id": "39",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "lysosomal storage disease",
+      "fatal neurodegeneration",
+      "infantile onset",
+      "exaggerated startle response",
+      "no hepatosplenomegaly",
+      "cherry-red macula",
+      "hexosaminidase A deficiency",
+      "GM2 ganglioside accumulation"
+    ]
+  },
+  {
+    "id": "boom-39-2",
+    "title": "Niemann-Pick disease",
+    "course": "boom",
+    "brick_id": "39",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "lysosomal storage disease",
+      "neurodegeneration",
+      "infantile onset",
+      "hepatosplenomegaly",
+      "cherry-red macula",
+      "foam cells",
+      "sphingomyelinase deficiency",
+      "sphingomyelin accumulation"
+    ]
+  },
+  {
+    "id": "boom-39-3",
+    "title": "Gaucher disease",
+    "course": "boom",
+    "brick_id": "39",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "most common lysosomal storage disease",
+      "spares the CNS",
+      "hepatosplenomegaly",
+      "bone crises",
+      "pancytopenia",
+      "crinkled-paper macrophages",
+      "glucocerebrosidase deficiency",
+      "glucocerebroside accumulation"
+    ]
+  },
+  {
+    "id": "boom-39-4",
+    "title": "Fabry disease",
+    "course": "boom",
+    "brick_id": "39",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "X-linked inheritance",
+      "adult onset",
+      "neuropathic pain",
+      "hypohidrosis",
+      "angiokeratomas",
+      "renal and cardiac failure",
+      "alpha-galactosidase A deficiency",
+      "ceramide trihexoside accumulation"
+    ]
+  },
+  {
+    "id": "boom-39-5",
+    "title": "Krabbe disease",
+    "course": "boom",
+    "brick_id": "39",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "lysosomal storage disease",
+      "infantile onset",
+      "peripheral neuropathy",
+      "optic atrophy",
+      "developmental regression",
+      "globoid cells",
+      "galactocerebrosidase deficiency",
+      "galactocerebroside accumulation"
+    ]
+  },
+  {
+    "id": "boom-39-6",
+    "title": "Metachromatic leukodystrophy",
+    "course": "boom",
+    "brick_id": "39",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "lysosomal storage disease",
+      "demyelinating disorder",
+      "central and peripheral demyelination",
+      "ataxia",
+      "developmental regression",
+      "dementia",
+      "arylsulfatase A deficiency",
+      "cerebroside sulfate accumulation"
+    ]
+  },
+  {
+    "id": "boom-39-7",
+    "title": "Zellweger syndrome",
+    "course": "boom",
+    "brick_id": "39",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "peroxisome biogenesis disorder",
+      "absent functional peroxisomes",
+      "hypotonia",
+      "seizures",
+      "craniofacial dysmorphism",
+      "hepatomegaly",
+      "PEX gene mutation",
+      "VLCFA accumulation"
+    ]
+  },
+  {
+    "id": "boom-39-8",
+    "title": "X-linked adrenoleukodystrophy",
+    "course": "boom",
+    "brick_id": "39",
+    "brick_title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "X-linked inheritance",
+      "peroxisomes still form",
+      "impaired VLCFA import",
+      "progressive neurodegeneration",
+      "adrenal insufficiency",
+      "demyelination",
+      "ABC transporter defect",
+      "VLCFA accumulation"
+    ]
+  }
+]

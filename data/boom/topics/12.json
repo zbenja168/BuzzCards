@@ -1,0 +1,128 @@
+[
+  {
+    "id": "boom-12-1",
+    "title": "Silent Mutation",
+    "course": "boom",
+    "brick_id": "12",
+    "brick_title": "DNA Point Mutations",
+    "type": "physiology",
+    "buzzwords": [
+      "single nucleotide change",
+      "exploits code redundancy",
+      "same amino acid",
+      "no protein change",
+      "protein unaffected",
+      "point mutation type",
+      "aka synonymous",
+      "synonymous mutation"
+    ]
+  },
+  {
+    "id": "boom-12-2",
+    "title": "Missense Mutation",
+    "course": "boom",
+    "brick_id": "12",
+    "brick_title": "DNA Point Mutations",
+    "type": "physiology",
+    "buzzwords": [
+      "single nucleotide change",
+      "different amino acid",
+      "altered protein structure",
+      "conserved vs non-conserved",
+      "similar properties swap",
+      "aka nonsynonymous",
+      "sickle cell example",
+      "nonsynonymous mutation"
+    ]
+  },
+  {
+    "id": "boom-12-3",
+    "title": "Nonsense Mutation",
+    "course": "boom",
+    "brick_id": "12",
+    "brick_title": "DNA Point Mutations",
+    "type": "physiology",
+    "buzzwords": [
+      "single nucleotide change",
+      "premature termination",
+      "truncated protein",
+      "dysfunctional product",
+      "codon becomes stop",
+      "UAA UGA UAG",
+      "CFTR in cystic fibrosis",
+      "premature stop codon"
+    ]
+  },
+  {
+    "id": "boom-12-4",
+    "title": "Splice Site Mutation",
+    "course": "boom",
+    "brick_id": "12",
+    "brick_title": "DNA Point Mutations",
+    "type": "physiology",
+    "buzzwords": [
+      "disrupts pre-mRNA processing",
+      "altered intron removal",
+      "exon skipping",
+      "intron retention",
+      "creates cryptic exon",
+      "GU-AG flanking sequences",
+      "donor site GU",
+      "acceptor site AG"
+    ]
+  },
+  {
+    "id": "boom-12-5",
+    "title": "Frameshift Mutation",
+    "course": "boom",
+    "brick_id": "12",
+    "brick_title": "DNA Point Mutations",
+    "type": "physiology",
+    "buzzwords": [
+      "insertion or deletion",
+      "non-triplet shift",
+      "alters reading frame",
+      "every downstream codon changed",
+      "often very detrimental",
+      "multiples of three spare frame",
+      "indel mutation",
+      "shifts reading frame"
+    ]
+  },
+  {
+    "id": "boom-12-6",
+    "title": "Haploinsufficiency",
+    "course": "boom",
+    "brick_id": "12",
+    "brick_title": "DNA Point Mutations",
+    "type": "physiology",
+    "buzzwords": [
+      "heterozygous mechanism",
+      "one allele inactivated",
+      "50% gene product",
+      "remaining amount insufficient",
+      "disease despite one good allele",
+      "dose-dependent gene",
+      "haplo means single",
+      "single copy not enough"
+    ]
+  },
+  {
+    "id": "boom-12-7",
+    "title": "Dominant Negative",
+    "course": "boom",
+    "brick_id": "12",
+    "brick_title": "DNA Point Mutations",
+    "type": "physiology",
+    "buzzwords": [
+      "heterozygous mechanism",
+      "mutant interferes with wild-type",
+      "antagonizes normal product",
+      "abnormal protein blocks function",
+      "loss-of-function that inhibits",
+      "poison polypeptide",
+      "disrupts multimer assembly",
+      "double-negative effect"
+    ]
+  }
+]

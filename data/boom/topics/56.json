@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-56-1",
+    "title": "RT-PCR",
+    "course": "boom",
+    "brick_id": "56",
+    "brick_title": "Molecular Biology Techniques (3 of 3), RNA analysis",
+    "type": "lab",
+    "buzzwords": [
+      "detects RNA",
+      "RNA to DNA",
+      "makes cDNA",
+      "first step of qPCR",
+      "needs primers",
+      "uses viral enzyme",
+      "reverse transcriptase",
+      "HIV-1 RT"
+    ]
+  },
+  {
+    "id": "boom-56-2",
+    "title": "RT-qPCR",
+    "course": "boom",
+    "brick_id": "56",
+    "brick_title": "Molecular Biology Techniques (3 of 3), RNA analysis",
+    "type": "lab",
+    "buzzwords": [
+      "quantifies expression",
+      "real-time PCR",
+      "fluorescence per cycle",
+      "exponential signal rise",
+      "targeted method",
+      "needs specific primers",
+      "monitors HIV viral load",
+      "uses Taq polymerase"
+    ]
+  },
+  {
+    "id": "boom-56-3",
+    "title": "Cycle Threshold",
+    "course": "boom",
+    "brick_id": "56",
+    "brick_title": "Molecular Biology Techniques (3 of 3), RNA analysis",
+    "type": "lab",
+    "buzzwords": [
+      "cycles to exceed background",
+      "inversely proportional to target",
+      "low value, high expression",
+      "high value, low expression",
+      "compares conditions",
+      "qPCR readout",
+      "crosses threshold line",
+      "Ct"
+    ]
+  },
+  {
+    "id": "boom-56-4",
+    "title": "Absolute Quantification",
+    "course": "boom",
+    "brick_id": "56",
+    "brick_title": "Molecular Biology Techniques (3 of 3), RNA analysis",
+    "type": "lab",
+    "buzzwords": [
+      "exact molecule count",
+      "copies per mL",
+      "needs reference standard",
+      "serial dilutions",
+      "log concentration vs Ct",
+      "linear regression fit",
+      "interpolates unknown",
+      "standard curve"
+    ]
+  },
+  {
+    "id": "boom-56-5",
+    "title": "Relative Quantification",
+    "course": "boom",
+    "brick_id": "56",
+    "brick_title": "Molecular Biology Techniques (3 of 3), RNA analysis",
+    "type": "lab",
+    "buzzwords": [
+      "compares Ct across conditions",
+      "no exact count needed",
+      "semi-quantitative",
+      "research biomarkers",
+      "predicts cancer prognosis",
+      "one gene, two conditions",
+      "calculates fold change",
+      "relative quantification"
+    ]
+  },
+  {
+    "id": "boom-56-6",
+    "title": "RNA-seq",
+    "course": "boom",
+    "brick_id": "56",
+    "brick_title": "Molecular Biology Techniques (3 of 3), RNA analysis",
+    "type": "lab",
+    "buzzwords": [
+      "transcriptome-wide",
+      "exploratory, untargeted",
+      "thousands of genes at once",
+      "finds novel genes",
+      "detects gene fusions",
+      "misses low-abundance genes",
+      "volcano plots, heatmaps",
+      "next-generation sequencing"
+    ]
+  }
+]

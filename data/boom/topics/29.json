@@ -1,0 +1,164 @@
+[
+  {
+    "id": "boom-29-1",
+    "title": "Dietary Reference Intakes",
+    "course": "boom",
+    "brick_id": "29",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+    "type": "lab",
+    "buzzwords": [
+      "vary by age and sex",
+      "set of reference values",
+      "RDA meets ~97-98%",
+      "EAR meets half a group",
+      "AI when RDA undetermined",
+      "UL is safe ceiling",
+      "above UL adverse risk rises",
+      "DRI umbrella term"
+    ]
+  },
+  {
+    "id": "boom-29-2",
+    "title": "Thiamin",
+    "course": "boom",
+    "brick_id": "29",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "water-soluble vitamin",
+      "central to glucose metabolism",
+      "cofactor for oxidative decarboxylation",
+      "pyruvate dehydrogenase cofactor",
+      "transketolase cofactor",
+      "depleted in chronic alcoholism",
+      "vitamin B1",
+      "deficiency causes beriberi"
+    ]
+  },
+  {
+    "id": "boom-29-3",
+    "title": "Niacin",
+    "course": "boom",
+    "brick_id": "29",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "forms NAD+ and NADP+",
+      "deficient in corn-based diets",
+      "synthesized from tryptophan",
+      "high doses cause flush",
+      "lowest UL water-soluble vitamin",
+      "vitamin B3",
+      "deficiency causes pellagra",
+      "dermatitis diarrhea dementia death"
+    ]
+  },
+  {
+    "id": "boom-29-4",
+    "title": "Pellagra",
+    "course": "boom",
+    "brick_id": "29",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+    "type": "disease",
+    "buzzwords": [
+      "niacin deficiency syndrome",
+      "sun-exposed dermatitis",
+      "diarrhea",
+      "dementia and ataxia",
+      "death if untreated",
+      "seen in Hartnup disease",
+      "seen in carcinoid syndrome",
+      "Casal necklace rash"
+    ]
+  },
+  {
+    "id": "boom-29-5",
+    "title": "Pantothenate",
+    "course": "boom",
+    "brick_id": "29",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "abundant in many foods",
+      "deficiency extremely rare",
+      "no established RDA",
+      "constituent of coenzyme A",
+      "used in ~100 reactions",
+      "key to energy production",
+      "name means everywhere",
+      "vitamin B5"
+    ]
+  },
+  {
+    "id": "boom-29-6",
+    "title": "Pyridoxine",
+    "course": "boom",
+    "brick_id": "29",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "yields PLP cofactor",
+      "transamination reactions",
+      "first step of heme synthesis",
+      "glycogen phosphorylase cofactor",
+      "decarboxylation for neurotransmitters",
+      "excess causes peripheral neuropathy",
+      "depleted by isoniazid",
+      "vitamin B6"
+    ]
+  },
+  {
+    "id": "boom-29-7",
+    "title": "Biotin",
+    "course": "boom",
+    "brick_id": "29",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "cofactor for carboxylases",
+      "adds CO2 to substrates",
+      "key in gluconeogenesis",
+      "pyruvate carboxylase cofactor",
+      "depleted by raw egg avidin",
+      "deficiency causes flaky dermatitis",
+      "biotinidase deficiency recycling defect",
+      "vitamin B7"
+    ]
+  },
+  {
+    "id": "boom-29-8",
+    "title": "Vitamin C",
+    "course": "boom",
+    "brick_id": "29",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "found in citrus fruits",
+      "antioxidant binds free radicals",
+      "reduces Fe3+ to Fe2+",
+      "boosts dietary iron absorption",
+      "cofactor for collagen hydroxylation",
+      "prolyl and lysyl hydroxylase",
+      "ascorbic acid",
+      "deficiency causes scurvy"
+    ]
+  },
+  {
+    "id": "boom-29-9",
+    "title": "Tetrahydrobiopterin",
+    "course": "boom",
+    "brick_id": "29",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "derived from GTP not vitamin",
+      "cofactor for hydroxylases",
+      "phenylalanine hydroxylase cofactor",
+      "tyrosine hydroxylase cofactor",
+      "tryptophan hydroxylase cofactor",
+      "needed for serotonin synthesis",
+      "needed for nitric oxide synthesis",
+      "abbreviated BH4"
+    ]
+  }
+]

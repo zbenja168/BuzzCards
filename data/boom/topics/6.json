@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-6-1",
+    "title": "MCV Classification",
+    "course": "boom",
+    "brick_id": "6",
+    "brick_title": "BOOM: Metabolic Overview III: O2 delivery (2 of 2)",
+    "type": "lab",
+    "buzzwords": [
+      "sizes red blood cells",
+      "three anemia categories",
+      "small cells mean low Hb",
+      "large cells mean poor DNA",
+      "normocytic from cell loss",
+      "microcytic is undersized RBCs",
+      "macrocytic is oversized RBCs",
+      "mean corpuscular volume"
+    ]
+  },
+  {
+    "id": "boom-6-2",
+    "title": "Riboflavin",
+    "course": "boom",
+    "brick_id": "6",
+    "brick_title": "BOOM: Metabolic Overview III: O2 delivery (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "water-soluble B vitamin",
+      "rare cause of anemia",
+      "needed for iron absorption",
+      "deficiency gives normocytic anemia",
+      "classically tested normocytic cause",
+      "cheilosis and glossitis",
+      "ariboflavinosis",
+      "vitamin B2"
+    ]
+  },
+  {
+    "id": "boom-6-3",
+    "title": "Pyridoxine",
+    "course": "boom",
+    "brick_id": "6",
+    "brick_title": "BOOM: Metabolic Overview III: O2 delivery (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "abundant in foods",
+      "active form is PLP",
+      "needed for porphyrin synthesis",
+      "deficiency limits heme",
+      "causes microcytic anemia",
+      "depleted by isoniazid",
+      "isoniazid gives sensory neuropathy",
+      "vitamin B6"
+    ]
+  },
+  {
+    "id": "boom-6-4",
+    "title": "Folate",
+    "course": "boom",
+    "brick_id": "6",
+    "brick_title": "BOOM: Metabolic Overview III: O2 delivery (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "carries one-carbon units",
+      "absorbed in jejunum",
+      "humans cannot synthesize it",
+      "reduced to tetrahydrofolate",
+      "deficiency gives macrocytic anemia",
+      "reduced by DHFR",
+      "methotrexate blocks DHFR",
+      "vitamin B9"
+    ]
+  },
+  {
+    "id": "boom-6-5",
+    "title": "Cobalamin",
+    "course": "boom",
+    "brick_id": "6",
+    "brick_title": "BOOM: Metabolic Overview III: O2 delivery (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "contains a cobalt ion",
+      "absorbed in terminal ileum",
+      "requires intrinsic factor",
+      "liver stores last years",
+      "deficiency gives macrocytic anemia",
+      "converts homocysteine to methionine",
+      "elevated MMA confirms deficiency",
+      "vitamin B12"
+    ]
+  },
+  {
+    "id": "boom-6-6",
+    "title": "Pernicious Anemia",
+    "course": "boom",
+    "brick_id": "6",
+    "brick_title": "BOOM: Metabolic Overview III: O2 delivery (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "macrocytic anemia",
+      "autoimmune disorder",
+      "impairs B12 absorption",
+      "hypersegmented neutrophils",
+      "elevated homocysteine and MMA",
+      "predominantly older women",
+      "antibodies against parietal cells",
+      "anti-intrinsic factor antibodies"
+    ]
+  }
+]

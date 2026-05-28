@@ -1,0 +1,128 @@
+[
+  {
+    "id": "boom-11-1",
+    "title": "Transcription",
+    "course": "boom",
+    "brick_id": "11",
+    "brick_title": "The Central Dogma: DNA to RNA to Proteins",
+    "type": "physiology",
+    "buzzwords": [
+      "DNA into RNA",
+      "initiation, elongation, termination",
+      "reads template strand",
+      "synthesizes 5' to 3'",
+      "promoters recruit factors",
+      "coding strand equals sense",
+      "carried out by RNAP II",
+      "transcription"
+    ]
+  },
+  {
+    "id": "boom-11-2",
+    "title": "5' Cap",
+    "course": "boom",
+    "brick_id": "11",
+    "brick_title": "The Central Dogma: DNA to RNA to Proteins",
+    "type": "physiology",
+    "buzzwords": [
+      "added to pre-mRNA",
+      "guides nuclear export",
+      "blocks 5' exonucleases",
+      "initiates translation",
+      "5'-to-5' triphosphate bridge",
+      "modifies the leading end",
+      "added co-transcriptionally",
+      "7-methylguanosine"
+    ]
+  },
+  {
+    "id": "boom-11-3",
+    "title": "Poly(A) Tail",
+    "course": "boom",
+    "brick_id": "11",
+    "brick_title": "The Central Dogma: DNA to RNA to Proteins",
+    "type": "physiology",
+    "buzzwords": [
+      "added to the 3' end",
+      "200-250 adenosines",
+      "ATP is the substrate",
+      "stabilizes the transcript",
+      "shields from exonucleases",
+      "follows AAUAAA signal",
+      "made by polyadenylate polymerase",
+      "poly(A) tail"
+    ]
+  },
+  {
+    "id": "boom-11-4",
+    "title": "Splicing",
+    "course": "boom",
+    "brick_id": "11",
+    "brick_title": "The Central Dogma: DNA to RNA to Proteins",
+    "type": "physiology",
+    "buzzwords": [
+      "removes introns",
+      "joins exons",
+      "5'-GU donor site",
+      "AG-3' acceptor site",
+      "internal adenine branch point",
+      "enables alternative splicing",
+      "carried out by spliceosome",
+      "snRNPs do the work"
+    ]
+  },
+  {
+    "id": "boom-11-5",
+    "title": "Translation",
+    "course": "boom",
+    "brick_id": "11",
+    "brick_title": "The Central Dogma: DNA to RNA to Proteins",
+    "type": "physiology",
+    "buzzwords": [
+      "mRNA into protein",
+      "occurs in cytoplasm",
+      "codons read in triplets",
+      "starts at AUG codon",
+      "first amino acid methionine",
+      "A, P, E sites",
+      "40S plus 60S equals 80S",
+      "carried out by ribosome"
+    ]
+  },
+  {
+    "id": "boom-11-6",
+    "title": "tRNA Charging",
+    "course": "boom",
+    "brick_id": "11",
+    "brick_title": "The Central Dogma: DNA to RNA to Proteins",
+    "type": "physiology",
+    "buzzwords": [
+      "delivers amino acids",
+      "anticodon pairs with codon",
+      "cloverleaf secondary structure",
+      "matches amino acid to anticodon",
+      "consumes ATP",
+      "no ribosomal proofreading",
+      "errors mis-incorporate residues",
+      "aminoacyl-tRNA synthetase"
+    ]
+  },
+  {
+    "id": "boom-11-7",
+    "title": "Reverse Transcription",
+    "course": "boom",
+    "brick_id": "11",
+    "brick_title": "The Central Dogma: DNA to RNA to Proteins",
+    "type": "physiology",
+    "buzzwords": [
+      "exception to central dogma",
+      "reverses the normal flow",
+      "RNA into DNA",
+      "uses an RNA template",
+      "performed by retroviruses",
+      "enzyme is reverse transcriptase",
+      "used by HIV",
+      "reverse transcription"
+    ]
+  }
+]

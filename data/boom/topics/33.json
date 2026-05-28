@@ -1,0 +1,128 @@
+[
+  {
+    "id": "boom-33-1",
+    "title": "Nitrogen Balance",
+    "course": "boom",
+    "brick_id": "33",
+    "brick_title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "intake vs excretion",
+      "dietary nitrogen sources",
+      "amino acid pool",
+      "growth gives positive",
+      "starvation gives negative",
+      "burns and trauma",
+      "healthy adult equilibrium",
+      "intake equals output"
+    ]
+  },
+  {
+    "id": "boom-33-2",
+    "title": "Urea Cycle",
+    "course": "boom",
+    "brick_id": "33",
+    "brick_title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "detoxifies ammonia",
+      "occurs in hepatocytes",
+      "spans mito and cytoplasm",
+      "makes water-soluble urea",
+      "nitrogen from aspartate",
+      "regenerates ornithine",
+      "arginase yields urea",
+      "Krebs-Henseleit cycle"
+    ]
+  },
+  {
+    "id": "boom-33-3",
+    "title": "CPS-I",
+    "course": "boom",
+    "brick_id": "33",
+    "brick_title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "first urea cycle step",
+      "mitochondrial enzyme",
+      "ammonia plus CO2",
+      "makes carbamoyl phosphate",
+      "rate-limiting step",
+      "allosterically activated",
+      "needs N-acetylglutamate",
+      "NAG required cofactor"
+    ]
+  },
+  {
+    "id": "boom-33-4",
+    "title": "Glucose-Alanine Cycle",
+    "course": "boom",
+    "brick_id": "33",
+    "brick_title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "nitrogen shuttle to liver",
+      "active in fasting",
+      "muscle exports alanine",
+      "alanine from pyruvate",
+      "liver makes glucose",
+      "transaminase needed",
+      "spares glucose for muscle",
+      "Cabrera Cahill cycle"
+    ]
+  },
+  {
+    "id": "boom-33-5",
+    "title": "Urea Cycle Disorders",
+    "course": "boom",
+    "brick_id": "33",
+    "brick_title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "inherited enzyme defects",
+      "neonatal lethargy vomiting",
+      "respiratory alkalosis",
+      "elevated glutamine",
+      "hyperammonemia",
+      "low blood urea nitrogen",
+      "treat with protein restriction",
+      "ammonia scavenger therapy"
+    ]
+  },
+  {
+    "id": "boom-33-6",
+    "title": "OTC Deficiency",
+    "course": "boom",
+    "brick_id": "33",
+    "brick_title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "most common urea defect",
+      "X-linked inheritance",
+      "low or absent citrulline",
+      "carbamoyl phosphate builds up",
+      "spills into pyrimidine pathway",
+      "elevated orotic acid",
+      "orotic aciduria no anemia",
+      "distinguishes from OPRT deficiency"
+    ]
+  },
+  {
+    "id": "boom-33-7",
+    "title": "Nitrogen Scavengers",
+    "course": "boom",
+    "brick_id": "33",
+    "brick_title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "treat hyperammonemia",
+      "urea-independent disposal",
+      "benzoate conjugates glycine",
+      "excreted as hippurate",
+      "phenylacetate conjugates glutamine",
+      "excreted as phenylacetylglutamine",
+      "active metabolite phenylbutyrate",
+      "sodium benzoate phenylacetate"
+    ]
+  }
+]

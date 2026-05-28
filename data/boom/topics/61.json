@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-61-1",
+    "title": "Pharmacogenomics",
+    "course": "boom",
+    "brick_id": "61",
+    "brick_title": "Pharmacogenetics: An Introduction",
+    "type": "physiology",
+    "buzzwords": [
+      "tailors drug therapy",
+      "predicts drug response",
+      "explains response variability",
+      "guides dosing decisions",
+      "reduces adverse reactions",
+      "whole-genome scope",
+      "multi-gene interactions",
+      "broader than pharmacogenetics"
+    ]
+  },
+  {
+    "id": "boom-61-2",
+    "title": "SNP",
+    "course": "boom",
+    "brick_id": "61",
+    "brick_title": "Pharmacogenetics: An Introduction",
+    "type": "physiology",
+    "buzzwords": [
+      "most common polymorphism",
+      "single-base change",
+      "e.g. A to G",
+      "coding alters amino acid",
+      "noncoding alters protein amount",
+      "regulatory affects expression",
+      "linked SNPs are markers",
+      "single-nucleotide polymorphism"
+    ]
+  },
+  {
+    "id": "boom-61-3",
+    "title": "GPCR Variants",
+    "course": "boom",
+    "brick_id": "61",
+    "brick_title": "Pharmacogenetics: An Introduction",
+    "type": "physiology",
+    "buzzwords": [
+      "drug target receptors",
+      "alters drug efficacy",
+      "affects signal coupling",
+      "changes ligand binding",
+      "ADRB1 and beta-blockers",
+      "ADRB2 and asthma drugs",
+      "DRD2 and antipsychotics",
+      "ADRB1 Arg389Gly"
+    ]
+  },
+  {
+    "id": "boom-61-4",
+    "title": "Phase 1 CYP450 Enzymes",
+    "course": "boom",
+    "brick_id": "61",
+    "brick_title": "Pharmacogenetics: An Introduction",
+    "type": "drug",
+    "buzzwords": [
+      "phase 1 metabolism",
+      "oxidation reduction hydrolysis",
+      "slow breakdown causes toxicity",
+      "fast breakdown loses efficacy",
+      "CYP2D6",
+      "CYP3A4 loss = toxicity",
+      "CYP2C19*17 ultra-rapid",
+      "PPI loses effectiveness"
+    ]
+  },
+  {
+    "id": "boom-61-5",
+    "title": "TPMT",
+    "course": "boom",
+    "brick_id": "61",
+    "brick_title": "Pharmacogenetics: An Introduction",
+    "type": "drug",
+    "buzzwords": [
+      "phase 2 enzyme",
+      "S-methyltransferase",
+      "deficiency causes toxicity",
+      "loss leads to myelosuppression",
+      "leukopenia and bleeding",
+      "metabolizes azathioprine",
+      "thiopurine drugs",
+      "TPMT*2,*3 decreased function"
+    ]
+  },
+  {
+    "id": "boom-61-6",
+    "title": "HLA-B Variants",
+    "course": "boom",
+    "brick_id": "61",
+    "brick_title": "Pharmacogenetics: An Introduction",
+    "type": "disease",
+    "buzzwords": [
+      "antigen-presenting variants",
+      "immune-mediated reaction",
+      "delayed hypersensitivity",
+      "Stevens-Johnson syndrome",
+      "toxic epidermal necrolysis",
+      "carbamazepine rash",
+      "HLA-B*57:01 abacavir",
+      "HLA-B*15:02 carbamazepine"
+    ]
+  }
+]

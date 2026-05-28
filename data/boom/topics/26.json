@@ -1,0 +1,218 @@
+[
+  {
+    "id": "boom-26-1",
+    "title": "JAK/STAT signaling",
+    "course": "boom",
+    "brick_id": "26",
+    "brick_title": "BOOM: Overview of Cell Signaling (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "cytokine receptors",
+      "receptor lacks kinase",
+      "needs associated kinase",
+      "STATs are transcription factors",
+      "phosphorylated STAT dimerizes",
+      "STATs translocate to nucleus",
+      "drives EPO response",
+      "Janus kinases"
+    ]
+  },
+  {
+    "id": "boom-26-2",
+    "title": "HIF-1α oxygen sensing",
+    "course": "boom",
+    "brick_id": "26",
+    "brick_title": "BOOM: Overview of Cell Signaling (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "oxygen-sensing transcription factor",
+      "degraded in normoxia",
+      "stabilized by hypoxia",
+      "induces angiogenesis",
+      "upregulates GLUT1",
+      "drives EPO production",
+      "degraded by VHL",
+      "VHL loss favors tumors"
+    ]
+  },
+  {
+    "id": "boom-26-3",
+    "title": "Polycythemia vera",
+    "course": "boom",
+    "brick_id": "26",
+    "brick_title": "BOOM: Overview of Cell Signaling (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "RBC overproduction",
+      "myeloproliferative neoplasm",
+      "thick blood, clot risk",
+      "facial plethora",
+      "aquagenic pruritus",
+      "splenomegaly",
+      "constitutive JAK signaling",
+      "JAK2 V617F"
+    ]
+  },
+  {
+    "id": "boom-26-4",
+    "title": "NF-κB signaling",
+    "course": "boom",
+    "brick_id": "26",
+    "brick_title": "BOOM: Overview of Cell Signaling (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "inflammatory transcription factor",
+      "sequestered in cytoplasm",
+      "held by inhibitor IκB",
+      "IκB degraded to activate",
+      "drives immune genes",
+      "activated by PAMPs",
+      "downstream of TLRs",
+      "downstream of TNF-α"
+    ]
+  },
+  {
+    "id": "boom-26-5",
+    "title": "TNF-α inhibitors",
+    "course": "boom",
+    "brick_id": "26",
+    "brick_title": "BOOM: Overview of Cell Signaling (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "block inflammatory cytokine",
+      "treat rheumatoid arthritis",
+      "treat psoriatic arthritis",
+      "risk of immunosuppression",
+      "decoy soluble receptor",
+      "mimics cleaved TNFR-1",
+      "adalimumab is Humira",
+      "etanercept is Enbrel"
+    ]
+  },
+  {
+    "id": "boom-26-6",
+    "title": "Wnt/β-catenin signaling",
+    "course": "boom",
+    "brick_id": "26",
+    "brick_title": "BOOM: Overview of Cell Signaling (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "drives proliferation genes",
+      "ligand binds a GPCR",
+      "receptor is Frizzled",
+      "transducer is Dishevelled",
+      "β-catenin is the effector",
+      "inhibits an inhibitor",
+      "destruction complex normally degrades",
+      "complex has APC, GSK-3β"
+    ]
+  },
+  {
+    "id": "boom-26-7",
+    "title": "E-cadherin/β-catenin",
+    "course": "boom",
+    "brick_id": "26",
+    "brick_title": "BOOM: Overview of Cell Signaling (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "cell-cell adhesion molecule",
+      "sequesters β-catenin at membrane",
+      "loss frees β-catenin",
+      "freed β-catenin enters nucleus",
+      "promotes cell migration",
+      "drives cancer progression",
+      "key in EMT",
+      "cadherin-catenin complex"
+    ]
+  },
+  {
+    "id": "boom-26-8",
+    "title": "Leukocyte adhesion deficiency",
+    "course": "boom",
+    "brick_id": "26",
+    "brick_title": "BOOM: Overview of Cell Signaling (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "defective neutrophil transmigration",
+      "recurrent skin infections",
+      "no pus formation",
+      "delayed umbilical separation",
+      "integrin adhesion defect",
+      "LFA-1 integrin",
+      "CD18 deficiency",
+      "absent leukocyte rolling arrest"
+    ]
+  },
+  {
+    "id": "boom-26-9",
+    "title": "HER2+ breast cancer",
+    "course": "boom",
+    "brick_id": "26",
+    "brick_title": "BOOM: Overview of Cell Signaling (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "pro-growth receptor overexpressed",
+      "receptor tyrosine kinase",
+      "caused by gene amplification",
+      "extra gene copies",
+      "treated by monoclonal antibody",
+      "antibody targets the receptor",
+      "trastuzumab therapy",
+      "HER2 gene duplication"
+    ]
+  },
+  {
+    "id": "boom-26-10",
+    "title": "Philadelphia chromosome",
+    "course": "boom",
+    "brick_id": "26",
+    "brick_title": "BOOM: Overview of Cell Signaling (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "chromosomal translocation",
+      "fusion oncoprotein",
+      "constitutive tyrosine kinase",
+      "ABL is nonreceptor kinase",
+      "treated with imatinib",
+      "seen in CML",
+      "t(9;22)",
+      "BCR-ABL fusion"
+    ]
+  },
+  {
+    "id": "boom-26-11",
+    "title": "McCune-Albright syndrome",
+    "course": "boom",
+    "brick_id": "26",
+    "brick_title": "BOOM: Overview of Cell Signaling (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "postzygotic somatic mutation",
+      "mosaic distribution",
+      "constitutive G-protein signaling",
+      "endocrine hyperfunction",
+      "precocious puberty",
+      "polyostotic fibrous dysplasia",
+      "cafe-au-lait macules",
+      "activating Gsα GNAS"
+    ]
+  },
+  {
+    "id": "boom-26-12",
+    "title": "Achondroplasia",
+    "course": "boom",
+    "brick_id": "26",
+    "brick_title": "BOOM: Overview of Cell Signaling (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "most common skeletal dysplasia",
+      "short-limbed dwarfism",
+      "impaired endochondral ossification",
+      "inhibits chondrocyte proliferation",
+      "constitutively active receptor",
+      "receptor tyrosine kinase",
+      "gain-of-function mutation",
+      "FGFR3"
+    ]
+  }
+]

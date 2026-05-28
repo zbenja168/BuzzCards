@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-42-1",
+    "title": "SRY Gene",
+    "course": "boom",
+    "brick_id": "42",
+    "brick_title": "Numerical and Structural Chromosomal Alterations (3/3) - Sex Chromosome Aneuploidy",
+    "type": "physiology",
+    "buzzwords": [
+      "encodes a transcription factor",
+      "drives male sex determination",
+      "presence yields male organs",
+      "absence yields female organs",
+      "located on Y chromosome",
+      "outside pseudoautosomal region",
+      "Y has under 100 genes",
+      "SRY"
+    ]
+  },
+  {
+    "id": "boom-42-2",
+    "title": "Pseudoautosomal Region",
+    "course": "boom",
+    "brick_id": "42",
+    "brick_title": "Numerical and Structural Chromosomal Alterations (3/3) - Sex Chromosome Aneuploidy",
+    "type": "physiology",
+    "buzzwords": [
+      "genes shared by both sexes",
+      "found on X and Y",
+      "nearly identical X-Y sequence",
+      "allows X-Y pairing",
+      "permits homologous recombination",
+      "behaves like autosomes",
+      "site of male meiosis pairing",
+      "pseudoautosomal region"
+    ]
+  },
+  {
+    "id": "boom-42-3",
+    "title": "Turner Syndrome",
+    "course": "boom",
+    "brick_id": "42",
+    "brick_title": "Numerical and Structural Chromosomal Alterations (3/3) - Sex Chromosome Aneuploidy",
+    "type": "disease",
+    "buzzwords": [
+      "short stature",
+      "primary amenorrhea",
+      "streak ovaries",
+      "webbed neck",
+      "broad chest, wide nipples",
+      "bicuspid aortic valve",
+      "coarctation of aorta",
+      "monosomy X, 45,X"
+    ]
+  },
+  {
+    "id": "boom-42-4",
+    "title": "Klinefelter Syndrome",
+    "course": "boom",
+    "brick_id": "42",
+    "brick_title": "Numerical and Structural Chromosomal Alterations (3/3) - Sex Chromosome Aneuploidy",
+    "type": "disease",
+    "buzzwords": [
+      "tall stature",
+      "small firm testes",
+      "infertility",
+      "gynecomastia",
+      "low testosterone",
+      "elevated estrogen",
+      "female fat distribution",
+      "47,XXY"
+    ]
+  },
+  {
+    "id": "boom-42-5",
+    "title": "Triple X Syndrome",
+    "course": "boom",
+    "brick_id": "42",
+    "brick_title": "Numerical and Structural Chromosomal Alterations (3/3) - Sex Chromosome Aneuploidy",
+    "type": "disease",
+    "buzzwords": [
+      "often asymptomatic",
+      "tall stature",
+      "normal fertility",
+      "phenotypic female",
+      "mild learning difficulty",
+      "extra X inactivated",
+      "frequently undiagnosed",
+      "47,XXX"
+    ]
+  },
+  {
+    "id": "boom-42-6",
+    "title": "XYY Syndrome",
+    "course": "boom",
+    "brick_id": "42",
+    "brick_title": "Numerical and Structural Chromosomal Alterations (3/3) - Sex Chromosome Aneuploidy",
+    "type": "disease",
+    "buzzwords": [
+      "tall stature",
+      "normal fertility",
+      "phenotypic male",
+      "lower IQ",
+      "behavioral impulsivity",
+      "severe acne",
+      "from paternal meiosis II",
+      "47,XYY (Jacobs)"
+    ]
+  }
+]

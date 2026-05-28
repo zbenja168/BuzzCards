@@ -1,0 +1,164 @@
+[
+  {
+    "id": "boom-15-1",
+    "title": "Activation Energy",
+    "course": "boom",
+    "brick_id": "15",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "speeds up reactions",
+      "not consumed in reaction",
+      "doesn't change equilibrium",
+      "stabilizes transition state",
+      "lowers the energy barrier",
+      "kinetics not thermodynamics",
+      "denoted Ea",
+      "lowers activation energy"
+    ]
+  },
+  {
+    "id": "boom-15-2",
+    "title": "Enzyme Classes",
+    "course": "boom",
+    "brick_id": "15",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "classified by reaction type",
+      "oxidoreductase redox transfer",
+      "transferase moves groups",
+      "hydrolase uses water",
+      "lyase non-hydrolytic cleavage",
+      "isomerase rearranges molecule",
+      "ligase joins with ATP",
+      "six EC categories"
+    ]
+  },
+  {
+    "id": "boom-15-3",
+    "title": "Kinase",
+    "course": "boom",
+    "brick_id": "15",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "a transferase",
+      "transfers a phosphate",
+      "phosphate donor is ATP",
+      "produces ADP",
+      "phosphorylates substrate",
+      "first step of glycolysis",
+      "makes glucose 6-phosphate",
+      "hexokinase example"
+    ]
+  },
+  {
+    "id": "boom-15-4",
+    "title": "Phosphorylase",
+    "course": "boom",
+    "brick_id": "15",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "adds inorganic phosphate",
+      "uses free Pi not ATP",
+      "cleaves bonds with phosphate",
+      "liberates stored glucose",
+      "yields glucose-1-phosphate",
+      "acts on glycogen",
+      "muscle deficiency causes cramps",
+      "glycogen phosphorylase"
+    ]
+  },
+  {
+    "id": "boom-15-5",
+    "title": "Phosphatase",
+    "course": "boom",
+    "brick_id": "15",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "a hydrolase",
+      "removes a phosphate",
+      "uses water to cleave",
+      "cleaves a phosphoester",
+      "releases inorganic phosphate",
+      "does not reattach phosphate",
+      "yields unphosphorylated product",
+      "opposes kinase action"
+    ]
+  },
+  {
+    "id": "boom-15-6",
+    "title": "Enzyme Biomarkers",
+    "course": "boom",
+    "brick_id": "15",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (1 of 2)",
+    "type": "lab",
+    "buzzwords": [
+      "intracellular enzymes in plasma",
+      "signal tissue damage",
+      "transaminases mark liver injury",
+      "lipase marks pancreas",
+      "PSA marks prostate",
+      "ALP marks bone or liver",
+      "LDH rises in hemolysis",
+      "CK-MB marks heart"
+    ]
+  },
+  {
+    "id": "boom-15-7",
+    "title": "Michaelis-Menten",
+    "course": "boom",
+    "brick_id": "15",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "hyperbolic velocity curve",
+      "Vmax is an asymptote",
+      "fails with cooperativity",
+      "Km is substrate at half-Vmax",
+      "low Km high affinity",
+      "Km estimates enzyme affinity",
+      "V0 equals Vmax[S]/(Km+[S])",
+      "Michaelis-Menten kinetics"
+    ]
+  },
+  {
+    "id": "boom-15-8",
+    "title": "Lineweaver-Burk Plot",
+    "course": "boom",
+    "brick_id": "15",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "double reciprocal plot",
+      "graphs 1/V vs 1/[S]",
+      "linearizes the curve",
+      "slope equals Km/Vmax",
+      "clarifies inhibitor effects",
+      "y-intercept is 1/Vmax",
+      "x-intercept is -1/Km",
+      "Lineweaver-Burk transformation"
+    ]
+  },
+  {
+    "id": "boom-15-9",
+    "title": "Carbonic Anhydrase",
+    "course": "boom",
+    "brick_id": "15",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "one substrate, multiple products",
+      "hydrates carbon dioxide",
+      "forms carbonic acid",
+      "yields bicarbonate and proton",
+      "reversible reaction",
+      "key in acid-base balance",
+      "abundant in RBCs",
+      "carbonic anhydrase"
+    ]
+  }
+]

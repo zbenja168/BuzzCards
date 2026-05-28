@@ -1,0 +1,146 @@
+[
+  {
+    "id": "boom-37-1",
+    "title": "Von Gierke Disease",
+    "course": "boom",
+    "brick_id": "37",
+    "brick_title": "Inborn Errors of Carbohydrate Metabolism (1 of 1)",
+    "type": "disease",
+    "buzzwords": [
+      "severe fasting hypoglycemia",
+      "lactic acidosis",
+      "hyperuricemia and gout",
+      "hyperlipidemia",
+      "massive hepatomegaly",
+      "doll-like face",
+      "cornstarch therapy",
+      "glucose-6-phosphatase deficiency"
+    ]
+  },
+  {
+    "id": "boom-37-2",
+    "title": "Pompe Disease",
+    "course": "boom",
+    "brick_id": "37",
+    "brick_title": "Inborn Errors of Carbohydrate Metabolism (1 of 1)",
+    "type": "disease",
+    "buzzwords": [
+      "lysosomal storage disease",
+      "normal blood glucose",
+      "hypotonia floppy infant",
+      "macroglossia",
+      "hypertrophic cardiomyopathy",
+      "early cardiac death",
+      "enzyme replacement therapy",
+      "acid maltase deficiency"
+    ]
+  },
+  {
+    "id": "boom-37-3",
+    "title": "Cori Disease",
+    "course": "boom",
+    "brick_id": "37",
+    "brick_title": "Inborn Errors of Carbohydrate Metabolism (1 of 1)",
+    "type": "disease",
+    "buzzwords": [
+      "milder hypoglycemia",
+      "no lactic acidosis",
+      "gluconeogenesis intact",
+      "limit dextrin accumulates",
+      "short outer branches",
+      "muscle weakness",
+      "cardiomyopathy",
+      "debranching enzyme deficiency"
+    ]
+  },
+  {
+    "id": "boom-37-4",
+    "title": "McArdle Disease",
+    "course": "boom",
+    "brick_id": "37",
+    "brick_title": "Inborn Errors of Carbohydrate Metabolism (1 of 1)",
+    "type": "disease",
+    "buzzwords": [
+      "exertional muscle cramps",
+      "exercise intolerance",
+      "normal blood glucose",
+      "myoglobinuria",
+      "rhabdomyolysis risk",
+      "flat lactate on exercise",
+      "second-wind phenomenon",
+      "myophosphorylase deficiency"
+    ]
+  },
+  {
+    "id": "boom-37-5",
+    "title": "G6PD Deficiency",
+    "course": "boom",
+    "brick_id": "37",
+    "brick_title": "Inborn Errors of Carbohydrate Metabolism (1 of 1)",
+    "type": "disease",
+    "buzzwords": [
+      "episodic hemolytic anemia",
+      "oxidative stress trigger",
+      "fava beans and drugs",
+      "low NADPH",
+      "depleted glutathione",
+      "Heinz bodies",
+      "bite cells",
+      "HMP shunt enzyme defect"
+    ]
+  },
+  {
+    "id": "boom-37-6",
+    "title": "Pyruvate Kinase Deficiency",
+    "course": "boom",
+    "brick_id": "37",
+    "brick_title": "Inborn Errors of Carbohydrate Metabolism (1 of 1)",
+    "type": "disease",
+    "buzzwords": [
+      "chronic hemolytic anemia",
+      "neonatal jaundice",
+      "RBC ATP depletion",
+      "elevated LDH",
+      "low haptoglobin",
+      "high reticulocyte count",
+      "elevated 2,3-BPG",
+      "final glycolysis step blocked"
+    ]
+  },
+  {
+    "id": "boom-37-7",
+    "title": "Methemoglobinemia",
+    "course": "boom",
+    "brick_id": "37",
+    "brick_title": "Inborn Errors of Carbohydrate Metabolism (1 of 1)",
+    "type": "disease",
+    "buzzwords": [
+      "ferric iron hemoglobin",
+      "cannot bind oxygen",
+      "tissue hypoxia",
+      "cyanosis unresponsive to oxygen",
+      "chocolate-colored blood",
+      "normal pulse oximetry pitfall",
+      "methylene blue treatment",
+      "cytochrome b5 reductase defect"
+    ]
+  },
+  {
+    "id": "boom-37-8",
+    "title": "Pyruvate Carboxylase Deficiency",
+    "course": "boom",
+    "brick_id": "37",
+    "brick_title": "Inborn Errors of Carbohydrate Metabolism (1 of 1)",
+    "type": "disease",
+    "buzzwords": [
+      "fasting hypoglycemia",
+      "lactic acidosis",
+      "severe CNS dysfunction",
+      "developmental delay",
+      "impaired gluconeogenesis",
+      "low oxaloacetate",
+      "hyperammonemia",
+      "biotin-dependent enzyme defect"
+    ]
+  }
+]

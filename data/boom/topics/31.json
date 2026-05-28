@@ -1,0 +1,146 @@
+[
+  {
+    "id": "boom-31-1",
+    "title": "Calcium",
+    "course": "boom",
+    "brick_id": "31",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (3 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "macromineral",
+      "bone reservoir",
+      "muscle contraction",
+      "neurotransmitter release",
+      "serum: bound, ionized, complexed",
+      "ionized fraction is active",
+      "alkalemia lowers ionized form",
+      "deficiency causes tetany"
+    ]
+  },
+  {
+    "id": "boom-31-2",
+    "title": "Calcium hormones",
+    "course": "boom",
+    "brick_id": "31",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (3 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "regulate serum calcium",
+      "low calcium triggers PTH",
+      "PTH raises serum calcium",
+      "drives bone resorption",
+      "made by parathyroid glands",
+      "calcitonin lowers calcium",
+      "calcitonin promotes bone formation",
+      "thyroid parafollicular cells"
+    ]
+  },
+  {
+    "id": "boom-31-3",
+    "title": "Phosphorus",
+    "course": "boom",
+    "brick_id": "31",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (3 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "macromineral",
+      "bone mineral component",
+      "high-energy ATP bonds",
+      "nucleic acid backbone",
+      "absorbed with vitamin D",
+      "renally excreted",
+      "retained in kidney failure",
+      "excess causes renal osteodystrophy"
+    ]
+  },
+  {
+    "id": "boom-31-4",
+    "title": "Magnesium",
+    "course": "boom",
+    "brick_id": "31",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (3 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "macromineral",
+      "membrane integrity",
+      "potassium balance",
+      "stabilizes ATP",
+      "required for PTH secretion",
+      "deficient in alcoholism",
+      "diuretics cause renal wasting",
+      "deficiency causes cardiac arrhythmias"
+    ]
+  },
+  {
+    "id": "boom-31-5",
+    "title": "Zinc",
+    "course": "boom",
+    "brick_id": "31",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (3 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "trace mineral",
+      "enzyme cofactor",
+      "over 100 reactions",
+      "superoxide dismutase cofactor",
+      "deficiency impairs wound healing",
+      "deficiency causes hypogonadism",
+      "triad: dermatitis, diarrhea, alopecia",
+      "acrodermatitis enteropathica"
+    ]
+  },
+  {
+    "id": "boom-31-6",
+    "title": "Copper",
+    "course": "boom",
+    "brick_id": "31",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (3 of 3)",
+    "type": "physiology",
+    "buzzwords": [
+      "trace mineral",
+      "enzyme cofactor",
+      "carried by ceruloplasmin",
+      "lysyl oxidase crosslinks collagen",
+      "tyrosinase makes melanin",
+      "in cytochrome c oxidase",
+      "deficiency causes anemia",
+      "common after gastric bypass"
+    ]
+  },
+  {
+    "id": "boom-31-7",
+    "title": "Wilson disease",
+    "course": "boom",
+    "brick_id": "31",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (3 of 3)",
+    "type": "disease",
+    "buzzwords": [
+      "copper overload",
+      "low ceruloplasmin",
+      "copper accumulates in liver",
+      "deposits in basal ganglia",
+      "psychiatric, behavioral changes",
+      "high urinary copper",
+      "ATP7B defect",
+      "Kayser-Fleischer rings"
+    ]
+  },
+  {
+    "id": "boom-31-8",
+    "title": "Menkes disease",
+    "course": "boom",
+    "brick_id": "31",
+    "brick_title": "Basic Nutritional Requirements for Metabolism (3 of 3)",
+    "type": "disease",
+    "buzzwords": [
+      "severe copper deficiency",
+      "copper trapped in enterocytes",
+      "impaired intestinal efflux",
+      "brittle, sparse hair",
+      "failure to thrive",
+      "seizures, hypotonia",
+      "lethal in infancy",
+      "ATP7A defect"
+    ]
+  }
+]

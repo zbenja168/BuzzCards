@@ -1,0 +1,110 @@
+[
+  {
+    "id": "boom-14-1",
+    "title": "G6PD Deficiency",
+    "course": "boom",
+    "brick_id": "14",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "X-linked",
+      "low NADPH in RBCs",
+      "depleted reduced glutathione",
+      "oxidative hemolysis",
+      "favism trigger",
+      "sulfa drugs trigger",
+      "bite cells",
+      "Heinz bodies"
+    ]
+  },
+  {
+    "id": "boom-14-2",
+    "title": "Phenylketonuria",
+    "course": "boom",
+    "brick_id": "14",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "inborn error of metabolism",
+      "phenylalanine builds up",
+      "BH4 cofactor",
+      "can't make tyrosine",
+      "fair complexion",
+      "intellectual disability",
+      "mousy odor",
+      "phenylalanine hydroxylase deficiency"
+    ]
+  },
+  {
+    "id": "boom-14-3",
+    "title": "Hurler Syndrome",
+    "course": "boom",
+    "brick_id": "14",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "lysosomal storage disorder",
+      "GAG accumulation",
+      "coarse facial features",
+      "corneal clouding",
+      "developmental delay",
+      "urine mucopolysaccharides",
+      "heparan and dermatan sulfate",
+      "alpha-L-iduronidase deficiency"
+    ]
+  },
+  {
+    "id": "boom-14-4",
+    "title": "I-Cell Disease",
+    "course": "boom",
+    "brick_id": "14",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "lysosomal storage disorder",
+      "failed protein targeting",
+      "dense inclusion bodies",
+      "enzymes in plasma",
+      "missing mannose-6-phosphate tag",
+      "Golgi modification defect",
+      "GlcNAc 1-phosphotransferase deficiency",
+      "inclusion-cell disease"
+    ]
+  },
+  {
+    "id": "boom-14-5",
+    "title": "Marfan Syndrome",
+    "course": "boom",
+    "brick_id": "14",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "connective tissue disorder",
+      "tall with long limbs",
+      "arachnodactyly",
+      "abnormal TGF-beta activation",
+      "lens dislocates up and out",
+      "aortic dissection",
+      "FBN1 gene",
+      "fibrillin defect"
+    ]
+  },
+  {
+    "id": "boom-14-6",
+    "title": "Homocystinuria",
+    "course": "boom",
+    "brick_id": "14",
+    "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "elevated homocysteine",
+      "marfanoid habitus",
+      "intellectual disability",
+      "early thrombosis",
+      "lens dislocates down and in",
+      "vitamin B6 responsive",
+      "needs pyridoxal phosphate",
+      "cystathionine beta-synthase deficiency"
+    ]
+  }
+]

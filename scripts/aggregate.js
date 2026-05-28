@@ -5,10 +5,16 @@
 const fs = require('fs');
 const path = require('path');
 
-const topicsDir = path.join(__dirname, '..', 'data', 'topics');
-const outPath   = path.join(__dirname, '..', 'data', 'cards.json');
+// Optional course arg: `node scripts/aggregate.js boom` reads data/boom/topics/
+// and writes data/boom/cards.json. No arg = legacy renal (data/topics → data/cards.json).
+const course    = process.argv[2];
+const topicsDir = course ? path.join(__dirname, '..', 'data', course, 'topics')
+                         : path.join(__dirname, '..', 'data', 'topics');
+const outPath   = course ? path.join(__dirname, '..', 'data', course, 'cards.json')
+                         : path.join(__dirname, '..', 'data', 'cards.json');
 
-const REQUIRED = ['id','title','brick_id','brick_title','week','type','buzzwords'];
+// `week` is optional — renal cards have it, courses without weekly structure don't.
+const REQUIRED = ['id','title','brick_id','brick_title','type','buzzwords'];
 const TYPES    = new Set(['disease','anatomy','physiology','drug','lab','imaging']);
 
 let problems = [];
@@ -42,9 +48,9 @@ for (const file of fs.readdirSync(topicsDir).filter(f => f.endsWith('.json')).so
 cards.sort((a, b) => {
   const ba = Number(a.brick_id), bb = Number(b.brick_id);
   if (ba !== bb) return ba - bb;
-  // sub-index from id like "54-3"
-  const sa = Number((a.id || '').split('-')[1] || 0);
-  const sb = Number((b.id || '').split('-')[1] || 0);
+  // sub-index is the LAST hyphen segment: "54-3" → 3, "boom-1-2" → 2
+  const sa = Number((a.id || '').split('-').pop() || 0);
+  const sb = Number((b.id || '').split('-').pop() || 0);
   return sa - sb;
 });
 

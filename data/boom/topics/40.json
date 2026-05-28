@@ -1,0 +1,146 @@
+[
+  {
+    "id": "boom-40-1",
+    "title": "Chromosome Structure",
+    "course": "boom",
+    "brick_id": "40",
+    "brick_title": "Chromosomes",
+    "type": "physiology",
+    "buzzwords": [
+      "DNA-protein package",
+      "histone-wrapped",
+      "nucleosome unit",
+      "euchromatin vs heterochromatin",
+      "p arm short",
+      "q arm long",
+      "sister chromatids joined",
+      "centromere"
+    ]
+  },
+  {
+    "id": "boom-40-2",
+    "title": "Karyotype",
+    "course": "boom",
+    "brick_id": "40",
+    "brick_title": "Chromosomes",
+    "type": "lab",
+    "buzzwords": [
+      "organized chromosome view",
+      "isolated at metaphase",
+      "stained and arranged",
+      "ordered by size",
+      "counts chromosome number",
+      "centromere position grouped",
+      "metacentric submetacentric acrocentric",
+      "46,XY notation"
+    ]
+  },
+  {
+    "id": "boom-40-3",
+    "title": "Aneuploidy",
+    "course": "boom",
+    "brick_id": "40",
+    "brick_title": "Chromosomes",
+    "type": "disease",
+    "buzzwords": [
+      "abnormal chromosome number",
+      "extra or missing",
+      "most common significant abnormality",
+      "monosomy one copy",
+      "trisomy three copies",
+      "total count written first",
+      "extra chromosome adds plus",
+      "47,XY,+21"
+    ]
+  },
+  {
+    "id": "boom-40-4",
+    "title": "Reciprocal Translocation",
+    "course": "boom",
+    "brick_id": "40",
+    "brick_title": "Chromosomes",
+    "type": "disease",
+    "buzzwords": [
+      "segments swap chromosomes",
+      "no net gain or loss",
+      "balanced carrier",
+      "denoted lowercase t",
+      "disrupts gene at breakpoint",
+      "may cause infertility",
+      "BCR-ABL example",
+      "t(9;22)"
+    ]
+  },
+  {
+    "id": "boom-40-5",
+    "title": "Robertsonian Translocation",
+    "course": "boom",
+    "brick_id": "40",
+    "brick_title": "Chromosomes",
+    "type": "disease",
+    "buzzwords": [
+      "two long arms fuse",
+      "acrocentric chromosomes only",
+      "p arms lost",
+      "lost arms noncritical",
+      "still considered balanced",
+      "carrier has 45 chromosomes",
+      "abbreviated rob",
+      "rob(14;21)"
+    ]
+  },
+  {
+    "id": "boom-40-6",
+    "title": "Deletion",
+    "course": "boom",
+    "brick_id": "40",
+    "brick_title": "Chromosomes",
+    "type": "disease",
+    "buzzwords": [
+      "segment lost",
+      "genetic material missing",
+      "terminal at arm end",
+      "interstitial within arm",
+      "abbreviated del",
+      "two bands mark interstitial",
+      "del(5)(p15) terminal",
+      "del(20)(q11q13)"
+    ]
+  },
+  {
+    "id": "boom-40-7",
+    "title": "Duplication",
+    "course": "boom",
+    "brick_id": "40",
+    "brick_title": "Chromosomes",
+    "type": "disease",
+    "buzzwords": [
+      "extra segment copy",
+      "abnormal portion repeated",
+      "creates partial trisomy",
+      "abbreviated dup",
+      "bands mark duplicated region",
+      "gain of material",
+      "direct repeat",
+      "dup(5)(q31q42)"
+    ]
+  },
+  {
+    "id": "boom-40-8",
+    "title": "Inversion",
+    "course": "boom",
+    "brick_id": "40",
+    "brick_title": "Chromosomes",
+    "type": "disease",
+    "buzzwords": [
+      "segment flipped end-to-end",
+      "no material lost",
+      "rearrangement only",
+      "DNA order reversed",
+      "usually clinically silent",
+      "carriers asymptomatic",
+      "abbreviated inv",
+      "no notation covered"
+    ]
+  }
+]
