@@ -7,7 +7,7 @@
     "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
     "type": "physiology",
     "buzzwords": [
-      "20-carbon fatty acid",
+      { "img": "data/boom/images/boom-24-1/1.webp" },
       "polyunsaturated",
       "omega-6",
       "eicosanoid precursor",
@@ -25,7 +25,7 @@
     "brick_title": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
     "type": "physiology",
     "buzzwords": [
-      "membrane-acting enzyme",
+      { "img": "data/boom/images/boom-24-2/1.webp" },
       "releases arachidonic acid",
       "calcium-dependent",
       "upstream of eicosanoids",
@@ -100,7 +100,7 @@
       "an NSAID",
       "inhibits COX enzymes",
       "irreversible inhibition",
-      "acetylates active-site serine",
+      { "img": "data/boom/images/boom-24-6/1.webp" },
       "antithrombotic prophylaxis",
       "blocks platelet TXA2",
       "lasts platelet lifespan",

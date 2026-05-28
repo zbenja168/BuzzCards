@@ -11,7 +11,7 @@
       "not consumed in reaction",
       "doesn't change equilibrium",
       "stabilizes transition state",
-      "lowers the energy barrier",
+      { "img": "data/boom/images/boom-15-1/1.webp" },
       "kinetics not thermodynamics",
       "denoted Ea",
       "lowers activation energy"
@@ -50,7 +50,7 @@
       "phosphorylates substrate",
       "first step of glycolysis",
       "makes glucose 6-phosphate",
-      "hexokinase example"
+      { "img": "data/boom/images/boom-15-3/1.webp" }
     ]
   },
   {
@@ -68,7 +68,7 @@
       "yields glucose-1-phosphate",
       "acts on glycogen",
       "muscle deficiency causes cramps",
-      "glycogen phosphorylase"
+      { "img": "data/boom/images/boom-15-4/1.webp" }
     ]
   },
   {
@@ -85,7 +85,7 @@
       "cleaves a phosphoester",
       "releases inorganic phosphate",
       "does not reattach phosphate",
-      "yields unphosphorylated product",
+      { "img": "data/boom/images/boom-15-5/1.webp" },
       "opposes kinase action"
     ]
   },
@@ -104,7 +104,7 @@
       "PSA marks prostate",
       "ALP marks bone or liver",
       "LDH rises in hemolysis",
-      "CK-MB marks heart"
+      { "img": "data/boom/images/boom-15-6/1.webp" }
     ]
   },
   {
@@ -115,7 +115,7 @@
     "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (1 of 2)",
     "type": "physiology",
     "buzzwords": [
-      "hyperbolic velocity curve",
+      { "img": "data/boom/images/boom-15-7/1.webp" },
       "Vmax is an asymptote",
       "fails with cooperativity",
       "Km is substrate at half-Vmax",
@@ -133,7 +133,7 @@
     "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II (1 of 2)",
     "type": "physiology",
     "buzzwords": [
-      "double reciprocal plot",
+      { "img": "data/boom/images/boom-15-8/1.webp" },
       "graphs 1/V vs 1/[S]",
       "linearizes the curve",
       "slope equals Km/Vmax",
@@ -158,7 +158,7 @@
       "reversible reaction",
       "key in acid-base balance",
       "abundant in RBCs",
-      "carbonic anhydrase"
+      { "img": "data/boom/images/boom-15-9/1.webp" }
     ]
   }
 ]

@@ -9,12 +9,12 @@
     "buzzwords": [
       "DNA-protein package",
       "histone-wrapped",
-      "nucleosome unit",
+      { "img": "data/boom/images/boom-40-1/1.webp" },
       "euchromatin vs heterochromatin",
       "p arm short",
       "q arm long",
       "sister chromatids joined",
-      "centromere"
+      { "img": "data/boom/images/boom-40-1/2.webp" }
     ]
   },
   {
@@ -25,7 +25,7 @@
     "brick_title": "Chromosomes",
     "type": "lab",
     "buzzwords": [
-      "organized chromosome view",
+      { "img": "data/boom/images/boom-40-2/1.webp" },
       "isolated at metaphase",
       "stained and arranged",
       "ordered by size",
@@ -47,7 +47,7 @@
       "extra or missing",
       "most common significant abnormality",
       "monosomy one copy",
-      "trisomy three copies",
+      { "img": "data/boom/images/boom-40-3/1.webp" },
       "total count written first",
       "extra chromosome adds plus",
       "47,XY,+21"
@@ -61,7 +61,7 @@
     "brick_title": "Chromosomes",
     "type": "disease",
     "buzzwords": [
-      "segments swap chromosomes",
+      { "img": "data/boom/images/boom-40-4/1.webp" },
       "no net gain or loss",
       "balanced carrier",
       "denoted lowercase t",
@@ -79,7 +79,7 @@
     "brick_title": "Chromosomes",
     "type": "disease",
     "buzzwords": [
-      "two long arms fuse",
+      { "img": "data/boom/images/boom-40-5/1.webp" },
       "acrocentric chromosomes only",
       "p arms lost",
       "lost arms noncritical",
@@ -99,7 +99,7 @@
     "buzzwords": [
       "segment lost",
       "genetic material missing",
-      "terminal at arm end",
+      { "img": "data/boom/images/boom-40-6/1.webp" },
       "interstitial within arm",
       "abbreviated del",
       "two bands mark interstitial",
@@ -115,7 +115,7 @@
     "brick_title": "Chromosomes",
     "type": "disease",
     "buzzwords": [
-      "extra segment copy",
+      { "img": "data/boom/images/boom-40-7/1.webp" },
       "abnormal portion repeated",
       "creates partial trisomy",
       "abbreviated dup",
@@ -133,7 +133,7 @@
     "brick_title": "Chromosomes",
     "type": "disease",
     "buzzwords": [
-      "segment flipped end-to-end",
+      { "img": "data/boom/images/boom-40-8/1.webp" },
       "no material lost",
       "rearrangement only",
       "DNA order reversed",

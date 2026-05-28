@@ -12,9 +12,9 @@
       "tyrosine becomes essential",
       "low phenylalanine diet",
       "fair skin, eczema",
-      "BH4 cofactor defect",
+      { "img": "data/boom/images/boom-34-1/2.webp" },
       "phenylacetate in urine",
-      "phenylalanine hydroxylase deficiency"
+      { "img": "data/boom/images/boom-34-1/1.webp" }
     ]
   },
   {
@@ -29,7 +29,7 @@
       "white hair, pale skin",
       "photophobia, nystagmus",
       "high skin cancer risk",
-      "blocked melanin synthesis",
+      { "img": "data/boom/images/boom-34-2/1.webp" },
       "ocular form X-linked",
       "OCA autosomal recessive",
       "tyrosinase deficiency"
@@ -47,8 +47,8 @@
       "benign until later life",
       "early-onset arthritis",
       "bluish-black connective tissue",
-      "homogentisic acid accumulates",
-      "ochronosis of sclera",
+      { "img": "data/boom/images/boom-34-3/1.webp" },
+      { "img": "data/boom/images/boom-34-3/2.webp" },
       "black earwax",
       "homogentisate oxidase deficiency"
     ]
@@ -68,7 +68,7 @@
       "cysteine becomes essential",
       "vitamin B6 responsive",
       "methionine synthase defect",
-      "cystathionine beta-synthase deficiency"
+      { "img": "data/boom/images/boom-34-4/1.webp" }
     ]
   },
   {
@@ -122,7 +122,7 @@
       "propionyl-CoA accumulates",
       "methionine, threonine, isoleucine, valine",
       "odd-chain fatty acid source",
-      "propionyl-CoA carboxylase deficiency"
+      { "img": "data/boom/images/boom-34-7/1.webp" }
     ]
   },
   {
@@ -140,7 +140,7 @@
       "methylmalonic acid accumulates",
       "blocks succinyl-CoA entry",
       "adenosyl-cobalamin cofactor",
-      "methylmalonyl-CoA mutase deficiency"
+      { "img": "data/boom/images/boom-34-8/1.webp" }
     ]
   },
   {
@@ -157,7 +157,7 @@
       "impaired renal reabsorption",
       "alkalinize urine to treat",
       "cystine, ornithine, lysine, arginine",
-      "hexagonal crystals",
+      { "img": "data/boom/images/boom-34-9/1.webp" },
       "SLC3A1 or SLC7A9 mutation"
     ]
   },

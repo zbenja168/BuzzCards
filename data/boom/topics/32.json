@@ -30,7 +30,7 @@
       "nitrogen onto new skeleton",
       "avoids free ammonia release",
       "needs vitamin B6 cofactor",
-      "PLP-dependent",
+      { "img": "data/boom/images/boom-32-2/1.webp" },
       "liver biomarkers",
       "ALT and AST"
     ]
@@ -48,7 +48,7 @@
       "uses alpha-ketoglutarate",
       "links TCA to nitrogen",
       "forms glutamate",
-      "uses NAD(P)",
+      { "img": "data/boom/images/boom-32-3/1.webp" },
       "releases ammonia for urea",
       "GDH"
     ]
@@ -62,7 +62,7 @@
     "type": "physiology",
     "buzzwords": [
       "irreversible reaction",
-      "consumes ATP",
+      { "img": "data/boom/images/boom-32-4/1.webp" },
       "adds ammonia to glutamate",
       "safe nitrogen transport",
       "loads nitrogen for transport",
@@ -79,7 +79,7 @@
     "brick_title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle (1 of 2)",
     "type": "physiology",
     "buzzwords": [
-      "uses water to cleave",
+      { "img": "data/boom/images/boom-32-5/1.webp" },
       "liberates ammonia",
       "glutamine to glutamate",
       "liver makes urea ammonia",

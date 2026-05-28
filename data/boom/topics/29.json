@@ -8,7 +8,7 @@
     "type": "lab",
     "buzzwords": [
       "vary by age and sex",
-      "set of reference values",
+      { "img": "data/boom/images/boom-29-1/1.webp" },
       "RDA meets ~97-98%",
       "EAR meets half a group",
       "AI when RDA undetermined",
@@ -45,7 +45,7 @@
     "buzzwords": [
       "forms NAD+ and NADP+",
       "deficient in corn-based diets",
-      "synthesized from tryptophan",
+      { "img": "data/boom/images/boom-29-3/1.webp" },
       "high doses cause flush",
       "lowest UL water-soluble vitamin",
       "vitamin B3",
@@ -68,7 +68,7 @@
       "death if untreated",
       "seen in Hartnup disease",
       "seen in carcinoid syndrome",
-      "Casal necklace rash"
+      { "img": "data/boom/images/boom-29-4/1.webp" }
     ]
   },
   {
@@ -101,7 +101,7 @@
       "transamination reactions",
       "first step of heme synthesis",
       "glycogen phosphorylase cofactor",
-      "decarboxylation for neurotransmitters",
+      { "img": "data/boom/images/boom-29-6/1.webp" },
       "excess causes peripheral neuropathy",
       "depleted by isoniazid",
       "vitamin B6"
@@ -118,7 +118,7 @@
       "cofactor for carboxylases",
       "adds CO2 to substrates",
       "key in gluconeogenesis",
-      "pyruvate carboxylase cofactor",
+      { "img": "data/boom/images/boom-29-7/1.webp" },
       "depleted by raw egg avidin",
       "deficiency causes flaky dermatitis",
       "biotinidase deficiency recycling defect",
@@ -138,7 +138,7 @@
       "reduces Fe3+ to Fe2+",
       "boosts dietary iron absorption",
       "cofactor for collagen hydroxylation",
-      "prolyl and lysyl hydroxylase",
+      { "img": "data/boom/images/boom-29-8/1.webp" },
       "ascorbic acid",
       "deficiency causes scurvy"
     ]
@@ -153,11 +153,11 @@
     "buzzwords": [
       "derived from GTP not vitamin",
       "cofactor for hydroxylases",
-      "phenylalanine hydroxylase cofactor",
+      { "img": "data/boom/images/boom-29-9/1.webp" },
       "tyrosine hydroxylase cofactor",
       "tryptophan hydroxylase cofactor",
       "needed for serotonin synthesis",
-      "needed for nitric oxide synthesis",
+      { "img": "data/boom/images/boom-29-9/2.webp" },
       "abbreviated BH4"
     ]
   }

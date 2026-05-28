@@ -29,8 +29,8 @@
       "calcium-phosphate homeostasis",
       "UV light synthesizes it",
       "from 7-dehydrocholesterol",
-      "two hydroxylations to activate",
-      "deficiency causes rickets",
+      { "img": "data/boom/images/boom-30-2/1.webp" },
+      { "img": "data/boom/images/boom-30-2/2.webp" },
       "renal 1-alpha-hydroxylase",
       "calcitriol, cholecalciferol"
     ]
@@ -64,7 +64,7 @@
       "fat-soluble vitamin",
       "made by gut flora",
       "clotting factor synthesis",
-      "carboxylase cofactor",
+      { "img": "data/boom/images/boom-30-4/1.webp" },
       "deficiency prolongs PT",
       "newborn hemorrhage risk",
       "gamma-carboxyglutamate (Gla)",

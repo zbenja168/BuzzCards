@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/zbenja168/BuzzCards#readme",
   "devDependencies": {
-    "jimp": "^1.6.1"
+    "jimp": "^1.6.1",
+    "sharp": "^0.34.5"
   }
 }

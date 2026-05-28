@@ -13,7 +13,7 @@
       "neurotransmitter release",
       "serum: bound, ionized, complexed",
       "ionized fraction is active",
-      "alkalemia lowers ionized form",
+      { "img": "data/boom/images/boom-31-1/1.webp" },
       "deficiency causes tetany"
     ]
   },
@@ -25,7 +25,7 @@
     "brick_title": "Basic Nutritional Requirements for Metabolism (3 of 3)",
     "type": "physiology",
     "buzzwords": [
-      "regulate serum calcium",
+      { "img": "data/boom/images/boom-31-2/1.webp" },
       "low calcium triggers PTH",
       "PTH raises serum calcium",
       "drives bone resorption",
@@ -85,7 +85,7 @@
       "superoxide dismutase cofactor",
       "deficiency impairs wound healing",
       "deficiency causes hypogonadism",
-      "triad: dermatitis, diarrhea, alopecia",
+      { "img": "data/boom/images/boom-31-5/1.webp" },
       "acrodermatitis enteropathica"
     ]
   },
@@ -122,7 +122,7 @@
       "psychiatric, behavioral changes",
       "high urinary copper",
       "ATP7B defect",
-      "Kayser-Fleischer rings"
+      { "img": "data/boom/images/boom-31-7/1.webp" }
     ]
   },
   {

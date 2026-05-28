@@ -26,7 +26,7 @@
     "type": "physiology",
     "buzzwords": [
       "structural integrity",
-      "coats unwound strands",
+      { "img": "data/boom/images/boom-10-2/1.webp" },
       "binds exposed nucleotides",
       "prevents reannealing",
       "keeps template single-stranded",
@@ -44,7 +44,7 @@
     "type": "physiology",
     "buzzwords": [
       "relieves torsional strain",
-      "unwinds supercoils",
+      { "img": "data/boom/images/boom-10-3/1.webp" },
       "acts ahead of fork",
       "nicks and reseals DNA",
       "type I cuts one strand",
@@ -101,7 +101,7 @@
       "completes daughter strands",
       "high processivity",
       "high fidelity",
-      "3' to 5' exonuclease proofreading",
+      { "img": "data/boom/images/boom-10-6/1.webp" },
       "associates with sliding clamp",
       "PCNA keeps it anchored",
       "DNA pol delta"
@@ -116,7 +116,7 @@
     "type": "physiology",
     "buzzwords": [
       "boosts processivity",
-      "rings around DNA",
+      { "img": "data/boom/images/boom-10-7/1.webp" },
       "tethers polymerase",
       "keeps enzyme bound",
       "prevents dissociation",
@@ -137,7 +137,7 @@
       "joins fragments",
       "forms phosphodiester bonds",
       "works on lagging strand",
-      "acts after flap removal",
+      { "img": "data/boom/images/boom-10-8/1.webp" },
       "creates continuous strand",
       "links Okazaki fragments",
       "DNA ligase"
@@ -152,7 +152,7 @@
     "type": "physiology",
     "buzzwords": [
       "discontinuous synthesis",
-      "built on lagging strand",
+      { "img": "data/boom/images/boom-10-9/1.webp" },
       "each starts with RNA primer",
       "short polynucleotides",
       "made away from fork",

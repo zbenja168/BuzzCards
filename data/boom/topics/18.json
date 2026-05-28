@@ -10,8 +10,8 @@
       "six-carbon sugar",
       "primary energy substrate",
       "reducing sugar",
-      "anomeric carbon C1",
-      "aldehyde functional group",
+      { "img": "data/boom/images/boom-18-1/2.webp" },
+      { "img": "data/boom/images/boom-18-1/1.webp" },
       "blood sugar measured clinically",
       "aldohexose",
       "C1 oxidizes to gluconate"
@@ -29,8 +29,8 @@
       "found in fruits",
       "added to sweeteners",
       "anomeric carbon C2",
-      "ketone functional group",
-      "forms a furanose ring",
+      { "img": "data/boom/images/boom-18-2/1.webp" },
+      { "img": "data/boom/images/boom-18-2/2.webp" },
       "sweetest dietary sugar",
       "ketohexose"
     ]
@@ -46,7 +46,7 @@
       "disaccharide",
       "common table sugar",
       "non-reducing sugar",
-      "no free anomeric carbon",
+      { "img": "data/boom/images/boom-18-3/1.webp" },
       "from sugarcane and beets",
       "fifty percent fructose",
       "glucose plus fructose",
@@ -82,7 +82,7 @@
       "plant storage polysaccharide",
       "polymer of glucose",
       "digestible by humans",
-      "amylose is linear",
+      { "img": "data/boom/images/boom-18-5/1.webp" },
       "alpha-1,4 linkages",
       "amylopectin is branched",
       "branches via alpha-1,6 bonds",
@@ -103,7 +103,7 @@
       "polymer of glucose",
       "lowers cholesterol levels",
       "passes through gut in bulk",
-      "beta-1,4 linked glucose",
+      { "img": "data/boom/images/boom-18-6/1.webp" },
       "humans lack the cleaving enzyme"
     ]
   },

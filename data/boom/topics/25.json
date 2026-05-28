@@ -8,7 +8,7 @@
     "type": "physiology",
     "buzzwords": [
       "five communication types",
-      "vary by distance",
+      { "img": "data/boom/images/boom-25-1/1.webp" },
       "autocrine acts on self",
       "juxtacrine needs cell contact",
       "paracrine hits nearby cells",
@@ -29,7 +29,7 @@
       "binds small G proteins",
       "GDP-to-GTP exchange activates",
       "Galpha dissociates from Gbetagamma",
-      "activates adenylate cyclase",
+      { "img": "data/boom/images/boom-25-2/1.webp" },
       "raises cAMP",
       "cAMP activates PKA",
       "G-protein-coupled receptor"
@@ -47,7 +47,7 @@
       "monomeric GTPase switch",
       "GTPase loss is oncogenic",
       "kinase cascade to nucleus",
-      "Raf then MEK then Erk",
+      { "img": "data/boom/images/boom-25-3/1.webp" },
       "ends in gene transcription",
       "constitutively active in tumors",
       "Ras/MAPK Erk cascade"
@@ -66,7 +66,7 @@
       "linked by disulfide bond",
       "autophosphorylates tyrosines",
       "docks IRS scaffold protein",
-      "PI3-kinase drives GLUT4 insertion",
+      { "img": "data/boom/images/boom-25-4/1.webp" },
       "dampened in insulin resistance",
       "insulin receptor"
     ]
@@ -84,7 +84,7 @@
       "amplify extracellular signals",
       "cAMP and cGMP",
       "IP3 releases stored calcium",
-      "DAG activates PKC",
+      { "img": "data/boom/images/boom-25-5/1.webp" },
       "degraded by phosphodiesterases",
       "cAMP cGMP IP3 DAG calcium"
     ]
@@ -102,7 +102,7 @@
       "s stimulates adenylyl cyclase",
       "i inhibits adenylyl cyclase",
       "q activates phospholipase C",
-      "12/13 activates RhoA",
+      { "img": "data/boom/images/boom-25-6/1.webp" },
       "RhoA drives cytoskeletal remodeling",
       "Galpha s i q 12/13"
     ]

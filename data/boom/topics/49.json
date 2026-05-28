@@ -13,7 +13,7 @@
       "dynamic mutation",
       "premutation carrier",
       "crosses critical threshold",
-      "earlier onset each generation",
+      { "img": "data/boom/images/boom-49-1/1.webp" },
       "anticipation"
     ]
   },
@@ -29,7 +29,7 @@
       "onset 30s-50s",
       "chorea",
       "dementia",
-      "caudate atrophy",
+      { "img": "data/boom/images/boom-49-2/1.webp" },
       "toxic protein aggregates",
       "CAG repeat",
       "HTT gene"
@@ -45,8 +45,8 @@
     "buzzwords": [
       "X-linked dominant",
       "intellectual disability",
-      "long narrow face",
-      "large ears",
+      { "img": "data/boom/images/boom-49-3/1.webp" },
+      { "img": "data/boom/images/boom-49-3/2.webp" },
       "macroorchidism",
       "promoter hypermethylation",
       "absent FMRP",
@@ -63,8 +63,8 @@
     "buzzwords": [
       "autosomal recessive",
       "childhood onset",
-      "progressive ataxia",
-      "hypertrophic cardiomyopathy",
+      { "img": "data/boom/images/boom-49-4/1.webp" },
+      { "img": "data/boom/images/boom-49-4/2.webp" },
       "reduced frataxin",
       "impaired iron-sulfur clusters",
       "intronic GAA repeat",
@@ -81,7 +81,7 @@
     "buzzwords": [
       "autosomal dominant",
       "delayed grip release",
-      "frontal balding",
+      { "img": "data/boom/images/boom-49-5/1.webp" },
       "cataracts",
       "toxic RNA foci",
       "disrupted RNA splicing",

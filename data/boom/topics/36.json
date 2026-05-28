@@ -10,7 +10,7 @@
       "neurovisceral attacks",
       "severe abdominal pain",
       "no skin findings",
-      "port-wine urine",
+      { "img": "data/boom/images/boom-36-1/1.webp" },
       "ALA and PBG buildup",
       "triggered by CYP inducers",
       "glucose or hemin treatment",
@@ -26,7 +26,7 @@
     "type": "disease",
     "buzzwords": [
       "most common porphyria",
-      "photosensitive blistering",
+      { "img": "data/boom/images/boom-36-2/1.webp" },
       "delayed sun reaction",
       "tea-colored urine",
       "iron worsens it",
@@ -49,7 +49,7 @@
       "no blistering",
       "bone marrow origin",
       "protoporphyrin IX accumulation",
-      "final heme step blocked",
+      { "img": "data/boom/images/boom-36-3/1.webp" },
       "ferrochelatase deficiency"
     ]
   },
@@ -65,7 +65,7 @@
       "10-20% absorbed",
       "ferrous form required",
       "vitamin C enhances",
-      "DMT1 apical uptake",
+      { "img": "data/boom/images/boom-36-4/1.webp" },
       "ferroportin basolateral export",
       "hephaestin oxidizes iron",
       "loss by epithelial shedding"

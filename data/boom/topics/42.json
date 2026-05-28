@@ -27,7 +27,7 @@
     "buzzwords": [
       "genes shared by both sexes",
       "found on X and Y",
-      "nearly identical X-Y sequence",
+      { "img": "data/boom/images/boom-42-2/1.webp" },
       "allows X-Y pairing",
       "permits homologous recombination",
       "behaves like autosomes",
@@ -46,11 +46,11 @@
       "short stature",
       "primary amenorrhea",
       "streak ovaries",
-      "webbed neck",
+      { "img": "data/boom/images/boom-42-3/2.webp" },
       "broad chest, wide nipples",
       "bicuspid aortic valve",
       "coarctation of aorta",
-      "monosomy X, 45,X"
+      { "img": "data/boom/images/boom-42-3/1.webp" }
     ]
   },
   {
@@ -64,11 +64,11 @@
       "tall stature",
       "small firm testes",
       "infertility",
-      "gynecomastia",
+      { "img": "data/boom/images/boom-42-4/2.webp" },
       "low testosterone",
       "elevated estrogen",
       "female fat distribution",
-      "47,XXY"
+      { "img": "data/boom/images/boom-42-4/1.webp" }
     ]
   },
   {
@@ -82,7 +82,7 @@
       "often asymptomatic",
       "tall stature",
       "normal fertility",
-      "phenotypic female",
+      { "img": "data/boom/images/boom-42-5/1.webp" },
       "mild learning difficulty",
       "extra X inactivated",
       "frequently undiagnosed",
@@ -99,7 +99,7 @@
     "buzzwords": [
       "tall stature",
       "normal fertility",
-      "phenotypic male",
+      { "img": "data/boom/images/boom-42-6/1.webp" },
       "lower IQ",
       "behavioral impulsivity",
       "severe acne",

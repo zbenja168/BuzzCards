@@ -8,7 +8,7 @@
     "type": "physiology",
     "buzzwords": [
       "protein monomer",
-      "four groups attached",
+      { "img": "data/boom/images/boom-13-1/1.webp" },
       "central alpha-carbon",
       "variable R side chain",
       "amine plus carboxyl",
@@ -27,7 +27,7 @@
     "buzzwords": [
       "covalent linkage",
       "specialized amide bond",
-      "formed by dehydration",
+      { "img": "data/boom/images/boom-13-2/1.webp" },
       "releases water",
       "links amino to carboxyl",
       "creates chain directionality",
@@ -43,7 +43,7 @@
     "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (1 of 2)",
     "type": "physiology",
     "buzzwords": [
-      "grouped by side chain",
+      { "img": "data/boom/images/boom-13-3/1.webp" },
       "nonpolar versus polar",
       "acidic are negative",
       "basic are positive",
@@ -79,7 +79,7 @@
     "brick_title": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (1 of 2)",
     "type": "physiology",
     "buzzwords": [
-      "hierarchical organization",
+      { "img": "data/boom/images/boom-13-5/1.webp" },
       "primary is the sequence",
       "secondary is local folds",
       "alpha helix beta sheet",

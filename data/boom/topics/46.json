@@ -11,7 +11,7 @@
       "affected each generation",
       "no skipped generations",
       "males equally affected",
-      "vertical transmission",
+      { "img": "data/boom/images/boom-46-1/1.webp" },
       "male-to-male transmission",
       "homozygous often lethal",
       "50% offspring affected"
@@ -28,7 +28,7 @@
       "needs two variants",
       "sexes equally affected",
       "skips generations",
-      "unaffected carrier parents",
+      { "img": "data/boom/images/boom-46-2/1.webp" },
       "horizontal clustering",
       "consanguinity raises risk",
       "carriers are heterozygous",
@@ -49,7 +49,7 @@
       "milder in females",
       "X-inactivation effect",
       "no carrier state",
-      "all daughters affected",
+      { "img": "data/boom/images/boom-46-3/1.webp" },
       "affected dad, all daughters"
     ]
   },
@@ -67,7 +67,7 @@
       "carrier mothers",
       "females rarely affected",
       "single X suffices in males",
-      "carrier mom, affected son",
+      { "img": "data/boom/images/boom-46-4/1.webp" },
       "hemophilia A"
     ]
   },
@@ -104,7 +104,7 @@
       "muscle and nerve affected",
       "random segregation",
       "threshold effect",
-      "heteroplasmy"
+      { "img": "data/boom/images/boom-46-6/1.webp" }
     ]
   }
 ]

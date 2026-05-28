@@ -12,7 +12,7 @@
       "consumes NADPH",
       "starts from acetyl-CoA",
       "HMG-CoA intermediate",
-      "mevalonate then squalene",
+      { "img": "data/boom/images/boom-23-1/1.webp" },
       "precursor to steroid hormones",
       "squalene is 30 carbons"
     ]
@@ -62,7 +62,7 @@
     "type": "disease",
     "buzzwords": [
       "chronic high cholesterol",
-      "yellow nodular lesions",
+      { "img": "data/boom/images/boom-23-4/1.webp" },
       "lipid-laden foam cells",
       "tendons and skin",
       "Achilles tendon deposits",
@@ -84,8 +84,8 @@
       "from excess acetyl-CoA",
       "high glucagon:insulin",
       "depleted oxaloacetate",
-      "acetone gives fruity breath",
-      "HMG-CoA synthase committed step",
+      { "img": "data/boom/images/boom-23-5/1.webp" },
+      { "img": "data/boom/images/boom-23-5/2.webp" },
       "HMG-CoA lyase makes acetoacetate"
     ]
   },
@@ -104,7 +104,7 @@
       "prevents futile cycle",
       "feeds the TCA cycle",
       "uses succinyl-CoA",
-      "needs beta-ketoacyl-CoA transferase"
+      { "img": "data/boom/images/boom-23-6/1.webp" }
     ]
   },
   {
@@ -122,7 +122,7 @@
       "Kussmaul breathing compensates",
       "nausea and vomiting",
       "fruity acetone breath",
-      "unrestrained lipolysis and ketogenesis"
+      { "img": "data/boom/images/boom-23-7/1.webp" }
     ]
   }
 ]

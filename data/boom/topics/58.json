@@ -12,7 +12,7 @@
       "transient silencing",
       "double-stranded",
       "~21-23 nucleotides",
-      "guide strand loads RISC",
+      { "img": "data/boom/images/boom-58-1/1.webp" },
       "exogenous synthetic",
       "targets mutant HTT"
     ]
@@ -85,7 +85,7 @@
       "cassette flanked by homology arms",
       "neomycin resistance selection",
       "electroporated into ESCs",
-      "injected into blastocysts",
+      { "img": "data/boom/images/boom-58-5/1.webp" },
       "chimeric mice"
     ]
   },
@@ -97,12 +97,12 @@
     "brick_title": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
     "type": "physiology",
     "buzzwords": [
-      "molecular scissors",
+      { "img": "data/boom/images/boom-58-6/1.webp" },
       "bacterial adaptive immunity",
       "guide RNA directs cut",
       "20-nucleotide spacer",
       "requires PAM site",
-      "double-strand break",
+      { "img": "data/boom/images/boom-58-6/2.webp" },
       "NHEJ indels cause knockout",
       "Doudna and Charpentier"
     ]

@@ -81,7 +81,7 @@
     "buzzwords": [
       "contains a cobalt ion",
       "absorbed in terminal ileum",
-      "requires intrinsic factor",
+      { "img": "data/boom/images/boom-6-5/1.webp" },
       "liver stores last years",
       "deficiency gives macrocytic anemia",
       "converts homocysteine to methionine",
@@ -100,7 +100,7 @@
       "macrocytic anemia",
       "autoimmune disorder",
       "impairs B12 absorption",
-      "hypersegmented neutrophils",
+      { "img": "data/boom/images/boom-6-6/1.webp" },
       "elevated homocysteine and MMA",
       "predominantly older women",
       "antibodies against parietal cells",

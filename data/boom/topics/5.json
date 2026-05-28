@@ -14,7 +14,7 @@
       "no mitochondria",
       "relies on glycolysis",
       "central pallor",
-      "biconcave disc"
+      { "img": "data/boom/images/boom-5-1/1.webp" }
     ]
   },
   {
@@ -31,7 +31,7 @@
       "low values define anemia",
       "MCV sizes the cell",
       "microcytic vs macrocytic",
-      "hematocrit",
+      { "img": "data/boom/images/boom-5-2/1.webp" },
       "MCV"
     ]
   },
@@ -46,7 +46,7 @@
       "carries blood oxygen",
       "tetramer",
       "cooperative binding",
-      "sigmoidal curve",
+      { "img": "data/boom/images/boom-5-3/1.webp" },
       "lowest affinity",
       "two alpha two beta",
       "P50 of 26",
@@ -62,7 +62,7 @@
     "type": "physiology",
     "buzzwords": [
       "stores oxygen",
-      "found in muscle",
+      { "img": "data/boom/images/boom-5-4/1.webp" },
       "single subunit monomer",
       "no cooperativity",
       "hyperbolic curve",
@@ -83,7 +83,7 @@
       "cooperative binding",
       "pulls oxygen from mother",
       "higher affinity than adult",
-      "left-shifted curve",
+      { "img": "data/boom/images/boom-5-5/1.webp" },
       "two alpha two gamma",
       "resists 2,3-BPG",
       "HbF"
@@ -102,7 +102,7 @@
       "promotes oxygen unloading",
       "rises in hypoxia",
       "rises at altitude",
-      "right-shifts the curve",
+      { "img": "data/boom/images/boom-5-6/1.webp" },
       "binds deoxyhemoglobin",
       "2,3-bisphosphoglycerate"
     ]

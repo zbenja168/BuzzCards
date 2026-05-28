@@ -12,7 +12,7 @@
       "PLP-dependent first step",
       "80% in bone marrow",
       "glycine + succinyl-CoA",
-      "protoporphyrin IX",
+      { "img": "data/boom/images/boom-35-1/1.webp" },
       "ferrochelatase adds iron",
       "ALA synthase rate-limiting"
     ]
@@ -26,7 +26,7 @@
     "type": "physiology",
     "buzzwords": [
       "rate-limiting enzyme",
-      "heme negative feedback",
+      { "img": "data/boom/images/boom-35-2/1.webp" },
       "induced by EPO",
       "iron stimulates synthesis",
       "tissue-specific isoforms",
@@ -50,7 +50,7 @@
       "inhibits two enzymes",
       "blocks ALA dehydratase",
       "blocks ferrochelatase",
-      "ringed sideroblasts"
+      { "img": "data/boom/images/boom-35-3/1.webp" }
     ]
   },
   {
@@ -63,9 +63,9 @@
     "buzzwords": [
       "occurs in macrophages",
       "releases CO and iron",
-      "biliverdin intermediate",
+      { "img": "data/boom/images/boom-35-4/1.webp" },
       "conjugated in liver",
-      "albumin-bound transport",
+      { "img": "data/boom/images/boom-35-4/2.webp" },
       "UDPGT conjugation",
       "indirect is unconjugated",
       "heme oxygenase"
@@ -85,7 +85,7 @@
       "crosses blood-brain barrier",
       "treated with phototherapy",
       "light isomerizes bilirubin",
-      "bili-lights",
+      { "img": "data/boom/images/boom-35-5/1.webp" },
       "kernicterus"
     ]
   },
@@ -103,7 +103,7 @@
       "reduced UDPGT activity",
       "Crigler-Najjar absent UDPGT",
       "phenobarbital for type 2",
-      "Dubin-Johnson black liver",
+      { "img": "data/boom/images/boom-35-6/1.webp" },
       "Rotor SLCO1B1 mutation"
     ]
   }

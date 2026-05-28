@@ -10,7 +10,7 @@
       "fed-state hormone",
       "anabolic signal",
       "lowers blood glucose",
-      "drives glucose into stores",
+      { "img": "data/boom/images/boom-27-1/1.webp" },
       "promotes glycogen synthesis",
       "promotes lipogenesis",
       "recruits GLUT4 to membrane",
@@ -28,7 +28,7 @@
       "fasting-state hormone",
       "catabolic signal",
       "raises blood glucose",
-      "drives glucose out of stores",
+      { "img": "data/boom/images/boom-27-2/1.webp" },
       "GPCR raises cAMP",
       "activates PKA",
       "favors gluconeogenesis",
@@ -47,7 +47,7 @@
       "fight-or-flight fuel",
       "glucose-independent action",
       "overrides insulin signaling",
-      "stimulates glycogenolysis",
+      { "img": "data/boom/images/boom-27-3/1.webp" },
       "acts via adrenergic GPCRs",
       "mobilizes free fatty acids",
       "adrenaline"
@@ -86,7 +86,7 @@
       "muscle stores stay local",
       "muscle lacks glucose-6-phosphatase",
       "muscle lacks glucagon receptors",
-      "broken down by phosphorylase"
+      { "img": "data/boom/images/boom-27-5/1.webp" }
     ]
   },
   {
@@ -102,7 +102,7 @@
       "limitless storage capacity",
       "yields glycerol plus fatty acids",
       "fatty acids feed beta-oxidation",
-      "released by hormone-sensitive lipase",
+      { "img": "data/boom/images/boom-27-6/1.webp" },
       "adipocytes lack glycerol kinase",
       "glycerol to liver gluconeogenesis"
     ]

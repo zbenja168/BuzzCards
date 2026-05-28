@@ -29,7 +29,7 @@
       "fixes one nucleotide",
       "repairs ROS damage",
       "removes uracil in DNA",
-      "creates AP site",
+      { "img": "data/boom/images/boom-8-2/1.webp" },
       "endonuclease cuts 5'",
       "glycosylase removes base",
       "polymerase fills, ligase seals"
@@ -47,7 +47,7 @@
       "fixes helix-distorting lesions",
       "occurs in G1",
       "repairs pyrimidine dimers",
-      "uvr endonucleases",
+      { "img": "data/boom/images/boom-8-3/1.webp" },
       "corrects UV damage",
       "deficiency causes skin cancer",
       "xeroderma pigmentosum"

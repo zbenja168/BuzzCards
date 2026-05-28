@@ -11,7 +11,7 @@
       "receptor lacks kinase",
       "needs associated kinase",
       "STATs are transcription factors",
-      "phosphorylated STAT dimerizes",
+      { "img": "data/boom/images/boom-26-1/1.webp" },
       "STATs translocate to nucleus",
       "drives EPO response",
       "Janus kinases"
@@ -31,7 +31,7 @@
       "induces angiogenesis",
       "upregulates GLUT1",
       "drives EPO production",
-      "degraded by VHL",
+      { "img": "data/boom/images/boom-26-2/1.webp" },
       "VHL loss favors tumors"
     ]
   },
@@ -63,7 +63,7 @@
     "buzzwords": [
       "inflammatory transcription factor",
       "sequestered in cytoplasm",
-      "held by inhibitor IκB",
+      { "img": "data/boom/images/boom-26-4/1.webp" },
       "IκB degraded to activate",
       "drives immune genes",
       "activated by PAMPs",
@@ -103,7 +103,7 @@
       "transducer is Dishevelled",
       "β-catenin is the effector",
       "inhibits an inhibitor",
-      "destruction complex normally degrades",
+      { "img": "data/boom/images/boom-26-6/1.webp" },
       "complex has APC, GSK-3β"
     ]
   },
@@ -175,7 +175,7 @@
       "ABL is nonreceptor kinase",
       "treated with imatinib",
       "seen in CML",
-      "t(9;22)",
+      { "img": "data/boom/images/boom-26-10/1.webp" },
       "BCR-ABL fusion"
     ]
   },
@@ -193,7 +193,7 @@
       "endocrine hyperfunction",
       "precocious puberty",
       "polyostotic fibrous dysplasia",
-      "cafe-au-lait macules",
+      { "img": "data/boom/images/boom-26-11/1.webp" },
       "activating Gsα GNAS"
     ]
   },

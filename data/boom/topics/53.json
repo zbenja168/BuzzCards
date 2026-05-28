@@ -25,7 +25,7 @@
     "brick_title": "Population Genetics",
     "type": "physiology",
     "buzzwords": [
-      "random frequency change",
+      { "img": "data/boom/images/boom-53-2/1.webp" },
       "driven by chance",
       "not by fitness",
       "strongest in small populations",

@@ -63,7 +63,7 @@
     "buzzwords": [
       "disrupts pre-mRNA processing",
       "altered intron removal",
-      "exon skipping",
+      { "img": "data/boom/images/boom-12-4/1.webp" },
       "intron retention",
       "creates cryptic exon",
       "GU-AG flanking sequences",
@@ -81,7 +81,7 @@
     "buzzwords": [
       "insertion or deletion",
       "non-triplet shift",
-      "alters reading frame",
+      { "img": "data/boom/images/boom-12-5/1.webp" },
       "every downstream codon changed",
       "often very detrimental",
       "multiples of three spare frame",

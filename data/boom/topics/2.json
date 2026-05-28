@@ -47,7 +47,7 @@
       "driven by equilibrium",
       "regenerates NAD+",
       "sustains glycolysis",
-      "pyruvate to lactate",
+      { "img": "data/boom/images/boom-2-3/1.webp" },
       "NADH oxidized",
       "anaerobic energy",
       "LDH"
@@ -122,7 +122,7 @@
       "fatty liver",
       "toxic acetaldehyde",
       "causes hangover",
-      "ADH and ALDH"
+      { "img": "data/boom/images/boom-2-7/1.webp" }
     ]
   },
   {
@@ -156,7 +156,7 @@
       "renal failure",
       "calcium oxalate crystals",
       "proximal tubule precipitation",
-      "folded envelope crystals",
+      { "img": "data/boom/images/boom-2-9/1.webp" },
       "metabolized by ADH",
       "ethylene glycol"
     ]

@@ -12,7 +12,7 @@
       "from maternal serum",
       "10 weeks onward",
       "detects extra chromosome dosage",
-      "massively parallel sequencing",
+      { "img": "data/boom/images/boom-57-1/1.webp" },
       "cell-free DNA",
       "noninvasive prenatal testing"
     ]
@@ -31,7 +31,7 @@
       "low PAPP-A",
       "high beta-hCG in Down",
       "measures neck thickness",
-      "nuchal translucency",
+      { "img": "data/boom/images/boom-57-2/1.webp" },
       "combined first trimester screen"
     ]
   },
@@ -85,7 +85,7 @@
       "ultrasound-guided needle",
       "samples placental tissue",
       "trophoblast cells",
-      "biopsy of chorionic villi",
+      { "img": "data/boom/images/boom-57-5/1.webp" },
       "CVS"
     ]
   },
@@ -99,7 +99,7 @@
     "buzzwords": [
       "invasive diagnostic test",
       "16 to 20 weeks",
-      "transabdominal needle",
+      { "img": "data/boom/images/boom-57-6/1.webp" },
       "ultrasound-guided",
       "fetal cells cultured",
       "measures amniotic AFP",
@@ -121,7 +121,7 @@
       "single cell removed",
       "5-day-old blastocyst",
       "DNA isolated and amplified",
-      "blastocyst biopsy",
+      { "img": "data/boom/images/boom-57-7/1.webp" },
       "PGD"
     ]
   },
@@ -137,7 +137,7 @@
       "varies by state",
       "hearing test",
       "pulse oximetry for heart disease",
-      "heel-stick blood sample",
+      { "img": "data/boom/images/boom-57-8/1.webp" },
       "screens metabolic disorders",
       "tandem mass spectrometry",
       "neonatal screening"

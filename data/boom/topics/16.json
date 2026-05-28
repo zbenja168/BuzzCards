@@ -68,7 +68,7 @@
       "Vmax unchanged",
       "apparent Km increases",
       "diluted away easily",
-      "less negative x-intercept"
+      { "img": "data/boom/images/boom-16-4/1.webp" }
     ]
   },
   {
@@ -84,7 +84,7 @@
       "not at the active site",
       "not overcome by substrate",
       "Km unchanged",
-      "Vmax decreased",
+      { "img": "data/boom/images/boom-16-5/1.webp" },
       "changes enzyme shape",
       "binds enzyme-substrate complex"
     ]
@@ -154,7 +154,7 @@
       "phase I meets phase II",
       "normally conjugated to be excreted",
       "alcohol shifts metabolism",
-      "CYP2E1 makes toxic metabolite",
+      { "img": "data/boom/images/boom-16-9/1.webp" },
       "depletes glutathione stores",
       "metabolite binds cell proteins",
       "N-acetylcysteine is antidote",

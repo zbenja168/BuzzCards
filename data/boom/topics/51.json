@@ -13,7 +13,7 @@
       "set during gametogenesis",
       "regulated by DNA methylation",
       "imprinting control region",
-      "methylated CpG islands silence",
+      { "img": "data/boom/images/boom-51-1/1.webp" },
       "epigenetic, no sequence change"
     ]
   },
@@ -29,7 +29,7 @@
       "seizures",
       "ataxic gait",
       "minimal speech",
-      "inappropriate laughter",
+      { "img": "data/boom/images/boom-51-2/1.webp" },
       "loss of maternal expression",
       "15q11-q13 defect",
       "UBE3A gene"
@@ -47,7 +47,7 @@
       "poor suck, feeding difficulty",
       "short stature",
       "hypogonadism",
-      "hyperphagia and obesity",
+      { "img": "data/boom/images/boom-51-3/1.webp" },
       "loss of paternal expression",
       "15q11-q13 defect",
       "SNRPN gene"
@@ -81,7 +81,7 @@
     "buzzwords": [
       "intrauterine growth restriction",
       "postnatal short stature",
-      "triangular face",
+      { "img": "data/boom/images/boom-51-5/1.webp" },
       "body asymmetry",
       "fifth finger clinodactyly",
       "11p15 region",

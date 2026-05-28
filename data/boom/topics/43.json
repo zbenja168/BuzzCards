@@ -8,7 +8,7 @@
     "type": "physiology",
     "buzzwords": [
       "only part of chromosome affected",
-      "insertion, deletion, duplication",
+      { "img": "data/boom/images/boom-43-1/1.webp" },
       "inversion or translocation",
       "loss of hundreds of kilobases",
       "recurrent vs nonrecurrent",
@@ -25,7 +25,7 @@
     "brick_title": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
     "type": "disease",
     "buzzwords": [
-      "recurrent ~3Mb microdeletion",
+      { "img": "data/boom/images/boom-43-2/1.webp" },
       "1 in 3400 live births",
       "craniofacial anomalies",
       "conotruncal cardiac defects",

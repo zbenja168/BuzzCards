@@ -64,7 +64,7 @@
       "cytosolic NADH cannot cross",
       "move reducing equivalents inward",
       "feed the electron transport chain",
-      "glycerol-3-phosphate type",
+      { "img": "data/boom/images/boom-20-4/1.webp" },
       "delivers electrons as FADH2",
       "malate type yields NADH",
       "uses aspartate aminotransferase",
@@ -81,10 +81,10 @@
     "buzzwords": [
       "links glycolysis to TCA",
       "oxidative decarboxylation",
-      "pyruvate to acetyl-CoA",
+      { "img": "data/boom/images/boom-20-5/1.webp" },
       "releases CO2 and NADH",
       "five cofactors required",
-      "inhibited by phosphorylation",
+      { "img": "data/boom/images/boom-20-5/2.webp" },
       "needs thiamine and lipoate",
       "pyruvate dehydrogenase complex"
     ]

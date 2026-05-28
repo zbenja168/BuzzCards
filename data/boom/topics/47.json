@@ -62,7 +62,7 @@
     "type": "physiology",
     "buzzwords": [
       "one gene, many effects",
-      "multiple organ systems",
+      { "img": "data/boom/images/boom-47-4/1.webp" },
       "single variant",
       "unrelated symptoms",
       "constellation of findings",

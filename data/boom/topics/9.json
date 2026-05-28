@@ -8,7 +8,7 @@
     "type": "physiology",
     "buzzwords": [
       "DNA monomer",
-      "three components",
+      { "img": "data/boom/images/boom-9-1/1.webp" },
       "phosphate group",
       "pentose sugar",
       "nitrogenous base",
@@ -27,7 +27,7 @@
     "buzzwords": [
       "nitrogenous base class",
       "two-ring structure",
-      "fused double ring",
+      { "img": "data/boom/images/boom-9-2/1.webp" },
       "pairs with pyrimidines",
       "larger base",
       "three bonds when paired with C",
@@ -44,7 +44,7 @@
     "type": "physiology",
     "buzzwords": [
       "nitrogenous base class",
-      "single-ring structure",
+      { "img": "data/boom/images/boom-9-3/1.webp" },
       "one ring",
       "smaller base",
       "uracil only in RNA",
@@ -67,7 +67,7 @@
       "joins sugar to phosphate",
       "links 5' carbon to 3' hydroxyl",
       "creates 5' and 3' ends",
-      "sugar-phosphate backbone",
+      { "img": "data/boom/images/boom-9-4/1.webp" },
       "joins one nucleotide to next"
     ]
   },
@@ -97,7 +97,7 @@
     "brick_title": "DNA Structure",
     "type": "physiology",
     "buzzwords": [
-      "held by hydrogen bonds",
+      { "img": "data/boom/images/boom-9-6/1.webp" },
       "A pairs T",
       "G pairs C",
       "purine pairs pyrimidine",
@@ -118,7 +118,7 @@
       "DNA packaging unit",
       "DNA wrapped around proteins",
       "~147 base pairs wrapped",
-      "string of beads appearance",
+      { "img": "data/boom/images/boom-9-7/1.webp" },
       "histone octamer core",
       "H2A H2B H3 H4 pairs",
       "H1 linker histone",
@@ -135,7 +135,7 @@
     "buzzwords": [
       "higher-order DNA packing",
       "nucleosomes coil up",
-      "solenoid fiber",
+      { "img": "data/boom/images/boom-9-8/1.webp" },
       "loops then supercoiling",
       "forms a chromatid",
       "30 nm chromatin fiber",
@@ -156,7 +156,7 @@
       "accessible to polymerases",
       "transcriptionally active",
       "expressed genes",
-      "histone acetylation loosens it",
+      { "img": "data/boom/images/boom-9-9/1.webp" },
       "low methylation",
       "acetyl neutralizes histone charge"
     ]
@@ -169,7 +169,7 @@
     "brick_title": "DNA Structure",
     "type": "physiology",
     "buzzwords": [
-      "tightly packed DNA",
+      { "img": "data/boom/images/boom-9-10/1.webp" },
       "highly condensed",
       "inaccessible to polymerases",
       "transcriptionally silent",
@@ -187,7 +187,7 @@
     "brick_title": "DNA Structure",
     "type": "lab",
     "buzzwords": [
-      "depiction of chromosomes",
+      { "img": "data/boom/images/boom-9-11/1.webp" },
       "full chromosome set",
       "used for diagnosis",
       "46 chromosomes in humans",

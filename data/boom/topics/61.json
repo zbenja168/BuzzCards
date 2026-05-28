@@ -25,11 +25,11 @@
     "brick_title": "Pharmacogenetics: An Introduction",
     "type": "physiology",
     "buzzwords": [
-      "most common polymorphism",
+      { "img": "data/boom/images/boom-61-2/2.webp" },
       "single-base change",
       "e.g. A to G",
       "coding alters amino acid",
-      "noncoding alters protein amount",
+      { "img": "data/boom/images/boom-61-2/1.webp" },
       "regulatory affects expression",
       "linked SNPs are markers",
       "single-nucleotide polymorphism"
@@ -45,9 +45,9 @@
     "buzzwords": [
       "drug target receptors",
       "alters drug efficacy",
-      "affects signal coupling",
+      { "img": "data/boom/images/boom-61-3/1.webp" },
       "changes ligand binding",
-      "ADRB1 and beta-blockers",
+      { "img": "data/boom/images/boom-61-3/2.webp" },
       "ADRB2 and asthma drugs",
       "DRD2 and antipsychotics",
       "ADRB1 Arg389Gly"
@@ -63,7 +63,7 @@
     "buzzwords": [
       "phase 1 metabolism",
       "oxidation reduction hydrolysis",
-      "slow breakdown causes toxicity",
+      { "img": "data/boom/images/boom-61-4/1.webp" },
       "fast breakdown loses efficacy",
       "CYP2D6",
       "CYP3A4 loss = toxicity",

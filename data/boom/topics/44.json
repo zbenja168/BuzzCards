@@ -9,7 +9,7 @@
     "buzzwords": [
       "two genetically distinct cell lineages",
       "both derived from one zygote",
-      "arises post-conception",
+      { "img": "data/boom/images/boom-44-1/1.webp" },
       "from prenatal or postnatal events",
       "spectrum from nondisjunction to point mutation",
       "complicates recurrence-risk estimation",
@@ -49,7 +49,7 @@
       "spares oocytes and sperm",
       "phenotype affects the individual",
       "not transmitted to offspring",
-      "circumscribed body location",
+      { "img": "data/boom/images/boom-44-3/1.webp" },
       "segmental neurofibromatosis"
     ]
   },
@@ -62,7 +62,7 @@
     "type": "physiology",
     "buzzwords": [
       "mutation restricted to gamete lineage",
-      "arises after germline-somatic separation",
+      { "img": "data/boom/images/boom-44-4/1.webp" },
       "individual usually unaffected",
       "at risk of affected offspring",
       "explains recurrence in unaffected parents",
@@ -81,11 +81,11 @@
     "buzzwords": [
       "dosage compensation in females",
       "silences one X per cell",
-      "random choice early in development",
+      { "img": "data/boom/images/boom-44-5/2.webp" },
       "stably inherited through mitosis",
       "expression mosaicism for X-linked genes",
       "skewed when one X is abnormal",
-      "regulated by XIST noncoding RNA",
+      { "img": "data/boom/images/boom-44-5/1.webp" },
       "inactive X forms a Barr body"
     ]
   },

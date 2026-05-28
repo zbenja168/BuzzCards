@@ -84,7 +84,7 @@
       "lactic acidosis",
       "altered mental status",
       "shares target with CO",
-      "cherry-red skin",
+      { "img": "data/boom/images/boom-4-5/1.webp" },
       "complex IV inhibitor",
       "cyanide poisoning"
     ]

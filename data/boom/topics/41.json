@@ -9,7 +9,7 @@
     "buzzwords": [
       "most common aneuploidy cause",
       "failure to separate",
-      "yields trisomy or monosomy",
+      { "img": "data/boom/images/boom-41-1/1.webp" },
       "meiosis I, II, or mitosis",
       "meiotic affects every cell",
       "mitotic causes mosaicism",
@@ -26,7 +26,7 @@
     "type": "physiology",
     "buzzwords": [
       "structural rearrangement",
-      "fusion of two long arms",
+      { "img": "data/boom/images/boom-41-2/1.webp" },
       "p arms lost",
       "acrocentric chromosomes only",
       "balanced carrier normal",
@@ -45,7 +45,7 @@
     "buzzwords": [
       "most common viable trisomy",
       "mild-moderate intellectual disability",
-      "flat facies",
+      { "img": "data/boom/images/boom-41-3/1.webp" },
       "single palmar crease",
       "duodenal atresia",
       "early-onset Alzheimer",
@@ -65,7 +65,7 @@
       "severe intellectual disability",
       "micrognathia",
       "prominent occiput",
-      "overlapping clenched fingers",
+      { "img": "data/boom/images/boom-41-4/1.webp" },
       "rocker-bottom feet",
       "low-set ears",
       "trisomy 18"
@@ -82,7 +82,7 @@
       "death within one year",
       "holoprosencephaly",
       "microcephaly",
-      "polydactyly",
+      { "img": "data/boom/images/boom-41-5/1.webp" },
       "cleft lip/palate",
       "omphalocele",
       "cutis aplasia",

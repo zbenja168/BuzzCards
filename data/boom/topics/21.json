@@ -49,7 +49,7 @@
       "depletes glutathione",
       "causes oxidative stress",
       "sorbitol causes osmotic stress",
-      "aldose reductase then sorbitol dehydrogenase",
+      { "img": "data/boom/images/boom-21-3/1.webp" },
       "damages lens, retina, nerves"
     ]
   },
@@ -84,7 +84,7 @@
       "vomiting and hypoglycemia",
       "jaundice and hepatomegaly",
       "fructose 1-phosphate accumulates",
-      "phosphate sink, hyperuricemia",
+      { "img": "data/boom/images/boom-21-5/1.webp" },
       "treat by restricting fructose",
       "aldolase B deficiency"
     ]

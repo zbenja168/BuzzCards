@@ -13,7 +13,7 @@
       "cost-effective",
       "high-frequency mutations",
       "misses rare variants",
-      "loss of heterozygosity",
+      { "img": "data/boom/images/boom-48-1/1.webp" },
       "SNP array"
     ]
   },
@@ -28,7 +28,7 @@
       "amplifies target region",
       "forward and reverse primers",
       "exponential 2 to the n",
-      "denaturation 95C",
+      { "img": "data/boom/images/boom-48-2/1.webp" },
       "annealing 50 to 65C",
       "elongation 72C",
       "heat-stable polymerase",
@@ -43,7 +43,7 @@
     "brick_title": "Molecular Biology Techniques (2 of 3), DNA analysis",
     "type": "lab",
     "buzzwords": [
-      "cuts at recognition sites",
+      { "img": "data/boom/images/boom-48-3/1.webp" },
       "genotypes known mutations",
       "mutation alters cut site",
       "fragment-length differences",
@@ -65,7 +65,7 @@
       "charged molecules migrate",
       "small fragments migrate faster",
       "DNA ladder reference",
-      "agarose gel",
+      { "img": "data/boom/images/boom-48-4/1.webp" },
       "band pattern readout",
       "no exact sequence",
       "polyacrylamide gel"
@@ -85,7 +85,7 @@
       "chain-terminating ddNTPs",
       "fluorochrome-labeled",
       "lacks 3-prime hydroxyl",
-      "electropherogram peaks",
+      { "img": "data/boom/images/boom-48-5/1.webp" },
       "developed by Frederick Sanger"
     ]
   },
@@ -103,7 +103,7 @@
       "targeted gene panels",
       "whole exome sequencing",
       "whole genome sequencing",
-      "deep coverage for mosaicism",
+      { "img": "data/boom/images/boom-48-6/1.webp" },
       "NGS"
     ]
   }

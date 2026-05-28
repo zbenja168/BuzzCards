@@ -28,7 +28,7 @@
       "quantifies expression",
       "real-time PCR",
       "fluorescence per cycle",
-      "exponential signal rise",
+      { "img": "data/boom/images/boom-56-2/1.webp" },
       "targeted method",
       "needs specific primers",
       "monitors HIV viral load",
@@ -49,7 +49,7 @@
       "high value, low expression",
       "compares conditions",
       "qPCR readout",
-      "crosses threshold line",
+      { "img": "data/boom/images/boom-56-3/1.webp" },
       "Ct"
     ]
   },
@@ -68,7 +68,7 @@
       "log concentration vs Ct",
       "linear regression fit",
       "interpolates unknown",
-      "standard curve"
+      { "img": "data/boom/images/boom-56-4/1.webp" }
     ]
   },
   {
@@ -85,7 +85,7 @@
       "research biomarkers",
       "predicts cancer prognosis",
       "one gene, two conditions",
-      "calculates fold change",
+      { "img": "data/boom/images/boom-56-5/1.webp" },
       "relative quantification"
     ]
   },
@@ -103,7 +103,7 @@
       "finds novel genes",
       "detects gene fusions",
       "misses low-abundance genes",
-      "volcano plots, heatmaps",
+      { "img": "data/boom/images/boom-56-6/1.webp" },
       "next-generation sequencing"
     ]
   }

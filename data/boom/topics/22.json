@@ -86,7 +86,7 @@
       "increases lipoprotein carrying",
       "uses fatty acyl-CoA",
       "forms cholesteryl esters",
-      "enzyme ACAT"
+      { "img": "data/boom/images/boom-22-5/1.webp" }
     ]
   },
   {
@@ -104,7 +104,7 @@
       "activated by insulin",
       "inhibited by palmitoyl-CoA",
       "inactivated by AMP kinase",
-      "makes malonyl-CoA"
+      { "img": "data/boom/images/boom-22-6/1.webp" }
     ]
   },
   {
@@ -122,7 +122,7 @@
       "donor is malonyl-CoA",
       "repetitive four-step cycle",
       "consumes NADPH",
-      "yields palmitate"
+      { "img": "data/boom/images/boom-22-7/1.webp" }
     ]
   },
   {
@@ -140,7 +140,7 @@
       "uses a non-protein amino acid",
       "forms fatty acyl-carnitine",
       "feeds beta-oxidation",
-      "enzyme CPT-1"
+      { "img": "data/boom/images/boom-22-8/1.webp" }
     ]
   },
   {

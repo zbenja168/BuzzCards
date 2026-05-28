@@ -13,7 +13,7 @@
       "synthesizes 5' to 3'",
       "promoters recruit factors",
       "coding strand equals sense",
-      "carried out by RNAP II",
+      { "img": "data/boom/images/boom-11-1/1.webp" },
       "transcription"
     ]
   },
@@ -29,7 +29,7 @@
       "guides nuclear export",
       "blocks 5' exonucleases",
       "initiates translation",
-      "5'-to-5' triphosphate bridge",
+      { "img": "data/boom/images/boom-11-2/1.webp" },
       "modifies the leading end",
       "added co-transcriptionally",
       "7-methylguanosine"
@@ -49,7 +49,7 @@
       "stabilizes the transcript",
       "shields from exonucleases",
       "follows AAUAAA signal",
-      "made by polyadenylate polymerase",
+      { "img": "data/boom/images/boom-11-3/1.webp" },
       "poly(A) tail"
     ]
   },
@@ -67,7 +67,7 @@
       "AG-3' acceptor site",
       "internal adenine branch point",
       "enables alternative splicing",
-      "carried out by spliceosome",
+      { "img": "data/boom/images/boom-11-4/1.webp" },
       "snRNPs do the work"
     ]
   },
@@ -84,7 +84,7 @@
       "codons read in triplets",
       "starts at AUG codon",
       "first amino acid methionine",
-      "A, P, E sites",
+      { "img": "data/boom/images/boom-11-5/1.webp" },
       "40S plus 60S equals 80S",
       "carried out by ribosome"
     ]
@@ -99,7 +99,7 @@
     "buzzwords": [
       "delivers amino acids",
       "anticodon pairs with codon",
-      "cloverleaf secondary structure",
+      { "img": "data/boom/images/boom-11-6/1.webp" },
       "matches amino acid to anticodon",
       "consumes ATP",
       "no ribosomal proofreading",
@@ -117,7 +117,7 @@
     "buzzwords": [
       "exception to central dogma",
       "reverses the normal flow",
-      "RNA into DNA",
+      { "img": "data/boom/images/boom-11-7/1.webp" },
       "uses an RNA template",
       "performed by retroviruses",
       "enzyme is reverse transcriptase",

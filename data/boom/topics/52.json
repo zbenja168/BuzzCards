@@ -9,12 +9,12 @@
     "buzzwords": [
       "complex disease",
       "no clear inheritance pattern",
-      "genes plus environment",
+      { "img": "data/boom/images/boom-52-1/1.webp" },
       "many genes, small effects",
       "clusters in families",
       "not strictly Mendelian",
       "type 2 diabetes example",
-      "hypertension and obesity"
+      { "img": "data/boom/images/boom-52-1/2.webp" }
     ]
   },
   {
@@ -25,7 +25,7 @@
     "brick_title": "Multifactorial Disorders",
     "type": "physiology",
     "buzzwords": [
-      "liability distribution",
+      { "img": "data/boom/images/boom-52-2/1.webp" },
       "disease above threshold",
       "recurrence risk in relatives",
       "more affected relatives, higher risk",
@@ -48,7 +48,7 @@
       "studies common variants",
       "polymorphisms over 1% frequency",
       "uncovers biological pathways",
-      "Manhattan plot output",
+      { "img": "data/boom/images/boom-52-3/1.webp" },
       "~75 loci in T2D",
       "genome-wide association study"
     ]

@@ -11,7 +11,7 @@
       "proteins denatured first",
       "separated by size",
       "uniform negative charge",
-      "gel electrophoresis",
+      { "img": "data/boom/images/boom-17-1/1.webp" },
       "transfer to membrane",
       "reports molecular weight",
       "HIV confirmatory test"
@@ -30,9 +30,9 @@
       "color change readout",
       "antigen immobilized on plastic",
       "labeled anti-human antibody",
-      "serial dilution titer",
+      { "img": "data/boom/images/boom-17-2/2.webp" },
       "lateral flow pregnancy test",
-      "indirect ELISA"
+      { "img": "data/boom/images/boom-17-2/1.webp" }
     ]
   },
   {
@@ -48,7 +48,7 @@
       "light scattering",
       "side scatter granularity",
       "forward scatter size",
-      "quadrant plots",
+      { "img": "data/boom/images/boom-17-3/1.webp" },
       "counts CD4+ T-cells",
       "CBC differential"
     ]
@@ -65,7 +65,7 @@
       "stains tissue biopsy",
       "preserves spatial location",
       "examined by microscopy",
-      "brown DAB precipitate",
+      { "img": "data/boom/images/boom-17-4/1.webp" },
       "HRP-polymer secondary",
       "used in pathology staging",
       "IHC"
@@ -86,7 +86,7 @@
       "trait shows both bands",
       "detects sickle cell disease",
       "negative glutamate lost",
-      "HbA vs HbS"
+      { "img": "data/boom/images/boom-17-5/1.webp" }
     ]
   }
 ]

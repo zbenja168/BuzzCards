@@ -1,58 +1,57 @@
 #!/usr/bin/env node
-// Crop a rectangle out of a rendered PDF page PNG.
+// Crop a rectangle out of a rendered PDF page and write it (WebP by default).
 //
 // Usage:
-//   node scripts/crop.js <input.png> <output.png> <x> <y> <w> <h> [--resize-max=WIDTH]
+//   node scripts/crop.js <input.png> <output> <x> <y> <w> <h> [--resize-max=WIDTH] [--quality=N]
 //
 // Example:
-//   node scripts/crop.js data/pages/week2/38/p-03.png data/images/38-1/1.png 220 130 450 380
+//   node scripts/crop.js data/pages/boom/5/p-03.png data/boom/images/boom-5-2/1.webp 220 130 450 380
 //
-// Coordinates are pixels from the top-left of the source image. The output
-// directory is created if it doesn't exist. If --resize-max is given and the
-// crop is wider than that, it gets scaled down (keeps aspect ratio) so the
-// committed PNGs stay small.
+// Coordinates are pixels from the top-left of the source. The output directory
+// is created if missing. The output format is inferred from the output file's
+// extension (use .webp to keep committed images small; .png also works). If
+// --resize-max is given and the crop is wider, it's scaled down (aspect kept).
 
-const { Jimp } = require('jimp');
+const sharp = require('sharp');
 const fs = require('fs');
 const path = require('path');
 
 async function main() {
   const args = process.argv.slice(2);
   if (args.length < 6) {
-    console.error('Usage: node scripts/crop.js <input.png> <output.png> <x> <y> <w> <h> [--resize-max=WIDTH]');
+    console.error('Usage: node scripts/crop.js <input> <output> <x> <y> <w> <h> [--resize-max=WIDTH] [--quality=N]');
     process.exit(1);
   }
   const [input, output, xs, ys, ws, hs, ...rest] = args;
-  const x = parseInt(xs, 10);
-  const y = parseInt(ys, 10);
-  const w = parseInt(ws, 10);
-  const h = parseInt(hs, 10);
+  let x = parseInt(xs, 10), y = parseInt(ys, 10), w = parseInt(ws, 10), h = parseInt(hs, 10);
   const resizeArg = rest.find(a => a.startsWith('--resize-max='));
+  const qualArg   = rest.find(a => a.startsWith('--quality='));
   const resizeMax = resizeArg ? parseInt(resizeArg.split('=')[1], 10) : 600;
+  const quality   = qualArg ? parseInt(qualArg.split('=')[1], 10) : 80;
 
   if ([x, y, w, h].some(n => !Number.isFinite(n) || n < 0)) {
     console.error('Invalid bbox:', { x, y, w, h });
     process.exit(1);
   }
 
-  const img = await Jimp.read(input);
-  const sw = img.bitmap.width, sh = img.bitmap.height;
+  const meta = await sharp(input).metadata();
+  // Clamp to source bounds so a slight overshoot doesn't throw.
+  x = Math.min(Math.max(0, x), meta.width - 1);
+  y = Math.min(Math.max(0, y), meta.height - 1);
+  w = Math.min(w, meta.width - x);
+  h = Math.min(h, meta.height - y);
 
-  // Clamp to source bounds so a slightly-overshoot bbox doesn't throw.
-  const cx = Math.min(Math.max(0, x), sw - 1);
-  const cy = Math.min(Math.max(0, y), sh - 1);
-  const cw = Math.min(w, sw - cx);
-  const ch = Math.min(h, sh - cy);
+  let pipe = sharp(input).extract({ left: x, top: y, width: w, height: h });
+  if (resizeMax && w > resizeMax) pipe = pipe.resize({ width: resizeMax });
 
-  let out = img.crop({ x: cx, y: cy, w: cw, h: ch });
-  if (resizeMax && cw > resizeMax) {
-    const ratio = resizeMax / cw;
-    out = out.resize({ w: resizeMax, h: Math.round(ch * ratio) });
-  }
+  const ext = path.extname(output).toLowerCase();
+  if (ext === '.webp') pipe = pipe.webp({ quality });
+  else if (ext === '.png') pipe = pipe.png();
+  else if (ext === '.jpg' || ext === '.jpeg') pipe = pipe.jpeg({ quality });
 
   fs.mkdirSync(path.dirname(output), { recursive: true });
-  await out.write(output);
-  console.log('wrote', output, `(${out.bitmap.width}x${out.bitmap.height} from ${sw}x${sh} @ ${cx},${cy} ${cw}x${ch})`);
+  const info = await pipe.toFile(output);
+  console.log('wrote', output, `(${info.width}x${info.height}, ${info.size} bytes, from ${meta.width}x${meta.height} @ ${x},${y} ${w}x${h})`);
 }
 
 main().catch(e => { console.error(e); process.exit(1); });

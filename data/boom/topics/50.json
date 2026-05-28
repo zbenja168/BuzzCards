@@ -47,7 +47,7 @@
       "transmitted only through mother",
       "affects males and females",
       "no paternal transmission",
-      "heteroplasmy",
+      { "img": "data/boom/images/boom-50-3/1.webp" },
       "homoplasmy",
       "threshold effect",
       "maternal inheritance"
@@ -67,7 +67,7 @@
       "lactic acidosis",
       "stroke-like episodes",
       "encephalomyopathy",
-      "ragged red fibers",
+      { "img": "data/boom/images/boom-50-4/1.webp" },
       "mitochondrial tRNA mutation"
     ]
   },

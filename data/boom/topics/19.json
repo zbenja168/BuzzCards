@@ -8,7 +8,7 @@
     "type": "physiology",
     "buzzwords": [
       "glucose storage polymer",
-      "highly branched",
+      { "img": "data/boom/images/boom-19-1/1.webp" },
       "liver and muscle",
       "one reducing end",
       "many non-reducing ends",
@@ -28,7 +28,7 @@
       "bloating and flatulence",
       "watery diarrhea",
       "osmotically active gut",
-      "bacterial fermentation",
+      { "img": "data/boom/images/boom-19-2/1.webp" },
       "hydrogen breath test",
       "declines after age 5",
       "adult hypolactasia",
@@ -49,7 +49,7 @@
       "uses UDP-glucose",
       "yields glucose-1-phosphate",
       "galactokinase first step",
-      "GALT then GALE",
+      { "img": "data/boom/images/boom-19-3/1.webp" },
       "epimerase makes UDP-glucose"
     ]
   },

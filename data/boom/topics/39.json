@@ -12,7 +12,7 @@
       "infantile onset",
       "exaggerated startle response",
       "no hepatosplenomegaly",
-      "cherry-red macula",
+      { "img": "data/boom/images/boom-39-1/1.webp" },
       "hexosaminidase A deficiency",
       "GM2 ganglioside accumulation"
     ]
@@ -48,7 +48,7 @@
       "hepatosplenomegaly",
       "bone crises",
       "pancytopenia",
-      "crinkled-paper macrophages",
+      { "img": "data/boom/images/boom-39-3/1.webp" },
       "glucocerebrosidase deficiency",
       "glucocerebroside accumulation"
     ]

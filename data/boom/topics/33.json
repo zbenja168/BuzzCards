@@ -9,7 +9,7 @@
     "buzzwords": [
       "intake vs excretion",
       "dietary nitrogen sources",
-      "amino acid pool",
+      { "img": "data/boom/images/boom-33-1/1.webp" },
       "growth gives positive",
       "starvation gives negative",
       "burns and trauma",
@@ -30,7 +30,7 @@
       "spans mito and cytoplasm",
       "makes water-soluble urea",
       "nitrogen from aspartate",
-      "regenerates ornithine",
+      { "img": "data/boom/images/boom-33-2/1.webp" },
       "arginase yields urea",
       "Krebs-Henseleit cycle"
     ]
@@ -63,7 +63,7 @@
     "buzzwords": [
       "nitrogen shuttle to liver",
       "active in fasting",
-      "muscle exports alanine",
+      { "img": "data/boom/images/boom-33-4/1.webp" },
       "alanine from pyruvate",
       "liver makes glucose",
       "transaminase needed",
@@ -84,7 +84,7 @@
       "respiratory alkalosis",
       "elevated glutamine",
       "hyperammonemia",
-      "low blood urea nitrogen",
+      { "img": "data/boom/images/boom-33-5/1.webp" },
       "treat with protein restriction",
       "ammonia scavenger therapy"
     ]
@@ -101,7 +101,7 @@
       "X-linked inheritance",
       "low or absent citrulline",
       "carbamoyl phosphate builds up",
-      "spills into pyrimidine pathway",
+      { "img": "data/boom/images/boom-33-6/1.webp" },
       "elevated orotic acid",
       "orotic aciduria no anemia",
       "distinguishes from OPRT deficiency"
@@ -121,7 +121,7 @@
       "excreted as hippurate",
       "phenylacetate conjugates glutamine",
       "excreted as phenylacetylglutamine",
-      "active metabolite phenylbutyrate",
+      { "img": "data/boom/images/boom-33-7/1.webp" },
       "sodium benzoate phenylacetate"
     ]
   }
