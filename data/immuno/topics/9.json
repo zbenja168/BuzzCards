@@ -1,0 +1,110 @@
+[
+  {
+    "id": "immuno-9-1",
+    "title": "V(D)J Recombination",
+    "course": "immuno",
+    "brick_id": "9",
+    "brick_title": "T Cell Development, Activation, and Differentiation",
+    "type": "physiology",
+    "buzzwords": [
+      "builds the antigen receptor",
+      "nearly random gene assembly",
+      "combinatorial diversity",
+      "junctional diversity",
+      "millions of possible receptors",
+      "pre-TCR has surrogate alpha chain",
+      "double-negative becomes double-positive",
+      "rearranges the TCR"
+    ]
+  },
+  {
+    "id": "immuno-9-2",
+    "title": "Thymic Selection",
+    "course": "immuno",
+    "brick_id": "9",
+    "brick_title": "T Cell Development, Activation, and Differentiation",
+    "type": "physiology",
+    "buzzwords": [
+      "tests TCR self-reactivity",
+      "occurs in the thymus",
+      "positive selection in cortex",
+      "no MHC binding causes death by neglect",
+      "negative selection in medulla",
+      "too-strong self-binding triggers apoptosis",
+      "enforces immune tolerance",
+      "AIRE drives self-antigen display"
+    ]
+  },
+  {
+    "id": "immuno-9-3",
+    "title": "T Cell Priming",
+    "course": "immuno",
+    "brick_id": "9",
+    "brick_title": "T Cell Development, Activation, and Differentiation",
+    "type": "physiology",
+    "buzzwords": [
+      "first activation of naive T cell",
+      "requires three signals",
+      "dendritic cell presents antigen",
+      "immunological synapse",
+      "TCR binds peptide-MHC",
+      "coreceptor binds MHC",
+      "costimulation needed",
+      "CD28 binds B7"
+    ]
+  },
+  {
+    "id": "immuno-9-4",
+    "title": "TCR Signaling",
+    "course": "immuno",
+    "brick_id": "9",
+    "brick_title": "T Cell Development, Activation, and Differentiation",
+    "type": "physiology",
+    "buzzwords": [
+      "intracellular activation cascade",
+      "raises cytosolic calcium",
+      "CD3 associated with all TCRs",
+      "tyrosine kinase phosphorylates CD3",
+      "adaptor docks downstream",
+      "blocked by cyclosporine",
+      "Lck and Zap-70",
+      "activates NFAT, NF-kB, AP1"
+    ]
+  },
+  {
+    "id": "immuno-9-5",
+    "title": "Cytotoxic T Cells",
+    "course": "immuno",
+    "brick_id": "9",
+    "brick_title": "T Cell Development, Activation, and Differentiation",
+    "type": "physiology",
+    "buzzwords": [
+      "CD8-positive",
+      "kills infected or malignant cells",
+      "recognizes MHC class I",
+      "reactivated without CD28 signal",
+      "triggers target apoptosis",
+      "delivers perforin",
+      "delivers granzymes",
+      "expanded by IL-2 therapy"
+    ]
+  },
+  {
+    "id": "immuno-9-6",
+    "title": "Helper T Subsets",
+    "course": "immuno",
+    "brick_id": "9",
+    "brick_title": "T Cell Development, Activation, and Differentiation",
+    "type": "physiology",
+    "buzzwords": [
+      "CD4-positive effectors",
+      "do not kill cells directly",
+      "Th1 fights intracellular pathogens",
+      "Th2 fights helminths",
+      "Th17 enhances neutrophils",
+      "Tregs inhibit the response",
+      "driven by innate cytokines",
+      "Th1 IFN-gamma, Th2 IL-4"
+    ]
+  }
+]

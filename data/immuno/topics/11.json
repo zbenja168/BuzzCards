@@ -1,0 +1,128 @@
+[
+  {
+    "id": "immuno-11-1",
+    "title": "Negative Selection",
+    "course": "immuno",
+    "brick_id": "11",
+    "brick_title": "Immunologic Tolerance",
+    "type": "physiology",
+    "buzzwords": [
+      "central tolerance",
+      "occurs in primary lymphoid organs",
+      "acts on developing lymphocytes",
+      "deletes self-reactive cells",
+      "happens in thymic medulla",
+      "strong self-MHC binding",
+      "high-affinity binders apoptose",
+      "negative selection"
+    ]
+  },
+  {
+    "id": "immuno-11-2",
+    "title": "Regulatory T Cells",
+    "course": "immuno",
+    "brick_id": "11",
+    "brick_title": "Immunologic Tolerance",
+    "type": "physiology",
+    "buzzwords": [
+      "suppress immune responses",
+      "from intermediate-affinity binders",
+      "secrete IL-10 and TGF-beta",
+      "express CD25",
+      "soak up IL-2",
+      "express CTLA-4",
+      "master TF FoxP3",
+      "FOXP3 mutation causes IPEX"
+    ]
+  },
+  {
+    "id": "immuno-11-3",
+    "title": "Receptor Editing",
+    "course": "immuno",
+    "brick_id": "11",
+    "brick_title": "Immunologic Tolerance",
+    "type": "physiology",
+    "buzzwords": [
+      "B-cell central tolerance",
+      "occurs in bone marrow",
+      "salvages self-reactive cells",
+      "new round of VJ recombination",
+      "swaps light chain",
+      "kappa or lambda locus",
+      "rescues autoreactive BCR",
+      "receptor editing"
+    ]
+  },
+  {
+    "id": "immuno-11-4",
+    "title": "T-Cell Anergy",
+    "course": "immuno",
+    "brick_id": "11",
+    "brick_title": "Immunologic Tolerance",
+    "type": "physiology",
+    "buzzwords": [
+      "peripheral tolerance",
+      "signal 1 without signal 2",
+      "no costimulation",
+      "missing B7-CD28 signal",
+      "unresponsive but alive",
+      "PD-1 shuts off activation",
+      "CTLA-4 competes for B7",
+      "anergy"
+    ]
+  },
+  {
+    "id": "immuno-11-5",
+    "title": "Fas-Mediated Deletion",
+    "course": "immuno",
+    "brick_id": "11",
+    "brick_title": "Immunologic Tolerance",
+    "type": "physiology",
+    "buzzwords": [
+      "peripheral deletion by apoptosis",
+      "death receptor pathway",
+      "ligand on activated CTLs",
+      "upregulated on self-reactive T cells",
+      "Fas binds FasL",
+      "defect causes ALPS",
+      "splenomegaly and lymphadenopathy",
+      "Fas/FasL"
+    ]
+  },
+  {
+    "id": "immuno-11-6",
+    "title": "Oral Tolerance",
+    "course": "immuno",
+    "brick_id": "11",
+    "brick_title": "Immunologic Tolerance",
+    "type": "physiology",
+    "buzzwords": [
+      "prevents response to gut antigens",
+      "limits access to food proteins",
+      "Peyer patches sample lumen",
+      "secretory IgA neutralizes",
+      "tolerogenic dendritic cells",
+      "induced Tregs",
+      "suppresses immunization after feeding",
+      "drink-the-antigen tolerance"
+    ]
+  },
+  {
+    "id": "immuno-11-7",
+    "title": "Immune Privilege",
+    "course": "immuno",
+    "brick_id": "11",
+    "brick_title": "Immunologic Tolerance",
+    "type": "physiology",
+    "buzzwords": [
+      "blocks response at certain sites",
+      "physical barriers to antigen",
+      "anti-inflammatory cytokines",
+      "local Treg activity",
+      "FasL kills invading lymphocytes",
+      "protects eye and brain",
+      "shields fetus from mother",
+      "placenta and testis"
+    ]
+  }
+]

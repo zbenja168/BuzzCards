@@ -1,0 +1,92 @@
+[
+  {
+    "id": "immuno-10-1",
+    "title": "Cytotoxic T Cells",
+    "course": "immuno",
+    "brick_id": "10",
+    "brick_title": "Cell-Mediated Immunity",
+    "type": "physiology",
+    "buzzwords": [
+      "CD8-positive killer",
+      "kills virus-infected cells",
+      "recognizes MHC class I",
+      "triggers target apoptosis",
+      "no inflammation, no DAMPs",
+      "delivers perforin and granzymes",
+      "activates caspases",
+      "also uses FasL-Fas"
+    ]
+  },
+  {
+    "id": "immuno-10-2",
+    "title": "Th1 Cells",
+    "course": "immuno",
+    "brick_id": "10",
+    "brick_title": "Cell-Mediated Immunity",
+    "type": "physiology",
+    "buzzwords": [
+      "CD4-positive effector",
+      "fights intracellular pathogens",
+      "activates macrophages",
+      "boosts phagocytic killing",
+      "induced by IFN-gamma and IL-12",
+      "upregulates MHC and B7",
+      "uses CD40-CD40L signal",
+      "secretes IFN-gamma"
+    ]
+  },
+  {
+    "id": "immuno-10-3",
+    "title": "Th2 Cells",
+    "course": "immuno",
+    "brick_id": "10",
+    "brick_title": "Cell-Mediated Immunity",
+    "type": "physiology",
+    "buzzwords": [
+      "CD4-positive effector",
+      "fights parasites and helminths",
+      "drives IgE class switching",
+      "activates eosinophils and mast cells",
+      "promotes M2 macrophages",
+      "IL-4, IL-5, IL-13",
+      "IL-13 boosts mucus and peristalsis",
+      "secretes IL-4"
+    ]
+  },
+  {
+    "id": "immuno-10-4",
+    "title": "Th17 Cells",
+    "course": "immuno",
+    "brick_id": "10",
+    "brick_title": "Cell-Mediated Immunity",
+    "type": "physiology",
+    "buzzwords": [
+      "CD4-positive effector",
+      "recruits neutrophils",
+      "fights extracellular bacteria and fungi",
+      "pro-inflammatory cytokines",
+      "induces IL-6 and IL-1beta",
+      "induces IL-8 chemokine",
+      "stimulates defensins",
+      "secretes IL-17"
+    ]
+  },
+  {
+    "id": "immuno-10-5",
+    "title": "NK Cell ADCC",
+    "course": "immuno",
+    "brick_id": "10",
+    "brick_title": "Cell-Mediated Immunity",
+    "type": "physiology",
+    "buzzwords": [
+      "innate killer cell",
+      "kills antibody-coated targets",
+      "active when MHC class I is lost",
+      "releases perforin and granzymes",
+      "recognizes IgG on target",
+      "Fc receptor cross-linking triggers it",
+      "CD16 binds the antibody",
+      "target dies by apoptosis"
+    ]
+  }
+]

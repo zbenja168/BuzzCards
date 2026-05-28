@@ -1,0 +1,128 @@
+[
+  {
+    "id": "immuno-23-1",
+    "title": "Prenatal Hematopoiesis",
+    "course": "immuno",
+    "brick_id": "23",
+    "brick_title": "Effect of Age on the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "fetal blood cell origin",
+      "shifts between organs",
+      "starts ~3 weeks",
+      "liver peaks mid-gestation",
+      "spleen minor contributor",
+      "marrow primary by birth",
+      "first site is yolk sac",
+      "yolk sac to liver to marrow"
+    ]
+  },
+  {
+    "id": "immuno-23-2",
+    "title": "Tissue-Resident Immune Cells",
+    "course": "immuno",
+    "brick_id": "23",
+    "brick_title": "Effect of Age on the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "seeded before birth",
+      "fetal-derived",
+      "not renewed by marrow",
+      "self-maintaining locally",
+      "Kupffer cells",
+      "alveolar macrophages",
+      "microglia from yolk sac",
+      "B-1 cells make low-affinity IgM"
+    ]
+  },
+  {
+    "id": "immuno-23-3",
+    "title": "Thymus Development",
+    "course": "immuno",
+    "brick_id": "23",
+    "brick_title": "Effect of Age on the Immune System",
+    "type": "anatomy",
+    "buzzwords": [
+      "T cell maturation site",
+      "stroma from endoderm",
+      "seeded by fetal liver",
+      "positive and negative selection",
+      "makes regulatory T cells",
+      "involutes with age",
+      "third pharyngeal pouch",
+      "fills with fat over life"
+    ]
+  },
+  {
+    "id": "immuno-23-4",
+    "title": "Transplacental IgG",
+    "course": "immuno",
+    "brick_id": "23",
+    "brick_title": "Effect of Age on the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "passive immunity in utero",
+      "maternal antibody",
+      "crosses placenta",
+      "only IgG transferred",
+      "protects 3 to 6 months",
+      "wanes as infant synthesizes own",
+      "neonatal Fc receptor",
+      "FcRn transport"
+    ]
+  },
+  {
+    "id": "immuno-23-5",
+    "title": "Breastmilk Immunity",
+    "course": "immuno",
+    "brick_id": "23",
+    "brick_title": "Effect of Age on the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "postnatal passive immunity",
+      "passive plus active components",
+      "immune cells and cytokines",
+      "lactoferrin sequesters iron",
+      "lysozyme cleaves peptidoglycan",
+      "oligosaccharide prebiotics",
+      "dominant antibody is secretory IgA",
+      "macrophages release sIgA in gut"
+    ]
+  },
+  {
+    "id": "immuno-23-6",
+    "title": "Neonatal Microbiome",
+    "course": "immuno",
+    "brick_id": "23",
+    "brick_title": "Effect of Age on the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "normal flora",
+      "part of innate immunity",
+      "first acquired at birth",
+      "competes with pathogens",
+      "builds oral tolerance",
+      "skin flora from primary caregiver",
+      "feeds Bifidobacteria",
+      "may prevent atopy"
+    ]
+  },
+  {
+    "id": "immuno-23-7",
+    "title": "Immunosenescence",
+    "course": "immuno",
+    "brick_id": "23",
+    "brick_title": "Effect of Age on the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "aging immune decline",
+      "fewer naive T and B cells",
+      "total leukocytes fall",
+      "low-grade chronic inflammation",
+      "autoantibodies rise",
+      "antibody affinity drops",
+      "reduced CD4 to CD8 ratio",
+      "CD28 falls on T cells"
+    ]
+  }
+]

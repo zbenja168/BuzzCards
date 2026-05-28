@@ -1,0 +1,146 @@
+[
+  {
+    "id": "immuno-13-1",
+    "title": "Allergy and Atopy",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "disease",
+    "buzzwords": [
+      "exaggerated immune response",
+      "harmless environmental substance",
+      "type I hypersensitivity",
+      "IgE-mediated",
+      "genetic predisposition",
+      "rhinitis, conjunctivitis, dermatitis",
+      "family history of atopy",
+      "atopy"
+    ]
+  },
+  {
+    "id": "immuno-13-2",
+    "title": "Anaphylaxis",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "disease",
+    "buzzwords": [
+      "severe systemic reaction",
+      "rapid onset",
+      "multiple organ systems",
+      "bronchoconstriction and vasodilation",
+      "hypotension and shock",
+      "airway swelling, stridor",
+      "shock mortality near 20%",
+      "life-threatening"
+    ]
+  },
+  {
+    "id": "immuno-13-3",
+    "title": "Mast Cell Degranulation",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "physiology",
+    "buzzwords": [
+      "allergen crosslinks IgE",
+      "binds FceRI receptor",
+      "requires prior sensitization",
+      "early-phase response",
+      "preformed mediators released",
+      "histamine and heparin",
+      "late-phase leukotrienes, PAF",
+      "degranulation"
+    ]
+  },
+  {
+    "id": "immuno-13-4",
+    "title": "Skin Testing",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "lab",
+    "buzzwords": [
+      "identifies specific allergen",
+      "most sensitive method",
+      "introduces small allergen amount",
+      "look for wheal and flare",
+      "prick or puncture test",
+      "intradermal for drugs, venom",
+      "more sensitive than blood EIA",
+      "skin prick test"
+    ]
+  },
+  {
+    "id": "immuno-13-5",
+    "title": "Epinephrine",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "drug",
+    "buzzwords": [
+      "first-line for anaphylaxis",
+      "give immediately",
+      "bronchodilates airways",
+      "vasoconstricts, raises blood pressure",
+      "self-administered autoinjector",
+      "intramuscular injection",
+      "adjunct saline for hypotension",
+      "epinephrine"
+    ]
+  },
+  {
+    "id": "immuno-13-6",
+    "title": "Antihistamines",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "drug",
+    "buzzwords": [
+      "blocks a mediator receptor",
+      "targets histamine H1 receptor",
+      "reduces itching, sneezing",
+      "treats allergic rhinitis, urticaria",
+      "not first-line in anaphylaxis",
+      "diphenhydramine",
+      "loratadine",
+      "cetirizine"
+    ]
+  },
+  {
+    "id": "immuno-13-7",
+    "title": "Leukotriene Antagonists",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "drug",
+    "buzzwords": [
+      "blocks a lipid mediator",
+      "leukotriene receptor antagonist",
+      "limits bronchoconstriction",
+      "used in asthma",
+      "reduces allergic inflammation",
+      "zafirlukast",
+      "montelukast",
+      "leukotriene antagonist"
+    ]
+  },
+  {
+    "id": "immuno-13-8",
+    "title": "Omalizumab",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "drug",
+    "buzzwords": [
+      "monoclonal antibody",
+      "binds free IgE",
+      "prevents IgE binding FceRI",
+      "reduces attack frequency",
+      "used in severe allergy",
+      "treats refractory asthma",
+      "anti-IgE biologic",
+      "omalizumab"
+    ]
+  }
+]

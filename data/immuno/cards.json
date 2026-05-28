@@ -1,0 +1,2774 @@
+[
+  {
+    "id": "immuno-1-1",
+    "title": "Primary Lymphoid Organs",
+    "course": "immuno",
+    "brick_id": "1",
+    "brick_title": "Introduction to the Immune System",
+    "type": "anatomy",
+    "buzzwords": [
+      "generative organs",
+      "all immune cells made here",
+      "site of lymphocyte maturation",
+      "myeloid and lymphoid lineages",
+      "hematopoietic stem cells",
+      "self-reactive cells deleted here",
+      "bone marrow",
+      "thymus"
+    ]
+  },
+  {
+    "id": "immuno-1-2",
+    "title": "Secondary Lymphoid Organs",
+    "course": "immuno",
+    "brick_id": "1",
+    "brick_title": "Introduction to the Immune System",
+    "type": "anatomy",
+    "buzzwords": [
+      "sites of antigen encounter",
+      "B and T cells meet antigen",
+      "named by location",
+      "GALT in intestines",
+      "BALT in lungs",
+      "spleen, tonsils, appendix",
+      "lymph nodes",
+      "MALT"
+    ]
+  },
+  {
+    "id": "immuno-1-3",
+    "title": "Innate Immune System",
+    "course": "immuno",
+    "brick_id": "1",
+    "brick_title": "Introduction to the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "rapid response",
+      "nonspecific defense",
+      "no immunologic memory",
+      "responds within hours",
+      "encoded in germline DNA",
+      "phagocytes and granulocytes",
+      "recognizes PAMPs and DAMPs",
+      "pattern recognition receptors"
+    ]
+  },
+  {
+    "id": "immuno-1-4",
+    "title": "Adaptive Immune System",
+    "course": "immuno",
+    "brick_id": "1",
+    "brick_title": "Introduction to the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "slower response",
+      "highly specific",
+      "responds within days",
+      "immunologic memory",
+      "clonal expansion of one clone",
+      "tolerance to self",
+      "made by gene rearrangement",
+      "B and T lymphocytes"
+    ]
+  },
+  {
+    "id": "immuno-1-5",
+    "title": "Humoral Immunity",
+    "course": "immuno",
+    "brick_id": "1",
+    "brick_title": "Introduction to the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "body-fluid immunity",
+      "targets extracellular pathogens",
+      "B cell mediated",
+      "produces antibodies",
+      "opsonizes for phagocytosis",
+      "neutralizes toxins",
+      "plasma cells secrete antibody",
+      "antibodies"
+    ]
+  },
+  {
+    "id": "immuno-1-6",
+    "title": "Cell-Mediated Immunity",
+    "course": "immuno",
+    "brick_id": "1",
+    "brick_title": "Introduction to the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "targets intracellular pathogens",
+      "T cell mediated",
+      "no antibodies involved",
+      "recognizes antigen on MHC",
+      "cytotoxic T cells kill infected cells",
+      "regulatory T cells downregulate",
+      "helper T cells coordinate",
+      "induces apoptosis of target"
+    ]
+  },
+  {
+    "id": "immuno-2-1",
+    "title": "Pattern Recognition Receptors",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "physiology",
+    "buzzwords": [
+      "innate immune sensors",
+      "germline-encoded receptors",
+      "distinguish self from danger",
+      "recognize PAMPs",
+      "recognize DAMPs",
+      "signal via NF-kB",
+      "induce inflammation",
+      "PRRs"
+    ]
+  },
+  {
+    "id": "immuno-2-2",
+    "title": "Toll-Like Receptors",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "physiology",
+    "buzzwords": [
+      "surface or vesicle PRRs",
+      "external sense bacteria, fungi",
+      "internal sense viral nucleic acid",
+      "in endosomes for viruses",
+      "deficiency causes herpesvirus infection",
+      "TLR4 detects LPS",
+      "signal to NF-kB",
+      "TLRs"
+    ]
+  },
+  {
+    "id": "immuno-2-3",
+    "title": "NOD-Like Receptors",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "physiology",
+    "buzzwords": [
+      "intracellular cytosolic PRRs",
+      "recognize PAMPs and DAMPs",
+      "form inflammasomes",
+      "drive multiprotein complex",
+      "amplify inflammation",
+      "loss-of-function in Crohn disease",
+      "exploit injury for healing",
+      "NLRs"
+    ]
+  },
+  {
+    "id": "immuno-2-4",
+    "title": "Pro-inflammatory Cytokines",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "physiology",
+    "buzzwords": [
+      "drive acute inflammation",
+      "made by macrophages, T cells",
+      "act as pyrogens",
+      "cause fever",
+      "induce acute phase reactants",
+      "upregulate adhesion molecules",
+      "high TNF causes shock",
+      "IL-1, IL-6, TNF-alpha"
+    ]
+  },
+  {
+    "id": "immuno-2-5",
+    "title": "TNF Inhibitors",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "drug",
+    "buzzwords": [
+      "block a pro-inflammatory cytokine",
+      "treat inflammatory disease",
+      "monoclonal antibodies",
+      "bind soluble TNF-alpha",
+      "etanercept is decoy receptor",
+      "risk of immunosuppression",
+      "adalimumab",
+      "infliximab"
+    ]
+  },
+  {
+    "id": "immuno-2-6",
+    "title": "Chemokines",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "physiology",
+    "buzzwords": [
+      "induce chemotaxis",
+      "form a chemical gradient",
+      "drive leukocyte migration",
+      "named CCL or CXCL",
+      "recruit neutrophils to inflammation",
+      "increase neutrophil adhesion molecules",
+      "IL-8",
+      "CXCL8"
+    ]
+  },
+  {
+    "id": "immuno-2-7",
+    "title": "Interferons",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "physiology",
+    "buzzwords": [
+      "antiviral cytokines",
+      "two types I and II",
+      "type I is alpha and beta",
+      "block viral replication nearby",
+      "type II is gamma",
+      "activate NK cells",
+      "activate macrophages",
+      "IFNs"
+    ]
+  },
+  {
+    "id": "immuno-2-8",
+    "title": "Anti-inflammatory Cytokines",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "physiology",
+    "buzzwords": [
+      "immunosuppressive cytokines",
+      "control immune responses",
+      "limit tissue damage",
+      "inhibit pro-inflammatory cytokines",
+      "deficiency causes autoimmunity",
+      "promote wound healing",
+      "IL-10",
+      "TGF-beta"
+    ]
+  },
+  {
+    "id": "immuno-2-9",
+    "title": "Cytokine Storm",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "disease",
+    "buzzwords": [
+      "dysregulated immune response",
+      "excess pro-inflammatory cytokines",
+      "positive feedback inflammation loop",
+      "driven by high LPS",
+      "extensive TLR4 activation",
+      "causes vasodilation",
+      "causes capillary leakage",
+      "cytokine storm"
+    ]
+  },
+  {
+    "id": "immuno-2-10",
+    "title": "SIRS and Sepsis",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "disease",
+    "buzzwords": [
+      "systemic inflammatory dysregulation",
+      "two of four criteria",
+      "abnormal temperature, heart rate",
+      "SIRS plus infection is sepsis",
+      "persistent hypotension is septic shock",
+      "progresses to organ damage",
+      "MODS mortality over 50%",
+      "SIRS"
+    ]
+  },
+  {
+    "id": "immuno-3-1",
+    "title": "Neutrophils",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "physiology",
+    "buzzwords": [
+      "phagocyte",
+      "granulocyte",
+      "most numerous leukocyte",
+      "40-70% of leukocytes",
+      "first responders",
+      "peak 2-6 hours",
+      "short-lived 1-4 days",
+      "multilobed nucleus"
+    ]
+  },
+  {
+    "id": "immuno-3-2",
+    "title": "Respiratory Burst",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "physiology",
+    "buzzwords": [
+      "reactive oxygen species",
+      "oxygen-dependent killing",
+      "makes superoxide",
+      "hydrogen peroxide",
+      "NADPH oxidase",
+      "myeloperoxidase",
+      "hypochlorite product",
+      "oxidative burst"
+    ]
+  },
+  {
+    "id": "immuno-3-3",
+    "title": "Chronic Granulomatous Disease",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "disease",
+    "buzzwords": [
+      "phagocyte killing defect",
+      "no respiratory burst",
+      "NADPH oxidase deficiency",
+      "recurrent infections",
+      "catalase-positive organisms",
+      "Staphylococcus aureus risk",
+      "granuloma formation",
+      "CGD"
+    ]
+  },
+  {
+    "id": "immuno-3-4",
+    "title": "Reactive Nitrogen Species",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "physiology",
+    "buzzwords": [
+      "antimicrobial radicals",
+      "arginine to citrulline",
+      "makes nitric oxide",
+      "iNOS enzyme",
+      "combines with superoxide",
+      "forms peroxynitrite",
+      "ONOO-",
+      "toxic to microbes"
+    ]
+  },
+  {
+    "id": "immuno-3-5",
+    "title": "NETosis",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "physiology",
+    "buzzwords": [
+      "neutrophil-only mechanism",
+      "last-ditch killing",
+      "expelled DNA web",
+      "traps pathogens",
+      "granule contents bound",
+      "neutrophil dies",
+      "major component of pus",
+      "neutrophil extracellular traps"
+    ]
+  },
+  {
+    "id": "immuno-3-6",
+    "title": "Monocytes",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "physiology",
+    "buzzwords": [
+      "blood phagocyte",
+      "2-8% of leukocytes",
+      "largest leukocyte",
+      "horseshoe nucleus",
+      "circulates then enters tissue",
+      "replenishes macrophages",
+      "becomes dendritic cells",
+      "differentiates in tissue"
+    ]
+  },
+  {
+    "id": "immuno-3-7",
+    "title": "Macrophages",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "physiology",
+    "buzzwords": [
+      "tissue-resident phagocyte",
+      "sentinel cell",
+      "long-lived",
+      "antigen-presenting cell",
+      "tissue repair role",
+      "M1 versus M2 polarization",
+      "M1 inflammatory killer",
+      "Kupffer and microglia"
+    ]
+  },
+  {
+    "id": "immuno-3-8",
+    "title": "Dendritic Cells",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "physiology",
+    "buzzwords": [
+      "professional APC",
+      "weak phagocyte",
+      "samples antigens",
+      "migrates to lymph node",
+      "activates naive T cells",
+      "links innate and adaptive",
+      "upregulates CCR7",
+      "cytoplasmic projections"
+    ]
+  },
+  {
+    "id": "immuno-4-1",
+    "title": "Classical Pathway",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "physiology",
+    "buzzwords": [
+      "antibody-triggered activation",
+      "cleaves C4 and C2",
+      "tested by CH50",
+      "IgM is most potent activator",
+      "needs two IgG molecules",
+      "activated by CRP",
+      "C4b2b convertase",
+      "starts with C1qrs"
+    ]
+  },
+  {
+    "id": "immuno-4-2",
+    "title": "Alternative Pathway",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "physiology",
+    "buzzwords": [
+      "antibody-independent",
+      "spontaneous C3 hydrolysis",
+      "uses factor B and factor D",
+      "stabilized by properdin",
+      "makes most C3b",
+      "produces 80-90% of MAC",
+      "C3bBb convertase",
+      "properdin loss: Neisseria infections"
+    ]
+  },
+  {
+    "id": "immuno-4-3",
+    "title": "Lectin Pathway",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "physiology",
+    "buzzwords": [
+      "antibody-independent",
+      "recognizes surface sugars",
+      "binds mannose residues",
+      "cleaves C4 and C2",
+      "uses MASP proteases",
+      "C4b2b convertase",
+      "mannose-binding lectin",
+      "MBL initiates it"
+    ]
+  },
+  {
+    "id": "immuno-4-4",
+    "title": "Membrane Attack Complex",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "physiology",
+    "buzzwords": [
+      "terminal pathway product",
+      "forms membrane pore",
+      "causes cell lysis",
+      "initiated by C5b",
+      "C5b-C6-C7-C8 core",
+      "many C9 copies polymerize",
+      "shared by all pathways",
+      "MAC pore"
+    ]
+  },
+  {
+    "id": "immuno-4-5",
+    "title": "Anaphylatoxins",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "physiology",
+    "buzzwords": [
+      "potent vasodilators",
+      "increase vascular permeability",
+      "trigger mast cell degranulation",
+      "recruit leukocytes",
+      "C5a most potent",
+      "C5a, C3a, C4a",
+      "can mimic anaphylaxis",
+      "C5a induces phagocytosis"
+    ]
+  },
+  {
+    "id": "immuno-4-6",
+    "title": "Hereditary Angioedema",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent painless swelling",
+      "face, hands, feet",
+      "GI attacks with pain",
+      "laryngeal edema risk",
+      "no urticaria",
+      "elevated bradykinin",
+      "C1 esterase inhibitor deficiency",
+      "C1-INH deficiency"
+    ]
+  },
+  {
+    "id": "immuno-4-7",
+    "title": "Paroxysmal Nocturnal Hemoglobinuria",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "disease",
+    "buzzwords": [
+      "intravascular hemolysis",
+      "dark morning urine",
+      "thrombosis risk",
+      "complement-mediated RBC lysis",
+      "missing GPI anchor",
+      "loses DAF and CD59",
+      "DAF is CD55",
+      "DAF/CD59 deficiency"
+    ]
+  },
+  {
+    "id": "immuno-4-8",
+    "title": "Terminal Complement Deficiency",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent bacterial infections",
+      "encapsulated organisms",
+      "impaired MAC formation",
+      "cannot lyse pathogens",
+      "vaccines under-protect",
+      "C5-C9 component loss",
+      "recurrent Neisseria infections",
+      "meningococcal susceptibility"
+    ]
+  },
+  {
+    "id": "immuno-5-1",
+    "title": "Leukocyte Adhesion Deficiency I",
+    "course": "immuno",
+    "brick_id": "5",
+    "brick_title": "Inborn Errors of Innate Immunity",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "neutrophils can't exit vessels",
+      "infections lack pus",
+      "marked leukocytosis",
+      "delayed umbilical cord separation",
+      "recurrent skin infections",
+      "poor wound healing",
+      "defective CD18 integrin"
+    ]
+  },
+  {
+    "id": "immuno-5-2",
+    "title": "Chédiak-Higashi Syndrome",
+    "course": "immuno",
+    "brick_id": "5",
+    "brick_title": "Inborn Errors of Innate Immunity",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "recurrent pyogenic infections",
+      "bleeding tendency",
+      "progressive neuropathy",
+      "partial albinism",
+      "silvery hair",
+      "giant granules in neutrophils",
+      "LYST mutation"
+    ]
+  },
+  {
+    "id": "immuno-5-3",
+    "title": "Chronic Granulomatous Disease",
+    "course": "immuno",
+    "brick_id": "5",
+    "brick_title": "Inborn Errors of Innate Immunity",
+    "type": "disease",
+    "buzzwords": [
+      "mostly X-linked recessive",
+      "defective oxidative burst",
+      "no reactive oxygen species",
+      "catalase-positive infections",
+      "granuloma formation",
+      "recurrent abscesses",
+      "negative dihydrorhodamine test",
+      "defective NADPH oxidase"
+    ]
+  },
+  {
+    "id": "immuno-6-1",
+    "title": "MHC Class I",
+    "course": "immuno",
+    "brick_id": "6",
+    "brick_title": "Major Histocompatibility Complex",
+    "type": "physiology",
+    "buzzwords": [
+      "on every nucleated cell",
+      "presents endogenous peptides",
+      "absent on erythrocytes",
+      "binds 8-11 amino acid peptides",
+      "recognized by CD8 T cells",
+      "single transmembrane chain",
+      "groove from one chain",
+      "alpha chain plus beta2-microglobulin"
+    ]
+  },
+  {
+    "id": "immuno-6-2",
+    "title": "MHC Class II",
+    "course": "immuno",
+    "brick_id": "6",
+    "brick_title": "Major Histocompatibility Complex",
+    "type": "physiology",
+    "buzzwords": [
+      "limited to antigen-presenting cells",
+      "presents exogenous peptides",
+      "binds 15-25 amino acid peptides",
+      "recognized by CD4 T cells",
+      "two transmembrane chains",
+      "groove from both chains",
+      "stabilized by CD4 coreceptor",
+      "alpha and beta chains"
+    ]
+  },
+  {
+    "id": "immuno-6-3",
+    "title": "Class I Loading",
+    "course": "immuno",
+    "brick_id": "6",
+    "brick_title": "Major Histocompatibility Complex",
+    "type": "physiology",
+    "buzzwords": [
+      "loads endogenous peptides",
+      "cytosolic protein source",
+      "proteasome degrades proteins",
+      "ubiquitin tags substrates",
+      "peptides pumped into ER",
+      "loaded in ER",
+      "TAP transporter",
+      "tapasin chaperone"
+    ]
+  },
+  {
+    "id": "immuno-6-4",
+    "title": "Class II Loading",
+    "course": "immuno",
+    "brick_id": "6",
+    "brick_title": "Major Histocompatibility Complex",
+    "type": "physiology",
+    "buzzwords": [
+      "loads exogenous peptides",
+      "antigen taken up by endocytosis",
+      "loaded in endosome",
+      "invariant chain blocks groove",
+      "acidic environment degrades chaperone",
+      "CLIP fragment remains bound",
+      "CLIP exchanged for peptide",
+      "HLA-DM catalyzes exchange"
+    ]
+  },
+  {
+    "id": "immuno-6-5",
+    "title": "Cross-Presentation",
+    "course": "immuno",
+    "brick_id": "6",
+    "brick_title": "Major Histocompatibility Complex",
+    "type": "physiology",
+    "buzzwords": [
+      "wrong MHC class loaded",
+      "exogenous peptide on class I",
+      "phagosome peptides leak to cytosol",
+      "activates both CD4 and CD8",
+      "performed by dendritic cells",
+      "primes cytotoxic T cells",
+      "key against viruses not infecting APCs",
+      "links phagosome to class I"
+    ]
+  },
+  {
+    "id": "immuno-7-1",
+    "title": "BCR Structure",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "Y-shaped glycoprotein",
+      "two heavy, two light chains",
+      "disulfide-linked chains",
+      "flexible hinge region",
+      "Fab binds antigen",
+      "membrane-bound or secreted",
+      "secreted form is immunoglobulin",
+      "kappa or lambda light chain"
+    ]
+  },
+  {
+    "id": "immuno-7-2",
+    "title": "V(D)J Recombination",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "cut-and-join gene segments",
+      "occurs before antigen exposure",
+      "V, D, and J segments",
+      "light chain uses only V and J",
+      "heavy chain uses V, D, J",
+      "controlled double-strand breaks",
+      "combinatorial diversity",
+      "RAG1 and RAG2 enzymes"
+    ]
+  },
+  {
+    "id": "immuno-7-3",
+    "title": "Junctional Diversity",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "diversity at segment joints",
+      "random nucleotide additions",
+      "alters CDR3 region",
+      "not germline-encoded",
+      "can cause frameshift",
+      "increases receptor repertoire",
+      "template-independent addition",
+      "terminal deoxynucleotidyl transferase"
+    ]
+  },
+  {
+    "id": "immuno-7-4",
+    "title": "Somatic Hypermutation",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "occurs after antigen recognition",
+      "B cells only",
+      "point mutations in variable domains",
+      "concentrated in CDRs",
+      "mutates faster than other DNA",
+      "drives affinity maturation",
+      "highest-affinity clones survive",
+      "found in hypervariable regions"
+    ]
+  },
+  {
+    "id": "immuno-7-5",
+    "title": "TCR Structure",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "membrane-anchored glycoprotein",
+      "never secreted",
+      "alpha and beta chains",
+      "single disulfide bond",
+      "variable and constant domains",
+      "no somatic hypermutation",
+      "alpha chain uses V and J",
+      "beta chain uses V, D, J"
+    ]
+  },
+  {
+    "id": "immuno-7-6",
+    "title": "IgM",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "first class produced",
+      "expressed on naive B cells",
+      "four constant domains",
+      "highest avidity",
+      "activates classical complement",
+      "ten antigen binding sites",
+      "joined by J chain",
+      "circulates as pentamer"
+    ]
+  },
+  {
+    "id": "immuno-7-7",
+    "title": "IgG",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "most abundant in blood",
+      "monomer",
+      "opsonizes pathogens",
+      "activates classical complement",
+      "neutralizes toxins",
+      "mediates NK-driven ADCC",
+      "crosses the placenta",
+      "FcRn prolongs half-life"
+    ]
+  },
+  {
+    "id": "immuno-7-8",
+    "title": "IgA",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "main mucosal antibody",
+      "found in saliva and breast milk",
+      "monomer in blood",
+      "dimer at mucosa",
+      "joined by J chain",
+      "prevents bacterial adherence",
+      "secreted via transcytosis",
+      "polymeric Ig receptor transport"
+    ]
+  },
+  {
+    "id": "immuno-7-9",
+    "title": "IgE",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "lowest serum levels",
+      "four constant domains",
+      "drives allergic reactions",
+      "anti-helminth defense",
+      "binds mast cells and basophils",
+      "triggers degranulation",
+      "high-affinity receptor binding",
+      "signals through FceRI"
+    ]
+  },
+  {
+    "id": "immuno-7-10",
+    "title": "IgD",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "expressed on naive B cells",
+      "monomer",
+      "secreted at very low levels",
+      "no known Fc receptor",
+      "function poorly understood",
+      "aids B cell activation signaling",
+      "co-expressed with surface IgM",
+      "three constant domains"
+    ]
+  },
+  {
+    "id": "immuno-8-1",
+    "title": "B Cell Maturation",
+    "course": "immuno",
+    "brick_id": "8",
+    "brick_title": "B Cell Development and Activation",
+    "type": "physiology",
+    "buzzwords": [
+      "antigen-independent stage",
+      "occurs in bone marrow",
+      "pro-B has no BCR",
+      "pre-B rearranges heavy chain",
+      "pre-B expresses surrogate light chain",
+      "immature B expresses full BCR",
+      "mature naive cell exits marrow",
+      "naive cell carries IgM and IgD"
+    ]
+  },
+  {
+    "id": "immuno-8-2",
+    "title": "B Cell Selection",
+    "course": "immuno",
+    "brick_id": "8",
+    "brick_title": "B Cell Development and Activation",
+    "type": "physiology",
+    "buzzwords": [
+      "tests immature B cell receptors",
+      "weak self-binding passes positive selection",
+      "strong self-binding triggers apoptosis",
+      "removes autoreactive clones",
+      "negative selection prevents autoantibodies",
+      "second chance via receptor editing",
+      "rearranges other light chain gene",
+      "25 percent show receptor editing"
+    ]
+  },
+  {
+    "id": "immuno-8-3",
+    "title": "Secondary Lymphoid Organs",
+    "course": "immuno",
+    "brick_id": "8",
+    "brick_title": "B Cell Development and Activation",
+    "type": "anatomy",
+    "buzzwords": [
+      "site of B cell activation",
+      "B and T cells in distinct zones",
+      "lymph node filters lymph antigens",
+      "spleen filters blood-borne antigens",
+      "B cells enter through HEVs",
+      "white pulp surrounds central artery",
+      "marrow zone called PALS",
+      "follicles hold germinal centers"
+    ]
+  },
+  {
+    "id": "immuno-8-4",
+    "title": "T-Dependent Activation",
+    "course": "immuno",
+    "brick_id": "8",
+    "brick_title": "B Cell Development and Activation",
+    "type": "physiology",
+    "buzzwords": [
+      "requires CD4 helper T cells",
+      "uses protein antigens",
+      "BCR crosslinking is first signal",
+      "C3d via CR2 costimulates",
+      "B cell presents peptide on MHC II",
+      "TCR reads peptide-MHC II complex",
+      "immunological synapse",
+      "CD40L-CD40 interaction"
+    ]
+  },
+  {
+    "id": "immuno-8-5",
+    "title": "T-Independent Activation",
+    "course": "immuno",
+    "brick_id": "8",
+    "brick_title": "B Cell Development and Activation",
+    "type": "physiology",
+    "buzzwords": [
+      "no helper T cell needed",
+      "non-protein antigens",
+      "repetitive epitopes",
+      "extensive BCR crosslinking",
+      "polysaccharide capsule antigens",
+      "low-affinity antibody",
+      "predominantly IgM, no class switch",
+      "conjugate vaccines recruit T cell help"
+    ]
+  },
+  {
+    "id": "immuno-8-6",
+    "title": "Germinal Center",
+    "course": "immuno",
+    "brick_id": "8",
+    "brick_title": "B Cell Development and Activation",
+    "type": "physiology",
+    "buzzwords": [
+      "forms within follicles",
+      "dark zone holds dividing B cells",
+      "light zone selects high affinity",
+      "follicular dendritic cells display antigen",
+      "Tfh cells provide help here",
+      "somatic hypermutation by AID",
+      "drives affinity maturation",
+      "site of class switching"
+    ]
+  },
+  {
+    "id": "immuno-9-1",
+    "title": "V(D)J Recombination",
+    "course": "immuno",
+    "brick_id": "9",
+    "brick_title": "T Cell Development, Activation, and Differentiation",
+    "type": "physiology",
+    "buzzwords": [
+      "builds the antigen receptor",
+      "nearly random gene assembly",
+      "combinatorial diversity",
+      "junctional diversity",
+      "millions of possible receptors",
+      "pre-TCR has surrogate alpha chain",
+      "double-negative becomes double-positive",
+      "rearranges the TCR"
+    ]
+  },
+  {
+    "id": "immuno-9-2",
+    "title": "Thymic Selection",
+    "course": "immuno",
+    "brick_id": "9",
+    "brick_title": "T Cell Development, Activation, and Differentiation",
+    "type": "physiology",
+    "buzzwords": [
+      "tests TCR self-reactivity",
+      "occurs in the thymus",
+      "positive selection in cortex",
+      "no MHC binding causes death by neglect",
+      "negative selection in medulla",
+      "too-strong self-binding triggers apoptosis",
+      "enforces immune tolerance",
+      "AIRE drives self-antigen display"
+    ]
+  },
+  {
+    "id": "immuno-9-3",
+    "title": "T Cell Priming",
+    "course": "immuno",
+    "brick_id": "9",
+    "brick_title": "T Cell Development, Activation, and Differentiation",
+    "type": "physiology",
+    "buzzwords": [
+      "first activation of naive T cell",
+      "requires three signals",
+      "dendritic cell presents antigen",
+      "immunological synapse",
+      "TCR binds peptide-MHC",
+      "coreceptor binds MHC",
+      "costimulation needed",
+      "CD28 binds B7"
+    ]
+  },
+  {
+    "id": "immuno-9-4",
+    "title": "TCR Signaling",
+    "course": "immuno",
+    "brick_id": "9",
+    "brick_title": "T Cell Development, Activation, and Differentiation",
+    "type": "physiology",
+    "buzzwords": [
+      "intracellular activation cascade",
+      "raises cytosolic calcium",
+      "CD3 associated with all TCRs",
+      "tyrosine kinase phosphorylates CD3",
+      "adaptor docks downstream",
+      "blocked by cyclosporine",
+      "Lck and Zap-70",
+      "activates NFAT, NF-kB, AP1"
+    ]
+  },
+  {
+    "id": "immuno-9-5",
+    "title": "Cytotoxic T Cells",
+    "course": "immuno",
+    "brick_id": "9",
+    "brick_title": "T Cell Development, Activation, and Differentiation",
+    "type": "physiology",
+    "buzzwords": [
+      "CD8-positive",
+      "kills infected or malignant cells",
+      "recognizes MHC class I",
+      "reactivated without CD28 signal",
+      "triggers target apoptosis",
+      "delivers perforin",
+      "delivers granzymes",
+      "expanded by IL-2 therapy"
+    ]
+  },
+  {
+    "id": "immuno-9-6",
+    "title": "Helper T Subsets",
+    "course": "immuno",
+    "brick_id": "9",
+    "brick_title": "T Cell Development, Activation, and Differentiation",
+    "type": "physiology",
+    "buzzwords": [
+      "CD4-positive effectors",
+      "do not kill cells directly",
+      "Th1 fights intracellular pathogens",
+      "Th2 fights helminths",
+      "Th17 enhances neutrophils",
+      "Tregs inhibit the response",
+      "driven by innate cytokines",
+      "Th1 IFN-gamma, Th2 IL-4"
+    ]
+  },
+  {
+    "id": "immuno-10-1",
+    "title": "Cytotoxic T Cells",
+    "course": "immuno",
+    "brick_id": "10",
+    "brick_title": "Cell-Mediated Immunity",
+    "type": "physiology",
+    "buzzwords": [
+      "CD8-positive killer",
+      "kills virus-infected cells",
+      "recognizes MHC class I",
+      "triggers target apoptosis",
+      "no inflammation, no DAMPs",
+      "delivers perforin and granzymes",
+      "activates caspases",
+      "also uses FasL-Fas"
+    ]
+  },
+  {
+    "id": "immuno-10-2",
+    "title": "Th1 Cells",
+    "course": "immuno",
+    "brick_id": "10",
+    "brick_title": "Cell-Mediated Immunity",
+    "type": "physiology",
+    "buzzwords": [
+      "CD4-positive effector",
+      "fights intracellular pathogens",
+      "activates macrophages",
+      "boosts phagocytic killing",
+      "induced by IFN-gamma and IL-12",
+      "upregulates MHC and B7",
+      "uses CD40-CD40L signal",
+      "secretes IFN-gamma"
+    ]
+  },
+  {
+    "id": "immuno-10-3",
+    "title": "Th2 Cells",
+    "course": "immuno",
+    "brick_id": "10",
+    "brick_title": "Cell-Mediated Immunity",
+    "type": "physiology",
+    "buzzwords": [
+      "CD4-positive effector",
+      "fights parasites and helminths",
+      "drives IgE class switching",
+      "activates eosinophils and mast cells",
+      "promotes M2 macrophages",
+      "IL-4, IL-5, IL-13",
+      "IL-13 boosts mucus and peristalsis",
+      "secretes IL-4"
+    ]
+  },
+  {
+    "id": "immuno-10-4",
+    "title": "Th17 Cells",
+    "course": "immuno",
+    "brick_id": "10",
+    "brick_title": "Cell-Mediated Immunity",
+    "type": "physiology",
+    "buzzwords": [
+      "CD4-positive effector",
+      "recruits neutrophils",
+      "fights extracellular bacteria and fungi",
+      "pro-inflammatory cytokines",
+      "induces IL-6 and IL-1beta",
+      "induces IL-8 chemokine",
+      "stimulates defensins",
+      "secretes IL-17"
+    ]
+  },
+  {
+    "id": "immuno-10-5",
+    "title": "NK Cell ADCC",
+    "course": "immuno",
+    "brick_id": "10",
+    "brick_title": "Cell-Mediated Immunity",
+    "type": "physiology",
+    "buzzwords": [
+      "innate killer cell",
+      "kills antibody-coated targets",
+      "active when MHC class I is lost",
+      "releases perforin and granzymes",
+      "recognizes IgG on target",
+      "Fc receptor cross-linking triggers it",
+      "CD16 binds the antibody",
+      "target dies by apoptosis"
+    ]
+  },
+  {
+    "id": "immuno-11-1",
+    "title": "Negative Selection",
+    "course": "immuno",
+    "brick_id": "11",
+    "brick_title": "Immunologic Tolerance",
+    "type": "physiology",
+    "buzzwords": [
+      "central tolerance",
+      "occurs in primary lymphoid organs",
+      "acts on developing lymphocytes",
+      "deletes self-reactive cells",
+      "happens in thymic medulla",
+      "strong self-MHC binding",
+      "high-affinity binders apoptose",
+      "negative selection"
+    ]
+  },
+  {
+    "id": "immuno-11-2",
+    "title": "Regulatory T Cells",
+    "course": "immuno",
+    "brick_id": "11",
+    "brick_title": "Immunologic Tolerance",
+    "type": "physiology",
+    "buzzwords": [
+      "suppress immune responses",
+      "from intermediate-affinity binders",
+      "secrete IL-10 and TGF-beta",
+      "express CD25",
+      "soak up IL-2",
+      "express CTLA-4",
+      "master TF FoxP3",
+      "FOXP3 mutation causes IPEX"
+    ]
+  },
+  {
+    "id": "immuno-11-3",
+    "title": "Receptor Editing",
+    "course": "immuno",
+    "brick_id": "11",
+    "brick_title": "Immunologic Tolerance",
+    "type": "physiology",
+    "buzzwords": [
+      "B-cell central tolerance",
+      "occurs in bone marrow",
+      "salvages self-reactive cells",
+      "new round of VJ recombination",
+      "swaps light chain",
+      "kappa or lambda locus",
+      "rescues autoreactive BCR",
+      "receptor editing"
+    ]
+  },
+  {
+    "id": "immuno-11-4",
+    "title": "T-Cell Anergy",
+    "course": "immuno",
+    "brick_id": "11",
+    "brick_title": "Immunologic Tolerance",
+    "type": "physiology",
+    "buzzwords": [
+      "peripheral tolerance",
+      "signal 1 without signal 2",
+      "no costimulation",
+      "missing B7-CD28 signal",
+      "unresponsive but alive",
+      "PD-1 shuts off activation",
+      "CTLA-4 competes for B7",
+      "anergy"
+    ]
+  },
+  {
+    "id": "immuno-11-5",
+    "title": "Fas-Mediated Deletion",
+    "course": "immuno",
+    "brick_id": "11",
+    "brick_title": "Immunologic Tolerance",
+    "type": "physiology",
+    "buzzwords": [
+      "peripheral deletion by apoptosis",
+      "death receptor pathway",
+      "ligand on activated CTLs",
+      "upregulated on self-reactive T cells",
+      "Fas binds FasL",
+      "defect causes ALPS",
+      "splenomegaly and lymphadenopathy",
+      "Fas/FasL"
+    ]
+  },
+  {
+    "id": "immuno-11-6",
+    "title": "Oral Tolerance",
+    "course": "immuno",
+    "brick_id": "11",
+    "brick_title": "Immunologic Tolerance",
+    "type": "physiology",
+    "buzzwords": [
+      "prevents response to gut antigens",
+      "limits access to food proteins",
+      "Peyer patches sample lumen",
+      "secretory IgA neutralizes",
+      "tolerogenic dendritic cells",
+      "induced Tregs",
+      "suppresses immunization after feeding",
+      "drink-the-antigen tolerance"
+    ]
+  },
+  {
+    "id": "immuno-11-7",
+    "title": "Immune Privilege",
+    "course": "immuno",
+    "brick_id": "11",
+    "brick_title": "Immunologic Tolerance",
+    "type": "physiology",
+    "buzzwords": [
+      "blocks response at certain sites",
+      "physical barriers to antigen",
+      "anti-inflammatory cytokines",
+      "local Treg activity",
+      "FasL kills invading lymphocytes",
+      "protects eye and brain",
+      "shields fetus from mother",
+      "placenta and testis"
+    ]
+  },
+  {
+    "id": "immuno-12-1",
+    "title": "Type 1 Hypersensitivity",
+    "course": "immuno",
+    "brick_id": "12",
+    "brick_title": "Hypersensitivity Reactions",
+    "type": "physiology",
+    "buzzwords": [
+      "immediate, within minutes",
+      "allergens trigger it",
+      "asthma and allergic rhinitis",
+      "can cause anaphylaxis",
+      "mast cells and eosinophils",
+      "histamine release",
+      "FcεRI cross-linking degranulation",
+      "IgE mediated"
+    ]
+  },
+  {
+    "id": "immuno-12-2",
+    "title": "Type 2 Hypersensitivity",
+    "course": "immuno",
+    "brick_id": "12",
+    "brick_title": "Hypersensitivity Reactions",
+    "type": "physiology",
+    "buzzwords": [
+      "tissue or organ specific",
+      "occurs 2-4 hours",
+      "antibody binds cell surface",
+      "complement activation, MAC",
+      "ADCC by NK cells",
+      "autoimmune hemolytic anemia",
+      "Graves and myasthenia gravis",
+      "IgG or IgM mediated"
+    ]
+  },
+  {
+    "id": "immuno-12-3",
+    "title": "Type 3 Hypersensitivity",
+    "course": "immuno",
+    "brick_id": "12",
+    "brick_title": "Hypersensitivity Reactions",
+    "type": "physiology",
+    "buzzwords": [
+      "antibody binds soluble antigen",
+      "deposits in small vessels",
+      "nephritis, arthritis, vasculitis",
+      "complement and neutrophils",
+      "SLE and serum sickness",
+      "immune complex disease",
+      "Arthus reaction",
+      "IgG mediated"
+    ]
+  },
+  {
+    "id": "immuno-12-4",
+    "title": "Type 4 Hypersensitivity",
+    "course": "immuno",
+    "brick_id": "12",
+    "brick_title": "Hypersensitivity Reactions",
+    "type": "physiology",
+    "buzzwords": [
+      "delayed, 24-72 hours",
+      "no antibody involved",
+      "contact dermatitis, poison ivy",
+      "CD4 and CD8 T cells",
+      "macrophage activation",
+      "CTL perforin and granzymes",
+      "superantigen response",
+      "tuberculin PPD skin test"
+    ]
+  },
+  {
+    "id": "immuno-13-1",
+    "title": "Allergy and Atopy",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "disease",
+    "buzzwords": [
+      "exaggerated immune response",
+      "harmless environmental substance",
+      "type I hypersensitivity",
+      "IgE-mediated",
+      "genetic predisposition",
+      "rhinitis, conjunctivitis, dermatitis",
+      "family history of atopy",
+      "atopy"
+    ]
+  },
+  {
+    "id": "immuno-13-2",
+    "title": "Anaphylaxis",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "disease",
+    "buzzwords": [
+      "severe systemic reaction",
+      "rapid onset",
+      "multiple organ systems",
+      "bronchoconstriction and vasodilation",
+      "hypotension and shock",
+      "airway swelling, stridor",
+      "shock mortality near 20%",
+      "life-threatening"
+    ]
+  },
+  {
+    "id": "immuno-13-3",
+    "title": "Mast Cell Degranulation",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "physiology",
+    "buzzwords": [
+      "allergen crosslinks IgE",
+      "binds FceRI receptor",
+      "requires prior sensitization",
+      "early-phase response",
+      "preformed mediators released",
+      "histamine and heparin",
+      "late-phase leukotrienes, PAF",
+      "degranulation"
+    ]
+  },
+  {
+    "id": "immuno-13-4",
+    "title": "Skin Testing",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "lab",
+    "buzzwords": [
+      "identifies specific allergen",
+      "most sensitive method",
+      "introduces small allergen amount",
+      "look for wheal and flare",
+      "prick or puncture test",
+      "intradermal for drugs, venom",
+      "more sensitive than blood EIA",
+      "skin prick test"
+    ]
+  },
+  {
+    "id": "immuno-13-5",
+    "title": "Epinephrine",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "drug",
+    "buzzwords": [
+      "first-line for anaphylaxis",
+      "give immediately",
+      "bronchodilates airways",
+      "vasoconstricts, raises blood pressure",
+      "self-administered autoinjector",
+      "intramuscular injection",
+      "adjunct saline for hypotension",
+      "epinephrine"
+    ]
+  },
+  {
+    "id": "immuno-13-6",
+    "title": "Antihistamines",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "drug",
+    "buzzwords": [
+      "blocks a mediator receptor",
+      "targets histamine H1 receptor",
+      "reduces itching, sneezing",
+      "treats allergic rhinitis, urticaria",
+      "not first-line in anaphylaxis",
+      "diphenhydramine",
+      "loratadine",
+      "cetirizine"
+    ]
+  },
+  {
+    "id": "immuno-13-7",
+    "title": "Leukotriene Antagonists",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "drug",
+    "buzzwords": [
+      "blocks a lipid mediator",
+      "leukotriene receptor antagonist",
+      "limits bronchoconstriction",
+      "used in asthma",
+      "reduces allergic inflammation",
+      "zafirlukast",
+      "montelukast",
+      "leukotriene antagonist"
+    ]
+  },
+  {
+    "id": "immuno-13-8",
+    "title": "Omalizumab",
+    "course": "immuno",
+    "brick_id": "13",
+    "brick_title": "Allergic Diseases and Anaphylaxis",
+    "type": "drug",
+    "buzzwords": [
+      "monoclonal antibody",
+      "binds free IgE",
+      "prevents IgE binding FceRI",
+      "reduces attack frequency",
+      "used in severe allergy",
+      "treats refractory asthma",
+      "anti-IgE biologic",
+      "omalizumab"
+    ]
+  },
+  {
+    "id": "immuno-14-1",
+    "title": "X-linked Agammaglobulinemia",
+    "course": "immuno",
+    "brick_id": "14",
+    "brick_title": "Inborn Errors of Adaptive Immunity (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "X-linked recessive",
+      "recurrent encapsulated infections",
+      "onset around 6 months",
+      "B-cell maturation arrest",
+      "absent B cells",
+      "low all immunoglobulins",
+      "BTK gene defect",
+      "Bruton tyrosine kinase"
+    ]
+  },
+  {
+    "id": "immuno-14-2",
+    "title": "DiGeorge Syndrome",
+    "course": "immuno",
+    "brick_id": "14",
+    "brick_title": "Inborn Errors of Adaptive Immunity (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "thymic hypoplasia",
+      "absent or low T cells",
+      "neural crest defect",
+      "3rd/4th pharyngeal pouch",
+      "hypocalcemia and seizures",
+      "conotruncal heart defects",
+      "absent thymic shadow",
+      "22q11 microdeletion"
+    ]
+  },
+  {
+    "id": "immuno-14-3",
+    "title": "SCID",
+    "course": "immuno",
+    "brick_id": "14",
+    "brick_title": "Inborn Errors of Adaptive Immunity (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "recessive inheritance",
+      "onset under 6 months",
+      "failure to thrive",
+      "opportunistic infections",
+      "combined B and T defect",
+      "treated by stem cell transplant",
+      "X-linked common gamma chain",
+      "ADA or RAG deficiency"
+    ]
+  },
+  {
+    "id": "immuno-14-4",
+    "title": "Chronic Mucocutaneous Candidiasis",
+    "course": "immuno",
+    "brick_id": "14",
+    "brick_title": "Inborn Errors of Adaptive Immunity (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "recurrent Candida infections",
+      "skin nails and mucosa",
+      "impaired negative selection",
+      "low dectin-1",
+      "decreased IL-2 and IFN-gamma",
+      "autoreactive T cells",
+      "AIRE gene deficiency"
+    ]
+  },
+  {
+    "id": "immuno-14-5",
+    "title": "Ataxia Telangiectasia",
+    "course": "immuno",
+    "brick_id": "14",
+    "brick_title": "Inborn Errors of Adaptive Immunity (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "defective DNA repair",
+      "cerebellar ataxia",
+      "spider angiomas conjunctiva",
+      "sinopulmonary infections",
+      "reduced TREC levels",
+      "impaired VDJ recombination",
+      "ATM gene mutation"
+    ]
+  },
+  {
+    "id": "immuno-15-1",
+    "title": "Selective IgA Deficiency",
+    "course": "immuno",
+    "brick_id": "15",
+    "brick_title": "Inborn Errors of Adaptive Immunity (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "most common adaptive IEI",
+      "often asymptomatic",
+      "recurrent sinopulmonary infections",
+      "recurrent GI infections",
+      "impaired class switching",
+      "anaphylaxis to blood products",
+      "isolated low IgA",
+      "normal IgG and IgM"
+    ]
+  },
+  {
+    "id": "immuno-15-2",
+    "title": "CVID",
+    "course": "immuno",
+    "brick_id": "15",
+    "brick_title": "Inborn Errors of Adaptive Immunity (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "presents in adulthood",
+      "recurrent sinopulmonary and GI infections",
+      "autoimmune disease",
+      "bronchiectasis",
+      "non-Hodgkin lymphoma risk",
+      "BAFF receptor mutation",
+      "low IgG plus low IgA/IgM",
+      "diagnosed ages 20 to 40"
+    ]
+  },
+  {
+    "id": "immuno-15-3",
+    "title": "X-HIMS",
+    "course": "immuno",
+    "brick_id": "15",
+    "brick_title": "Inborn Errors of Adaptive Immunity (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "X-linked recessive",
+      "presents in infancy",
+      "failed class switching",
+      "Pneumocystis pneumonia",
+      "Cryptosporidium diarrhea",
+      "high IgM",
+      "low IgG, IgA, IgE",
+      "CD40L mutation"
+    ]
+  },
+  {
+    "id": "immuno-15-4",
+    "title": "Hyper IgE Syndrome",
+    "course": "immuno",
+    "brick_id": "15",
+    "brick_title": "Inborn Errors of Adaptive Immunity (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal dominant",
+      "eczema",
+      "cold abscesses",
+      "retained baby teeth",
+      "coarse facial features",
+      "markedly elevated IgE",
+      "STAT3 defect",
+      "impaired Th17 differentiation"
+    ]
+  },
+  {
+    "id": "immuno-15-5",
+    "title": "Wiskott-Aldrich Syndrome",
+    "course": "immuno",
+    "brick_id": "15",
+    "brick_title": "Inborn Errors of Adaptive Immunity (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "X-linked recessive",
+      "eczema",
+      "recurrent infections",
+      "thrombocytopenia",
+      "small platelets",
+      "low IgM, high IgA/IgE",
+      "defective actin polymerization",
+      "WASP mutation"
+    ]
+  },
+  {
+    "id": "immuno-15-6",
+    "title": "MSMD",
+    "course": "immuno",
+    "brick_id": "15",
+    "brick_title": "Inborn Errors of Adaptive Immunity (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "impaired Th1 pathway",
+      "loss of macrophage activation",
+      "disseminated mycobacterial infection",
+      "disseminated BCG after vaccine",
+      "salmonellosis",
+      "IL-12 receptor mutation",
+      "IFN-gamma receptor mutation",
+      "treat with IFN-gamma therapy"
+    ]
+  },
+  {
+    "id": "immuno-16-1",
+    "title": "Warning Signs",
+    "course": "immuno",
+    "brick_id": "16",
+    "brick_title": "Diagnosis and Treatment of Immunodeficiency Disorders",
+    "type": "physiology",
+    "buzzwords": [
+      "recurrent infections",
+      "infections of unusual severity",
+      "atypical organisms",
+      "opportunistic infections",
+      "four or more ear infections yearly",
+      "two or more pneumonias yearly",
+      "failure to thrive",
+      "IV antibiotics needed to clear"
+    ]
+  },
+  {
+    "id": "immuno-16-2",
+    "title": "Inborn Errors of Immunity",
+    "course": "immuno",
+    "brick_id": "16",
+    "brick_title": "Diagnosis and Treatment of Immunodeficiency Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "primary immunodeficiency",
+      "rare, presents in childhood",
+      "classified by underlying defect",
+      "humoral antibody defects",
+      "combined T and B defects",
+      "phagocytic defects",
+      "complement deficiencies",
+      "formerly called primary immune deficiency"
+    ]
+  },
+  {
+    "id": "immuno-16-3",
+    "title": "Secondary Immunodeficiency",
+    "course": "immuno",
+    "brick_id": "16",
+    "brick_title": "Diagnosis and Treatment of Immunodeficiency Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "acquired immunodeficiency",
+      "most common immunodeficiency",
+      "protein-losing enteropathy",
+      "asplenia",
+      "immunosuppressant medications",
+      "hematologic malignancy",
+      "malnutrition",
+      "treat the underlying cause"
+    ]
+  },
+  {
+    "id": "immuno-16-4",
+    "title": "HIV/AIDS",
+    "course": "immuno",
+    "brick_id": "16",
+    "brick_title": "Diagnosis and Treatment of Immunodeficiency Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "infectious cause of immunodeficiency",
+      "targets CD4 T cells",
+      "lymphopenia",
+      "opportunistic infections by CD4 count",
+      "Pneumocystis at low CD4",
+      "tuberculosis reactivation",
+      "Acquired Immunodeficiency Syndrome",
+      "HIV"
+    ]
+  },
+  {
+    "id": "immuno-16-5",
+    "title": "Immunodeficiency Workup",
+    "course": "immuno",
+    "brick_id": "16",
+    "brick_title": "Diagnosis and Treatment of Immunodeficiency Disorders",
+    "type": "lab",
+    "buzzwords": [
+      "categorized by age at presentation",
+      "complete blood count",
+      "lymphocyte subset analysis",
+      "quantitative immunoglobulin levels",
+      "post-vaccination antibody titers",
+      "B and T cell subsets",
+      "CD4 to CD8 ratio",
+      "early diagnosis lowers mortality"
+    ]
+  },
+  {
+    "id": "immuno-16-6",
+    "title": "Immunodeficiency Management",
+    "course": "immuno",
+    "brick_id": "16",
+    "brick_title": "Diagnosis and Treatment of Immunodeficiency Disorders",
+    "type": "physiology",
+    "buzzwords": [
+      "treatment depends on the defect",
+      "prophylactic antimicrobials",
+      "immunoglobulin replacement for antibody defects",
+      "IVIG or SCIG",
+      "stem cell transplant for combined defects",
+      "interferon-gamma for granulomatous disease",
+      "vaccinate when not contraindicated",
+      "no live vaccines if severely immunocompromised"
+    ]
+  },
+  {
+    "id": "immuno-17-1",
+    "title": "Agglutination",
+    "course": "immuno",
+    "brick_id": "17",
+    "brick_title": "Diagnostic Laboratory Immunology",
+    "type": "lab",
+    "buzzwords": [
+      "antibody-based test",
+      "low sensitivity",
+      "detects antigen presence",
+      "qualitative result",
+      "visible clumping",
+      "immune complexes precipitate",
+      "RBC cross-linking",
+      "blood typing kit"
+    ]
+  },
+  {
+    "id": "immuno-17-2",
+    "title": "Immunofluorescence",
+    "course": "immuno",
+    "brick_id": "17",
+    "brick_title": "Diagnostic Laboratory Immunology",
+    "type": "lab",
+    "buzzwords": [
+      "microscope-based",
+      "locates target molecule",
+      "fluorophore-labeled antibody",
+      "tissue section or smear",
+      "staining patterns",
+      "titer plus pattern",
+      "homogeneous or speckled",
+      "ANA testing"
+    ]
+  },
+  {
+    "id": "immuno-17-3",
+    "title": "ELISA",
+    "course": "immuno",
+    "brick_id": "17",
+    "brick_title": "Diagnostic Laboratory Immunology",
+    "type": "lab",
+    "buzzwords": [
+      "high sensitivity",
+      "quantifies soluble antigen",
+      "microplate well",
+      "enzyme-conjugated antibody",
+      "color intensity signal",
+      "direct, indirect, sandwich, competitive",
+      "sandwich type most sensitive",
+      "HIV screening"
+    ]
+  },
+  {
+    "id": "immuno-17-4",
+    "title": "Western Blot",
+    "course": "immuno",
+    "brick_id": "17",
+    "brick_title": "Diagnostic Laboratory Immunology",
+    "type": "lab",
+    "buzzwords": [
+      "high sensitivity",
+      "qualitative result",
+      "proteins by size",
+      "gel electrophoresis",
+      "transfer to membrane",
+      "dark bands",
+      "confirmatory test",
+      "Lyme disease"
+    ]
+  },
+  {
+    "id": "immuno-17-5",
+    "title": "Flow Cytometry",
+    "course": "immuno",
+    "brick_id": "17",
+    "brick_title": "Diagnostic Laboratory Immunology",
+    "type": "lab",
+    "buzzwords": [
+      "cell-based test",
+      "single-file laser stream",
+      "counts cell populations",
+      "fluorophore-conjugated antibodies",
+      "CD marker detection",
+      "forward and side scatter",
+      "FOXP3 intracellular stain",
+      "SCID lacks CD3 cells"
+    ]
+  },
+  {
+    "id": "immuno-17-6",
+    "title": "Chromium-51 Release",
+    "course": "immuno",
+    "brick_id": "17",
+    "brick_title": "Diagnostic Laboratory Immunology",
+    "type": "lab",
+    "buzzwords": [
+      "cell-based functional assay",
+      "measures cytotoxicity",
+      "CTL or NK killing",
+      "radiolabeled target cells",
+      "lysis releases label",
+      "tumor and viral immunity",
+      "isotope into supernatant",
+      "51Cr release"
+    ]
+  },
+  {
+    "id": "immuno-17-7",
+    "title": "TREC Screening",
+    "course": "immuno",
+    "brick_id": "17",
+    "brick_title": "Diagnostic Laboratory Immunology",
+    "type": "lab",
+    "buzzwords": [
+      "nucleic-acid-based test",
+      "PCR amplification",
+      "newborn blood spot",
+      "measures T-cell output",
+      "circular DNA fragments",
+      "from V(D)J recombination",
+      "low count signals SCID",
+      "neonatal TREC screen"
+    ]
+  },
+  {
+    "id": "immuno-18-1",
+    "title": "Glucocorticoids",
+    "course": "immuno",
+    "brick_id": "18",
+    "brick_title": "Immunosuppressants",
+    "type": "drug",
+    "buzzwords": [
+      "mimic adrenal corticosteroids",
+      "decrease cytokine production",
+      "impairs WBC migration",
+      "drugs ending -sone, -sol",
+      "inhibit NF-kB",
+      "causes demargination leukocytosis",
+      "Cushing syndrome long-term",
+      "prednisone, dexamethasone"
+    ]
+  },
+  {
+    "id": "immuno-18-2",
+    "title": "Methotrexate",
+    "course": "immuno",
+    "brick_id": "18",
+    "brick_title": "Immunosuppressants",
+    "type": "drug",
+    "buzzwords": [
+      "cytostatic agent",
+      "interferes with DNA synthesis",
+      "lowers nucleotide levels",
+      "folic acid analog",
+      "liver and lung toxicity",
+      "used in RA and IBD",
+      "inhibits DHFR",
+      "competitive DHFR inhibitor"
+    ]
+  },
+  {
+    "id": "immuno-18-3",
+    "title": "Cyclophosphamide",
+    "course": "immuno",
+    "brick_id": "18",
+    "brick_title": "Immunosuppressants",
+    "type": "drug",
+    "buzzwords": [
+      "cytostatic agent",
+      "interferes with DNA replication",
+      "used in solid tumors",
+      "treats leukemias, lymphomas",
+      "bladder toxicity",
+      "myelosuppression risk",
+      "alkylating agent",
+      "cross-links DNA"
+    ]
+  },
+  {
+    "id": "immuno-18-4",
+    "title": "Azathioprine",
+    "course": "immuno",
+    "brick_id": "18",
+    "brick_title": "Immunosuppressants",
+    "type": "drug",
+    "buzzwords": [
+      "cytostatic agent",
+      "blocks purine synthesis",
+      "inhibits lymphocyte proliferation",
+      "prevents kidney transplant rejection",
+      "used in SLE, Crohn",
+      "prodrug of 6-mercaptopurine",
+      "blocks PRPP amidotransferase",
+      "converted to 6-MP"
+    ]
+  },
+  {
+    "id": "immuno-18-5",
+    "title": "Mycophenolate",
+    "course": "immuno",
+    "brick_id": "18",
+    "brick_title": "Immunosuppressants",
+    "type": "drug",
+    "buzzwords": [
+      "cytostatic agent",
+      "reduces purine synthesis",
+      "blocks B and T cell DNA",
+      "used in organ transplant",
+      "reversible enzyme inhibitor",
+      "inhibits IMP dehydrogenase",
+      "blocks inosine-5-monophosphate dehydrogenase",
+      "IMPDH inhibitor"
+    ]
+  },
+  {
+    "id": "immuno-18-6",
+    "title": "Calcineurin Inhibitors",
+    "course": "immuno",
+    "brick_id": "18",
+    "brick_title": "Immunosuppressants",
+    "type": "drug",
+    "buzzwords": [
+      "immunophilin-binding agents",
+      "target T-cell activation",
+      "lower IL-2 levels",
+      "blocks NFAT dephosphorylation",
+      "prevent transplant rejection",
+      "nephrotoxic",
+      "inhibit calcineurin",
+      "tacrolimus, cyclosporine"
+    ]
+  },
+  {
+    "id": "immuno-18-7",
+    "title": "Sirolimus",
+    "course": "immuno",
+    "brick_id": "18",
+    "brick_title": "Immunosuppressants",
+    "type": "drug",
+    "buzzwords": [
+      "immunophilin-binding agent",
+      "blocks T-cell proliferation",
+      "hinders response to IL-2",
+      "decreases antibody production",
+      "binds FKBP",
+      "used to prevent rejection",
+      "inhibits mTOR",
+      "also called rapamycin"
+    ]
+  },
+  {
+    "id": "immuno-19-1",
+    "title": "Monoclonal Antibody Naming",
+    "course": "immuno",
+    "brick_id": "19",
+    "brick_title": "Biologic Agents",
+    "type": "physiology",
+    "buzzwords": [
+      "lab-made antibodies",
+      "target one epitope",
+      "not given orally",
+      "suffix encodes origin",
+      "more human, less immunogenic",
+      "-omab fully murine",
+      "-ximab chimeric, -zumab humanized",
+      "-umab fully human"
+    ]
+  },
+  {
+    "id": "immuno-19-2",
+    "title": "Infliximab",
+    "course": "immuno",
+    "brick_id": "19",
+    "brick_title": "Biologic Agents",
+    "type": "drug",
+    "buzzwords": [
+      "anti-inflammatory biologic",
+      "chimeric monoclonal",
+      "screen TB before starting",
+      "reactivation infection risk",
+      "treats inflammatory bowel disease",
+      "ankylosing spondylitis",
+      "binds TNF-alpha",
+      "infliximab"
+    ]
+  },
+  {
+    "id": "immuno-19-3",
+    "title": "Etanercept",
+    "course": "immuno",
+    "brick_id": "19",
+    "brick_title": "Biologic Agents",
+    "type": "drug",
+    "buzzwords": [
+      "anti-inflammatory biologic",
+      "not a true antibody",
+      "acts as a decoy",
+      "IgG1 Fc fusion protein",
+      "soluble receptor domain",
+      "sequesters TNF-alpha",
+      "treats rheumatoid arthritis",
+      "etanercept"
+    ]
+  },
+  {
+    "id": "immuno-19-4",
+    "title": "Omalizumab",
+    "course": "immuno",
+    "brick_id": "19",
+    "brick_title": "Biologic Agents",
+    "type": "drug",
+    "buzzwords": [
+      "anti-allergy biologic",
+      "humanized monoclonal",
+      "lowers free antibody",
+      "blocks mast cell trigger",
+      "binds IgE",
+      "treats allergic asthma",
+      "chronic urticaria",
+      "omalizumab"
+    ]
+  },
+  {
+    "id": "immuno-19-5",
+    "title": "Secukinumab",
+    "course": "immuno",
+    "brick_id": "19",
+    "brick_title": "Biologic Agents",
+    "type": "drug",
+    "buzzwords": [
+      "anti-inflammatory biologic",
+      "human monoclonal",
+      "blocks a Th17 cytokine",
+      "skin plaque drug",
+      "treats psoriasis",
+      "psoriatic arthritis",
+      "binds IL-17A",
+      "secukinumab"
+    ]
+  },
+  {
+    "id": "immuno-19-6",
+    "title": "Tocilizumab",
+    "course": "immuno",
+    "brick_id": "19",
+    "brick_title": "Biologic Agents",
+    "type": "drug",
+    "buzzwords": [
+      "anti-inflammatory biologic",
+      "humanized monoclonal",
+      "blocks a cytokine receptor",
+      "treats rheumatoid arthritis",
+      "giant cell arteritis",
+      "cytokine release syndrome",
+      "anti-IL-6 receptor",
+      "tocilizumab"
+    ]
+  },
+  {
+    "id": "immuno-19-7",
+    "title": "IL-1 Inhibitors",
+    "course": "immuno",
+    "brick_id": "19",
+    "brick_title": "Biologic Agents",
+    "type": "drug",
+    "buzzwords": [
+      "block inflammation",
+      "for periodic fever syndromes",
+      "autoinflammatory disease drugs",
+      "familial Mediterranean fever",
+      "receptor antagonist or anti-cytokine",
+      "blocks IL-1beta",
+      "anakinra",
+      "canakinumab"
+    ]
+  },
+  {
+    "id": "immuno-20-1",
+    "title": "Passive Immunization",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "rapid protection",
+      "no memory generated",
+      "short-lived immunity",
+      "transfers preformed antibodies",
+      "maternal IgG crosses placenta",
+      "IgA in breast milk",
+      "monoclonal or polyclonal antibodies",
+      "IVIG"
+    ]
+  },
+  {
+    "id": "immuno-20-2",
+    "title": "Active Immunization",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "long-term protection",
+      "takes 2-4 weeks",
+      "generates immunologic memory",
+      "stimulates own immune system",
+      "makes memory B and T cells",
+      "boosters drive class switching",
+      "boosters drive affinity maturation",
+      "vaccination"
+    ]
+  },
+  {
+    "id": "immuno-20-3",
+    "title": "Adjuvants",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "amplify immune response",
+      "not covalently bound",
+      "activate dendritic cells",
+      "many are PAMPs",
+      "ligands of pattern-recognition receptors",
+      "monophosphoryl lipid A",
+      "CpG DNA repeats",
+      "alum"
+    ]
+  },
+  {
+    "id": "immuno-20-4",
+    "title": "Live Attenuated Vaccines",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "weakened pathogen",
+      "self-limited infection",
+      "cell-mediated and humoral",
+      "contraindicated if immunocompromised",
+      "contraindicated in pregnancy",
+      "can revert to virulence",
+      "MMR, varicella, rotavirus",
+      "Sabin oral polio, BCG"
+    ]
+  },
+  {
+    "id": "immuno-20-5",
+    "title": "Inactivated Vaccines",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "killed whole pathogen",
+      "cannot replicate",
+      "mainly humoral",
+      "little CD8 T cell immunity",
+      "safe if immunocompromised",
+      "needs boosters",
+      "injected Salk polio, hepatitis A",
+      "rabies, anthrax"
+    ]
+  },
+  {
+    "id": "immuno-20-6",
+    "title": "mRNA Vaccines",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "host cells make antigen",
+      "lipid nanoparticle delivery",
+      "nanoparticle acts as adjuvant",
+      "presented on MHC I and II",
+      "cell-mediated and humoral",
+      "safe if immunocompromised",
+      "cheap, fast to manufacture",
+      "COVID-19, RSV"
+    ]
+  },
+  {
+    "id": "immuno-20-7",
+    "title": "Subunit Vaccines",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "only part of pathogen",
+      "mainly humoral immunity",
+      "needs adjuvants and boosters",
+      "safe if immunocompromised",
+      "recombinant surface protein",
+      "capsule polysaccharide",
+      "HPV, hepatitis B, shingles",
+      "pertussis, tetanus, diphtheria"
+    ]
+  },
+  {
+    "id": "immuno-20-8",
+    "title": "Conjugate Vaccines",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "polysaccharide linked to protein",
+      "converts T-independent to T-dependent",
+      "high-affinity memory response",
+      "needed in young children",
+      "B cells present peptide on MHC II",
+      "engages T follicular helper cells",
+      "S. pneumoniae, H. influenzae B",
+      "Neisseria meningitidis"
+    ]
+  },
+  {
+    "id": "immuno-20-9",
+    "title": "Viral Vector Vaccines",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "pathogen gene in harmless virus",
+      "host virus replicates in patient",
+      "antigen presented in MHC",
+      "strong cell-mediated and humoral",
+      "studied for Zika and HIV",
+      "first used for Ebola 2019",
+      "adenovirus vector",
+      "some COVID-19 vaccines"
+    ]
+  },
+  {
+    "id": "immuno-21-1",
+    "title": "Autoinflammatory Disease",
+    "course": "immuno",
+    "brick_id": "21",
+    "brick_title": "Introduction to Autoinflammatory and Autoimmune Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "innate immune dysregulation",
+      "no autoantibodies",
+      "often monogenic",
+      "recurrent fevers",
+      "NF-kB and IRF signaling",
+      "inflammasome activation",
+      "excess IL-1",
+      "familial Mediterranean fever"
+    ]
+  },
+  {
+    "id": "immuno-21-2",
+    "title": "Autoimmune Disease",
+    "course": "immuno",
+    "brick_id": "21",
+    "brick_title": "Introduction to Autoinflammatory and Autoimmune Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "adaptive immune disorder",
+      "reactivity against self",
+      "autoantibodies present",
+      "typically multifactorial",
+      "T and B cell mediated",
+      "loss of self-tolerance",
+      "more common in women",
+      "estrogen reduces apoptosis"
+    ]
+  },
+  {
+    "id": "immuno-21-3",
+    "title": "Immune Tolerance",
+    "course": "immuno",
+    "brick_id": "21",
+    "brick_title": "Introduction to Autoinflammatory and Autoimmune Diseases",
+    "type": "physiology",
+    "buzzwords": [
+      "lack of response to antigen",
+      "destroys autoreactive lymphocytes",
+      "central in thymus/marrow",
+      "negative selection",
+      "Treg generation",
+      "peripheral anergy",
+      "peripheral deletion",
+      "suppression by Tregs"
+    ]
+  },
+  {
+    "id": "immuno-21-4",
+    "title": "HLA Associations",
+    "course": "immuno",
+    "brick_id": "21",
+    "brick_title": "Introduction to Autoinflammatory and Autoimmune Diseases",
+    "type": "lab",
+    "buzzwords": [
+      "MHC genetic risk",
+      "peptide-binding groove",
+      "B27 ankylosing spondylitis",
+      "B27 reactive arthritis",
+      "DQ2/DQ8 celiac disease",
+      "DR2 lupus and Goodpasture",
+      "DR4 rheumatoid arthritis",
+      "DR4 type 1 diabetes"
+    ]
+  },
+  {
+    "id": "immuno-21-5",
+    "title": "Molecular Mimicry",
+    "course": "immuno",
+    "brick_id": "21",
+    "brick_title": "Introduction to Autoinflammatory and Autoimmune Diseases",
+    "type": "physiology",
+    "buzzwords": [
+      "infection triggers autoimmunity",
+      "shared structural homology",
+      "cross-reactive antibodies",
+      "bind next-best self-antigen",
+      "anti-M protein cross-reaction",
+      "Streptococcus pyogenes",
+      "rheumatic fever",
+      "Sydenham chorea"
+    ]
+  },
+  {
+    "id": "immuno-21-6",
+    "title": "Epitope Spreading",
+    "course": "immuno",
+    "brick_id": "21",
+    "brick_title": "Introduction to Autoinflammatory and Autoimmune Diseases",
+    "type": "physiology",
+    "buzzwords": [
+      "amplification of autoimmunity",
+      "expands to new antigens",
+      "spreads beyond initial target",
+      "tissue damage releases antigens",
+      "somatic hypermutation",
+      "impaired Treg suppression",
+      "seen in multiple sclerosis",
+      "seen in pemphigus vulgaris"
+    ]
+  },
+  {
+    "id": "immuno-22-1",
+    "title": "Tumor Antigens",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "physiology",
+    "buzzwords": [
+      "mark cancer for immunity",
+      "mutated self-proteins",
+      "oncogene products",
+      "aberrantly-expressed self-proteins",
+      "telomerase and fetal proteins",
+      "oncogenic viral proteins",
+      "HPV interacts with p53",
+      "neoantigens"
+    ]
+  },
+  {
+    "id": "immuno-22-2",
+    "title": "Anti-Tumor Response",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "physiology",
+    "buzzwords": [
+      "kills cancer cells",
+      "perforin and granzymes",
+      "Fas-FasL apoptosis",
+      "recognizes neoantigen on MHC I",
+      "NK cells kill MHC-low cells",
+      "IFN-gamma and IL-12 driven",
+      "dominant CD8 CTL response",
+      "CTLs plus NK cells"
+    ]
+  },
+  {
+    "id": "immuno-22-3",
+    "title": "Tumor Immune Evasion",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "physiology",
+    "buzzwords": [
+      "escapes immune detection",
+      "low immunogenicity",
+      "downregulates MHC class I",
+      "loses costimulatory molecules",
+      "induces T cell tolerance",
+      "secretes TGF-beta and IL-10",
+      "recruits regulatory Tregs",
+      "polarizes M2 macrophages"
+    ]
+  },
+  {
+    "id": "immuno-22-4",
+    "title": "Graft Types",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "physiology",
+    "buzzwords": [
+      "transplanted tissue source",
+      "matched by HLA and ABO",
+      "autograft from self",
+      "isograft from twin",
+      "allograft same species",
+      "xenograft another species",
+      "isoagglutinins target ABO",
+      "alloantigens drive rejection"
+    ]
+  },
+  {
+    "id": "immuno-22-5",
+    "title": "Hyperacute Rejection",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "disease",
+    "buzzwords": [
+      "fastest graft rejection",
+      "minutes to hours",
+      "preformed recipient antibodies",
+      "type II hypersensitivity",
+      "complement activation",
+      "endothelial damage",
+      "vascular thrombosis",
+      "graft must be removed"
+    ]
+  },
+  {
+    "id": "immuno-22-6",
+    "title": "Acute Rejection",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "disease",
+    "buzzwords": [
+      "weeks to months",
+      "type II and IV hypersensitivity",
+      "CTLs attack graft",
+      "direct alloantigen presentation",
+      "indirect alloantigen presentation",
+      "endothelialitis and vasculitis",
+      "responds to immunosuppression",
+      "interstitial lymphocyte infiltrate"
+    ]
+  },
+  {
+    "id": "immuno-22-7",
+    "title": "Chronic Rejection",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "disease",
+    "buzzwords": [
+      "months to years",
+      "recipient T cell mediated",
+      "smooth muscle proliferation",
+      "vessel occlusion",
+      "irreversible graft fibrosis",
+      "lung shows thickened airways",
+      "liver shows fibrotic bile ducts",
+      "graft arteriosclerosis"
+    ]
+  },
+  {
+    "id": "immuno-22-8",
+    "title": "Graft-Versus-Host Disease",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "disease",
+    "buzzwords": [
+      "donor cells attack recipient",
+      "follows HSC transplant",
+      "affects skin liver and gut",
+      "maculopapular rash",
+      "jaundice and diarrhea",
+      "donor CTLs and NK cells",
+      "graft-versus-tumor effect",
+      "minor histocompatibility mismatch"
+    ]
+  },
+  {
+    "id": "immuno-23-1",
+    "title": "Prenatal Hematopoiesis",
+    "course": "immuno",
+    "brick_id": "23",
+    "brick_title": "Effect of Age on the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "fetal blood cell origin",
+      "shifts between organs",
+      "starts ~3 weeks",
+      "liver peaks mid-gestation",
+      "spleen minor contributor",
+      "marrow primary by birth",
+      "first site is yolk sac",
+      "yolk sac to liver to marrow"
+    ]
+  },
+  {
+    "id": "immuno-23-2",
+    "title": "Tissue-Resident Immune Cells",
+    "course": "immuno",
+    "brick_id": "23",
+    "brick_title": "Effect of Age on the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "seeded before birth",
+      "fetal-derived",
+      "not renewed by marrow",
+      "self-maintaining locally",
+      "Kupffer cells",
+      "alveolar macrophages",
+      "microglia from yolk sac",
+      "B-1 cells make low-affinity IgM"
+    ]
+  },
+  {
+    "id": "immuno-23-3",
+    "title": "Thymus Development",
+    "course": "immuno",
+    "brick_id": "23",
+    "brick_title": "Effect of Age on the Immune System",
+    "type": "anatomy",
+    "buzzwords": [
+      "T cell maturation site",
+      "stroma from endoderm",
+      "seeded by fetal liver",
+      "positive and negative selection",
+      "makes regulatory T cells",
+      "involutes with age",
+      "third pharyngeal pouch",
+      "fills with fat over life"
+    ]
+  },
+  {
+    "id": "immuno-23-4",
+    "title": "Transplacental IgG",
+    "course": "immuno",
+    "brick_id": "23",
+    "brick_title": "Effect of Age on the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "passive immunity in utero",
+      "maternal antibody",
+      "crosses placenta",
+      "only IgG transferred",
+      "protects 3 to 6 months",
+      "wanes as infant synthesizes own",
+      "neonatal Fc receptor",
+      "FcRn transport"
+    ]
+  },
+  {
+    "id": "immuno-23-5",
+    "title": "Breastmilk Immunity",
+    "course": "immuno",
+    "brick_id": "23",
+    "brick_title": "Effect of Age on the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "postnatal passive immunity",
+      "passive plus active components",
+      "immune cells and cytokines",
+      "lactoferrin sequesters iron",
+      "lysozyme cleaves peptidoglycan",
+      "oligosaccharide prebiotics",
+      "dominant antibody is secretory IgA",
+      "macrophages release sIgA in gut"
+    ]
+  },
+  {
+    "id": "immuno-23-6",
+    "title": "Neonatal Microbiome",
+    "course": "immuno",
+    "brick_id": "23",
+    "brick_title": "Effect of Age on the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "normal flora",
+      "part of innate immunity",
+      "first acquired at birth",
+      "competes with pathogens",
+      "builds oral tolerance",
+      "skin flora from primary caregiver",
+      "feeds Bifidobacteria",
+      "may prevent atopy"
+    ]
+  },
+  {
+    "id": "immuno-23-7",
+    "title": "Immunosenescence",
+    "course": "immuno",
+    "brick_id": "23",
+    "brick_title": "Effect of Age on the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "aging immune decline",
+      "fewer naive T and B cells",
+      "total leukocytes fall",
+      "low-grade chronic inflammation",
+      "autoantibodies rise",
+      "antibody affinity drops",
+      "reduced CD4 to CD8 ratio",
+      "CD28 falls on T cells"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "immuno-14-1",
+    "title": "X-linked Agammaglobulinemia",
+    "course": "immuno",
+    "brick_id": "14",
+    "brick_title": "Inborn Errors of Adaptive Immunity (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "X-linked recessive",
+      "recurrent encapsulated infections",
+      "onset around 6 months",
+      "B-cell maturation arrest",
+      "absent B cells",
+      "low all immunoglobulins",
+      "BTK gene defect",
+      "Bruton tyrosine kinase"
+    ]
+  },
+  {
+    "id": "immuno-14-2",
+    "title": "DiGeorge Syndrome",
+    "course": "immuno",
+    "brick_id": "14",
+    "brick_title": "Inborn Errors of Adaptive Immunity (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "thymic hypoplasia",
+      "absent or low T cells",
+      "neural crest defect",
+      "3rd/4th pharyngeal pouch",
+      "hypocalcemia and seizures",
+      "conotruncal heart defects",
+      "absent thymic shadow",
+      "22q11 microdeletion"
+    ]
+  },
+  {
+    "id": "immuno-14-3",
+    "title": "SCID",
+    "course": "immuno",
+    "brick_id": "14",
+    "brick_title": "Inborn Errors of Adaptive Immunity (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "recessive inheritance",
+      "onset under 6 months",
+      "failure to thrive",
+      "opportunistic infections",
+      "combined B and T defect",
+      "treated by stem cell transplant",
+      "X-linked common gamma chain",
+      "ADA or RAG deficiency"
+    ]
+  },
+  {
+    "id": "immuno-14-4",
+    "title": "Chronic Mucocutaneous Candidiasis",
+    "course": "immuno",
+    "brick_id": "14",
+    "brick_title": "Inborn Errors of Adaptive Immunity (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "recurrent Candida infections",
+      "skin nails and mucosa",
+      "impaired negative selection",
+      "low dectin-1",
+      "decreased IL-2 and IFN-gamma",
+      "autoreactive T cells",
+      "AIRE gene deficiency"
+    ]
+  },
+  {
+    "id": "immuno-14-5",
+    "title": "Ataxia Telangiectasia",
+    "course": "immuno",
+    "brick_id": "14",
+    "brick_title": "Inborn Errors of Adaptive Immunity (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "defective DNA repair",
+      "cerebellar ataxia",
+      "spider angiomas conjunctiva",
+      "sinopulmonary infections",
+      "reduced TREC levels",
+      "impaired VDJ recombination",
+      "ATM gene mutation"
+    ]
+  }
+]

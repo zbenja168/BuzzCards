@@ -1,0 +1,146 @@
+[
+  {
+    "id": "immuno-22-1",
+    "title": "Tumor Antigens",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "physiology",
+    "buzzwords": [
+      "mark cancer for immunity",
+      "mutated self-proteins",
+      "oncogene products",
+      "aberrantly-expressed self-proteins",
+      "telomerase and fetal proteins",
+      "oncogenic viral proteins",
+      "HPV interacts with p53",
+      "neoantigens"
+    ]
+  },
+  {
+    "id": "immuno-22-2",
+    "title": "Anti-Tumor Response",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "physiology",
+    "buzzwords": [
+      "kills cancer cells",
+      "perforin and granzymes",
+      "Fas-FasL apoptosis",
+      "recognizes neoantigen on MHC I",
+      "NK cells kill MHC-low cells",
+      "IFN-gamma and IL-12 driven",
+      "dominant CD8 CTL response",
+      "CTLs plus NK cells"
+    ]
+  },
+  {
+    "id": "immuno-22-3",
+    "title": "Tumor Immune Evasion",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "physiology",
+    "buzzwords": [
+      "escapes immune detection",
+      "low immunogenicity",
+      "downregulates MHC class I",
+      "loses costimulatory molecules",
+      "induces T cell tolerance",
+      "secretes TGF-beta and IL-10",
+      "recruits regulatory Tregs",
+      "polarizes M2 macrophages"
+    ]
+  },
+  {
+    "id": "immuno-22-4",
+    "title": "Graft Types",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "physiology",
+    "buzzwords": [
+      "transplanted tissue source",
+      "matched by HLA and ABO",
+      "autograft from self",
+      "isograft from twin",
+      "allograft same species",
+      "xenograft another species",
+      "isoagglutinins target ABO",
+      "alloantigens drive rejection"
+    ]
+  },
+  {
+    "id": "immuno-22-5",
+    "title": "Hyperacute Rejection",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "disease",
+    "buzzwords": [
+      "fastest graft rejection",
+      "minutes to hours",
+      "preformed recipient antibodies",
+      "type II hypersensitivity",
+      "complement activation",
+      "endothelial damage",
+      "vascular thrombosis",
+      "graft must be removed"
+    ]
+  },
+  {
+    "id": "immuno-22-6",
+    "title": "Acute Rejection",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "disease",
+    "buzzwords": [
+      "weeks to months",
+      "type II and IV hypersensitivity",
+      "CTLs attack graft",
+      "direct alloantigen presentation",
+      "indirect alloantigen presentation",
+      "endothelialitis and vasculitis",
+      "responds to immunosuppression",
+      "interstitial lymphocyte infiltrate"
+    ]
+  },
+  {
+    "id": "immuno-22-7",
+    "title": "Chronic Rejection",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "disease",
+    "buzzwords": [
+      "months to years",
+      "recipient T cell mediated",
+      "smooth muscle proliferation",
+      "vessel occlusion",
+      "irreversible graft fibrosis",
+      "lung shows thickened airways",
+      "liver shows fibrotic bile ducts",
+      "graft arteriosclerosis"
+    ]
+  },
+  {
+    "id": "immuno-22-8",
+    "title": "Graft-Versus-Host Disease",
+    "course": "immuno",
+    "brick_id": "22",
+    "brick_title": "Tumors and Transplants",
+    "type": "disease",
+    "buzzwords": [
+      "donor cells attack recipient",
+      "follows HSC transplant",
+      "affects skin liver and gut",
+      "maculopapular rash",
+      "jaundice and diarrhea",
+      "donor CTLs and NK cells",
+      "graft-versus-tumor effect",
+      "minor histocompatibility mismatch"
+    ]
+  }
+]

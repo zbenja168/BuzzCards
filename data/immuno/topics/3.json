@@ -1,0 +1,146 @@
+[
+  {
+    "id": "immuno-3-1",
+    "title": "Neutrophils",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "physiology",
+    "buzzwords": [
+      "phagocyte",
+      "granulocyte",
+      "most numerous leukocyte",
+      "40-70% of leukocytes",
+      "first responders",
+      "peak 2-6 hours",
+      "short-lived 1-4 days",
+      "multilobed nucleus"
+    ]
+  },
+  {
+    "id": "immuno-3-2",
+    "title": "Respiratory Burst",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "physiology",
+    "buzzwords": [
+      "reactive oxygen species",
+      "oxygen-dependent killing",
+      "makes superoxide",
+      "hydrogen peroxide",
+      "NADPH oxidase",
+      "myeloperoxidase",
+      "hypochlorite product",
+      "oxidative burst"
+    ]
+  },
+  {
+    "id": "immuno-3-3",
+    "title": "Chronic Granulomatous Disease",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "disease",
+    "buzzwords": [
+      "phagocyte killing defect",
+      "no respiratory burst",
+      "NADPH oxidase deficiency",
+      "recurrent infections",
+      "catalase-positive organisms",
+      "Staphylococcus aureus risk",
+      "granuloma formation",
+      "CGD"
+    ]
+  },
+  {
+    "id": "immuno-3-4",
+    "title": "Reactive Nitrogen Species",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "physiology",
+    "buzzwords": [
+      "antimicrobial radicals",
+      "arginine to citrulline",
+      "makes nitric oxide",
+      "iNOS enzyme",
+      "combines with superoxide",
+      "forms peroxynitrite",
+      "ONOO-",
+      "toxic to microbes"
+    ]
+  },
+  {
+    "id": "immuno-3-5",
+    "title": "NETosis",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "physiology",
+    "buzzwords": [
+      "neutrophil-only mechanism",
+      "last-ditch killing",
+      "expelled DNA web",
+      "traps pathogens",
+      "granule contents bound",
+      "neutrophil dies",
+      "major component of pus",
+      "neutrophil extracellular traps"
+    ]
+  },
+  {
+    "id": "immuno-3-6",
+    "title": "Monocytes",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "physiology",
+    "buzzwords": [
+      "blood phagocyte",
+      "2-8% of leukocytes",
+      "largest leukocyte",
+      "horseshoe nucleus",
+      "circulates then enters tissue",
+      "replenishes macrophages",
+      "becomes dendritic cells",
+      "differentiates in tissue"
+    ]
+  },
+  {
+    "id": "immuno-3-7",
+    "title": "Macrophages",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "physiology",
+    "buzzwords": [
+      "tissue-resident phagocyte",
+      "sentinel cell",
+      "long-lived",
+      "antigen-presenting cell",
+      "tissue repair role",
+      "M1 versus M2 polarization",
+      "M1 inflammatory killer",
+      "Kupffer and microglia"
+    ]
+  },
+  {
+    "id": "immuno-3-8",
+    "title": "Dendritic Cells",
+    "course": "immuno",
+    "brick_id": "3",
+    "brick_title": "Phagocyte Function",
+    "type": "physiology",
+    "buzzwords": [
+      "professional APC",
+      "weak phagocyte",
+      "samples antigens",
+      "migrates to lymph node",
+      "activates naive T cells",
+      "links innate and adaptive",
+      "upregulates CCR7",
+      "cytoplasmic projections"
+    ]
+  }
+]

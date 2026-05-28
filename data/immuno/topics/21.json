@@ -1,0 +1,110 @@
+[
+  {
+    "id": "immuno-21-1",
+    "title": "Autoinflammatory Disease",
+    "course": "immuno",
+    "brick_id": "21",
+    "brick_title": "Introduction to Autoinflammatory and Autoimmune Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "innate immune dysregulation",
+      "no autoantibodies",
+      "often monogenic",
+      "recurrent fevers",
+      "NF-kB and IRF signaling",
+      "inflammasome activation",
+      "excess IL-1",
+      "familial Mediterranean fever"
+    ]
+  },
+  {
+    "id": "immuno-21-2",
+    "title": "Autoimmune Disease",
+    "course": "immuno",
+    "brick_id": "21",
+    "brick_title": "Introduction to Autoinflammatory and Autoimmune Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "adaptive immune disorder",
+      "reactivity against self",
+      "autoantibodies present",
+      "typically multifactorial",
+      "T and B cell mediated",
+      "loss of self-tolerance",
+      "more common in women",
+      "estrogen reduces apoptosis"
+    ]
+  },
+  {
+    "id": "immuno-21-3",
+    "title": "Immune Tolerance",
+    "course": "immuno",
+    "brick_id": "21",
+    "brick_title": "Introduction to Autoinflammatory and Autoimmune Diseases",
+    "type": "physiology",
+    "buzzwords": [
+      "lack of response to antigen",
+      "destroys autoreactive lymphocytes",
+      "central in thymus/marrow",
+      "negative selection",
+      "Treg generation",
+      "peripheral anergy",
+      "peripheral deletion",
+      "suppression by Tregs"
+    ]
+  },
+  {
+    "id": "immuno-21-4",
+    "title": "HLA Associations",
+    "course": "immuno",
+    "brick_id": "21",
+    "brick_title": "Introduction to Autoinflammatory and Autoimmune Diseases",
+    "type": "lab",
+    "buzzwords": [
+      "MHC genetic risk",
+      "peptide-binding groove",
+      "B27 ankylosing spondylitis",
+      "B27 reactive arthritis",
+      "DQ2/DQ8 celiac disease",
+      "DR2 lupus and Goodpasture",
+      "DR4 rheumatoid arthritis",
+      "DR4 type 1 diabetes"
+    ]
+  },
+  {
+    "id": "immuno-21-5",
+    "title": "Molecular Mimicry",
+    "course": "immuno",
+    "brick_id": "21",
+    "brick_title": "Introduction to Autoinflammatory and Autoimmune Diseases",
+    "type": "physiology",
+    "buzzwords": [
+      "infection triggers autoimmunity",
+      "shared structural homology",
+      "cross-reactive antibodies",
+      "bind next-best self-antigen",
+      "anti-M protein cross-reaction",
+      "Streptococcus pyogenes",
+      "rheumatic fever",
+      "Sydenham chorea"
+    ]
+  },
+  {
+    "id": "immuno-21-6",
+    "title": "Epitope Spreading",
+    "course": "immuno",
+    "brick_id": "21",
+    "brick_title": "Introduction to Autoinflammatory and Autoimmune Diseases",
+    "type": "physiology",
+    "buzzwords": [
+      "amplification of autoimmunity",
+      "expands to new antigens",
+      "spreads beyond initial target",
+      "tissue damage releases antigens",
+      "somatic hypermutation",
+      "impaired Treg suppression",
+      "seen in multiple sclerosis",
+      "seen in pemphigus vulgaris"
+    ]
+  }
+]

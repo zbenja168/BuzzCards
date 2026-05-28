@@ -1,0 +1,146 @@
+[
+  {
+    "id": "immuno-4-1",
+    "title": "Classical Pathway",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "physiology",
+    "buzzwords": [
+      "antibody-triggered activation",
+      "cleaves C4 and C2",
+      "tested by CH50",
+      "IgM is most potent activator",
+      "needs two IgG molecules",
+      "activated by CRP",
+      "C4b2b convertase",
+      "starts with C1qrs"
+    ]
+  },
+  {
+    "id": "immuno-4-2",
+    "title": "Alternative Pathway",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "physiology",
+    "buzzwords": [
+      "antibody-independent",
+      "spontaneous C3 hydrolysis",
+      "uses factor B and factor D",
+      "stabilized by properdin",
+      "makes most C3b",
+      "produces 80-90% of MAC",
+      "C3bBb convertase",
+      "properdin loss: Neisseria infections"
+    ]
+  },
+  {
+    "id": "immuno-4-3",
+    "title": "Lectin Pathway",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "physiology",
+    "buzzwords": [
+      "antibody-independent",
+      "recognizes surface sugars",
+      "binds mannose residues",
+      "cleaves C4 and C2",
+      "uses MASP proteases",
+      "C4b2b convertase",
+      "mannose-binding lectin",
+      "MBL initiates it"
+    ]
+  },
+  {
+    "id": "immuno-4-4",
+    "title": "Membrane Attack Complex",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "physiology",
+    "buzzwords": [
+      "terminal pathway product",
+      "forms membrane pore",
+      "causes cell lysis",
+      "initiated by C5b",
+      "C5b-C6-C7-C8 core",
+      "many C9 copies polymerize",
+      "shared by all pathways",
+      "MAC pore"
+    ]
+  },
+  {
+    "id": "immuno-4-5",
+    "title": "Anaphylatoxins",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "physiology",
+    "buzzwords": [
+      "potent vasodilators",
+      "increase vascular permeability",
+      "trigger mast cell degranulation",
+      "recruit leukocytes",
+      "C5a most potent",
+      "C5a, C3a, C4a",
+      "can mimic anaphylaxis",
+      "C5a induces phagocytosis"
+    ]
+  },
+  {
+    "id": "immuno-4-6",
+    "title": "Hereditary Angioedema",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent painless swelling",
+      "face, hands, feet",
+      "GI attacks with pain",
+      "laryngeal edema risk",
+      "no urticaria",
+      "elevated bradykinin",
+      "C1 esterase inhibitor deficiency",
+      "C1-INH deficiency"
+    ]
+  },
+  {
+    "id": "immuno-4-7",
+    "title": "Paroxysmal Nocturnal Hemoglobinuria",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "disease",
+    "buzzwords": [
+      "intravascular hemolysis",
+      "dark morning urine",
+      "thrombosis risk",
+      "complement-mediated RBC lysis",
+      "missing GPI anchor",
+      "loses DAF and CD59",
+      "DAF is CD55",
+      "DAF/CD59 deficiency"
+    ]
+  },
+  {
+    "id": "immuno-4-8",
+    "title": "Terminal Complement Deficiency",
+    "course": "immuno",
+    "brick_id": "4",
+    "brick_title": "Complement System",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent bacterial infections",
+      "encapsulated organisms",
+      "impaired MAC formation",
+      "cannot lyse pathogens",
+      "vaccines under-protect",
+      "C5-C9 component loss",
+      "recurrent Neisseria infections",
+      "meningococcal susceptibility"
+    ]
+  }
+]

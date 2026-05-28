@@ -1,0 +1,110 @@
+[
+  {
+    "id": "immuno-1-1",
+    "title": "Primary Lymphoid Organs",
+    "course": "immuno",
+    "brick_id": "1",
+    "brick_title": "Introduction to the Immune System",
+    "type": "anatomy",
+    "buzzwords": [
+      "generative organs",
+      "all immune cells made here",
+      "site of lymphocyte maturation",
+      "myeloid and lymphoid lineages",
+      "hematopoietic stem cells",
+      "self-reactive cells deleted here",
+      "bone marrow",
+      "thymus"
+    ]
+  },
+  {
+    "id": "immuno-1-2",
+    "title": "Secondary Lymphoid Organs",
+    "course": "immuno",
+    "brick_id": "1",
+    "brick_title": "Introduction to the Immune System",
+    "type": "anatomy",
+    "buzzwords": [
+      "sites of antigen encounter",
+      "B and T cells meet antigen",
+      "named by location",
+      "GALT in intestines",
+      "BALT in lungs",
+      "spleen, tonsils, appendix",
+      "lymph nodes",
+      "MALT"
+    ]
+  },
+  {
+    "id": "immuno-1-3",
+    "title": "Innate Immune System",
+    "course": "immuno",
+    "brick_id": "1",
+    "brick_title": "Introduction to the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "rapid response",
+      "nonspecific defense",
+      "no immunologic memory",
+      "responds within hours",
+      "encoded in germline DNA",
+      "phagocytes and granulocytes",
+      "recognizes PAMPs and DAMPs",
+      "pattern recognition receptors"
+    ]
+  },
+  {
+    "id": "immuno-1-4",
+    "title": "Adaptive Immune System",
+    "course": "immuno",
+    "brick_id": "1",
+    "brick_title": "Introduction to the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "slower response",
+      "highly specific",
+      "responds within days",
+      "immunologic memory",
+      "clonal expansion of one clone",
+      "tolerance to self",
+      "made by gene rearrangement",
+      "B and T lymphocytes"
+    ]
+  },
+  {
+    "id": "immuno-1-5",
+    "title": "Humoral Immunity",
+    "course": "immuno",
+    "brick_id": "1",
+    "brick_title": "Introduction to the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "body-fluid immunity",
+      "targets extracellular pathogens",
+      "B cell mediated",
+      "produces antibodies",
+      "opsonizes for phagocytosis",
+      "neutralizes toxins",
+      "plasma cells secrete antibody",
+      "antibodies"
+    ]
+  },
+  {
+    "id": "immuno-1-6",
+    "title": "Cell-Mediated Immunity",
+    "course": "immuno",
+    "brick_id": "1",
+    "brick_title": "Introduction to the Immune System",
+    "type": "physiology",
+    "buzzwords": [
+      "targets intracellular pathogens",
+      "T cell mediated",
+      "no antibodies involved",
+      "recognizes antigen on MHC",
+      "cytotoxic T cells kill infected cells",
+      "regulatory T cells downregulate",
+      "helper T cells coordinate",
+      "induces apoptosis of target"
+    ]
+  }
+]

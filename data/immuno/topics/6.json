@@ -1,0 +1,92 @@
+[
+  {
+    "id": "immuno-6-1",
+    "title": "MHC Class I",
+    "course": "immuno",
+    "brick_id": "6",
+    "brick_title": "Major Histocompatibility Complex",
+    "type": "physiology",
+    "buzzwords": [
+      "on every nucleated cell",
+      "presents endogenous peptides",
+      "absent on erythrocytes",
+      "binds 8-11 amino acid peptides",
+      "recognized by CD8 T cells",
+      "single transmembrane chain",
+      "groove from one chain",
+      "alpha chain plus beta2-microglobulin"
+    ]
+  },
+  {
+    "id": "immuno-6-2",
+    "title": "MHC Class II",
+    "course": "immuno",
+    "brick_id": "6",
+    "brick_title": "Major Histocompatibility Complex",
+    "type": "physiology",
+    "buzzwords": [
+      "limited to antigen-presenting cells",
+      "presents exogenous peptides",
+      "binds 15-25 amino acid peptides",
+      "recognized by CD4 T cells",
+      "two transmembrane chains",
+      "groove from both chains",
+      "stabilized by CD4 coreceptor",
+      "alpha and beta chains"
+    ]
+  },
+  {
+    "id": "immuno-6-3",
+    "title": "Class I Loading",
+    "course": "immuno",
+    "brick_id": "6",
+    "brick_title": "Major Histocompatibility Complex",
+    "type": "physiology",
+    "buzzwords": [
+      "loads endogenous peptides",
+      "cytosolic protein source",
+      "proteasome degrades proteins",
+      "ubiquitin tags substrates",
+      "peptides pumped into ER",
+      "loaded in ER",
+      "TAP transporter",
+      "tapasin chaperone"
+    ]
+  },
+  {
+    "id": "immuno-6-4",
+    "title": "Class II Loading",
+    "course": "immuno",
+    "brick_id": "6",
+    "brick_title": "Major Histocompatibility Complex",
+    "type": "physiology",
+    "buzzwords": [
+      "loads exogenous peptides",
+      "antigen taken up by endocytosis",
+      "loaded in endosome",
+      "invariant chain blocks groove",
+      "acidic environment degrades chaperone",
+      "CLIP fragment remains bound",
+      "CLIP exchanged for peptide",
+      "HLA-DM catalyzes exchange"
+    ]
+  },
+  {
+    "id": "immuno-6-5",
+    "title": "Cross-Presentation",
+    "course": "immuno",
+    "brick_id": "6",
+    "brick_title": "Major Histocompatibility Complex",
+    "type": "physiology",
+    "buzzwords": [
+      "wrong MHC class loaded",
+      "exogenous peptide on class I",
+      "phagosome peptides leak to cytosol",
+      "activates both CD4 and CD8",
+      "performed by dendritic cells",
+      "primes cytotoxic T cells",
+      "key against viruses not infecting APCs",
+      "links phagosome to class I"
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "immuno-2-1",
+    "title": "Pattern Recognition Receptors",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "physiology",
+    "buzzwords": [
+      "innate immune sensors",
+      "germline-encoded receptors",
+      "distinguish self from danger",
+      "recognize PAMPs",
+      "recognize DAMPs",
+      "signal via NF-kB",
+      "induce inflammation",
+      "PRRs"
+    ]
+  },
+  {
+    "id": "immuno-2-2",
+    "title": "Toll-Like Receptors",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "physiology",
+    "buzzwords": [
+      "surface or vesicle PRRs",
+      "external sense bacteria, fungi",
+      "internal sense viral nucleic acid",
+      "in endosomes for viruses",
+      "deficiency causes herpesvirus infection",
+      "TLR4 detects LPS",
+      "signal to NF-kB",
+      "TLRs"
+    ]
+  },
+  {
+    "id": "immuno-2-3",
+    "title": "NOD-Like Receptors",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "physiology",
+    "buzzwords": [
+      "intracellular cytosolic PRRs",
+      "recognize PAMPs and DAMPs",
+      "form inflammasomes",
+      "drive multiprotein complex",
+      "amplify inflammation",
+      "loss-of-function in Crohn disease",
+      "exploit injury for healing",
+      "NLRs"
+    ]
+  },
+  {
+    "id": "immuno-2-4",
+    "title": "Pro-inflammatory Cytokines",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "physiology",
+    "buzzwords": [
+      "drive acute inflammation",
+      "made by macrophages, T cells",
+      "act as pyrogens",
+      "cause fever",
+      "induce acute phase reactants",
+      "upregulate adhesion molecules",
+      "high TNF causes shock",
+      "IL-1, IL-6, TNF-alpha"
+    ]
+  },
+  {
+    "id": "immuno-2-5",
+    "title": "TNF Inhibitors",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "drug",
+    "buzzwords": [
+      "block a pro-inflammatory cytokine",
+      "treat inflammatory disease",
+      "monoclonal antibodies",
+      "bind soluble TNF-alpha",
+      "etanercept is decoy receptor",
+      "risk of immunosuppression",
+      "adalimumab",
+      "infliximab"
+    ]
+  },
+  {
+    "id": "immuno-2-6",
+    "title": "Chemokines",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "physiology",
+    "buzzwords": [
+      "induce chemotaxis",
+      "form a chemical gradient",
+      "drive leukocyte migration",
+      "named CCL or CXCL",
+      "recruit neutrophils to inflammation",
+      "increase neutrophil adhesion molecules",
+      "IL-8",
+      "CXCL8"
+    ]
+  },
+  {
+    "id": "immuno-2-7",
+    "title": "Interferons",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "physiology",
+    "buzzwords": [
+      "antiviral cytokines",
+      "two types I and II",
+      "type I is alpha and beta",
+      "block viral replication nearby",
+      "type II is gamma",
+      "activate NK cells",
+      "activate macrophages",
+      "IFNs"
+    ]
+  },
+  {
+    "id": "immuno-2-8",
+    "title": "Anti-inflammatory Cytokines",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "physiology",
+    "buzzwords": [
+      "immunosuppressive cytokines",
+      "control immune responses",
+      "limit tissue damage",
+      "inhibit pro-inflammatory cytokines",
+      "deficiency causes autoimmunity",
+      "promote wound healing",
+      "IL-10",
+      "TGF-beta"
+    ]
+  },
+  {
+    "id": "immuno-2-9",
+    "title": "Cytokine Storm",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "disease",
+    "buzzwords": [
+      "dysregulated immune response",
+      "excess pro-inflammatory cytokines",
+      "positive feedback inflammation loop",
+      "driven by high LPS",
+      "extensive TLR4 activation",
+      "causes vasodilation",
+      "causes capillary leakage",
+      "cytokine storm"
+    ]
+  },
+  {
+    "id": "immuno-2-10",
+    "title": "SIRS and Sepsis",
+    "course": "immuno",
+    "brick_id": "2",
+    "brick_title": "Innate Receptors and Cytokines",
+    "type": "disease",
+    "buzzwords": [
+      "systemic inflammatory dysregulation",
+      "two of four criteria",
+      "abnormal temperature, heart rate",
+      "SIRS plus infection is sepsis",
+      "persistent hypotension is septic shock",
+      "progresses to organ damage",
+      "MODS mortality over 50%",
+      "SIRS"
+    ]
+  }
+]

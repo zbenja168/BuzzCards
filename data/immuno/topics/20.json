@@ -1,0 +1,164 @@
+[
+  {
+    "id": "immuno-20-1",
+    "title": "Passive Immunization",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "rapid protection",
+      "no memory generated",
+      "short-lived immunity",
+      "transfers preformed antibodies",
+      "maternal IgG crosses placenta",
+      "IgA in breast milk",
+      "monoclonal or polyclonal antibodies",
+      "IVIG"
+    ]
+  },
+  {
+    "id": "immuno-20-2",
+    "title": "Active Immunization",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "long-term protection",
+      "takes 2-4 weeks",
+      "generates immunologic memory",
+      "stimulates own immune system",
+      "makes memory B and T cells",
+      "boosters drive class switching",
+      "boosters drive affinity maturation",
+      "vaccination"
+    ]
+  },
+  {
+    "id": "immuno-20-3",
+    "title": "Adjuvants",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "amplify immune response",
+      "not covalently bound",
+      "activate dendritic cells",
+      "many are PAMPs",
+      "ligands of pattern-recognition receptors",
+      "monophosphoryl lipid A",
+      "CpG DNA repeats",
+      "alum"
+    ]
+  },
+  {
+    "id": "immuno-20-4",
+    "title": "Live Attenuated Vaccines",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "weakened pathogen",
+      "self-limited infection",
+      "cell-mediated and humoral",
+      "contraindicated if immunocompromised",
+      "contraindicated in pregnancy",
+      "can revert to virulence",
+      "MMR, varicella, rotavirus",
+      "Sabin oral polio, BCG"
+    ]
+  },
+  {
+    "id": "immuno-20-5",
+    "title": "Inactivated Vaccines",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "killed whole pathogen",
+      "cannot replicate",
+      "mainly humoral",
+      "little CD8 T cell immunity",
+      "safe if immunocompromised",
+      "needs boosters",
+      "injected Salk polio, hepatitis A",
+      "rabies, anthrax"
+    ]
+  },
+  {
+    "id": "immuno-20-6",
+    "title": "mRNA Vaccines",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "host cells make antigen",
+      "lipid nanoparticle delivery",
+      "nanoparticle acts as adjuvant",
+      "presented on MHC I and II",
+      "cell-mediated and humoral",
+      "safe if immunocompromised",
+      "cheap, fast to manufacture",
+      "COVID-19, RSV"
+    ]
+  },
+  {
+    "id": "immuno-20-7",
+    "title": "Subunit Vaccines",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "only part of pathogen",
+      "mainly humoral immunity",
+      "needs adjuvants and boosters",
+      "safe if immunocompromised",
+      "recombinant surface protein",
+      "capsule polysaccharide",
+      "HPV, hepatitis B, shingles",
+      "pertussis, tetanus, diphtheria"
+    ]
+  },
+  {
+    "id": "immuno-20-8",
+    "title": "Conjugate Vaccines",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "polysaccharide linked to protein",
+      "converts T-independent to T-dependent",
+      "high-affinity memory response",
+      "needed in young children",
+      "B cells present peptide on MHC II",
+      "engages T follicular helper cells",
+      "S. pneumoniae, H. influenzae B",
+      "Neisseria meningitidis"
+    ]
+  },
+  {
+    "id": "immuno-20-9",
+    "title": "Viral Vector Vaccines",
+    "course": "immuno",
+    "brick_id": "20",
+    "brick_title": "Vaccines",
+    "type": "physiology",
+    "buzzwords": [
+      "pathogen gene in harmless virus",
+      "host virus replicates in patient",
+      "antigen presented in MHC",
+      "strong cell-mediated and humoral",
+      "studied for Zika and HIV",
+      "first used for Ebola 2019",
+      "adenovirus vector",
+      "some COVID-19 vaccines"
+    ]
+  }
+]

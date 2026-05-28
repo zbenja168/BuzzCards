@@ -1,0 +1,110 @@
+[
+  {
+    "id": "immuno-16-1",
+    "title": "Warning Signs",
+    "course": "immuno",
+    "brick_id": "16",
+    "brick_title": "Diagnosis and Treatment of Immunodeficiency Disorders",
+    "type": "physiology",
+    "buzzwords": [
+      "recurrent infections",
+      "infections of unusual severity",
+      "atypical organisms",
+      "opportunistic infections",
+      "four or more ear infections yearly",
+      "two or more pneumonias yearly",
+      "failure to thrive",
+      "IV antibiotics needed to clear"
+    ]
+  },
+  {
+    "id": "immuno-16-2",
+    "title": "Inborn Errors of Immunity",
+    "course": "immuno",
+    "brick_id": "16",
+    "brick_title": "Diagnosis and Treatment of Immunodeficiency Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "primary immunodeficiency",
+      "rare, presents in childhood",
+      "classified by underlying defect",
+      "humoral antibody defects",
+      "combined T and B defects",
+      "phagocytic defects",
+      "complement deficiencies",
+      "formerly called primary immune deficiency"
+    ]
+  },
+  {
+    "id": "immuno-16-3",
+    "title": "Secondary Immunodeficiency",
+    "course": "immuno",
+    "brick_id": "16",
+    "brick_title": "Diagnosis and Treatment of Immunodeficiency Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "acquired immunodeficiency",
+      "most common immunodeficiency",
+      "protein-losing enteropathy",
+      "asplenia",
+      "immunosuppressant medications",
+      "hematologic malignancy",
+      "malnutrition",
+      "treat the underlying cause"
+    ]
+  },
+  {
+    "id": "immuno-16-4",
+    "title": "HIV/AIDS",
+    "course": "immuno",
+    "brick_id": "16",
+    "brick_title": "Diagnosis and Treatment of Immunodeficiency Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "infectious cause of immunodeficiency",
+      "targets CD4 T cells",
+      "lymphopenia",
+      "opportunistic infections by CD4 count",
+      "Pneumocystis at low CD4",
+      "tuberculosis reactivation",
+      "Acquired Immunodeficiency Syndrome",
+      "HIV"
+    ]
+  },
+  {
+    "id": "immuno-16-5",
+    "title": "Immunodeficiency Workup",
+    "course": "immuno",
+    "brick_id": "16",
+    "brick_title": "Diagnosis and Treatment of Immunodeficiency Disorders",
+    "type": "lab",
+    "buzzwords": [
+      "categorized by age at presentation",
+      "complete blood count",
+      "lymphocyte subset analysis",
+      "quantitative immunoglobulin levels",
+      "post-vaccination antibody titers",
+      "B and T cell subsets",
+      "CD4 to CD8 ratio",
+      "early diagnosis lowers mortality"
+    ]
+  },
+  {
+    "id": "immuno-16-6",
+    "title": "Immunodeficiency Management",
+    "course": "immuno",
+    "brick_id": "16",
+    "brick_title": "Diagnosis and Treatment of Immunodeficiency Disorders",
+    "type": "physiology",
+    "buzzwords": [
+      "treatment depends on the defect",
+      "prophylactic antimicrobials",
+      "immunoglobulin replacement for antibody defects",
+      "IVIG or SCIG",
+      "stem cell transplant for combined defects",
+      "interferon-gamma for granulomatous disease",
+      "vaccinate when not contraindicated",
+      "no live vaccines if severely immunocompromised"
+    ]
+  }
+]

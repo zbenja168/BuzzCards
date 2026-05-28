@@ -1,0 +1,74 @@
+[
+  {
+    "id": "immuno-12-1",
+    "title": "Type 1 Hypersensitivity",
+    "course": "immuno",
+    "brick_id": "12",
+    "brick_title": "Hypersensitivity Reactions",
+    "type": "physiology",
+    "buzzwords": [
+      "immediate, within minutes",
+      "allergens trigger it",
+      "asthma and allergic rhinitis",
+      "can cause anaphylaxis",
+      "mast cells and eosinophils",
+      "histamine release",
+      "FcεRI cross-linking degranulation",
+      "IgE mediated"
+    ]
+  },
+  {
+    "id": "immuno-12-2",
+    "title": "Type 2 Hypersensitivity",
+    "course": "immuno",
+    "brick_id": "12",
+    "brick_title": "Hypersensitivity Reactions",
+    "type": "physiology",
+    "buzzwords": [
+      "tissue or organ specific",
+      "occurs 2-4 hours",
+      "antibody binds cell surface",
+      "complement activation, MAC",
+      "ADCC by NK cells",
+      "autoimmune hemolytic anemia",
+      "Graves and myasthenia gravis",
+      "IgG or IgM mediated"
+    ]
+  },
+  {
+    "id": "immuno-12-3",
+    "title": "Type 3 Hypersensitivity",
+    "course": "immuno",
+    "brick_id": "12",
+    "brick_title": "Hypersensitivity Reactions",
+    "type": "physiology",
+    "buzzwords": [
+      "antibody binds soluble antigen",
+      "deposits in small vessels",
+      "nephritis, arthritis, vasculitis",
+      "complement and neutrophils",
+      "SLE and serum sickness",
+      "immune complex disease",
+      "Arthus reaction",
+      "IgG mediated"
+    ]
+  },
+  {
+    "id": "immuno-12-4",
+    "title": "Type 4 Hypersensitivity",
+    "course": "immuno",
+    "brick_id": "12",
+    "brick_title": "Hypersensitivity Reactions",
+    "type": "physiology",
+    "buzzwords": [
+      "delayed, 24-72 hours",
+      "no antibody involved",
+      "contact dermatitis, poison ivy",
+      "CD4 and CD8 T cells",
+      "macrophage activation",
+      "CTL perforin and granzymes",
+      "superantigen response",
+      "tuberculin PPD skin test"
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "immuno-15-1",
+    "title": "Selective IgA Deficiency",
+    "course": "immuno",
+    "brick_id": "15",
+    "brick_title": "Inborn Errors of Adaptive Immunity (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "most common adaptive IEI",
+      "often asymptomatic",
+      "recurrent sinopulmonary infections",
+      "recurrent GI infections",
+      "impaired class switching",
+      "anaphylaxis to blood products",
+      "isolated low IgA",
+      "normal IgG and IgM"
+    ]
+  },
+  {
+    "id": "immuno-15-2",
+    "title": "CVID",
+    "course": "immuno",
+    "brick_id": "15",
+    "brick_title": "Inborn Errors of Adaptive Immunity (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "presents in adulthood",
+      "recurrent sinopulmonary and GI infections",
+      "autoimmune disease",
+      "bronchiectasis",
+      "non-Hodgkin lymphoma risk",
+      "BAFF receptor mutation",
+      "low IgG plus low IgA/IgM",
+      "diagnosed ages 20 to 40"
+    ]
+  },
+  {
+    "id": "immuno-15-3",
+    "title": "X-HIMS",
+    "course": "immuno",
+    "brick_id": "15",
+    "brick_title": "Inborn Errors of Adaptive Immunity (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "X-linked recessive",
+      "presents in infancy",
+      "failed class switching",
+      "Pneumocystis pneumonia",
+      "Cryptosporidium diarrhea",
+      "high IgM",
+      "low IgG, IgA, IgE",
+      "CD40L mutation"
+    ]
+  },
+  {
+    "id": "immuno-15-4",
+    "title": "Hyper IgE Syndrome",
+    "course": "immuno",
+    "brick_id": "15",
+    "brick_title": "Inborn Errors of Adaptive Immunity (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal dominant",
+      "eczema",
+      "cold abscesses",
+      "retained baby teeth",
+      "coarse facial features",
+      "markedly elevated IgE",
+      "STAT3 defect",
+      "impaired Th17 differentiation"
+    ]
+  },
+  {
+    "id": "immuno-15-5",
+    "title": "Wiskott-Aldrich Syndrome",
+    "course": "immuno",
+    "brick_id": "15",
+    "brick_title": "Inborn Errors of Adaptive Immunity (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "X-linked recessive",
+      "eczema",
+      "recurrent infections",
+      "thrombocytopenia",
+      "small platelets",
+      "low IgM, high IgA/IgE",
+      "defective actin polymerization",
+      "WASP mutation"
+    ]
+  },
+  {
+    "id": "immuno-15-6",
+    "title": "MSMD",
+    "course": "immuno",
+    "brick_id": "15",
+    "brick_title": "Inborn Errors of Adaptive Immunity (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "impaired Th1 pathway",
+      "loss of macrophage activation",
+      "disseminated mycobacterial infection",
+      "disseminated BCG after vaccine",
+      "salmonellosis",
+      "IL-12 receptor mutation",
+      "IFN-gamma receptor mutation",
+      "treat with IFN-gamma therapy"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "immuno-19-1",
+    "title": "Monoclonal Antibody Naming",
+    "course": "immuno",
+    "brick_id": "19",
+    "brick_title": "Biologic Agents",
+    "type": "physiology",
+    "buzzwords": [
+      "lab-made antibodies",
+      "target one epitope",
+      "not given orally",
+      "suffix encodes origin",
+      "more human, less immunogenic",
+      "-omab fully murine",
+      "-ximab chimeric, -zumab humanized",
+      "-umab fully human"
+    ]
+  },
+  {
+    "id": "immuno-19-2",
+    "title": "Infliximab",
+    "course": "immuno",
+    "brick_id": "19",
+    "brick_title": "Biologic Agents",
+    "type": "drug",
+    "buzzwords": [
+      "anti-inflammatory biologic",
+      "chimeric monoclonal",
+      "screen TB before starting",
+      "reactivation infection risk",
+      "treats inflammatory bowel disease",
+      "ankylosing spondylitis",
+      "binds TNF-alpha",
+      "infliximab"
+    ]
+  },
+  {
+    "id": "immuno-19-3",
+    "title": "Etanercept",
+    "course": "immuno",
+    "brick_id": "19",
+    "brick_title": "Biologic Agents",
+    "type": "drug",
+    "buzzwords": [
+      "anti-inflammatory biologic",
+      "not a true antibody",
+      "acts as a decoy",
+      "IgG1 Fc fusion protein",
+      "soluble receptor domain",
+      "sequesters TNF-alpha",
+      "treats rheumatoid arthritis",
+      "etanercept"
+    ]
+  },
+  {
+    "id": "immuno-19-4",
+    "title": "Omalizumab",
+    "course": "immuno",
+    "brick_id": "19",
+    "brick_title": "Biologic Agents",
+    "type": "drug",
+    "buzzwords": [
+      "anti-allergy biologic",
+      "humanized monoclonal",
+      "lowers free antibody",
+      "blocks mast cell trigger",
+      "binds IgE",
+      "treats allergic asthma",
+      "chronic urticaria",
+      "omalizumab"
+    ]
+  },
+  {
+    "id": "immuno-19-5",
+    "title": "Secukinumab",
+    "course": "immuno",
+    "brick_id": "19",
+    "brick_title": "Biologic Agents",
+    "type": "drug",
+    "buzzwords": [
+      "anti-inflammatory biologic",
+      "human monoclonal",
+      "blocks a Th17 cytokine",
+      "skin plaque drug",
+      "treats psoriasis",
+      "psoriatic arthritis",
+      "binds IL-17A",
+      "secukinumab"
+    ]
+  },
+  {
+    "id": "immuno-19-6",
+    "title": "Tocilizumab",
+    "course": "immuno",
+    "brick_id": "19",
+    "brick_title": "Biologic Agents",
+    "type": "drug",
+    "buzzwords": [
+      "anti-inflammatory biologic",
+      "humanized monoclonal",
+      "blocks a cytokine receptor",
+      "treats rheumatoid arthritis",
+      "giant cell arteritis",
+      "cytokine release syndrome",
+      "anti-IL-6 receptor",
+      "tocilizumab"
+    ]
+  },
+  {
+    "id": "immuno-19-7",
+    "title": "IL-1 Inhibitors",
+    "course": "immuno",
+    "brick_id": "19",
+    "brick_title": "Biologic Agents",
+    "type": "drug",
+    "buzzwords": [
+      "block inflammation",
+      "for periodic fever syndromes",
+      "autoinflammatory disease drugs",
+      "familial Mediterranean fever",
+      "receptor antagonist or anti-cytokine",
+      "blocks IL-1beta",
+      "anakinra",
+      "canakinumab"
+    ]
+  }
+]

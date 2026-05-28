@@ -1,0 +1,56 @@
+[
+  {
+    "id": "immuno-5-1",
+    "title": "Leukocyte Adhesion Deficiency I",
+    "course": "immuno",
+    "brick_id": "5",
+    "brick_title": "Inborn Errors of Innate Immunity",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "neutrophils can't exit vessels",
+      "infections lack pus",
+      "marked leukocytosis",
+      "delayed umbilical cord separation",
+      "recurrent skin infections",
+      "poor wound healing",
+      "defective CD18 integrin"
+    ]
+  },
+  {
+    "id": "immuno-5-2",
+    "title": "Chédiak-Higashi Syndrome",
+    "course": "immuno",
+    "brick_id": "5",
+    "brick_title": "Inborn Errors of Innate Immunity",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "recurrent pyogenic infections",
+      "bleeding tendency",
+      "progressive neuropathy",
+      "partial albinism",
+      "silvery hair",
+      "giant granules in neutrophils",
+      "LYST mutation"
+    ]
+  },
+  {
+    "id": "immuno-5-3",
+    "title": "Chronic Granulomatous Disease",
+    "course": "immuno",
+    "brick_id": "5",
+    "brick_title": "Inborn Errors of Innate Immunity",
+    "type": "disease",
+    "buzzwords": [
+      "mostly X-linked recessive",
+      "defective oxidative burst",
+      "no reactive oxygen species",
+      "catalase-positive infections",
+      "granuloma formation",
+      "recurrent abscesses",
+      "negative dihydrorhodamine test",
+      "defective NADPH oxidase"
+    ]
+  }
+]

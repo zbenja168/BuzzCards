@@ -1,0 +1,182 @@
+[
+  {
+    "id": "immuno-7-1",
+    "title": "BCR Structure",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "Y-shaped glycoprotein",
+      "two heavy, two light chains",
+      "disulfide-linked chains",
+      "flexible hinge region",
+      "Fab binds antigen",
+      "membrane-bound or secreted",
+      "secreted form is immunoglobulin",
+      "kappa or lambda light chain"
+    ]
+  },
+  {
+    "id": "immuno-7-2",
+    "title": "V(D)J Recombination",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "cut-and-join gene segments",
+      "occurs before antigen exposure",
+      "V, D, and J segments",
+      "light chain uses only V and J",
+      "heavy chain uses V, D, J",
+      "controlled double-strand breaks",
+      "combinatorial diversity",
+      "RAG1 and RAG2 enzymes"
+    ]
+  },
+  {
+    "id": "immuno-7-3",
+    "title": "Junctional Diversity",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "diversity at segment joints",
+      "random nucleotide additions",
+      "alters CDR3 region",
+      "not germline-encoded",
+      "can cause frameshift",
+      "increases receptor repertoire",
+      "template-independent addition",
+      "terminal deoxynucleotidyl transferase"
+    ]
+  },
+  {
+    "id": "immuno-7-4",
+    "title": "Somatic Hypermutation",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "occurs after antigen recognition",
+      "B cells only",
+      "point mutations in variable domains",
+      "concentrated in CDRs",
+      "mutates faster than other DNA",
+      "drives affinity maturation",
+      "highest-affinity clones survive",
+      "found in hypervariable regions"
+    ]
+  },
+  {
+    "id": "immuno-7-5",
+    "title": "TCR Structure",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "membrane-anchored glycoprotein",
+      "never secreted",
+      "alpha and beta chains",
+      "single disulfide bond",
+      "variable and constant domains",
+      "no somatic hypermutation",
+      "alpha chain uses V and J",
+      "beta chain uses V, D, J"
+    ]
+  },
+  {
+    "id": "immuno-7-6",
+    "title": "IgM",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "first class produced",
+      "expressed on naive B cells",
+      "four constant domains",
+      "highest avidity",
+      "activates classical complement",
+      "ten antigen binding sites",
+      "joined by J chain",
+      "circulates as pentamer"
+    ]
+  },
+  {
+    "id": "immuno-7-7",
+    "title": "IgG",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "most abundant in blood",
+      "monomer",
+      "opsonizes pathogens",
+      "activates classical complement",
+      "neutralizes toxins",
+      "mediates NK-driven ADCC",
+      "crosses the placenta",
+      "FcRn prolongs half-life"
+    ]
+  },
+  {
+    "id": "immuno-7-8",
+    "title": "IgA",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "main mucosal antibody",
+      "found in saliva and breast milk",
+      "monomer in blood",
+      "dimer at mucosa",
+      "joined by J chain",
+      "prevents bacterial adherence",
+      "secreted via transcytosis",
+      "polymeric Ig receptor transport"
+    ]
+  },
+  {
+    "id": "immuno-7-9",
+    "title": "IgE",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "lowest serum levels",
+      "four constant domains",
+      "drives allergic reactions",
+      "anti-helminth defense",
+      "binds mast cells and basophils",
+      "triggers degranulation",
+      "high-affinity receptor binding",
+      "signals through FceRI"
+    ]
+  },
+  {
+    "id": "immuno-7-10",
+    "title": "IgD",
+    "course": "immuno",
+    "brick_id": "7",
+    "brick_title": "Antigen Receptor Generation and Structure",
+    "type": "physiology",
+    "buzzwords": [
+      "expressed on naive B cells",
+      "monomer",
+      "secreted at very low levels",
+      "no known Fc receptor",
+      "function poorly understood",
+      "aids B cell activation signaling",
+      "co-expressed with surface IgM",
+      "three constant domains"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "immuno-17-1",
+    "title": "Agglutination",
+    "course": "immuno",
+    "brick_id": "17",
+    "brick_title": "Diagnostic Laboratory Immunology",
+    "type": "lab",
+    "buzzwords": [
+      "antibody-based test",
+      "low sensitivity",
+      "detects antigen presence",
+      "qualitative result",
+      "visible clumping",
+      "immune complexes precipitate",
+      "RBC cross-linking",
+      "blood typing kit"
+    ]
+  },
+  {
+    "id": "immuno-17-2",
+    "title": "Immunofluorescence",
+    "course": "immuno",
+    "brick_id": "17",
+    "brick_title": "Diagnostic Laboratory Immunology",
+    "type": "lab",
+    "buzzwords": [
+      "microscope-based",
+      "locates target molecule",
+      "fluorophore-labeled antibody",
+      "tissue section or smear",
+      "staining patterns",
+      "titer plus pattern",
+      "homogeneous or speckled",
+      "ANA testing"
+    ]
+  },
+  {
+    "id": "immuno-17-3",
+    "title": "ELISA",
+    "course": "immuno",
+    "brick_id": "17",
+    "brick_title": "Diagnostic Laboratory Immunology",
+    "type": "lab",
+    "buzzwords": [
+      "high sensitivity",
+      "quantifies soluble antigen",
+      "microplate well",
+      "enzyme-conjugated antibody",
+      "color intensity signal",
+      "direct, indirect, sandwich, competitive",
+      "sandwich type most sensitive",
+      "HIV screening"
+    ]
+  },
+  {
+    "id": "immuno-17-4",
+    "title": "Western Blot",
+    "course": "immuno",
+    "brick_id": "17",
+    "brick_title": "Diagnostic Laboratory Immunology",
+    "type": "lab",
+    "buzzwords": [
+      "high sensitivity",
+      "qualitative result",
+      "proteins by size",
+      "gel electrophoresis",
+      "transfer to membrane",
+      "dark bands",
+      "confirmatory test",
+      "Lyme disease"
+    ]
+  },
+  {
+    "id": "immuno-17-5",
+    "title": "Flow Cytometry",
+    "course": "immuno",
+    "brick_id": "17",
+    "brick_title": "Diagnostic Laboratory Immunology",
+    "type": "lab",
+    "buzzwords": [
+      "cell-based test",
+      "single-file laser stream",
+      "counts cell populations",
+      "fluorophore-conjugated antibodies",
+      "CD marker detection",
+      "forward and side scatter",
+      "FOXP3 intracellular stain",
+      "SCID lacks CD3 cells"
+    ]
+  },
+  {
+    "id": "immuno-17-6",
+    "title": "Chromium-51 Release",
+    "course": "immuno",
+    "brick_id": "17",
+    "brick_title": "Diagnostic Laboratory Immunology",
+    "type": "lab",
+    "buzzwords": [
+      "cell-based functional assay",
+      "measures cytotoxicity",
+      "CTL or NK killing",
+      "radiolabeled target cells",
+      "lysis releases label",
+      "tumor and viral immunity",
+      "isotope into supernatant",
+      "51Cr release"
+    ]
+  },
+  {
+    "id": "immuno-17-7",
+    "title": "TREC Screening",
+    "course": "immuno",
+    "brick_id": "17",
+    "brick_title": "Diagnostic Laboratory Immunology",
+    "type": "lab",
+    "buzzwords": [
+      "nucleic-acid-based test",
+      "PCR amplification",
+      "newborn blood spot",
+      "measures T-cell output",
+      "circular DNA fragments",
+      "from V(D)J recombination",
+      "low count signals SCID",
+      "neonatal TREC screen"
+    ]
+  }
+]

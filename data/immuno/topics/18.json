@@ -1,0 +1,128 @@
+[
+  {
+    "id": "immuno-18-1",
+    "title": "Glucocorticoids",
+    "course": "immuno",
+    "brick_id": "18",
+    "brick_title": "Immunosuppressants",
+    "type": "drug",
+    "buzzwords": [
+      "mimic adrenal corticosteroids",
+      "decrease cytokine production",
+      "impairs WBC migration",
+      "drugs ending -sone, -sol",
+      "inhibit NF-kB",
+      "causes demargination leukocytosis",
+      "Cushing syndrome long-term",
+      "prednisone, dexamethasone"
+    ]
+  },
+  {
+    "id": "immuno-18-2",
+    "title": "Methotrexate",
+    "course": "immuno",
+    "brick_id": "18",
+    "brick_title": "Immunosuppressants",
+    "type": "drug",
+    "buzzwords": [
+      "cytostatic agent",
+      "interferes with DNA synthesis",
+      "lowers nucleotide levels",
+      "folic acid analog",
+      "liver and lung toxicity",
+      "used in RA and IBD",
+      "inhibits DHFR",
+      "competitive DHFR inhibitor"
+    ]
+  },
+  {
+    "id": "immuno-18-3",
+    "title": "Cyclophosphamide",
+    "course": "immuno",
+    "brick_id": "18",
+    "brick_title": "Immunosuppressants",
+    "type": "drug",
+    "buzzwords": [
+      "cytostatic agent",
+      "interferes with DNA replication",
+      "used in solid tumors",
+      "treats leukemias, lymphomas",
+      "bladder toxicity",
+      "myelosuppression risk",
+      "alkylating agent",
+      "cross-links DNA"
+    ]
+  },
+  {
+    "id": "immuno-18-4",
+    "title": "Azathioprine",
+    "course": "immuno",
+    "brick_id": "18",
+    "brick_title": "Immunosuppressants",
+    "type": "drug",
+    "buzzwords": [
+      "cytostatic agent",
+      "blocks purine synthesis",
+      "inhibits lymphocyte proliferation",
+      "prevents kidney transplant rejection",
+      "used in SLE, Crohn",
+      "prodrug of 6-mercaptopurine",
+      "blocks PRPP amidotransferase",
+      "converted to 6-MP"
+    ]
+  },
+  {
+    "id": "immuno-18-5",
+    "title": "Mycophenolate",
+    "course": "immuno",
+    "brick_id": "18",
+    "brick_title": "Immunosuppressants",
+    "type": "drug",
+    "buzzwords": [
+      "cytostatic agent",
+      "reduces purine synthesis",
+      "blocks B and T cell DNA",
+      "used in organ transplant",
+      "reversible enzyme inhibitor",
+      "inhibits IMP dehydrogenase",
+      "blocks inosine-5-monophosphate dehydrogenase",
+      "IMPDH inhibitor"
+    ]
+  },
+  {
+    "id": "immuno-18-6",
+    "title": "Calcineurin Inhibitors",
+    "course": "immuno",
+    "brick_id": "18",
+    "brick_title": "Immunosuppressants",
+    "type": "drug",
+    "buzzwords": [
+      "immunophilin-binding agents",
+      "target T-cell activation",
+      "lower IL-2 levels",
+      "blocks NFAT dephosphorylation",
+      "prevent transplant rejection",
+      "nephrotoxic",
+      "inhibit calcineurin",
+      "tacrolimus, cyclosporine"
+    ]
+  },
+  {
+    "id": "immuno-18-7",
+    "title": "Sirolimus",
+    "course": "immuno",
+    "brick_id": "18",
+    "brick_title": "Immunosuppressants",
+    "type": "drug",
+    "buzzwords": [
+      "immunophilin-binding agent",
+      "blocks T-cell proliferation",
+      "hinders response to IL-2",
+      "decreases antibody production",
+      "binds FKBP",
+      "used to prevent rejection",
+      "inhibits mTOR",
+      "also called rapamycin"
+    ]
+  }
+]

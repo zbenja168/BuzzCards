@@ -1,4 +1,5 @@
 [
   { "id": "renal", "name": "Renal & Urinary System", "cards": "data/cards.json" },
-  { "id": "boom", "name": "Metabolism & Biochemistry (BOOM)", "cards": "data/boom/cards.json" }
+  { "id": "boom", "name": "Metabolism & Biochemistry (BOOM)", "cards": "data/boom/cards.json" },
+  { "id": "immuno", "name": "Immunology", "cards": "data/immuno/cards.json" }
 ]

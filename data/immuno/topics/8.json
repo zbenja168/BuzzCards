@@ -1,0 +1,110 @@
+[
+  {
+    "id": "immuno-8-1",
+    "title": "B Cell Maturation",
+    "course": "immuno",
+    "brick_id": "8",
+    "brick_title": "B Cell Development and Activation",
+    "type": "physiology",
+    "buzzwords": [
+      "antigen-independent stage",
+      "occurs in bone marrow",
+      "pro-B has no BCR",
+      "pre-B rearranges heavy chain",
+      "pre-B expresses surrogate light chain",
+      "immature B expresses full BCR",
+      "mature naive cell exits marrow",
+      "naive cell carries IgM and IgD"
+    ]
+  },
+  {
+    "id": "immuno-8-2",
+    "title": "B Cell Selection",
+    "course": "immuno",
+    "brick_id": "8",
+    "brick_title": "B Cell Development and Activation",
+    "type": "physiology",
+    "buzzwords": [
+      "tests immature B cell receptors",
+      "weak self-binding passes positive selection",
+      "strong self-binding triggers apoptosis",
+      "removes autoreactive clones",
+      "negative selection prevents autoantibodies",
+      "second chance via receptor editing",
+      "rearranges other light chain gene",
+      "25 percent show receptor editing"
+    ]
+  },
+  {
+    "id": "immuno-8-3",
+    "title": "Secondary Lymphoid Organs",
+    "course": "immuno",
+    "brick_id": "8",
+    "brick_title": "B Cell Development and Activation",
+    "type": "anatomy",
+    "buzzwords": [
+      "site of B cell activation",
+      "B and T cells in distinct zones",
+      "lymph node filters lymph antigens",
+      "spleen filters blood-borne antigens",
+      "B cells enter through HEVs",
+      "white pulp surrounds central artery",
+      "marrow zone called PALS",
+      "follicles hold germinal centers"
+    ]
+  },
+  {
+    "id": "immuno-8-4",
+    "title": "T-Dependent Activation",
+    "course": "immuno",
+    "brick_id": "8",
+    "brick_title": "B Cell Development and Activation",
+    "type": "physiology",
+    "buzzwords": [
+      "requires CD4 helper T cells",
+      "uses protein antigens",
+      "BCR crosslinking is first signal",
+      "C3d via CR2 costimulates",
+      "B cell presents peptide on MHC II",
+      "TCR reads peptide-MHC II complex",
+      "immunological synapse",
+      "CD40L-CD40 interaction"
+    ]
+  },
+  {
+    "id": "immuno-8-5",
+    "title": "T-Independent Activation",
+    "course": "immuno",
+    "brick_id": "8",
+    "brick_title": "B Cell Development and Activation",
+    "type": "physiology",
+    "buzzwords": [
+      "no helper T cell needed",
+      "non-protein antigens",
+      "repetitive epitopes",
+      "extensive BCR crosslinking",
+      "polysaccharide capsule antigens",
+      "low-affinity antibody",
+      "predominantly IgM, no class switch",
+      "conjugate vaccines recruit T cell help"
+    ]
+  },
+  {
+    "id": "immuno-8-6",
+    "title": "Germinal Center",
+    "course": "immuno",
+    "brick_id": "8",
+    "brick_title": "B Cell Development and Activation",
+    "type": "physiology",
+    "buzzwords": [
+      "forms within follicles",
+      "dark zone holds dividing B cells",
+      "light zone selects high affinity",
+      "follicular dendritic cells display antigen",
+      "Tfh cells provide help here",
+      "somatic hypermutation by AID",
+      "drives affinity maturation",
+      "site of class switching"
+    ]
+  }
+]
