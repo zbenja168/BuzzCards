@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bloodlymph-19-1",
+    "title": "Hemophilia A",
+    "course": "bloodlymph",
+    "brick_id": "19",
+    "brick_title": "Hemophilia",
+    "type": "disease",
+    "buzzwords": [
+      "bleeding disorder",
+      "intrinsic pathway defect",
+      "prolonged aPTT",
+      "normal PT",
+      "hemarthrosis",
+      "X-linked recessive",
+      "factor VIII deficiency",
+      "most common hemophilia"
+    ]
+  },
+  {
+    "id": "bloodlymph-19-2",
+    "title": "Hemophilia B",
+    "course": "bloodlymph",
+    "brick_id": "19",
+    "brick_title": "Hemophilia",
+    "type": "disease",
+    "buzzwords": [
+      "inherited bleeding disorder",
+      "prolonged aPTT",
+      "normal PT",
+      "X-linked recessive",
+      "mimics hemophilia A",
+      "factor IX deficiency",
+      "diagnosed by factor assay",
+      "Christmas disease"
+    ]
+  },
+  {
+    "id": "bloodlymph-19-3",
+    "title": "Mixing Study",
+    "course": "bloodlymph",
+    "brick_id": "19",
+    "brick_title": "Hemophilia",
+    "type": "lab",
+    "buzzwords": [
+      "coagulation test",
+      "add normal plasma",
+      "replaces missing factor",
+      "corrects in factor deficiency",
+      "fails to correct with inhibitor",
+      "distinguishes deficiency vs antibody",
+      "PTT normalizes in hemophilia",
+      "Bethesda units quantify inhibitor"
+    ]
+  },
+  {
+    "id": "bloodlymph-19-4",
+    "title": "Acquired Hemophilia",
+    "course": "bloodlymph",
+    "brick_id": "19",
+    "brick_title": "Hemophilia",
+    "type": "disease",
+    "buzzwords": [
+      "non-inherited bleeding disorder",
+      "autoimmune etiology",
+      "older patients",
+      "female predominance",
+      "soft tissue bleeds",
+      "anti-factor VIII antibody",
+      "treat with immunosuppression",
+      "recombinant factor VIIa"
+    ]
+  }
+]

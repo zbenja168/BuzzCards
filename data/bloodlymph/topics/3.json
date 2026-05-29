@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bloodlymph-3-1",
+    "title": "RBC Indices",
+    "course": "bloodlymph",
+    "brick_id": "3",
+    "brick_title": "Red Blood Cell Laboratory Tests",
+    "type": "lab",
+    "buzzwords": [
+      "part of CBC",
+      "evaluates RBCs",
+      "diagnoses anemia",
+      "size and Hgb content",
+      "MCV is average size",
+      "RDW is size variability",
+      "MCH and MCHC",
+      "micro/normo/macrocytic"
+    ]
+  },
+  {
+    "id": "bloodlymph-3-2",
+    "title": "Abnormal RBC Morphology",
+    "course": "bloodlymph",
+    "brick_id": "3",
+    "brick_title": "Red Blood Cell Laboratory Tests",
+    "type": "lab",
+    "buzzwords": [
+      "Wright-Giemsa stain",
+      "loss of central pallor",
+      "shapes and inclusions",
+      "target cell in thalassemia",
+      "teardrop in myelofibrosis",
+      "schistocyte from shearing",
+      "spherocyte loses pallor",
+      "Howell-Jolly post-splenectomy"
+    ]
+  },
+  {
+    "id": "bloodlymph-3-3",
+    "title": "Reticulocyte Count",
+    "course": "bloodlymph",
+    "brick_id": "3",
+    "brick_title": "Red Blood Cell Laboratory Tests",
+    "type": "lab",
+    "buzzwords": [
+      "needs supravital stain",
+      "uses fresh blood",
+      "young immature RBCs",
+      "shows residual RNA",
+      "normally 1-2%",
+      "marrow response marker",
+      "low means hypoproliferative",
+      "new methylene blue"
+    ]
+  },
+  {
+    "id": "bloodlymph-3-4",
+    "title": "Hemoglobin Electrophoresis",
+    "course": "bloodlymph",
+    "brick_id": "3",
+    "brick_title": "Red Blood Cell Laboratory Tests",
+    "type": "lab",
+    "buzzwords": [
+      "applies electric charge",
+      "separates Hgb types",
+      "identifies Hgb variants",
+      "diagnoses thalassemia",
+      "detects sickle trait",
+      "HbA is normal adult",
+      "HbF is fetal",
+      "HbS confirms sickle cell"
+    ]
+  },
+  {
+    "id": "bloodlymph-3-5",
+    "title": "Osmotic Fragility Test",
+    "course": "bloodlymph",
+    "brick_id": "3",
+    "brick_title": "Red Blood Cell Laboratory Tests",
+    "type": "lab",
+    "buzzwords": [
+      "uses saline solutions",
+      "measures hemolysis",
+      "tests RBC durability",
+      "fragile cells lyse early",
+      "lyse at higher NaCl",
+      "increased in spherocytosis",
+      "decreased in thalassemia",
+      "hereditary spherocytosis classic"
+    ]
+  },
+  {
+    "id": "bloodlymph-3-6",
+    "title": "Direct Antiglobulin Test",
+    "course": "bloodlymph",
+    "brick_id": "3",
+    "brick_title": "Red Blood Cell Laboratory Tests",
+    "type": "lab",
+    "buzzwords": [
+      "also called DAT",
+      "uses Coombs reagent",
+      "detects RBC-bound antibody",
+      "detects bound complement",
+      "positive causes agglutination",
+      "positive in AIHA",
+      "hemolytic disease of newborn",
+      "direct Coombs test"
+    ]
+  }
+]

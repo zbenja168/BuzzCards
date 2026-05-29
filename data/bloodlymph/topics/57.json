@@ -1,0 +1,56 @@
+[
+  {
+    "id": "bloodlymph-57-1",
+    "title": "Plasmodium / Malaria",
+    "course": "bloodlymph",
+    "brick_id": "57",
+    "brick_title": "Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent fevers",
+      "hemolytic anemia",
+      "Anopheles mosquito vector",
+      "infects red blood cells",
+      "Duffy antigen entry",
+      "ring trophozoites",
+      "crescent-shaped gametocyte",
+      "Giemsa-stained smear"
+    ]
+  },
+  {
+    "id": "bloodlymph-57-2",
+    "title": "Babesia / Babesiosis",
+    "course": "bloodlymph",
+    "brick_id": "57",
+    "brick_title": "Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "disease",
+    "buzzwords": [
+      "hemolytic anemia",
+      "flu-like illness",
+      "Ixodes scapularis tick",
+      "infects red blood cells",
+      "northeastern US",
+      "co-infects with Lyme",
+      "Babesia microti",
+      "Maltese cross tetrads"
+    ]
+  },
+  {
+    "id": "bloodlymph-57-3",
+    "title": "Brucella / Brucellosis",
+    "course": "bloodlymph",
+    "brick_id": "57",
+    "brick_title": "Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "disease",
+    "buzzwords": [
+      "zoonotic infection",
+      "undulating fever",
+      "unpasteurized dairy",
+      "gram-negative coccobacilli",
+      "survives in macrophages",
+      "night sweats, arthralgia",
+      "antibody titer >=1:160",
+      "Brucella melitensis"
+    ]
+  }
+]

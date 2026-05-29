@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bloodlymph-11-1",
+    "title": "Hereditary Spherocytosis",
+    "course": "bloodlymph",
+    "brick_id": "11",
+    "brick_title": "Hereditary Spherocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "chronic hemolytic anemia",
+      "jaundice",
+      "splenomegaly",
+      "northern European",
+      "increased MCHC",
+      "sphere-shaped RBCs",
+      "ankyrin or spectrin defect",
+      "EMA binding test"
+    ]
+  },
+  {
+    "id": "bloodlymph-11-2",
+    "title": "Spherocyte",
+    "course": "bloodlymph",
+    "brick_id": "11",
+    "brick_title": "Hereditary Spherocytosis",
+    "type": "physiology",
+    "buzzwords": [
+      "lost membrane excess",
+      "no central pallor",
+      "smaller diameter",
+      "no wiggle room",
+      "splenic destruction",
+      "extravascular hemolysis",
+      "osmotic fragility positive",
+      "membrane blebbing"
+    ]
+  },
+  {
+    "id": "bloodlymph-11-3",
+    "title": "Hereditary Elliptocytosis",
+    "course": "bloodlymph",
+    "brick_id": "11",
+    "brick_title": "Hereditary Spherocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "membrane defect",
+      "usually asymptomatic",
+      "mild hemolysis",
+      "African descent",
+      "autosomal dominant",
+      "spectrin defect",
+      "elliptocytes on smear",
+      "peripheral smear diagnosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-11-4",
+    "title": "Pyropoikilocytosis",
+    "course": "bloodlymph",
+    "brick_id": "11",
+    "brick_title": "Hereditary Spherocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "rare membrane defect",
+      "moderate-severe hemolysis",
+      "autosomal recessive",
+      "two spectrin mutations",
+      "two HE mutations",
+      "RBCs resemble burns",
+      "bizarre RBC shapes",
+      "HPP"
+    ]
+  }
+]

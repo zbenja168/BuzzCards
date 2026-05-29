@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-15-1",
+    "title": "Megaloblastic Anemia",
+    "course": "bloodlymph",
+    "brick_id": "15",
+    "brick_title": "Megaloblastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "impaired DNA synthesis",
+      "macrocytic anemia",
+      "ineffective hematopoiesis",
+      "hypercellular marrow",
+      "nuclear-cytoplasmic asynchrony",
+      "macro-ovalocytes",
+      "MCV >115 fL",
+      "hypersegmented neutrophils"
+    ]
+  },
+  {
+    "id": "bloodlymph-15-2",
+    "title": "Vitamin B12 Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "15",
+    "brick_title": "Megaloblastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "cobalamin",
+      "large body store",
+      "neurologic symptoms",
+      "numbness and tingling",
+      "subacute combined degeneration",
+      "elevated methylmalonic acid",
+      "methionine synthase cofactor",
+      "Diphyllobothrium latum"
+    ]
+  },
+  {
+    "id": "bloodlymph-15-3",
+    "title": "Folate Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "15",
+    "brick_title": "Megaloblastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "no neurologic symptoms",
+      "small body store",
+      "neural tube defects",
+      "methylene-THF for thymidine",
+      "pregnancy demand",
+      "methotrexate inhibits",
+      "trimethoprim antimetabolite",
+      "phenytoin impairs absorption"
+    ]
+  },
+  {
+    "id": "bloodlymph-15-4",
+    "title": "Pernicious Anemia",
+    "course": "bloodlymph",
+    "brick_id": "15",
+    "brick_title": "Megaloblastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "B12 malabsorption",
+      "chronic gastritis",
+      "parietal cell destruction",
+      "low intrinsic factor",
+      "decreased gastric acidity",
+      "anti-intrinsic factor antibodies",
+      "antiparietal cell antibodies",
+      "needs intramuscular B12"
+    ]
+  },
+  {
+    "id": "bloodlymph-15-5",
+    "title": "Diamond-Blackfan Anemia",
+    "course": "bloodlymph",
+    "brick_id": "15",
+    "brick_title": "Megaloblastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "congenital macrocytic anemia",
+      "infancy onset",
+      "pure red cell aplasia",
+      "reticulocytopenia",
+      "triphalangeal thumbs",
+      "craniofacial abnormalities",
+      "cancer predisposition",
+      "erythroid aplasia"
+    ]
+  }
+]

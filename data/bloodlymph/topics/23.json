@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bloodlymph-23-1",
+    "title": "Factor V Leiden",
+    "course": "bloodlymph",
+    "brick_id": "23",
+    "brick_title": "Genetic Thrombotic Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "hereditary hypercoagulability",
+      "unprovoked DVT",
+      "most common inherited thrombophilia",
+      "40-50% of cases",
+      "mutant factor V",
+      "arginine-to-glutamine substitution",
+      "activated protein C resistance",
+      "factor Va not inactivated"
+    ]
+  },
+  {
+    "id": "bloodlymph-23-2",
+    "title": "Prothrombin G20210A",
+    "course": "bloodlymph",
+    "brick_id": "23",
+    "brick_title": "Genetic Thrombotic Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "inherited clotting tendency",
+      "activates thrombosis",
+      "guanine-to-adenine at 20210",
+      "overproduction of factor II",
+      "high prothrombin levels",
+      "more fibrin formation",
+      "autosomal dominant",
+      "prothrombin G20210A"
+    ]
+  },
+  {
+    "id": "bloodlymph-23-3",
+    "title": "Protein C/S Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "23",
+    "brick_title": "Genetic Thrombotic Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "loss of clotting inhibitor",
+      "factors Va and VIIIa not inactivated",
+      "protein S is the cofactor",
+      "homozygotes severely affected",
+      "purpura fulminans in neonates",
+      "transient hypercoagulable state",
+      "warfarin-induced skin necrosis",
+      "protein C deficiency"
+    ]
+  },
+  {
+    "id": "bloodlymph-23-4",
+    "title": "Antithrombin Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "23",
+    "brick_title": "Genetic Thrombotic Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "lost coagulation inhibitor",
+      "inhibits thrombin and factor Xa",
+      "autosomal dominant",
+      "many different gene mutations",
+      "supplement antithrombin for surgery",
+      "treat with dabigatran",
+      "heparin resistance",
+      "antithrombin deficiency"
+    ]
+  }
+]

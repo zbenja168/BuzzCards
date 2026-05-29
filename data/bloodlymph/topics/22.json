@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-22-1",
+    "title": "Antiphospholipid Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "22",
+    "brick_title": "Antiphospholipid Antibody Syndrome",
+    "type": "disease",
+    "buzzwords": [
+      "autoimmune disorder",
+      "prothrombotic state",
+      "arterial and venous thrombi",
+      "recurrent DVT and PE",
+      "stroke in young patient",
+      "most common acquired thrombophilia",
+      "recurrent pregnancy loss",
+      "associated with SLE"
+    ]
+  },
+  {
+    "id": "bloodlymph-22-2",
+    "title": "Antiphospholipid Antibodies",
+    "course": "bloodlymph",
+    "brick_id": "22",
+    "brick_title": "Antiphospholipid Antibody Syndrome",
+    "type": "lab",
+    "buzzwords": [
+      "target cell membrane phospholipids",
+      "promote hypercoagulability",
+      "confirm on two occasions",
+      "12 weeks apart",
+      "lupus anticoagulant",
+      "anticardiolipin antibodies",
+      "anti-beta-2-glycoprotein-I",
+      "diagnostic triad"
+    ]
+  },
+  {
+    "id": "bloodlymph-22-3",
+    "title": "Lupus Anticoagulant Paradox",
+    "course": "bloodlymph",
+    "brick_id": "22",
+    "brick_title": "Antiphospholipid Antibody Syndrome",
+    "type": "lab",
+    "buzzwords": [
+      "prolonged aPTT",
+      "thrombotic in vivo",
+      "anticoagulant in vitro",
+      "low platelet count",
+      "low serum complement",
+      "binds phospholipid reagent",
+      "misleading clotting time",
+      "lupus anticoagulant"
+    ]
+  },
+  {
+    "id": "bloodlymph-22-4",
+    "title": "Two-Hit Theory",
+    "course": "bloodlymph",
+    "brick_id": "22",
+    "brick_title": "Antiphospholipid Antibody Syndrome",
+    "type": "physiology",
+    "buzzwords": [
+      "two components needed",
+      "antibodies alone insufficient",
+      "added hypercoagulability risk",
+      "smoking or surgery",
+      "pregnancy or malignancy",
+      "oral contraceptive trigger",
+      "second hit precipitates disease",
+      "two-hit model"
+    ]
+  },
+  {
+    "id": "bloodlymph-22-5",
+    "title": "APS Management",
+    "course": "bloodlymph",
+    "brick_id": "22",
+    "brick_title": "Antiphospholipid Antibody Syndrome",
+    "type": "drug",
+    "buzzwords": [
+      "anticoagulation",
+      "treat after thrombotic event",
+      "long-term therapy",
+      "initial heparin bridge",
+      "chronic warfarin",
+      "prevents rethrombosis",
+      "pregnancy uses LMWH",
+      "low-dose aspirin in pregnancy"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "bloodlymph-48-1",
+    "title": "Essential Thrombocythemia",
+    "course": "bloodlymph",
+    "brick_id": "48",
+    "brick_title": "Essential Thrombocythemia",
+    "type": "disease",
+    "buzzwords": [
+      "myeloproliferative neoplasm",
+      "often asymptomatic",
+      "headache, blurry vision",
+      "both clotting and bleeding",
+      "platelets over 400,000",
+      "marrow overproduces platelets",
+      "megakaryocyte proliferation",
+      "essential thrombocythemia"
+    ]
+  },
+  {
+    "id": "bloodlymph-48-2",
+    "title": "ET Symptoms",
+    "course": "bloodlymph",
+    "brick_id": "48",
+    "brick_title": "Essential Thrombocythemia",
+    "type": "physiology",
+    "buzzwords": [
+      "microthrombi cause symptoms",
+      "headache, dizziness, syncope",
+      "burning red extremities",
+      "stroke, DVT, MI",
+      "excess bleeding too",
+      "decreased platelet function",
+      "first-trimester fetal loss",
+      "erythromelalgia"
+    ]
+  },
+  {
+    "id": "bloodlymph-48-3",
+    "title": "JAK2 Mutation",
+    "course": "bloodlymph",
+    "brick_id": "48",
+    "brick_title": "Essential Thrombocythemia",
+    "type": "physiology",
+    "buzzwords": [
+      "acquired driver mutation",
+      "constitutive tyrosine kinase",
+      "JAK/STAT activation",
+      "drives stem cell growth",
+      "~50% of ET cases",
+      "CALR or MPL if negative",
+      "Janus kinase 2",
+      "JAK2 V617F"
+    ]
+  },
+  {
+    "id": "bloodlymph-48-4",
+    "title": "Peripheral Smear",
+    "course": "bloodlymph",
+    "brick_id": "48",
+    "brick_title": "Essential Thrombocythemia",
+    "type": "lab",
+    "buzzwords": [
+      "increased platelets",
+      "tiny to giant platelets",
+      "wide size variation",
+      "mean platelet volume varies",
+      "other cells normal",
+      "blood smear finding",
+      "platelet anisocytosis",
+      "anisocytosis of platelets"
+    ]
+  },
+  {
+    "id": "bloodlymph-48-5",
+    "title": "Bone Marrow Biopsy",
+    "course": "bloodlymph",
+    "brick_id": "48",
+    "brick_title": "Essential Thrombocythemia",
+    "type": "imaging",
+    "buzzwords": [
+      "typically normocellular",
+      "enlarged megakaryocytes",
+      "dominant megakaryocyte proliferation",
+      "late-stage fibrosis",
+      "may evolve to AML",
+      "done if no secondary cause",
+      "megakaryocyte hyperplasia",
+      "normocellular with big megakaryocytes"
+    ]
+  },
+  {
+    "id": "bloodlymph-48-6",
+    "title": "Secondary Thrombocytosis",
+    "course": "bloodlymph",
+    "brick_id": "48",
+    "brick_title": "Essential Thrombocythemia",
+    "type": "disease",
+    "buzzwords": [
+      "reactive platelet rise",
+      "more common than ET",
+      "exclude before diagnosing ET",
+      "infection, surgery, malignancy",
+      "iron deficiency anemia",
+      "chronic inflammation, splenectomy",
+      "pseudothrombocytosis miscounts",
+      "secondary thrombocytosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-48-7",
+    "title": "ET Treatment",
+    "course": "bloodlymph",
+    "brick_id": "48",
+    "brick_title": "Essential Thrombocythemia",
+    "type": "drug",
+    "buzzwords": [
+      "no cure, manage symptoms",
+      "reduce microvascular events",
+      "low-dose aspirin for all",
+      "cytoreduction if high-risk",
+      "anticoagulant after thrombosis",
+      "JAK inhibitor ruxolitinib",
+      "interferon alfa option",
+      "hydroxyurea"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-60-1",
+    "title": "Arbovirus Taxonomy",
+    "course": "bloodlymph",
+    "brick_id": "60",
+    "brick_title": "Arboviruses",
+    "type": "physiology",
+    "buzzwords": [
+      "arthropod-borne viruses",
+      "spread by mosquitoes/ticks",
+      "humans are reservoir",
+      "dead-end hosts exist",
+      "three major groups",
+      "flaviviruses icosahedral",
+      "bunyaviruses helical segmented",
+      "flavi means yellow"
+    ]
+  },
+  {
+    "id": "bloodlymph-60-2",
+    "title": "Yellow Fever Virus",
+    "course": "bloodlymph",
+    "brick_id": "60",
+    "brick_title": "Arboviruses",
+    "type": "disease",
+    "buzzwords": [
+      "mosquito-borne hemorrhagic fever",
+      "jaundice prominent",
+      "Aedes aegypti vector",
+      "biphasic course",
+      "toxic phase intoxication",
+      "black vomit",
+      "live attenuated vaccine",
+      "Councilman bodies"
+    ]
+  },
+  {
+    "id": "bloodlymph-60-3",
+    "title": "Dengue Virus",
+    "course": "bloodlymph",
+    "brick_id": "60",
+    "brick_title": "Arboviruses",
+    "type": "disease",
+    "buzzwords": [
+      "mosquito-borne hemorrhagic fever",
+      "retro-orbital pain",
+      "neutropenia thrombocytopenia",
+      "four serotypes",
+      "antibody-dependent enhancement",
+      "vascular leakage shock",
+      "breakbone fever",
+      "live recombinant vaccine"
+    ]
+  },
+  {
+    "id": "bloodlymph-60-4",
+    "title": "Chikungunya Virus",
+    "course": "bloodlymph",
+    "brick_id": "60",
+    "brick_title": "Arboviruses",
+    "type": "disease",
+    "buzzwords": [
+      "mosquito-borne febrile illness",
+      "abrupt high fever",
+      "lymphadenopathy rash",
+      "symmetric polyarthritis",
+      "debilitating joint pain",
+      "chronic arthritis persists",
+      "to be contorted",
+      "viral-like particle vaccine"
+    ]
+  },
+  {
+    "id": "bloodlymph-60-5",
+    "title": "Zika Virus",
+    "course": "bloodlymph",
+    "brick_id": "60",
+    "brick_title": "Arboviruses",
+    "type": "disease",
+    "buzzwords": [
+      "mosquito-borne flavivirus",
+      "often asymptomatic",
+      "conjunctivitis itchy rash",
+      "sexual transmission",
+      "vertical transplacental spread",
+      "Guillain-Barre sequela",
+      "congenital microcephaly",
+      "brain calcifications"
+    ]
+  }
+]

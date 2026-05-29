@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-28-1",
+    "title": "Platelet Count",
+    "course": "bloodlymph",
+    "brick_id": "28",
+    "brick_title": "Platelet Assays",
+    "type": "lab",
+    "buzzwords": [
+      "blood test",
+      "counts number",
+      "not function",
+      "normal still possible with bleeding",
+      "150,000-400,000/mm3",
+      "<10,000 spontaneous bleeding",
+      "thrombocytopenia vs thrombocytosis",
+      "manual smear if clumping"
+    ]
+  },
+  {
+    "id": "bloodlymph-28-2",
+    "title": "Platelet Morphology",
+    "course": "bloodlymph",
+    "brick_id": "28",
+    "brick_title": "Platelet Assays",
+    "type": "lab",
+    "buzzwords": [
+      "manual review",
+      "size shape granulation",
+      "blood smear under microscope",
+      "catches what analyzer misses",
+      "used less than count",
+      "normal in most diseases",
+      "gray platelets lack granules",
+      "giant platelets Bernard-Soulier"
+    ]
+  },
+  {
+    "id": "bloodlymph-28-3",
+    "title": "Platelet Function Assay",
+    "course": "bloodlymph",
+    "brick_id": "28",
+    "brick_title": "Platelet Assays",
+    "type": "lab",
+    "buzzwords": [
+      "preferred function test",
+      "in vitro",
+      "tests how platelets work",
+      "blood through aperture",
+      "measures plug formation",
+      "adhesion and aggregation",
+      "primary hemostasis",
+      "PFA-100"
+    ]
+  },
+  {
+    "id": "bloodlymph-28-4",
+    "title": "Bleeding Time",
+    "course": "bloodlymph",
+    "brick_id": "28",
+    "brick_title": "Platelet Assays",
+    "type": "lab",
+    "buzzwords": [
+      "older function test",
+      "in vivo",
+      "lancet pierces forearm",
+      "time cut stops bleeding",
+      "reference 2-9 minutes",
+      "hard to standardize",
+      "replaced by PFA-100",
+      "measures primary hemostasis"
+    ]
+  },
+  {
+    "id": "bloodlymph-28-5",
+    "title": "Aggregation Studies",
+    "course": "bloodlymph",
+    "brick_id": "28",
+    "brick_title": "Platelet Assays",
+    "type": "lab",
+    "buzzwords": [
+      "finds cause of dysfunction",
+      "platelet-rich plasma",
+      "turbidity drops as clumping",
+      "multiple agonists tested",
+      "collagen ADP epinephrine",
+      "pattern narrows diagnosis",
+      "no ristocetin response",
+      "von Willebrand Bernard-Soulier"
+    ]
+  }
+]

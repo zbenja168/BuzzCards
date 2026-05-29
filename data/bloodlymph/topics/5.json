@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bloodlymph-5-1",
+    "title": "Iron-Deficiency Anemia",
+    "course": "bloodlymph",
+    "brick_id": "5",
+    "brick_title": "Iron-Deficiency Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "most common nutritional deficiency",
+      "fatigue, pallor",
+      "pica",
+      "microcytic anemia",
+      "hypochromic RBCs",
+      "low ferritin, high TIBC",
+      "chronic blood loss",
+      "heavy menses or GI bleed"
+    ]
+  },
+  {
+    "id": "bloodlymph-5-2",
+    "title": "Hepcidin",
+    "course": "bloodlymph",
+    "brick_id": "5",
+    "brick_title": "Iron-Deficiency Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "iron regulatory hormone",
+      "made by hepatocytes",
+      "rises with inflammation",
+      "lowers serum iron",
+      "degrades ferroportin",
+      "sequesters iron in cells",
+      "erythropoietin suppresses it",
+      "drives anemia of chronic disease"
+    ]
+  },
+  {
+    "id": "bloodlymph-5-3",
+    "title": "Ferroportin",
+    "course": "bloodlymph",
+    "brick_id": "5",
+    "brick_title": "Iron-Deficiency Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "membrane iron transporter",
+      "exports iron to blood",
+      "found on enterocytes",
+      "also on macrophages",
+      "internalized when iron is high",
+      "target of hepcidin",
+      "degraded by hepcidin",
+      "blocks iron release when low"
+    ]
+  },
+  {
+    "id": "bloodlymph-5-4",
+    "title": "Ferritin",
+    "course": "bloodlymph",
+    "brick_id": "5",
+    "brick_title": "Iron-Deficiency Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "intracellular iron storage protein",
+      "reflects total body iron",
+      "liver stores bulk",
+      "neutralizes free radicals",
+      "acute phase reactant",
+      "rises in inflammation",
+      "low under 15 ng/mL",
+      "most diagnostic single test"
+    ]
+  },
+  {
+    "id": "bloodlymph-5-5",
+    "title": "Transferrin",
+    "course": "bloodlymph",
+    "brick_id": "5",
+    "brick_title": "Iron-Deficiency Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "blood iron transport protein",
+      "carries iron in plasma",
+      "increased in iron deficiency",
+      "measured as TIBC",
+      "high TIBC when iron low",
+      "binding sites mostly empty",
+      "low saturation percentage",
+      "saturation best reflects iron status"
+    ]
+  },
+  {
+    "id": "bloodlymph-5-6",
+    "title": "Koilonychia",
+    "course": "bloodlymph",
+    "brick_id": "5",
+    "brick_title": "Iron-Deficiency Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "physical exam finding",
+      "nail change",
+      "concave nail shape",
+      "spoon-shaped nails",
+      "seen with angular cheilitis",
+      "and atrophic glossitis",
+      "shiny smooth tongue",
+      "specific for iron deficiency"
+    ]
+  }
+]

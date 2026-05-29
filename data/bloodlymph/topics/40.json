@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bloodlymph-40-1",
+    "title": "CLL/SLL",
+    "course": "bloodlymph",
+    "brick_id": "40",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "most common adult leukemia",
+      "older adults",
+      "absolute lymphocytosis",
+      "peripheral lymphadenopathy",
+      "smudge cells",
+      "CD5 and CD23 positive",
+      "Richter transformation",
+      "ibrutinib treatment"
+    ]
+  },
+  {
+    "id": "bloodlymph-40-2",
+    "title": "Follicular Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "40",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "indolent low-grade NHL",
+      "waxing-waning lymphadenopathy",
+      "nodules lacking mantle zones",
+      "centrocytes and centroblasts",
+      "CD10 positive",
+      "BCL-2 overexpressed",
+      "t(14;18) translocation",
+      "transforms to DLBCL"
+    ]
+  },
+  {
+    "id": "bloodlymph-40-3",
+    "title": "MALT Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "40",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "chronic inflammation driven",
+      "marginal zone B cells",
+      "no lymphadenopathy",
+      "most often gastric",
+      "lymphoepithelial lesions",
+      "Sjögren and Hashimoto links",
+      "Helicobacter pylori association",
+      "cured by H. pylori eradication"
+    ]
+  },
+  {
+    "id": "bloodlymph-40-4",
+    "title": "Hairy Cell Leukemia",
+    "course": "bloodlymph",
+    "brick_id": "40",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "older males",
+      "no lymphadenopathy",
+      "massive splenomegaly",
+      "pancytopenia",
+      "bone marrow fibrosis",
+      "cytoplasmic hairy projections",
+      "BRAF mutation",
+      "cladribine treatment"
+    ]
+  }
+]

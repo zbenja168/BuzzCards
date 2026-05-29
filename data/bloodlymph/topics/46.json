@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bloodlymph-46-1",
+    "title": "Chronic Myeloid Leukemia",
+    "course": "bloodlymph",
+    "brick_id": "46",
+    "brick_title": "Chronic Myeloid Leukemia",
+    "type": "disease",
+    "buzzwords": [
+      "myeloproliferative neoplasm",
+      "neutrophil overproduction",
+      "leukocytosis with left shift",
+      "basophilia",
+      "splenomegaly",
+      "age 50 to 60",
+      "chronic then blast phase",
+      "ionizing radiation risk"
+    ]
+  },
+  {
+    "id": "bloodlymph-46-2",
+    "title": "Philadelphia Chromosome",
+    "course": "bloodlymph",
+    "brick_id": "46",
+    "brick_title": "Chronic Myeloid Leukemia",
+    "type": "physiology",
+    "buzzwords": [
+      "reciprocal translocation",
+      "constitutively active tyrosine kinase",
+      "drives cell proliferation",
+      "chromosomes 9 and 22",
+      "t(9;22)",
+      "BCR::ABL fusion gene",
+      "shortened chromosome 22",
+      "Philadelphia chromosome"
+    ]
+  },
+  {
+    "id": "bloodlymph-46-3",
+    "title": "CML Diagnosis",
+    "course": "bloodlymph",
+    "brick_id": "46",
+    "brick_title": "Chronic Myeloid Leukemia",
+    "type": "lab",
+    "buzzwords": [
+      "elevated myeloid WBC",
+      "blasts under 5 percent",
+      "low leukocyte alkaline phosphatase",
+      "distinguishes from leukemoid reaction",
+      "bone marrow hypercellular",
+      "peripheral smear staging",
+      "FISH and karyotype",
+      "RT-PCR for BCR::ABL"
+    ]
+  },
+  {
+    "id": "bloodlymph-46-4",
+    "title": "Tyrosine Kinase Inhibitors",
+    "course": "bloodlymph",
+    "brick_id": "46",
+    "brick_title": "Chronic Myeloid Leukemia",
+    "type": "drug",
+    "buzzwords": [
+      "first-line CML therapy",
+      "blocks BCR::ABL kinase",
+      "halts downstream signaling",
+      "first choice imatinib",
+      "imatinib resistance from kinase mutations",
+      "dasatinib causes pleural effusion",
+      "ponatinib causes thrombosis",
+      "-tinib drugs"
+    ]
+  }
+]

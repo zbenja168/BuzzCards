@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bloodlymph-1-1",
+    "title": "Hematopoiesis",
+    "course": "bloodlymph",
+    "brick_id": "1",
+    "brick_title": "Hematopoiesis",
+    "type": "physiology",
+    "buzzwords": [
+      "blood cell production",
+      "occurs in bone marrow",
+      "starts in yolk sac",
+      "liver mid-gestation",
+      "shifts to marrow postnatally",
+      "all cells from HSCs",
+      "myeloid and lymphoid lines",
+      "extramedullary in marrow failure"
+    ]
+  },
+  {
+    "id": "bloodlymph-1-2",
+    "title": "Erythropoiesis",
+    "course": "bloodlymph",
+    "brick_id": "1",
+    "brick_title": "Hematopoiesis",
+    "type": "physiology",
+    "buzzwords": [
+      "makes red blood cells",
+      "takes about a week",
+      "cell shrinks as it matures",
+      "cytoplasm reddens",
+      "nucleus condenses then ejected",
+      "reticulocyte retains RNA",
+      "RBC lives ~120 days",
+      "proerythroblast to erythrocyte"
+    ]
+  },
+  {
+    "id": "bloodlymph-1-3",
+    "title": "Erythropoietin",
+    "course": "bloodlymph",
+    "brick_id": "1",
+    "brick_title": "Hematopoiesis",
+    "type": "physiology",
+    "buzzwords": [
+      "stimulates red cell production",
+      "released by the kidney",
+      "triggered by hypoxia",
+      "rises up to 1000-fold",
+      "activates JAK/STAT signaling",
+      "low in chronic kidney disease",
+      "given as epoetin alfa",
+      "abused for endurance doping"
+    ]
+  },
+  {
+    "id": "bloodlymph-1-4",
+    "title": "Granulopoiesis",
+    "course": "bloodlymph",
+    "brick_id": "1",
+    "brick_title": "Hematopoiesis",
+    "type": "physiology",
+    "buzzwords": [
+      "white blood cell production",
+      "myeloid line origin",
+      "makes neutrophils eosinophils basophils",
+      "takes about two weeks",
+      "six neutrophil maturation stages",
+      "myeloblast is earliest stage",
+      "band precedes segmented neutrophil",
+      "G-CSF drug filgrastim"
+    ]
+  },
+  {
+    "id": "bloodlymph-1-5",
+    "title": "Megakaryocytes",
+    "course": "bloodlymph",
+    "brick_id": "1",
+    "brick_title": "Hematopoiesis",
+    "type": "physiology",
+    "buzzwords": [
+      "giant marrow cell",
+      "platelet precursor",
+      "50-100 micrometers wide",
+      "replicates DNA without dividing",
+      "undergoes endomitosis",
+      "sheds 1000-3000 platelets",
+      "platelets bud near sinusoids",
+      "platelets lack a nucleus"
+    ]
+  },
+  {
+    "id": "bloodlymph-1-6",
+    "title": "Thrombopoietin",
+    "course": "bloodlymph",
+    "brick_id": "1",
+    "brick_title": "Hematopoiesis",
+    "type": "physiology",
+    "buzzwords": [
+      "drives platelet production",
+      "made mostly by liver",
+      "stimulates megakaryocytes",
+      "cleared by circulating platelets",
+      "negative feedback on count",
+      "rises when platelets fall",
+      "no clinical recombinant form",
+      "mimetics eltrombopag romiplostim"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "bloodlymph-17-1",
+    "title": "Primary Hemostasis",
+    "course": "bloodlymph",
+    "brick_id": "17",
+    "brick_title": "Hemostasis",
+    "type": "physiology",
+    "buzzwords": [
+      "stops bleeding",
+      "temporary plug",
+      "vessel constriction first",
+      "endothelin release",
+      "platelet adhesion",
+      "GpIb binds collagen",
+      "thromboxane A2 recruits",
+      "GpIIb/IIIa binds fibrinogen"
+    ]
+  },
+  {
+    "id": "bloodlymph-17-2",
+    "title": "Coagulation Cascade",
+    "course": "bloodlymph",
+    "brick_id": "17",
+    "brick_title": "Hemostasis",
+    "type": "physiology",
+    "buzzwords": [
+      "secondary hemostasis",
+      "enzyme chain reaction",
+      "makes fibrin clot",
+      "extrinsic arm",
+      "intrinsic arm",
+      "common pathway converges",
+      "tissue factor triggers extrinsic",
+      "thrombin cleaves fibrinogen"
+    ]
+  },
+  {
+    "id": "bloodlymph-17-3",
+    "title": "Vitamin K and Calcium",
+    "course": "bloodlymph",
+    "brick_id": "17",
+    "brick_title": "Hemostasis",
+    "type": "physiology",
+    "buzzwords": [
+      "clotting cofactor",
+      "factors II VII IX X",
+      "gamma-carboxylation of glutamate",
+      "enables calcium binding",
+      "newborns deficient",
+      "EDTA chelates calcium",
+      "citrate used in banking",
+      "warfarin blocks it"
+    ]
+  },
+  {
+    "id": "bloodlymph-17-4",
+    "title": "Natural Anticoagulants",
+    "course": "bloodlymph",
+    "brick_id": "17",
+    "brick_title": "Hemostasis",
+    "type": "physiology",
+    "buzzwords": [
+      "limits clotting",
+      "endothelial antithrombotics",
+      "prostacyclin and nitric oxide",
+      "antithrombin inhibits thrombin",
+      "heparin enhances antithrombin",
+      "TFPI switches off extrinsic",
+      "protein C inactivates Va VIIIa",
+      "Factor V Leiden resists"
+    ]
+  },
+  {
+    "id": "bloodlymph-17-5",
+    "title": "Fibrinolytic System",
+    "course": "bloodlymph",
+    "brick_id": "17",
+    "brick_title": "Hemostasis",
+    "type": "physiology",
+    "buzzwords": [
+      "dissolves clots",
+      "clot remodeling",
+      "plasmin degrades fibrin",
+      "plasminogen precursor",
+      "releases D-dimers",
+      "D-dimer marks DVT",
+      "tPA activates plasminogen",
+      "tPA given after strokes"
+    ]
+  },
+  {
+    "id": "bloodlymph-17-6",
+    "title": "von Willebrand Disease",
+    "course": "bloodlymph",
+    "brick_id": "17",
+    "brick_title": "Hemostasis",
+    "type": "disease",
+    "buzzwords": [
+      "most common hereditary bleeding",
+      "often asymptomatic",
+      "mucocutaneous bleeding",
+      "nosebleeds heavy menses",
+      "defective platelet adhesion",
+      "normal PT",
+      "vWF activity test",
+      "deficient von Willebrand factor"
+    ]
+  },
+  {
+    "id": "bloodlymph-17-7",
+    "title": "Hemophilia",
+    "course": "bloodlymph",
+    "brick_id": "17",
+    "brick_title": "Hemostasis",
+    "type": "disease",
+    "buzzwords": [
+      "inherited factor deficiency",
+      "deep tissue bleeding",
+      "X-linked recessive",
+      "affects males",
+      "intrinsic pathway defect",
+      "prolonged aPTT normal PT",
+      "joint bleeds hemarthrosis",
+      "Factor VIII or IX missing"
+    ]
+  }
+]

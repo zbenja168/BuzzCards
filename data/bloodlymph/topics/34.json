@@ -1,0 +1,128 @@
+[
+  {
+    "id": "bloodlymph-34-1",
+    "title": "Benign Lymphadenopathy",
+    "course": "bloodlymph",
+    "brick_id": "34",
+    "brick_title": "Benign Lymphadenopathies",
+    "type": "disease",
+    "buzzwords": [
+      "enlarged lymph nodes",
+      "nodes >1 cm",
+      "fever may occur",
+      "non-neoplastic causes",
+      "soft and freely moveable",
+      "smooth and tender",
+      "infections, drugs, autoimmune",
+      "more common than malignancy"
+    ]
+  },
+  {
+    "id": "bloodlymph-34-2",
+    "title": "Neoplastic Nodes",
+    "course": "bloodlymph",
+    "brick_id": "34",
+    "brick_title": "Benign Lymphadenopathies",
+    "type": "disease",
+    "buzzwords": [
+      "malignant node features",
+      "firm nodes",
+      "painless",
+      "immobile",
+      "fixed to tissue",
+      "lymphoma or metastasis",
+      "weight loss red flag",
+      "prompts cancer workup"
+    ]
+  },
+  {
+    "id": "bloodlymph-34-3",
+    "title": "Virchow Node",
+    "course": "bloodlymph",
+    "brick_id": "34",
+    "brick_title": "Benign Lymphadenopathies",
+    "type": "anatomy",
+    "buzzwords": [
+      "node location clue",
+      "drains the abdomen",
+      "via thoracic duct",
+      "suggests gastric cancer",
+      "right side: chest malignancy",
+      "hilar nodes: lung infection",
+      "hilar adenopathy: sarcoidosis",
+      "left supraclavicular node"
+    ]
+  },
+  {
+    "id": "bloodlymph-34-4",
+    "title": "Benign Adenopathy Etiology",
+    "course": "bloodlymph",
+    "brick_id": "34",
+    "brick_title": "Benign Lymphadenopathies",
+    "type": "physiology",
+    "buzzwords": [
+      "infection, drugs, autoimmune",
+      "EBV mononucleosis",
+      "HIV and CMV generalized",
+      "TB regional or generalized",
+      "RA and SLE adenopathy",
+      "phenytoin-induced nodes",
+      "serum-sickness hypersensitivity",
+      "live vaccines cause adenopathy"
+    ]
+  },
+  {
+    "id": "bloodlymph-34-5",
+    "title": "Follicular Hyperplasia",
+    "course": "bloodlymph",
+    "brick_id": "34",
+    "brick_title": "Benign Lymphadenopathies",
+    "type": "physiology",
+    "buzzwords": [
+      "benign nodal hyperplasia",
+      "B-cell proliferation",
+      "follicles enlarge",
+      "primary become secondary follicles",
+      "germinal centers form",
+      "tingible body macrophages",
+      "mantle zone preserved",
+      "response to immune stimulus"
+    ]
+  },
+  {
+    "id": "bloodlymph-34-6",
+    "title": "Paracortical Hyperplasia",
+    "course": "bloodlymph",
+    "brick_id": "34",
+    "brick_title": "Benign Lymphadenopathies",
+    "type": "physiology",
+    "buzzwords": [
+      "benign nodal hyperplasia",
+      "T-cell proliferation",
+      "paracortex expands",
+      "interfollicular areas widen",
+      "plasma cells and eosinophils",
+      "viral infection response",
+      "post-vaccination reaction",
+      "drug reaction pattern"
+    ]
+  },
+  {
+    "id": "bloodlymph-34-7",
+    "title": "Lymph Node Biopsy",
+    "course": "bloodlymph",
+    "brick_id": "34",
+    "brick_title": "Benign Lymphadenopathies",
+    "type": "lab",
+    "buzzwords": [
+      "diagnostic workup",
+      "excludes malignancy",
+      "history and exam first",
+      "needle or open surgical",
+      "indicated with cancer signs",
+      "observe diffuse adenopathy 4 weeks",
+      "flow cytometry and FISH added",
+      "sample neck or supraclavicular node"
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "bloodlymph-33-1",
+    "title": "WBC Count & Differential",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "lab",
+    "buzzwords": [
+      "total WBCs per mm3",
+      "automated analyzer",
+      "5-part differential",
+      "percent and absolute",
+      "absolute counts matter most",
+      "abnormal cells flagged",
+      "blood smear confirms morphology",
+      "neutrophils 57-67%"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-2",
+    "title": "Benign Neutrophilia",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "elevated WBC count",
+      "neutrophils >7700/mm3",
+      "bacterial infection or inflammation",
+      "stress and smoking",
+      "demargination raises count",
+      "corticosteroid effect",
+      "mature or immature types",
+      "G-CSF driven"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-3",
+    "title": "Leukemoid Reaction",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "marked neutrophilia",
+      "not cancer",
+      "left shift",
+      "bands and metamyelocytes",
+      "resolves after infection treated",
+      "high LAP score",
+      "mimics CML",
+      "no basophilia"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-4",
+    "title": "Leukoerythroblastic Reaction",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "immature cells in blood",
+      "nucleated red cells",
+      "immature neutrophils too",
+      "severe anemia response",
+      "teardrop cells",
+      "marrow infiltration sign",
+      "myelophthisic process",
+      "fibrosis crowds marrow"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-5",
+    "title": "Toxic Neutrophil Changes",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "lab",
+    "buzzwords": [
+      "morphologic infection markers",
+      "darker primary granules",
+      "clear cytoplasmic spaces",
+      "blue-gray inclusions",
+      "vacuolization in sepsis",
+      "toxic granulation",
+      "remnants of rough ER",
+      "Dohle bodies"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-6",
+    "title": "Benign Lymphocytosis",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "lymphocytes >4000/mm3",
+      "viral illness",
+      "reactive lymphocytes",
+      "whooping cough",
+      "wide normal in children",
+      "fried-egg Downey cells",
+      "infectious mononucleosis",
+      "EBV"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-7",
+    "title": "Eosinophilia",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "eosinophils >500/mm3",
+      "allergies",
+      "drug reactions",
+      "asthma",
+      "parasitic worm infection",
+      "bilobed nucleus",
+      "red-orange granules",
+      "helminthic disease"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-8",
+    "title": "Basophilia",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "rarest benign leukocytosis",
+      "basophils >500/mm3",
+      "allergies",
+      "hypothyroidism",
+      "dark blue granules",
+      "myeloproliferative disorders",
+      "chronic myeloid leukemia",
+      "polycythemia vera"
+    ]
+  }
+]

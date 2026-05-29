@@ -1,0 +1,128 @@
+[
+  {
+    "id": "bloodlymph-4-1",
+    "title": "Definitions of Anemia",
+    "course": "bloodlymph",
+    "brick_id": "4",
+    "brick_title": "History-Taking Approach to Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "sign, not a diagnosis",
+      "indicates underlying disease",
+      "two definitions",
+      "low oxygen-carrying capacity",
+      "physiologic definition",
+      "Hgb below reference range",
+      "clinical definition",
+      "uses age and sex"
+    ]
+  },
+  {
+    "id": "bloodlymph-4-2",
+    "title": "Dilutional Anemia",
+    "course": "bloodlymph",
+    "brick_id": "4",
+    "brick_title": "History-Taking Approach to Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "falsely low hemoglobin",
+      "increased plasma volume",
+      "normal RBC mass",
+      "Hgb is a ratio",
+      "WBC and platelets also drop",
+      "seen in pregnancy",
+      "fluid resuscitation cause",
+      "dilutional anemia"
+    ]
+  },
+  {
+    "id": "bloodlymph-4-3",
+    "title": "Blood Loss History",
+    "course": "bloodlymph",
+    "brick_id": "4",
+    "brick_title": "History-Taking Approach to Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "common cause of anemia",
+      "GI bleeding source",
+      "menstrual blood loss",
+      "leads to iron deficiency",
+      "black tarry stools",
+      "blood in urine",
+      "200 mg iron per donation",
+      "melena and hematuria"
+    ]
+  },
+  {
+    "id": "bloodlymph-4-4",
+    "title": "Inherited vs Acquired",
+    "course": "bloodlymph",
+    "brick_id": "4",
+    "brick_title": "History-Taking Approach to Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "family history clue",
+      "early age at onset",
+      "prior anemia treatment",
+      "childhood transfusions",
+      "ethnic background matters",
+      "malaria resistance trait",
+      "ask about relatives",
+      "inherited vs acquired"
+    ]
+  },
+  {
+    "id": "bloodlymph-4-5",
+    "title": "Hemolysis Clues",
+    "course": "bloodlymph",
+    "brick_id": "4",
+    "brick_title": "History-Taking Approach to Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "premature RBC destruction",
+      "jaundice",
+      "elevated indirect bilirubin",
+      "dark urine",
+      "hemoglobinuria",
+      "splenomegaly",
+      "spleen is hemolysis site",
+      "scleral icterus"
+    ]
+  },
+  {
+    "id": "bloodlymph-4-6",
+    "title": "Drugs Causing Anemia",
+    "course": "bloodlymph",
+    "brick_id": "4",
+    "brick_title": "History-Taking Approach to Anemia",
+    "type": "drug",
+    "buzzwords": [
+      "complete drug history",
+      "marrow suppression",
+      "NSAIDs cause GI bleed",
+      "oxidant hemolysis",
+      "folate antagonists",
+      "chemotherapy aplasia",
+      "primaquine and dapsone",
+      "methotrexate and trimethoprim"
+    ]
+  },
+  {
+    "id": "bloodlymph-4-7",
+    "title": "Systemic Illness",
+    "course": "bloodlymph",
+    "brick_id": "4",
+    "brick_title": "History-Taking Approach to Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "non-hematologic cause",
+      "chronic inflammation",
+      "underlying infection",
+      "renal disease",
+      "liver disease",
+      "endocrine disorders",
+      "malignancy association",
+      "anemia of chronic disease"
+    ]
+  }
+]

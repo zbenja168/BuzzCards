@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-14-1",
+    "title": "Warm AHA",
+    "course": "bloodlymph",
+    "brick_id": "14",
+    "brick_title": "Autoimmune Hemolytic Anemias",
+    "type": "disease",
+    "buzzwords": [
+      "autoimmune hemolysis",
+      "antibodies vs own RBCs",
+      "active at body temperature",
+      "extravascular hemolysis",
+      "splenomegaly",
+      "spherocytes on smear",
+      "IgG-mediated",
+      "drug-induced (penicillins)"
+    ]
+  },
+  {
+    "id": "bloodlymph-14-2",
+    "title": "Cold AHA",
+    "course": "bloodlymph",
+    "brick_id": "14",
+    "brick_title": "Autoimmune Hemolytic Anemias",
+    "type": "disease",
+    "buzzwords": [
+      "autoimmune hemolysis",
+      "worse in the cold",
+      "acrocyanosis of extremities",
+      "complement activation",
+      "intravascular hemolysis",
+      "Mycoplasma, mononucleosis trigger",
+      "cold agglutinins",
+      "IgM pentamer-mediated"
+    ]
+  },
+  {
+    "id": "bloodlymph-14-3",
+    "title": "Direct Coombs Test",
+    "course": "bloodlymph",
+    "brick_id": "14",
+    "brick_title": "Autoimmune Hemolytic Anemias",
+    "type": "lab",
+    "buzzwords": [
+      "detects RBC-bound antibody",
+      "uses antihuman immunoglobulin",
+      "agglutinates coated RBCs",
+      "positive in AHA",
+      "differentiates autoimmune hemolysis",
+      "detects warm and cold",
+      "direct antiglobulin test",
+      "DAT"
+    ]
+  },
+  {
+    "id": "bloodlymph-14-4",
+    "title": "PNH",
+    "course": "bloodlymph",
+    "brick_id": "14",
+    "brick_title": "Autoimmune Hemolytic Anemias",
+    "type": "disease",
+    "buzzwords": [
+      "clonal stem cell disorder",
+      "DAT-negative hemolysis",
+      "morning red urine",
+      "venous thrombosis risk",
+      "pancytopenia, aplastic anemia",
+      "missing GPI anchors",
+      "absent CD55 and CD59",
+      "eculizumab treatment"
+    ]
+  },
+  {
+    "id": "bloodlymph-14-5",
+    "title": "PCH",
+    "course": "bloodlymph",
+    "brick_id": "14",
+    "brick_title": "Autoimmune Hemolytic Anemias",
+    "type": "disease",
+    "buzzwords": [
+      "childhood hemolysis after virus",
+      "intravascular hemolysis",
+      "biphasic antibody",
+      "binds cold, lyses warm",
+      "targets P antigen",
+      "self-limited, supportive care",
+      "Donath-Landsteiner antibody",
+      "paroxysmal cold hemoglobinuria"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "bloodlymph-55-1",
+    "title": "Thymus",
+    "course": "bloodlymph",
+    "brick_id": "55",
+    "brick_title": "Structure, Function, and Disorders of the Thymus",
+    "type": "anatomy",
+    "buzzwords": [
+      "lymphoid organ",
+      "anterior superior mediastinum",
+      "bilobed and encapsulated",
+      "behind the sternum",
+      "largest in neonates",
+      "involutes with age",
+      "third pharyngeal pouch",
+      "matures T cells"
+    ]
+  },
+  {
+    "id": "bloodlymph-55-2",
+    "title": "Thymic Histology",
+    "course": "bloodlymph",
+    "brick_id": "55",
+    "brick_title": "Structure, Function, and Disorders of the Thymus",
+    "type": "anatomy",
+    "buzzwords": [
+      "packed with thymocytes",
+      "septa divide lobules",
+      "dark basophilic outer cortex",
+      "paler inner medulla",
+      "epithelial reticular cells",
+      "keratinized concentric whorls",
+      "function unknown",
+      "Hassall corpuscles"
+    ]
+  },
+  {
+    "id": "bloodlymph-55-3",
+    "title": "Blood-Thymus Barrier",
+    "course": "bloodlymph",
+    "brick_id": "55",
+    "brick_title": "Structure, Function, and Disorders of the Thymus",
+    "type": "physiology",
+    "buzzwords": [
+      "blocks circulating antigens",
+      "protects T-cell selection",
+      "tight junctions",
+      "epithelial reticular scaffold",
+      "two-part barrier",
+      "nonfenestrated capillaries",
+      "no fenestrae",
+      "ERCs present antigen"
+    ]
+  },
+  {
+    "id": "bloodlymph-55-4",
+    "title": "T-Cell Selection",
+    "course": "bloodlymph",
+    "brick_id": "55",
+    "brick_title": "Structure, Function, and Disorders of the Thymus",
+    "type": "physiology",
+    "buzzwords": [
+      "precursors from marrow",
+      "cortex then medulla",
+      "self-antigen presentation",
+      "positive selection in cortex",
+      "must recognize self-MHC",
+      "negative selection in medulla",
+      "removes autoreactive cells",
+      "exits as CD4 or CD8"
+    ]
+  },
+  {
+    "id": "bloodlymph-55-5",
+    "title": "Thymoma",
+    "course": "bloodlymph",
+    "brick_id": "55",
+    "brick_title": "Structure, Function, and Disorders of the Thymus",
+    "type": "disease",
+    "buzzwords": [
+      "thymic mass",
+      "anterior mediastinal mass",
+      "often asymptomatic",
+      "adults over 40",
+      "may cause SVC syndrome",
+      "potentially curable",
+      "associated myasthenia gravis",
+      "anti-AChR antibodies"
+    ]
+  },
+  {
+    "id": "bloodlymph-55-6",
+    "title": "DiGeorge Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "55",
+    "brick_title": "Structure, Function, and Disorders of the Thymus",
+    "type": "disease",
+    "buzzwords": [
+      "congenital thymic hypoplasia",
+      "low T-cell counts",
+      "neural crest failure",
+      "3rd and 4th pouches",
+      "hypoparathyroidism",
+      "congenital heart disease",
+      "chromosome 22 deletion",
+      "recurrent infections"
+    ]
+  },
+  {
+    "id": "bloodlymph-55-7",
+    "title": "Wiskott-Aldrich Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "55",
+    "brick_title": "Structure, Function, and Disorders of the Thymus",
+    "type": "disease",
+    "buzzwords": [
+      "X-linked recessive",
+      "hypoplastic thymus",
+      "recurrent infections",
+      "eczema",
+      "thrombocytopenia",
+      "small platelets",
+      "triad disorder",
+      "WAS gene mutation"
+    ]
+  }
+]

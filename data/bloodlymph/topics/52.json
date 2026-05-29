@@ -1,0 +1,182 @@
+[
+  {
+    "id": "bloodlymph-52-1",
+    "title": "Bone Marrow Source",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "traditional HSC source",
+      "harvested under anesthesia",
+      "large-bore needles",
+      "aspirated from bone",
+      "very safe procedure",
+      "minimal side effects",
+      "posterior iliac crest",
+      "marrow harvesting"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-2",
+    "title": "Peripheral Blood Source",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "requires mobilization",
+      "normally rare in blood",
+      "collected via apheresis",
+      "measured as CD34+ cells",
+      "side effect: bone pain",
+      "thrombopoietin, IL-3",
+      "CXCR4 antagonist plerixafor",
+      "G-CSF mobilization"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-3",
+    "title": "Umbilical Cord Blood",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "alternative donor option",
+      "less strict HLA matching",
+      "helps uncommon HLA haplotypes",
+      "helps mixed ethnicity patients",
+      "collected at delivery",
+      "small HSC number",
+      "increased infection risk",
+      "from placental vessels"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-4",
+    "title": "Autologous Transplant",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "uses patient's own cells",
+      "rescues marrow after chemo",
+      "no graft-versus-host disease",
+      "myeloablative conditioning",
+      "treats multiple myeloma",
+      "treats lymphomas",
+      "no immune tumor effect",
+      "self-donor"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-5",
+    "title": "Allogeneic Transplant",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "donor cells from another person",
+      "related or unrelated donor",
+      "two anticancer mechanisms",
+      "treats aplastic anemia",
+      "treats acute leukemias",
+      "risk of GVHD",
+      "donor immune attacks tumor",
+      "graft-versus-tumor effect"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-6",
+    "title": "Conditioning Regimen",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "given before infusion",
+      "high-intensity chemotherapy",
+      "with or without radiation",
+      "wipes out the marrow",
+      "immunosuppresses recipient",
+      "eliminates tumor",
+      "days prior to Day 0",
+      "myeloablative"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-7",
+    "title": "Engraftment",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "donor cells establish marrow",
+      "begins new blood production",
+      "needs ABO HLA matching",
+      "typically within 21 days",
+      "three consecutive days",
+      "platelets recover variably",
+      "failure causes low counts",
+      "neutrophils exceed 0.5x10^9/L"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-8",
+    "title": "Graft Failure",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "disease",
+    "buzzwords": [
+      "lack of engraftment",
+      "low donor cell yield",
+      "primary versus secondary",
+      "primary: never reaches threshold",
+      "secondary: counts then drop",
+      "caused by rejection",
+      "immune-mediated by host cells",
+      "fails beyond 28 days"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-9",
+    "title": "Oral Mucositis",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "disease",
+    "buzzwords": [
+      "regimen-related toxicity",
+      "from high-intensity conditioning",
+      "inflammation of the mouth",
+      "dry mouth",
+      "sore mouth",
+      "mouth ulcers",
+      "managed with saline rinses",
+      "most transplant recipients"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-10",
+    "title": "Graft-Versus-Host Disease",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "disease",
+    "buzzwords": [
+      "potentially fatal complication",
+      "occurs in allogeneic transplant",
+      "donor T cells attack recipient",
+      "affects skin liver gut",
+      "diarrhea and abdominal pain",
+      "hepatosplenomegaly",
+      "maculopapular rash",
+      "GVHD"
+    ]
+  }
+]

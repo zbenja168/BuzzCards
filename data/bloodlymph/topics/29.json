@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-29-1",
+    "title": "TTP",
+    "course": "bloodlymph",
+    "brick_id": "29",
+    "brick_title": "Thrombotic Microangiopathies",
+    "type": "disease",
+    "buzzwords": [
+      "young adults",
+      "MAHA",
+      "thrombocytopenia",
+      "neurologic symptoms",
+      "pentad",
+      "ADAMTS13 deficiency",
+      "treat with plasmapheresis",
+      "fewer than 5% full pentad"
+    ]
+  },
+  {
+    "id": "bloodlymph-29-2",
+    "title": "HUS",
+    "course": "bloodlymph",
+    "brick_id": "29",
+    "brick_title": "Thrombotic Microangiopathies",
+    "type": "disease",
+    "buzzwords": [
+      "young children",
+      "bloody diarrhea precedes",
+      "prominent renal failure",
+      "no neurologic findings",
+      "fever uncommon",
+      "supportive care",
+      "Shiga toxin",
+      "E. coli O157:H7"
+    ]
+  },
+  {
+    "id": "bloodlymph-29-3",
+    "title": "Schistocytes",
+    "course": "bloodlymph",
+    "brick_id": "29",
+    "brick_title": "Thrombotic Microangiopathies",
+    "type": "lab",
+    "buzzwords": [
+      "fragmented RBCs",
+      "sheared by microthrombi",
+      "marker of MAHA",
+      "never artifactual",
+      "small, no central pallor",
+      "pointy edges",
+      "helmet cells",
+      "triangulocytes"
+    ]
+  },
+  {
+    "id": "bloodlymph-29-4",
+    "title": "ADAMTS13",
+    "course": "bloodlymph",
+    "brick_id": "29",
+    "brick_title": "Thrombotic Microangiopathies",
+    "type": "physiology",
+    "buzzwords": [
+      "metalloproteinase",
+      "cleaves vWF multimers",
+      "prevents excess clotting",
+      "deficiency causes TTP",
+      "autoantibody inhibits it",
+      "activity under 10%",
+      "spares ultra-large vWF",
+      "von Willebrand factor protease"
+    ]
+  },
+  {
+    "id": "bloodlymph-29-5",
+    "title": "DIC",
+    "course": "bloodlymph",
+    "brick_id": "29",
+    "brick_title": "Thrombotic Microangiopathies",
+    "type": "disease",
+    "buzzwords": [
+      "secondary cause of TM",
+      "clotting and bleeding",
+      "coagulation cascade overactivated",
+      "elevated D-dimers",
+      "prolonged PT and aPTT",
+      "consumes clotting factors",
+      "sepsis or trauma trigger",
+      "abnormal coagulation studies"
+    ]
+  }
+]

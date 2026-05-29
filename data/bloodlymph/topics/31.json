@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-31-1",
+    "title": "Log-Cell Kill Hypothesis",
+    "course": "bloodlymph",
+    "brick_id": "31",
+    "brick_title": "Principles of Chemotherapy",
+    "type": "physiology",
+    "buzzwords": [
+      "kills fixed fraction",
+      "constant proportion killed",
+      "first-order kinetics",
+      "multiple cycles required",
+      "never eradicates all cells",
+      "logarithmic tumor reduction",
+      "best for rapidly dividing tumors",
+      "log-cell kill"
+    ]
+  },
+  {
+    "id": "bloodlymph-31-2",
+    "title": "Chemotherapy Drug Classes",
+    "course": "bloodlymph",
+    "brick_id": "31",
+    "brick_title": "Principles of Chemotherapy",
+    "type": "drug",
+    "buzzwords": [
+      "destroys proliferating cells",
+      "cytotoxic chemotherapy",
+      "molecularly targeted therapy",
+      "blocks signal transduction",
+      "endocrine therapy",
+      "immunotherapy class",
+      "methotrexate, imatinib examples",
+      "tamoxifen for ER+ breast"
+    ]
+  },
+  {
+    "id": "bloodlymph-31-3",
+    "title": "Timing of Chemotherapy",
+    "course": "bloodlymph",
+    "brick_id": "31",
+    "brick_title": "Principles of Chemotherapy",
+    "type": "physiology",
+    "buzzwords": [
+      "classified by timing",
+      "induction is first-line",
+      "before surgery shrinks tumor",
+      "after surgery improves outcomes",
+      "neoadjuvant therapy",
+      "adjuvant therapy",
+      "salvage after failures",
+      "shrinks micro-metastases"
+    ]
+  },
+  {
+    "id": "bloodlymph-31-4",
+    "title": "Chemotherapy Resistance",
+    "course": "bloodlymph",
+    "brick_id": "31",
+    "brick_title": "Principles of Chemotherapy",
+    "type": "physiology",
+    "buzzwords": [
+      "drug combinations combat it",
+      "reduced drug uptake",
+      "upregulated DNA repair",
+      "increased glutathione expression",
+      "altered DNA methylation",
+      "drug efflux pumps",
+      "induced by IL-6",
+      "multidrug resistance protein"
+    ]
+  },
+  {
+    "id": "bloodlymph-31-5",
+    "title": "Chemotherapy Adverse Effects",
+    "course": "bloodlymph",
+    "brick_id": "31",
+    "brick_title": "Principles of Chemotherapy",
+    "type": "physiology",
+    "buzzwords": [
+      "harms healthy dividing cells",
+      "myelosuppression",
+      "nausea and vomiting",
+      "doxorubicin cardiotoxicity",
+      "bleomycin pulmonary fibrosis",
+      "vinca peripheral neuropathy",
+      "cytarabine keratitis",
+      "cyclophosphamide hemorrhagic cystitis"
+    ]
+  }
+]

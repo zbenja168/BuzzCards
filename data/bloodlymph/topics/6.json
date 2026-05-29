@@ -1,0 +1,56 @@
+[
+  {
+    "id": "bloodlymph-6-1",
+    "title": "Thalassemias",
+    "course": "bloodlymph",
+    "brick_id": "6",
+    "brick_title": "Thalassemias",
+    "type": "disease",
+    "buzzwords": [
+      "inherited anemia",
+      "quantitative hemoglobinopathy",
+      "reduced globin chains",
+      "microcytic hypochromic anemia",
+      "ineffective erythropoiesis",
+      "unbalanced globin precipitates",
+      "alpha or beta chain deficit",
+      "thalassemia"
+    ]
+  },
+  {
+    "id": "bloodlymph-6-2",
+    "title": "Alpha-Thalassemia",
+    "course": "bloodlymph",
+    "brick_id": "6",
+    "brick_title": "Thalassemias",
+    "type": "disease",
+    "buzzwords": [
+      "decreased alpha chains",
+      "gene deletions",
+      "four alpha genes",
+      "chromosome 16",
+      "excess beta tetramers",
+      "fetal Hb Barts",
+      "four-deletion hydrops fetalis",
+      "hemoglobin H disease"
+    ]
+  },
+  {
+    "id": "bloodlymph-6-3",
+    "title": "Beta-Thalassemia",
+    "course": "bloodlymph",
+    "brick_id": "6",
+    "brick_title": "Thalassemias",
+    "type": "disease",
+    "buzzwords": [
+      "decreased beta chains",
+      "point mutations",
+      "chromosome 11",
+      "elevated HbA2",
+      "elevated HbF",
+      "transfusion-dependent major",
+      "Erlenmeyer flask long bones",
+      "crew-cut skull frontal bossing"
+    ]
+  }
+]

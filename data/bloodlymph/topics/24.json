@@ -1,0 +1,146 @@
+[
+  {
+    "id": "bloodlymph-24-1",
+    "title": "Factor V Leiden",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "hereditary hypercoagulability",
+      "overactive clotting",
+      "most common thrombophilia",
+      "single point mutation",
+      "cascade cannot turn off",
+      "resistant to protein C",
+      "factor V uncleavable",
+      "factor V Leiden"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-2",
+    "title": "Prothrombin Mutation",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "rare hereditary thrombophilia",
+      "overactive clotting",
+      "excess clotting factor made",
+      "too much thrombin",
+      "excess fibrin formation",
+      "factor II gene mutation",
+      "prothrombin G20210A",
+      "prothrombin gene mutation"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-3",
+    "title": "Antithrombin Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "hereditary thrombophilia",
+      "lost clotting inhibitor",
+      "cascade hard to shut off",
+      "acts on most factors",
+      "shuts down cascade broadly",
+      "heparin resistance",
+      "low antithrombin levels",
+      "antithrombin deficiency"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-4",
+    "title": "Protein C/S Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "hereditary thrombophilia",
+      "lost clotting inhibitor",
+      "inactivates factors Va, VIIIa",
+      "cascade hard to shut off",
+      "warfarin-induced skin necrosis risk",
+      "two separate gene defects",
+      "low protein C or S",
+      "protein C and S deficiency"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-5",
+    "title": "Antiphospholipid Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "acquired thrombophilia",
+      "main acquired thrombotic disorder",
+      "recurrent miscarriage",
+      "antibodies to phospholipids",
+      "damages vascular endothelium",
+      "activates platelets",
+      "linked to lupus",
+      "antiphospholipid antibody syndrome"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-6",
+    "title": "Warfarin",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "drug",
+    "buzzwords": [
+      "oral anticoagulant",
+      "vitamin K antagonist",
+      "monitored with PT/INR",
+      "delayed onset, long half-life",
+      "early hypercoagulable state",
+      "teratogen, avoid pregnancy",
+      "metabolized by CYP2C9",
+      "warfarin skin necrosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-7",
+    "title": "Heparin",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "drug",
+    "buzzwords": [
+      "parenteral anticoagulant",
+      "activates antithrombin",
+      "inhibits factors Xa and IIa",
+      "monitored with PTT or anti-Xa",
+      "reversed by protamine sulfate",
+      "UFH versus LMWH",
+      "LMWH more selective for Xa",
+      "heparin-induced thrombocytopenia"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-8",
+    "title": "Direct Thrombin Inhibitors",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "drug",
+    "buzzwords": [
+      "anticoagulant drug class",
+      "inhibits thrombin directly",
+      "no cofactor needed",
+      "alternative in HITT",
+      "cleared by liver",
+      "bleeding main side effect",
+      "idarucizumab reverses dabigatran",
+      "dabigatran, argatroban, bivalirudin"
+    ]
+  }
+]

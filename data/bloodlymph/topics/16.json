@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-16-1",
+    "title": "Prothrombin Time",
+    "course": "bloodlymph",
+    "brick_id": "16",
+    "brick_title": "Coagulation Assays",
+    "type": "lab",
+    "buzzwords": [
+      "measures clotting time",
+      "normal 11-15 seconds",
+      "add tissue factor reagent",
+      "extrinsic and common pathways",
+      "factor VII activity",
+      "monitors warfarin",
+      "reported as INR",
+      "INR normal 0.8-1.2"
+    ]
+  },
+  {
+    "id": "bloodlymph-16-2",
+    "title": "Partial Thromboplastin Time",
+    "course": "bloodlymph",
+    "brick_id": "16",
+    "brick_title": "Coagulation Assays",
+    "type": "lab",
+    "buzzwords": [
+      "measures clotting time",
+      "no tissue factor added",
+      "add phospholipid plus activator",
+      "intrinsic and common pathways",
+      "silica or kaolin activator",
+      "monitors heparin therapy",
+      "aPTT normal 25-40 sec",
+      "prolonged in hemophilia"
+    ]
+  },
+  {
+    "id": "bloodlymph-16-3",
+    "title": "Thrombin Time",
+    "course": "bloodlymph",
+    "brick_id": "16",
+    "brick_title": "Coagulation Assays",
+    "type": "lab",
+    "buzzwords": [
+      "rarely used assay",
+      "add thrombin to plasma",
+      "very end of cascade",
+      "fibrinogen to fibrin step",
+      "normal 12-14 seconds",
+      "detects fibrinogen deficiency",
+      "detects fibrinogen mutation",
+      "common pathway terminal step"
+    ]
+  },
+  {
+    "id": "bloodlymph-16-4",
+    "title": "Mixing Study",
+    "course": "bloodlymph",
+    "brick_id": "16",
+    "brick_title": "Coagulation Assays",
+    "type": "lab",
+    "buzzwords": [
+      "evaluates prolonged PTT",
+      "mix with normal plasma",
+      "rerun the PTT",
+      "corrects means factor deficiency",
+      "stays prolonged means inhibitor",
+      "detects circulating antibody",
+      "identifies lupus anticoagulant",
+      "transient correction means inhibitor"
+    ]
+  },
+  {
+    "id": "bloodlymph-16-5",
+    "title": "D-dimer Assay",
+    "course": "bloodlymph",
+    "brick_id": "16",
+    "brick_title": "Coagulation Assays",
+    "type": "lab",
+    "buzzwords": [
+      "measures clot breakdown",
+      "marker of fibrinolysis",
+      "plasmin degrades fibrin",
+      "highly sensitive low specificity",
+      "elevated in DVT and PE",
+      "elevated in DIC",
+      "negative rules out thrombus",
+      "cross-linked fibrin fragment"
+    ]
+  }
+]

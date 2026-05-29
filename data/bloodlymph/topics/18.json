@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bloodlymph-18-1",
+    "title": "ABO Blood Group",
+    "course": "bloodlymph",
+    "brick_id": "18",
+    "brick_title": "Transfusion Medicine",
+    "type": "physiology",
+    "buzzwords": [
+      "RBC surface antigens",
+      "sugars added to H antigen",
+      "four antigen types",
+      "naturally occurring antibodies",
+      "type O lacks A and B",
+      "type AB universal recipient",
+      "type O universal donor",
+      "A, B, AB, O"
+    ]
+  },
+  {
+    "id": "bloodlymph-18-2",
+    "title": "Rh System",
+    "course": "bloodlymph",
+    "brick_id": "18",
+    "brick_title": "Transfusion Medicine",
+    "type": "physiology",
+    "buzzwords": [
+      "clinically the D antigen",
+      "positive or negative status",
+      "antibodies not naturally occurring",
+      "made only after exposure",
+      "anti-D crosses placenta",
+      "hemolytic disease of newborn",
+      "RhoGAM prevents sensitization",
+      "first described in Rhesus monkeys"
+    ]
+  },
+  {
+    "id": "bloodlymph-18-3",
+    "title": "Pre-Transfusion Testing",
+    "course": "bloodlymph",
+    "brick_id": "18",
+    "brick_title": "Transfusion Medicine",
+    "type": "lab",
+    "buzzwords": [
+      "ensures donor-recipient compatibility",
+      "type and screen",
+      "forward typing detects antigens",
+      "reverse typing detects antibodies",
+      "screen uses RBC panel",
+      "crossmatch is mini-transfusion",
+      "agglutination means incompatible",
+      "done before transfusion"
+    ]
+  },
+  {
+    "id": "bloodlymph-18-4",
+    "title": "Blood Products",
+    "course": "bloodlymph",
+    "brick_id": "18",
+    "brick_title": "Transfusion Medicine",
+    "type": "physiology",
+    "buzzwords": [
+      "separated by centrifuge",
+      "packed RBCs for anemia",
+      "platelets for thrombocytopenia",
+      "granulocytes for neutropenic infection",
+      "FFP has all clotting factors",
+      "stored at room temperature",
+      "cryoprecipitate has fibrinogen",
+      "cryo has factor VIII and vWF"
+    ]
+  },
+  {
+    "id": "bloodlymph-18-5",
+    "title": "Hemolytic Transfusion Reaction",
+    "course": "bloodlymph",
+    "brick_id": "18",
+    "brick_title": "Transfusion Medicine",
+    "type": "disease",
+    "buzzwords": [
+      "antibodies attack donor RBCs",
+      "fever, chills, back pain",
+      "hemoglobinuria",
+      "ABO mismatch is acute",
+      "minor antigen mismatch delayed",
+      "can cause DIC and shock",
+      "treat with IV fluids, diuresis",
+      "positive direct antiglobulin test"
+    ]
+  },
+  {
+    "id": "bloodlymph-18-6",
+    "title": "Allergic & Febrile Reactions",
+    "course": "bloodlymph",
+    "brick_id": "18",
+    "brick_title": "Transfusion Medicine",
+    "type": "disease",
+    "buzzwords": [
+      "reaction without hemolysis",
+      "allergic is type 1 hypersensitivity",
+      "urticaria, itching, wheezing",
+      "antihistamines or epinephrine",
+      "febrile from donor leukocytes",
+      "fever and flushing",
+      "leukoreduction lowers risk",
+      "most common reaction is allergic"
+    ]
+  }
+]

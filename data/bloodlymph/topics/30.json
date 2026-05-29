@@ -1,0 +1,146 @@
+[
+  {
+    "id": "bloodlymph-30-1",
+    "title": "Hematopoietic Neoplasms",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "arise from bone marrow",
+      "clonal blood cell cancers",
+      "from hematopoietic stem cells",
+      "leukemias and lymphomas",
+      "myeloid or lymphoid origin",
+      "WHO cell-of-origin classification",
+      "includes multiple myeloma",
+      "myeloid vs lymphoid framework"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-2",
+    "title": "Myeloid Neoplasms",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "most common in adults",
+      "from myeloid stem cells",
+      "three categories",
+      "marrow filled with blasts",
+      "myeloproliferative type",
+      "myelodysplastic type",
+      "acute myeloid leukemia",
+      "MDS to AML in 30%"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-3",
+    "title": "Lymphoid Neoplasms",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "seen at any age",
+      "from lymphoid stem cells",
+      "T-cell, B-cell, Hodgkin",
+      "precursor or mature subsets",
+      "precursor cancers are childhood",
+      "precursor named leukemia/lymphoma",
+      "mycosis fungoides is mature T",
+      "Sezary syndrome desquamating rash"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-4",
+    "title": "Leukemia vs Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "considerable clinical overlap",
+      "lymphomas from lymphoid only",
+      "leukemias from either line",
+      "leukemia originates in marrow",
+      "lymphoma in solid lymph nodes",
+      "leukemia alters blood counts",
+      "lymphoma causes lymphadenopathy",
+      "acute vs chronic by maturity"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-5",
+    "title": "Hodgkin Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "young adults 15-34",
+      "better prognosis than NHL",
+      "B-cell derived",
+      "lost B-cell gene expression",
+      "own WHO category",
+      "giant binucleate cells",
+      "owl-eye nucleoli",
+      "Reed-Sternberg cells"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-6",
+    "title": "Flow Cytometry",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "lab",
+    "buzzwords": [
+      "single cells through lasers",
+      "forward and side scatter",
+      "detects surface antigens",
+      "determines clonality",
+      "classifies cell of origin",
+      "distinguishes ALL from AML",
+      "requires fresh tissue",
+      "detects minimal residual disease"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-7",
+    "title": "Molecular Pathology",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "lab",
+    "buzzwords": [
+      "amplifies nucleic acids",
+      "DNA or RNA analysis",
+      "PCR-based technique",
+      "highly sensitive method",
+      "detects genetic mutations",
+      "guides targeted treatment",
+      "BCR-ABL1 prognosis in B-ALL",
+      "BRAF V600E in hairy cell"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-8",
+    "title": "Cytogenetics",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "lab",
+    "buzzwords": [
+      "studies chromosomes",
+      "karyotype of dividing cells",
+      "detects translocations",
+      "finds aneuploidy",
+      "hyperdiploidy better ALL prognosis",
+      "FISH uses labeled probes",
+      "FISH on non-dividing nuclei",
+      "t(9;22) confirms CML"
+    ]
+  }
+]

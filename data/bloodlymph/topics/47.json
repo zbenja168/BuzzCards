@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bloodlymph-47-1",
+    "title": "Polycythemia Vera",
+    "course": "bloodlymph",
+    "brick_id": "47",
+    "brick_title": "Polycythemia Vera",
+    "type": "disease",
+    "buzzwords": [
+      "myeloproliferative neoplasm",
+      "too many RBCs",
+      "elevated Hgb and Hct",
+      "low serum EPO",
+      "aquagenic pruritus",
+      "erythromelalgia",
+      "facial plethora",
+      "JAK2 mutation"
+    ]
+  },
+  {
+    "id": "bloodlymph-47-2",
+    "title": "JAK2 Mutation",
+    "course": "bloodlymph",
+    "brick_id": "47",
+    "brick_title": "Polycythemia Vera",
+    "type": "physiology",
+    "buzzwords": [
+      "tyrosine kinase gene",
+      "JAK-STAT signaling",
+      "EPO-independent activation",
+      "constitutively active",
+      "drives RBC proliferation",
+      "also in ET and myelofibrosis",
+      "Janus kinase 2",
+      "JAK2 V617F"
+    ]
+  },
+  {
+    "id": "bloodlymph-47-3",
+    "title": "Secondary Polycythemia",
+    "course": "bloodlymph",
+    "brick_id": "47",
+    "brick_title": "Polycythemia Vera",
+    "type": "disease",
+    "buzzwords": [
+      "elevated RBC mass",
+      "tissue hypoxia driven",
+      "high serum EPO",
+      "JAK2 absent",
+      "chronic hypoxemia or smoking",
+      "high-altitude living",
+      "sleep apnea",
+      "renal cell carcinoma EPO"
+    ]
+  },
+  {
+    "id": "bloodlymph-47-4",
+    "title": "PV Treatment",
+    "course": "bloodlymph",
+    "brick_id": "47",
+    "brick_title": "Polycythemia Vera",
+    "type": "drug",
+    "buzzwords": [
+      "lower red cell mass",
+      "first-line phlebotomy",
+      "keep hematocrit under 45%",
+      "low-dose aspirin",
+      "blocks thromboxane A2",
+      "cytoreduction if high-risk",
+      "pegylated interferon alfa",
+      "first-line hydroxyurea"
+    ]
+  }
+]

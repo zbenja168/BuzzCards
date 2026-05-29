@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-51-1",
+    "title": "Acute Myeloid Leukemia",
+    "course": "bloodlymph",
+    "brick_id": "51",
+    "brick_title": "Acute Myeloid Leukemia",
+    "type": "disease",
+    "buzzwords": [
+      "blood cancer",
+      "rapidly progressive",
+      "bone marrow failure",
+      "median onset age 65",
+      "anemia, bleeding, infection",
+      "immature precursor accumulation",
+      "myeloid lineage",
+      "20% blasts in marrow"
+    ]
+  },
+  {
+    "id": "bloodlymph-51-2",
+    "title": "Myeloblasts",
+    "course": "bloodlymph",
+    "brick_id": "51",
+    "brick_title": "Acute Myeloid Leukemia",
+    "type": "lab",
+    "buzzwords": [
+      "earliest precursor cell",
+      "high nuclear-cytoplasmic ratio",
+      "fine smooth chromatin",
+      "visible nucleoli",
+      "dominate the marrow",
+      "pink rod cytoplasmic inclusions",
+      "fused lysosomes and granules",
+      "Auer rods"
+    ]
+  },
+  {
+    "id": "bloodlymph-51-3",
+    "title": "Acute Promyelocytic Leukemia",
+    "course": "bloodlymph",
+    "brick_id": "51",
+    "brick_title": "Acute Myeloid Leukemia",
+    "type": "disease",
+    "buzzwords": [
+      "distinctive AML subtype",
+      "abundant red granules",
+      "multiple Auer rods",
+      "strongly associated with DIC",
+      "PML-RARa fusion gene",
+      "responds to retinoic acid",
+      "treated with ATRA plus arsenic",
+      "t(15;17) translocation"
+    ]
+  },
+  {
+    "id": "bloodlymph-51-4",
+    "title": "Tumor Lysis Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "51",
+    "brick_title": "Acute Myeloid Leukemia",
+    "type": "disease",
+    "buzzwords": [
+      "metabolic complication",
+      "from cell breakdown",
+      "hyperuricemia",
+      "hyperkalemia",
+      "hyperphosphatemia",
+      "hypocalcemia",
+      "prevent with IV fluids and allopurinol",
+      "rasburicase for high uric acid"
+    ]
+  },
+  {
+    "id": "bloodlymph-51-5",
+    "title": "Leukostasis",
+    "course": "bloodlymph",
+    "brick_id": "51",
+    "brick_title": "Acute Myeloid Leukemia",
+    "type": "disease",
+    "buzzwords": [
+      "complication of hyperleukocytosis",
+      "WBC count over 100,000",
+      "increased blood viscosity",
+      "neurologic symptoms",
+      "pulmonary symptoms",
+      "dyspnea and hypoxia",
+      "treat with cytoreduction",
+      "leukapheresis plus hydroxyurea"
+    ]
+  }
+]

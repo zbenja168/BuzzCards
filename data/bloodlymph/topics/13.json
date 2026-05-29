@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bloodlymph-13-1",
+    "title": "G6PD Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "13",
+    "brick_title": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+    "type": "disease",
+    "buzzwords": [
+      "hereditary hemolytic anemia",
+      "RBCs vulnerable to oxidation",
+      "low reduced glutathione",
+      "X-linked recessive",
+      "episodic intravascular hemolysis",
+      "triggered by fava beans",
+      "bite cells",
+      "Heinz bodies"
+    ]
+  },
+  {
+    "id": "bloodlymph-13-2",
+    "title": "Pyruvate Kinase Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "13",
+    "brick_title": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+    "type": "disease",
+    "buzzwords": [
+      "chronic hemolytic anemia",
+      "RBC ATP depletion",
+      "rigid red cells",
+      "extravascular hemolysis",
+      "increased 2,3-BPG",
+      "right-shifted oxygen curve",
+      "autosomal recessive",
+      "Northern European descent"
+    ]
+  }
+]

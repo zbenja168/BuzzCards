@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bloodlymph-45-1",
+    "title": "Tyrosine Kinase Inhibitors",
+    "course": "bloodlymph",
+    "brick_id": "45",
+    "brick_title": "Targeted Inhibitors Used in Cancer Therapy",
+    "type": "drug",
+    "buzzwords": [
+      "small molecules",
+      "enter cell",
+      "act intracellularly",
+      "multiple targets",
+      "less selective",
+      "competitively block ATP",
+      "stop receptor phosphorylation",
+      "suffix -tinib"
+    ]
+  },
+  {
+    "id": "bloodlymph-45-2",
+    "title": "Monoclonal Antibodies",
+    "course": "bloodlymph",
+    "brick_id": "45",
+    "brick_title": "Targeted Inhibitors Used in Cancer Therapy",
+    "type": "drug",
+    "buzzwords": [
+      "made in lab",
+      "act on cell surface",
+      "single antigen target",
+      "highly selective",
+      "parenteral administration",
+      "trigger immune attack",
+      "antibody-dependent cytotoxicity",
+      "suffix -mab"
+    ]
+  },
+  {
+    "id": "bloodlymph-45-3",
+    "title": "Imatinib",
+    "course": "bloodlymph",
+    "brick_id": "45",
+    "brick_title": "Targeted Inhibitors Used in Cancer Therapy",
+    "type": "drug",
+    "buzzwords": [
+      "first TKI approved",
+      "competitively blocks ATP",
+      "targets BCR-ABL",
+      "treats CML",
+      "Philadelphia chromosome",
+      "causes fluid retention",
+      "elevated liver enzymes",
+      "rash risks SJS"
+    ]
+  },
+  {
+    "id": "bloodlymph-45-4",
+    "title": "Dasatinib",
+    "course": "bloodlymph",
+    "brick_id": "45",
+    "brick_title": "Targeted Inhibitors Used in Cancer Therapy",
+    "type": "drug",
+    "buzzwords": [
+      "tyrosine kinase inhibitor",
+      "targets BCR-ABL",
+      "binds active and inactive",
+      "overcomes imatinib resistance",
+      "for resistant CML",
+      "prolongs QT interval",
+      "causes pleural effusion",
+      "ends in -tinib"
+    ]
+  },
+  {
+    "id": "bloodlymph-45-5",
+    "title": "Rituximab",
+    "course": "bloodlymph",
+    "brick_id": "45",
+    "brick_title": "Targeted Inhibitors Used in Cancer Therapy",
+    "type": "drug",
+    "buzzwords": [
+      "monoclonal antibody",
+      "targets CD20",
+      "anti B-cell",
+      "treats lymphoma",
+      "reduces B-cell proliferation",
+      "infusion reactions",
+      "reactivates hepatitis B",
+      "screen HBV first"
+    ]
+  },
+  {
+    "id": "bloodlymph-45-6",
+    "title": "Bortezomib",
+    "course": "bloodlymph",
+    "brick_id": "45",
+    "brick_title": "Targeted Inhibitors Used in Cancer Therapy",
+    "type": "drug",
+    "buzzwords": [
+      "proteasome inhibitor",
+      "suffix -zomib",
+      "blocks 26S proteasome",
+      "stabilizes IkB",
+      "decreases NF-kB",
+      "treats multiple myeloma",
+      "causes thrombocytopenia",
+      "peripheral neuropathy"
+    ]
+  }
+]

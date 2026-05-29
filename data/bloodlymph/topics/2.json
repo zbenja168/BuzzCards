@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bloodlymph-2-1",
+    "title": "Bohr Effect",
+    "course": "bloodlymph",
+    "brick_id": "2",
+    "brick_title": "RBC Metabolism",
+    "type": "physiology",
+    "buzzwords": [
+      "shifts dissociation curve",
+      "favors O2 unloading",
+      "active tissue effect",
+      "raises p50",
+      "decreases Hb affinity",
+      "low pH lowers affinity",
+      "elevated pCO2",
+      "carbaminohemoglobin contributes"
+    ]
+  },
+  {
+    "id": "bloodlymph-2-2",
+    "title": "2,3-BPG",
+    "course": "bloodlymph",
+    "brick_id": "2",
+    "brick_title": "RBC Metabolism",
+    "type": "physiology",
+    "buzzwords": [
+      "modulates Hb affinity",
+      "promotes O2 release",
+      "decreases Hb affinity",
+      "glycolytic derivative",
+      "Rapoport-Luebering shunt",
+      "from 1,3-BPG",
+      "bisphosphoglycerate mutase",
+      "elevated in PK deficiency"
+    ]
+  },
+  {
+    "id": "bloodlymph-2-3",
+    "title": "G6PD Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "2",
+    "brick_title": "RBC Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "hemolytic anemia",
+      "episodic hemolysis",
+      "oxidative stress trigger",
+      "depleted NADPH",
+      "infections, drugs, fava beans",
+      "bite cells",
+      "blister cells",
+      "Heinz bodies"
+    ]
+  },
+  {
+    "id": "bloodlymph-2-4",
+    "title": "Pyruvate Kinase Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "2",
+    "brick_title": "RBC Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "hemolytic anemia",
+      "chronic hemolysis",
+      "ATP depletion",
+      "inflexible rigid RBCs",
+      "second most common RBC enzymopathy",
+      "blocks PEP to pyruvate",
+      "elevated 2,3-BPG",
+      "spiculated echinocytes"
+    ]
+  },
+  {
+    "id": "bloodlymph-2-5",
+    "title": "Methemoglobinemia",
+    "course": "bloodlymph",
+    "brick_id": "2",
+    "brick_title": "RBC Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "impaired oxygen delivery",
+      "ferric Fe3+ iron",
+      "cyanosis unresponsive to O2",
+      "increased affinity of remaining heme",
+      "falsely low pulse oximetry",
+      "chocolate brown blood",
+      "treated with methylene blue",
+      "nitrites and dapsone trigger"
+    ]
+  },
+  {
+    "id": "bloodlymph-2-6",
+    "title": "Cytochrome b5 Reductase",
+    "course": "bloodlymph",
+    "brick_id": "2",
+    "brick_title": "RBC Metabolism",
+    "type": "physiology",
+    "buzzwords": [
+      "protects against oxidation",
+      "reduces ferric iron",
+      "maintains functional hemoglobin",
+      "uses NADH",
+      "NADH from GAPDH step",
+      "keeps metHb below 1%",
+      "deficiency causes congenital methemoglobinemia",
+      "regenerates ferrous Fe2+"
+    ]
+  }
+]

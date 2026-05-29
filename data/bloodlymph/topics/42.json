@@ -1,0 +1,56 @@
+[
+  {
+    "id": "bloodlymph-42-1",
+    "title": "Mycosis Fungoides",
+    "course": "bloodlymph",
+    "brick_id": "42",
+    "brick_title": "T-cell Non-Hodgkin Lymphomas",
+    "type": "disease",
+    "buzzwords": [
+      "slow-growing skin lesion",
+      "mimics eczema, psoriasis",
+      "scaly red patches",
+      "CD4+ helper T-cell origin",
+      "epidermal infiltration",
+      "Pautrier microabscesses",
+      "cerebriform nuclei",
+      "cutaneous T-cell lymphoma"
+    ]
+  },
+  {
+    "id": "bloodlymph-42-2",
+    "title": "Sézary Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "42",
+    "brick_title": "T-cell Non-Hodgkin Lymphomas",
+    "type": "disease",
+    "buzzwords": [
+      "leukemic-phase variant",
+      "diffuse itchy rash",
+      "circulating malignant T-cells",
+      "alopecia present",
+      "erythroderma >80% body",
+      "diffuse lymphadenopathy",
+      "cerebriform Sézary cells",
+      "erythroderma + adenopathy triad"
+    ]
+  },
+  {
+    "id": "bloodlymph-42-3",
+    "title": "Adult T-cell Leukemia",
+    "course": "bloodlymph",
+    "brick_id": "42",
+    "brick_title": "T-cell Non-Hodgkin Lymphomas",
+    "type": "disease",
+    "buzzwords": [
+      "mature T-cell neoplasm",
+      "hypercalcemia common",
+      "lytic bone lesions",
+      "elevated LDH",
+      "CD3 CD4 CD25 positive",
+      "endemic Japan, Caribbean",
+      "flower-shaped nuclei",
+      "HTLV-1 associated"
+    ]
+  }
+]

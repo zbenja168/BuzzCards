@@ -1,0 +1,128 @@
+[
+  {
+    "id": "bloodlymph-37-1",
+    "title": "Alkylating Agents",
+    "course": "bloodlymph",
+    "brick_id": "37",
+    "brick_title": "Alkylating Agents",
+    "type": "drug",
+    "buzzwords": [
+      "chemotherapy class",
+      "transfer alkyl groups",
+      "cell cycle independent",
+      "kill cycling and resting cells",
+      "alkylate guanine N-7",
+      "cause DNA cross-links",
+      "block DNA replication",
+      "trigger apoptosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-37-2",
+    "title": "Cyclophosphamide",
+    "course": "bloodlymph",
+    "brick_id": "37",
+    "brick_title": "Alkylating Agents",
+    "type": "drug",
+    "buzzwords": [
+      "nitrogen mustard",
+      "needs CYP450 bioactivation",
+      "grapefruit juice interaction",
+      "also immunosuppressant",
+      "acrolein metabolite toxic",
+      "hemorrhagic cystitis",
+      "prevent with hydration",
+      "mesna rescue"
+    ]
+  },
+  {
+    "id": "bloodlymph-37-3",
+    "title": "Ifosfamide",
+    "course": "bloodlymph",
+    "brick_id": "37",
+    "brick_title": "Alkylating Agents",
+    "type": "drug",
+    "buzzwords": [
+      "cyclophosphamide derivative",
+      "CYP450 activated",
+      "DNA cross-linking",
+      "hemorrhagic cystitis risk",
+      "mesna protective",
+      "neurotoxicity",
+      "encephalopathy",
+      "methylene blue antidote"
+    ]
+  },
+  {
+    "id": "bloodlymph-37-4",
+    "title": "Carmustine",
+    "course": "bloodlymph",
+    "brick_id": "37",
+    "brick_title": "Alkylating Agents",
+    "type": "drug",
+    "buzzwords": [
+      "nitrosourea",
+      "requires bioactivation",
+      "interstrand cross-links",
+      "crosses blood-brain barrier",
+      "treats CNS tumors",
+      "myelosuppression",
+      "nephrotoxic and hepatotoxic",
+      "pulmonary fibrosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-37-5",
+    "title": "Busulfan",
+    "course": "bloodlymph",
+    "brick_id": "37",
+    "brick_title": "Alkylating Agents",
+    "type": "drug",
+    "buzzwords": [
+      "alkyl sulfonate",
+      "intrastrand cross-links",
+      "affinity for myeloid cells",
+      "transplant conditioning agent",
+      "ablates bone marrow",
+      "near-universal myelosuppression",
+      "dose-dependent pulmonary toxicity",
+      "busulfan lung fibrosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-37-6",
+    "title": "Procarbazine",
+    "course": "bloodlymph",
+    "brick_id": "37",
+    "brick_title": "Alkylating Agents",
+    "type": "drug",
+    "buzzwords": [
+      "nonclassic alkylating agent",
+      "inhibits transmethylation",
+      "blocks DNA RNA protein",
+      "monoamine oxidase inhibitor",
+      "disulfiram-like reaction",
+      "avoid tyramine foods",
+      "serotonin syndrome risk",
+      "with serotonergic drugs"
+    ]
+  },
+  {
+    "id": "bloodlymph-37-7",
+    "title": "Platinum Agents",
+    "course": "bloodlymph",
+    "brick_id": "37",
+    "brick_title": "Alkylating Agents",
+    "type": "drug",
+    "buzzwords": [
+      "cisplatin and carboplatin",
+      "platinum-based",
+      "activated by hydrolyzation",
+      "intrastrand DNA cross-links",
+      "direct DNA damage",
+      "ototoxicity",
+      "nephrotoxicity",
+      "cisplatin classic example"
+    ]
+  }
+]

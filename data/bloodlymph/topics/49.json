@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bloodlymph-49-1",
+    "title": "Primary Myelofibrosis",
+    "course": "bloodlymph",
+    "brick_id": "49",
+    "brick_title": "Primary Myelofibrosis",
+    "type": "disease",
+    "buzzwords": [
+      "myeloproliferative neoplasm",
+      "worst prognosis MPN",
+      "all myeloid lines proliferate",
+      "marrow replaced by fibrosis",
+      "fatigue and early satiety",
+      "may transform to AML",
+      "median survival 6 years",
+      "primary myelofibrosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-49-2",
+    "title": "Marrow Fibrosis",
+    "course": "bloodlymph",
+    "brick_id": "49",
+    "brick_title": "Primary Myelofibrosis",
+    "type": "physiology",
+    "buzzwords": [
+      "marrow fills with fibrosis",
+      "fibroblast-stimulating cytokines",
+      "released by megakaryocytes",
+      "collagen fibers fill marrow",
+      "dry tap on aspiration",
+      "marrow failure, cytopenias",
+      "reticulin-stained fibers",
+      "collagen fibrosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-49-3",
+    "title": "Extramedullary Hematopoiesis",
+    "course": "bloodlymph",
+    "brick_id": "49",
+    "brick_title": "Primary Myelofibrosis",
+    "type": "physiology",
+    "buzzwords": [
+      "blood production outside marrow",
+      "compensates for marrow failure",
+      "occurs in spleen and liver",
+      "causes massive splenomegaly",
+      "tip reaches the pelvis",
+      "left upper quadrant fullness",
+      "hepatomegaly",
+      "extramedullary hematopoiesis"
+    ]
+  },
+  {
+    "id": "bloodlymph-49-4",
+    "title": "Leukoerythroblastic Smear",
+    "course": "bloodlymph",
+    "brick_id": "49",
+    "brick_title": "Primary Myelofibrosis",
+    "type": "lab",
+    "buzzwords": [
+      "peripheral smear finding",
+      "elevated WBC with left shift",
+      "immature granulocyte precursors",
+      "nucleated RBCs released early",
+      "teardrop-shaped red cells",
+      "RBCs squeeze through fibrosis",
+      "dacrocytes",
+      "leukoerythroblastic reaction"
+    ]
+  },
+  {
+    "id": "bloodlymph-49-5",
+    "title": "PMF Genetics",
+    "course": "bloodlymph",
+    "brick_id": "49",
+    "brick_title": "Primary Myelofibrosis",
+    "type": "physiology",
+    "buzzwords": [
+      "mostly spontaneous mutations",
+      "risk factor ionizing radiation",
+      "JAK-STAT pathway activation",
+      "50 to 60% JAK2 mutation",
+      "CALR in JAK2-negative cases",
+      "MPL mutation minority",
+      "Janus kinase 2",
+      "drives myeloid proliferation"
+    ]
+  },
+  {
+    "id": "bloodlymph-49-6",
+    "title": "PMF Treatment",
+    "course": "bloodlymph",
+    "brick_id": "49",
+    "brick_title": "Primary Myelofibrosis",
+    "type": "drug",
+    "buzzwords": [
+      "depends on disease severity",
+      "low-risk patients observed",
+      "only curative option transplant",
+      "allogeneic stem cell transplant",
+      "JAK1 and JAK2 inhibitor",
+      "ruxolitinib for high-risk",
+      "hydroxyurea lowers counts",
+      "newer JAK inhibitor momelotinib"
+    ]
+  }
+]

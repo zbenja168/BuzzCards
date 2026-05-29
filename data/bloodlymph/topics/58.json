@@ -1,0 +1,146 @@
+[
+  {
+    "id": "bloodlymph-58-1",
+    "title": "Chloroquine",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "antimalarial",
+      "raises lysosomal pH",
+      "blocks heme detoxification",
+      "toxic free heme accumulates",
+      "EKG changes",
+      "cardiomyopathy risk",
+      "hemolysis in G6PD deficiency",
+      "widespread resistance"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-2",
+    "title": "Hydroxychloroquine",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "chloroquine derivative",
+      "added hydroxyl group",
+      "less toxic alternative",
+      "raises vacuole pH",
+      "impairs antigen processing",
+      "downregulates CD4 response",
+      "used in autoimmune arthritis",
+      "G6PD hemolysis risk"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-3",
+    "title": "Atovaquone-proguanil",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "first-choice for travelers",
+      "short pre-travel dosing",
+      "blocks mitochondrial electron transport",
+      "inhibits parasite folate synthesis",
+      "synergistic combination",
+      "transient transaminitis",
+      "renally eliminated",
+      "avoid in severe renal failure"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-4",
+    "title": "Mefloquine",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "once-weekly dosing",
+      "blocks 80S subunit",
+      "interferes with heme digestion",
+      "abnormal dreams",
+      "insomnia",
+      "neuropsychiatric black box",
+      "avoid in psychiatric disorders",
+      "contraindicated in seizures"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-5",
+    "title": "Primaquine",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "disrupts mitochondria",
+      "binds parasite DNA",
+      "targets exoerythrocytic stages",
+      "prevents relapse",
+      "QT prolongation",
+      "leukopenia",
+      "hemolytic anemia in G6PD",
+      "covers P. ovale and vivax"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-6",
+    "title": "Artemisinin therapy",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "first-line uncomplicated malaria",
+      "given as combination",
+      "cleaves endoperoxide bridge",
+      "iron-mediated free radicals",
+      "rapid parasite clearance",
+      "hypotension and dizziness",
+      "IV artesunate for severe",
+      "ACT regimen"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-7",
+    "title": "Babesia treatment",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "tick-borne hemoparasite",
+      "common in immunocompromised",
+      "macrolide-based regimen",
+      "azithromycin plus atovaquone",
+      "preferred first-line",
+      "alternative clindamycin plus quinine",
+      "watch QT prolongation",
+      "monitor drug interactions"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-8",
+    "title": "Brucella treatment",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "treats brucellosis",
+      "two protein-synthesis inhibitors",
+      "30S subunit blockers",
+      "doxycycline plus aminoglycoside",
+      "usually gentamicin",
+      "nephrotoxicity and ototoxicity",
+      "avoid cations like iron",
+      "alternative fluoroquinolone or SMX-TMP"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bloodlymph-10-1",
+    "title": "Aplastic Anemia",
+    "course": "bloodlymph",
+    "brick_id": "10",
+    "brick_title": "Aplastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "fatigue and dyspnea",
+      "petechiae and bleeding",
+      "recurrent infections",
+      "pancytopenia",
+      "normocytic anemia",
+      "low reticulocytes",
+      "loss of myeloid HSCs",
+      "hypocellular fatty marrow"
+    ]
+  },
+  {
+    "id": "bloodlymph-10-2",
+    "title": "Fanconi Anemia",
+    "course": "bloodlymph",
+    "brick_id": "10",
+    "brick_title": "Aplastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "inherited aplastic anemia",
+      "autosomal recessive",
+      "defective DNA repair",
+      "childhood pancytopenia",
+      "short stature",
+      "cafe-au-lait spots",
+      "radial/thumb anomalies",
+      "increased chromosomal breaks"
+    ]
+  },
+  {
+    "id": "bloodlymph-10-3",
+    "title": "Pure Red Cell Aplasia",
+    "course": "bloodlymph",
+    "brick_id": "10",
+    "brick_title": "Aplastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "isolated anemia",
+      "low reticulocytes",
+      "decreased erythroid precursors",
+      "normal platelets and granulocytes",
+      "thymoma association",
+      "parvovirus B19 trigger",
+      "CLL association",
+      "no pancytopenia"
+    ]
+  },
+  {
+    "id": "bloodlymph-10-4",
+    "title": "Diamond-Blackfan Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "10",
+    "brick_title": "Aplastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "congenital pure red cell aplasia",
+      "ribosomal protein mutation",
+      "macrocytic anemia",
+      "reticulocytopenia",
+      "presents in infancy",
+      "cancer predisposition",
+      "triphalangeal thumb",
+      "responds to corticosteroids"
+    ]
+  }
+]

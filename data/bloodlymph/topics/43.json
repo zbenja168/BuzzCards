@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bloodlymph-43-1",
+    "title": "Hodgkin Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "43",
+    "brick_title": "Hodgkin Lymphoma",
+    "type": "disease",
+    "buzzwords": [
+      "lymphoid neoplasm",
+      "painless lymphadenopathy",
+      "B symptoms",
+      "mediastinal mass",
+      "bimodal age peaks",
+      "contiguous nodal spread",
+      "EBV associated",
+      "Reed-Sternberg cells"
+    ]
+  },
+  {
+    "id": "bloodlymph-43-2",
+    "title": "Reed-Sternberg Cell",
+    "course": "bloodlymph",
+    "brick_id": "43",
+    "brick_title": "Hodgkin Lymphoma",
+    "type": "physiology",
+    "buzzwords": [
+      "large atypical cell",
+      "germinal B-cell origin",
+      "binucleated",
+      "central nucleoli",
+      "owl-eye appearance",
+      "CD45 negative",
+      "CD20 negative",
+      "CD15 and CD30 positive"
+    ]
+  },
+  {
+    "id": "bloodlymph-43-3",
+    "title": "Nodular Sclerosis",
+    "course": "bloodlymph",
+    "brick_id": "43",
+    "brick_title": "Hodgkin Lymphoma",
+    "type": "disease",
+    "buzzwords": [
+      "classic HL subtype",
+      "most common subtype",
+      "young adults",
+      "excellent prognosis",
+      "early-stage presentation",
+      "fibrous bands",
+      "nodular lymph nodes",
+      "lacunar cells"
+    ]
+  },
+  {
+    "id": "bloodlymph-43-4",
+    "title": "Mixed Cellularity",
+    "course": "bloodlymph",
+    "brick_id": "43",
+    "brick_title": "Hodgkin Lymphoma",
+    "type": "disease",
+    "buzzwords": [
+      "classic HL subtype",
+      "second most common",
+      "older population",
+      "advanced disease",
+      "inflammatory infiltrate",
+      "no fibrous bands",
+      "many classic RS cells",
+      "strongly EBV-associated"
+    ]
+  },
+  {
+    "id": "bloodlymph-43-5",
+    "title": "Nodular Lymphocyte-Predominant",
+    "course": "bloodlymph",
+    "brick_id": "43",
+    "brick_title": "Hodgkin Lymphoma",
+    "type": "disease",
+    "buzzwords": [
+      "uncommon subtype",
+      "young males",
+      "indolent course",
+      "no EBV link",
+      "CD45 and CD20 positive",
+      "CD15 and CD30 negative",
+      "popcorn cells",
+      "reclassified as B-cell lymphoma"
+    ]
+  },
+  {
+    "id": "bloodlymph-43-6",
+    "title": "ABVD Chemotherapy",
+    "course": "bloodlymph",
+    "brick_id": "43",
+    "brick_title": "Hodgkin Lymphoma",
+    "type": "drug",
+    "buzzwords": [
+      "first-line HL regimen",
+      "four-drug combination",
+      "given every 14 days",
+      "doxorubicin causes cardiomyopathy",
+      "vinblastine causes neuropathy",
+      "bleomycin causes pulmonary fibrosis",
+      "dacarbazine causes nausea",
+      "Adriamycin Bleomycin Vinblastine Dacarbazine"
+    ]
+  }
+]

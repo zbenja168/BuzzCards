@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bloodlymph-32-1",
+    "title": "Acute Lymphoblastic Leukemia",
+    "course": "bloodlymph",
+    "brick_id": "32",
+    "brick_title": "Acute Lymphoblastic Leukemia/Lymphoma",
+    "type": "disease",
+    "buzzwords": [
+      "most common childhood cancer",
+      "fatigue, pallor, bruising",
+      "marrow crowded by blasts",
+      "anemia, neutropenia, thrombocytopenia",
+      "85% B-cell origin",
+      "T-cell mediastinal mass",
+      "spreads to CNS and testes",
+      "proliferating lymphoblasts"
+    ]
+  },
+  {
+    "id": "bloodlymph-32-2",
+    "title": "ALL Cytogenetics",
+    "course": "bloodlymph",
+    "brick_id": "32",
+    "brick_title": "Acute Lymphoblastic Leukemia/Lymphoma",
+    "type": "lab",
+    "buzzwords": [
+      "guides prognosis and treatment",
+      "hyperdiploidy good prognosis",
+      "associated with Down syndrome",
+      "t(12;21) favorable in children",
+      "t(9;22) worse in adults",
+      "BCR-ABL fusion gene",
+      "treat with tyrosine kinase inhibitor",
+      "Philadelphia chromosome"
+    ]
+  },
+  {
+    "id": "bloodlymph-32-3",
+    "title": "ALL Diagnosis",
+    "course": "bloodlymph",
+    "brick_id": "32",
+    "brick_title": "Acute Lymphoblastic Leukemia/Lymphoma",
+    "type": "lab",
+    "buzzwords": [
+      "CBC with peripheral smear",
+      "20% or more blasts",
+      "bone marrow biopsy",
+      "flow cytometry immunophenotyping",
+      "B-cell CD19, CD22, CD79a",
+      "lumbar puncture for CNS",
+      "no Auer rods",
+      "TdT positive"
+    ]
+  },
+  {
+    "id": "bloodlymph-32-4",
+    "title": "ALL Treatment",
+    "course": "bloodlymph",
+    "brick_id": "32",
+    "brick_title": "Acute Lymphoblastic Leukemia/Lymphoma",
+    "type": "drug",
+    "buzzwords": [
+      "multi-drug chemotherapy",
+      "induction, consolidation, maintenance",
+      "intrathecal triple therapy",
+      "glucocorticoid plus vincristine",
+      "vincristine causes neuropathy",
+      "asparaginase depletes asparagine",
+      "dasatinib for Philadelphia-positive",
+      "L-asparaginase"
+    ]
+  }
+]

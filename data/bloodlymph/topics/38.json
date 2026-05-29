@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bloodlymph-38-1",
+    "title": "Antimetabolite Agents",
+    "course": "bloodlymph",
+    "brick_id": "38",
+    "brick_title": "Antimetabolite Agents",
+    "type": "drug",
+    "buzzwords": [
+      "chemotherapy class",
+      "decoys for DNA building blocks",
+      "resemble nucleosides",
+      "act in S phase",
+      "target rapidly dividing cells",
+      "interrupt DNA synthesis",
+      "three subclasses",
+      "antifolates, purine, pyrimidine analogs"
+    ]
+  },
+  {
+    "id": "bloodlymph-38-2",
+    "title": "Methotrexate",
+    "course": "bloodlymph",
+    "brick_id": "38",
+    "brick_title": "Antimetabolite Agents",
+    "type": "drug",
+    "buzzwords": [
+      "antifolate",
+      "blocks one-carbon metabolism",
+      "halts dTMP synthesis",
+      "pregnancy category X",
+      "causes pulmonary fibrosis",
+      "megaloblastic anemia",
+      "rescued by leucovorin",
+      "inhibits dihydrofolate reductase"
+    ]
+  },
+  {
+    "id": "bloodlymph-38-3",
+    "title": "5-Fluorouracil",
+    "course": "bloodlymph",
+    "brick_id": "38",
+    "brick_title": "Antimetabolite Agents",
+    "type": "drug",
+    "buzzwords": [
+      "pyrimidine analog",
+      "blocks thymine production",
+      "binds folic acid",
+      "causes hand-foot syndrome",
+      "myelosuppression worse with leucovorin",
+      "dUMP cannot make dTMP",
+      "5-FU",
+      "inhibits thymidylate synthase"
+    ]
+  },
+  {
+    "id": "bloodlymph-38-4",
+    "title": "Cytarabine",
+    "course": "bloodlymph",
+    "brick_id": "38",
+    "brick_title": "Antimetabolite Agents",
+    "type": "drug",
+    "buzzwords": [
+      "pyrimidine analog",
+      "prodrug of 5-FU",
+      "activated by thymidine phosphorylase",
+      "causes early chain termination",
+      "inhibits DNA polymerase",
+      "treats leukemias and lymphomas",
+      "causes pancytopenia",
+      "ara-C"
+    ]
+  },
+  {
+    "id": "bloodlymph-38-5",
+    "title": "Cladribine",
+    "course": "bloodlymph",
+    "brick_id": "38",
+    "brick_title": "Antimetabolite Agents",
+    "type": "drug",
+    "buzzwords": [
+      "purine analog",
+      "prodrug",
+      "phosphorylated to active form",
+      "breaks DNA strand",
+      "depletes NAD and ATP",
+      "treats indolent lymphomas",
+      "approved for multiple sclerosis",
+      "active form Cd-ATP"
+    ]
+  },
+  {
+    "id": "bloodlymph-38-6",
+    "title": "Azathioprine",
+    "course": "bloodlymph",
+    "brick_id": "38",
+    "brick_title": "Antimetabolite Agents",
+    "type": "drug",
+    "buzzwords": [
+      "purine analog",
+      "incorporates into DNA",
+      "induces apoptosis",
+      "immunosuppressant",
+      "treats autoimmune disease",
+      "used in transplant patients",
+      "toxicity increased by allopurinol",
+      "6-mercaptopurine relative"
+    ]
+  }
+]

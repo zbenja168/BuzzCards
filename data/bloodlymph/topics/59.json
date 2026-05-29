@@ -1,0 +1,56 @@
+[
+  {
+    "id": "bloodlymph-59-1",
+    "title": "Hemorrhagic Viruses",
+    "course": "bloodlymph",
+    "brick_id": "59",
+    "brick_title": "Hemorrhagic Viruses",
+    "type": "disease",
+    "buzzwords": [
+      "zoonotic RNA viruses",
+      "acute febrile illness",
+      "endemic or sporadic",
+      "vector or fluid transmission",
+      "supportive care only",
+      "vascular instability",
+      "bleeding manifestations",
+      "viral hemorrhagic fever"
+    ]
+  },
+  {
+    "id": "bloodlymph-59-2",
+    "title": "Filoviruses",
+    "course": "bloodlymph",
+    "brick_id": "59",
+    "brick_title": "Hemorrhagic Viruses",
+    "type": "disease",
+    "buzzwords": [
+      "filamentous shape",
+      "negative-sense ssRNA",
+      "bat reservoir",
+      "high healthcare-associated spread",
+      "DIC and shock",
+      "dry phase, wet phase",
+      "RT-PCR diagnosis",
+      "Ebola, Marburg"
+    ]
+  },
+  {
+    "id": "bloodlymph-59-3",
+    "title": "Hantavirus",
+    "course": "bloodlymph",
+    "brick_id": "59",
+    "brick_title": "Hemorrhagic Viruses",
+    "type": "disease",
+    "buzzwords": [
+      "segmented circular genome",
+      "rodent reservoir",
+      "aerosolized excreta inhaled",
+      "long incubation period",
+      "renal syndrome (HFRS)",
+      "capillary leak, pulmonary edema",
+      "respiratory failure",
+      "cardiopulmonary syndrome (HCPS)"
+    ]
+  }
+]

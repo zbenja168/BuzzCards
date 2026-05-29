@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bloodlymph-39-1",
+    "title": "Topoisomerase Inhibitors",
+    "course": "bloodlymph",
+    "brick_id": "39",
+    "brick_title": "Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics",
+    "type": "drug",
+    "buzzwords": [
+      "cell-cycle specific",
+      "block DNA religation",
+      "build up strand breaks",
+      "myelosuppression",
+      "cholinergic diarrhea",
+      "atropine for diarrhea",
+      "etoposide, teniposide",
+      "topotecan, irinotecan"
+    ]
+  },
+  {
+    "id": "bloodlymph-39-2",
+    "title": "Vinca Alkaloids",
+    "course": "bloodlymph",
+    "brick_id": "39",
+    "brick_title": "Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics",
+    "type": "drug",
+    "buzzwords": [
+      "microtubule inhibitor",
+      "bind beta-tubulin",
+      "block polymerization",
+      "frozen mitotic spindle",
+      "peripheral neuropathy",
+      "hair loss",
+      "SIADH, constipation",
+      "vincristine, vinblastine"
+    ]
+  },
+  {
+    "id": "bloodlymph-39-3",
+    "title": "Taxanes",
+    "course": "bloodlymph",
+    "brick_id": "39",
+    "brick_title": "Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics",
+    "type": "drug",
+    "buzzwords": [
+      "microtubule inhibitor",
+      "bind beta-tubulin",
+      "block depolymerization",
+      "stabilize microtubules",
+      "peripheral neuropathy",
+      "hypersensitivity reactions",
+      "premedicate dexamethasone",
+      "paclitaxel, docetaxel"
+    ]
+  },
+  {
+    "id": "bloodlymph-39-4",
+    "title": "Anthracyclines",
+    "course": "bloodlymph",
+    "brick_id": "39",
+    "brick_title": "Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics",
+    "type": "drug",
+    "buzzwords": [
+      "antitumor antibiotic",
+      "intercalate DNA",
+      "generate free radicals",
+      "cell-cycle independent",
+      "dose-dependent cardiotoxicity",
+      "dilated cardiomyopathy",
+      "dexrazoxane protects heart",
+      "doxorubicin, daunorubicin"
+    ]
+  },
+  {
+    "id": "bloodlymph-39-5",
+    "title": "Mitomycin C",
+    "course": "bloodlymph",
+    "brick_id": "39",
+    "brick_title": "Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics",
+    "type": "drug",
+    "buzzwords": [
+      "antitumor antibiotic",
+      "alkylates DNA",
+      "interstrand cross-linking",
+      "cell-cycle independent",
+      "myelosuppression",
+      "anorexia, mucositis",
+      "hemolytic uremic syndrome",
+      "renal failure"
+    ]
+  },
+  {
+    "id": "bloodlymph-39-6",
+    "title": "Bleomycin",
+    "course": "bloodlymph",
+    "brick_id": "39",
+    "brick_title": "Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics",
+    "type": "drug",
+    "buzzwords": [
+      "antitumor antibiotic",
+      "induces DNA strand breaks",
+      "free radical formation",
+      "G2 and M specific",
+      "minimal myelosuppression",
+      "dose-limiting toxicity",
+      "interstitial pneumonitis",
+      "pulmonary fibrosis"
+    ]
+  }
+]

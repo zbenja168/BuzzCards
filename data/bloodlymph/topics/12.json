@@ -1,0 +1,128 @@
+[
+  {
+    "id": "bloodlymph-12-1",
+    "title": "Sickle Cell Disease",
+    "course": "bloodlymph",
+    "brick_id": "12",
+    "brick_title": "Sickle Cell Disease",
+    "type": "disease",
+    "buzzwords": [
+      "inherited hemoglobinopathy",
+      "hemolytic anemia",
+      "autosomal recessive",
+      "presents in infancy",
+      "sub-Saharan African ancestry",
+      "beta-globin point mutation",
+      "glutamate to valine",
+      "HbS"
+    ]
+  },
+  {
+    "id": "bloodlymph-12-2",
+    "title": "RBC Sickling",
+    "course": "bloodlymph",
+    "brick_id": "12",
+    "brick_title": "Sickle Cell Disease",
+    "type": "physiology",
+    "buzzwords": [
+      "deoxygenation triggers it",
+      "worsened by acidosis",
+      "worsened by dehydration",
+      "exposed hydrophobic valine",
+      "HbS polymerizes",
+      "rigid inflexible cells",
+      "semicircular shape",
+      "blade-shaped RBC"
+    ]
+  },
+  {
+    "id": "bloodlymph-12-3",
+    "title": "Vaso-occlusive Crisis",
+    "course": "bloodlymph",
+    "brick_id": "12",
+    "brick_title": "Sickle Cell Disease",
+    "type": "disease",
+    "buzzwords": [
+      "sharp localized pain",
+      "tissue ischemia",
+      "recurrent painful episodes",
+      "functional asplenia",
+      "encapsulated organism risk",
+      "avascular necrosis of hip",
+      "dactylitis",
+      "priapism"
+    ]
+  },
+  {
+    "id": "bloodlymph-12-4",
+    "title": "Acute Chest Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "12",
+    "brick_title": "Sickle Cell Disease",
+    "type": "disease",
+    "buzzwords": [
+      "common mortality cause",
+      "chest pain",
+      "fever and dyspnea",
+      "hypoxia",
+      "pulmonary vessel occlusion",
+      "often infection-triggered",
+      "new chest radiodensity",
+      "exchange transfusion treatment"
+    ]
+  },
+  {
+    "id": "bloodlymph-12-5",
+    "title": "Hemoglobin Electrophoresis",
+    "course": "bloodlymph",
+    "brick_id": "12",
+    "brick_title": "Sickle Cell Disease",
+    "type": "lab",
+    "buzzwords": [
+      "confirmatory test",
+      "separates by charge",
+      "separates by size",
+      "cellulose acetate gel",
+      "detects abnormal hemoglobin",
+      "HbS near cathode",
+      "distinguishes trait from disease",
+      "HbA migrates farthest"
+    ]
+  },
+  {
+    "id": "bloodlymph-12-6",
+    "title": "Hydroxyurea",
+    "course": "bloodlymph",
+    "brick_id": "12",
+    "brick_title": "Sickle Cell Disease",
+    "type": "drug",
+    "buzzwords": [
+      "reduces pain crises",
+      "fewer acute chest episodes",
+      "increases fetal hemoglobin",
+      "HbF inhibits polymerization",
+      "causes leukopenia",
+      "raises skin cancer risk",
+      "raises leukemia risk",
+      "boosts HbF"
+    ]
+  },
+  {
+    "id": "bloodlymph-12-7",
+    "title": "Hemoglobin C Disease",
+    "course": "bloodlymph",
+    "brick_id": "12",
+    "brick_title": "Sickle Cell Disease",
+    "type": "disease",
+    "buzzwords": [
+      "beta-chain hemoglobinopathy",
+      "mild hemolytic anemia",
+      "African heritage",
+      "glutamate to lysine",
+      "sixth position mutation",
+      "target cells on smear",
+      "splenomegaly possible",
+      "HbC crystals"
+    ]
+  }
+]

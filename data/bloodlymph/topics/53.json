@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bloodlymph-53-1",
+    "title": "Spleen",
+    "course": "bloodlymph",
+    "brick_id": "53",
+    "brick_title": "Structure and Function of the Spleen",
+    "type": "anatomy",
+    "buzzwords": [
+      "largest lymphoid organ",
+      "left upper quadrant",
+      "intraperitoneal",
+      "shielded by ribs 9-11",
+      "stores platelets",
+      "fetal hematopoiesis site",
+      "removable without death",
+      "secondary lymphoid organ"
+    ]
+  },
+  {
+    "id": "bloodlymph-53-2",
+    "title": "Splenic Anatomy",
+    "course": "bloodlymph",
+    "brick_id": "53",
+    "brick_title": "Structure and Function of the Spleen",
+    "type": "anatomy",
+    "buzzwords": [
+      "fibroelastic capsule",
+      "hilum vessel entry",
+      "trabeculae carry vessels",
+      "splenic artery from celiac",
+      "splenic vein to portal",
+      "gastrosplenic ligament",
+      "splenorenal ligament",
+      "tail of pancreas adjacent"
+    ]
+  },
+  {
+    "id": "bloodlymph-53-3",
+    "title": "Red Pulp",
+    "course": "bloodlymph",
+    "brick_id": "53",
+    "brick_title": "Structure and Function of the Spleen",
+    "type": "physiology",
+    "buzzwords": [
+      "filters old RBCs",
+      "most of parenchyma",
+      "open and closed circulation",
+      "leaky sinusoids",
+      "stave cells line sinusoids",
+      "slit-like openings",
+      "tissue macrophages phagocytose",
+      "cords of Billroth"
+    ]
+  },
+  {
+    "id": "bloodlymph-53-4",
+    "title": "White Pulp",
+    "course": "bloodlymph",
+    "brick_id": "53",
+    "brick_title": "Structure and Function of the Spleen",
+    "type": "physiology",
+    "buzzwords": [
+      "lymphocyte-rich region",
+      "surrounds central arteriole",
+      "secondary immune response",
+      "follicles hold B cells",
+      "germinal center B cells",
+      "marginal zone antigen exchange",
+      "tags encapsulated bacteria",
+      "PALS rich in T cells"
+    ]
+  }
+]

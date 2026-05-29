@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bloodlymph-41-1",
+    "title": "Diffuse Large B-Cell Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "41",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "most common NHL subtype",
+      "older patients",
+      "rapidly enlarging nodes",
+      "B symptoms",
+      "diffuse large neoplastic cells",
+      "fatal if untreated",
+      "Richter transformation from CLL",
+      "MYC, BCL2, BCL6"
+    ]
+  },
+  {
+    "id": "bloodlymph-41-2",
+    "title": "Burkitt Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "41",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "fastest-doubling human cancer",
+      "endemic, sporadic, immunodeficiency forms",
+      "jaw and facial mass",
+      "ileocecal abdominal mass",
+      "starry-sky pattern",
+      "tingible-body macrophages",
+      "EBV-associated",
+      "t(8;14) MYC translocation"
+    ]
+  },
+  {
+    "id": "bloodlymph-41-3",
+    "title": "Mantle Cell Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "41",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "older adults, male predominance",
+      "high-stage at presentation",
+      "hepatosplenomegaly",
+      "bone marrow involvement",
+      "small-to-intermediate cells",
+      "CD5 positive, CD23 negative",
+      "cyclin D1 positive",
+      "t(11;14) CCND1-IGH"
+    ]
+  },
+  {
+    "id": "bloodlymph-41-4",
+    "title": "Polatuzumab Vedotin",
+    "course": "bloodlymph",
+    "brick_id": "41",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "antibody-drug conjugate",
+      "used in advanced DLBCL",
+      "part of R-pola-CHP",
+      "targets CD79b",
+      "delivers anti-mitotic agent",
+      "protease-cleaved linker",
+      "causes neutropenia, thrombocytopenia",
+      "peripheral neuropathy"
+    ]
+  }
+]

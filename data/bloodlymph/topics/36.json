@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bloodlymph-36-1",
+    "title": "Leptospirosis",
+    "course": "bloodlymph",
+    "brick_id": "36",
+    "brick_title": "Leptospirosis and Lymphatic Filariasis",
+    "type": "disease",
+    "buzzwords": [
+      "spirochete infection",
+      "contaminated water exposure",
+      "tropical, after flooding",
+      "myalgia in calves",
+      "conjunctival suffusion",
+      "doxycycline treatment",
+      "Weil disease",
+      "Leptospira interrogans"
+    ]
+  },
+  {
+    "id": "bloodlymph-36-2",
+    "title": "Lymphatic Filariasis",
+    "course": "bloodlymph",
+    "brick_id": "36",
+    "brick_title": "Leptospirosis and Lymphatic Filariasis",
+    "type": "disease",
+    "buzzwords": [
+      "mosquito-borne nematode",
+      "nocturnal microfilariae in blood",
+      "blood smear at night",
+      "lymphedema, hydrocele",
+      "elephantiasis",
+      "diethylcarbamazine treatment",
+      "Giemsa-stained microfilaria",
+      "Wuchereria bancrofti"
+    ]
+  }
+]

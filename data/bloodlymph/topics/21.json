@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bloodlymph-21-1",
+    "title": "DIC",
+    "course": "bloodlymph",
+    "brick_id": "21",
+    "brick_title": "Disseminated Intravascular Coagulation",
+    "type": "disease",
+    "buzzwords": [
+      "clotting plus bleeding",
+      "always secondary",
+      "sick ICU patients",
+      "multi-organ involvement",
+      "petechiae",
+      "consumes platelets, factors",
+      "thrombotic microangiopathy",
+      "disseminated intravascular coagulation"
+    ]
+  },
+  {
+    "id": "bloodlymph-21-2",
+    "title": "DIC Triggers",
+    "course": "bloodlymph",
+    "brick_id": "21",
+    "brick_title": "Disseminated Intravascular Coagulation",
+    "type": "disease",
+    "buzzwords": [
+      "dumpers vs rippers",
+      "tissue factor release",
+      "gram-negative sepsis",
+      "obstetric abruption",
+      "mucinous adenocarcinoma",
+      "venomous snake bites",
+      "acute promyelocytic leukemia",
+      "amniotic fluid embolism"
+    ]
+  },
+  {
+    "id": "bloodlymph-21-3",
+    "title": "DIC Labs",
+    "course": "bloodlymph",
+    "brick_id": "21",
+    "brick_title": "Disseminated Intravascular Coagulation",
+    "type": "lab",
+    "buzzwords": [
+      "low platelets",
+      "prolonged PT, aPTT",
+      "prolonged thrombin time",
+      "low fibrinogen",
+      "elevated indirect bilirubin",
+      "elevated fibrin degradation products",
+      "elevated D-dimers",
+      "schistocytes on smear"
+    ]
+  },
+  {
+    "id": "bloodlymph-21-4",
+    "title": "Schistocytes",
+    "course": "bloodlymph",
+    "brick_id": "21",
+    "brick_title": "Disseminated Intravascular Coagulation",
+    "type": "lab",
+    "buzzwords": [
+      "fragmented red cells",
+      "sliced by fibrin strands",
+      "angular, not round",
+      "no central pallor",
+      "pointed contours",
+      "marks hemolysis",
+      "any thrombotic microangiopathy",
+      "microangiopathic hemolytic anemia"
+    ]
+  }
+]

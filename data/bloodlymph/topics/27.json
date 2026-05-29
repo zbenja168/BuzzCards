@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-27-1",
+    "title": "Immune Thrombocytopenia",
+    "course": "bloodlymph",
+    "brick_id": "27",
+    "brick_title": "Immune Thrombocytopenia",
+    "type": "disease",
+    "buzzwords": [
+      "low platelets",
+      "platelets below 150,000",
+      "isolated thrombocytopenia",
+      "autoantibody-mediated",
+      "antibodies bind own platelets",
+      "diagnosis of exclusion",
+      "formerly ITP purpura",
+      "5-10 per 100,000"
+    ]
+  },
+  {
+    "id": "bloodlymph-27-2",
+    "title": "ITP Presentation",
+    "course": "bloodlymph",
+    "brick_id": "27",
+    "brick_title": "Immune Thrombocytopenia",
+    "type": "disease",
+    "buzzwords": [
+      "skin bleeding",
+      "easy bruising",
+      "nosebleeds",
+      "heavy menses",
+      "pinpoint 1-3 mm spots",
+      "larger purple patches",
+      "petechiae",
+      "purpura"
+    ]
+  },
+  {
+    "id": "bloodlymph-27-3",
+    "title": "Chronic vs Acute ITP",
+    "course": "bloodlymph",
+    "brick_id": "27",
+    "brick_title": "Immune Thrombocytopenia",
+    "type": "disease",
+    "buzzwords": [
+      "two clinical forms",
+      "chronic affects adults",
+      "females under 40",
+      "acute follows viral illness",
+      "acute mostly in children",
+      "abrupt onset in kids",
+      "self-limited in children",
+      "chronic has recurrences"
+    ]
+  },
+  {
+    "id": "bloodlymph-27-4",
+    "title": "ITP Pathophysiology",
+    "course": "bloodlymph",
+    "brick_id": "27",
+    "brick_title": "Immune Thrombocytopenia",
+    "type": "physiology",
+    "buzzwords": [
+      "antiplatelet IgG",
+      "targets membrane glycoproteins",
+      "binds GPIIb/IIIa",
+      "opsonization",
+      "Fc receptor uptake",
+      "splenic macrophages destroy",
+      "increased megakaryocytes",
+      "biopsy not required"
+    ]
+  },
+  {
+    "id": "bloodlymph-27-5",
+    "title": "ITP Treatment",
+    "course": "bloodlymph",
+    "brick_id": "27",
+    "brick_title": "Immune Thrombocytopenia",
+    "type": "drug",
+    "buzzwords": [
+      "keep count safe",
+      "corticosteroids first-line",
+      "anti-CD20 for relapse",
+      "TPO agonists",
+      "IVIG rapidly raises count",
+      "avoid platelet transfusion",
+      "splenectomy refractory cases",
+      "rituximab"
+    ]
+  }
+]

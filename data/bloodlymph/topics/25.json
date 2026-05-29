@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-25-1",
+    "title": "Platelet Plug Formation",
+    "course": "bloodlymph",
+    "brick_id": "25",
+    "brick_title": "Hereditary Platelet Disorders",
+    "type": "physiology",
+    "buzzwords": [
+      "primary hemostasis",
+      "adhesion then aggregation",
+      "binds subendothelium",
+      "granules release contents",
+      "fibrinogen bridges platelets",
+      "GpIb binds vWF",
+      "GpIIb/IIIa binds fibrinogen",
+      "platelet plug"
+    ]
+  },
+  {
+    "id": "bloodlymph-25-2",
+    "title": "Bernard-Soulier Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "25",
+    "brick_title": "Hereditary Platelet Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "mucocutaneous bleeding",
+      "adhesion defect",
+      "low platelet count",
+      "giant platelets",
+      "absent ristocetin aggregation",
+      "GpIb receptor defect",
+      "Bernard-Soulier"
+    ]
+  },
+  {
+    "id": "bloodlymph-25-3",
+    "title": "Glanzmann Thrombasthenia",
+    "course": "bloodlymph",
+    "brick_id": "25",
+    "brick_title": "Hereditary Platelet Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "aggregation defect",
+      "normal platelet count",
+      "normal-appearing platelets",
+      "delayed umbilical separation",
+      "no aggregation with agonists",
+      "GpIIb/IIIa defect",
+      "Glanzmann thrombasthenia"
+    ]
+  },
+  {
+    "id": "bloodlymph-25-4",
+    "title": "Gray Platelet Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "25",
+    "brick_title": "Hereditary Platelet Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "platelet granule disorder",
+      "thrombocytopenia",
+      "alpha-granule deficiency",
+      "empty pale platelets",
+      "giant platelets",
+      "myelofibrosis and splenomegaly",
+      "treat with thrombopoietin agonist",
+      "gray platelet syndrome"
+    ]
+  },
+  {
+    "id": "bloodlymph-25-5",
+    "title": "Delta-Granule Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "25",
+    "brick_title": "Hereditary Platelet Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "platelet granule disorder",
+      "recurrent infections",
+      "dense granule deficiency",
+      "decreased clotting factor secretion",
+      "histologically normal smear",
+      "abnormal granules on EM",
+      "linked to Chediak-Higashi",
+      "delta-granule deficiency"
+    ]
+  }
+]

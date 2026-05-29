@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-54-1",
+    "title": "Splenomegaly",
+    "course": "bloodlymph",
+    "brick_id": "54",
+    "brick_title": "Disorders of the Spleen",
+    "type": "disease",
+    "buzzwords": [
+      "enlarged spleen",
+      "LUQ mass",
+      "palpable below ribcage",
+      "vascular congestion",
+      "extramedullary hematopoiesis",
+      "red cell entrapment",
+      "referred left shoulder pain",
+      "palpable >40% enlargement"
+    ]
+  },
+  {
+    "id": "bloodlymph-54-2",
+    "title": "Asplenia",
+    "course": "bloodlymph",
+    "brick_id": "54",
+    "brick_title": "Disorders of the Spleen",
+    "type": "disease",
+    "buzzwords": [
+      "absent splenic function",
+      "loss of resident B cells",
+      "post-splenectomy",
+      "sickle cell autoinfarction",
+      "encapsulated organism sepsis",
+      "vaccinate against encapsulated",
+      "thrombocytosis and leukocytosis",
+      "Howell-Jolly bodies"
+    ]
+  },
+  {
+    "id": "bloodlymph-54-3",
+    "title": "Splenic Rupture",
+    "course": "bloodlymph",
+    "brick_id": "54",
+    "brick_title": "Disorders of the Spleen",
+    "type": "disease",
+    "buzzwords": [
+      "highly vascular organ injured",
+      "blunt abdominal trauma",
+      "LUQ pain, guarding",
+      "hypovolemic shock",
+      "acutely enlarged ruptures easily",
+      "splenectomy if irreparable",
+      "left shoulder pain",
+      "Kehr sign"
+    ]
+  },
+  {
+    "id": "bloodlymph-54-4",
+    "title": "Splenic Abscess",
+    "course": "bloodlymph",
+    "brick_id": "54",
+    "brick_title": "Disorders of the Spleen",
+    "type": "disease",
+    "buzzwords": [
+      "intrasplenic pus collection",
+      "fever and LUQ pain",
+      "leukocytosis",
+      "complication of endocarditis",
+      "staph, strep, enterococcus",
+      "CT scan gold standard",
+      "IV antibiotics",
+      "needle aspiration for cultures"
+    ]
+  },
+  {
+    "id": "bloodlymph-54-5",
+    "title": "Accessory Spleen",
+    "course": "bloodlymph",
+    "brick_id": "54",
+    "brick_title": "Disorders of the Spleen",
+    "type": "anatomy",
+    "buzzwords": [
+      "congenital splenic anomaly",
+      "extra healthy splenic tissue",
+      "separate from main spleen",
+      "asymptomatic",
+      "incidental imaging finding",
+      "most common congenital anomaly",
+      "functions like normal spleen",
+      "splenule"
+    ]
+  }
+]

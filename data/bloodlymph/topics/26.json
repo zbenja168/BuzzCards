@@ -1,0 +1,128 @@
+[
+  {
+    "id": "bloodlymph-26-1",
+    "title": "Thrombocytopenia",
+    "course": "bloodlymph",
+    "brick_id": "26",
+    "brick_title": "Thrombocytopenia",
+    "type": "disease",
+    "buzzwords": [
+      "low platelet count",
+      "easy bruising",
+      "mucosal bleeding",
+      "below 150,000/uL",
+      "<50,000 skin bleeding risk",
+      "<10,000 hematologic emergency",
+      "spontaneous bleeding risk",
+      "CBC diagnoses it"
+    ]
+  },
+  {
+    "id": "bloodlymph-26-2",
+    "title": "Petechiae and Purpura",
+    "course": "bloodlymph",
+    "brick_id": "26",
+    "brick_title": "Thrombocytopenia",
+    "type": "physiology",
+    "buzzwords": [
+      "superficial skin bleeding",
+      "nonblanchable",
+      "red macules",
+      "petechiae <3 mm",
+      "purpura 3-10 mm",
+      "not deep joint bleeds",
+      "shin and ankle distribution",
+      "platelet-type bleeding"
+    ]
+  },
+  {
+    "id": "bloodlymph-26-3",
+    "title": "Decreased Production",
+    "course": "bloodlymph",
+    "brick_id": "26",
+    "brick_title": "Thrombocytopenia",
+    "type": "physiology",
+    "buzzwords": [
+      "fewer platelets made",
+      "megakaryocyte failure",
+      "bone marrow suppression",
+      "pancytopenia",
+      "B12 and folate deficiency",
+      "marrow infiltration",
+      "leukemia and lymphoma",
+      "Wiskott-Aldrich, TAR"
+    ]
+  },
+  {
+    "id": "bloodlymph-26-4",
+    "title": "Splenic Sequestration",
+    "course": "bloodlymph",
+    "brick_id": "26",
+    "brick_title": "Thrombocytopenia",
+    "type": "physiology",
+    "buzzwords": [
+      "platelets trapped in spleen",
+      "fewer in circulation",
+      "enlarged spleen",
+      "splenomegaly",
+      "one-third normally sequestered",
+      "portal hypertension cause",
+      "liver failure related",
+      "hypersplenism"
+    ]
+  },
+  {
+    "id": "bloodlymph-26-5",
+    "title": "Immune Thrombocytopenia",
+    "course": "bloodlymph",
+    "brick_id": "26",
+    "brick_title": "Thrombocytopenia",
+    "type": "disease",
+    "buzzwords": [
+      "antibody-mediated destruction",
+      "platelets destroyed in spleen",
+      "acquired autoimmune",
+      "often idiopathic",
+      "lupus association",
+      "HIV and H. pylori triggers",
+      "antiplatelet surface antibodies",
+      "ITP"
+    ]
+  },
+  {
+    "id": "bloodlymph-26-6",
+    "title": "Heparin-Induced Thrombocytopenia",
+    "course": "bloodlymph",
+    "brick_id": "26",
+    "brick_title": "Thrombocytopenia",
+    "type": "disease",
+    "buzzwords": [
+      "low platelets plus clotting",
+      "occurs 5-10 days in",
+      "paradoxical thrombosis",
+      "antibody to PF4 complex",
+      "stop heparin immediately",
+      "4T score risk assessment",
+      "start argatroban or fondaparinux",
+      "HIT"
+    ]
+  },
+  {
+    "id": "bloodlymph-26-7",
+    "title": "Microangiopathic Anemia",
+    "course": "bloodlymph",
+    "brick_id": "26",
+    "brick_title": "Thrombocytopenia",
+    "type": "physiology",
+    "buzzwords": [
+      "platelet consumption",
+      "microthrombi in small vessels",
+      "RBC fragments on smear",
+      "schistocytes",
+      "DIC",
+      "HELLP syndrome",
+      "TTP",
+      "hemolytic uremic syndrome"
+    ]
+  }
+]

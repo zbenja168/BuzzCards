@@ -1,0 +1,56 @@
+[
+  {
+    "id": "bloodlymph-35-1",
+    "title": "Yersinia pestis",
+    "course": "bloodlymph",
+    "brick_id": "35",
+    "brick_title": "Y. pestis, F. tularemia, and B. henselae",
+    "type": "disease",
+    "buzzwords": [
+      "zoonotic infection",
+      "flea bite",
+      "rodent reservoir",
+      "endemic western US",
+      "facultative intracellular",
+      "bipolar safety-pin stain",
+      "bubo lymphadenopathy",
+      "the plague"
+    ]
+  },
+  {
+    "id": "bloodlymph-35-2",
+    "title": "Francisella tularensis",
+    "course": "bloodlymph",
+    "brick_id": "35",
+    "brick_title": "Y. pestis, F. tularemia, and B. henselae",
+    "type": "disease",
+    "buzzwords": [
+      "zoonotic infection",
+      "tiny infectious dose",
+      "rabbit contact",
+      "tick or deerfly bite",
+      "endemic Ozarks",
+      "ulcerating inoculation site",
+      "cysteine charcoal agar",
+      "rabbit fever"
+    ]
+  },
+  {
+    "id": "bloodlymph-35-3",
+    "title": "Bartonella henselae",
+    "course": "bloodlymph",
+    "brick_id": "35",
+    "brick_title": "Y. pestis, F. tularemia, and B. henselae",
+    "type": "disease",
+    "buzzwords": [
+      "zoonotic infection",
+      "cat scratch or bite",
+      "regional lymphadenopathy",
+      "papule at inoculation",
+      "necrotizing granulomas",
+      "bacillary angiomatosis if immunocompromised",
+      "vascular skin nodules",
+      "cat scratch disease"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-50-1",
+    "title": "Myelodysplastic Neoplasms",
+    "course": "bloodlymph",
+    "brick_id": "50",
+    "brick_title": "Myelodysplastic Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "older adults",
+      "ineffective hematopoiesis",
+      "cytopenias",
+      "diagnosis of exclusion",
+      "dysplastic myeloid line",
+      "<20% marrow blasts",
+      "30% progress to AML",
+      "del(5q) abnormality"
+    ]
+  },
+  {
+    "id": "bloodlymph-50-2",
+    "title": "del(5q) Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "50",
+    "brick_title": "Myelodysplastic Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "older females",
+      "isolated chromosome deletion",
+      "anemia",
+      "normal WBC count",
+      "normal/elevated platelets",
+      "low leukemia risk",
+      "lenalidomide responsive",
+      "del(5q) MDS subtype"
+    ]
+  },
+  {
+    "id": "bloodlymph-50-3",
+    "title": "Ring Sideroblasts",
+    "course": "bloodlymph",
+    "brick_id": "50",
+    "brick_title": "Myelodysplastic Neoplasms",
+    "type": "lab",
+    "buzzwords": [
+      "dysplastic RBC precursor",
+      "iron accumulation",
+      "perinuclear iron granules",
+      "ring around nucleus",
+      "Prussian blue stain",
+      "marrow finding in MDS",
+      "iron-laden mitochondria",
+      "ringed sideroblast"
+    ]
+  },
+  {
+    "id": "bloodlymph-50-4",
+    "title": "Lenalidomide",
+    "course": "bloodlymph",
+    "brick_id": "50",
+    "brick_title": "Myelodysplastic Neoplasms",
+    "type": "drug",
+    "buzzwords": [
+      "immunomodulatory drug",
+      "lowers TNF-alpha",
+      "low-risk MDS therapy",
+      "myelosuppression risk",
+      "thrombosis risk",
+      "teratogen black box",
+      "best for del(5q)",
+      "thalidomide analog"
+    ]
+  },
+  {
+    "id": "bloodlymph-50-5",
+    "title": "Azacitidine",
+    "course": "bloodlymph",
+    "brick_id": "50",
+    "brick_title": "Myelodysplastic Neoplasms",
+    "type": "drug",
+    "buzzwords": [
+      "pyrimidine nucleoside analog",
+      "low-risk MDS therapy",
+      "incorporated into DNA",
+      "nausea and vomiting",
+      "mucositis",
+      "myelosuppression",
+      "inhibits DNA methylation",
+      "hypomethylating agent"
+    ]
+  }
+]

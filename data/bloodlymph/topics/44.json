@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bloodlymph-44-1",
+    "title": "Multiple Myeloma",
+    "course": "bloodlymph",
+    "brick_id": "44",
+    "brick_title": "Multiple Myeloma and Other Plasma Cell Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "malignant plasma cells",
+      "older adults",
+      "anemia and fatigue",
+      "lytic bone lesions",
+      "hypercalcemia",
+      "renal failure",
+      ">10% clonal marrow plasma cells",
+      "CRAB"
+    ]
+  },
+  {
+    "id": "bloodlymph-44-2",
+    "title": "AL Amyloidosis",
+    "course": "bloodlymph",
+    "brick_id": "44",
+    "brick_title": "Multiple Myeloma and Other Plasma Cell Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "misfolded immunoglobulin",
+      "pinkish deposits",
+      "enlarged tongue",
+      "restrictive cardiomyopathy",
+      "nephrotic syndrome",
+      "carpal tunnel syndrome",
+      "light-chain origin",
+      "apple-green birefringence"
+    ]
+  },
+  {
+    "id": "bloodlymph-44-3",
+    "title": "M Spike",
+    "course": "bloodlymph",
+    "brick_id": "44",
+    "brick_title": "Multiple Myeloma and Other Plasma Cell Disorders",
+    "type": "lab",
+    "buzzwords": [
+      "serum protein test",
+      "separates by charge",
+      "gamma region peak",
+      "clonal antibody product",
+      "monoclonal protein",
+      "narrow tall spike",
+      "confirmed by immunofixation",
+      "SPEP M spike"
+    ]
+  },
+  {
+    "id": "bloodlymph-44-4",
+    "title": "MGUS",
+    "course": "bloodlymph",
+    "brick_id": "44",
+    "brick_title": "Multiple Myeloma and Other Plasma Cell Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "asymptomatic",
+      "no organ damage",
+      "small M spike",
+      "<10% marrow plasma cells",
+      "low progression risk",
+      "IgG or IgA spike",
+      "precursor to myeloma",
+      "undetermined significance"
+    ]
+  },
+  {
+    "id": "bloodlymph-44-5",
+    "title": "Smoldering Myeloma",
+    "course": "bloodlymph",
+    "brick_id": "44",
+    "brick_title": "Multiple Myeloma and Other Plasma Cell Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "asymptomatic",
+      "no CRAB findings",
+      "moderate M spike",
+      ">10% marrow plasma cells",
+      "higher progression than MGUS",
+      "IgG or IgA spike",
+      "intermediate stage",
+      "smoldering myeloma"
+    ]
+  },
+  {
+    "id": "bloodlymph-44-6",
+    "title": "Waldenstrom Macroglobulinemia",
+    "course": "bloodlymph",
+    "brick_id": "44",
+    "brick_title": "Multiple Myeloma and Other Plasma Cell Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "hyperviscosity syndrome",
+      "fatigue and fever",
+      "retinal vision loss",
+      "peripheral neuropathy",
+      "IgM monoclonal spike",
+      "pentamer clumps RBCs",
+      "lymphoplasmacytic marrow",
+      "Waldenstrom macroglobulinemia"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bloodlymph-7-1",
+    "title": "Anemia of Chronic Disease",
+    "course": "bloodlymph",
+    "brick_id": "7",
+    "brick_title": "Anemia of Chronic Disease/Inflammation",
+    "type": "disease",
+    "buzzwords": [
+      "decreased RBC count",
+      "fatigue and pallor",
+      "underlying chronic illness",
+      "second most common anemia",
+      "usually normocytic",
+      "can be microcytic",
+      "diagnosis of exclusion",
+      "anemia of inflammation"
+    ]
+  },
+  {
+    "id": "bloodlymph-7-2",
+    "title": "Hepcidin",
+    "course": "bloodlymph",
+    "brick_id": "7",
+    "brick_title": "Anemia of Chronic Disease/Inflammation",
+    "type": "physiology",
+    "buzzwords": [
+      "iron-regulating hormone",
+      "raised by inflammation",
+      "induced by IL-6",
+      "traps iron in macrophages",
+      "degrades ferroportin-1",
+      "blocks enterocyte iron release",
+      "lowers circulating iron",
+      "starves marrow of iron"
+    ]
+  },
+  {
+    "id": "bloodlymph-7-3",
+    "title": "ACD Iron Studies",
+    "course": "bloodlymph",
+    "brick_id": "7",
+    "brick_title": "Anemia of Chronic Disease/Inflammation",
+    "type": "lab",
+    "buzzwords": [
+      "low serum iron",
+      "low TIBC",
+      "low transferrin",
+      "normal or high ferritin",
+      "low transferrin saturation",
+      "acute-phase reactant pattern",
+      "distinguishes from iron deficiency",
+      "iron trapped in stores"
+    ]
+  },
+  {
+    "id": "bloodlymph-7-4",
+    "title": "Anemia of CKD",
+    "course": "bloodlymph",
+    "brick_id": "7",
+    "brick_title": "Anemia of Chronic Disease/Inflammation",
+    "type": "disease",
+    "buzzwords": [
+      "anemia in kidney disease",
+      "shortened RBC lifespan",
+      "uremic toxin buildup",
+      "deficient hormone production",
+      "low erythropoietin",
+      "ineffective erythropoiesis",
+      "treated with synthetic EPO",
+      "EPO injections"
+    ]
+  }
+]

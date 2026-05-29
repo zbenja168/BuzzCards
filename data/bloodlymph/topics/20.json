@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-20-1",
+    "title": "von Willebrand Factor",
+    "course": "bloodlymph",
+    "brick_id": "20",
+    "brick_title": "von Willebrand Disease",
+    "type": "physiology",
+    "buzzwords": [
+      "multimeric glycoprotein",
+      "made of monomers",
+      "binds collagen",
+      "stabilizes factor VIII",
+      "two main jobs",
+      "mediates platelet adhesion",
+      "binds GpIb receptor",
+      "vWF"
+    ]
+  },
+  {
+    "id": "bloodlymph-20-2",
+    "title": "vWD Variants",
+    "course": "bloodlymph",
+    "brick_id": "20",
+    "brick_title": "von Willebrand Disease",
+    "type": "disease",
+    "buzzwords": [
+      "three main types",
+      "type 1 quantitative partial",
+      "autosomal dominant",
+      "type 2 qualitative defect",
+      "type 3 complete absence",
+      "type 3 autosomal recessive",
+      "type 3 most severe",
+      "type 3 lowers factor VIII"
+    ]
+  },
+  {
+    "id": "bloodlymph-20-3",
+    "title": "vWD Presentation",
+    "course": "bloodlymph",
+    "brick_id": "20",
+    "brick_title": "von Willebrand Disease",
+    "type": "disease",
+    "buzzwords": [
+      "most common inherited bleeding disorder",
+      "mucosal bleeding",
+      "easy bruising",
+      "frequent nosebleeds",
+      "heavy menstruation",
+      "often undiagnosed",
+      "petechiae",
+      "menorrhagia"
+    ]
+  },
+  {
+    "id": "bloodlymph-20-4",
+    "title": "vWD Diagnosis",
+    "course": "bloodlymph",
+    "brick_id": "20",
+    "brick_title": "von Willebrand Disease",
+    "type": "lab",
+    "buzzwords": [
+      "measures vWF quantity",
+      "tests vWF function",
+      "vWF antigen assay",
+      "prolonged PTT",
+      "low factor VIII activity",
+      "platelet aggregation studies",
+      "ristocetin cofactor",
+      "ristocetin agglutination"
+    ]
+  },
+  {
+    "id": "bloodlymph-20-5",
+    "title": "vWD Management",
+    "course": "bloodlymph",
+    "brick_id": "20",
+    "brick_title": "von Willebrand Disease",
+    "type": "drug",
+    "buzzwords": [
+      "goal is bleeding control",
+      "vWF replacement therapy",
+      "antifibrinolytics",
+      "aminocaproic acid",
+      "tranexamic acid",
+      "cryoprecipitate alternative",
+      "releases stored vWF",
+      "desmopressin DDAVP"
+    ]
+  }
+]

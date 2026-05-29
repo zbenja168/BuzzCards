@@ -1,0 +1,5600 @@
+[
+  {
+    "id": "bloodlymph-1-1",
+    "title": "Hematopoiesis",
+    "course": "bloodlymph",
+    "brick_id": "1",
+    "brick_title": "Hematopoiesis",
+    "type": "physiology",
+    "buzzwords": [
+      "blood cell production",
+      "occurs in bone marrow",
+      "starts in yolk sac",
+      "liver mid-gestation",
+      "shifts to marrow postnatally",
+      "all cells from HSCs",
+      "myeloid and lymphoid lines",
+      "extramedullary in marrow failure"
+    ]
+  },
+  {
+    "id": "bloodlymph-1-2",
+    "title": "Erythropoiesis",
+    "course": "bloodlymph",
+    "brick_id": "1",
+    "brick_title": "Hematopoiesis",
+    "type": "physiology",
+    "buzzwords": [
+      "makes red blood cells",
+      "takes about a week",
+      "cell shrinks as it matures",
+      "cytoplasm reddens",
+      "nucleus condenses then ejected",
+      "reticulocyte retains RNA",
+      "RBC lives ~120 days",
+      "proerythroblast to erythrocyte"
+    ]
+  },
+  {
+    "id": "bloodlymph-1-3",
+    "title": "Erythropoietin",
+    "course": "bloodlymph",
+    "brick_id": "1",
+    "brick_title": "Hematopoiesis",
+    "type": "physiology",
+    "buzzwords": [
+      "stimulates red cell production",
+      "released by the kidney",
+      "triggered by hypoxia",
+      "rises up to 1000-fold",
+      "activates JAK/STAT signaling",
+      "low in chronic kidney disease",
+      "given as epoetin alfa",
+      "abused for endurance doping"
+    ]
+  },
+  {
+    "id": "bloodlymph-1-4",
+    "title": "Granulopoiesis",
+    "course": "bloodlymph",
+    "brick_id": "1",
+    "brick_title": "Hematopoiesis",
+    "type": "physiology",
+    "buzzwords": [
+      "white blood cell production",
+      "myeloid line origin",
+      "makes neutrophils eosinophils basophils",
+      "takes about two weeks",
+      "six neutrophil maturation stages",
+      "myeloblast is earliest stage",
+      "band precedes segmented neutrophil",
+      "G-CSF drug filgrastim"
+    ]
+  },
+  {
+    "id": "bloodlymph-1-5",
+    "title": "Megakaryocytes",
+    "course": "bloodlymph",
+    "brick_id": "1",
+    "brick_title": "Hematopoiesis",
+    "type": "physiology",
+    "buzzwords": [
+      "giant marrow cell",
+      "platelet precursor",
+      "50-100 micrometers wide",
+      "replicates DNA without dividing",
+      "undergoes endomitosis",
+      "sheds 1000-3000 platelets",
+      "platelets bud near sinusoids",
+      "platelets lack a nucleus"
+    ]
+  },
+  {
+    "id": "bloodlymph-1-6",
+    "title": "Thrombopoietin",
+    "course": "bloodlymph",
+    "brick_id": "1",
+    "brick_title": "Hematopoiesis",
+    "type": "physiology",
+    "buzzwords": [
+      "drives platelet production",
+      "made mostly by liver",
+      "stimulates megakaryocytes",
+      "cleared by circulating platelets",
+      "negative feedback on count",
+      "rises when platelets fall",
+      "no clinical recombinant form",
+      "mimetics eltrombopag romiplostim"
+    ]
+  },
+  {
+    "id": "bloodlymph-2-1",
+    "title": "Bohr Effect",
+    "course": "bloodlymph",
+    "brick_id": "2",
+    "brick_title": "RBC Metabolism",
+    "type": "physiology",
+    "buzzwords": [
+      "shifts dissociation curve",
+      "favors O2 unloading",
+      "active tissue effect",
+      "raises p50",
+      "decreases Hb affinity",
+      "low pH lowers affinity",
+      "elevated pCO2",
+      "carbaminohemoglobin contributes"
+    ]
+  },
+  {
+    "id": "bloodlymph-2-2",
+    "title": "2,3-BPG",
+    "course": "bloodlymph",
+    "brick_id": "2",
+    "brick_title": "RBC Metabolism",
+    "type": "physiology",
+    "buzzwords": [
+      "modulates Hb affinity",
+      "promotes O2 release",
+      "decreases Hb affinity",
+      "glycolytic derivative",
+      "Rapoport-Luebering shunt",
+      "from 1,3-BPG",
+      "bisphosphoglycerate mutase",
+      "elevated in PK deficiency"
+    ]
+  },
+  {
+    "id": "bloodlymph-2-3",
+    "title": "G6PD Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "2",
+    "brick_title": "RBC Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "hemolytic anemia",
+      "episodic hemolysis",
+      "oxidative stress trigger",
+      "depleted NADPH",
+      "infections, drugs, fava beans",
+      "bite cells",
+      "blister cells",
+      "Heinz bodies"
+    ]
+  },
+  {
+    "id": "bloodlymph-2-4",
+    "title": "Pyruvate Kinase Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "2",
+    "brick_title": "RBC Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "hemolytic anemia",
+      "chronic hemolysis",
+      "ATP depletion",
+      "inflexible rigid RBCs",
+      "second most common RBC enzymopathy",
+      "blocks PEP to pyruvate",
+      "elevated 2,3-BPG",
+      "spiculated echinocytes"
+    ]
+  },
+  {
+    "id": "bloodlymph-2-5",
+    "title": "Methemoglobinemia",
+    "course": "bloodlymph",
+    "brick_id": "2",
+    "brick_title": "RBC Metabolism",
+    "type": "disease",
+    "buzzwords": [
+      "impaired oxygen delivery",
+      "ferric Fe3+ iron",
+      "cyanosis unresponsive to O2",
+      "increased affinity of remaining heme",
+      "falsely low pulse oximetry",
+      "chocolate brown blood",
+      "treated with methylene blue",
+      "nitrites and dapsone trigger"
+    ]
+  },
+  {
+    "id": "bloodlymph-2-6",
+    "title": "Cytochrome b5 Reductase",
+    "course": "bloodlymph",
+    "brick_id": "2",
+    "brick_title": "RBC Metabolism",
+    "type": "physiology",
+    "buzzwords": [
+      "protects against oxidation",
+      "reduces ferric iron",
+      "maintains functional hemoglobin",
+      "uses NADH",
+      "NADH from GAPDH step",
+      "keeps metHb below 1%",
+      "deficiency causes congenital methemoglobinemia",
+      "regenerates ferrous Fe2+"
+    ]
+  },
+  {
+    "id": "bloodlymph-3-1",
+    "title": "RBC Indices",
+    "course": "bloodlymph",
+    "brick_id": "3",
+    "brick_title": "Red Blood Cell Laboratory Tests",
+    "type": "lab",
+    "buzzwords": [
+      "part of CBC",
+      "evaluates RBCs",
+      "diagnoses anemia",
+      "size and Hgb content",
+      "MCV is average size",
+      "RDW is size variability",
+      "MCH and MCHC",
+      "micro/normo/macrocytic"
+    ]
+  },
+  {
+    "id": "bloodlymph-3-2",
+    "title": "Abnormal RBC Morphology",
+    "course": "bloodlymph",
+    "brick_id": "3",
+    "brick_title": "Red Blood Cell Laboratory Tests",
+    "type": "lab",
+    "buzzwords": [
+      "Wright-Giemsa stain",
+      "loss of central pallor",
+      "shapes and inclusions",
+      "target cell in thalassemia",
+      "teardrop in myelofibrosis",
+      "schistocyte from shearing",
+      "spherocyte loses pallor",
+      "Howell-Jolly post-splenectomy"
+    ]
+  },
+  {
+    "id": "bloodlymph-3-3",
+    "title": "Reticulocyte Count",
+    "course": "bloodlymph",
+    "brick_id": "3",
+    "brick_title": "Red Blood Cell Laboratory Tests",
+    "type": "lab",
+    "buzzwords": [
+      "needs supravital stain",
+      "uses fresh blood",
+      "young immature RBCs",
+      "shows residual RNA",
+      "normally 1-2%",
+      "marrow response marker",
+      "low means hypoproliferative",
+      "new methylene blue"
+    ]
+  },
+  {
+    "id": "bloodlymph-3-4",
+    "title": "Hemoglobin Electrophoresis",
+    "course": "bloodlymph",
+    "brick_id": "3",
+    "brick_title": "Red Blood Cell Laboratory Tests",
+    "type": "lab",
+    "buzzwords": [
+      "applies electric charge",
+      "separates Hgb types",
+      "identifies Hgb variants",
+      "diagnoses thalassemia",
+      "detects sickle trait",
+      "HbA is normal adult",
+      "HbF is fetal",
+      "HbS confirms sickle cell"
+    ]
+  },
+  {
+    "id": "bloodlymph-3-5",
+    "title": "Osmotic Fragility Test",
+    "course": "bloodlymph",
+    "brick_id": "3",
+    "brick_title": "Red Blood Cell Laboratory Tests",
+    "type": "lab",
+    "buzzwords": [
+      "uses saline solutions",
+      "measures hemolysis",
+      "tests RBC durability",
+      "fragile cells lyse early",
+      "lyse at higher NaCl",
+      "increased in spherocytosis",
+      "decreased in thalassemia",
+      "hereditary spherocytosis classic"
+    ]
+  },
+  {
+    "id": "bloodlymph-3-6",
+    "title": "Direct Antiglobulin Test",
+    "course": "bloodlymph",
+    "brick_id": "3",
+    "brick_title": "Red Blood Cell Laboratory Tests",
+    "type": "lab",
+    "buzzwords": [
+      "also called DAT",
+      "uses Coombs reagent",
+      "detects RBC-bound antibody",
+      "detects bound complement",
+      "positive causes agglutination",
+      "positive in AIHA",
+      "hemolytic disease of newborn",
+      "direct Coombs test"
+    ]
+  },
+  {
+    "id": "bloodlymph-4-1",
+    "title": "Definitions of Anemia",
+    "course": "bloodlymph",
+    "brick_id": "4",
+    "brick_title": "History-Taking Approach to Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "sign, not a diagnosis",
+      "indicates underlying disease",
+      "two definitions",
+      "low oxygen-carrying capacity",
+      "physiologic definition",
+      "Hgb below reference range",
+      "clinical definition",
+      "uses age and sex"
+    ]
+  },
+  {
+    "id": "bloodlymph-4-2",
+    "title": "Dilutional Anemia",
+    "course": "bloodlymph",
+    "brick_id": "4",
+    "brick_title": "History-Taking Approach to Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "falsely low hemoglobin",
+      "increased plasma volume",
+      "normal RBC mass",
+      "Hgb is a ratio",
+      "WBC and platelets also drop",
+      "seen in pregnancy",
+      "fluid resuscitation cause",
+      "dilutional anemia"
+    ]
+  },
+  {
+    "id": "bloodlymph-4-3",
+    "title": "Blood Loss History",
+    "course": "bloodlymph",
+    "brick_id": "4",
+    "brick_title": "History-Taking Approach to Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "common cause of anemia",
+      "GI bleeding source",
+      "menstrual blood loss",
+      "leads to iron deficiency",
+      "black tarry stools",
+      "blood in urine",
+      "200 mg iron per donation",
+      "melena and hematuria"
+    ]
+  },
+  {
+    "id": "bloodlymph-4-4",
+    "title": "Inherited vs Acquired",
+    "course": "bloodlymph",
+    "brick_id": "4",
+    "brick_title": "History-Taking Approach to Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "family history clue",
+      "early age at onset",
+      "prior anemia treatment",
+      "childhood transfusions",
+      "ethnic background matters",
+      "malaria resistance trait",
+      "ask about relatives",
+      "inherited vs acquired"
+    ]
+  },
+  {
+    "id": "bloodlymph-4-5",
+    "title": "Hemolysis Clues",
+    "course": "bloodlymph",
+    "brick_id": "4",
+    "brick_title": "History-Taking Approach to Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "premature RBC destruction",
+      "jaundice",
+      "elevated indirect bilirubin",
+      "dark urine",
+      "hemoglobinuria",
+      "splenomegaly",
+      "spleen is hemolysis site",
+      "scleral icterus"
+    ]
+  },
+  {
+    "id": "bloodlymph-4-6",
+    "title": "Drugs Causing Anemia",
+    "course": "bloodlymph",
+    "brick_id": "4",
+    "brick_title": "History-Taking Approach to Anemia",
+    "type": "drug",
+    "buzzwords": [
+      "complete drug history",
+      "marrow suppression",
+      "NSAIDs cause GI bleed",
+      "oxidant hemolysis",
+      "folate antagonists",
+      "chemotherapy aplasia",
+      "primaquine and dapsone",
+      "methotrexate and trimethoprim"
+    ]
+  },
+  {
+    "id": "bloodlymph-4-7",
+    "title": "Systemic Illness",
+    "course": "bloodlymph",
+    "brick_id": "4",
+    "brick_title": "History-Taking Approach to Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "non-hematologic cause",
+      "chronic inflammation",
+      "underlying infection",
+      "renal disease",
+      "liver disease",
+      "endocrine disorders",
+      "malignancy association",
+      "anemia of chronic disease"
+    ]
+  },
+  {
+    "id": "bloodlymph-5-1",
+    "title": "Iron-Deficiency Anemia",
+    "course": "bloodlymph",
+    "brick_id": "5",
+    "brick_title": "Iron-Deficiency Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "most common nutritional deficiency",
+      "fatigue, pallor",
+      "pica",
+      "microcytic anemia",
+      "hypochromic RBCs",
+      "low ferritin, high TIBC",
+      "chronic blood loss",
+      "heavy menses or GI bleed"
+    ]
+  },
+  {
+    "id": "bloodlymph-5-2",
+    "title": "Hepcidin",
+    "course": "bloodlymph",
+    "brick_id": "5",
+    "brick_title": "Iron-Deficiency Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "iron regulatory hormone",
+      "made by hepatocytes",
+      "rises with inflammation",
+      "lowers serum iron",
+      "degrades ferroportin",
+      "sequesters iron in cells",
+      "erythropoietin suppresses it",
+      "drives anemia of chronic disease"
+    ]
+  },
+  {
+    "id": "bloodlymph-5-3",
+    "title": "Ferroportin",
+    "course": "bloodlymph",
+    "brick_id": "5",
+    "brick_title": "Iron-Deficiency Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "membrane iron transporter",
+      "exports iron to blood",
+      "found on enterocytes",
+      "also on macrophages",
+      "internalized when iron is high",
+      "target of hepcidin",
+      "degraded by hepcidin",
+      "blocks iron release when low"
+    ]
+  },
+  {
+    "id": "bloodlymph-5-4",
+    "title": "Ferritin",
+    "course": "bloodlymph",
+    "brick_id": "5",
+    "brick_title": "Iron-Deficiency Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "intracellular iron storage protein",
+      "reflects total body iron",
+      "liver stores bulk",
+      "neutralizes free radicals",
+      "acute phase reactant",
+      "rises in inflammation",
+      "low under 15 ng/mL",
+      "most diagnostic single test"
+    ]
+  },
+  {
+    "id": "bloodlymph-5-5",
+    "title": "Transferrin",
+    "course": "bloodlymph",
+    "brick_id": "5",
+    "brick_title": "Iron-Deficiency Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "blood iron transport protein",
+      "carries iron in plasma",
+      "increased in iron deficiency",
+      "measured as TIBC",
+      "high TIBC when iron low",
+      "binding sites mostly empty",
+      "low saturation percentage",
+      "saturation best reflects iron status"
+    ]
+  },
+  {
+    "id": "bloodlymph-5-6",
+    "title": "Koilonychia",
+    "course": "bloodlymph",
+    "brick_id": "5",
+    "brick_title": "Iron-Deficiency Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "physical exam finding",
+      "nail change",
+      "concave nail shape",
+      "spoon-shaped nails",
+      "seen with angular cheilitis",
+      "and atrophic glossitis",
+      "shiny smooth tongue",
+      "specific for iron deficiency"
+    ]
+  },
+  {
+    "id": "bloodlymph-6-1",
+    "title": "Thalassemias",
+    "course": "bloodlymph",
+    "brick_id": "6",
+    "brick_title": "Thalassemias",
+    "type": "disease",
+    "buzzwords": [
+      "inherited anemia",
+      "quantitative hemoglobinopathy",
+      "reduced globin chains",
+      "microcytic hypochromic anemia",
+      "ineffective erythropoiesis",
+      "unbalanced globin precipitates",
+      "alpha or beta chain deficit",
+      "thalassemia"
+    ]
+  },
+  {
+    "id": "bloodlymph-6-2",
+    "title": "Alpha-Thalassemia",
+    "course": "bloodlymph",
+    "brick_id": "6",
+    "brick_title": "Thalassemias",
+    "type": "disease",
+    "buzzwords": [
+      "decreased alpha chains",
+      "gene deletions",
+      "four alpha genes",
+      "chromosome 16",
+      "excess beta tetramers",
+      "fetal Hb Barts",
+      "four-deletion hydrops fetalis",
+      "hemoglobin H disease"
+    ]
+  },
+  {
+    "id": "bloodlymph-6-3",
+    "title": "Beta-Thalassemia",
+    "course": "bloodlymph",
+    "brick_id": "6",
+    "brick_title": "Thalassemias",
+    "type": "disease",
+    "buzzwords": [
+      "decreased beta chains",
+      "point mutations",
+      "chromosome 11",
+      "elevated HbA2",
+      "elevated HbF",
+      "transfusion-dependent major",
+      "Erlenmeyer flask long bones",
+      "crew-cut skull frontal bossing"
+    ]
+  },
+  {
+    "id": "bloodlymph-7-1",
+    "title": "Anemia of Chronic Disease",
+    "course": "bloodlymph",
+    "brick_id": "7",
+    "brick_title": "Anemia of Chronic Disease/Inflammation",
+    "type": "disease",
+    "buzzwords": [
+      "decreased RBC count",
+      "fatigue and pallor",
+      "underlying chronic illness",
+      "second most common anemia",
+      "usually normocytic",
+      "can be microcytic",
+      "diagnosis of exclusion",
+      "anemia of inflammation"
+    ]
+  },
+  {
+    "id": "bloodlymph-7-2",
+    "title": "Hepcidin",
+    "course": "bloodlymph",
+    "brick_id": "7",
+    "brick_title": "Anemia of Chronic Disease/Inflammation",
+    "type": "physiology",
+    "buzzwords": [
+      "iron-regulating hormone",
+      "raised by inflammation",
+      "induced by IL-6",
+      "traps iron in macrophages",
+      "degrades ferroportin-1",
+      "blocks enterocyte iron release",
+      "lowers circulating iron",
+      "starves marrow of iron"
+    ]
+  },
+  {
+    "id": "bloodlymph-7-3",
+    "title": "ACD Iron Studies",
+    "course": "bloodlymph",
+    "brick_id": "7",
+    "brick_title": "Anemia of Chronic Disease/Inflammation",
+    "type": "lab",
+    "buzzwords": [
+      "low serum iron",
+      "low TIBC",
+      "low transferrin",
+      "normal or high ferritin",
+      "low transferrin saturation",
+      "acute-phase reactant pattern",
+      "distinguishes from iron deficiency",
+      "iron trapped in stores"
+    ]
+  },
+  {
+    "id": "bloodlymph-7-4",
+    "title": "Anemia of CKD",
+    "course": "bloodlymph",
+    "brick_id": "7",
+    "brick_title": "Anemia of Chronic Disease/Inflammation",
+    "type": "disease",
+    "buzzwords": [
+      "anemia in kidney disease",
+      "shortened RBC lifespan",
+      "uremic toxin buildup",
+      "deficient hormone production",
+      "low erythropoietin",
+      "ineffective erythropoiesis",
+      "treated with synthetic EPO",
+      "EPO injections"
+    ]
+  },
+  {
+    "id": "bloodlymph-8-1",
+    "title": "Sideroblastic Anemia",
+    "course": "bloodlymph",
+    "brick_id": "8",
+    "brick_title": "Sideroblastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "impaired iron utilization",
+      "ineffective erythropoiesis",
+      "microcytic anemia",
+      "high serum ferritin",
+      "defective heme synthesis",
+      "iron overload",
+      "dimorphic RBCs",
+      "ringed sideroblasts"
+    ]
+  },
+  {
+    "id": "bloodlymph-8-2",
+    "title": "Ringed Sideroblasts",
+    "course": "bloodlymph",
+    "brick_id": "8",
+    "brick_title": "Sideroblastic Anemia",
+    "type": "lab",
+    "buzzwords": [
+      "bone marrow finding",
+      "nucleated erythroid precursor",
+      "iron-laden mitochondria",
+      "ring around nucleus",
+      "Prussian blue positive",
+      "perinuclear iron inclusions",
+      "not on peripheral smear",
+      "diagnostic hallmark"
+    ]
+  },
+  {
+    "id": "bloodlymph-8-3",
+    "title": "Pappenheimer Bodies",
+    "course": "bloodlymph",
+    "brick_id": "8",
+    "brick_title": "Sideroblastic Anemia",
+    "type": "lab",
+    "buzzwords": [
+      "peripheral smear finding",
+      "iron-containing granules",
+      "clustered RBC inclusions",
+      "cell periphery location",
+      "Prussian blue positive",
+      "seen with basophilic stippling",
+      "most common smear finding",
+      "Pappenheimer bodies"
+    ]
+  },
+  {
+    "id": "bloodlymph-8-4",
+    "title": "ALAS / Vitamin B6",
+    "course": "bloodlymph",
+    "brick_id": "8",
+    "brick_title": "Sideroblastic Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "first heme synthesis step",
+      "rate-limiting enzyme",
+      "needs pyridoxine cofactor",
+      "X-linked gene mutation",
+      "deficiency causes anemia",
+      "isoniazid lowers it",
+      "responds to B6",
+      "delta-aminolevulinic acid synthase"
+    ]
+  },
+  {
+    "id": "bloodlymph-8-5",
+    "title": "Lead Poisoning",
+    "course": "bloodlymph",
+    "brick_id": "8",
+    "brick_title": "Sideroblastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "acquired sideroblastic anemia",
+      "anemia plus neuro symptoms",
+      "old chipped paint",
+      "inhibits ferrochelatase",
+      "inhibits ALA dehydratase",
+      "basophilic stippling",
+      "common cause in children",
+      "lead exposure"
+    ]
+  },
+  {
+    "id": "bloodlymph-10-1",
+    "title": "Aplastic Anemia",
+    "course": "bloodlymph",
+    "brick_id": "10",
+    "brick_title": "Aplastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "fatigue and dyspnea",
+      "petechiae and bleeding",
+      "recurrent infections",
+      "pancytopenia",
+      "normocytic anemia",
+      "low reticulocytes",
+      "loss of myeloid HSCs",
+      "hypocellular fatty marrow"
+    ]
+  },
+  {
+    "id": "bloodlymph-10-2",
+    "title": "Fanconi Anemia",
+    "course": "bloodlymph",
+    "brick_id": "10",
+    "brick_title": "Aplastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "inherited aplastic anemia",
+      "autosomal recessive",
+      "defective DNA repair",
+      "childhood pancytopenia",
+      "short stature",
+      "cafe-au-lait spots",
+      "radial/thumb anomalies",
+      "increased chromosomal breaks"
+    ]
+  },
+  {
+    "id": "bloodlymph-10-3",
+    "title": "Pure Red Cell Aplasia",
+    "course": "bloodlymph",
+    "brick_id": "10",
+    "brick_title": "Aplastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "isolated anemia",
+      "low reticulocytes",
+      "decreased erythroid precursors",
+      "normal platelets and granulocytes",
+      "thymoma association",
+      "parvovirus B19 trigger",
+      "CLL association",
+      "no pancytopenia"
+    ]
+  },
+  {
+    "id": "bloodlymph-10-4",
+    "title": "Diamond-Blackfan Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "10",
+    "brick_title": "Aplastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "congenital pure red cell aplasia",
+      "ribosomal protein mutation",
+      "macrocytic anemia",
+      "reticulocytopenia",
+      "presents in infancy",
+      "cancer predisposition",
+      "triphalangeal thumb",
+      "responds to corticosteroids"
+    ]
+  },
+  {
+    "id": "bloodlymph-11-1",
+    "title": "Hereditary Spherocytosis",
+    "course": "bloodlymph",
+    "brick_id": "11",
+    "brick_title": "Hereditary Spherocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "chronic hemolytic anemia",
+      "jaundice",
+      "splenomegaly",
+      "northern European",
+      "increased MCHC",
+      "sphere-shaped RBCs",
+      "ankyrin or spectrin defect",
+      "EMA binding test"
+    ]
+  },
+  {
+    "id": "bloodlymph-11-2",
+    "title": "Spherocyte",
+    "course": "bloodlymph",
+    "brick_id": "11",
+    "brick_title": "Hereditary Spherocytosis",
+    "type": "physiology",
+    "buzzwords": [
+      "lost membrane excess",
+      "no central pallor",
+      "smaller diameter",
+      "no wiggle room",
+      "splenic destruction",
+      "extravascular hemolysis",
+      "osmotic fragility positive",
+      "membrane blebbing"
+    ]
+  },
+  {
+    "id": "bloodlymph-11-3",
+    "title": "Hereditary Elliptocytosis",
+    "course": "bloodlymph",
+    "brick_id": "11",
+    "brick_title": "Hereditary Spherocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "membrane defect",
+      "usually asymptomatic",
+      "mild hemolysis",
+      "African descent",
+      "autosomal dominant",
+      "spectrin defect",
+      "elliptocytes on smear",
+      "peripheral smear diagnosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-11-4",
+    "title": "Pyropoikilocytosis",
+    "course": "bloodlymph",
+    "brick_id": "11",
+    "brick_title": "Hereditary Spherocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "rare membrane defect",
+      "moderate-severe hemolysis",
+      "autosomal recessive",
+      "two spectrin mutations",
+      "two HE mutations",
+      "RBCs resemble burns",
+      "bizarre RBC shapes",
+      "HPP"
+    ]
+  },
+  {
+    "id": "bloodlymph-12-1",
+    "title": "Sickle Cell Disease",
+    "course": "bloodlymph",
+    "brick_id": "12",
+    "brick_title": "Sickle Cell Disease",
+    "type": "disease",
+    "buzzwords": [
+      "inherited hemoglobinopathy",
+      "hemolytic anemia",
+      "autosomal recessive",
+      "presents in infancy",
+      "sub-Saharan African ancestry",
+      "beta-globin point mutation",
+      "glutamate to valine",
+      "HbS"
+    ]
+  },
+  {
+    "id": "bloodlymph-12-2",
+    "title": "RBC Sickling",
+    "course": "bloodlymph",
+    "brick_id": "12",
+    "brick_title": "Sickle Cell Disease",
+    "type": "physiology",
+    "buzzwords": [
+      "deoxygenation triggers it",
+      "worsened by acidosis",
+      "worsened by dehydration",
+      "exposed hydrophobic valine",
+      "HbS polymerizes",
+      "rigid inflexible cells",
+      "semicircular shape",
+      "blade-shaped RBC"
+    ]
+  },
+  {
+    "id": "bloodlymph-12-3",
+    "title": "Vaso-occlusive Crisis",
+    "course": "bloodlymph",
+    "brick_id": "12",
+    "brick_title": "Sickle Cell Disease",
+    "type": "disease",
+    "buzzwords": [
+      "sharp localized pain",
+      "tissue ischemia",
+      "recurrent painful episodes",
+      "functional asplenia",
+      "encapsulated organism risk",
+      "avascular necrosis of hip",
+      "dactylitis",
+      "priapism"
+    ]
+  },
+  {
+    "id": "bloodlymph-12-4",
+    "title": "Acute Chest Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "12",
+    "brick_title": "Sickle Cell Disease",
+    "type": "disease",
+    "buzzwords": [
+      "common mortality cause",
+      "chest pain",
+      "fever and dyspnea",
+      "hypoxia",
+      "pulmonary vessel occlusion",
+      "often infection-triggered",
+      "new chest radiodensity",
+      "exchange transfusion treatment"
+    ]
+  },
+  {
+    "id": "bloodlymph-12-5",
+    "title": "Hemoglobin Electrophoresis",
+    "course": "bloodlymph",
+    "brick_id": "12",
+    "brick_title": "Sickle Cell Disease",
+    "type": "lab",
+    "buzzwords": [
+      "confirmatory test",
+      "separates by charge",
+      "separates by size",
+      "cellulose acetate gel",
+      "detects abnormal hemoglobin",
+      "HbS near cathode",
+      "distinguishes trait from disease",
+      "HbA migrates farthest"
+    ]
+  },
+  {
+    "id": "bloodlymph-12-6",
+    "title": "Hydroxyurea",
+    "course": "bloodlymph",
+    "brick_id": "12",
+    "brick_title": "Sickle Cell Disease",
+    "type": "drug",
+    "buzzwords": [
+      "reduces pain crises",
+      "fewer acute chest episodes",
+      "increases fetal hemoglobin",
+      "HbF inhibits polymerization",
+      "causes leukopenia",
+      "raises skin cancer risk",
+      "raises leukemia risk",
+      "boosts HbF"
+    ]
+  },
+  {
+    "id": "bloodlymph-12-7",
+    "title": "Hemoglobin C Disease",
+    "course": "bloodlymph",
+    "brick_id": "12",
+    "brick_title": "Sickle Cell Disease",
+    "type": "disease",
+    "buzzwords": [
+      "beta-chain hemoglobinopathy",
+      "mild hemolytic anemia",
+      "African heritage",
+      "glutamate to lysine",
+      "sixth position mutation",
+      "target cells on smear",
+      "splenomegaly possible",
+      "HbC crystals"
+    ]
+  },
+  {
+    "id": "bloodlymph-13-1",
+    "title": "G6PD Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "13",
+    "brick_title": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+    "type": "disease",
+    "buzzwords": [
+      "hereditary hemolytic anemia",
+      "RBCs vulnerable to oxidation",
+      "low reduced glutathione",
+      "X-linked recessive",
+      "episodic intravascular hemolysis",
+      "triggered by fava beans",
+      "bite cells",
+      "Heinz bodies"
+    ]
+  },
+  {
+    "id": "bloodlymph-13-2",
+    "title": "Pyruvate Kinase Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "13",
+    "brick_title": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+    "type": "disease",
+    "buzzwords": [
+      "chronic hemolytic anemia",
+      "RBC ATP depletion",
+      "rigid red cells",
+      "extravascular hemolysis",
+      "increased 2,3-BPG",
+      "right-shifted oxygen curve",
+      "autosomal recessive",
+      "Northern European descent"
+    ]
+  },
+  {
+    "id": "bloodlymph-14-1",
+    "title": "Warm AHA",
+    "course": "bloodlymph",
+    "brick_id": "14",
+    "brick_title": "Autoimmune Hemolytic Anemias",
+    "type": "disease",
+    "buzzwords": [
+      "autoimmune hemolysis",
+      "antibodies vs own RBCs",
+      "active at body temperature",
+      "extravascular hemolysis",
+      "splenomegaly",
+      "spherocytes on smear",
+      "IgG-mediated",
+      "drug-induced (penicillins)"
+    ]
+  },
+  {
+    "id": "bloodlymph-14-2",
+    "title": "Cold AHA",
+    "course": "bloodlymph",
+    "brick_id": "14",
+    "brick_title": "Autoimmune Hemolytic Anemias",
+    "type": "disease",
+    "buzzwords": [
+      "autoimmune hemolysis",
+      "worse in the cold",
+      "acrocyanosis of extremities",
+      "complement activation",
+      "intravascular hemolysis",
+      "Mycoplasma, mononucleosis trigger",
+      "cold agglutinins",
+      "IgM pentamer-mediated"
+    ]
+  },
+  {
+    "id": "bloodlymph-14-3",
+    "title": "Direct Coombs Test",
+    "course": "bloodlymph",
+    "brick_id": "14",
+    "brick_title": "Autoimmune Hemolytic Anemias",
+    "type": "lab",
+    "buzzwords": [
+      "detects RBC-bound antibody",
+      "uses antihuman immunoglobulin",
+      "agglutinates coated RBCs",
+      "positive in AHA",
+      "differentiates autoimmune hemolysis",
+      "detects warm and cold",
+      "direct antiglobulin test",
+      "DAT"
+    ]
+  },
+  {
+    "id": "bloodlymph-14-4",
+    "title": "PNH",
+    "course": "bloodlymph",
+    "brick_id": "14",
+    "brick_title": "Autoimmune Hemolytic Anemias",
+    "type": "disease",
+    "buzzwords": [
+      "clonal stem cell disorder",
+      "DAT-negative hemolysis",
+      "morning red urine",
+      "venous thrombosis risk",
+      "pancytopenia, aplastic anemia",
+      "missing GPI anchors",
+      "absent CD55 and CD59",
+      "eculizumab treatment"
+    ]
+  },
+  {
+    "id": "bloodlymph-14-5",
+    "title": "PCH",
+    "course": "bloodlymph",
+    "brick_id": "14",
+    "brick_title": "Autoimmune Hemolytic Anemias",
+    "type": "disease",
+    "buzzwords": [
+      "childhood hemolysis after virus",
+      "intravascular hemolysis",
+      "biphasic antibody",
+      "binds cold, lyses warm",
+      "targets P antigen",
+      "self-limited, supportive care",
+      "Donath-Landsteiner antibody",
+      "paroxysmal cold hemoglobinuria"
+    ]
+  },
+  {
+    "id": "bloodlymph-15-1",
+    "title": "Megaloblastic Anemia",
+    "course": "bloodlymph",
+    "brick_id": "15",
+    "brick_title": "Megaloblastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "impaired DNA synthesis",
+      "macrocytic anemia",
+      "ineffective hematopoiesis",
+      "hypercellular marrow",
+      "nuclear-cytoplasmic asynchrony",
+      "macro-ovalocytes",
+      "MCV >115 fL",
+      "hypersegmented neutrophils"
+    ]
+  },
+  {
+    "id": "bloodlymph-15-2",
+    "title": "Vitamin B12 Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "15",
+    "brick_title": "Megaloblastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "cobalamin",
+      "large body store",
+      "neurologic symptoms",
+      "numbness and tingling",
+      "subacute combined degeneration",
+      "elevated methylmalonic acid",
+      "methionine synthase cofactor",
+      "Diphyllobothrium latum"
+    ]
+  },
+  {
+    "id": "bloodlymph-15-3",
+    "title": "Folate Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "15",
+    "brick_title": "Megaloblastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "no neurologic symptoms",
+      "small body store",
+      "neural tube defects",
+      "methylene-THF for thymidine",
+      "pregnancy demand",
+      "methotrexate inhibits",
+      "trimethoprim antimetabolite",
+      "phenytoin impairs absorption"
+    ]
+  },
+  {
+    "id": "bloodlymph-15-4",
+    "title": "Pernicious Anemia",
+    "course": "bloodlymph",
+    "brick_id": "15",
+    "brick_title": "Megaloblastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "B12 malabsorption",
+      "chronic gastritis",
+      "parietal cell destruction",
+      "low intrinsic factor",
+      "decreased gastric acidity",
+      "anti-intrinsic factor antibodies",
+      "antiparietal cell antibodies",
+      "needs intramuscular B12"
+    ]
+  },
+  {
+    "id": "bloodlymph-15-5",
+    "title": "Diamond-Blackfan Anemia",
+    "course": "bloodlymph",
+    "brick_id": "15",
+    "brick_title": "Megaloblastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "congenital macrocytic anemia",
+      "infancy onset",
+      "pure red cell aplasia",
+      "reticulocytopenia",
+      "triphalangeal thumbs",
+      "craniofacial abnormalities",
+      "cancer predisposition",
+      "erythroid aplasia"
+    ]
+  },
+  {
+    "id": "bloodlymph-16-1",
+    "title": "Prothrombin Time",
+    "course": "bloodlymph",
+    "brick_id": "16",
+    "brick_title": "Coagulation Assays",
+    "type": "lab",
+    "buzzwords": [
+      "measures clotting time",
+      "normal 11-15 seconds",
+      "add tissue factor reagent",
+      "extrinsic and common pathways",
+      "factor VII activity",
+      "monitors warfarin",
+      "reported as INR",
+      "INR normal 0.8-1.2"
+    ]
+  },
+  {
+    "id": "bloodlymph-16-2",
+    "title": "Partial Thromboplastin Time",
+    "course": "bloodlymph",
+    "brick_id": "16",
+    "brick_title": "Coagulation Assays",
+    "type": "lab",
+    "buzzwords": [
+      "measures clotting time",
+      "no tissue factor added",
+      "add phospholipid plus activator",
+      "intrinsic and common pathways",
+      "silica or kaolin activator",
+      "monitors heparin therapy",
+      "aPTT normal 25-40 sec",
+      "prolonged in hemophilia"
+    ]
+  },
+  {
+    "id": "bloodlymph-16-3",
+    "title": "Thrombin Time",
+    "course": "bloodlymph",
+    "brick_id": "16",
+    "brick_title": "Coagulation Assays",
+    "type": "lab",
+    "buzzwords": [
+      "rarely used assay",
+      "add thrombin to plasma",
+      "very end of cascade",
+      "fibrinogen to fibrin step",
+      "normal 12-14 seconds",
+      "detects fibrinogen deficiency",
+      "detects fibrinogen mutation",
+      "common pathway terminal step"
+    ]
+  },
+  {
+    "id": "bloodlymph-16-4",
+    "title": "Mixing Study",
+    "course": "bloodlymph",
+    "brick_id": "16",
+    "brick_title": "Coagulation Assays",
+    "type": "lab",
+    "buzzwords": [
+      "evaluates prolonged PTT",
+      "mix with normal plasma",
+      "rerun the PTT",
+      "corrects means factor deficiency",
+      "stays prolonged means inhibitor",
+      "detects circulating antibody",
+      "identifies lupus anticoagulant",
+      "transient correction means inhibitor"
+    ]
+  },
+  {
+    "id": "bloodlymph-16-5",
+    "title": "D-dimer Assay",
+    "course": "bloodlymph",
+    "brick_id": "16",
+    "brick_title": "Coagulation Assays",
+    "type": "lab",
+    "buzzwords": [
+      "measures clot breakdown",
+      "marker of fibrinolysis",
+      "plasmin degrades fibrin",
+      "highly sensitive low specificity",
+      "elevated in DVT and PE",
+      "elevated in DIC",
+      "negative rules out thrombus",
+      "cross-linked fibrin fragment"
+    ]
+  },
+  {
+    "id": "bloodlymph-17-1",
+    "title": "Primary Hemostasis",
+    "course": "bloodlymph",
+    "brick_id": "17",
+    "brick_title": "Hemostasis",
+    "type": "physiology",
+    "buzzwords": [
+      "stops bleeding",
+      "temporary plug",
+      "vessel constriction first",
+      "endothelin release",
+      "platelet adhesion",
+      "GpIb binds collagen",
+      "thromboxane A2 recruits",
+      "GpIIb/IIIa binds fibrinogen"
+    ]
+  },
+  {
+    "id": "bloodlymph-17-2",
+    "title": "Coagulation Cascade",
+    "course": "bloodlymph",
+    "brick_id": "17",
+    "brick_title": "Hemostasis",
+    "type": "physiology",
+    "buzzwords": [
+      "secondary hemostasis",
+      "enzyme chain reaction",
+      "makes fibrin clot",
+      "extrinsic arm",
+      "intrinsic arm",
+      "common pathway converges",
+      "tissue factor triggers extrinsic",
+      "thrombin cleaves fibrinogen"
+    ]
+  },
+  {
+    "id": "bloodlymph-17-3",
+    "title": "Vitamin K and Calcium",
+    "course": "bloodlymph",
+    "brick_id": "17",
+    "brick_title": "Hemostasis",
+    "type": "physiology",
+    "buzzwords": [
+      "clotting cofactor",
+      "factors II VII IX X",
+      "gamma-carboxylation of glutamate",
+      "enables calcium binding",
+      "newborns deficient",
+      "EDTA chelates calcium",
+      "citrate used in banking",
+      "warfarin blocks it"
+    ]
+  },
+  {
+    "id": "bloodlymph-17-4",
+    "title": "Natural Anticoagulants",
+    "course": "bloodlymph",
+    "brick_id": "17",
+    "brick_title": "Hemostasis",
+    "type": "physiology",
+    "buzzwords": [
+      "limits clotting",
+      "endothelial antithrombotics",
+      "prostacyclin and nitric oxide",
+      "antithrombin inhibits thrombin",
+      "heparin enhances antithrombin",
+      "TFPI switches off extrinsic",
+      "protein C inactivates Va VIIIa",
+      "Factor V Leiden resists"
+    ]
+  },
+  {
+    "id": "bloodlymph-17-5",
+    "title": "Fibrinolytic System",
+    "course": "bloodlymph",
+    "brick_id": "17",
+    "brick_title": "Hemostasis",
+    "type": "physiology",
+    "buzzwords": [
+      "dissolves clots",
+      "clot remodeling",
+      "plasmin degrades fibrin",
+      "plasminogen precursor",
+      "releases D-dimers",
+      "D-dimer marks DVT",
+      "tPA activates plasminogen",
+      "tPA given after strokes"
+    ]
+  },
+  {
+    "id": "bloodlymph-17-6",
+    "title": "von Willebrand Disease",
+    "course": "bloodlymph",
+    "brick_id": "17",
+    "brick_title": "Hemostasis",
+    "type": "disease",
+    "buzzwords": [
+      "most common hereditary bleeding",
+      "often asymptomatic",
+      "mucocutaneous bleeding",
+      "nosebleeds heavy menses",
+      "defective platelet adhesion",
+      "normal PT",
+      "vWF activity test",
+      "deficient von Willebrand factor"
+    ]
+  },
+  {
+    "id": "bloodlymph-17-7",
+    "title": "Hemophilia",
+    "course": "bloodlymph",
+    "brick_id": "17",
+    "brick_title": "Hemostasis",
+    "type": "disease",
+    "buzzwords": [
+      "inherited factor deficiency",
+      "deep tissue bleeding",
+      "X-linked recessive",
+      "affects males",
+      "intrinsic pathway defect",
+      "prolonged aPTT normal PT",
+      "joint bleeds hemarthrosis",
+      "Factor VIII or IX missing"
+    ]
+  },
+  {
+    "id": "bloodlymph-18-1",
+    "title": "ABO Blood Group",
+    "course": "bloodlymph",
+    "brick_id": "18",
+    "brick_title": "Transfusion Medicine",
+    "type": "physiology",
+    "buzzwords": [
+      "RBC surface antigens",
+      "sugars added to H antigen",
+      "four antigen types",
+      "naturally occurring antibodies",
+      "type O lacks A and B",
+      "type AB universal recipient",
+      "type O universal donor",
+      "A, B, AB, O"
+    ]
+  },
+  {
+    "id": "bloodlymph-18-2",
+    "title": "Rh System",
+    "course": "bloodlymph",
+    "brick_id": "18",
+    "brick_title": "Transfusion Medicine",
+    "type": "physiology",
+    "buzzwords": [
+      "clinically the D antigen",
+      "positive or negative status",
+      "antibodies not naturally occurring",
+      "made only after exposure",
+      "anti-D crosses placenta",
+      "hemolytic disease of newborn",
+      "RhoGAM prevents sensitization",
+      "first described in Rhesus monkeys"
+    ]
+  },
+  {
+    "id": "bloodlymph-18-3",
+    "title": "Pre-Transfusion Testing",
+    "course": "bloodlymph",
+    "brick_id": "18",
+    "brick_title": "Transfusion Medicine",
+    "type": "lab",
+    "buzzwords": [
+      "ensures donor-recipient compatibility",
+      "type and screen",
+      "forward typing detects antigens",
+      "reverse typing detects antibodies",
+      "screen uses RBC panel",
+      "crossmatch is mini-transfusion",
+      "agglutination means incompatible",
+      "done before transfusion"
+    ]
+  },
+  {
+    "id": "bloodlymph-18-4",
+    "title": "Blood Products",
+    "course": "bloodlymph",
+    "brick_id": "18",
+    "brick_title": "Transfusion Medicine",
+    "type": "physiology",
+    "buzzwords": [
+      "separated by centrifuge",
+      "packed RBCs for anemia",
+      "platelets for thrombocytopenia",
+      "granulocytes for neutropenic infection",
+      "FFP has all clotting factors",
+      "stored at room temperature",
+      "cryoprecipitate has fibrinogen",
+      "cryo has factor VIII and vWF"
+    ]
+  },
+  {
+    "id": "bloodlymph-18-5",
+    "title": "Hemolytic Transfusion Reaction",
+    "course": "bloodlymph",
+    "brick_id": "18",
+    "brick_title": "Transfusion Medicine",
+    "type": "disease",
+    "buzzwords": [
+      "antibodies attack donor RBCs",
+      "fever, chills, back pain",
+      "hemoglobinuria",
+      "ABO mismatch is acute",
+      "minor antigen mismatch delayed",
+      "can cause DIC and shock",
+      "treat with IV fluids, diuresis",
+      "positive direct antiglobulin test"
+    ]
+  },
+  {
+    "id": "bloodlymph-18-6",
+    "title": "Allergic & Febrile Reactions",
+    "course": "bloodlymph",
+    "brick_id": "18",
+    "brick_title": "Transfusion Medicine",
+    "type": "disease",
+    "buzzwords": [
+      "reaction without hemolysis",
+      "allergic is type 1 hypersensitivity",
+      "urticaria, itching, wheezing",
+      "antihistamines or epinephrine",
+      "febrile from donor leukocytes",
+      "fever and flushing",
+      "leukoreduction lowers risk",
+      "most common reaction is allergic"
+    ]
+  },
+  {
+    "id": "bloodlymph-19-1",
+    "title": "Hemophilia A",
+    "course": "bloodlymph",
+    "brick_id": "19",
+    "brick_title": "Hemophilia",
+    "type": "disease",
+    "buzzwords": [
+      "bleeding disorder",
+      "intrinsic pathway defect",
+      "prolonged aPTT",
+      "normal PT",
+      "hemarthrosis",
+      "X-linked recessive",
+      "factor VIII deficiency",
+      "most common hemophilia"
+    ]
+  },
+  {
+    "id": "bloodlymph-19-2",
+    "title": "Hemophilia B",
+    "course": "bloodlymph",
+    "brick_id": "19",
+    "brick_title": "Hemophilia",
+    "type": "disease",
+    "buzzwords": [
+      "inherited bleeding disorder",
+      "prolonged aPTT",
+      "normal PT",
+      "X-linked recessive",
+      "mimics hemophilia A",
+      "factor IX deficiency",
+      "diagnosed by factor assay",
+      "Christmas disease"
+    ]
+  },
+  {
+    "id": "bloodlymph-19-3",
+    "title": "Mixing Study",
+    "course": "bloodlymph",
+    "brick_id": "19",
+    "brick_title": "Hemophilia",
+    "type": "lab",
+    "buzzwords": [
+      "coagulation test",
+      "add normal plasma",
+      "replaces missing factor",
+      "corrects in factor deficiency",
+      "fails to correct with inhibitor",
+      "distinguishes deficiency vs antibody",
+      "PTT normalizes in hemophilia",
+      "Bethesda units quantify inhibitor"
+    ]
+  },
+  {
+    "id": "bloodlymph-19-4",
+    "title": "Acquired Hemophilia",
+    "course": "bloodlymph",
+    "brick_id": "19",
+    "brick_title": "Hemophilia",
+    "type": "disease",
+    "buzzwords": [
+      "non-inherited bleeding disorder",
+      "autoimmune etiology",
+      "older patients",
+      "female predominance",
+      "soft tissue bleeds",
+      "anti-factor VIII antibody",
+      "treat with immunosuppression",
+      "recombinant factor VIIa"
+    ]
+  },
+  {
+    "id": "bloodlymph-20-1",
+    "title": "von Willebrand Factor",
+    "course": "bloodlymph",
+    "brick_id": "20",
+    "brick_title": "von Willebrand Disease",
+    "type": "physiology",
+    "buzzwords": [
+      "multimeric glycoprotein",
+      "made of monomers",
+      "binds collagen",
+      "stabilizes factor VIII",
+      "two main jobs",
+      "mediates platelet adhesion",
+      "binds GpIb receptor",
+      "vWF"
+    ]
+  },
+  {
+    "id": "bloodlymph-20-2",
+    "title": "vWD Variants",
+    "course": "bloodlymph",
+    "brick_id": "20",
+    "brick_title": "von Willebrand Disease",
+    "type": "disease",
+    "buzzwords": [
+      "three main types",
+      "type 1 quantitative partial",
+      "autosomal dominant",
+      "type 2 qualitative defect",
+      "type 3 complete absence",
+      "type 3 autosomal recessive",
+      "type 3 most severe",
+      "type 3 lowers factor VIII"
+    ]
+  },
+  {
+    "id": "bloodlymph-20-3",
+    "title": "vWD Presentation",
+    "course": "bloodlymph",
+    "brick_id": "20",
+    "brick_title": "von Willebrand Disease",
+    "type": "disease",
+    "buzzwords": [
+      "most common inherited bleeding disorder",
+      "mucosal bleeding",
+      "easy bruising",
+      "frequent nosebleeds",
+      "heavy menstruation",
+      "often undiagnosed",
+      "petechiae",
+      "menorrhagia"
+    ]
+  },
+  {
+    "id": "bloodlymph-20-4",
+    "title": "vWD Diagnosis",
+    "course": "bloodlymph",
+    "brick_id": "20",
+    "brick_title": "von Willebrand Disease",
+    "type": "lab",
+    "buzzwords": [
+      "measures vWF quantity",
+      "tests vWF function",
+      "vWF antigen assay",
+      "prolonged PTT",
+      "low factor VIII activity",
+      "platelet aggregation studies",
+      "ristocetin cofactor",
+      "ristocetin agglutination"
+    ]
+  },
+  {
+    "id": "bloodlymph-20-5",
+    "title": "vWD Management",
+    "course": "bloodlymph",
+    "brick_id": "20",
+    "brick_title": "von Willebrand Disease",
+    "type": "drug",
+    "buzzwords": [
+      "goal is bleeding control",
+      "vWF replacement therapy",
+      "antifibrinolytics",
+      "aminocaproic acid",
+      "tranexamic acid",
+      "cryoprecipitate alternative",
+      "releases stored vWF",
+      "desmopressin DDAVP"
+    ]
+  },
+  {
+    "id": "bloodlymph-21-1",
+    "title": "DIC",
+    "course": "bloodlymph",
+    "brick_id": "21",
+    "brick_title": "Disseminated Intravascular Coagulation",
+    "type": "disease",
+    "buzzwords": [
+      "clotting plus bleeding",
+      "always secondary",
+      "sick ICU patients",
+      "multi-organ involvement",
+      "petechiae",
+      "consumes platelets, factors",
+      "thrombotic microangiopathy",
+      "disseminated intravascular coagulation"
+    ]
+  },
+  {
+    "id": "bloodlymph-21-2",
+    "title": "DIC Triggers",
+    "course": "bloodlymph",
+    "brick_id": "21",
+    "brick_title": "Disseminated Intravascular Coagulation",
+    "type": "disease",
+    "buzzwords": [
+      "dumpers vs rippers",
+      "tissue factor release",
+      "gram-negative sepsis",
+      "obstetric abruption",
+      "mucinous adenocarcinoma",
+      "venomous snake bites",
+      "acute promyelocytic leukemia",
+      "amniotic fluid embolism"
+    ]
+  },
+  {
+    "id": "bloodlymph-21-3",
+    "title": "DIC Labs",
+    "course": "bloodlymph",
+    "brick_id": "21",
+    "brick_title": "Disseminated Intravascular Coagulation",
+    "type": "lab",
+    "buzzwords": [
+      "low platelets",
+      "prolonged PT, aPTT",
+      "prolonged thrombin time",
+      "low fibrinogen",
+      "elevated indirect bilirubin",
+      "elevated fibrin degradation products",
+      "elevated D-dimers",
+      "schistocytes on smear"
+    ]
+  },
+  {
+    "id": "bloodlymph-21-4",
+    "title": "Schistocytes",
+    "course": "bloodlymph",
+    "brick_id": "21",
+    "brick_title": "Disseminated Intravascular Coagulation",
+    "type": "lab",
+    "buzzwords": [
+      "fragmented red cells",
+      "sliced by fibrin strands",
+      "angular, not round",
+      "no central pallor",
+      "pointed contours",
+      "marks hemolysis",
+      "any thrombotic microangiopathy",
+      "microangiopathic hemolytic anemia"
+    ]
+  },
+  {
+    "id": "bloodlymph-22-1",
+    "title": "Antiphospholipid Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "22",
+    "brick_title": "Antiphospholipid Antibody Syndrome",
+    "type": "disease",
+    "buzzwords": [
+      "autoimmune disorder",
+      "prothrombotic state",
+      "arterial and venous thrombi",
+      "recurrent DVT and PE",
+      "stroke in young patient",
+      "most common acquired thrombophilia",
+      "recurrent pregnancy loss",
+      "associated with SLE"
+    ]
+  },
+  {
+    "id": "bloodlymph-22-2",
+    "title": "Antiphospholipid Antibodies",
+    "course": "bloodlymph",
+    "brick_id": "22",
+    "brick_title": "Antiphospholipid Antibody Syndrome",
+    "type": "lab",
+    "buzzwords": [
+      "target cell membrane phospholipids",
+      "promote hypercoagulability",
+      "confirm on two occasions",
+      "12 weeks apart",
+      "lupus anticoagulant",
+      "anticardiolipin antibodies",
+      "anti-beta-2-glycoprotein-I",
+      "diagnostic triad"
+    ]
+  },
+  {
+    "id": "bloodlymph-22-3",
+    "title": "Lupus Anticoagulant Paradox",
+    "course": "bloodlymph",
+    "brick_id": "22",
+    "brick_title": "Antiphospholipid Antibody Syndrome",
+    "type": "lab",
+    "buzzwords": [
+      "prolonged aPTT",
+      "thrombotic in vivo",
+      "anticoagulant in vitro",
+      "low platelet count",
+      "low serum complement",
+      "binds phospholipid reagent",
+      "misleading clotting time",
+      "lupus anticoagulant"
+    ]
+  },
+  {
+    "id": "bloodlymph-22-4",
+    "title": "Two-Hit Theory",
+    "course": "bloodlymph",
+    "brick_id": "22",
+    "brick_title": "Antiphospholipid Antibody Syndrome",
+    "type": "physiology",
+    "buzzwords": [
+      "two components needed",
+      "antibodies alone insufficient",
+      "added hypercoagulability risk",
+      "smoking or surgery",
+      "pregnancy or malignancy",
+      "oral contraceptive trigger",
+      "second hit precipitates disease",
+      "two-hit model"
+    ]
+  },
+  {
+    "id": "bloodlymph-22-5",
+    "title": "APS Management",
+    "course": "bloodlymph",
+    "brick_id": "22",
+    "brick_title": "Antiphospholipid Antibody Syndrome",
+    "type": "drug",
+    "buzzwords": [
+      "anticoagulation",
+      "treat after thrombotic event",
+      "long-term therapy",
+      "initial heparin bridge",
+      "chronic warfarin",
+      "prevents rethrombosis",
+      "pregnancy uses LMWH",
+      "low-dose aspirin in pregnancy"
+    ]
+  },
+  {
+    "id": "bloodlymph-23-1",
+    "title": "Factor V Leiden",
+    "course": "bloodlymph",
+    "brick_id": "23",
+    "brick_title": "Genetic Thrombotic Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "hereditary hypercoagulability",
+      "unprovoked DVT",
+      "most common inherited thrombophilia",
+      "40-50% of cases",
+      "mutant factor V",
+      "arginine-to-glutamine substitution",
+      "activated protein C resistance",
+      "factor Va not inactivated"
+    ]
+  },
+  {
+    "id": "bloodlymph-23-2",
+    "title": "Prothrombin G20210A",
+    "course": "bloodlymph",
+    "brick_id": "23",
+    "brick_title": "Genetic Thrombotic Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "inherited clotting tendency",
+      "activates thrombosis",
+      "guanine-to-adenine at 20210",
+      "overproduction of factor II",
+      "high prothrombin levels",
+      "more fibrin formation",
+      "autosomal dominant",
+      "prothrombin G20210A"
+    ]
+  },
+  {
+    "id": "bloodlymph-23-3",
+    "title": "Protein C/S Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "23",
+    "brick_title": "Genetic Thrombotic Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "loss of clotting inhibitor",
+      "factors Va and VIIIa not inactivated",
+      "protein S is the cofactor",
+      "homozygotes severely affected",
+      "purpura fulminans in neonates",
+      "transient hypercoagulable state",
+      "warfarin-induced skin necrosis",
+      "protein C deficiency"
+    ]
+  },
+  {
+    "id": "bloodlymph-23-4",
+    "title": "Antithrombin Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "23",
+    "brick_title": "Genetic Thrombotic Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "lost coagulation inhibitor",
+      "inhibits thrombin and factor Xa",
+      "autosomal dominant",
+      "many different gene mutations",
+      "supplement antithrombin for surgery",
+      "treat with dabigatran",
+      "heparin resistance",
+      "antithrombin deficiency"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-1",
+    "title": "Factor V Leiden",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "hereditary hypercoagulability",
+      "overactive clotting",
+      "most common thrombophilia",
+      "single point mutation",
+      "cascade cannot turn off",
+      "resistant to protein C",
+      "factor V uncleavable",
+      "factor V Leiden"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-2",
+    "title": "Prothrombin Mutation",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "rare hereditary thrombophilia",
+      "overactive clotting",
+      "excess clotting factor made",
+      "too much thrombin",
+      "excess fibrin formation",
+      "factor II gene mutation",
+      "prothrombin G20210A",
+      "prothrombin gene mutation"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-3",
+    "title": "Antithrombin Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "hereditary thrombophilia",
+      "lost clotting inhibitor",
+      "cascade hard to shut off",
+      "acts on most factors",
+      "shuts down cascade broadly",
+      "heparin resistance",
+      "low antithrombin levels",
+      "antithrombin deficiency"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-4",
+    "title": "Protein C/S Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "hereditary thrombophilia",
+      "lost clotting inhibitor",
+      "inactivates factors Va, VIIIa",
+      "cascade hard to shut off",
+      "warfarin-induced skin necrosis risk",
+      "two separate gene defects",
+      "low protein C or S",
+      "protein C and S deficiency"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-5",
+    "title": "Antiphospholipid Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "acquired thrombophilia",
+      "main acquired thrombotic disorder",
+      "recurrent miscarriage",
+      "antibodies to phospholipids",
+      "damages vascular endothelium",
+      "activates platelets",
+      "linked to lupus",
+      "antiphospholipid antibody syndrome"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-6",
+    "title": "Warfarin",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "drug",
+    "buzzwords": [
+      "oral anticoagulant",
+      "vitamin K antagonist",
+      "monitored with PT/INR",
+      "delayed onset, long half-life",
+      "early hypercoagulable state",
+      "teratogen, avoid pregnancy",
+      "metabolized by CYP2C9",
+      "warfarin skin necrosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-7",
+    "title": "Heparin",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "drug",
+    "buzzwords": [
+      "parenteral anticoagulant",
+      "activates antithrombin",
+      "inhibits factors Xa and IIa",
+      "monitored with PTT or anti-Xa",
+      "reversed by protamine sulfate",
+      "UFH versus LMWH",
+      "LMWH more selective for Xa",
+      "heparin-induced thrombocytopenia"
+    ]
+  },
+  {
+    "id": "bloodlymph-24-8",
+    "title": "Direct Thrombin Inhibitors",
+    "course": "bloodlymph",
+    "brick_id": "24",
+    "brick_title": "Thrombotic Disorders: Foundations and Frameworks",
+    "type": "drug",
+    "buzzwords": [
+      "anticoagulant drug class",
+      "inhibits thrombin directly",
+      "no cofactor needed",
+      "alternative in HITT",
+      "cleared by liver",
+      "bleeding main side effect",
+      "idarucizumab reverses dabigatran",
+      "dabigatran, argatroban, bivalirudin"
+    ]
+  },
+  {
+    "id": "bloodlymph-25-1",
+    "title": "Platelet Plug Formation",
+    "course": "bloodlymph",
+    "brick_id": "25",
+    "brick_title": "Hereditary Platelet Disorders",
+    "type": "physiology",
+    "buzzwords": [
+      "primary hemostasis",
+      "adhesion then aggregation",
+      "binds subendothelium",
+      "granules release contents",
+      "fibrinogen bridges platelets",
+      "GpIb binds vWF",
+      "GpIIb/IIIa binds fibrinogen",
+      "platelet plug"
+    ]
+  },
+  {
+    "id": "bloodlymph-25-2",
+    "title": "Bernard-Soulier Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "25",
+    "brick_title": "Hereditary Platelet Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "mucocutaneous bleeding",
+      "adhesion defect",
+      "low platelet count",
+      "giant platelets",
+      "absent ristocetin aggregation",
+      "GpIb receptor defect",
+      "Bernard-Soulier"
+    ]
+  },
+  {
+    "id": "bloodlymph-25-3",
+    "title": "Glanzmann Thrombasthenia",
+    "course": "bloodlymph",
+    "brick_id": "25",
+    "brick_title": "Hereditary Platelet Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "aggregation defect",
+      "normal platelet count",
+      "normal-appearing platelets",
+      "delayed umbilical separation",
+      "no aggregation with agonists",
+      "GpIIb/IIIa defect",
+      "Glanzmann thrombasthenia"
+    ]
+  },
+  {
+    "id": "bloodlymph-25-4",
+    "title": "Gray Platelet Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "25",
+    "brick_title": "Hereditary Platelet Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "platelet granule disorder",
+      "thrombocytopenia",
+      "alpha-granule deficiency",
+      "empty pale platelets",
+      "giant platelets",
+      "myelofibrosis and splenomegaly",
+      "treat with thrombopoietin agonist",
+      "gray platelet syndrome"
+    ]
+  },
+  {
+    "id": "bloodlymph-25-5",
+    "title": "Delta-Granule Deficiency",
+    "course": "bloodlymph",
+    "brick_id": "25",
+    "brick_title": "Hereditary Platelet Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "platelet granule disorder",
+      "recurrent infections",
+      "dense granule deficiency",
+      "decreased clotting factor secretion",
+      "histologically normal smear",
+      "abnormal granules on EM",
+      "linked to Chediak-Higashi",
+      "delta-granule deficiency"
+    ]
+  },
+  {
+    "id": "bloodlymph-26-1",
+    "title": "Thrombocytopenia",
+    "course": "bloodlymph",
+    "brick_id": "26",
+    "brick_title": "Thrombocytopenia",
+    "type": "disease",
+    "buzzwords": [
+      "low platelet count",
+      "easy bruising",
+      "mucosal bleeding",
+      "below 150,000/uL",
+      "<50,000 skin bleeding risk",
+      "<10,000 hematologic emergency",
+      "spontaneous bleeding risk",
+      "CBC diagnoses it"
+    ]
+  },
+  {
+    "id": "bloodlymph-26-2",
+    "title": "Petechiae and Purpura",
+    "course": "bloodlymph",
+    "brick_id": "26",
+    "brick_title": "Thrombocytopenia",
+    "type": "physiology",
+    "buzzwords": [
+      "superficial skin bleeding",
+      "nonblanchable",
+      "red macules",
+      "petechiae <3 mm",
+      "purpura 3-10 mm",
+      "not deep joint bleeds",
+      "shin and ankle distribution",
+      "platelet-type bleeding"
+    ]
+  },
+  {
+    "id": "bloodlymph-26-3",
+    "title": "Decreased Production",
+    "course": "bloodlymph",
+    "brick_id": "26",
+    "brick_title": "Thrombocytopenia",
+    "type": "physiology",
+    "buzzwords": [
+      "fewer platelets made",
+      "megakaryocyte failure",
+      "bone marrow suppression",
+      "pancytopenia",
+      "B12 and folate deficiency",
+      "marrow infiltration",
+      "leukemia and lymphoma",
+      "Wiskott-Aldrich, TAR"
+    ]
+  },
+  {
+    "id": "bloodlymph-26-4",
+    "title": "Splenic Sequestration",
+    "course": "bloodlymph",
+    "brick_id": "26",
+    "brick_title": "Thrombocytopenia",
+    "type": "physiology",
+    "buzzwords": [
+      "platelets trapped in spleen",
+      "fewer in circulation",
+      "enlarged spleen",
+      "splenomegaly",
+      "one-third normally sequestered",
+      "portal hypertension cause",
+      "liver failure related",
+      "hypersplenism"
+    ]
+  },
+  {
+    "id": "bloodlymph-26-5",
+    "title": "Immune Thrombocytopenia",
+    "course": "bloodlymph",
+    "brick_id": "26",
+    "brick_title": "Thrombocytopenia",
+    "type": "disease",
+    "buzzwords": [
+      "antibody-mediated destruction",
+      "platelets destroyed in spleen",
+      "acquired autoimmune",
+      "often idiopathic",
+      "lupus association",
+      "HIV and H. pylori triggers",
+      "antiplatelet surface antibodies",
+      "ITP"
+    ]
+  },
+  {
+    "id": "bloodlymph-26-6",
+    "title": "Heparin-Induced Thrombocytopenia",
+    "course": "bloodlymph",
+    "brick_id": "26",
+    "brick_title": "Thrombocytopenia",
+    "type": "disease",
+    "buzzwords": [
+      "low platelets plus clotting",
+      "occurs 5-10 days in",
+      "paradoxical thrombosis",
+      "antibody to PF4 complex",
+      "stop heparin immediately",
+      "4T score risk assessment",
+      "start argatroban or fondaparinux",
+      "HIT"
+    ]
+  },
+  {
+    "id": "bloodlymph-26-7",
+    "title": "Microangiopathic Anemia",
+    "course": "bloodlymph",
+    "brick_id": "26",
+    "brick_title": "Thrombocytopenia",
+    "type": "physiology",
+    "buzzwords": [
+      "platelet consumption",
+      "microthrombi in small vessels",
+      "RBC fragments on smear",
+      "schistocytes",
+      "DIC",
+      "HELLP syndrome",
+      "TTP",
+      "hemolytic uremic syndrome"
+    ]
+  },
+  {
+    "id": "bloodlymph-27-1",
+    "title": "Immune Thrombocytopenia",
+    "course": "bloodlymph",
+    "brick_id": "27",
+    "brick_title": "Immune Thrombocytopenia",
+    "type": "disease",
+    "buzzwords": [
+      "low platelets",
+      "platelets below 150,000",
+      "isolated thrombocytopenia",
+      "autoantibody-mediated",
+      "antibodies bind own platelets",
+      "diagnosis of exclusion",
+      "formerly ITP purpura",
+      "5-10 per 100,000"
+    ]
+  },
+  {
+    "id": "bloodlymph-27-2",
+    "title": "ITP Presentation",
+    "course": "bloodlymph",
+    "brick_id": "27",
+    "brick_title": "Immune Thrombocytopenia",
+    "type": "disease",
+    "buzzwords": [
+      "skin bleeding",
+      "easy bruising",
+      "nosebleeds",
+      "heavy menses",
+      "pinpoint 1-3 mm spots",
+      "larger purple patches",
+      "petechiae",
+      "purpura"
+    ]
+  },
+  {
+    "id": "bloodlymph-27-3",
+    "title": "Chronic vs Acute ITP",
+    "course": "bloodlymph",
+    "brick_id": "27",
+    "brick_title": "Immune Thrombocytopenia",
+    "type": "disease",
+    "buzzwords": [
+      "two clinical forms",
+      "chronic affects adults",
+      "females under 40",
+      "acute follows viral illness",
+      "acute mostly in children",
+      "abrupt onset in kids",
+      "self-limited in children",
+      "chronic has recurrences"
+    ]
+  },
+  {
+    "id": "bloodlymph-27-4",
+    "title": "ITP Pathophysiology",
+    "course": "bloodlymph",
+    "brick_id": "27",
+    "brick_title": "Immune Thrombocytopenia",
+    "type": "physiology",
+    "buzzwords": [
+      "antiplatelet IgG",
+      "targets membrane glycoproteins",
+      "binds GPIIb/IIIa",
+      "opsonization",
+      "Fc receptor uptake",
+      "splenic macrophages destroy",
+      "increased megakaryocytes",
+      "biopsy not required"
+    ]
+  },
+  {
+    "id": "bloodlymph-27-5",
+    "title": "ITP Treatment",
+    "course": "bloodlymph",
+    "brick_id": "27",
+    "brick_title": "Immune Thrombocytopenia",
+    "type": "drug",
+    "buzzwords": [
+      "keep count safe",
+      "corticosteroids first-line",
+      "anti-CD20 for relapse",
+      "TPO agonists",
+      "IVIG rapidly raises count",
+      "avoid platelet transfusion",
+      "splenectomy refractory cases",
+      "rituximab"
+    ]
+  },
+  {
+    "id": "bloodlymph-28-1",
+    "title": "Platelet Count",
+    "course": "bloodlymph",
+    "brick_id": "28",
+    "brick_title": "Platelet Assays",
+    "type": "lab",
+    "buzzwords": [
+      "blood test",
+      "counts number",
+      "not function",
+      "normal still possible with bleeding",
+      "150,000-400,000/mm3",
+      "<10,000 spontaneous bleeding",
+      "thrombocytopenia vs thrombocytosis",
+      "manual smear if clumping"
+    ]
+  },
+  {
+    "id": "bloodlymph-28-2",
+    "title": "Platelet Morphology",
+    "course": "bloodlymph",
+    "brick_id": "28",
+    "brick_title": "Platelet Assays",
+    "type": "lab",
+    "buzzwords": [
+      "manual review",
+      "size shape granulation",
+      "blood smear under microscope",
+      "catches what analyzer misses",
+      "used less than count",
+      "normal in most diseases",
+      "gray platelets lack granules",
+      "giant platelets Bernard-Soulier"
+    ]
+  },
+  {
+    "id": "bloodlymph-28-3",
+    "title": "Platelet Function Assay",
+    "course": "bloodlymph",
+    "brick_id": "28",
+    "brick_title": "Platelet Assays",
+    "type": "lab",
+    "buzzwords": [
+      "preferred function test",
+      "in vitro",
+      "tests how platelets work",
+      "blood through aperture",
+      "measures plug formation",
+      "adhesion and aggregation",
+      "primary hemostasis",
+      "PFA-100"
+    ]
+  },
+  {
+    "id": "bloodlymph-28-4",
+    "title": "Bleeding Time",
+    "course": "bloodlymph",
+    "brick_id": "28",
+    "brick_title": "Platelet Assays",
+    "type": "lab",
+    "buzzwords": [
+      "older function test",
+      "in vivo",
+      "lancet pierces forearm",
+      "time cut stops bleeding",
+      "reference 2-9 minutes",
+      "hard to standardize",
+      "replaced by PFA-100",
+      "measures primary hemostasis"
+    ]
+  },
+  {
+    "id": "bloodlymph-28-5",
+    "title": "Aggregation Studies",
+    "course": "bloodlymph",
+    "brick_id": "28",
+    "brick_title": "Platelet Assays",
+    "type": "lab",
+    "buzzwords": [
+      "finds cause of dysfunction",
+      "platelet-rich plasma",
+      "turbidity drops as clumping",
+      "multiple agonists tested",
+      "collagen ADP epinephrine",
+      "pattern narrows diagnosis",
+      "no ristocetin response",
+      "von Willebrand Bernard-Soulier"
+    ]
+  },
+  {
+    "id": "bloodlymph-29-1",
+    "title": "TTP",
+    "course": "bloodlymph",
+    "brick_id": "29",
+    "brick_title": "Thrombotic Microangiopathies",
+    "type": "disease",
+    "buzzwords": [
+      "young adults",
+      "MAHA",
+      "thrombocytopenia",
+      "neurologic symptoms",
+      "pentad",
+      "ADAMTS13 deficiency",
+      "treat with plasmapheresis",
+      "fewer than 5% full pentad"
+    ]
+  },
+  {
+    "id": "bloodlymph-29-2",
+    "title": "HUS",
+    "course": "bloodlymph",
+    "brick_id": "29",
+    "brick_title": "Thrombotic Microangiopathies",
+    "type": "disease",
+    "buzzwords": [
+      "young children",
+      "bloody diarrhea precedes",
+      "prominent renal failure",
+      "no neurologic findings",
+      "fever uncommon",
+      "supportive care",
+      "Shiga toxin",
+      "E. coli O157:H7"
+    ]
+  },
+  {
+    "id": "bloodlymph-29-3",
+    "title": "Schistocytes",
+    "course": "bloodlymph",
+    "brick_id": "29",
+    "brick_title": "Thrombotic Microangiopathies",
+    "type": "lab",
+    "buzzwords": [
+      "fragmented RBCs",
+      "sheared by microthrombi",
+      "marker of MAHA",
+      "never artifactual",
+      "small, no central pallor",
+      "pointy edges",
+      "helmet cells",
+      "triangulocytes"
+    ]
+  },
+  {
+    "id": "bloodlymph-29-4",
+    "title": "ADAMTS13",
+    "course": "bloodlymph",
+    "brick_id": "29",
+    "brick_title": "Thrombotic Microangiopathies",
+    "type": "physiology",
+    "buzzwords": [
+      "metalloproteinase",
+      "cleaves vWF multimers",
+      "prevents excess clotting",
+      "deficiency causes TTP",
+      "autoantibody inhibits it",
+      "activity under 10%",
+      "spares ultra-large vWF",
+      "von Willebrand factor protease"
+    ]
+  },
+  {
+    "id": "bloodlymph-29-5",
+    "title": "DIC",
+    "course": "bloodlymph",
+    "brick_id": "29",
+    "brick_title": "Thrombotic Microangiopathies",
+    "type": "disease",
+    "buzzwords": [
+      "secondary cause of TM",
+      "clotting and bleeding",
+      "coagulation cascade overactivated",
+      "elevated D-dimers",
+      "prolonged PT and aPTT",
+      "consumes clotting factors",
+      "sepsis or trauma trigger",
+      "abnormal coagulation studies"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-1",
+    "title": "Hematopoietic Neoplasms",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "arise from bone marrow",
+      "clonal blood cell cancers",
+      "from hematopoietic stem cells",
+      "leukemias and lymphomas",
+      "myeloid or lymphoid origin",
+      "WHO cell-of-origin classification",
+      "includes multiple myeloma",
+      "myeloid vs lymphoid framework"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-2",
+    "title": "Myeloid Neoplasms",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "most common in adults",
+      "from myeloid stem cells",
+      "three categories",
+      "marrow filled with blasts",
+      "myeloproliferative type",
+      "myelodysplastic type",
+      "acute myeloid leukemia",
+      "MDS to AML in 30%"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-3",
+    "title": "Lymphoid Neoplasms",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "seen at any age",
+      "from lymphoid stem cells",
+      "T-cell, B-cell, Hodgkin",
+      "precursor or mature subsets",
+      "precursor cancers are childhood",
+      "precursor named leukemia/lymphoma",
+      "mycosis fungoides is mature T",
+      "Sezary syndrome desquamating rash"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-4",
+    "title": "Leukemia vs Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "considerable clinical overlap",
+      "lymphomas from lymphoid only",
+      "leukemias from either line",
+      "leukemia originates in marrow",
+      "lymphoma in solid lymph nodes",
+      "leukemia alters blood counts",
+      "lymphoma causes lymphadenopathy",
+      "acute vs chronic by maturity"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-5",
+    "title": "Hodgkin Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "young adults 15-34",
+      "better prognosis than NHL",
+      "B-cell derived",
+      "lost B-cell gene expression",
+      "own WHO category",
+      "giant binucleate cells",
+      "owl-eye nucleoli",
+      "Reed-Sternberg cells"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-6",
+    "title": "Flow Cytometry",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "lab",
+    "buzzwords": [
+      "single cells through lasers",
+      "forward and side scatter",
+      "detects surface antigens",
+      "determines clonality",
+      "classifies cell of origin",
+      "distinguishes ALL from AML",
+      "requires fresh tissue",
+      "detects minimal residual disease"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-7",
+    "title": "Molecular Pathology",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "lab",
+    "buzzwords": [
+      "amplifies nucleic acids",
+      "DNA or RNA analysis",
+      "PCR-based technique",
+      "highly sensitive method",
+      "detects genetic mutations",
+      "guides targeted treatment",
+      "BCR-ABL1 prognosis in B-ALL",
+      "BRAF V600E in hairy cell"
+    ]
+  },
+  {
+    "id": "bloodlymph-30-8",
+    "title": "Cytogenetics",
+    "course": "bloodlymph",
+    "brick_id": "30",
+    "brick_title": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "type": "lab",
+    "buzzwords": [
+      "studies chromosomes",
+      "karyotype of dividing cells",
+      "detects translocations",
+      "finds aneuploidy",
+      "hyperdiploidy better ALL prognosis",
+      "FISH uses labeled probes",
+      "FISH on non-dividing nuclei",
+      "t(9;22) confirms CML"
+    ]
+  },
+  {
+    "id": "bloodlymph-31-1",
+    "title": "Log-Cell Kill Hypothesis",
+    "course": "bloodlymph",
+    "brick_id": "31",
+    "brick_title": "Principles of Chemotherapy",
+    "type": "physiology",
+    "buzzwords": [
+      "kills fixed fraction",
+      "constant proportion killed",
+      "first-order kinetics",
+      "multiple cycles required",
+      "never eradicates all cells",
+      "logarithmic tumor reduction",
+      "best for rapidly dividing tumors",
+      "log-cell kill"
+    ]
+  },
+  {
+    "id": "bloodlymph-31-2",
+    "title": "Chemotherapy Drug Classes",
+    "course": "bloodlymph",
+    "brick_id": "31",
+    "brick_title": "Principles of Chemotherapy",
+    "type": "drug",
+    "buzzwords": [
+      "destroys proliferating cells",
+      "cytotoxic chemotherapy",
+      "molecularly targeted therapy",
+      "blocks signal transduction",
+      "endocrine therapy",
+      "immunotherapy class",
+      "methotrexate, imatinib examples",
+      "tamoxifen for ER+ breast"
+    ]
+  },
+  {
+    "id": "bloodlymph-31-3",
+    "title": "Timing of Chemotherapy",
+    "course": "bloodlymph",
+    "brick_id": "31",
+    "brick_title": "Principles of Chemotherapy",
+    "type": "physiology",
+    "buzzwords": [
+      "classified by timing",
+      "induction is first-line",
+      "before surgery shrinks tumor",
+      "after surgery improves outcomes",
+      "neoadjuvant therapy",
+      "adjuvant therapy",
+      "salvage after failures",
+      "shrinks micro-metastases"
+    ]
+  },
+  {
+    "id": "bloodlymph-31-4",
+    "title": "Chemotherapy Resistance",
+    "course": "bloodlymph",
+    "brick_id": "31",
+    "brick_title": "Principles of Chemotherapy",
+    "type": "physiology",
+    "buzzwords": [
+      "drug combinations combat it",
+      "reduced drug uptake",
+      "upregulated DNA repair",
+      "increased glutathione expression",
+      "altered DNA methylation",
+      "drug efflux pumps",
+      "induced by IL-6",
+      "multidrug resistance protein"
+    ]
+  },
+  {
+    "id": "bloodlymph-31-5",
+    "title": "Chemotherapy Adverse Effects",
+    "course": "bloodlymph",
+    "brick_id": "31",
+    "brick_title": "Principles of Chemotherapy",
+    "type": "physiology",
+    "buzzwords": [
+      "harms healthy dividing cells",
+      "myelosuppression",
+      "nausea and vomiting",
+      "doxorubicin cardiotoxicity",
+      "bleomycin pulmonary fibrosis",
+      "vinca peripheral neuropathy",
+      "cytarabine keratitis",
+      "cyclophosphamide hemorrhagic cystitis"
+    ]
+  },
+  {
+    "id": "bloodlymph-32-1",
+    "title": "Acute Lymphoblastic Leukemia",
+    "course": "bloodlymph",
+    "brick_id": "32",
+    "brick_title": "Acute Lymphoblastic Leukemia/Lymphoma",
+    "type": "disease",
+    "buzzwords": [
+      "most common childhood cancer",
+      "fatigue, pallor, bruising",
+      "marrow crowded by blasts",
+      "anemia, neutropenia, thrombocytopenia",
+      "85% B-cell origin",
+      "T-cell mediastinal mass",
+      "spreads to CNS and testes",
+      "proliferating lymphoblasts"
+    ]
+  },
+  {
+    "id": "bloodlymph-32-2",
+    "title": "ALL Cytogenetics",
+    "course": "bloodlymph",
+    "brick_id": "32",
+    "brick_title": "Acute Lymphoblastic Leukemia/Lymphoma",
+    "type": "lab",
+    "buzzwords": [
+      "guides prognosis and treatment",
+      "hyperdiploidy good prognosis",
+      "associated with Down syndrome",
+      "t(12;21) favorable in children",
+      "t(9;22) worse in adults",
+      "BCR-ABL fusion gene",
+      "treat with tyrosine kinase inhibitor",
+      "Philadelphia chromosome"
+    ]
+  },
+  {
+    "id": "bloodlymph-32-3",
+    "title": "ALL Diagnosis",
+    "course": "bloodlymph",
+    "brick_id": "32",
+    "brick_title": "Acute Lymphoblastic Leukemia/Lymphoma",
+    "type": "lab",
+    "buzzwords": [
+      "CBC with peripheral smear",
+      "20% or more blasts",
+      "bone marrow biopsy",
+      "flow cytometry immunophenotyping",
+      "B-cell CD19, CD22, CD79a",
+      "lumbar puncture for CNS",
+      "no Auer rods",
+      "TdT positive"
+    ]
+  },
+  {
+    "id": "bloodlymph-32-4",
+    "title": "ALL Treatment",
+    "course": "bloodlymph",
+    "brick_id": "32",
+    "brick_title": "Acute Lymphoblastic Leukemia/Lymphoma",
+    "type": "drug",
+    "buzzwords": [
+      "multi-drug chemotherapy",
+      "induction, consolidation, maintenance",
+      "intrathecal triple therapy",
+      "glucocorticoid plus vincristine",
+      "vincristine causes neuropathy",
+      "asparaginase depletes asparagine",
+      "dasatinib for Philadelphia-positive",
+      "L-asparaginase"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-1",
+    "title": "WBC Count & Differential",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "lab",
+    "buzzwords": [
+      "total WBCs per mm3",
+      "automated analyzer",
+      "5-part differential",
+      "percent and absolute",
+      "absolute counts matter most",
+      "abnormal cells flagged",
+      "blood smear confirms morphology",
+      "neutrophils 57-67%"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-2",
+    "title": "Benign Neutrophilia",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "elevated WBC count",
+      "neutrophils >7700/mm3",
+      "bacterial infection or inflammation",
+      "stress and smoking",
+      "demargination raises count",
+      "corticosteroid effect",
+      "mature or immature types",
+      "G-CSF driven"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-3",
+    "title": "Leukemoid Reaction",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "marked neutrophilia",
+      "not cancer",
+      "left shift",
+      "bands and metamyelocytes",
+      "resolves after infection treated",
+      "high LAP score",
+      "mimics CML",
+      "no basophilia"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-4",
+    "title": "Leukoerythroblastic Reaction",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "immature cells in blood",
+      "nucleated red cells",
+      "immature neutrophils too",
+      "severe anemia response",
+      "teardrop cells",
+      "marrow infiltration sign",
+      "myelophthisic process",
+      "fibrosis crowds marrow"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-5",
+    "title": "Toxic Neutrophil Changes",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "lab",
+    "buzzwords": [
+      "morphologic infection markers",
+      "darker primary granules",
+      "clear cytoplasmic spaces",
+      "blue-gray inclusions",
+      "vacuolization in sepsis",
+      "toxic granulation",
+      "remnants of rough ER",
+      "Dohle bodies"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-6",
+    "title": "Benign Lymphocytosis",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "lymphocytes >4000/mm3",
+      "viral illness",
+      "reactive lymphocytes",
+      "whooping cough",
+      "wide normal in children",
+      "fried-egg Downey cells",
+      "infectious mononucleosis",
+      "EBV"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-7",
+    "title": "Eosinophilia",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "eosinophils >500/mm3",
+      "allergies",
+      "drug reactions",
+      "asthma",
+      "parasitic worm infection",
+      "bilobed nucleus",
+      "red-orange granules",
+      "helminthic disease"
+    ]
+  },
+  {
+    "id": "bloodlymph-33-8",
+    "title": "Basophilia",
+    "course": "bloodlymph",
+    "brick_id": "33",
+    "brick_title": "Benign Leukocytosis",
+    "type": "disease",
+    "buzzwords": [
+      "rarest benign leukocytosis",
+      "basophils >500/mm3",
+      "allergies",
+      "hypothyroidism",
+      "dark blue granules",
+      "myeloproliferative disorders",
+      "chronic myeloid leukemia",
+      "polycythemia vera"
+    ]
+  },
+  {
+    "id": "bloodlymph-34-1",
+    "title": "Benign Lymphadenopathy",
+    "course": "bloodlymph",
+    "brick_id": "34",
+    "brick_title": "Benign Lymphadenopathies",
+    "type": "disease",
+    "buzzwords": [
+      "enlarged lymph nodes",
+      "nodes >1 cm",
+      "fever may occur",
+      "non-neoplastic causes",
+      "soft and freely moveable",
+      "smooth and tender",
+      "infections, drugs, autoimmune",
+      "more common than malignancy"
+    ]
+  },
+  {
+    "id": "bloodlymph-34-2",
+    "title": "Neoplastic Nodes",
+    "course": "bloodlymph",
+    "brick_id": "34",
+    "brick_title": "Benign Lymphadenopathies",
+    "type": "disease",
+    "buzzwords": [
+      "malignant node features",
+      "firm nodes",
+      "painless",
+      "immobile",
+      "fixed to tissue",
+      "lymphoma or metastasis",
+      "weight loss red flag",
+      "prompts cancer workup"
+    ]
+  },
+  {
+    "id": "bloodlymph-34-3",
+    "title": "Virchow Node",
+    "course": "bloodlymph",
+    "brick_id": "34",
+    "brick_title": "Benign Lymphadenopathies",
+    "type": "anatomy",
+    "buzzwords": [
+      "node location clue",
+      "drains the abdomen",
+      "via thoracic duct",
+      "suggests gastric cancer",
+      "right side: chest malignancy",
+      "hilar nodes: lung infection",
+      "hilar adenopathy: sarcoidosis",
+      "left supraclavicular node"
+    ]
+  },
+  {
+    "id": "bloodlymph-34-4",
+    "title": "Benign Adenopathy Etiology",
+    "course": "bloodlymph",
+    "brick_id": "34",
+    "brick_title": "Benign Lymphadenopathies",
+    "type": "physiology",
+    "buzzwords": [
+      "infection, drugs, autoimmune",
+      "EBV mononucleosis",
+      "HIV and CMV generalized",
+      "TB regional or generalized",
+      "RA and SLE adenopathy",
+      "phenytoin-induced nodes",
+      "serum-sickness hypersensitivity",
+      "live vaccines cause adenopathy"
+    ]
+  },
+  {
+    "id": "bloodlymph-34-5",
+    "title": "Follicular Hyperplasia",
+    "course": "bloodlymph",
+    "brick_id": "34",
+    "brick_title": "Benign Lymphadenopathies",
+    "type": "physiology",
+    "buzzwords": [
+      "benign nodal hyperplasia",
+      "B-cell proliferation",
+      "follicles enlarge",
+      "primary become secondary follicles",
+      "germinal centers form",
+      "tingible body macrophages",
+      "mantle zone preserved",
+      "response to immune stimulus"
+    ]
+  },
+  {
+    "id": "bloodlymph-34-6",
+    "title": "Paracortical Hyperplasia",
+    "course": "bloodlymph",
+    "brick_id": "34",
+    "brick_title": "Benign Lymphadenopathies",
+    "type": "physiology",
+    "buzzwords": [
+      "benign nodal hyperplasia",
+      "T-cell proliferation",
+      "paracortex expands",
+      "interfollicular areas widen",
+      "plasma cells and eosinophils",
+      "viral infection response",
+      "post-vaccination reaction",
+      "drug reaction pattern"
+    ]
+  },
+  {
+    "id": "bloodlymph-34-7",
+    "title": "Lymph Node Biopsy",
+    "course": "bloodlymph",
+    "brick_id": "34",
+    "brick_title": "Benign Lymphadenopathies",
+    "type": "lab",
+    "buzzwords": [
+      "diagnostic workup",
+      "excludes malignancy",
+      "history and exam first",
+      "needle or open surgical",
+      "indicated with cancer signs",
+      "observe diffuse adenopathy 4 weeks",
+      "flow cytometry and FISH added",
+      "sample neck or supraclavicular node"
+    ]
+  },
+  {
+    "id": "bloodlymph-35-1",
+    "title": "Yersinia pestis",
+    "course": "bloodlymph",
+    "brick_id": "35",
+    "brick_title": "Y. pestis, F. tularemia, and B. henselae",
+    "type": "disease",
+    "buzzwords": [
+      "zoonotic infection",
+      "flea bite",
+      "rodent reservoir",
+      "endemic western US",
+      "facultative intracellular",
+      "bipolar safety-pin stain",
+      "bubo lymphadenopathy",
+      "the plague"
+    ]
+  },
+  {
+    "id": "bloodlymph-35-2",
+    "title": "Francisella tularensis",
+    "course": "bloodlymph",
+    "brick_id": "35",
+    "brick_title": "Y. pestis, F. tularemia, and B. henselae",
+    "type": "disease",
+    "buzzwords": [
+      "zoonotic infection",
+      "tiny infectious dose",
+      "rabbit contact",
+      "tick or deerfly bite",
+      "endemic Ozarks",
+      "ulcerating inoculation site",
+      "cysteine charcoal agar",
+      "rabbit fever"
+    ]
+  },
+  {
+    "id": "bloodlymph-35-3",
+    "title": "Bartonella henselae",
+    "course": "bloodlymph",
+    "brick_id": "35",
+    "brick_title": "Y. pestis, F. tularemia, and B. henselae",
+    "type": "disease",
+    "buzzwords": [
+      "zoonotic infection",
+      "cat scratch or bite",
+      "regional lymphadenopathy",
+      "papule at inoculation",
+      "necrotizing granulomas",
+      "bacillary angiomatosis if immunocompromised",
+      "vascular skin nodules",
+      "cat scratch disease"
+    ]
+  },
+  {
+    "id": "bloodlymph-36-1",
+    "title": "Leptospirosis",
+    "course": "bloodlymph",
+    "brick_id": "36",
+    "brick_title": "Leptospirosis and Lymphatic Filariasis",
+    "type": "disease",
+    "buzzwords": [
+      "spirochete infection",
+      "contaminated water exposure",
+      "tropical, after flooding",
+      "myalgia in calves",
+      "conjunctival suffusion",
+      "doxycycline treatment",
+      "Weil disease",
+      "Leptospira interrogans"
+    ]
+  },
+  {
+    "id": "bloodlymph-36-2",
+    "title": "Lymphatic Filariasis",
+    "course": "bloodlymph",
+    "brick_id": "36",
+    "brick_title": "Leptospirosis and Lymphatic Filariasis",
+    "type": "disease",
+    "buzzwords": [
+      "mosquito-borne nematode",
+      "nocturnal microfilariae in blood",
+      "blood smear at night",
+      "lymphedema, hydrocele",
+      "elephantiasis",
+      "diethylcarbamazine treatment",
+      "Giemsa-stained microfilaria",
+      "Wuchereria bancrofti"
+    ]
+  },
+  {
+    "id": "bloodlymph-37-1",
+    "title": "Alkylating Agents",
+    "course": "bloodlymph",
+    "brick_id": "37",
+    "brick_title": "Alkylating Agents",
+    "type": "drug",
+    "buzzwords": [
+      "chemotherapy class",
+      "transfer alkyl groups",
+      "cell cycle independent",
+      "kill cycling and resting cells",
+      "alkylate guanine N-7",
+      "cause DNA cross-links",
+      "block DNA replication",
+      "trigger apoptosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-37-2",
+    "title": "Cyclophosphamide",
+    "course": "bloodlymph",
+    "brick_id": "37",
+    "brick_title": "Alkylating Agents",
+    "type": "drug",
+    "buzzwords": [
+      "nitrogen mustard",
+      "needs CYP450 bioactivation",
+      "grapefruit juice interaction",
+      "also immunosuppressant",
+      "acrolein metabolite toxic",
+      "hemorrhagic cystitis",
+      "prevent with hydration",
+      "mesna rescue"
+    ]
+  },
+  {
+    "id": "bloodlymph-37-3",
+    "title": "Ifosfamide",
+    "course": "bloodlymph",
+    "brick_id": "37",
+    "brick_title": "Alkylating Agents",
+    "type": "drug",
+    "buzzwords": [
+      "cyclophosphamide derivative",
+      "CYP450 activated",
+      "DNA cross-linking",
+      "hemorrhagic cystitis risk",
+      "mesna protective",
+      "neurotoxicity",
+      "encephalopathy",
+      "methylene blue antidote"
+    ]
+  },
+  {
+    "id": "bloodlymph-37-4",
+    "title": "Carmustine",
+    "course": "bloodlymph",
+    "brick_id": "37",
+    "brick_title": "Alkylating Agents",
+    "type": "drug",
+    "buzzwords": [
+      "nitrosourea",
+      "requires bioactivation",
+      "interstrand cross-links",
+      "crosses blood-brain barrier",
+      "treats CNS tumors",
+      "myelosuppression",
+      "nephrotoxic and hepatotoxic",
+      "pulmonary fibrosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-37-5",
+    "title": "Busulfan",
+    "course": "bloodlymph",
+    "brick_id": "37",
+    "brick_title": "Alkylating Agents",
+    "type": "drug",
+    "buzzwords": [
+      "alkyl sulfonate",
+      "intrastrand cross-links",
+      "affinity for myeloid cells",
+      "transplant conditioning agent",
+      "ablates bone marrow",
+      "near-universal myelosuppression",
+      "dose-dependent pulmonary toxicity",
+      "busulfan lung fibrosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-37-6",
+    "title": "Procarbazine",
+    "course": "bloodlymph",
+    "brick_id": "37",
+    "brick_title": "Alkylating Agents",
+    "type": "drug",
+    "buzzwords": [
+      "nonclassic alkylating agent",
+      "inhibits transmethylation",
+      "blocks DNA RNA protein",
+      "monoamine oxidase inhibitor",
+      "disulfiram-like reaction",
+      "avoid tyramine foods",
+      "serotonin syndrome risk",
+      "with serotonergic drugs"
+    ]
+  },
+  {
+    "id": "bloodlymph-37-7",
+    "title": "Platinum Agents",
+    "course": "bloodlymph",
+    "brick_id": "37",
+    "brick_title": "Alkylating Agents",
+    "type": "drug",
+    "buzzwords": [
+      "cisplatin and carboplatin",
+      "platinum-based",
+      "activated by hydrolyzation",
+      "intrastrand DNA cross-links",
+      "direct DNA damage",
+      "ototoxicity",
+      "nephrotoxicity",
+      "cisplatin classic example"
+    ]
+  },
+  {
+    "id": "bloodlymph-38-1",
+    "title": "Antimetabolite Agents",
+    "course": "bloodlymph",
+    "brick_id": "38",
+    "brick_title": "Antimetabolite Agents",
+    "type": "drug",
+    "buzzwords": [
+      "chemotherapy class",
+      "decoys for DNA building blocks",
+      "resemble nucleosides",
+      "act in S phase",
+      "target rapidly dividing cells",
+      "interrupt DNA synthesis",
+      "three subclasses",
+      "antifolates, purine, pyrimidine analogs"
+    ]
+  },
+  {
+    "id": "bloodlymph-38-2",
+    "title": "Methotrexate",
+    "course": "bloodlymph",
+    "brick_id": "38",
+    "brick_title": "Antimetabolite Agents",
+    "type": "drug",
+    "buzzwords": [
+      "antifolate",
+      "blocks one-carbon metabolism",
+      "halts dTMP synthesis",
+      "pregnancy category X",
+      "causes pulmonary fibrosis",
+      "megaloblastic anemia",
+      "rescued by leucovorin",
+      "inhibits dihydrofolate reductase"
+    ]
+  },
+  {
+    "id": "bloodlymph-38-3",
+    "title": "5-Fluorouracil",
+    "course": "bloodlymph",
+    "brick_id": "38",
+    "brick_title": "Antimetabolite Agents",
+    "type": "drug",
+    "buzzwords": [
+      "pyrimidine analog",
+      "blocks thymine production",
+      "binds folic acid",
+      "causes hand-foot syndrome",
+      "myelosuppression worse with leucovorin",
+      "dUMP cannot make dTMP",
+      "5-FU",
+      "inhibits thymidylate synthase"
+    ]
+  },
+  {
+    "id": "bloodlymph-38-4",
+    "title": "Cytarabine",
+    "course": "bloodlymph",
+    "brick_id": "38",
+    "brick_title": "Antimetabolite Agents",
+    "type": "drug",
+    "buzzwords": [
+      "pyrimidine analog",
+      "prodrug of 5-FU",
+      "activated by thymidine phosphorylase",
+      "causes early chain termination",
+      "inhibits DNA polymerase",
+      "treats leukemias and lymphomas",
+      "causes pancytopenia",
+      "ara-C"
+    ]
+  },
+  {
+    "id": "bloodlymph-38-5",
+    "title": "Cladribine",
+    "course": "bloodlymph",
+    "brick_id": "38",
+    "brick_title": "Antimetabolite Agents",
+    "type": "drug",
+    "buzzwords": [
+      "purine analog",
+      "prodrug",
+      "phosphorylated to active form",
+      "breaks DNA strand",
+      "depletes NAD and ATP",
+      "treats indolent lymphomas",
+      "approved for multiple sclerosis",
+      "active form Cd-ATP"
+    ]
+  },
+  {
+    "id": "bloodlymph-38-6",
+    "title": "Azathioprine",
+    "course": "bloodlymph",
+    "brick_id": "38",
+    "brick_title": "Antimetabolite Agents",
+    "type": "drug",
+    "buzzwords": [
+      "purine analog",
+      "incorporates into DNA",
+      "induces apoptosis",
+      "immunosuppressant",
+      "treats autoimmune disease",
+      "used in transplant patients",
+      "toxicity increased by allopurinol",
+      "6-mercaptopurine relative"
+    ]
+  },
+  {
+    "id": "bloodlymph-39-1",
+    "title": "Topoisomerase Inhibitors",
+    "course": "bloodlymph",
+    "brick_id": "39",
+    "brick_title": "Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics",
+    "type": "drug",
+    "buzzwords": [
+      "cell-cycle specific",
+      "block DNA religation",
+      "build up strand breaks",
+      "myelosuppression",
+      "cholinergic diarrhea",
+      "atropine for diarrhea",
+      "etoposide, teniposide",
+      "topotecan, irinotecan"
+    ]
+  },
+  {
+    "id": "bloodlymph-39-2",
+    "title": "Vinca Alkaloids",
+    "course": "bloodlymph",
+    "brick_id": "39",
+    "brick_title": "Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics",
+    "type": "drug",
+    "buzzwords": [
+      "microtubule inhibitor",
+      "bind beta-tubulin",
+      "block polymerization",
+      "frozen mitotic spindle",
+      "peripheral neuropathy",
+      "hair loss",
+      "SIADH, constipation",
+      "vincristine, vinblastine"
+    ]
+  },
+  {
+    "id": "bloodlymph-39-3",
+    "title": "Taxanes",
+    "course": "bloodlymph",
+    "brick_id": "39",
+    "brick_title": "Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics",
+    "type": "drug",
+    "buzzwords": [
+      "microtubule inhibitor",
+      "bind beta-tubulin",
+      "block depolymerization",
+      "stabilize microtubules",
+      "peripheral neuropathy",
+      "hypersensitivity reactions",
+      "premedicate dexamethasone",
+      "paclitaxel, docetaxel"
+    ]
+  },
+  {
+    "id": "bloodlymph-39-4",
+    "title": "Anthracyclines",
+    "course": "bloodlymph",
+    "brick_id": "39",
+    "brick_title": "Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics",
+    "type": "drug",
+    "buzzwords": [
+      "antitumor antibiotic",
+      "intercalate DNA",
+      "generate free radicals",
+      "cell-cycle independent",
+      "dose-dependent cardiotoxicity",
+      "dilated cardiomyopathy",
+      "dexrazoxane protects heart",
+      "doxorubicin, daunorubicin"
+    ]
+  },
+  {
+    "id": "bloodlymph-39-5",
+    "title": "Mitomycin C",
+    "course": "bloodlymph",
+    "brick_id": "39",
+    "brick_title": "Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics",
+    "type": "drug",
+    "buzzwords": [
+      "antitumor antibiotic",
+      "alkylates DNA",
+      "interstrand cross-linking",
+      "cell-cycle independent",
+      "myelosuppression",
+      "anorexia, mucositis",
+      "hemolytic uremic syndrome",
+      "renal failure"
+    ]
+  },
+  {
+    "id": "bloodlymph-39-6",
+    "title": "Bleomycin",
+    "course": "bloodlymph",
+    "brick_id": "39",
+    "brick_title": "Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics",
+    "type": "drug",
+    "buzzwords": [
+      "antitumor antibiotic",
+      "induces DNA strand breaks",
+      "free radical formation",
+      "G2 and M specific",
+      "minimal myelosuppression",
+      "dose-limiting toxicity",
+      "interstitial pneumonitis",
+      "pulmonary fibrosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-40-1",
+    "title": "CLL/SLL",
+    "course": "bloodlymph",
+    "brick_id": "40",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "most common adult leukemia",
+      "older adults",
+      "absolute lymphocytosis",
+      "peripheral lymphadenopathy",
+      "smudge cells",
+      "CD5 and CD23 positive",
+      "Richter transformation",
+      "ibrutinib treatment"
+    ]
+  },
+  {
+    "id": "bloodlymph-40-2",
+    "title": "Follicular Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "40",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "indolent low-grade NHL",
+      "waxing-waning lymphadenopathy",
+      "nodules lacking mantle zones",
+      "centrocytes and centroblasts",
+      "CD10 positive",
+      "BCL-2 overexpressed",
+      "t(14;18) translocation",
+      "transforms to DLBCL"
+    ]
+  },
+  {
+    "id": "bloodlymph-40-3",
+    "title": "MALT Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "40",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "chronic inflammation driven",
+      "marginal zone B cells",
+      "no lymphadenopathy",
+      "most often gastric",
+      "lymphoepithelial lesions",
+      "Sjögren and Hashimoto links",
+      "Helicobacter pylori association",
+      "cured by H. pylori eradication"
+    ]
+  },
+  {
+    "id": "bloodlymph-40-4",
+    "title": "Hairy Cell Leukemia",
+    "course": "bloodlymph",
+    "brick_id": "40",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "older males",
+      "no lymphadenopathy",
+      "massive splenomegaly",
+      "pancytopenia",
+      "bone marrow fibrosis",
+      "cytoplasmic hairy projections",
+      "BRAF mutation",
+      "cladribine treatment"
+    ]
+  },
+  {
+    "id": "bloodlymph-41-1",
+    "title": "Diffuse Large B-Cell Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "41",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "most common NHL subtype",
+      "older patients",
+      "rapidly enlarging nodes",
+      "B symptoms",
+      "diffuse large neoplastic cells",
+      "fatal if untreated",
+      "Richter transformation from CLL",
+      "MYC, BCL2, BCL6"
+    ]
+  },
+  {
+    "id": "bloodlymph-41-2",
+    "title": "Burkitt Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "41",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "fastest-doubling human cancer",
+      "endemic, sporadic, immunodeficiency forms",
+      "jaw and facial mass",
+      "ileocecal abdominal mass",
+      "starry-sky pattern",
+      "tingible-body macrophages",
+      "EBV-associated",
+      "t(8;14) MYC translocation"
+    ]
+  },
+  {
+    "id": "bloodlymph-41-3",
+    "title": "Mantle Cell Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "41",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "older adults, male predominance",
+      "high-stage at presentation",
+      "hepatosplenomegaly",
+      "bone marrow involvement",
+      "small-to-intermediate cells",
+      "CD5 positive, CD23 negative",
+      "cyclin D1 positive",
+      "t(11;14) CCND1-IGH"
+    ]
+  },
+  {
+    "id": "bloodlymph-41-4",
+    "title": "Polatuzumab Vedotin",
+    "course": "bloodlymph",
+    "brick_id": "41",
+    "brick_title": "B-Cell Non-Hodgkin Lymphomas (Part 2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "antibody-drug conjugate",
+      "used in advanced DLBCL",
+      "part of R-pola-CHP",
+      "targets CD79b",
+      "delivers anti-mitotic agent",
+      "protease-cleaved linker",
+      "causes neutropenia, thrombocytopenia",
+      "peripheral neuropathy"
+    ]
+  },
+  {
+    "id": "bloodlymph-42-1",
+    "title": "Mycosis Fungoides",
+    "course": "bloodlymph",
+    "brick_id": "42",
+    "brick_title": "T-cell Non-Hodgkin Lymphomas",
+    "type": "disease",
+    "buzzwords": [
+      "slow-growing skin lesion",
+      "mimics eczema, psoriasis",
+      "scaly red patches",
+      "CD4+ helper T-cell origin",
+      "epidermal infiltration",
+      "Pautrier microabscesses",
+      "cerebriform nuclei",
+      "cutaneous T-cell lymphoma"
+    ]
+  },
+  {
+    "id": "bloodlymph-42-2",
+    "title": "Sézary Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "42",
+    "brick_title": "T-cell Non-Hodgkin Lymphomas",
+    "type": "disease",
+    "buzzwords": [
+      "leukemic-phase variant",
+      "diffuse itchy rash",
+      "circulating malignant T-cells",
+      "alopecia present",
+      "erythroderma >80% body",
+      "diffuse lymphadenopathy",
+      "cerebriform Sézary cells",
+      "erythroderma + adenopathy triad"
+    ]
+  },
+  {
+    "id": "bloodlymph-42-3",
+    "title": "Adult T-cell Leukemia",
+    "course": "bloodlymph",
+    "brick_id": "42",
+    "brick_title": "T-cell Non-Hodgkin Lymphomas",
+    "type": "disease",
+    "buzzwords": [
+      "mature T-cell neoplasm",
+      "hypercalcemia common",
+      "lytic bone lesions",
+      "elevated LDH",
+      "CD3 CD4 CD25 positive",
+      "endemic Japan, Caribbean",
+      "flower-shaped nuclei",
+      "HTLV-1 associated"
+    ]
+  },
+  {
+    "id": "bloodlymph-43-1",
+    "title": "Hodgkin Lymphoma",
+    "course": "bloodlymph",
+    "brick_id": "43",
+    "brick_title": "Hodgkin Lymphoma",
+    "type": "disease",
+    "buzzwords": [
+      "lymphoid neoplasm",
+      "painless lymphadenopathy",
+      "B symptoms",
+      "mediastinal mass",
+      "bimodal age peaks",
+      "contiguous nodal spread",
+      "EBV associated",
+      "Reed-Sternberg cells"
+    ]
+  },
+  {
+    "id": "bloodlymph-43-2",
+    "title": "Reed-Sternberg Cell",
+    "course": "bloodlymph",
+    "brick_id": "43",
+    "brick_title": "Hodgkin Lymphoma",
+    "type": "physiology",
+    "buzzwords": [
+      "large atypical cell",
+      "germinal B-cell origin",
+      "binucleated",
+      "central nucleoli",
+      "owl-eye appearance",
+      "CD45 negative",
+      "CD20 negative",
+      "CD15 and CD30 positive"
+    ]
+  },
+  {
+    "id": "bloodlymph-43-3",
+    "title": "Nodular Sclerosis",
+    "course": "bloodlymph",
+    "brick_id": "43",
+    "brick_title": "Hodgkin Lymphoma",
+    "type": "disease",
+    "buzzwords": [
+      "classic HL subtype",
+      "most common subtype",
+      "young adults",
+      "excellent prognosis",
+      "early-stage presentation",
+      "fibrous bands",
+      "nodular lymph nodes",
+      "lacunar cells"
+    ]
+  },
+  {
+    "id": "bloodlymph-43-4",
+    "title": "Mixed Cellularity",
+    "course": "bloodlymph",
+    "brick_id": "43",
+    "brick_title": "Hodgkin Lymphoma",
+    "type": "disease",
+    "buzzwords": [
+      "classic HL subtype",
+      "second most common",
+      "older population",
+      "advanced disease",
+      "inflammatory infiltrate",
+      "no fibrous bands",
+      "many classic RS cells",
+      "strongly EBV-associated"
+    ]
+  },
+  {
+    "id": "bloodlymph-43-5",
+    "title": "Nodular Lymphocyte-Predominant",
+    "course": "bloodlymph",
+    "brick_id": "43",
+    "brick_title": "Hodgkin Lymphoma",
+    "type": "disease",
+    "buzzwords": [
+      "uncommon subtype",
+      "young males",
+      "indolent course",
+      "no EBV link",
+      "CD45 and CD20 positive",
+      "CD15 and CD30 negative",
+      "popcorn cells",
+      "reclassified as B-cell lymphoma"
+    ]
+  },
+  {
+    "id": "bloodlymph-43-6",
+    "title": "ABVD Chemotherapy",
+    "course": "bloodlymph",
+    "brick_id": "43",
+    "brick_title": "Hodgkin Lymphoma",
+    "type": "drug",
+    "buzzwords": [
+      "first-line HL regimen",
+      "four-drug combination",
+      "given every 14 days",
+      "doxorubicin causes cardiomyopathy",
+      "vinblastine causes neuropathy",
+      "bleomycin causes pulmonary fibrosis",
+      "dacarbazine causes nausea",
+      "Adriamycin Bleomycin Vinblastine Dacarbazine"
+    ]
+  },
+  {
+    "id": "bloodlymph-44-1",
+    "title": "Multiple Myeloma",
+    "course": "bloodlymph",
+    "brick_id": "44",
+    "brick_title": "Multiple Myeloma and Other Plasma Cell Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "malignant plasma cells",
+      "older adults",
+      "anemia and fatigue",
+      "lytic bone lesions",
+      "hypercalcemia",
+      "renal failure",
+      ">10% clonal marrow plasma cells",
+      "CRAB"
+    ]
+  },
+  {
+    "id": "bloodlymph-44-2",
+    "title": "AL Amyloidosis",
+    "course": "bloodlymph",
+    "brick_id": "44",
+    "brick_title": "Multiple Myeloma and Other Plasma Cell Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "misfolded immunoglobulin",
+      "pinkish deposits",
+      "enlarged tongue",
+      "restrictive cardiomyopathy",
+      "nephrotic syndrome",
+      "carpal tunnel syndrome",
+      "light-chain origin",
+      "apple-green birefringence"
+    ]
+  },
+  {
+    "id": "bloodlymph-44-3",
+    "title": "M Spike",
+    "course": "bloodlymph",
+    "brick_id": "44",
+    "brick_title": "Multiple Myeloma and Other Plasma Cell Disorders",
+    "type": "lab",
+    "buzzwords": [
+      "serum protein test",
+      "separates by charge",
+      "gamma region peak",
+      "clonal antibody product",
+      "monoclonal protein",
+      "narrow tall spike",
+      "confirmed by immunofixation",
+      "SPEP M spike"
+    ]
+  },
+  {
+    "id": "bloodlymph-44-4",
+    "title": "MGUS",
+    "course": "bloodlymph",
+    "brick_id": "44",
+    "brick_title": "Multiple Myeloma and Other Plasma Cell Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "asymptomatic",
+      "no organ damage",
+      "small M spike",
+      "<10% marrow plasma cells",
+      "low progression risk",
+      "IgG or IgA spike",
+      "precursor to myeloma",
+      "undetermined significance"
+    ]
+  },
+  {
+    "id": "bloodlymph-44-5",
+    "title": "Smoldering Myeloma",
+    "course": "bloodlymph",
+    "brick_id": "44",
+    "brick_title": "Multiple Myeloma and Other Plasma Cell Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "asymptomatic",
+      "no CRAB findings",
+      "moderate M spike",
+      ">10% marrow plasma cells",
+      "higher progression than MGUS",
+      "IgG or IgA spike",
+      "intermediate stage",
+      "smoldering myeloma"
+    ]
+  },
+  {
+    "id": "bloodlymph-44-6",
+    "title": "Waldenstrom Macroglobulinemia",
+    "course": "bloodlymph",
+    "brick_id": "44",
+    "brick_title": "Multiple Myeloma and Other Plasma Cell Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "hyperviscosity syndrome",
+      "fatigue and fever",
+      "retinal vision loss",
+      "peripheral neuropathy",
+      "IgM monoclonal spike",
+      "pentamer clumps RBCs",
+      "lymphoplasmacytic marrow",
+      "Waldenstrom macroglobulinemia"
+    ]
+  },
+  {
+    "id": "bloodlymph-45-1",
+    "title": "Tyrosine Kinase Inhibitors",
+    "course": "bloodlymph",
+    "brick_id": "45",
+    "brick_title": "Targeted Inhibitors Used in Cancer Therapy",
+    "type": "drug",
+    "buzzwords": [
+      "small molecules",
+      "enter cell",
+      "act intracellularly",
+      "multiple targets",
+      "less selective",
+      "competitively block ATP",
+      "stop receptor phosphorylation",
+      "suffix -tinib"
+    ]
+  },
+  {
+    "id": "bloodlymph-45-2",
+    "title": "Monoclonal Antibodies",
+    "course": "bloodlymph",
+    "brick_id": "45",
+    "brick_title": "Targeted Inhibitors Used in Cancer Therapy",
+    "type": "drug",
+    "buzzwords": [
+      "made in lab",
+      "act on cell surface",
+      "single antigen target",
+      "highly selective",
+      "parenteral administration",
+      "trigger immune attack",
+      "antibody-dependent cytotoxicity",
+      "suffix -mab"
+    ]
+  },
+  {
+    "id": "bloodlymph-45-3",
+    "title": "Imatinib",
+    "course": "bloodlymph",
+    "brick_id": "45",
+    "brick_title": "Targeted Inhibitors Used in Cancer Therapy",
+    "type": "drug",
+    "buzzwords": [
+      "first TKI approved",
+      "competitively blocks ATP",
+      "targets BCR-ABL",
+      "treats CML",
+      "Philadelphia chromosome",
+      "causes fluid retention",
+      "elevated liver enzymes",
+      "rash risks SJS"
+    ]
+  },
+  {
+    "id": "bloodlymph-45-4",
+    "title": "Dasatinib",
+    "course": "bloodlymph",
+    "brick_id": "45",
+    "brick_title": "Targeted Inhibitors Used in Cancer Therapy",
+    "type": "drug",
+    "buzzwords": [
+      "tyrosine kinase inhibitor",
+      "targets BCR-ABL",
+      "binds active and inactive",
+      "overcomes imatinib resistance",
+      "for resistant CML",
+      "prolongs QT interval",
+      "causes pleural effusion",
+      "ends in -tinib"
+    ]
+  },
+  {
+    "id": "bloodlymph-45-5",
+    "title": "Rituximab",
+    "course": "bloodlymph",
+    "brick_id": "45",
+    "brick_title": "Targeted Inhibitors Used in Cancer Therapy",
+    "type": "drug",
+    "buzzwords": [
+      "monoclonal antibody",
+      "targets CD20",
+      "anti B-cell",
+      "treats lymphoma",
+      "reduces B-cell proliferation",
+      "infusion reactions",
+      "reactivates hepatitis B",
+      "screen HBV first"
+    ]
+  },
+  {
+    "id": "bloodlymph-45-6",
+    "title": "Bortezomib",
+    "course": "bloodlymph",
+    "brick_id": "45",
+    "brick_title": "Targeted Inhibitors Used in Cancer Therapy",
+    "type": "drug",
+    "buzzwords": [
+      "proteasome inhibitor",
+      "suffix -zomib",
+      "blocks 26S proteasome",
+      "stabilizes IkB",
+      "decreases NF-kB",
+      "treats multiple myeloma",
+      "causes thrombocytopenia",
+      "peripheral neuropathy"
+    ]
+  },
+  {
+    "id": "bloodlymph-46-1",
+    "title": "Chronic Myeloid Leukemia",
+    "course": "bloodlymph",
+    "brick_id": "46",
+    "brick_title": "Chronic Myeloid Leukemia",
+    "type": "disease",
+    "buzzwords": [
+      "myeloproliferative neoplasm",
+      "neutrophil overproduction",
+      "leukocytosis with left shift",
+      "basophilia",
+      "splenomegaly",
+      "age 50 to 60",
+      "chronic then blast phase",
+      "ionizing radiation risk"
+    ]
+  },
+  {
+    "id": "bloodlymph-46-2",
+    "title": "Philadelphia Chromosome",
+    "course": "bloodlymph",
+    "brick_id": "46",
+    "brick_title": "Chronic Myeloid Leukemia",
+    "type": "physiology",
+    "buzzwords": [
+      "reciprocal translocation",
+      "constitutively active tyrosine kinase",
+      "drives cell proliferation",
+      "chromosomes 9 and 22",
+      "t(9;22)",
+      "BCR::ABL fusion gene",
+      "shortened chromosome 22",
+      "Philadelphia chromosome"
+    ]
+  },
+  {
+    "id": "bloodlymph-46-3",
+    "title": "CML Diagnosis",
+    "course": "bloodlymph",
+    "brick_id": "46",
+    "brick_title": "Chronic Myeloid Leukemia",
+    "type": "lab",
+    "buzzwords": [
+      "elevated myeloid WBC",
+      "blasts under 5 percent",
+      "low leukocyte alkaline phosphatase",
+      "distinguishes from leukemoid reaction",
+      "bone marrow hypercellular",
+      "peripheral smear staging",
+      "FISH and karyotype",
+      "RT-PCR for BCR::ABL"
+    ]
+  },
+  {
+    "id": "bloodlymph-46-4",
+    "title": "Tyrosine Kinase Inhibitors",
+    "course": "bloodlymph",
+    "brick_id": "46",
+    "brick_title": "Chronic Myeloid Leukemia",
+    "type": "drug",
+    "buzzwords": [
+      "first-line CML therapy",
+      "blocks BCR::ABL kinase",
+      "halts downstream signaling",
+      "first choice imatinib",
+      "imatinib resistance from kinase mutations",
+      "dasatinib causes pleural effusion",
+      "ponatinib causes thrombosis",
+      "-tinib drugs"
+    ]
+  },
+  {
+    "id": "bloodlymph-47-1",
+    "title": "Polycythemia Vera",
+    "course": "bloodlymph",
+    "brick_id": "47",
+    "brick_title": "Polycythemia Vera",
+    "type": "disease",
+    "buzzwords": [
+      "myeloproliferative neoplasm",
+      "too many RBCs",
+      "elevated Hgb and Hct",
+      "low serum EPO",
+      "aquagenic pruritus",
+      "erythromelalgia",
+      "facial plethora",
+      "JAK2 mutation"
+    ]
+  },
+  {
+    "id": "bloodlymph-47-2",
+    "title": "JAK2 Mutation",
+    "course": "bloodlymph",
+    "brick_id": "47",
+    "brick_title": "Polycythemia Vera",
+    "type": "physiology",
+    "buzzwords": [
+      "tyrosine kinase gene",
+      "JAK-STAT signaling",
+      "EPO-independent activation",
+      "constitutively active",
+      "drives RBC proliferation",
+      "also in ET and myelofibrosis",
+      "Janus kinase 2",
+      "JAK2 V617F"
+    ]
+  },
+  {
+    "id": "bloodlymph-47-3",
+    "title": "Secondary Polycythemia",
+    "course": "bloodlymph",
+    "brick_id": "47",
+    "brick_title": "Polycythemia Vera",
+    "type": "disease",
+    "buzzwords": [
+      "elevated RBC mass",
+      "tissue hypoxia driven",
+      "high serum EPO",
+      "JAK2 absent",
+      "chronic hypoxemia or smoking",
+      "high-altitude living",
+      "sleep apnea",
+      "renal cell carcinoma EPO"
+    ]
+  },
+  {
+    "id": "bloodlymph-47-4",
+    "title": "PV Treatment",
+    "course": "bloodlymph",
+    "brick_id": "47",
+    "brick_title": "Polycythemia Vera",
+    "type": "drug",
+    "buzzwords": [
+      "lower red cell mass",
+      "first-line phlebotomy",
+      "keep hematocrit under 45%",
+      "low-dose aspirin",
+      "blocks thromboxane A2",
+      "cytoreduction if high-risk",
+      "pegylated interferon alfa",
+      "first-line hydroxyurea"
+    ]
+  },
+  {
+    "id": "bloodlymph-48-1",
+    "title": "Essential Thrombocythemia",
+    "course": "bloodlymph",
+    "brick_id": "48",
+    "brick_title": "Essential Thrombocythemia",
+    "type": "disease",
+    "buzzwords": [
+      "myeloproliferative neoplasm",
+      "often asymptomatic",
+      "headache, blurry vision",
+      "both clotting and bleeding",
+      "platelets over 400,000",
+      "marrow overproduces platelets",
+      "megakaryocyte proliferation",
+      "essential thrombocythemia"
+    ]
+  },
+  {
+    "id": "bloodlymph-48-2",
+    "title": "ET Symptoms",
+    "course": "bloodlymph",
+    "brick_id": "48",
+    "brick_title": "Essential Thrombocythemia",
+    "type": "physiology",
+    "buzzwords": [
+      "microthrombi cause symptoms",
+      "headache, dizziness, syncope",
+      "burning red extremities",
+      "stroke, DVT, MI",
+      "excess bleeding too",
+      "decreased platelet function",
+      "first-trimester fetal loss",
+      "erythromelalgia"
+    ]
+  },
+  {
+    "id": "bloodlymph-48-3",
+    "title": "JAK2 Mutation",
+    "course": "bloodlymph",
+    "brick_id": "48",
+    "brick_title": "Essential Thrombocythemia",
+    "type": "physiology",
+    "buzzwords": [
+      "acquired driver mutation",
+      "constitutive tyrosine kinase",
+      "JAK/STAT activation",
+      "drives stem cell growth",
+      "~50% of ET cases",
+      "CALR or MPL if negative",
+      "Janus kinase 2",
+      "JAK2 V617F"
+    ]
+  },
+  {
+    "id": "bloodlymph-48-4",
+    "title": "Peripheral Smear",
+    "course": "bloodlymph",
+    "brick_id": "48",
+    "brick_title": "Essential Thrombocythemia",
+    "type": "lab",
+    "buzzwords": [
+      "increased platelets",
+      "tiny to giant platelets",
+      "wide size variation",
+      "mean platelet volume varies",
+      "other cells normal",
+      "blood smear finding",
+      "platelet anisocytosis",
+      "anisocytosis of platelets"
+    ]
+  },
+  {
+    "id": "bloodlymph-48-5",
+    "title": "Bone Marrow Biopsy",
+    "course": "bloodlymph",
+    "brick_id": "48",
+    "brick_title": "Essential Thrombocythemia",
+    "type": "imaging",
+    "buzzwords": [
+      "typically normocellular",
+      "enlarged megakaryocytes",
+      "dominant megakaryocyte proliferation",
+      "late-stage fibrosis",
+      "may evolve to AML",
+      "done if no secondary cause",
+      "megakaryocyte hyperplasia",
+      "normocellular with big megakaryocytes"
+    ]
+  },
+  {
+    "id": "bloodlymph-48-6",
+    "title": "Secondary Thrombocytosis",
+    "course": "bloodlymph",
+    "brick_id": "48",
+    "brick_title": "Essential Thrombocythemia",
+    "type": "disease",
+    "buzzwords": [
+      "reactive platelet rise",
+      "more common than ET",
+      "exclude before diagnosing ET",
+      "infection, surgery, malignancy",
+      "iron deficiency anemia",
+      "chronic inflammation, splenectomy",
+      "pseudothrombocytosis miscounts",
+      "secondary thrombocytosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-48-7",
+    "title": "ET Treatment",
+    "course": "bloodlymph",
+    "brick_id": "48",
+    "brick_title": "Essential Thrombocythemia",
+    "type": "drug",
+    "buzzwords": [
+      "no cure, manage symptoms",
+      "reduce microvascular events",
+      "low-dose aspirin for all",
+      "cytoreduction if high-risk",
+      "anticoagulant after thrombosis",
+      "JAK inhibitor ruxolitinib",
+      "interferon alfa option",
+      "hydroxyurea"
+    ]
+  },
+  {
+    "id": "bloodlymph-49-1",
+    "title": "Primary Myelofibrosis",
+    "course": "bloodlymph",
+    "brick_id": "49",
+    "brick_title": "Primary Myelofibrosis",
+    "type": "disease",
+    "buzzwords": [
+      "myeloproliferative neoplasm",
+      "worst prognosis MPN",
+      "all myeloid lines proliferate",
+      "marrow replaced by fibrosis",
+      "fatigue and early satiety",
+      "may transform to AML",
+      "median survival 6 years",
+      "primary myelofibrosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-49-2",
+    "title": "Marrow Fibrosis",
+    "course": "bloodlymph",
+    "brick_id": "49",
+    "brick_title": "Primary Myelofibrosis",
+    "type": "physiology",
+    "buzzwords": [
+      "marrow fills with fibrosis",
+      "fibroblast-stimulating cytokines",
+      "released by megakaryocytes",
+      "collagen fibers fill marrow",
+      "dry tap on aspiration",
+      "marrow failure, cytopenias",
+      "reticulin-stained fibers",
+      "collagen fibrosis"
+    ]
+  },
+  {
+    "id": "bloodlymph-49-3",
+    "title": "Extramedullary Hematopoiesis",
+    "course": "bloodlymph",
+    "brick_id": "49",
+    "brick_title": "Primary Myelofibrosis",
+    "type": "physiology",
+    "buzzwords": [
+      "blood production outside marrow",
+      "compensates for marrow failure",
+      "occurs in spleen and liver",
+      "causes massive splenomegaly",
+      "tip reaches the pelvis",
+      "left upper quadrant fullness",
+      "hepatomegaly",
+      "extramedullary hematopoiesis"
+    ]
+  },
+  {
+    "id": "bloodlymph-49-4",
+    "title": "Leukoerythroblastic Smear",
+    "course": "bloodlymph",
+    "brick_id": "49",
+    "brick_title": "Primary Myelofibrosis",
+    "type": "lab",
+    "buzzwords": [
+      "peripheral smear finding",
+      "elevated WBC with left shift",
+      "immature granulocyte precursors",
+      "nucleated RBCs released early",
+      "teardrop-shaped red cells",
+      "RBCs squeeze through fibrosis",
+      "dacrocytes",
+      "leukoerythroblastic reaction"
+    ]
+  },
+  {
+    "id": "bloodlymph-49-5",
+    "title": "PMF Genetics",
+    "course": "bloodlymph",
+    "brick_id": "49",
+    "brick_title": "Primary Myelofibrosis",
+    "type": "physiology",
+    "buzzwords": [
+      "mostly spontaneous mutations",
+      "risk factor ionizing radiation",
+      "JAK-STAT pathway activation",
+      "50 to 60% JAK2 mutation",
+      "CALR in JAK2-negative cases",
+      "MPL mutation minority",
+      "Janus kinase 2",
+      "drives myeloid proliferation"
+    ]
+  },
+  {
+    "id": "bloodlymph-49-6",
+    "title": "PMF Treatment",
+    "course": "bloodlymph",
+    "brick_id": "49",
+    "brick_title": "Primary Myelofibrosis",
+    "type": "drug",
+    "buzzwords": [
+      "depends on disease severity",
+      "low-risk patients observed",
+      "only curative option transplant",
+      "allogeneic stem cell transplant",
+      "JAK1 and JAK2 inhibitor",
+      "ruxolitinib for high-risk",
+      "hydroxyurea lowers counts",
+      "newer JAK inhibitor momelotinib"
+    ]
+  },
+  {
+    "id": "bloodlymph-50-1",
+    "title": "Myelodysplastic Neoplasms",
+    "course": "bloodlymph",
+    "brick_id": "50",
+    "brick_title": "Myelodysplastic Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "older adults",
+      "ineffective hematopoiesis",
+      "cytopenias",
+      "diagnosis of exclusion",
+      "dysplastic myeloid line",
+      "<20% marrow blasts",
+      "30% progress to AML",
+      "del(5q) abnormality"
+    ]
+  },
+  {
+    "id": "bloodlymph-50-2",
+    "title": "del(5q) Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "50",
+    "brick_title": "Myelodysplastic Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "older females",
+      "isolated chromosome deletion",
+      "anemia",
+      "normal WBC count",
+      "normal/elevated platelets",
+      "low leukemia risk",
+      "lenalidomide responsive",
+      "del(5q) MDS subtype"
+    ]
+  },
+  {
+    "id": "bloodlymph-50-3",
+    "title": "Ring Sideroblasts",
+    "course": "bloodlymph",
+    "brick_id": "50",
+    "brick_title": "Myelodysplastic Neoplasms",
+    "type": "lab",
+    "buzzwords": [
+      "dysplastic RBC precursor",
+      "iron accumulation",
+      "perinuclear iron granules",
+      "ring around nucleus",
+      "Prussian blue stain",
+      "marrow finding in MDS",
+      "iron-laden mitochondria",
+      "ringed sideroblast"
+    ]
+  },
+  {
+    "id": "bloodlymph-50-4",
+    "title": "Lenalidomide",
+    "course": "bloodlymph",
+    "brick_id": "50",
+    "brick_title": "Myelodysplastic Neoplasms",
+    "type": "drug",
+    "buzzwords": [
+      "immunomodulatory drug",
+      "lowers TNF-alpha",
+      "low-risk MDS therapy",
+      "myelosuppression risk",
+      "thrombosis risk",
+      "teratogen black box",
+      "best for del(5q)",
+      "thalidomide analog"
+    ]
+  },
+  {
+    "id": "bloodlymph-50-5",
+    "title": "Azacitidine",
+    "course": "bloodlymph",
+    "brick_id": "50",
+    "brick_title": "Myelodysplastic Neoplasms",
+    "type": "drug",
+    "buzzwords": [
+      "pyrimidine nucleoside analog",
+      "low-risk MDS therapy",
+      "incorporated into DNA",
+      "nausea and vomiting",
+      "mucositis",
+      "myelosuppression",
+      "inhibits DNA methylation",
+      "hypomethylating agent"
+    ]
+  },
+  {
+    "id": "bloodlymph-51-1",
+    "title": "Acute Myeloid Leukemia",
+    "course": "bloodlymph",
+    "brick_id": "51",
+    "brick_title": "Acute Myeloid Leukemia",
+    "type": "disease",
+    "buzzwords": [
+      "blood cancer",
+      "rapidly progressive",
+      "bone marrow failure",
+      "median onset age 65",
+      "anemia, bleeding, infection",
+      "immature precursor accumulation",
+      "myeloid lineage",
+      "20% blasts in marrow"
+    ]
+  },
+  {
+    "id": "bloodlymph-51-2",
+    "title": "Myeloblasts",
+    "course": "bloodlymph",
+    "brick_id": "51",
+    "brick_title": "Acute Myeloid Leukemia",
+    "type": "lab",
+    "buzzwords": [
+      "earliest precursor cell",
+      "high nuclear-cytoplasmic ratio",
+      "fine smooth chromatin",
+      "visible nucleoli",
+      "dominate the marrow",
+      "pink rod cytoplasmic inclusions",
+      "fused lysosomes and granules",
+      "Auer rods"
+    ]
+  },
+  {
+    "id": "bloodlymph-51-3",
+    "title": "Acute Promyelocytic Leukemia",
+    "course": "bloodlymph",
+    "brick_id": "51",
+    "brick_title": "Acute Myeloid Leukemia",
+    "type": "disease",
+    "buzzwords": [
+      "distinctive AML subtype",
+      "abundant red granules",
+      "multiple Auer rods",
+      "strongly associated with DIC",
+      "PML-RARa fusion gene",
+      "responds to retinoic acid",
+      "treated with ATRA plus arsenic",
+      "t(15;17) translocation"
+    ]
+  },
+  {
+    "id": "bloodlymph-51-4",
+    "title": "Tumor Lysis Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "51",
+    "brick_title": "Acute Myeloid Leukemia",
+    "type": "disease",
+    "buzzwords": [
+      "metabolic complication",
+      "from cell breakdown",
+      "hyperuricemia",
+      "hyperkalemia",
+      "hyperphosphatemia",
+      "hypocalcemia",
+      "prevent with IV fluids and allopurinol",
+      "rasburicase for high uric acid"
+    ]
+  },
+  {
+    "id": "bloodlymph-51-5",
+    "title": "Leukostasis",
+    "course": "bloodlymph",
+    "brick_id": "51",
+    "brick_title": "Acute Myeloid Leukemia",
+    "type": "disease",
+    "buzzwords": [
+      "complication of hyperleukocytosis",
+      "WBC count over 100,000",
+      "increased blood viscosity",
+      "neurologic symptoms",
+      "pulmonary symptoms",
+      "dyspnea and hypoxia",
+      "treat with cytoreduction",
+      "leukapheresis plus hydroxyurea"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-1",
+    "title": "Bone Marrow Source",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "traditional HSC source",
+      "harvested under anesthesia",
+      "large-bore needles",
+      "aspirated from bone",
+      "very safe procedure",
+      "minimal side effects",
+      "posterior iliac crest",
+      "marrow harvesting"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-2",
+    "title": "Peripheral Blood Source",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "requires mobilization",
+      "normally rare in blood",
+      "collected via apheresis",
+      "measured as CD34+ cells",
+      "side effect: bone pain",
+      "thrombopoietin, IL-3",
+      "CXCR4 antagonist plerixafor",
+      "G-CSF mobilization"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-3",
+    "title": "Umbilical Cord Blood",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "alternative donor option",
+      "less strict HLA matching",
+      "helps uncommon HLA haplotypes",
+      "helps mixed ethnicity patients",
+      "collected at delivery",
+      "small HSC number",
+      "increased infection risk",
+      "from placental vessels"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-4",
+    "title": "Autologous Transplant",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "uses patient's own cells",
+      "rescues marrow after chemo",
+      "no graft-versus-host disease",
+      "myeloablative conditioning",
+      "treats multiple myeloma",
+      "treats lymphomas",
+      "no immune tumor effect",
+      "self-donor"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-5",
+    "title": "Allogeneic Transplant",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "donor cells from another person",
+      "related or unrelated donor",
+      "two anticancer mechanisms",
+      "treats aplastic anemia",
+      "treats acute leukemias",
+      "risk of GVHD",
+      "donor immune attacks tumor",
+      "graft-versus-tumor effect"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-6",
+    "title": "Conditioning Regimen",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "given before infusion",
+      "high-intensity chemotherapy",
+      "with or without radiation",
+      "wipes out the marrow",
+      "immunosuppresses recipient",
+      "eliminates tumor",
+      "days prior to Day 0",
+      "myeloablative"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-7",
+    "title": "Engraftment",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "donor cells establish marrow",
+      "begins new blood production",
+      "needs ABO HLA matching",
+      "typically within 21 days",
+      "three consecutive days",
+      "platelets recover variably",
+      "failure causes low counts",
+      "neutrophils exceed 0.5x10^9/L"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-8",
+    "title": "Graft Failure",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "disease",
+    "buzzwords": [
+      "lack of engraftment",
+      "low donor cell yield",
+      "primary versus secondary",
+      "primary: never reaches threshold",
+      "secondary: counts then drop",
+      "caused by rejection",
+      "immune-mediated by host cells",
+      "fails beyond 28 days"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-9",
+    "title": "Oral Mucositis",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "disease",
+    "buzzwords": [
+      "regimen-related toxicity",
+      "from high-intensity conditioning",
+      "inflammation of the mouth",
+      "dry mouth",
+      "sore mouth",
+      "mouth ulcers",
+      "managed with saline rinses",
+      "most transplant recipients"
+    ]
+  },
+  {
+    "id": "bloodlymph-52-10",
+    "title": "Graft-Versus-Host Disease",
+    "course": "bloodlymph",
+    "brick_id": "52",
+    "brick_title": "Hematopoietic Stem Cell Transplantation",
+    "type": "disease",
+    "buzzwords": [
+      "potentially fatal complication",
+      "occurs in allogeneic transplant",
+      "donor T cells attack recipient",
+      "affects skin liver gut",
+      "diarrhea and abdominal pain",
+      "hepatosplenomegaly",
+      "maculopapular rash",
+      "GVHD"
+    ]
+  },
+  {
+    "id": "bloodlymph-53-1",
+    "title": "Spleen",
+    "course": "bloodlymph",
+    "brick_id": "53",
+    "brick_title": "Structure and Function of the Spleen",
+    "type": "anatomy",
+    "buzzwords": [
+      "largest lymphoid organ",
+      "left upper quadrant",
+      "intraperitoneal",
+      "shielded by ribs 9-11",
+      "stores platelets",
+      "fetal hematopoiesis site",
+      "removable without death",
+      "secondary lymphoid organ"
+    ]
+  },
+  {
+    "id": "bloodlymph-53-2",
+    "title": "Splenic Anatomy",
+    "course": "bloodlymph",
+    "brick_id": "53",
+    "brick_title": "Structure and Function of the Spleen",
+    "type": "anatomy",
+    "buzzwords": [
+      "fibroelastic capsule",
+      "hilum vessel entry",
+      "trabeculae carry vessels",
+      "splenic artery from celiac",
+      "splenic vein to portal",
+      "gastrosplenic ligament",
+      "splenorenal ligament",
+      "tail of pancreas adjacent"
+    ]
+  },
+  {
+    "id": "bloodlymph-53-3",
+    "title": "Red Pulp",
+    "course": "bloodlymph",
+    "brick_id": "53",
+    "brick_title": "Structure and Function of the Spleen",
+    "type": "physiology",
+    "buzzwords": [
+      "filters old RBCs",
+      "most of parenchyma",
+      "open and closed circulation",
+      "leaky sinusoids",
+      "stave cells line sinusoids",
+      "slit-like openings",
+      "tissue macrophages phagocytose",
+      "cords of Billroth"
+    ]
+  },
+  {
+    "id": "bloodlymph-53-4",
+    "title": "White Pulp",
+    "course": "bloodlymph",
+    "brick_id": "53",
+    "brick_title": "Structure and Function of the Spleen",
+    "type": "physiology",
+    "buzzwords": [
+      "lymphocyte-rich region",
+      "surrounds central arteriole",
+      "secondary immune response",
+      "follicles hold B cells",
+      "germinal center B cells",
+      "marginal zone antigen exchange",
+      "tags encapsulated bacteria",
+      "PALS rich in T cells"
+    ]
+  },
+  {
+    "id": "bloodlymph-54-1",
+    "title": "Splenomegaly",
+    "course": "bloodlymph",
+    "brick_id": "54",
+    "brick_title": "Disorders of the Spleen",
+    "type": "disease",
+    "buzzwords": [
+      "enlarged spleen",
+      "LUQ mass",
+      "palpable below ribcage",
+      "vascular congestion",
+      "extramedullary hematopoiesis",
+      "red cell entrapment",
+      "referred left shoulder pain",
+      "palpable >40% enlargement"
+    ]
+  },
+  {
+    "id": "bloodlymph-54-2",
+    "title": "Asplenia",
+    "course": "bloodlymph",
+    "brick_id": "54",
+    "brick_title": "Disorders of the Spleen",
+    "type": "disease",
+    "buzzwords": [
+      "absent splenic function",
+      "loss of resident B cells",
+      "post-splenectomy",
+      "sickle cell autoinfarction",
+      "encapsulated organism sepsis",
+      "vaccinate against encapsulated",
+      "thrombocytosis and leukocytosis",
+      "Howell-Jolly bodies"
+    ]
+  },
+  {
+    "id": "bloodlymph-54-3",
+    "title": "Splenic Rupture",
+    "course": "bloodlymph",
+    "brick_id": "54",
+    "brick_title": "Disorders of the Spleen",
+    "type": "disease",
+    "buzzwords": [
+      "highly vascular organ injured",
+      "blunt abdominal trauma",
+      "LUQ pain, guarding",
+      "hypovolemic shock",
+      "acutely enlarged ruptures easily",
+      "splenectomy if irreparable",
+      "left shoulder pain",
+      "Kehr sign"
+    ]
+  },
+  {
+    "id": "bloodlymph-54-4",
+    "title": "Splenic Abscess",
+    "course": "bloodlymph",
+    "brick_id": "54",
+    "brick_title": "Disorders of the Spleen",
+    "type": "disease",
+    "buzzwords": [
+      "intrasplenic pus collection",
+      "fever and LUQ pain",
+      "leukocytosis",
+      "complication of endocarditis",
+      "staph, strep, enterococcus",
+      "CT scan gold standard",
+      "IV antibiotics",
+      "needle aspiration for cultures"
+    ]
+  },
+  {
+    "id": "bloodlymph-54-5",
+    "title": "Accessory Spleen",
+    "course": "bloodlymph",
+    "brick_id": "54",
+    "brick_title": "Disorders of the Spleen",
+    "type": "anatomy",
+    "buzzwords": [
+      "congenital splenic anomaly",
+      "extra healthy splenic tissue",
+      "separate from main spleen",
+      "asymptomatic",
+      "incidental imaging finding",
+      "most common congenital anomaly",
+      "functions like normal spleen",
+      "splenule"
+    ]
+  },
+  {
+    "id": "bloodlymph-55-1",
+    "title": "Thymus",
+    "course": "bloodlymph",
+    "brick_id": "55",
+    "brick_title": "Structure, Function, and Disorders of the Thymus",
+    "type": "anatomy",
+    "buzzwords": [
+      "lymphoid organ",
+      "anterior superior mediastinum",
+      "bilobed and encapsulated",
+      "behind the sternum",
+      "largest in neonates",
+      "involutes with age",
+      "third pharyngeal pouch",
+      "matures T cells"
+    ]
+  },
+  {
+    "id": "bloodlymph-55-2",
+    "title": "Thymic Histology",
+    "course": "bloodlymph",
+    "brick_id": "55",
+    "brick_title": "Structure, Function, and Disorders of the Thymus",
+    "type": "anatomy",
+    "buzzwords": [
+      "packed with thymocytes",
+      "septa divide lobules",
+      "dark basophilic outer cortex",
+      "paler inner medulla",
+      "epithelial reticular cells",
+      "keratinized concentric whorls",
+      "function unknown",
+      "Hassall corpuscles"
+    ]
+  },
+  {
+    "id": "bloodlymph-55-3",
+    "title": "Blood-Thymus Barrier",
+    "course": "bloodlymph",
+    "brick_id": "55",
+    "brick_title": "Structure, Function, and Disorders of the Thymus",
+    "type": "physiology",
+    "buzzwords": [
+      "blocks circulating antigens",
+      "protects T-cell selection",
+      "tight junctions",
+      "epithelial reticular scaffold",
+      "two-part barrier",
+      "nonfenestrated capillaries",
+      "no fenestrae",
+      "ERCs present antigen"
+    ]
+  },
+  {
+    "id": "bloodlymph-55-4",
+    "title": "T-Cell Selection",
+    "course": "bloodlymph",
+    "brick_id": "55",
+    "brick_title": "Structure, Function, and Disorders of the Thymus",
+    "type": "physiology",
+    "buzzwords": [
+      "precursors from marrow",
+      "cortex then medulla",
+      "self-antigen presentation",
+      "positive selection in cortex",
+      "must recognize self-MHC",
+      "negative selection in medulla",
+      "removes autoreactive cells",
+      "exits as CD4 or CD8"
+    ]
+  },
+  {
+    "id": "bloodlymph-55-5",
+    "title": "Thymoma",
+    "course": "bloodlymph",
+    "brick_id": "55",
+    "brick_title": "Structure, Function, and Disorders of the Thymus",
+    "type": "disease",
+    "buzzwords": [
+      "thymic mass",
+      "anterior mediastinal mass",
+      "often asymptomatic",
+      "adults over 40",
+      "may cause SVC syndrome",
+      "potentially curable",
+      "associated myasthenia gravis",
+      "anti-AChR antibodies"
+    ]
+  },
+  {
+    "id": "bloodlymph-55-6",
+    "title": "DiGeorge Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "55",
+    "brick_title": "Structure, Function, and Disorders of the Thymus",
+    "type": "disease",
+    "buzzwords": [
+      "congenital thymic hypoplasia",
+      "low T-cell counts",
+      "neural crest failure",
+      "3rd and 4th pouches",
+      "hypoparathyroidism",
+      "congenital heart disease",
+      "chromosome 22 deletion",
+      "recurrent infections"
+    ]
+  },
+  {
+    "id": "bloodlymph-55-7",
+    "title": "Wiskott-Aldrich Syndrome",
+    "course": "bloodlymph",
+    "brick_id": "55",
+    "brick_title": "Structure, Function, and Disorders of the Thymus",
+    "type": "disease",
+    "buzzwords": [
+      "X-linked recessive",
+      "hypoplastic thymus",
+      "recurrent infections",
+      "eczema",
+      "thrombocytopenia",
+      "small platelets",
+      "triad disorder",
+      "WAS gene mutation"
+    ]
+  },
+  {
+    "id": "bloodlymph-56-1",
+    "title": "D2 Antagonists",
+    "course": "bloodlymph",
+    "brick_id": "56",
+    "brick_title": "Supportive Therapy for Patients on Chemotherapy - Antiemetics",
+    "type": "drug",
+    "buzzwords": [
+      "dopamine receptor blocker",
+      "antiemetic",
+      "acts at area postrema",
+      "increases gastric emptying",
+      "tardive dyskinesia risk",
+      "neuroleptic malignant syndrome",
+      "extrapyramidal symptoms",
+      "metoclopramide"
+    ]
+  },
+  {
+    "id": "bloodlymph-56-2",
+    "title": "5-HT3 Antagonists",
+    "course": "bloodlymph",
+    "brick_id": "56",
+    "brick_title": "Supportive Therapy for Patients on Chemotherapy - Antiemetics",
+    "type": "drug",
+    "buzzwords": [
+      "serotonin receptor blocker",
+      "first-line chemo antiemetic",
+      "acts at CTZ and vagus",
+      "headache",
+      "constipation",
+      "QT prolongation",
+      "the -setron drugs",
+      "ondansetron"
+    ]
+  },
+  {
+    "id": "bloodlymph-56-3",
+    "title": "NK1 Antagonists",
+    "course": "bloodlymph",
+    "brick_id": "56",
+    "brick_title": "Supportive Therapy for Patients on Chemotherapy - Antiemetics",
+    "type": "drug",
+    "buzzwords": [
+      "blocks substance P",
+      "crosses blood-brain barrier",
+      "used as pretreatment",
+      "few adverse effects",
+      "neutropenia",
+      "fatigue",
+      "neurokinin-1 receptor",
+      "aprepitant"
+    ]
+  },
+  {
+    "id": "bloodlymph-56-4",
+    "title": "Antimuscarinics",
+    "course": "bloodlymph",
+    "brick_id": "56",
+    "brick_title": "Supportive Therapy for Patients on Chemotherapy - Antiemetics",
+    "type": "drug",
+    "buzzwords": [
+      "blocks M1 receptor",
+      "best for motion sickness",
+      "transdermal patch",
+      "dry mouth",
+      "pupillary dilation",
+      "urinary retention",
+      "sedation",
+      "scopolamine"
+    ]
+  },
+  {
+    "id": "bloodlymph-56-5",
+    "title": "Steroids",
+    "course": "bloodlymph",
+    "brick_id": "56",
+    "brick_title": "Supportive Therapy for Patients on Chemotherapy - Antiemetics",
+    "type": "drug",
+    "buzzwords": [
+      "corticosteroid antiemetic",
+      "adjunct therapy",
+      "suppresses inflammatory mediators",
+      "unknown exact mechanism",
+      "hyperglycemia",
+      "GI bleed risk",
+      "methylprednisolone",
+      "dexamethasone"
+    ]
+  },
+  {
+    "id": "bloodlymph-57-1",
+    "title": "Plasmodium / Malaria",
+    "course": "bloodlymph",
+    "brick_id": "57",
+    "brick_title": "Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent fevers",
+      "hemolytic anemia",
+      "Anopheles mosquito vector",
+      "infects red blood cells",
+      "Duffy antigen entry",
+      "ring trophozoites",
+      "crescent-shaped gametocyte",
+      "Giemsa-stained smear"
+    ]
+  },
+  {
+    "id": "bloodlymph-57-2",
+    "title": "Babesia / Babesiosis",
+    "course": "bloodlymph",
+    "brick_id": "57",
+    "brick_title": "Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "disease",
+    "buzzwords": [
+      "hemolytic anemia",
+      "flu-like illness",
+      "Ixodes scapularis tick",
+      "infects red blood cells",
+      "northeastern US",
+      "co-infects with Lyme",
+      "Babesia microti",
+      "Maltese cross tetrads"
+    ]
+  },
+  {
+    "id": "bloodlymph-57-3",
+    "title": "Brucella / Brucellosis",
+    "course": "bloodlymph",
+    "brick_id": "57",
+    "brick_title": "Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "disease",
+    "buzzwords": [
+      "zoonotic infection",
+      "undulating fever",
+      "unpasteurized dairy",
+      "gram-negative coccobacilli",
+      "survives in macrophages",
+      "night sweats, arthralgia",
+      "antibody titer >=1:160",
+      "Brucella melitensis"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-1",
+    "title": "Chloroquine",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "antimalarial",
+      "raises lysosomal pH",
+      "blocks heme detoxification",
+      "toxic free heme accumulates",
+      "EKG changes",
+      "cardiomyopathy risk",
+      "hemolysis in G6PD deficiency",
+      "widespread resistance"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-2",
+    "title": "Hydroxychloroquine",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "chloroquine derivative",
+      "added hydroxyl group",
+      "less toxic alternative",
+      "raises vacuole pH",
+      "impairs antigen processing",
+      "downregulates CD4 response",
+      "used in autoimmune arthritis",
+      "G6PD hemolysis risk"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-3",
+    "title": "Atovaquone-proguanil",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "first-choice for travelers",
+      "short pre-travel dosing",
+      "blocks mitochondrial electron transport",
+      "inhibits parasite folate synthesis",
+      "synergistic combination",
+      "transient transaminitis",
+      "renally eliminated",
+      "avoid in severe renal failure"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-4",
+    "title": "Mefloquine",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "once-weekly dosing",
+      "blocks 80S subunit",
+      "interferes with heme digestion",
+      "abnormal dreams",
+      "insomnia",
+      "neuropsychiatric black box",
+      "avoid in psychiatric disorders",
+      "contraindicated in seizures"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-5",
+    "title": "Primaquine",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "disrupts mitochondria",
+      "binds parasite DNA",
+      "targets exoerythrocytic stages",
+      "prevents relapse",
+      "QT prolongation",
+      "leukopenia",
+      "hemolytic anemia in G6PD",
+      "covers P. ovale and vivax"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-6",
+    "title": "Artemisinin therapy",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "first-line uncomplicated malaria",
+      "given as combination",
+      "cleaves endoperoxide bridge",
+      "iron-mediated free radicals",
+      "rapid parasite clearance",
+      "hypotension and dizziness",
+      "IV artesunate for severe",
+      "ACT regimen"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-7",
+    "title": "Babesia treatment",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "tick-borne hemoparasite",
+      "common in immunocompromised",
+      "macrolide-based regimen",
+      "azithromycin plus atovaquone",
+      "preferred first-line",
+      "alternative clindamycin plus quinine",
+      "watch QT prolongation",
+      "monitor drug interactions"
+    ]
+  },
+  {
+    "id": "bloodlymph-58-8",
+    "title": "Brucella treatment",
+    "course": "bloodlymph",
+    "brick_id": "58",
+    "brick_title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+    "type": "drug",
+    "buzzwords": [
+      "treats brucellosis",
+      "two protein-synthesis inhibitors",
+      "30S subunit blockers",
+      "doxycycline plus aminoglycoside",
+      "usually gentamicin",
+      "nephrotoxicity and ototoxicity",
+      "avoid cations like iron",
+      "alternative fluoroquinolone or SMX-TMP"
+    ]
+  },
+  {
+    "id": "bloodlymph-59-1",
+    "title": "Hemorrhagic Viruses",
+    "course": "bloodlymph",
+    "brick_id": "59",
+    "brick_title": "Hemorrhagic Viruses",
+    "type": "disease",
+    "buzzwords": [
+      "zoonotic RNA viruses",
+      "acute febrile illness",
+      "endemic or sporadic",
+      "vector or fluid transmission",
+      "supportive care only",
+      "vascular instability",
+      "bleeding manifestations",
+      "viral hemorrhagic fever"
+    ]
+  },
+  {
+    "id": "bloodlymph-59-2",
+    "title": "Filoviruses",
+    "course": "bloodlymph",
+    "brick_id": "59",
+    "brick_title": "Hemorrhagic Viruses",
+    "type": "disease",
+    "buzzwords": [
+      "filamentous shape",
+      "negative-sense ssRNA",
+      "bat reservoir",
+      "high healthcare-associated spread",
+      "DIC and shock",
+      "dry phase, wet phase",
+      "RT-PCR diagnosis",
+      "Ebola, Marburg"
+    ]
+  },
+  {
+    "id": "bloodlymph-59-3",
+    "title": "Hantavirus",
+    "course": "bloodlymph",
+    "brick_id": "59",
+    "brick_title": "Hemorrhagic Viruses",
+    "type": "disease",
+    "buzzwords": [
+      "segmented circular genome",
+      "rodent reservoir",
+      "aerosolized excreta inhaled",
+      "long incubation period",
+      "renal syndrome (HFRS)",
+      "capillary leak, pulmonary edema",
+      "respiratory failure",
+      "cardiopulmonary syndrome (HCPS)"
+    ]
+  },
+  {
+    "id": "bloodlymph-60-1",
+    "title": "Arbovirus Taxonomy",
+    "course": "bloodlymph",
+    "brick_id": "60",
+    "brick_title": "Arboviruses",
+    "type": "physiology",
+    "buzzwords": [
+      "arthropod-borne viruses",
+      "spread by mosquitoes/ticks",
+      "humans are reservoir",
+      "dead-end hosts exist",
+      "three major groups",
+      "flaviviruses icosahedral",
+      "bunyaviruses helical segmented",
+      "flavi means yellow"
+    ]
+  },
+  {
+    "id": "bloodlymph-60-2",
+    "title": "Yellow Fever Virus",
+    "course": "bloodlymph",
+    "brick_id": "60",
+    "brick_title": "Arboviruses",
+    "type": "disease",
+    "buzzwords": [
+      "mosquito-borne hemorrhagic fever",
+      "jaundice prominent",
+      "Aedes aegypti vector",
+      "biphasic course",
+      "toxic phase intoxication",
+      "black vomit",
+      "live attenuated vaccine",
+      "Councilman bodies"
+    ]
+  },
+  {
+    "id": "bloodlymph-60-3",
+    "title": "Dengue Virus",
+    "course": "bloodlymph",
+    "brick_id": "60",
+    "brick_title": "Arboviruses",
+    "type": "disease",
+    "buzzwords": [
+      "mosquito-borne hemorrhagic fever",
+      "retro-orbital pain",
+      "neutropenia thrombocytopenia",
+      "four serotypes",
+      "antibody-dependent enhancement",
+      "vascular leakage shock",
+      "breakbone fever",
+      "live recombinant vaccine"
+    ]
+  },
+  {
+    "id": "bloodlymph-60-4",
+    "title": "Chikungunya Virus",
+    "course": "bloodlymph",
+    "brick_id": "60",
+    "brick_title": "Arboviruses",
+    "type": "disease",
+    "buzzwords": [
+      "mosquito-borne febrile illness",
+      "abrupt high fever",
+      "lymphadenopathy rash",
+      "symmetric polyarthritis",
+      "debilitating joint pain",
+      "chronic arthritis persists",
+      "to be contorted",
+      "viral-like particle vaccine"
+    ]
+  },
+  {
+    "id": "bloodlymph-60-5",
+    "title": "Zika Virus",
+    "course": "bloodlymph",
+    "brick_id": "60",
+    "brick_title": "Arboviruses",
+    "type": "disease",
+    "buzzwords": [
+      "mosquito-borne flavivirus",
+      "often asymptomatic",
+      "conjunctivitis itchy rash",
+      "sexual transmission",
+      "vertical transplacental spread",
+      "Guillain-Barre sequela",
+      "congenital microcephaly",
+      "brain calcifications"
+    ]
+  }
+]

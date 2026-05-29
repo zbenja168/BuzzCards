@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-8-1",
+    "title": "Sideroblastic Anemia",
+    "course": "bloodlymph",
+    "brick_id": "8",
+    "brick_title": "Sideroblastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "impaired iron utilization",
+      "ineffective erythropoiesis",
+      "microcytic anemia",
+      "high serum ferritin",
+      "defective heme synthesis",
+      "iron overload",
+      "dimorphic RBCs",
+      "ringed sideroblasts"
+    ]
+  },
+  {
+    "id": "bloodlymph-8-2",
+    "title": "Ringed Sideroblasts",
+    "course": "bloodlymph",
+    "brick_id": "8",
+    "brick_title": "Sideroblastic Anemia",
+    "type": "lab",
+    "buzzwords": [
+      "bone marrow finding",
+      "nucleated erythroid precursor",
+      "iron-laden mitochondria",
+      "ring around nucleus",
+      "Prussian blue positive",
+      "perinuclear iron inclusions",
+      "not on peripheral smear",
+      "diagnostic hallmark"
+    ]
+  },
+  {
+    "id": "bloodlymph-8-3",
+    "title": "Pappenheimer Bodies",
+    "course": "bloodlymph",
+    "brick_id": "8",
+    "brick_title": "Sideroblastic Anemia",
+    "type": "lab",
+    "buzzwords": [
+      "peripheral smear finding",
+      "iron-containing granules",
+      "clustered RBC inclusions",
+      "cell periphery location",
+      "Prussian blue positive",
+      "seen with basophilic stippling",
+      "most common smear finding",
+      "Pappenheimer bodies"
+    ]
+  },
+  {
+    "id": "bloodlymph-8-4",
+    "title": "ALAS / Vitamin B6",
+    "course": "bloodlymph",
+    "brick_id": "8",
+    "brick_title": "Sideroblastic Anemia",
+    "type": "physiology",
+    "buzzwords": [
+      "first heme synthesis step",
+      "rate-limiting enzyme",
+      "needs pyridoxine cofactor",
+      "X-linked gene mutation",
+      "deficiency causes anemia",
+      "isoniazid lowers it",
+      "responds to B6",
+      "delta-aminolevulinic acid synthase"
+    ]
+  },
+  {
+    "id": "bloodlymph-8-5",
+    "title": "Lead Poisoning",
+    "course": "bloodlymph",
+    "brick_id": "8",
+    "brick_title": "Sideroblastic Anemia",
+    "type": "disease",
+    "buzzwords": [
+      "acquired sideroblastic anemia",
+      "anemia plus neuro symptoms",
+      "old chipped paint",
+      "inhibits ferrochelatase",
+      "inhibits ALA dehydratase",
+      "basophilic stippling",
+      "common cause in children",
+      "lead exposure"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bloodlymph-56-1",
+    "title": "D2 Antagonists",
+    "course": "bloodlymph",
+    "brick_id": "56",
+    "brick_title": "Supportive Therapy for Patients on Chemotherapy - Antiemetics",
+    "type": "drug",
+    "buzzwords": [
+      "dopamine receptor blocker",
+      "antiemetic",
+      "acts at area postrema",
+      "increases gastric emptying",
+      "tardive dyskinesia risk",
+      "neuroleptic malignant syndrome",
+      "extrapyramidal symptoms",
+      "metoclopramide"
+    ]
+  },
+  {
+    "id": "bloodlymph-56-2",
+    "title": "5-HT3 Antagonists",
+    "course": "bloodlymph",
+    "brick_id": "56",
+    "brick_title": "Supportive Therapy for Patients on Chemotherapy - Antiemetics",
+    "type": "drug",
+    "buzzwords": [
+      "serotonin receptor blocker",
+      "first-line chemo antiemetic",
+      "acts at CTZ and vagus",
+      "headache",
+      "constipation",
+      "QT prolongation",
+      "the -setron drugs",
+      "ondansetron"
+    ]
+  },
+  {
+    "id": "bloodlymph-56-3",
+    "title": "NK1 Antagonists",
+    "course": "bloodlymph",
+    "brick_id": "56",
+    "brick_title": "Supportive Therapy for Patients on Chemotherapy - Antiemetics",
+    "type": "drug",
+    "buzzwords": [
+      "blocks substance P",
+      "crosses blood-brain barrier",
+      "used as pretreatment",
+      "few adverse effects",
+      "neutropenia",
+      "fatigue",
+      "neurokinin-1 receptor",
+      "aprepitant"
+    ]
+  },
+  {
+    "id": "bloodlymph-56-4",
+    "title": "Antimuscarinics",
+    "course": "bloodlymph",
+    "brick_id": "56",
+    "brick_title": "Supportive Therapy for Patients on Chemotherapy - Antiemetics",
+    "type": "drug",
+    "buzzwords": [
+      "blocks M1 receptor",
+      "best for motion sickness",
+      "transdermal patch",
+      "dry mouth",
+      "pupillary dilation",
+      "urinary retention",
+      "sedation",
+      "scopolamine"
+    ]
+  },
+  {
+    "id": "bloodlymph-56-5",
+    "title": "Steroids",
+    "course": "bloodlymph",
+    "brick_id": "56",
+    "brick_title": "Supportive Therapy for Patients on Chemotherapy - Antiemetics",
+    "type": "drug",
+    "buzzwords": [
+      "corticosteroid antiemetic",
+      "adjunct therapy",
+      "suppresses inflammatory mediators",
+      "unknown exact mechanism",
+      "hyperglycemia",
+      "GI bleed risk",
+      "methylprednisolone",
+      "dexamethasone"
+    ]
+  }
+]
