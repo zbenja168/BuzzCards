@@ -29,8 +29,8 @@
       "peripheral patchwork fibrosis",
       "subpleural and paraseptal predilection",
       "traction bronchiectasis on CT",
-      "honeycomb changes",
-      "cystic spaces, fibrotic walls",
+      { "img": "data/respi/images/19/respi-19-2-2.webp" },
+      { "img": "data/respi/images/19/respi-19-2-1.webp" },
       "heterogeneous fibrosis",
       "fibroblastic foci"
     ]

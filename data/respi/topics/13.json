@@ -27,7 +27,7 @@
     "buzzwords": [
       "mobilizes thick mucus",
       "chest physiotherapy",
-      "percussion vest",
+      { "img": "data/respi/images/13/respi-13-2-1.webp" },
       "inhaled mucoactive agents",
       "draws water into airway",
       "cleaves extracellular DNA",

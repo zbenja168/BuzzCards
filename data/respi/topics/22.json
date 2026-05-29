@@ -14,7 +14,7 @@
       "restrictive pattern",
       "bibasilar inspiratory crackles",
       "irreversible interstitial scarring",
-      "honeycombing on imaging"
+      { "img": "data/respi/images/22/respi-22-1-1.webp" }
     ]
   },
   {
@@ -44,7 +44,7 @@
     "type": "physiology",
     "buzzwords": [
       "stiff noncompliant lungs",
-      "decreased all lung volumes",
+      { "img": "data/respi/images/22/respi-22-3-1.webp" },
       "reduced total lung capacity",
       "low FVC and FEV1",
       "normal or high FEV1/FVC",
@@ -65,10 +65,10 @@
       "poor prognosis marker",
       "small cystic air spaces",
       "reticular lines",
-      "best seen on HRCT",
+      { "img": "data/respi/images/22/respi-22-4-1.webp" },
       "bibasilar distribution",
       "clustered subpleural cysts",
-      "honeycomb appearance"
+      { "img": "data/respi/images/22/respi-22-4-2.webp" }
     ]
   },
   {

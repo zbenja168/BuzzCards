@@ -10,7 +10,7 @@
       "low blood oxygen",
       "dyspnea and tachypnea",
       "leads to tissue hypoxia",
-      "cyanosis and clubbing",
+      { "img": "data/respi/images/18/respi-18-1.webp" },
       "PaO2 under 60 mmHg",
       "SaO2 below 80-85%",
       "treat with supplemental O2",
@@ -26,7 +26,7 @@
     "type": "lab",
     "buzzwords": [
       "alveolar minus arterial O2",
-      "assesses gas exchange",
+      { "img": "data/respi/images/18/respi-18-2.webp" },
       "normal under 10-20 mmHg",
       "elevated means diffusion barrier",
       "uses alveolar gas equation",
@@ -101,7 +101,7 @@
       "blood bypasses ventilation",
       "V/Q equals zero",
       "no response to 100% oxygen",
-      "blood reaches unventilated alveoli",
+      { "img": "data/respi/images/18/respi-18-6.webp" },
       "mucus plug or atelectasis",
       "ARDS or pulmonary edema",
       "intracardiac septal defect"
@@ -119,7 +119,7 @@
       "ventilation without perfusion",
       "V/Q approaches infinity",
       "partial response to O2",
-      "alveoli ventilated not perfused",
+      { "img": "data/respi/images/18/respi-18-7.webp" },
       "low cardiac output",
       "pulmonary embolism",
       "obstructing capillary blood flow"

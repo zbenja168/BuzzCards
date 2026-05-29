@@ -12,7 +12,7 @@
       "misdiagnosed as viral",
       "falsely normal SpO2",
       "cherry-red skin",
-      "left-shifted O2 curve",
+      { "img": "data/respi/images/43/oxyhb-curve.webp" },
       "delayed neuropsychiatric sequelae",
       "elevated carboxyhemoglobin"
     ]
@@ -48,7 +48,7 @@
       "left-shifted dissociation curve",
       "impairs O2 unloading",
       "200x hemoglobin affinity",
-      "diagnosed by CO-oximetry",
+      { "img": "data/respi/images/43/co-oximeter.webp" },
       "25% means severe",
       "CO bound to hemoglobin"
     ]

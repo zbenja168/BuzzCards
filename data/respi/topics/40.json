@@ -32,7 +32,7 @@
       "yields H+ and bicarbonate",
       "hyperventilation lowers CO2",
       "shifts left raising pH",
-      "carbonic anhydrase catalyzed"
+      { "img": "data/respi/images/40/respi-40-2-1.webp" }
     ]
   },
   {
@@ -45,7 +45,7 @@
     "buzzwords": [
       "low PO2 trigger",
       "reflex increased ventilation",
-      "high altitude low FiO2",
+      { "img": "data/respi/images/40/respi-40-3-1.webp" },
       "pneumonia, CHF, ARDS",
       "reduced alveolar diffusion",
       "peripheral chemoreceptors sense it",
@@ -62,7 +62,7 @@
     "type": "physiology",
     "buzzwords": [
       "normal PO2",
-      "hyperthyroidism, sepsis, fever",
+      { "img": "data/respi/images/40/respi-40-4-1.webp" },
       "pregnancy progesterone effect",
       "increased tidal volume",
       "liver cirrhosis",

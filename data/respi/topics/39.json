@@ -26,7 +26,7 @@
     "type": "physiology",
     "buzzwords": [
       "decreased ventilation",
-      "impaired gas exchange",
+      { "img": "data/respi/images/39/respi-39-2-1.webp" },
       "decreased respiratory drive",
       "opioid overdose",
       "respiratory muscle weakness",
@@ -45,7 +45,7 @@
     "buzzwords": [
       "kidneys respond",
       "excrete H+ in urine",
-      "regenerate bicarbonate",
+      { "img": "data/respi/images/39/respi-39-3-1.webp" },
       "buffered by phosphate, ammonium",
       "rising HCO3",
       "high bicarbonate if chronic",

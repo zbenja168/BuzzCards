@@ -13,7 +13,7 @@
       "not fully reversible",
       "mostly from smoking",
       "emphysema plus bronchitis",
-      "obstructive lung disease",
+      { "img": "data/respi/images/respi-9-1/1.webp" },
       "third leading cause of death"
     ]
   },
@@ -30,7 +30,7 @@
       "excess mucus",
       "narrowed airways",
       "goblet cell hyperplasia",
-      "squamous metaplasia",
+      { "img": "data/respi/images/respi-9-2/1.webp" },
       "barrel chest",
       "blue bloater"
     ]
@@ -44,7 +44,7 @@
     "type": "disease",
     "buzzwords": [
       "respiratory zone disease",
-      "alveolar wall destruction",
+      { "img": "data/respi/images/respi-9-3/1.webp" },
       "lost elastic recoil",
       "increased lung compliance",
       "reduced gas-exchange area",
@@ -67,7 +67,7 @@
       "unopposed proteases",
       "panacinar pattern",
       "liver failure too",
-      "misfolded protein in hepatocytes",
+      { "img": "data/respi/images/respi-9-4/1.webp" },
       "alpha-1 antitrypsin deficiency"
     ]
   },
@@ -100,7 +100,7 @@
       "entire acinus destroyed",
       "less common type",
       "lower lobe predominant",
-      "uniform air-space enlargement",
+      { "img": "data/respi/images/respi-9-6/1.webp" },
       "nonsmokers affected",
       "A1AT deficiency",
       "diffuse bullae",

@@ -47,7 +47,7 @@
       "usually causes hypoxemia",
       "underventilated lung segments",
       "mucus plugging blocks airflow",
-      "mixed blood reaches left atrium",
+      { "img": "data/respi/images/16/respi-16-3.webp" },
       "increased physiologic dead space",
       "emphysema raises V/Q ratio",
       "pulmonary embolism rarely causes it"
@@ -82,7 +82,7 @@
       "fast compensation for high CO2",
       "increases minute ventilation",
       "blows off excess CO2",
-      "central chemoreceptors in medulla",
+      { "img": "data/respi/images/16/respi-16-5.webp" },
       "peripheral receptors aortic and carotid",
       "CO2 crosses blood-brain barrier",
       "central receptors respond to H+",
@@ -103,7 +103,7 @@
       "measures inspired and expired CO2",
       "avoids repeat blood draws",
       "indirect estimate of PaCO2",
-      "end tidal CO2 reading",
+      { "img": "data/respi/images/16/respi-16-6.webp" },
       "ETCO2 tracks at expiration end"
     ]
   }

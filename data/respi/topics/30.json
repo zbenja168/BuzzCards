@@ -10,7 +10,7 @@
       "site of gas exchange",
       "barrier between air and blood",
       "thinner = faster diffusion",
-      "alveolar-capillary unit",
+      { "img": "data/respi/images/30/respi-30-1_1.webp" },
       "thickened in pulmonary fibrosis",
       "thin epithelium plus endothelium",
       "fused basement membranes",
@@ -45,7 +45,7 @@
     "buzzwords": [
       "overall gas transfer efficiency",
       "inhale small nontoxic gas",
-      "measures membrane and capillary blood",
+      { "img": "data/respi/images/30/respi-30-3_1.webp" },
       "low in emphysema and fibrosis",
       "increased with exercise",
       "increased in polycythemia",
@@ -80,7 +80,7 @@
     "type": "physiology",
     "buzzwords": [
       "limited only by blood flow",
-      "equilibrates early in capillary",
+      { "img": "data/respi/images/30/respi-30-5_1.webp" },
       "uptake stops once equilibrated",
       "more flow means more transfer",
       "normal oxygen at rest",
@@ -97,7 +97,7 @@
     "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
     "type": "physiology",
     "buzzwords": [
-      "never reaches equilibrium",
+      { "img": "data/respi/images/30/respi-30-6_1.webp" },
       "limited by membrane properties",
       "gradient maintained whole capillary",
       "worse with thickened membrane",

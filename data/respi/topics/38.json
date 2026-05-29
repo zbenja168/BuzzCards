@@ -66,7 +66,7 @@
       "Zone 1 apex, V/Q >1",
       "Zone 3 base, V/Q <1",
       "Zone 2 middle, V/Q ~0.8",
-      "PA > Pa > Pv at apex",
+      { "img": "data/respi/images/38/respi-38-4-1.webp" },
       "Pa > Pv > PA at base",
       "alveolar vs vascular pressures"
     ]

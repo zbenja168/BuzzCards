@@ -12,7 +12,7 @@
       "contracts and flattens",
       "separates thorax from abdomen",
       "left and right domes",
-      "central tendon",
+      { "img": "data/respi/images/3/respi-3-1-1.webp" },
       "I ate ten eggs at twelve",
       "phrenic nerve C3-C4-C5"
     ]
@@ -25,7 +25,7 @@
     "brick_title": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
     "type": "anatomy",
     "buzzwords": [
-      "12 pairs of curved bones",
+      { "img": "data/respi/images/3/respi-3-2-1.webp" },
       "protect thoracic organs",
       "articulate with thoracic spine",
       "true ribs 1-7 attach directly",
@@ -46,7 +46,7 @@
       "muscles between the ribs",
       "stiffen chest wall in inspiration",
       "prevent retraction",
-      "three layers",
+      { "img": "data/respi/images/3/respi-3-3-1.webp" },
       "external aid inspiration",
       "internal and innermost aid expiration",
       "supplied by intercostal arteries",

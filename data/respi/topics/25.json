@@ -9,7 +9,7 @@
     "buzzwords": [
       "serosal membrane cancer",
       "slow insidious onset",
-      "85% pleural",
+      { "img": "data/respi/images/25/mesothelioma-gross.webp" },
       "occupational exposure",
       "BAP1 inactivation",
       "metastases rare at presentation",
@@ -28,7 +28,7 @@
       "diagnosed by morphology and IHC",
       "tubular and papillary patterns",
       "most common subtype",
-      "epithelioid type",
+      { "img": "data/respi/images/25/epithelioid-histology.webp" },
       "fibrosarcoma-like appearance",
       "paucicellular fibrotic",
       "sarcomatoid type",
@@ -61,8 +61,8 @@
     "brick_title": "Mesothelioma",
     "type": "imaging",
     "buzzwords": [
-      "pleural-based mass",
-      "pleural plaques and calcifications",
+      { "img": "data/respi/images/25/pleural-mass-ct.webp" },
+      { "img": "data/respi/images/25/pleural-plaques.webp" },
       "staged with MRI or PET",
       "talc shrinks pleural space",
       "pleurodesis for effusion",

@@ -62,7 +62,7 @@
     "type": "physiology",
     "buzzwords": [
       "plots flow against volume",
-      "expiration above, inspiration below",
+      { "img": "data/respi/images/27/loops.webp" },
       "distinguishes obstructive from restrictive",
       "obstructive: scooped expiratory limb",
       "obstructive: increased residual volume",
@@ -86,7 +86,7 @@
       "restrictive: normal or high ratio",
       "restrictive: both FEV1 and FVC low",
       "diffusing capacity DLCO",
-      "performed by spirometry"
+      { "img": "data/respi/images/27/spirometry.webp" }
     ]
   }
 ]

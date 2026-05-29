@@ -11,10 +11,10 @@
       "presents within hours of birth",
       "worsens over first 48 hours",
       "tachypnea, retractions, nasal flaring",
-      "expiratory grunting, cyanosis",
+      { "img": "data/respi/images/26/respi-26-1_2.webp" },
       "risk: prematurity, maternal diabetes",
       "surfactant deficiency",
-      "hyaline membrane disease"
+      { "img": "data/respi/images/26/respi-26-1_1.webp" }
     ]
   },
   {
@@ -29,7 +29,7 @@
       "phospholipids and proteins",
       "lowers alveolar surface tension",
       "prevents alveolar collapse",
-      "made by type 2 pneumocytes",
+      { "img": "data/respi/images/26/respi-26-2_1.webp" },
       "appears third trimester",
       "reduces intra-alveolar pressure",
       "improves lung compliance"
@@ -68,7 +68,7 @@
       "right ventricle perfuses lungs",
       "umbilical vessels and placenta",
       "patent foramen ovale",
-      "patent ductus arteriosus"
+      { "img": "data/respi/images/26/respi-26-4_1.webp" }
     ]
   },
   {

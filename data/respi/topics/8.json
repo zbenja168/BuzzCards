@@ -25,7 +25,7 @@
     "brick_title": "Bronchiectasis",
     "type": "physiology",
     "buzzwords": [
-      "inflammation damages airway wall",
+      { "img": "data/respi/images/8/respi-8-2/1.webp" },
       "impaired mucus clearance",
       "obstruction or poor drainage",
       "cystic fibrosis most common cause",
@@ -47,10 +47,10 @@
       "may be normal early",
       "dilated thickened bronchial walls",
       "high-resolution CT preferred",
-      "parallel tram-track lines",
+      { "img": "data/respi/images/8/respi-8-3/1.webp" },
       "bronchus wider than artery",
       "tram-tracking sign",
-      "signet ring sign"
+      { "img": "data/respi/images/8/respi-8-3/2.webp" }
     ]
   },
   {

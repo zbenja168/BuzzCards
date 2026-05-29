@@ -116,7 +116,7 @@
     "type": "physiology",
     "buzzwords": [
       "saturation versus partial pressure",
-      "sigmoid shape",
+      { "img": "data/respi/images/29/dissoc-curve.webp" },
       "reflects cooperative binding",
       "plateau plus steep slope",
       "P50 normally 28 mmHg",
@@ -137,7 +137,7 @@
       "low pH lowers affinity",
       "high CO2 lowers affinity",
       "promotes unloading in tissues",
-      "rightward curve shift",
+      { "img": "data/respi/images/29/right-shift.webp" },
       "exercise and septic shock",
       "diabetic ketoacidosis shifts right",
       "Bohr effect"
@@ -157,7 +157,7 @@
       "oxygenation releases CO2",
       "drives CO2 uptake in tissues",
       "drives CO2 release at lungs",
-      "couples O2 and CO2 transport",
+      { "img": "data/respi/images/29/hb-switch.webp" },
       "Haldane effect"
     ]
   },

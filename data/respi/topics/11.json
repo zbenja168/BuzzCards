@@ -134,7 +134,7 @@
     "type": "disease",
     "buzzwords": [
       "abnormal breathing pattern",
-      "deep labored breaths",
+      { "img": "data/respi/images/11/respi-11-8.webp" },
       "rapid rate",
       "compensatory hyperventilation",
       "blows off CO2",
@@ -154,7 +154,7 @@
       "abnormal cyclic breathing",
       "alternating fast and slow breaths",
       "periods of apnea",
-      "crescendo-decrescendo pattern",
+      { "img": "data/respi/images/11/respi-11-9.webp" },
       "delayed medullary feedback",
       "seen in heart failure",
       "occurs at high altitude",
@@ -170,7 +170,7 @@
     "type": "disease",
     "buzzwords": [
       "abnormal breathing pattern",
-      "irregular and erratic",
+      { "img": "data/respi/images/11/respi-11-10.webp" },
       "constant tidal volume breaths",
       "abrupt periods of apnea",
       "no crescendo pattern",

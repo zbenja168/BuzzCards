@@ -10,8 +10,8 @@
       "gram-positive rod",
       "non-spore-forming",
       "toxin-mediated sore throat",
-      "club-shaped, Chinese-letter clusters",
-      "gray pseudomembrane on tonsils",
+      { "img": "data/respi/images/42/diphtheriae-gram.webp" },
+      { "img": "data/respi/images/42/pseudomembrane.webp" },
       "bleeds when scraped",
       "bull-neck lymphadenopathy",
       "myocarditis and neuropathy"
@@ -43,10 +43,10 @@
     "brick_title": "Respiratory: B. pertussis and C. diphtheriae",
     "type": "lab",
     "buzzwords": [
-      "metachromatic granules",
+      { "img": "data/respi/images/42/metachromatic.webp" },
       "deep-blue staining granules",
       "methylene blue stain",
-      "black colonies on culture",
+      { "img": "data/respi/images/42/tellurite-colonies.webp" },
       "tellurite reduced to metal",
       "potassium tellurite agar",
       "Loeffler's medium",

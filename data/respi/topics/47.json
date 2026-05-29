@@ -8,12 +8,12 @@
     "type": "disease",
     "buzzwords": [
       "blunt chest trauma",
-      "multiple rib fractures",
+      { "img": "data/respi/images/47/respi-47-1-2.webp" },
       "3+ ribs, 2+ places",
       "free-floating segment",
       "impaired breathing mechanics",
       "respiratory failure risk",
-      "paradoxical chest motion",
+      { "img": "data/respi/images/47/respi-47-1-1.webp" },
       "inward on inspiration"
     ]
   },
@@ -27,7 +27,7 @@
     "buzzwords": [
       "often penetrating trauma",
       "missed on chest X-ray",
-      "abdominal contents herniate up",
+      { "img": "data/respi/images/47/respi-47-2-1.webp" },
       "CT for diagnosis",
       "needs operative repair",
       "risk of strangulation",
@@ -81,7 +81,7 @@
     "buzzwords": [
       "lymphatic fluid in pleura",
       "thoracic duct injury",
-      "milky pleural fluid",
+      { "img": "data/respi/images/47/respi-47-5-1.webp" },
       "high triglycerides",
       "lymphocyte predominant",
       "nutritional deficiency risk",
@@ -115,7 +115,7 @@
     "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
     "type": "disease",
     "buzzwords": [
-      "air in the mediastinum",
+      { "img": "data/respi/images/47/respi-47-7-1.webp" },
       "barotrauma or trauma",
       "subcutaneous emphysema",
       "esophageal or tracheal injury",
@@ -139,7 +139,7 @@
       "alveolar capillary rupture",
       "hemorrhage and edema",
       "worsens over 24-48 hours",
-      "opacification on X-ray",
+      { "img": "data/respi/images/47/respi-47-8-1.webp" },
       "bruised lung"
     ]
   },

@@ -31,7 +31,7 @@
       "flattened diaphragm",
       "pursed-lip breathing",
       "cyanosis",
-      "tripod position",
+      { "img": "data/respi/images/respi-10-2/1.webp" },
       "barrel chest"
     ]
   },
@@ -62,7 +62,7 @@
     "type": "lab",
     "buzzwords": [
       "measures expiratory flow",
-      "obstructive pattern",
+      { "img": "data/respi/images/respi-10-4/1.webp" },
       "reduced FEV1",
       "minimal bronchodilator response",
       "low DLCO",
@@ -86,7 +86,7 @@
       "flattened diaphragm",
       "hyperlucent lungs",
       "loss of vascular markings",
-      "hyperinflation"
+      { "img": "data/respi/images/respi-10-5/1.webp" }
     ]
   },
   {

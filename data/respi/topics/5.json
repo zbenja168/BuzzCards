@@ -9,7 +9,7 @@
     "buzzwords": [
       "filters and humidifies air",
       "entered through the nares",
-      "vestibule, respiratory, olfactory regions",
+      { "img": "data/respi/images/5/respi-5-1.webp" },
       "lined by respiratory mucosa",
       "three conchae per side",
       "septum divides right from left",
@@ -29,7 +29,7 @@
       "lighten the skull",
       "produce mucus",
       "named after the bone",
-      "four paired sets",
+      { "img": "data/respi/images/5/respi-5-2.webp" },
       "frontal, sphenoid, maxillary, ethmoid",
       "drain into meatuses",
       "maxillary most prone to sinusitis"
@@ -67,7 +67,7 @@
       "lies between naso- and laryngopharynx",
       "supplied by facial artery branches",
       "innervated by glossopharyngeal nerve",
-      "contains palatine tonsils",
+      { "img": "data/respi/images/5/respi-5-4.webp" },
       "tonsils enlarge in tonsillitis"
     ]
   },
@@ -85,7 +85,7 @@
       "ends at cricoid cartilage",
       "continues into esophagus",
       "surrounded by pharyngeal constrictors",
-      "piriform fossae trap food",
+      { "img": "data/respi/images/5/respi-5-5.webp" },
       "Zenker diverticulum forms here"
     ]
   },
@@ -99,7 +99,7 @@
     "buzzwords": [
       "the voice box",
       "final part of upper tract",
-      "supraglottis, glottis, subglottis",
+      { "img": "data/respi/images/5/respi-5-6.webp" },
       "epiglottis prevents aspiration",
       "vocal cords vibrate to phonate",
       "posterior cricoarytenoid abducts cords",

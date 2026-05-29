@@ -13,7 +13,7 @@
       "posterior to esophagus",
       "gives bronchial branches",
       "gives esophageal branches",
-      "thoracic portion of aorta",
+      { "img": "data/respi/images/24/respi-24-1-1.webp" },
       "supplies posterior intercostals"
     ]
   },
@@ -116,7 +116,7 @@
     "type": "disease",
     "buzzwords": [
       "pleural effusion",
-      "milky fatty fluid",
+      { "img": "data/respi/images/24/respi-24-7-1.webp" },
       "thoracic duct injury",
       "lymphocyte predominant",
       "elevated triglycerides",

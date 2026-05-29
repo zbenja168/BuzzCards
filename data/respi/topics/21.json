@@ -8,7 +8,7 @@
     "type": "disease",
     "buzzwords": [
       "sore throat",
-      "pharyngeal inflammation",
+      { "img": "data/respi/images/21/respi-21-1-1.webp" },
       "most viral",
       "tender cervical nodes",
       "tonsillar exudates, no cough",
@@ -47,9 +47,9 @@
       "dyspnea and drooling",
       "inspiratory stridor",
       "muffled hot-potato voice",
-      "tripod position",
+      { "img": "data/respi/images/21/respi-21-3-2.webp" },
       "nontypeable H. influenzae",
-      "thumbprint sign on X-ray",
+      { "img": "data/respi/images/21/respi-21-3-1.webp" },
       "cherry-red epiglottis"
     ]
   },
@@ -67,7 +67,7 @@
       "vocal overuse trigger",
       "usually viral",
       "reflux-related noninfectious form",
-      "edematous vocal cords",
+      { "img": "data/respi/images/21/respi-21-4-1.webp" },
       "laryngoscopy diagnosis"
     ]
   },

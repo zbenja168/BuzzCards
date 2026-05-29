@@ -12,7 +12,7 @@
       "sneezing and itching",
       "seasonal pollen trigger",
       "pale bluish boggy mucosa",
-      "type 1 hypersensitivity",
+      { "img": "data/respi/images/20/respi-20-1-1.webp" },
       "IgE mediated",
       "hay fever"
     ]
@@ -46,7 +46,7 @@
       "facial pressure and pain",
       "purulent discharge if bacterial",
       "postnasal drip",
-      "paranasal sinus inflammation",
+      { "img": "data/respi/images/20/respi-20-3-1.webp" },
       "acute under 4 weeks",
       "chronic over 12 weeks",
       "concurrent nasal cavity inflammation",
@@ -65,7 +65,7 @@
       "soft fleshy masses",
       "swollen edematous mucosa",
       "neutrophilic infiltration",
-      "seen on anterior rhinoscopy",
+      { "img": "data/respi/images/20/respi-20-4-1.webp" },
       "structural cause of sinusitis",
       "linked to aspirin reaction",
       "Samter triad association"
@@ -98,7 +98,7 @@
     "type": "disease",
     "buzzwords": [
       "complication of sinusitis",
-      "ocular pain and swelling",
+      { "img": "data/respi/images/20/respi-20-6-1.webp" },
       "infection behind orbital septum",
       "pain with eye movement",
       "proptosis and diplopia",

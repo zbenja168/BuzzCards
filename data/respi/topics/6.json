@@ -12,7 +12,7 @@
       "wheezing, cough, chest tightness",
       "triggered by allergens or exercise",
       "worse early morning and evening",
-      "bronchoconstriction with mucus plugging",
+      { "img": "data/respi/images/6/respi-6-1.webp" },
       "expiratory wheeze, prolonged expiration",
       "silent chest in severe attack"
     ]
@@ -30,7 +30,7 @@
       "wheal-and-flare on skin test",
       "Th2-driven airway inflammation",
       "allergen crosslinks bound IgE",
-      "mast cell degranulation",
+      { "img": "data/respi/images/6/respi-6-2.webp" },
       "type 1 hypersensitivity reaction",
       "IgE-mediated"
     ]
@@ -46,7 +46,7 @@
       "seen on bronchial biopsy",
       "spares the alveoli",
       "peripheral eosinophilia",
-      "thickened basement membrane",
+      { "img": "data/respi/images/6/respi-6-3.webp" },
       "smooth muscle hypertrophy",
       "spiral mucus plugs in sputum",
       "Curschmann spirals",
@@ -67,7 +67,7 @@
       "improves after bronchodilator",
       "elevated exhaled nitric oxide",
       "FeNO measures inflammation",
-      "methacholine bronchoprovocation challenge",
+      { "img": "data/respi/images/6/respi-6-4.webp" },
       "PC20 at or below 8 mg/mL positive"
     ]
   },
@@ -86,7 +86,7 @@
       "add long-acting beta-agonist",
       "leukotriene receptor antagonist option",
       "biologics target cytokines",
-      "GINA step strategy"
+      { "img": "data/respi/images/6/respi-6-5.webp" }
     ]
   }
 ]

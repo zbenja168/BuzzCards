@@ -25,12 +25,12 @@
     "brick_title": "Cystic Fibrosis (1 of 2)",
     "type": "physiology",
     "buzzwords": [
-      "apical membrane channel",
+      { "img": "data/respi/images/12/respi-12-2-1.webp" },
       "transports chloride out",
       "also moves bicarbonate",
       "loss of function mutation",
       "reduced chloride secretion",
-      "dehydrated viscous mucus",
+      { "img": "data/respi/images/12/respi-12-2-2.webp" },
       "chromosome 7",
       "phenylalanine 508 deletion (ΔF508)"
     ]
@@ -46,7 +46,7 @@
       "confirmatory diagnostic test",
       "analyzes sweat sample",
       "skin absorbs chloride inward",
-      "CF blocks sweat duct absorption",
+      { "img": "data/respi/images/12/respi-12-3-1.webp" },
       "elevated sweat chloride",
       "high sweat sodium too",
       "pilocarpine stimulates sweat",

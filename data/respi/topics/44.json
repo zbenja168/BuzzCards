@@ -28,7 +28,7 @@
       "cell-mediated immunity",
       "macrophages and lymphocytes",
       "lacks central necrosis",
-      "epithelioid cells",
+      { "img": "data/respi/images/44/respi-44-2/1.webp" },
       "multinucleated giant cells",
       "stellate asteroid bodies",
       "calcium Schaumann bodies",
@@ -65,7 +65,7 @@
       "anterior uveitis",
       "facial nerve palsy",
       "polyarthritis of ankles",
-      "erythema nodosum",
+      { "img": "data/respi/images/44/respi-44-4/1.webp" },
       "painless subcutaneous nodules",
       "cardiac arrhythmias",
       "Lofgren syndrome triad"
@@ -80,13 +80,13 @@
     "type": "imaging",
     "buzzwords": [
       "inspiratory crackles",
-      "reticulonodular opacities",
+      { "img": "data/respi/images/44/respi-44-5/2.webp" },
       "restrictive PFT pattern",
       "decreased diffusing capacity",
       "biopsy shows granulomas",
       "increased BAL CD4:CD8",
       "elevated serum ACE",
-      "bilateral hilar adenopathy"
+      { "img": "data/respi/images/44/respi-44-5/1.webp" }
     ]
   }
 ]

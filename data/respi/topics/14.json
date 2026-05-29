@@ -32,7 +32,7 @@
       "foreign bodies aspirate right",
       "three lobar bronchi right",
       "two lobar bronchi left",
-      "arise from lung bud division"
+      { "img": "data/respi/images/14/respi-14-2.webp" }
     ]
   },
   {
@@ -68,7 +68,7 @@
       "driven by FGF-10",
       "columnar to cuboidal epithelium",
       "no gas exchange possible",
-      "gland-like histologic appearance"
+      { "img": "data/respi/images/14/respi-14-4.webp" }
     ]
   },
   {
@@ -117,7 +117,7 @@
     "buzzwords": [
       "final lung stage",
       "32 weeks to age 8",
-      "mature alveolarization",
+      { "img": "data/respi/images/14/respi-14-7.webp" },
       "increase in acini number",
       "greater vascularization",
       "5% of alveoli at birth",

@@ -27,7 +27,7 @@
     "buzzwords": [
       "drive quiet breathing",
       "contract during inspiration",
-      "increase thoracic volume",
+      { "img": "data/respi/images/31/diaphragm-insp-exp.webp" },
       "lower intrapleural pressure",
       "external intercostals elevate ribs",
       "~75% of inspiratory effort",
@@ -118,7 +118,7 @@
       "air enters pleural space",
       "intrapleural pressure rises to zero",
       "transpulmonary pressure lost",
-      "lung collapses",
+      { "img": "data/respi/images/31/pneumothorax-cxr.webp" },
       "hypoxic and short of breath",
       "treated with chest tube suction",
       "restores negative pleural pressure",
@@ -140,7 +140,7 @@
       "prevents alveolar collapse",
       "more concentrated when alveolus shrinks",
       "reduces work of breathing",
-      "counters LaPlace's law collapse"
+      { "img": "data/respi/images/31/laplace-alveoli.webp" }
     ]
   },
   {

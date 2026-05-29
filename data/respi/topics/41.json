@@ -25,7 +25,7 @@
     "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
     "type": "physiology",
     "buzzwords": [
-      "stepwise pressure drop",
+      { "img": "data/respi/images/41/oxygen-cascade.webp" },
       "atmosphere to mitochondria",
       "humidification first step",
       "diluted by CO2",
@@ -99,7 +99,7 @@
     "buzzwords": [
       "wasted ventilation",
       "no gas exchange",
-      "anatomic ~150 mL",
+      { "img": "data/respi/images/41/lung-deadspace.webp" },
       "conducting airways portion",
       "ventilated but unperfused",
       "alveolar type in embolism",

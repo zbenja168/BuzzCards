@@ -13,7 +13,7 @@
       "dyspnea when large",
       "dullness to percussion",
       "decreased breath sounds at base",
-      "blunted costophrenic angle on x-ray",
+      { "img": "data/respi/images/32/respi-32-1_1.webp" },
       "meniscus sign"
     ]
   },
@@ -30,7 +30,7 @@
       "caused by systemic disorders",
       "increased hydrostatic pressure",
       "decreased oncotic pressure",
-      "altered Starling forces",
+      { "img": "data/respi/images/32/respi-32-2_1.webp" },
       "heart failure or cirrhosis",
       "hypoalbuminemia"
     ]
@@ -79,7 +79,7 @@
     "brick_title": "Pleural Effusion",
     "type": "physiology",
     "buzzwords": [
-      "needle into pleural space",
+      { "img": "data/respi/images/32/respi-32-5_1.webp" },
       "samples fluid for analysis",
       "ultrasound-guided at bedside",
       "both diagnostic and therapeutic",

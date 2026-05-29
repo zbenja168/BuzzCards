@@ -64,7 +64,7 @@
       "lymphocytic alveolitis",
       "interstitial inflammation",
       "inflammation around bronchioles",
-      "histiocytes and giant cells",
+      { "img": "data/respi/images/17/respi-17-4.webp" },
       "peribronchial fibrosis in chronic",
       "noncaseating granulomas",
       "less intense than sarcoidosis",
@@ -80,7 +80,7 @@
     "type": "imaging",
     "buzzwords": [
       "chest x-ray may be normal",
-      "micronodular interstitial pattern",
+      { "img": "data/respi/images/17/respi-17-5.webp" },
       "reticular net-like opacities",
       "acute shows ground-glass",
       "chronic shows honeycombing",

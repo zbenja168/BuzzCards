@@ -8,12 +8,12 @@
     "type": "disease",
     "buzzwords": [
       "pulmonary-renal syndrome",
-      "alveolar hemorrhage",
+      { "img": "data/respi/images/respi-7-1/1.webp" },
       "hemoptysis",
       "hematuria",
       "antibody vs basement membrane",
       "rapidly progressive glomerulonephritis",
-      "linear IgG along GBM",
+      { "img": "data/respi/images/respi-7-1/2.webp" },
       "Goodpasture syndrome"
     ]
   },
@@ -29,9 +29,9 @@
       "nasal polyps",
       "sinus and lung involvement",
       "hemoptysis",
-      "necrotizing granulomas",
+      { "img": "data/respi/images/respi-7-2/2.webp" },
       "PR3-ANCA",
-      "cytoplasmic ANCA",
+      { "img": "data/respi/images/respi-7-2/1.webp" },
       "c-ANCA"
     ]
   },
@@ -67,7 +67,7 @@
       "pulmonary nodules",
       "smoking risk factor",
       "restrictive pattern",
-      "interstitial lung disease",
+      { "img": "data/respi/images/respi-7-4/1.webp" },
       "RA-ILD"
     ]
   },
@@ -101,7 +101,7 @@
       "restrictive lung disease",
       "interstitial lung disease",
       "pulmonary arterial hypertension",
-      "media thickening",
+      { "img": "data/respi/images/respi-7-6/1.webp" },
       "anti-centromere in limited type",
       "CREST syndrome",
       "anti-Scl-70"

@@ -10,7 +10,7 @@
       "addictive alkaloid",
       "central nervous stimulant",
       "stimulates dopamine release",
-      "activates brain reward pathway",
+      { "img": "data/respi/images/46/respi-46-1-1.webp" },
       "inhibits monoamine oxidase",
       "raises ACTH and cortisol",
       "poisoning risk in children",
@@ -25,7 +25,7 @@
     "brick_title": "Tobacco Smoking",
     "type": "disease",
     "buzzwords": [
-      "delivers inhaled nicotine",
+      { "img": "data/respi/images/46/respi-46-2-1.webp" },
       "popular in young people",
       "produces particulates not vapor",
       "acute lung injury",

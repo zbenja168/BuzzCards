@@ -29,7 +29,7 @@
       "about 23 generations",
       "primary, lobar, segmental",
       "lobar bronchi per lobe",
-      "supply bronchopulmonary segments",
+      { "img": "data/respi/images/4/respi-4-2/1.webp" },
       "right bronchus wider, vertical",
       "foreign bodies lodge right",
       "ends at terminal bronchioles"
@@ -64,7 +64,7 @@
       "apex superior, base inferior",
       "right has three lobes",
       "left has two lobes",
-      "horizontal and oblique fissures",
+      { "img": "data/respi/images/4/respi-4-4/1.webp" },
       "hilum is the root",
       "cardiac notch on left",
       "lingula on left superior lobe",
@@ -98,7 +98,7 @@
     "type": "anatomy",
     "buzzwords": [
       "double mesothelial layer",
-      "visceral and parietal layers",
+      { "img": "data/respi/images/4/respi-4-6/1.webp" },
       "visceral hugs lung surface",
       "parietal lines thoracic cavity",
       "thin lubricating fluid",

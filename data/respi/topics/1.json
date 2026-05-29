@@ -26,7 +26,7 @@
     "type": "disease",
     "buzzwords": [
       "histologic hallmark of ARDS",
-      "three pathologic stages",
+      { "img": "data/respi/images/1/respi-1-2.webp" },
       "exudative, fibroproliferative, fibrotic",
       "endothelial and alveolar injury",
       "lost type 2 surfactant",

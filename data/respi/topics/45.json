@@ -13,7 +13,7 @@
       "wakes gasping or choking",
       "loud snoring",
       "obesity risk factor",
-      "narrowed upper airway",
+      { "img": "data/respi/images/45/osa-airway.webp" },
       "cause of secondary hypertension"
     ]
   },
@@ -62,7 +62,7 @@
     "type": "physiology",
     "buzzwords": [
       "first-line OSA treatment",
-      "nighttime mask device",
+      { "img": "data/respi/images/45/cpap-mask.webp" },
       "splints airway open",
       "prevents upper airway collapse",
       "raises airway pressure",

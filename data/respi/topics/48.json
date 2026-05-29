@@ -27,7 +27,7 @@
     "buzzwords": [
       "bronchodilator",
       "stimulates beta-2 receptors",
-      "raises cAMP",
+      { "img": "data/respi/images/48/respi-48-2-1.webp" },
       "SABA for rescue",
       "LABA for maintenance",
       "tremor, tachycardia",
@@ -66,7 +66,7 @@
       "blocks M3 receptor",
       "bigger role in COPD",
       "SAMA and LAMA",
-      "dry mouth, blurry vision",
+      { "img": "data/respi/images/48/respi-48-4-1.webp" },
       "urinary retention",
       "ipratropium, tiotropium"
     ]

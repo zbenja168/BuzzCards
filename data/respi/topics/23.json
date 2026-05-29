@@ -8,7 +8,7 @@
     "type": "anatomy",
     "buzzwords": [
       "central thoracic compartment",
-      "between the lungs",
+      { "img": "data/respi/images/23/mediastinum-1.webp" },
       "superior and inferior parts",
       "houses heart and great vessels",
       "anterior, middle, posterior regions",
@@ -25,7 +25,7 @@
     "brick_title": "Mediastinum (Part 1 of 2)",
     "type": "anatomy",
     "buzzwords": [
-      "curves in superior mediastinum",
+      { "img": "data/respi/images/23/aortic-arch-1.webp" },
       "three great branches",
       "posterior to sternum",
       "left common carotid branch",
@@ -97,7 +97,7 @@
     "brick_title": "Mediastinum (Part 1 of 2)",
     "type": "anatomy",
     "buzzwords": [
-      "anterior mediastinum organ",
+      { "img": "data/respi/images/23/thymus-1.webp" },
       "matures T-lymphocytes",
       "involutes after puberty",
       "fatty remnant in adults",

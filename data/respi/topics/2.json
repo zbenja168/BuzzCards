@@ -11,7 +11,7 @@
       "set by smooth muscle tone",
       "narrowing raises resistance",
       "halving radius",
-      "16-fold resistance change",
+      { "img": "data/respi/images/2/respi-2-1.webp" },
       "inverse 4th power of radius",
       "beta-2 agonists widen it",
       "Poiseuille's law"
@@ -47,7 +47,7 @@
       "many parallel small airways",
       "huge combined area distally",
       "small airways low resistance",
-      "highest in medium bronchi",
+      { "img": "data/respi/images/2/respi-2-3.webp" },
       "parallel resistors",
       "rises in conducting zone",
       "peaks at terminal bronchioles"
@@ -81,7 +81,7 @@
     "buzzwords": [
       "tethers airways open",
       "from surrounding lung tissue",
-      "increases with lung volume",
+      { "img": "data/respi/images/2/respi-2-5.webp" },
       "lower resistance on inspiration",
       "higher resistance on expiration",
       "needs intact elastic fibers",
@@ -102,7 +102,7 @@
       "hits small noncartilaginous bronchi",
       "pleural exceeds airway pressure",
       "worse with lost recoil",
-      "scooped-out expiratory loop",
+      { "img": "data/respi/images/2/respi-2-6.webp" },
       "choke point forms",
       "equal pressure point"
     ]
@@ -121,7 +121,7 @@
       "raised by surfactant",
       "low in pulmonary fibrosis",
       "high in emphysema",
-      "greatest near FRC",
+      { "img": "data/respi/images/2/respi-2-7.webp" },
       "slope of pressure-volume curve"
     ]
   },

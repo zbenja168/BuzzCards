@@ -9,7 +9,7 @@
     "buzzwords": [
       "air enters here first",
       "lined by respiratory mucosa",
-      "ciliated epithelium",
+      { "img": "data/respi/images/15/respi-15-1.webp" },
       "goblet cells make mucus",
       "cilia trap particles",
       "lamina propria beneath",
@@ -28,7 +28,7 @@
       "sits at nasal roof",
       "provides sense of smell",
       "size of a thumbnail",
-      "modified pseudostratified columnar",
+      { "img": "data/respi/images/15/respi-15-2.webp" },
       "basal stem cells",
       "long nonmotile cilia",
       "bipolar olfactory neurons",
@@ -80,7 +80,7 @@
     "type": "anatomy",
     "buzzwords": [
       "long flexible airway pipe",
-      "respiratory epithelium with goblet cells",
+      { "img": "data/respi/images/15/respi-15-5.webp" },
       "lamina propria and submucosa",
       "histology like larynx",
       "outer adventitia layer",
@@ -115,7 +115,7 @@
     "brick_title": "Histology of the Respiratory Tract",
     "type": "anatomy",
     "buzzwords": [
-      "smallest conducting airways",
+      { "img": "data/respi/images/15/respi-15-7.webp" },
       "no cartilage present",
       "prominent smooth muscle",
       "epithelium loses cilia distally",
@@ -133,7 +133,7 @@
     "brick_title": "Histology of the Respiratory Tract",
     "type": "anatomy",
     "buzzwords": [
-      "ultra-thin gas exchange sacs",
+      { "img": "data/respi/images/15/respi-15-8.webp" },
       "simple squamous epithelium",
       "make up most of lung",
       "type 1 pneumocytes thin lining",

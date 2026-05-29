@@ -11,8 +11,8 @@
       "coal dust inhalation",
       "coal miners",
       "usually benign",
-      "upper-lobe nodules",
-      "carbon-laden macrophages",
+      { "img": "data/respi/images/33/cwp-ct.webp" },
+      { "img": "data/respi/images/33/cwp-anthracosis.webp" },
       "anthracosis",
       "black lung"
     ]
@@ -28,10 +28,10 @@
       "occupational lung disease",
       "rock mining",
       "sandblasting",
-      "upper-lobe nodules",
+      { "img": "data/respi/images/33/silicosis-histo.webp" },
       "increased TB susceptibility",
       "hilar lymph node calcification",
-      "eggshell calcification",
+      { "img": "data/respi/images/33/silicosis-eggshell.webp" },
       "silica dust inhalation"
     ]
   },
@@ -46,11 +46,11 @@
       "occupational lung disease",
       "shipbuilding, plumbing",
       "lower-lobe fibrosis",
-      "pleural plaques",
+      { "img": "data/respi/images/33/asbestos-pleural-ct.webp" },
       "pleural effusions",
       "raises lung cancer risk",
       "mesothelioma risk",
-      "asbestos bodies"
+      { "img": "data/respi/images/33/asbestos-bodies.webp" }
     ]
   }
 ]

@@ -13,7 +13,7 @@
       "decreased breath sounds",
       "hyperresonant percussion",
       "tall thin young males",
-      "apical lung blebs",
+      { "img": "data/respi/images/34/blebs.webp" },
       "ruptured subpleural bleb"
     ]
   },
@@ -32,7 +32,7 @@
       "tachycardia and hypotension",
       "obstructive shock",
       "tracheal deviation away",
-      "needle decompression emergency"
+      { "img": "data/respi/images/34/needle.webp" }
     ]
   },
   {
@@ -83,7 +83,7 @@
       "treats large pneumothorax",
       "directed apically",
       "underwater seal one-way valve",
-      "three-bottle suction system",
+      { "img": "data/respi/images/34/chesttube.webp" },
       "sentinel hole inside ribcage",
       "post-placement chest x-ray",
       "tube thoracostomy"
