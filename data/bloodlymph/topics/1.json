@@ -11,7 +11,7 @@
       "occurs in bone marrow",
       "starts in yolk sac",
       "liver mid-gestation",
-      "shifts to marrow postnatally",
+      { "img": "data/bloodlymph/images/1/bloodlymph-1-1.webp" },
       "all cells from HSCs",
       "myeloid and lymphoid lines",
       "extramedullary in marrow failure"
@@ -32,7 +32,7 @@
       "nucleus condenses then ejected",
       "reticulocyte retains RNA",
       "RBC lives ~120 days",
-      "proerythroblast to erythrocyte"
+      { "img": "data/bloodlymph/images/1/bloodlymph-1-2.webp" }
     ]
   },
   {
@@ -65,7 +65,7 @@
       "myeloid line origin",
       "makes neutrophils eosinophils basophils",
       "takes about two weeks",
-      "six neutrophil maturation stages",
+      { "img": "data/bloodlymph/images/1/bloodlymph-1-4.webp" },
       "myeloblast is earliest stage",
       "band precedes segmented neutrophil",
       "G-CSF drug filgrastim"
@@ -81,7 +81,7 @@
     "buzzwords": [
       "giant marrow cell",
       "platelet precursor",
-      "50-100 micrometers wide",
+      { "img": "data/bloodlymph/images/1/bloodlymph-1-5.webp" },
       "replicates DNA without dividing",
       "undergoes endomitosis",
       "sheds 1000-3000 platelets",

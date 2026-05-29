@@ -29,7 +29,7 @@
       "worsened by acidosis",
       "worsened by dehydration",
       "exposed hydrophobic valine",
-      "HbS polymerizes",
+      { "img": "data/bloodlymph/images/12/bloodlymph-12-2.webp" },
       "rigid inflexible cells",
       "semicircular shape",
       "blade-shaped RBC"
@@ -44,7 +44,7 @@
     "type": "disease",
     "buzzwords": [
       "sharp localized pain",
-      "tissue ischemia",
+      { "img": "data/bloodlymph/images/12/bloodlymph-12-3.webp" },
       "recurrent painful episodes",
       "functional asplenia",
       "encapsulated organism risk",
@@ -82,7 +82,7 @@
       "confirmatory test",
       "separates by charge",
       "separates by size",
-      "cellulose acetate gel",
+      { "img": "data/bloodlymph/images/12/bloodlymph-12-5.webp" },
       "detects abnormal hemoglobin",
       "HbS near cathode",
       "distinguishes trait from disease",
@@ -120,7 +120,7 @@
       "African heritage",
       "glutamate to lysine",
       "sixth position mutation",
-      "target cells on smear",
+      { "img": "data/bloodlymph/images/12/bloodlymph-12-7.webp" },
       "splenomegaly possible",
       "HbC crystals"
     ]

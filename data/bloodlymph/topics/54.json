@@ -28,7 +28,7 @@
       "absent splenic function",
       "loss of resident B cells",
       "post-splenectomy",
-      "sickle cell autoinfarction",
+      { "img": "data/bloodlymph/images/54/bloodlymph-54-2.webp" },
       "encapsulated organism sepsis",
       "vaccinate against encapsulated",
       "thrombocytosis and leukocytosis",
@@ -43,7 +43,7 @@
     "brick_title": "Disorders of the Spleen",
     "type": "disease",
     "buzzwords": [
-      "highly vascular organ injured",
+      { "img": "data/bloodlymph/images/54/bloodlymph-54-3.webp" },
       "blunt abdominal trauma",
       "LUQ pain, guarding",
       "hypovolemic shock",

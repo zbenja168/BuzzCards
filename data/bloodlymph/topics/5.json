@@ -11,7 +11,7 @@
       "fatigue, pallor",
       "pica",
       "microcytic anemia",
-      "hypochromic RBCs",
+      { "img": "data/bloodlymph/images/5/bloodlymph-5-1-1.webp" },
       "low ferritin, high TIBC",
       "chronic blood loss",
       "heavy menses or GI bleed"
@@ -100,7 +100,7 @@
       "physical exam finding",
       "nail change",
       "concave nail shape",
-      "spoon-shaped nails",
+      { "img": "data/bloodlymph/images/5/bloodlymph-5-6-1.webp" },
       "seen with angular cheilitis",
       "and atrophic glossitis",
       "shiny smooth tongue",

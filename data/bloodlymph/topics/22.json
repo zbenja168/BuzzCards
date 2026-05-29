@@ -9,7 +9,7 @@
     "buzzwords": [
       "autoimmune disorder",
       "prothrombotic state",
-      "arterial and venous thrombi",
+      { "img": "data/bloodlymph/images/22/bloodlymph-22-1.webp" },
       "recurrent DVT and PE",
       "stroke in young patient",
       "most common acquired thrombophilia",

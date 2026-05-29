@@ -32,7 +32,7 @@
       "causes pulmonary fibrosis",
       "megaloblastic anemia",
       "rescued by leucovorin",
-      "inhibits dihydrofolate reductase"
+      { "img": "data/bloodlymph/images/38/bloodlymph-38-2.webp" }
     ]
   },
   {
@@ -50,7 +50,7 @@
       "myelosuppression worse with leucovorin",
       "dUMP cannot make dTMP",
       "5-FU",
-      "inhibits thymidylate synthase"
+      { "img": "data/bloodlymph/images/38/bloodlymph-38-3.webp" }
     ]
   },
   {

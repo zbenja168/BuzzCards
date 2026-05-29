@@ -85,7 +85,7 @@
       "primary become secondary follicles",
       "germinal centers form",
       "tingible body macrophages",
-      "mantle zone preserved",
+      { "img": "data/bloodlymph/images/34/bloodlymph-34-5-1.webp" },
       "response to immune stimulus"
     ]
   },
@@ -99,7 +99,7 @@
     "buzzwords": [
       "benign nodal hyperplasia",
       "T-cell proliferation",
-      "paracortex expands",
+      { "img": "data/bloodlymph/images/34/bloodlymph-34-6-1.webp" },
       "interfollicular areas widen",
       "plasma cells and eosinophils",
       "viral infection response",

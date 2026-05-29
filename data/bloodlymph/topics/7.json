@@ -29,7 +29,7 @@
       "raised by inflammation",
       "induced by IL-6",
       "traps iron in macrophages",
-      "degrades ferroportin-1",
+      { "img": "data/bloodlymph/images/7/bloodlymph-7-2.webp" },
       "blocks enterocyte iron release",
       "lowers circulating iron",
       "starves marrow of iron"
@@ -48,7 +48,7 @@
       "low transferrin",
       "normal or high ferritin",
       "low transferrin saturation",
-      "acute-phase reactant pattern",
+      { "img": "data/bloodlymph/images/7/bloodlymph-7-3.webp" },
       "distinguishes from iron deficiency",
       "iron trapped in stores"
     ]

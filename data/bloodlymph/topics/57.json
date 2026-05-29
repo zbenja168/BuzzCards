@@ -9,11 +9,11 @@
     "buzzwords": [
       "recurrent fevers",
       "hemolytic anemia",
-      "Anopheles mosquito vector",
+      { "img": "data/bloodlymph/images/57/bloodlymph-57-1.webp" },
       "infects red blood cells",
       "Duffy antigen entry",
       "ring trophozoites",
-      "crescent-shaped gametocyte",
+      { "img": "data/bloodlymph/images/57/bloodlymph-57-1b.webp" },
       "Giemsa-stained smear"
     ]
   },
@@ -32,7 +32,7 @@
       "northeastern US",
       "co-infects with Lyme",
       "Babesia microti",
-      "Maltese cross tetrads"
+      { "img": "data/bloodlymph/images/57/bloodlymph-57-2.webp" }
     ]
   },
   {

@@ -27,7 +27,7 @@
     "buzzwords": [
       "packed with thymocytes",
       "septa divide lobules",
-      "dark basophilic outer cortex",
+      { "img": "data/bloodlymph/images/55/bloodlymph-55-2.webp" },
       "paler inner medulla",
       "epithelial reticular cells",
       "keratinized concentric whorls",
@@ -84,7 +84,7 @@
       "often asymptomatic",
       "adults over 40",
       "may cause SVC syndrome",
-      "potentially curable",
+      { "img": "data/bloodlymph/images/55/bloodlymph-55-5.webp" },
       "associated myasthenia gravis",
       "anti-AChR antibodies"
     ]
@@ -118,7 +118,7 @@
       "X-linked recessive",
       "hypoplastic thymus",
       "recurrent infections",
-      "eczema",
+      { "img": "data/bloodlymph/images/55/bloodlymph-55-7.webp" },
       "thrombocytopenia",
       "small platelets",
       "triad disorder",

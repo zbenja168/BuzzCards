@@ -32,7 +32,7 @@
       "pinpoint 1-3 mm spots",
       "larger purple patches",
       "petechiae",
-      "purpura"
+      { "img": "data/bloodlymph/images/27/bloodlymph-27-2.webp" }
     ]
   },
   {
@@ -65,7 +65,7 @@
       "targets membrane glycoproteins",
       "binds GPIIb/IIIa",
       "opsonization",
-      "Fc receptor uptake",
+      { "img": "data/bloodlymph/images/27/bloodlymph-27-4.webp" },
       "splenic macrophages destroy",
       "increased megakaryocytes",
       "biopsy not required"

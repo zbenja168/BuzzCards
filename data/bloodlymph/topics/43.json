@@ -11,7 +11,7 @@
       "painless lymphadenopathy",
       "B symptoms",
       "mediastinal mass",
-      "bimodal age peaks",
+      { "img": "data/bloodlymph/images/43/bloodlymph-43-1.webp" },
       "contiguous nodal spread",
       "EBV associated",
       "Reed-Sternberg cells"
@@ -29,7 +29,7 @@
       "germinal B-cell origin",
       "binucleated",
       "central nucleoli",
-      "owl-eye appearance",
+      { "img": "data/bloodlymph/images/43/bloodlymph-43-2.webp" },
       "CD45 negative",
       "CD20 negative",
       "CD15 and CD30 positive"

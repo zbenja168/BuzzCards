@@ -25,9 +25,9 @@
     "brick_title": "Hemorrhagic Viruses",
     "type": "disease",
     "buzzwords": [
-      "filamentous shape",
+      { "img": "data/bloodlymph/images/59/bloodlymph-59-2.webp" },
       "negative-sense ssRNA",
-      "bat reservoir",
+      { "img": "data/bloodlymph/images/59/bloodlymph-59-2b.webp" },
       "high healthcare-associated spread",
       "DIC and shock",
       "dry phase, wet phase",
@@ -44,7 +44,7 @@
     "type": "disease",
     "buzzwords": [
       "segmented circular genome",
-      "rodent reservoir",
+      { "img": "data/bloodlymph/images/59/bloodlymph-59-3.webp" },
       "aerosolized excreta inhaled",
       "long incubation period",
       "renal syndrome (HFRS)",

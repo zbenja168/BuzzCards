@@ -9,10 +9,10 @@
     "buzzwords": [
       "myeloproliferative neoplasm",
       "too many RBCs",
-      "elevated Hgb and Hct",
+      { "img": "data/bloodlymph/images/47/bloodlymph-47-1-b.webp" },
       "low serum EPO",
       "aquagenic pruritus",
-      "erythromelalgia",
+      { "img": "data/bloodlymph/images/47/bloodlymph-47-1-a.webp" },
       "facial plethora",
       "JAK2 mutation"
     ]
@@ -26,7 +26,7 @@
     "type": "physiology",
     "buzzwords": [
       "tyrosine kinase gene",
-      "JAK-STAT signaling",
+      { "img": "data/bloodlymph/images/47/bloodlymph-47-2.webp" },
       "EPO-independent activation",
       "constitutively active",
       "drives RBC proliferation",
@@ -65,7 +65,7 @@
       "first-line phlebotomy",
       "keep hematocrit under 45%",
       "low-dose aspirin",
-      "blocks thromboxane A2",
+      { "img": "data/bloodlymph/images/47/bloodlymph-47-4.webp" },
       "cytoreduction if high-risk",
       "pegylated interferon alfa",
       "first-line hydroxyurea"

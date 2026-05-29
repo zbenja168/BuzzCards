@@ -49,7 +49,7 @@
       "African descent",
       "autosomal dominant",
       "spectrin defect",
-      "elliptocytes on smear",
+      { "img": "data/bloodlymph/images/11/bloodlymph-11-3.webp" },
       "peripheral smear diagnosis"
     ]
   },
@@ -67,7 +67,7 @@
       "two spectrin mutations",
       "two HE mutations",
       "RBCs resemble burns",
-      "bizarre RBC shapes",
+      { "img": "data/bloodlymph/images/11/bloodlymph-11-4.webp" },
       "HPP"
     ]
   }

@@ -13,8 +13,8 @@
       "X-linked recessive",
       "episodic intravascular hemolysis",
       "triggered by fava beans",
-      "bite cells",
-      "Heinz bodies"
+      { "img": "data/bloodlymph/images/13/bloodlymph-13-1-2.webp" },
+      { "img": "data/bloodlymph/images/13/bloodlymph-13-1-1.webp" }
     ]
   },
   {

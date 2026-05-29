@@ -31,7 +31,7 @@
       "splenic artery from celiac",
       "splenic vein to portal",
       "gastrosplenic ligament",
-      "splenorenal ligament",
+      { "img": "data/bloodlymph/images/53/bloodlymph-53-2.webp" },
       "tail of pancreas adjacent"
     ]
   },
@@ -47,7 +47,7 @@
       "most of parenchyma",
       "open and closed circulation",
       "leaky sinusoids",
-      "stave cells line sinusoids",
+      { "img": "data/bloodlymph/images/53/bloodlymph-53-3.webp" },
       "slit-like openings",
       "tissue macrophages phagocytose",
       "cords of Billroth"
@@ -68,7 +68,7 @@
       "germinal center B cells",
       "marginal zone antigen exchange",
       "tags encapsulated bacteria",
-      "PALS rich in T cells"
+      { "img": "data/bloodlymph/images/53/bloodlymph-53-4.webp" }
     ]
   }
 ]

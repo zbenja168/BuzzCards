@@ -12,9 +12,9 @@
       "ineffective hematopoiesis",
       "hypercellular marrow",
       "nuclear-cytoplasmic asynchrony",
-      "macro-ovalocytes",
+      { "img": "data/bloodlymph/images/15/bloodlymph-15-1-1.webp" },
       "MCV >115 fL",
-      "hypersegmented neutrophils"
+      { "img": "data/bloodlymph/images/15/bloodlymph-15-1-2.webp" }
     ]
   },
   {

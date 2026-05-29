@@ -12,8 +12,8 @@
       "rodent reservoir",
       "endemic western US",
       "facultative intracellular",
-      "bipolar safety-pin stain",
-      "bubo lymphadenopathy",
+      { "img": "data/bloodlymph/images/35/bloodlymph-35-1-stain.webp" },
+      { "img": "data/bloodlymph/images/35/bloodlymph-35-1-bubo.webp" },
       "the plague"
     ]
   },
@@ -29,8 +29,8 @@
       "tiny infectious dose",
       "rabbit contact",
       "tick or deerfly bite",
-      "endemic Ozarks",
-      "ulcerating inoculation site",
+      { "img": "data/bloodlymph/images/35/bloodlymph-35-2-map.webp" },
+      { "img": "data/bloodlymph/images/35/bloodlymph-35-2-ulcer.webp" },
       "cysteine charcoal agar",
       "rabbit fever"
     ]
@@ -46,10 +46,10 @@
       "zoonotic infection",
       "cat scratch or bite",
       "regional lymphadenopathy",
-      "papule at inoculation",
+      { "img": "data/bloodlymph/images/35/bloodlymph-35-3-papule.webp" },
       "necrotizing granulomas",
       "bacillary angiomatosis if immunocompromised",
-      "vascular skin nodules",
+      { "img": "data/bloodlymph/images/35/bloodlymph-35-3-ba.webp" },
       "cat scratch disease"
     ]
   }

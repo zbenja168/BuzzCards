@@ -11,9 +11,9 @@
       "older adults",
       "absolute lymphocytosis",
       "peripheral lymphadenopathy",
-      "smudge cells",
+      { "img": "data/bloodlymph/images/40/bloodlymph-40-1-1.webp" },
       "CD5 and CD23 positive",
-      "Richter transformation",
+      { "img": "data/bloodlymph/images/40/bloodlymph-40-1-2.webp" },
       "ibrutinib treatment"
     ]
   },
@@ -28,7 +28,7 @@
       "indolent low-grade NHL",
       "waxing-waning lymphadenopathy",
       "nodules lacking mantle zones",
-      "centrocytes and centroblasts",
+      { "img": "data/bloodlymph/images/40/bloodlymph-40-2-1.webp" },
       "CD10 positive",
       "BCL-2 overexpressed",
       "t(14;18) translocation",
@@ -66,7 +66,7 @@
       "massive splenomegaly",
       "pancytopenia",
       "bone marrow fibrosis",
-      "cytoplasmic hairy projections",
+      { "img": "data/bloodlymph/images/40/bloodlymph-40-4-1.webp" },
       "BRAF mutation",
       "cladribine treatment"
     ]

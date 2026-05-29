@@ -27,7 +27,7 @@
     "buzzwords": [
       "manual review",
       "size shape granulation",
-      "blood smear under microscope",
+      { "img": "data/bloodlymph/images/28/bloodlymph-28-2.webp" },
       "catches what analyzer misses",
       "used less than count",
       "normal in most diseases",
@@ -48,7 +48,7 @@
       "tests how platelets work",
       "blood through aperture",
       "measures plug formation",
-      "adhesion and aggregation",
+      { "img": "data/bloodlymph/images/28/bloodlymph-28-3.webp" },
       "primary hemostasis",
       "PFA-100"
     ]
@@ -81,7 +81,7 @@
     "buzzwords": [
       "finds cause of dysfunction",
       "platelet-rich plasma",
-      "turbidity drops as clumping",
+      { "img": "data/bloodlymph/images/28/bloodlymph-28-5.webp" },
       "multiple agonists tested",
       "collagen ADP epinephrine",
       "pattern narrows diagnosis",

@@ -9,7 +9,7 @@
     "buzzwords": [
       "traditional HSC source",
       "harvested under anesthesia",
-      "large-bore needles",
+      { "img": "data/bloodlymph/images/52/bloodlymph-52-1-1.webp" },
       "aspirated from bone",
       "very safe procedure",
       "minimal side effects",
@@ -27,7 +27,7 @@
     "buzzwords": [
       "requires mobilization",
       "normally rare in blood",
-      "collected via apheresis",
+      { "img": "data/bloodlymph/images/52/bloodlymph-52-2-1.webp" },
       "measured as CD34+ cells",
       "side effect: bone pain",
       "thrombopoietin, IL-3",
@@ -46,7 +46,7 @@
       "alternative donor option",
       "less strict HLA matching",
       "helps uncommon HLA haplotypes",
-      "helps mixed ethnicity patients",
+      { "img": "data/bloodlymph/images/52/bloodlymph-52-3-1.webp" },
       "collected at delivery",
       "small HSC number",
       "increased infection risk",
@@ -156,7 +156,7 @@
       "inflammation of the mouth",
       "dry mouth",
       "sore mouth",
-      "mouth ulcers",
+      { "img": "data/bloodlymph/images/52/bloodlymph-52-9-1.webp" },
       "managed with saline rinses",
       "most transplant recipients"
     ]

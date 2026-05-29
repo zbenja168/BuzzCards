@@ -8,7 +8,7 @@
     "type": "physiology",
     "buzzwords": [
       "primary hemostasis",
-      "adhesion then aggregation",
+      { "img": "data/bloodlymph/images/25/bloodlymph-25-1.webp" },
       "binds subendothelium",
       "granules release contents",
       "fibrinogen bridges platelets",

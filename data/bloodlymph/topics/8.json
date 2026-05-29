@@ -29,7 +29,7 @@
       "nucleated erythroid precursor",
       "iron-laden mitochondria",
       "ring around nucleus",
-      "Prussian blue positive",
+      { "img": "data/bloodlymph/images/8/bloodlymph-8-2.webp" },
       "perinuclear iron inclusions",
       "not on peripheral smear",
       "diagnostic hallmark"
@@ -45,7 +45,7 @@
     "buzzwords": [
       "peripheral smear finding",
       "iron-containing granules",
-      "clustered RBC inclusions",
+      { "img": "data/bloodlymph/images/8/bloodlymph-8-3.webp" },
       "cell periphery location",
       "Prussian blue positive",
       "seen with basophilic stippling",

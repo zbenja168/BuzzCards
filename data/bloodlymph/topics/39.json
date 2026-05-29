@@ -8,7 +8,7 @@
     "type": "drug",
     "buzzwords": [
       "cell-cycle specific",
-      "block DNA religation",
+      { "img": "data/bloodlymph/images/39/bloodlymph-39-1-1.webp" },
       "build up strand breaks",
       "myelosuppression",
       "cholinergic diarrhea",
@@ -26,7 +26,7 @@
     "type": "drug",
     "buzzwords": [
       "microtubule inhibitor",
-      "bind beta-tubulin",
+      { "img": "data/bloodlymph/images/39/bloodlymph-39-2-1.webp" },
       "block polymerization",
       "frozen mitotic spindle",
       "peripheral neuropathy",
@@ -44,7 +44,7 @@
     "type": "drug",
     "buzzwords": [
       "microtubule inhibitor",
-      "bind beta-tubulin",
+      { "img": "data/bloodlymph/images/39/bloodlymph-39-3-1.webp" },
       "block depolymerization",
       "stabilize microtubules",
       "peripheral neuropathy",
@@ -103,7 +103,7 @@
       "G2 and M specific",
       "minimal myelosuppression",
       "dose-limiting toxicity",
-      "interstitial pneumonitis",
+      { "img": "data/bloodlymph/images/39/bloodlymph-39-6-1.webp" },
       "pulmonary fibrosis"
     ]
   }

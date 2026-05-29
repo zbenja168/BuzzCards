@@ -11,7 +11,7 @@
       "older patients",
       "rapidly enlarging nodes",
       "B symptoms",
-      "diffuse large neoplastic cells",
+      { "img": "data/bloodlymph/images/41/bloodlymph-41-1.webp" },
       "fatal if untreated",
       "Richter transformation from CLL",
       "MYC, BCL2, BCL6"
@@ -27,9 +27,9 @@
     "buzzwords": [
       "fastest-doubling human cancer",
       "endemic, sporadic, immunodeficiency forms",
-      "jaw and facial mass",
+      { "img": "data/bloodlymph/images/41/bloodlymph-41-2.webp" },
       "ileocecal abdominal mass",
-      "starry-sky pattern",
+      { "img": "data/bloodlymph/images/41/bloodlymph-41-2b.webp" },
       "tingible-body macrophages",
       "EBV-associated",
       "t(8;14) MYC translocation"
@@ -47,7 +47,7 @@
       "high-stage at presentation",
       "hepatosplenomegaly",
       "bone marrow involvement",
-      "small-to-intermediate cells",
+      { "img": "data/bloodlymph/images/41/bloodlymph-41-3.webp" },
       "CD5 positive, CD23 negative",
       "cyclin D1 positive",
       "t(11;14) CCND1-IGH"

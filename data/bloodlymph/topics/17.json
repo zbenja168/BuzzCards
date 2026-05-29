@@ -9,7 +9,7 @@
     "buzzwords": [
       "stops bleeding",
       "temporary plug",
-      "vessel constriction first",
+      { "img": "data/bloodlymph/images/17/bloodlymph-17-1.webp" },
       "endothelin release",
       "platelet adhesion",
       "GpIb binds collagen",
@@ -30,7 +30,7 @@
       "makes fibrin clot",
       "extrinsic arm",
       "intrinsic arm",
-      "common pathway converges",
+      { "img": "data/bloodlymph/images/17/bloodlymph-17-2.webp" },
       "tissue factor triggers extrinsic",
       "thrombin cleaves fibrinogen"
     ]
@@ -66,7 +66,7 @@
       "prostacyclin and nitric oxide",
       "antithrombin inhibits thrombin",
       "heparin enhances antithrombin",
-      "TFPI switches off extrinsic",
+      { "img": "data/bloodlymph/images/17/bloodlymph-17-4.webp" },
       "protein C inactivates Va VIIIa",
       "Factor V Leiden resists"
     ]
@@ -121,7 +121,7 @@
       "affects males",
       "intrinsic pathway defect",
       "prolonged aPTT normal PT",
-      "joint bleeds hemarthrosis",
+      { "img": "data/bloodlymph/images/17/bloodlymph-17-7.webp" },
       "Factor VIII or IX missing"
     ]
   }

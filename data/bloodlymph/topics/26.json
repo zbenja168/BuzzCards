@@ -31,7 +31,7 @@
       "petechiae <3 mm",
       "purpura 3-10 mm",
       "not deep joint bleeds",
-      "shin and ankle distribution",
+      { "img": "data/bloodlymph/images/26/bloodlymph-26-2.webp" },
       "platelet-type bleeding"
     ]
   },
@@ -44,7 +44,7 @@
     "type": "physiology",
     "buzzwords": [
       "fewer platelets made",
-      "megakaryocyte failure",
+      { "img": "data/bloodlymph/images/26/bloodlymph-26-3.webp" },
       "bone marrow suppression",
       "pancytopenia",
       "B12 and folate deficiency",
@@ -117,7 +117,7 @@
     "buzzwords": [
       "platelet consumption",
       "microthrombi in small vessels",
-      "RBC fragments on smear",
+      { "img": "data/bloodlymph/images/26/bloodlymph-26-7.webp" },
       "schistocytes",
       "DIC",
       "HELLP syndrome",

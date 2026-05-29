@@ -83,7 +83,7 @@
       "targets CD20",
       "anti B-cell",
       "treats lymphoma",
-      "reduces B-cell proliferation",
+      { "img": "data/bloodlymph/images/45/bloodlymph-45-5.webp" },
       "infusion reactions",
       "reactivates hepatitis B",
       "screen HBV first"
@@ -99,7 +99,7 @@
     "buzzwords": [
       "proteasome inhibitor",
       "suffix -zomib",
-      "blocks 26S proteasome",
+      { "img": "data/bloodlymph/images/45/bloodlymph-45-6.webp" },
       "stabilizes IkB",
       "decreases NF-kB",
       "treats multiple myeloma",

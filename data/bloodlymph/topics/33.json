@@ -31,7 +31,7 @@
       "stress and smoking",
       "demargination raises count",
       "corticosteroid effect",
-      "mature or immature types",
+      { "img": "data/bloodlymph/images/33/bloodlymph-33-2.webp" },
       "G-CSF driven"
     ]
   },
@@ -61,7 +61,7 @@
     "brick_title": "Benign Leukocytosis",
     "type": "disease",
     "buzzwords": [
-      "immature cells in blood",
+      { "img": "data/bloodlymph/images/33/bloodlymph-33-4.webp" },
       "nucleated red cells",
       "immature neutrophils too",
       "severe anemia response",
@@ -84,7 +84,7 @@
       "clear cytoplasmic spaces",
       "blue-gray inclusions",
       "vacuolization in sepsis",
-      "toxic granulation",
+      { "img": "data/bloodlymph/images/33/bloodlymph-33-5.webp" },
       "remnants of rough ER",
       "Dohle bodies"
     ]
@@ -99,10 +99,10 @@
     "buzzwords": [
       "lymphocytes >4000/mm3",
       "viral illness",
-      "reactive lymphocytes",
+      { "img": "data/bloodlymph/images/33/bloodlymph-33-6.webp" },
       "whooping cough",
       "wide normal in children",
-      "fried-egg Downey cells",
+      { "img": "data/bloodlymph/images/33/bloodlymph-33-6-b.webp" },
       "infectious mononucleosis",
       "EBV"
     ]

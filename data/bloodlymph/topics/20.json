@@ -27,7 +27,7 @@
     "buzzwords": [
       "three main types",
       "type 1 quantitative partial",
-      "autosomal dominant",
+      { "img": "data/bloodlymph/images/20/bloodlymph-20-2.webp" },
       "type 2 qualitative defect",
       "type 3 complete absence",
       "type 3 autosomal recessive",

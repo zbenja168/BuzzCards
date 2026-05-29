@@ -50,7 +50,7 @@
       "infections, drugs, fava beans",
       "bite cells",
       "blister cells",
-      "Heinz bodies"
+      { "img": "data/bloodlymph/images/2/bloodlymph-2-3.webp" }
     ]
   },
   {
@@ -68,7 +68,7 @@
       "second most common RBC enzymopathy",
       "blocks PEP to pyruvate",
       "elevated 2,3-BPG",
-      "spiculated echinocytes"
+      { "img": "data/bloodlymph/images/2/bloodlymph-2-4.webp" }
     ]
   },
   {
@@ -84,7 +84,7 @@
       "cyanosis unresponsive to O2",
       "increased affinity of remaining heme",
       "falsely low pulse oximetry",
-      "chocolate brown blood",
+      { "img": "data/bloodlymph/images/2/bloodlymph-2-5.webp" },
       "treated with methylene blue",
       "nitrites and dapsone trigger"
     ]

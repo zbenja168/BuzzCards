@@ -11,7 +11,7 @@
       "always secondary",
       "sick ICU patients",
       "multi-organ involvement",
-      "petechiae",
+      { "img": "data/bloodlymph/images/21/bloodlymph-21-1-1.webp" },
       "consumes platelets, factors",
       "thrombotic microangiopathy",
       "disseminated intravascular coagulation"
@@ -50,7 +50,7 @@
       "elevated indirect bilirubin",
       "elevated fibrin degradation products",
       "elevated D-dimers",
-      "schistocytes on smear"
+      { "img": "data/bloodlymph/images/21/bloodlymph-21-3-1.webp" }
     ]
   },
   {

@@ -11,7 +11,7 @@
       "intrinsic pathway defect",
       "prolonged aPTT",
       "normal PT",
-      "hemarthrosis",
+      { "img": "data/bloodlymph/images/19/bloodlymph-19-1.webp" },
       "X-linked recessive",
       "factor VIII deficiency",
       "most common hemophilia"
@@ -28,7 +28,7 @@
       "inherited bleeding disorder",
       "prolonged aPTT",
       "normal PT",
-      "X-linked recessive",
+      { "img": "data/bloodlymph/images/19/bloodlymph-19-2.webp" },
       "mimics hemophilia A",
       "factor IX deficiency",
       "diagnosed by factor assay",

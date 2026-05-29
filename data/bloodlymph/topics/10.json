@@ -14,7 +14,7 @@
       "normocytic anemia",
       "low reticulocytes",
       "loss of myeloid HSCs",
-      "hypocellular fatty marrow"
+      { "img": "data/bloodlymph/images/10/bloodlymph-10-1-1.webp" }
     ]
   },
   {
@@ -30,7 +30,7 @@
       "defective DNA repair",
       "childhood pancytopenia",
       "short stature",
-      "cafe-au-lait spots",
+      { "img": "data/bloodlymph/images/10/bloodlymph-10-2-1.webp" },
       "radial/thumb anomalies",
       "increased chromosomal breaks"
     ]
@@ -67,7 +67,7 @@
       "reticulocytopenia",
       "presents in infancy",
       "cancer predisposition",
-      "triphalangeal thumb",
+      { "img": "data/bloodlymph/images/10/bloodlymph-10-4-1.webp" },
       "responds to corticosteroids"
     ]
   }

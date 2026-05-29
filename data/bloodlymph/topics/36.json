@@ -7,11 +7,11 @@
     "brick_title": "Leptospirosis and Lymphatic Filariasis",
     "type": "disease",
     "buzzwords": [
-      "spirochete infection",
+      { "img": "data/bloodlymph/images/36/bloodlymph-36-1-fig1.webp" },
       "contaminated water exposure",
       "tropical, after flooding",
       "myalgia in calves",
-      "conjunctival suffusion",
+      { "img": "data/bloodlymph/images/36/bloodlymph-36-1-fig3.webp" },
       "doxycycline treatment",
       "Weil disease",
       "Leptospira interrogans"
@@ -29,9 +29,9 @@
       "nocturnal microfilariae in blood",
       "blood smear at night",
       "lymphedema, hydrocele",
-      "elephantiasis",
+      { "img": "data/bloodlymph/images/36/bloodlymph-36-2-fig8.webp" },
       "diethylcarbamazine treatment",
-      "Giemsa-stained microfilaria",
+      { "img": "data/bloodlymph/images/36/bloodlymph-36-2-fig10.webp" },
       "Wuchereria bancrofti"
     ]
   }

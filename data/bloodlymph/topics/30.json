@@ -11,7 +11,7 @@
       "clonal blood cell cancers",
       "from hematopoietic stem cells",
       "leukemias and lymphomas",
-      "myeloid or lymphoid origin",
+      { "img": "data/bloodlymph/images/30/bloodlymph-30-1.webp" },
       "WHO cell-of-origin classification",
       "includes multiple myeloma",
       "myeloid vs lymphoid framework"
@@ -84,7 +84,7 @@
       "B-cell derived",
       "lost B-cell gene expression",
       "own WHO category",
-      "giant binucleate cells",
+      { "img": "data/bloodlymph/images/30/bloodlymph-30-5.webp" },
       "owl-eye nucleoli",
       "Reed-Sternberg cells"
     ]
@@ -98,7 +98,7 @@
     "type": "lab",
     "buzzwords": [
       "single cells through lasers",
-      "forward and side scatter",
+      { "img": "data/bloodlymph/images/30/bloodlymph-30-6.webp" },
       "detects surface antigens",
       "determines clonality",
       "classifies cell of origin",
@@ -134,7 +134,7 @@
     "type": "lab",
     "buzzwords": [
       "studies chromosomes",
-      "karyotype of dividing cells",
+      { "img": "data/bloodlymph/images/30/bloodlymph-30-8.webp" },
       "detects translocations",
       "finds aneuploidy",
       "hyperdiploidy better ALL prognosis",

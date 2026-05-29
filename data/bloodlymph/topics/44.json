@@ -7,10 +7,10 @@
     "brick_title": "Multiple Myeloma and Other Plasma Cell Disorders",
     "type": "disease",
     "buzzwords": [
-      "malignant plasma cells",
+      { "img": "data/bloodlymph/images/44/bloodlymph-44-1-fig3.webp" },
       "older adults",
       "anemia and fatigue",
-      "lytic bone lesions",
+      { "img": "data/bloodlymph/images/44/bloodlymph-44-1-fig5.webp" },
       "hypercalcemia",
       "renal failure",
       ">10% clonal marrow plasma cells",
@@ -49,7 +49,7 @@
       "clonal antibody product",
       "monoclonal protein",
       "narrow tall spike",
-      "confirmed by immunofixation",
+      { "img": "data/bloodlymph/images/44/bloodlymph-44-3-fig7.webp" },
       "SPEP M spike"
     ]
   },

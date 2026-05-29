@@ -12,7 +12,7 @@
       "first-order kinetics",
       "multiple cycles required",
       "never eradicates all cells",
-      "logarithmic tumor reduction",
+      { "img": "data/bloodlymph/images/31/bloodlymph-31-1.webp" },
       "best for rapidly dividing tumors",
       "log-cell kill"
     ]
@@ -26,7 +26,7 @@
     "type": "drug",
     "buzzwords": [
       "destroys proliferating cells",
-      "cytotoxic chemotherapy",
+      { "img": "data/bloodlymph/images/31/bloodlymph-31-2.webp" },
       "molecularly targeted therapy",
       "blocks signal transduction",
       "endocrine therapy",

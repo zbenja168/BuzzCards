@@ -31,7 +31,7 @@
       "collagen fibers fill marrow",
       "dry tap on aspiration",
       "marrow failure, cytopenias",
-      "reticulin-stained fibers",
+      { "img": "data/bloodlymph/images/49/bloodlymph-49-2.webp" },
       "collagen fibrosis"
     ]
   },
@@ -65,7 +65,7 @@
       "elevated WBC with left shift",
       "immature granulocyte precursors",
       "nucleated RBCs released early",
-      "teardrop-shaped red cells",
+      { "img": "data/bloodlymph/images/49/bloodlymph-49-4.webp" },
       "RBCs squeeze through fibrosis",
       "dacrocytes",
       "leukoerythroblastic reaction"

@@ -8,7 +8,7 @@
     "type": "lab",
     "buzzwords": [
       "part of CBC",
-      "evaluates RBCs",
+      { "img": "data/bloodlymph/images/3/bloodlymph-3-1-1.webp" },
       "diagnoses anemia",
       "size and Hgb content",
       "MCV is average size",
@@ -46,7 +46,7 @@
       "needs supravital stain",
       "uses fresh blood",
       "young immature RBCs",
-      "shows residual RNA",
+      { "img": "data/bloodlymph/images/3/bloodlymph-3-3-1.webp" },
       "normally 1-2%",
       "marrow response marker",
       "low means hypoproliferative",
@@ -62,7 +62,7 @@
     "type": "lab",
     "buzzwords": [
       "applies electric charge",
-      "separates Hgb types",
+      { "img": "data/bloodlymph/images/3/bloodlymph-3-4-1.webp" },
       "identifies Hgb variants",
       "diagnoses thalassemia",
       "detects sickle trait",
@@ -80,7 +80,7 @@
     "type": "lab",
     "buzzwords": [
       "uses saline solutions",
-      "measures hemolysis",
+      { "img": "data/bloodlymph/images/3/bloodlymph-3-5-1.webp" },
       "tests RBC durability",
       "fragile cells lyse early",
       "lyse at higher NaCl",

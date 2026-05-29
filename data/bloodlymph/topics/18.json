@@ -9,7 +9,7 @@
     "buzzwords": [
       "RBC surface antigens",
       "sugars added to H antigen",
-      "four antigen types",
+      { "img": "data/bloodlymph/images/18/bloodlymph-18-1.webp" },
       "naturally occurring antibodies",
       "type O lacks A and B",
       "type AB universal recipient",
@@ -29,7 +29,7 @@
       "positive or negative status",
       "antibodies not naturally occurring",
       "made only after exposure",
-      "anti-D crosses placenta",
+      { "img": "data/bloodlymph/images/18/bloodlymph-18-2.webp" },
       "hemolytic disease of newborn",
       "RhoGAM prevents sensitization",
       "first described in Rhesus monkeys"
@@ -45,7 +45,7 @@
     "buzzwords": [
       "ensures donor-recipient compatibility",
       "type and screen",
-      "forward typing detects antigens",
+      { "img": "data/bloodlymph/images/18/bloodlymph-18-3.webp" },
       "reverse typing detects antibodies",
       "screen uses RBC panel",
       "crossmatch is mini-transfusion",
@@ -61,7 +61,7 @@
     "brick_title": "Transfusion Medicine",
     "type": "physiology",
     "buzzwords": [
-      "separated by centrifuge",
+      { "img": "data/bloodlymph/images/18/bloodlymph-18-4.webp" },
       "packed RBCs for anemia",
       "platelets for thrombocytopenia",
       "granulocytes for neutropenic infection",

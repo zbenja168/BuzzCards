@@ -12,7 +12,7 @@
       "marrow crowded by blasts",
       "anemia, neutropenia, thrombocytopenia",
       "85% B-cell origin",
-      "T-cell mediastinal mass",
+      { "img": "data/bloodlymph/images/32/bloodlymph-32-1.webp" },
       "spreads to CNS and testes",
       "proliferating lymphoblasts"
     ]
@@ -26,7 +26,7 @@
     "type": "lab",
     "buzzwords": [
       "guides prognosis and treatment",
-      "hyperdiploidy good prognosis",
+      { "img": "data/bloodlymph/images/32/bloodlymph-32-2.webp" },
       "associated with Down syndrome",
       "t(12;21) favorable in children",
       "t(9;22) worse in adults",
@@ -43,7 +43,7 @@
     "brick_title": "Acute Lymphoblastic Leukemia/Lymphoma",
     "type": "lab",
     "buzzwords": [
-      "CBC with peripheral smear",
+      { "img": "data/bloodlymph/images/32/bloodlymph-32-3.webp" },
       "20% or more blasts",
       "bone marrow biopsy",
       "flow cytometry immunophenotyping",

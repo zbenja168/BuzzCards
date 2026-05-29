@@ -12,8 +12,8 @@
       "scaly red patches",
       "CD4+ helper T-cell origin",
       "epidermal infiltration",
-      "Pautrier microabscesses",
-      "cerebriform nuclei",
+      { "img": "data/bloodlymph/images/42/bloodlymph-42-1-fig7.webp" },
+      { "img": "data/bloodlymph/images/42/bloodlymph-42-1-fig6.webp" },
       "cutaneous T-cell lymphoma"
     ]
   },
@@ -29,7 +29,7 @@
       "diffuse itchy rash",
       "circulating malignant T-cells",
       "alopecia present",
-      "erythroderma >80% body",
+      { "img": "data/bloodlymph/images/42/bloodlymph-42-2-fig5.webp" },
       "diffuse lymphadenopathy",
       "cerebriform Sézary cells",
       "erythroderma + adenopathy triad"
@@ -49,7 +49,7 @@
       "elevated LDH",
       "CD3 CD4 CD25 positive",
       "endemic Japan, Caribbean",
-      "flower-shaped nuclei",
+      { "img": "data/bloodlymph/images/42/bloodlymph-42-3-fig8.webp" },
       "HTLV-1 associated"
     ]
   }

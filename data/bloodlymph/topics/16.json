@@ -63,7 +63,7 @@
     "buzzwords": [
       "evaluates prolonged PTT",
       "mix with normal plasma",
-      "rerun the PTT",
+      { "img": "data/bloodlymph/images/16/bloodlymph-16-4.webp" },
       "corrects means factor deficiency",
       "stays prolonged means inhibitor",
       "detects circulating antibody",
@@ -81,7 +81,7 @@
     "buzzwords": [
       "measures clot breakdown",
       "marker of fibrinolysis",
-      "plasmin degrades fibrin",
+      { "img": "data/bloodlymph/images/16/bloodlymph-16-5.webp" },
       "highly sensitive low specificity",
       "elevated in DVT and PE",
       "elevated in DIC",

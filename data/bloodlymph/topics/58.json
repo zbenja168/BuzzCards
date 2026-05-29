@@ -12,7 +12,7 @@
       "blocks heme detoxification",
       "toxic free heme accumulates",
       "EKG changes",
-      "cardiomyopathy risk",
+      { "img": "data/bloodlymph/images/58/bloodlymph-58-1.webp" },
       "hemolysis in G6PD deficiency",
       "widespread resistance"
     ]
@@ -48,7 +48,7 @@
       "blocks mitochondrial electron transport",
       "inhibits parasite folate synthesis",
       "synergistic combination",
-      "transient transaminitis",
+      { "img": "data/bloodlymph/images/58/bloodlymph-58-3.webp" },
       "renally eliminated",
       "avoid in severe renal failure"
     ]
@@ -65,7 +65,7 @@
       "blocks 80S subunit",
       "interferes with heme digestion",
       "abnormal dreams",
-      "insomnia",
+      { "img": "data/bloodlymph/images/58/bloodlymph-58-4.webp" },
       "neuropsychiatric black box",
       "avoid in psychiatric disorders",
       "contraindicated in seizures"
@@ -84,7 +84,7 @@
       "targets exoerythrocytic stages",
       "prevents relapse",
       "QT prolongation",
-      "leukopenia",
+      { "img": "data/bloodlymph/images/58/bloodlymph-58-5.webp" },
       "hemolytic anemia in G6PD",
       "covers P. ovale and vivax"
     ]
@@ -102,7 +102,7 @@
       "cleaves endoperoxide bridge",
       "iron-mediated free radicals",
       "rapid parasite clearance",
-      "hypotension and dizziness",
+      { "img": "data/bloodlymph/images/58/bloodlymph-58-6.webp" },
       "IV artesunate for severe",
       "ACT regimen"
     ]

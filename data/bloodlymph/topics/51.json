@@ -45,7 +45,7 @@
     "buzzwords": [
       "distinctive AML subtype",
       "abundant red granules",
-      "multiple Auer rods",
+      { "img": "data/bloodlymph/images/51/bloodlymph-51-3.webp" },
       "strongly associated with DIC",
       "PML-RARa fusion gene",
       "responds to retinoic acid",
@@ -81,7 +81,7 @@
     "buzzwords": [
       "complication of hyperleukocytosis",
       "WBC count over 100,000",
-      "increased blood viscosity",
+      { "img": "data/bloodlymph/images/51/bloodlymph-51-5.webp" },
       "neurologic symptoms",
       "pulmonary symptoms",
       "dyspnea and hypoxia",

@@ -10,7 +10,7 @@
       "inherited anemia",
       "quantitative hemoglobinopathy",
       "reduced globin chains",
-      "microcytic hypochromic anemia",
+      { "img": "data/bloodlymph/images/6/bloodlymph-6-1.webp" },
       "ineffective erythropoiesis",
       "unbalanced globin precipitates",
       "alpha or beta chain deficit",
@@ -49,8 +49,8 @@
       "elevated HbA2",
       "elevated HbF",
       "transfusion-dependent major",
-      "Erlenmeyer flask long bones",
-      "crew-cut skull frontal bossing"
+      { "img": "data/bloodlymph/images/6/bloodlymph-6-3b.webp" },
+      { "img": "data/bloodlymph/images/6/bloodlymph-6-3a.webp" }
     ]
   }
 ]

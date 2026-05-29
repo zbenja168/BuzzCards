@@ -9,7 +9,7 @@
     "buzzwords": [
       "young adults",
       "MAHA",
-      "thrombocytopenia",
+      { "img": "data/bloodlymph/images/29/bloodlymph-29-1.webp" },
       "neurologic symptoms",
       "pentad",
       "ADAMTS13 deficiency",
@@ -43,7 +43,7 @@
     "brick_title": "Thrombotic Microangiopathies",
     "type": "lab",
     "buzzwords": [
-      "fragmented RBCs",
+      { "img": "data/bloodlymph/images/29/bloodlymph-29-3.webp" },
       "sheared by microthrombi",
       "marker of MAHA",
       "never artifactual",

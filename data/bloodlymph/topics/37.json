@@ -11,8 +11,8 @@
       "transfer alkyl groups",
       "cell cycle independent",
       "kill cycling and resting cells",
-      "alkylate guanine N-7",
-      "cause DNA cross-links",
+      { "img": "data/bloodlymph/images/37/bloodlymph-37-1-2.webp" },
+      { "img": "data/bloodlymph/images/37/bloodlymph-37-1.webp" },
       "block DNA replication",
       "trigger apoptosis"
     ]

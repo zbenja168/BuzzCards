@@ -11,7 +11,9 @@
       "occurs in bone marrow",
       "starts in yolk sac",
       "liver mid-gestation",
-      "shifts to marrow postnatally",
+      {
+        "img": "data/bloodlymph/images/1/bloodlymph-1-1.webp"
+      },
       "all cells from HSCs",
       "myeloid and lymphoid lines",
       "extramedullary in marrow failure"
@@ -32,7 +34,9 @@
       "nucleus condenses then ejected",
       "reticulocyte retains RNA",
       "RBC lives ~120 days",
-      "proerythroblast to erythrocyte"
+      {
+        "img": "data/bloodlymph/images/1/bloodlymph-1-2.webp"
+      }
     ]
   },
   {
@@ -65,7 +69,9 @@
       "myeloid line origin",
       "makes neutrophils eosinophils basophils",
       "takes about two weeks",
-      "six neutrophil maturation stages",
+      {
+        "img": "data/bloodlymph/images/1/bloodlymph-1-4.webp"
+      },
       "myeloblast is earliest stage",
       "band precedes segmented neutrophil",
       "G-CSF drug filgrastim"
@@ -81,7 +87,9 @@
     "buzzwords": [
       "giant marrow cell",
       "platelet precursor",
-      "50-100 micrometers wide",
+      {
+        "img": "data/bloodlymph/images/1/bloodlymph-1-5.webp"
+      },
       "replicates DNA without dividing",
       "undergoes endomitosis",
       "sheds 1000-3000 platelets",
@@ -158,7 +166,9 @@
       "infections, drugs, fava beans",
       "bite cells",
       "blister cells",
-      "Heinz bodies"
+      {
+        "img": "data/bloodlymph/images/2/bloodlymph-2-3.webp"
+      }
     ]
   },
   {
@@ -176,7 +186,9 @@
       "second most common RBC enzymopathy",
       "blocks PEP to pyruvate",
       "elevated 2,3-BPG",
-      "spiculated echinocytes"
+      {
+        "img": "data/bloodlymph/images/2/bloodlymph-2-4.webp"
+      }
     ]
   },
   {
@@ -192,7 +204,9 @@
       "cyanosis unresponsive to O2",
       "increased affinity of remaining heme",
       "falsely low pulse oximetry",
-      "chocolate brown blood",
+      {
+        "img": "data/bloodlymph/images/2/bloodlymph-2-5.webp"
+      },
       "treated with methylene blue",
       "nitrites and dapsone trigger"
     ]
@@ -224,7 +238,9 @@
     "type": "lab",
     "buzzwords": [
       "part of CBC",
-      "evaluates RBCs",
+      {
+        "img": "data/bloodlymph/images/3/bloodlymph-3-1-1.webp"
+      },
       "diagnoses anemia",
       "size and Hgb content",
       "MCV is average size",
@@ -262,7 +278,9 @@
       "needs supravital stain",
       "uses fresh blood",
       "young immature RBCs",
-      "shows residual RNA",
+      {
+        "img": "data/bloodlymph/images/3/bloodlymph-3-3-1.webp"
+      },
       "normally 1-2%",
       "marrow response marker",
       "low means hypoproliferative",
@@ -278,7 +296,9 @@
     "type": "lab",
     "buzzwords": [
       "applies electric charge",
-      "separates Hgb types",
+      {
+        "img": "data/bloodlymph/images/3/bloodlymph-3-4-1.webp"
+      },
       "identifies Hgb variants",
       "diagnoses thalassemia",
       "detects sickle trait",
@@ -296,7 +316,9 @@
     "type": "lab",
     "buzzwords": [
       "uses saline solutions",
-      "measures hemolysis",
+      {
+        "img": "data/bloodlymph/images/3/bloodlymph-3-5-1.webp"
+      },
       "tests RBC durability",
       "fragile cells lyse early",
       "lyse at higher NaCl",
@@ -336,7 +358,9 @@
       "two definitions",
       "low oxygen-carrying capacity",
       "physiologic definition",
-      "Hgb below reference range",
+      {
+        "img": "data/bloodlymph/images/4/bloodlymph-4-1-1.webp"
+      },
       "clinical definition",
       "uses age and sex"
     ]
@@ -461,7 +485,9 @@
       "fatigue, pallor",
       "pica",
       "microcytic anemia",
-      "hypochromic RBCs",
+      {
+        "img": "data/bloodlymph/images/5/bloodlymph-5-1-1.webp"
+      },
       "low ferritin, high TIBC",
       "chronic blood loss",
       "heavy menses or GI bleed"
@@ -550,7 +576,9 @@
       "physical exam finding",
       "nail change",
       "concave nail shape",
-      "spoon-shaped nails",
+      {
+        "img": "data/bloodlymph/images/5/bloodlymph-5-6-1.webp"
+      },
       "seen with angular cheilitis",
       "and atrophic glossitis",
       "shiny smooth tongue",
@@ -568,7 +596,9 @@
       "inherited anemia",
       "quantitative hemoglobinopathy",
       "reduced globin chains",
-      "microcytic hypochromic anemia",
+      {
+        "img": "data/bloodlymph/images/6/bloodlymph-6-1.webp"
+      },
       "ineffective erythropoiesis",
       "unbalanced globin precipitates",
       "alpha or beta chain deficit",
@@ -607,8 +637,12 @@
       "elevated HbA2",
       "elevated HbF",
       "transfusion-dependent major",
-      "Erlenmeyer flask long bones",
-      "crew-cut skull frontal bossing"
+      {
+        "img": "data/bloodlymph/images/6/bloodlymph-6-3b.webp"
+      },
+      {
+        "img": "data/bloodlymph/images/6/bloodlymph-6-3a.webp"
+      }
     ]
   },
   {
@@ -641,7 +675,9 @@
       "raised by inflammation",
       "induced by IL-6",
       "traps iron in macrophages",
-      "degrades ferroportin-1",
+      {
+        "img": "data/bloodlymph/images/7/bloodlymph-7-2.webp"
+      },
       "blocks enterocyte iron release",
       "lowers circulating iron",
       "starves marrow of iron"
@@ -660,7 +696,9 @@
       "low transferrin",
       "normal or high ferritin",
       "low transferrin saturation",
-      "acute-phase reactant pattern",
+      {
+        "img": "data/bloodlymph/images/7/bloodlymph-7-3.webp"
+      },
       "distinguishes from iron deficiency",
       "iron trapped in stores"
     ]
@@ -713,7 +751,9 @@
       "nucleated erythroid precursor",
       "iron-laden mitochondria",
       "ring around nucleus",
-      "Prussian blue positive",
+      {
+        "img": "data/bloodlymph/images/8/bloodlymph-8-2.webp"
+      },
       "perinuclear iron inclusions",
       "not on peripheral smear",
       "diagnostic hallmark"
@@ -729,7 +769,9 @@
     "buzzwords": [
       "peripheral smear finding",
       "iron-containing granules",
-      "clustered RBC inclusions",
+      {
+        "img": "data/bloodlymph/images/8/bloodlymph-8-3.webp"
+      },
       "cell periphery location",
       "Prussian blue positive",
       "seen with basophilic stippling",
@@ -788,7 +830,9 @@
       "normocytic anemia",
       "low reticulocytes",
       "loss of myeloid HSCs",
-      "hypocellular fatty marrow"
+      {
+        "img": "data/bloodlymph/images/10/bloodlymph-10-1-1.webp"
+      }
     ]
   },
   {
@@ -804,7 +848,9 @@
       "defective DNA repair",
       "childhood pancytopenia",
       "short stature",
-      "cafe-au-lait spots",
+      {
+        "img": "data/bloodlymph/images/10/bloodlymph-10-2-1.webp"
+      },
       "radial/thumb anomalies",
       "increased chromosomal breaks"
     ]
@@ -841,7 +887,9 @@
       "reticulocytopenia",
       "presents in infancy",
       "cancer predisposition",
-      "triphalangeal thumb",
+      {
+        "img": "data/bloodlymph/images/10/bloodlymph-10-4-1.webp"
+      },
       "responds to corticosteroids"
     ]
   },
@@ -895,7 +943,9 @@
       "African descent",
       "autosomal dominant",
       "spectrin defect",
-      "elliptocytes on smear",
+      {
+        "img": "data/bloodlymph/images/11/bloodlymph-11-3.webp"
+      },
       "peripheral smear diagnosis"
     ]
   },
@@ -913,7 +963,9 @@
       "two spectrin mutations",
       "two HE mutations",
       "RBCs resemble burns",
-      "bizarre RBC shapes",
+      {
+        "img": "data/bloodlymph/images/11/bloodlymph-11-4.webp"
+      },
       "HPP"
     ]
   },
@@ -947,7 +999,9 @@
       "worsened by acidosis",
       "worsened by dehydration",
       "exposed hydrophobic valine",
-      "HbS polymerizes",
+      {
+        "img": "data/bloodlymph/images/12/bloodlymph-12-2.webp"
+      },
       "rigid inflexible cells",
       "semicircular shape",
       "blade-shaped RBC"
@@ -962,7 +1016,9 @@
     "type": "disease",
     "buzzwords": [
       "sharp localized pain",
-      "tissue ischemia",
+      {
+        "img": "data/bloodlymph/images/12/bloodlymph-12-3.webp"
+      },
       "recurrent painful episodes",
       "functional asplenia",
       "encapsulated organism risk",
@@ -1000,7 +1056,9 @@
       "confirmatory test",
       "separates by charge",
       "separates by size",
-      "cellulose acetate gel",
+      {
+        "img": "data/bloodlymph/images/12/bloodlymph-12-5.webp"
+      },
       "detects abnormal hemoglobin",
       "HbS near cathode",
       "distinguishes trait from disease",
@@ -1038,7 +1096,9 @@
       "African heritage",
       "glutamate to lysine",
       "sixth position mutation",
-      "target cells on smear",
+      {
+        "img": "data/bloodlymph/images/12/bloodlymph-12-7.webp"
+      },
       "splenomegaly possible",
       "HbC crystals"
     ]
@@ -1057,8 +1117,12 @@
       "X-linked recessive",
       "episodic intravascular hemolysis",
       "triggered by fava beans",
-      "bite cells",
-      "Heinz bodies"
+      {
+        "img": "data/bloodlymph/images/13/bloodlymph-13-1-2.webp"
+      },
+      {
+        "img": "data/bloodlymph/images/13/bloodlymph-13-1-1.webp"
+      }
     ]
   },
   {
@@ -1092,7 +1156,9 @@
       "active at body temperature",
       "extravascular hemolysis",
       "splenomegaly",
-      "spherocytes on smear",
+      {
+        "img": "data/bloodlymph/images/14/bloodlymph-14-1.webp"
+      },
       "IgG-mediated",
       "drug-induced (penicillins)"
     ]
@@ -1111,8 +1177,12 @@
       "complement activation",
       "intravascular hemolysis",
       "Mycoplasma, mononucleosis trigger",
-      "cold agglutinins",
-      "IgM pentamer-mediated"
+      {
+        "img": "data/bloodlymph/images/14/bloodlymph-14-2.webp"
+      },
+      {
+        "img": "data/bloodlymph/images/14/bloodlymph-14-2b.webp"
+      }
     ]
   },
   {
@@ -1125,7 +1195,9 @@
     "buzzwords": [
       "detects RBC-bound antibody",
       "uses antihuman immunoglobulin",
-      "agglutinates coated RBCs",
+      {
+        "img": "data/bloodlymph/images/14/bloodlymph-14-3.webp"
+      },
       "positive in AHA",
       "differentiates autoimmune hemolysis",
       "detects warm and cold",
@@ -1182,9 +1254,13 @@
       "ineffective hematopoiesis",
       "hypercellular marrow",
       "nuclear-cytoplasmic asynchrony",
-      "macro-ovalocytes",
+      {
+        "img": "data/bloodlymph/images/15/bloodlymph-15-1-1.webp"
+      },
       "MCV >115 fL",
-      "hypersegmented neutrophils"
+      {
+        "img": "data/bloodlymph/images/15/bloodlymph-15-1-2.webp"
+      }
     ]
   },
   {
@@ -1323,7 +1399,9 @@
     "buzzwords": [
       "evaluates prolonged PTT",
       "mix with normal plasma",
-      "rerun the PTT",
+      {
+        "img": "data/bloodlymph/images/16/bloodlymph-16-4.webp"
+      },
       "corrects means factor deficiency",
       "stays prolonged means inhibitor",
       "detects circulating antibody",
@@ -1341,7 +1419,9 @@
     "buzzwords": [
       "measures clot breakdown",
       "marker of fibrinolysis",
-      "plasmin degrades fibrin",
+      {
+        "img": "data/bloodlymph/images/16/bloodlymph-16-5.webp"
+      },
       "highly sensitive low specificity",
       "elevated in DVT and PE",
       "elevated in DIC",
@@ -1359,7 +1439,9 @@
     "buzzwords": [
       "stops bleeding",
       "temporary plug",
-      "vessel constriction first",
+      {
+        "img": "data/bloodlymph/images/17/bloodlymph-17-1.webp"
+      },
       "endothelin release",
       "platelet adhesion",
       "GpIb binds collagen",
@@ -1380,7 +1462,9 @@
       "makes fibrin clot",
       "extrinsic arm",
       "intrinsic arm",
-      "common pathway converges",
+      {
+        "img": "data/bloodlymph/images/17/bloodlymph-17-2.webp"
+      },
       "tissue factor triggers extrinsic",
       "thrombin cleaves fibrinogen"
     ]
@@ -1416,7 +1500,9 @@
       "prostacyclin and nitric oxide",
       "antithrombin inhibits thrombin",
       "heparin enhances antithrombin",
-      "TFPI switches off extrinsic",
+      {
+        "img": "data/bloodlymph/images/17/bloodlymph-17-4.webp"
+      },
       "protein C inactivates Va VIIIa",
       "Factor V Leiden resists"
     ]
@@ -1471,7 +1557,9 @@
       "affects males",
       "intrinsic pathway defect",
       "prolonged aPTT normal PT",
-      "joint bleeds hemarthrosis",
+      {
+        "img": "data/bloodlymph/images/17/bloodlymph-17-7.webp"
+      },
       "Factor VIII or IX missing"
     ]
   },
@@ -1485,7 +1573,9 @@
     "buzzwords": [
       "RBC surface antigens",
       "sugars added to H antigen",
-      "four antigen types",
+      {
+        "img": "data/bloodlymph/images/18/bloodlymph-18-1.webp"
+      },
       "naturally occurring antibodies",
       "type O lacks A and B",
       "type AB universal recipient",
@@ -1505,7 +1595,9 @@
       "positive or negative status",
       "antibodies not naturally occurring",
       "made only after exposure",
-      "anti-D crosses placenta",
+      {
+        "img": "data/bloodlymph/images/18/bloodlymph-18-2.webp"
+      },
       "hemolytic disease of newborn",
       "RhoGAM prevents sensitization",
       "first described in Rhesus monkeys"
@@ -1521,7 +1613,9 @@
     "buzzwords": [
       "ensures donor-recipient compatibility",
       "type and screen",
-      "forward typing detects antigens",
+      {
+        "img": "data/bloodlymph/images/18/bloodlymph-18-3.webp"
+      },
       "reverse typing detects antibodies",
       "screen uses RBC panel",
       "crossmatch is mini-transfusion",
@@ -1537,7 +1631,9 @@
     "brick_title": "Transfusion Medicine",
     "type": "physiology",
     "buzzwords": [
-      "separated by centrifuge",
+      {
+        "img": "data/bloodlymph/images/18/bloodlymph-18-4.webp"
+      },
       "packed RBCs for anemia",
       "platelets for thrombocytopenia",
       "granulocytes for neutropenic infection",
@@ -1595,7 +1691,9 @@
       "intrinsic pathway defect",
       "prolonged aPTT",
       "normal PT",
-      "hemarthrosis",
+      {
+        "img": "data/bloodlymph/images/19/bloodlymph-19-1.webp"
+      },
       "X-linked recessive",
       "factor VIII deficiency",
       "most common hemophilia"
@@ -1612,7 +1710,9 @@
       "inherited bleeding disorder",
       "prolonged aPTT",
       "normal PT",
-      "X-linked recessive",
+      {
+        "img": "data/bloodlymph/images/19/bloodlymph-19-2.webp"
+      },
       "mimics hemophilia A",
       "factor IX deficiency",
       "diagnosed by factor assay",
@@ -1683,7 +1783,9 @@
     "buzzwords": [
       "three main types",
       "type 1 quantitative partial",
-      "autosomal dominant",
+      {
+        "img": "data/bloodlymph/images/20/bloodlymph-20-2.webp"
+      },
       "type 2 qualitative defect",
       "type 3 complete absence",
       "type 3 autosomal recessive",
@@ -1757,7 +1859,9 @@
       "always secondary",
       "sick ICU patients",
       "multi-organ involvement",
-      "petechiae",
+      {
+        "img": "data/bloodlymph/images/21/bloodlymph-21-1-1.webp"
+      },
       "consumes platelets, factors",
       "thrombotic microangiopathy",
       "disseminated intravascular coagulation"
@@ -1796,7 +1900,9 @@
       "elevated indirect bilirubin",
       "elevated fibrin degradation products",
       "elevated D-dimers",
-      "schistocytes on smear"
+      {
+        "img": "data/bloodlymph/images/21/bloodlymph-21-3-1.webp"
+      }
     ]
   },
   {
@@ -1827,7 +1933,9 @@
     "buzzwords": [
       "autoimmune disorder",
       "prothrombotic state",
-      "arterial and venous thrombi",
+      {
+        "img": "data/bloodlymph/images/22/bloodlymph-22-1.webp"
+      },
       "recurrent DVT and PE",
       "stroke in young patient",
       "most common acquired thrombophilia",
@@ -1957,7 +2065,9 @@
       "homozygotes severely affected",
       "purpura fulminans in neonates",
       "transient hypercoagulable state",
-      "warfarin-induced skin necrosis",
+      {
+        "img": "data/bloodlymph/images/23/bloodlymph-23-3-1.webp"
+      },
       "protein C deficiency"
     ]
   },
@@ -2081,7 +2191,9 @@
       "vitamin K antagonist",
       "monitored with PT/INR",
       "delayed onset, long half-life",
-      "early hypercoagulable state",
+      {
+        "img": "data/bloodlymph/images/24/bloodlymph-24-6-1.webp"
+      },
       "teratogen, avoid pregnancy",
       "metabolized by CYP2C9",
       "warfarin skin necrosis"
@@ -2132,7 +2244,9 @@
     "type": "physiology",
     "buzzwords": [
       "primary hemostasis",
-      "adhesion then aggregation",
+      {
+        "img": "data/bloodlymph/images/25/bloodlymph-25-1.webp"
+      },
       "binds subendothelium",
       "granules release contents",
       "fibrinogen bridges platelets",
@@ -2245,7 +2359,9 @@
       "petechiae <3 mm",
       "purpura 3-10 mm",
       "not deep joint bleeds",
-      "shin and ankle distribution",
+      {
+        "img": "data/bloodlymph/images/26/bloodlymph-26-2.webp"
+      },
       "platelet-type bleeding"
     ]
   },
@@ -2258,7 +2374,9 @@
     "type": "physiology",
     "buzzwords": [
       "fewer platelets made",
-      "megakaryocyte failure",
+      {
+        "img": "data/bloodlymph/images/26/bloodlymph-26-3.webp"
+      },
       "bone marrow suppression",
       "pancytopenia",
       "B12 and folate deficiency",
@@ -2331,7 +2449,9 @@
     "buzzwords": [
       "platelet consumption",
       "microthrombi in small vessels",
-      "RBC fragments on smear",
+      {
+        "img": "data/bloodlymph/images/26/bloodlymph-26-7.webp"
+      },
       "schistocytes",
       "DIC",
       "HELLP syndrome",
@@ -2372,7 +2492,9 @@
       "pinpoint 1-3 mm spots",
       "larger purple patches",
       "petechiae",
-      "purpura"
+      {
+        "img": "data/bloodlymph/images/27/bloodlymph-27-2.webp"
+      }
     ]
   },
   {
@@ -2405,7 +2527,9 @@
       "targets membrane glycoproteins",
       "binds GPIIb/IIIa",
       "opsonization",
-      "Fc receptor uptake",
+      {
+        "img": "data/bloodlymph/images/27/bloodlymph-27-4.webp"
+      },
       "splenic macrophages destroy",
       "increased megakaryocytes",
       "biopsy not required"
@@ -2457,7 +2581,9 @@
     "buzzwords": [
       "manual review",
       "size shape granulation",
-      "blood smear under microscope",
+      {
+        "img": "data/bloodlymph/images/28/bloodlymph-28-2.webp"
+      },
       "catches what analyzer misses",
       "used less than count",
       "normal in most diseases",
@@ -2478,7 +2604,9 @@
       "tests how platelets work",
       "blood through aperture",
       "measures plug formation",
-      "adhesion and aggregation",
+      {
+        "img": "data/bloodlymph/images/28/bloodlymph-28-3.webp"
+      },
       "primary hemostasis",
       "PFA-100"
     ]
@@ -2511,7 +2639,9 @@
     "buzzwords": [
       "finds cause of dysfunction",
       "platelet-rich plasma",
-      "turbidity drops as clumping",
+      {
+        "img": "data/bloodlymph/images/28/bloodlymph-28-5.webp"
+      },
       "multiple agonists tested",
       "collagen ADP epinephrine",
       "pattern narrows diagnosis",
@@ -2529,7 +2659,9 @@
     "buzzwords": [
       "young adults",
       "MAHA",
-      "thrombocytopenia",
+      {
+        "img": "data/bloodlymph/images/29/bloodlymph-29-1.webp"
+      },
       "neurologic symptoms",
       "pentad",
       "ADAMTS13 deficiency",
@@ -2563,7 +2695,9 @@
     "brick_title": "Thrombotic Microangiopathies",
     "type": "lab",
     "buzzwords": [
-      "fragmented RBCs",
+      {
+        "img": "data/bloodlymph/images/29/bloodlymph-29-3.webp"
+      },
       "sheared by microthrombi",
       "marker of MAHA",
       "never artifactual",
@@ -2621,7 +2755,9 @@
       "clonal blood cell cancers",
       "from hematopoietic stem cells",
       "leukemias and lymphomas",
-      "myeloid or lymphoid origin",
+      {
+        "img": "data/bloodlymph/images/30/bloodlymph-30-1.webp"
+      },
       "WHO cell-of-origin classification",
       "includes multiple myeloma",
       "myeloid vs lymphoid framework"
@@ -2694,7 +2830,9 @@
       "B-cell derived",
       "lost B-cell gene expression",
       "own WHO category",
-      "giant binucleate cells",
+      {
+        "img": "data/bloodlymph/images/30/bloodlymph-30-5.webp"
+      },
       "owl-eye nucleoli",
       "Reed-Sternberg cells"
     ]
@@ -2708,7 +2846,9 @@
     "type": "lab",
     "buzzwords": [
       "single cells through lasers",
-      "forward and side scatter",
+      {
+        "img": "data/bloodlymph/images/30/bloodlymph-30-6.webp"
+      },
       "detects surface antigens",
       "determines clonality",
       "classifies cell of origin",
@@ -2744,7 +2884,9 @@
     "type": "lab",
     "buzzwords": [
       "studies chromosomes",
-      "karyotype of dividing cells",
+      {
+        "img": "data/bloodlymph/images/30/bloodlymph-30-8.webp"
+      },
       "detects translocations",
       "finds aneuploidy",
       "hyperdiploidy better ALL prognosis",
@@ -2766,7 +2908,9 @@
       "first-order kinetics",
       "multiple cycles required",
       "never eradicates all cells",
-      "logarithmic tumor reduction",
+      {
+        "img": "data/bloodlymph/images/31/bloodlymph-31-1.webp"
+      },
       "best for rapidly dividing tumors",
       "log-cell kill"
     ]
@@ -2780,7 +2924,9 @@
     "type": "drug",
     "buzzwords": [
       "destroys proliferating cells",
-      "cytotoxic chemotherapy",
+      {
+        "img": "data/bloodlymph/images/31/bloodlymph-31-2.webp"
+      },
       "molecularly targeted therapy",
       "blocks signal transduction",
       "endocrine therapy",
@@ -2856,7 +3002,9 @@
       "marrow crowded by blasts",
       "anemia, neutropenia, thrombocytopenia",
       "85% B-cell origin",
-      "T-cell mediastinal mass",
+      {
+        "img": "data/bloodlymph/images/32/bloodlymph-32-1.webp"
+      },
       "spreads to CNS and testes",
       "proliferating lymphoblasts"
     ]
@@ -2870,7 +3018,9 @@
     "type": "lab",
     "buzzwords": [
       "guides prognosis and treatment",
-      "hyperdiploidy good prognosis",
+      {
+        "img": "data/bloodlymph/images/32/bloodlymph-32-2.webp"
+      },
       "associated with Down syndrome",
       "t(12;21) favorable in children",
       "t(9;22) worse in adults",
@@ -2887,7 +3037,9 @@
     "brick_title": "Acute Lymphoblastic Leukemia/Lymphoma",
     "type": "lab",
     "buzzwords": [
-      "CBC with peripheral smear",
+      {
+        "img": "data/bloodlymph/images/32/bloodlymph-32-3.webp"
+      },
       "20% or more blasts",
       "bone marrow biopsy",
       "flow cytometry immunophenotyping",
@@ -2947,7 +3099,9 @@
       "stress and smoking",
       "demargination raises count",
       "corticosteroid effect",
-      "mature or immature types",
+      {
+        "img": "data/bloodlymph/images/33/bloodlymph-33-2.webp"
+      },
       "G-CSF driven"
     ]
   },
@@ -2977,7 +3131,9 @@
     "brick_title": "Benign Leukocytosis",
     "type": "disease",
     "buzzwords": [
-      "immature cells in blood",
+      {
+        "img": "data/bloodlymph/images/33/bloodlymph-33-4.webp"
+      },
       "nucleated red cells",
       "immature neutrophils too",
       "severe anemia response",
@@ -3000,7 +3156,9 @@
       "clear cytoplasmic spaces",
       "blue-gray inclusions",
       "vacuolization in sepsis",
-      "toxic granulation",
+      {
+        "img": "data/bloodlymph/images/33/bloodlymph-33-5.webp"
+      },
       "remnants of rough ER",
       "Dohle bodies"
     ]
@@ -3015,10 +3173,14 @@
     "buzzwords": [
       "lymphocytes >4000/mm3",
       "viral illness",
-      "reactive lymphocytes",
+      {
+        "img": "data/bloodlymph/images/33/bloodlymph-33-6.webp"
+      },
       "whooping cough",
       "wide normal in children",
-      "fried-egg Downey cells",
+      {
+        "img": "data/bloodlymph/images/33/bloodlymph-33-6-b.webp"
+      },
       "infectious mononucleosis",
       "EBV"
     ]
@@ -3145,7 +3307,9 @@
       "primary become secondary follicles",
       "germinal centers form",
       "tingible body macrophages",
-      "mantle zone preserved",
+      {
+        "img": "data/bloodlymph/images/34/bloodlymph-34-5-1.webp"
+      },
       "response to immune stimulus"
     ]
   },
@@ -3159,7 +3323,9 @@
     "buzzwords": [
       "benign nodal hyperplasia",
       "T-cell proliferation",
-      "paracortex expands",
+      {
+        "img": "data/bloodlymph/images/34/bloodlymph-34-6-1.webp"
+      },
       "interfollicular areas widen",
       "plasma cells and eosinophils",
       "viral infection response",
@@ -3198,8 +3364,12 @@
       "rodent reservoir",
       "endemic western US",
       "facultative intracellular",
-      "bipolar safety-pin stain",
-      "bubo lymphadenopathy",
+      {
+        "img": "data/bloodlymph/images/35/bloodlymph-35-1-stain.webp"
+      },
+      {
+        "img": "data/bloodlymph/images/35/bloodlymph-35-1-bubo.webp"
+      },
       "the plague"
     ]
   },
@@ -3215,8 +3385,12 @@
       "tiny infectious dose",
       "rabbit contact",
       "tick or deerfly bite",
-      "endemic Ozarks",
-      "ulcerating inoculation site",
+      {
+        "img": "data/bloodlymph/images/35/bloodlymph-35-2-map.webp"
+      },
+      {
+        "img": "data/bloodlymph/images/35/bloodlymph-35-2-ulcer.webp"
+      },
       "cysteine charcoal agar",
       "rabbit fever"
     ]
@@ -3232,10 +3406,14 @@
       "zoonotic infection",
       "cat scratch or bite",
       "regional lymphadenopathy",
-      "papule at inoculation",
+      {
+        "img": "data/bloodlymph/images/35/bloodlymph-35-3-papule.webp"
+      },
       "necrotizing granulomas",
       "bacillary angiomatosis if immunocompromised",
-      "vascular skin nodules",
+      {
+        "img": "data/bloodlymph/images/35/bloodlymph-35-3-ba.webp"
+      },
       "cat scratch disease"
     ]
   },
@@ -3247,11 +3425,15 @@
     "brick_title": "Leptospirosis and Lymphatic Filariasis",
     "type": "disease",
     "buzzwords": [
-      "spirochete infection",
+      {
+        "img": "data/bloodlymph/images/36/bloodlymph-36-1-fig1.webp"
+      },
       "contaminated water exposure",
       "tropical, after flooding",
       "myalgia in calves",
-      "conjunctival suffusion",
+      {
+        "img": "data/bloodlymph/images/36/bloodlymph-36-1-fig3.webp"
+      },
       "doxycycline treatment",
       "Weil disease",
       "Leptospira interrogans"
@@ -3269,9 +3451,13 @@
       "nocturnal microfilariae in blood",
       "blood smear at night",
       "lymphedema, hydrocele",
-      "elephantiasis",
+      {
+        "img": "data/bloodlymph/images/36/bloodlymph-36-2-fig8.webp"
+      },
       "diethylcarbamazine treatment",
-      "Giemsa-stained microfilaria",
+      {
+        "img": "data/bloodlymph/images/36/bloodlymph-36-2-fig10.webp"
+      },
       "Wuchereria bancrofti"
     ]
   },
@@ -3287,8 +3473,12 @@
       "transfer alkyl groups",
       "cell cycle independent",
       "kill cycling and resting cells",
-      "alkylate guanine N-7",
-      "cause DNA cross-links",
+      {
+        "img": "data/bloodlymph/images/37/bloodlymph-37-1-2.webp"
+      },
+      {
+        "img": "data/bloodlymph/images/37/bloodlymph-37-1.webp"
+      },
       "block DNA replication",
       "trigger apoptosis"
     ]
@@ -3434,7 +3624,9 @@
       "causes pulmonary fibrosis",
       "megaloblastic anemia",
       "rescued by leucovorin",
-      "inhibits dihydrofolate reductase"
+      {
+        "img": "data/bloodlymph/images/38/bloodlymph-38-2.webp"
+      }
     ]
   },
   {
@@ -3452,7 +3644,9 @@
       "myelosuppression worse with leucovorin",
       "dUMP cannot make dTMP",
       "5-FU",
-      "inhibits thymidylate synthase"
+      {
+        "img": "data/bloodlymph/images/38/bloodlymph-38-3.webp"
+      }
     ]
   },
   {
@@ -3518,7 +3712,9 @@
     "type": "drug",
     "buzzwords": [
       "cell-cycle specific",
-      "block DNA religation",
+      {
+        "img": "data/bloodlymph/images/39/bloodlymph-39-1-1.webp"
+      },
       "build up strand breaks",
       "myelosuppression",
       "cholinergic diarrhea",
@@ -3536,7 +3732,9 @@
     "type": "drug",
     "buzzwords": [
       "microtubule inhibitor",
-      "bind beta-tubulin",
+      {
+        "img": "data/bloodlymph/images/39/bloodlymph-39-2-1.webp"
+      },
       "block polymerization",
       "frozen mitotic spindle",
       "peripheral neuropathy",
@@ -3554,7 +3752,9 @@
     "type": "drug",
     "buzzwords": [
       "microtubule inhibitor",
-      "bind beta-tubulin",
+      {
+        "img": "data/bloodlymph/images/39/bloodlymph-39-3-1.webp"
+      },
       "block depolymerization",
       "stabilize microtubules",
       "peripheral neuropathy",
@@ -3613,7 +3813,9 @@
       "G2 and M specific",
       "minimal myelosuppression",
       "dose-limiting toxicity",
-      "interstitial pneumonitis",
+      {
+        "img": "data/bloodlymph/images/39/bloodlymph-39-6-1.webp"
+      },
       "pulmonary fibrosis"
     ]
   },
@@ -3629,9 +3831,13 @@
       "older adults",
       "absolute lymphocytosis",
       "peripheral lymphadenopathy",
-      "smudge cells",
+      {
+        "img": "data/bloodlymph/images/40/bloodlymph-40-1-1.webp"
+      },
       "CD5 and CD23 positive",
-      "Richter transformation",
+      {
+        "img": "data/bloodlymph/images/40/bloodlymph-40-1-2.webp"
+      },
       "ibrutinib treatment"
     ]
   },
@@ -3646,7 +3852,9 @@
       "indolent low-grade NHL",
       "waxing-waning lymphadenopathy",
       "nodules lacking mantle zones",
-      "centrocytes and centroblasts",
+      {
+        "img": "data/bloodlymph/images/40/bloodlymph-40-2-1.webp"
+      },
       "CD10 positive",
       "BCL-2 overexpressed",
       "t(14;18) translocation",
@@ -3684,7 +3892,9 @@
       "massive splenomegaly",
       "pancytopenia",
       "bone marrow fibrosis",
-      "cytoplasmic hairy projections",
+      {
+        "img": "data/bloodlymph/images/40/bloodlymph-40-4-1.webp"
+      },
       "BRAF mutation",
       "cladribine treatment"
     ]
@@ -3701,7 +3911,9 @@
       "older patients",
       "rapidly enlarging nodes",
       "B symptoms",
-      "diffuse large neoplastic cells",
+      {
+        "img": "data/bloodlymph/images/41/bloodlymph-41-1.webp"
+      },
       "fatal if untreated",
       "Richter transformation from CLL",
       "MYC, BCL2, BCL6"
@@ -3717,9 +3929,13 @@
     "buzzwords": [
       "fastest-doubling human cancer",
       "endemic, sporadic, immunodeficiency forms",
-      "jaw and facial mass",
+      {
+        "img": "data/bloodlymph/images/41/bloodlymph-41-2.webp"
+      },
       "ileocecal abdominal mass",
-      "starry-sky pattern",
+      {
+        "img": "data/bloodlymph/images/41/bloodlymph-41-2b.webp"
+      },
       "tingible-body macrophages",
       "EBV-associated",
       "t(8;14) MYC translocation"
@@ -3737,7 +3953,9 @@
       "high-stage at presentation",
       "hepatosplenomegaly",
       "bone marrow involvement",
-      "small-to-intermediate cells",
+      {
+        "img": "data/bloodlymph/images/41/bloodlymph-41-3.webp"
+      },
       "CD5 positive, CD23 negative",
       "cyclin D1 positive",
       "t(11;14) CCND1-IGH"
@@ -3774,8 +3992,12 @@
       "scaly red patches",
       "CD4+ helper T-cell origin",
       "epidermal infiltration",
-      "Pautrier microabscesses",
-      "cerebriform nuclei",
+      {
+        "img": "data/bloodlymph/images/42/bloodlymph-42-1-fig7.webp"
+      },
+      {
+        "img": "data/bloodlymph/images/42/bloodlymph-42-1-fig6.webp"
+      },
       "cutaneous T-cell lymphoma"
     ]
   },
@@ -3791,7 +4013,9 @@
       "diffuse itchy rash",
       "circulating malignant T-cells",
       "alopecia present",
-      "erythroderma >80% body",
+      {
+        "img": "data/bloodlymph/images/42/bloodlymph-42-2-fig5.webp"
+      },
       "diffuse lymphadenopathy",
       "cerebriform Sézary cells",
       "erythroderma + adenopathy triad"
@@ -3811,7 +4035,9 @@
       "elevated LDH",
       "CD3 CD4 CD25 positive",
       "endemic Japan, Caribbean",
-      "flower-shaped nuclei",
+      {
+        "img": "data/bloodlymph/images/42/bloodlymph-42-3-fig8.webp"
+      },
       "HTLV-1 associated"
     ]
   },
@@ -3827,7 +4053,9 @@
       "painless lymphadenopathy",
       "B symptoms",
       "mediastinal mass",
-      "bimodal age peaks",
+      {
+        "img": "data/bloodlymph/images/43/bloodlymph-43-1.webp"
+      },
       "contiguous nodal spread",
       "EBV associated",
       "Reed-Sternberg cells"
@@ -3845,7 +4073,9 @@
       "germinal B-cell origin",
       "binucleated",
       "central nucleoli",
-      "owl-eye appearance",
+      {
+        "img": "data/bloodlymph/images/43/bloodlymph-43-2.webp"
+      },
       "CD45 negative",
       "CD20 negative",
       "CD15 and CD30 positive"
@@ -3931,10 +4161,14 @@
     "brick_title": "Multiple Myeloma and Other Plasma Cell Disorders",
     "type": "disease",
     "buzzwords": [
-      "malignant plasma cells",
+      {
+        "img": "data/bloodlymph/images/44/bloodlymph-44-1-fig3.webp"
+      },
       "older adults",
       "anemia and fatigue",
-      "lytic bone lesions",
+      {
+        "img": "data/bloodlymph/images/44/bloodlymph-44-1-fig5.webp"
+      },
       "hypercalcemia",
       "renal failure",
       ">10% clonal marrow plasma cells",
@@ -3973,7 +4207,9 @@
       "clonal antibody product",
       "monoclonal protein",
       "narrow tall spike",
-      "confirmed by immunofixation",
+      {
+        "img": "data/bloodlymph/images/44/bloodlymph-44-3-fig7.webp"
+      },
       "SPEP M spike"
     ]
   },
@@ -4115,7 +4351,9 @@
       "targets CD20",
       "anti B-cell",
       "treats lymphoma",
-      "reduces B-cell proliferation",
+      {
+        "img": "data/bloodlymph/images/45/bloodlymph-45-5.webp"
+      },
       "infusion reactions",
       "reactivates hepatitis B",
       "screen HBV first"
@@ -4131,7 +4369,9 @@
     "buzzwords": [
       "proteasome inhibitor",
       "suffix -zomib",
-      "blocks 26S proteasome",
+      {
+        "img": "data/bloodlymph/images/45/bloodlymph-45-6.webp"
+      },
       "stabilizes IkB",
       "decreases NF-kB",
       "treats multiple myeloma",
@@ -4149,7 +4389,9 @@
     "buzzwords": [
       "myeloproliferative neoplasm",
       "neutrophil overproduction",
-      "leukocytosis with left shift",
+      {
+        "img": "data/bloodlymph/images/46/bloodlymph-46-1.webp"
+      },
       "basophilia",
       "splenomegaly",
       "age 50 to 60",
@@ -4187,7 +4429,9 @@
       "blasts under 5 percent",
       "low leukocyte alkaline phosphatase",
       "distinguishes from leukemoid reaction",
-      "bone marrow hypercellular",
+      {
+        "img": "data/bloodlymph/images/46/bloodlymph-46-3.webp"
+      },
       "peripheral smear staging",
       "FISH and karyotype",
       "RT-PCR for BCR::ABL"
@@ -4221,10 +4465,14 @@
     "buzzwords": [
       "myeloproliferative neoplasm",
       "too many RBCs",
-      "elevated Hgb and Hct",
+      {
+        "img": "data/bloodlymph/images/47/bloodlymph-47-1-b.webp"
+      },
       "low serum EPO",
       "aquagenic pruritus",
-      "erythromelalgia",
+      {
+        "img": "data/bloodlymph/images/47/bloodlymph-47-1-a.webp"
+      },
       "facial plethora",
       "JAK2 mutation"
     ]
@@ -4238,7 +4486,9 @@
     "type": "physiology",
     "buzzwords": [
       "tyrosine kinase gene",
-      "JAK-STAT signaling",
+      {
+        "img": "data/bloodlymph/images/47/bloodlymph-47-2.webp"
+      },
       "EPO-independent activation",
       "constitutively active",
       "drives RBC proliferation",
@@ -4277,7 +4527,9 @@
       "first-line phlebotomy",
       "keep hematocrit under 45%",
       "low-dose aspirin",
-      "blocks thromboxane A2",
+      {
+        "img": "data/bloodlymph/images/47/bloodlymph-47-4.webp"
+      },
       "cytoreduction if high-risk",
       "pegylated interferon alfa",
       "first-line hydroxyurea"
@@ -4350,7 +4602,9 @@
       "wide size variation",
       "mean platelet volume varies",
       "other cells normal",
-      "blood smear finding",
+      {
+        "img": "data/bloodlymph/images/48/bloodlymph-48-4.webp"
+      },
       "platelet anisocytosis",
       "anisocytosis of platelets"
     ]
@@ -4369,7 +4623,9 @@
       "late-stage fibrosis",
       "may evolve to AML",
       "done if no secondary cause",
-      "megakaryocyte hyperplasia",
+      {
+        "img": "data/bloodlymph/images/48/bloodlymph-48-5.webp"
+      },
       "normocellular with big megakaryocytes"
     ]
   },
@@ -4441,7 +4697,9 @@
       "collagen fibers fill marrow",
       "dry tap on aspiration",
       "marrow failure, cytopenias",
-      "reticulin-stained fibers",
+      {
+        "img": "data/bloodlymph/images/49/bloodlymph-49-2.webp"
+      },
       "collagen fibrosis"
     ]
   },
@@ -4475,7 +4733,9 @@
       "elevated WBC with left shift",
       "immature granulocyte precursors",
       "nucleated RBCs released early",
-      "teardrop-shaped red cells",
+      {
+        "img": "data/bloodlymph/images/49/bloodlymph-49-4.webp"
+      },
       "RBCs squeeze through fibrosis",
       "dacrocytes",
       "leukoerythroblastic reaction"
@@ -4529,7 +4789,9 @@
       "ineffective hematopoiesis",
       "cytopenias",
       "diagnosis of exclusion",
-      "dysplastic myeloid line",
+      {
+        "img": "data/bloodlymph/images/50/bloodlymph-50-1-1.webp"
+      },
       "<20% marrow blasts",
       "30% progress to AML",
       "del(5q) abnormality"
@@ -4565,7 +4827,9 @@
       "iron accumulation",
       "perinuclear iron granules",
       "ring around nucleus",
-      "Prussian blue stain",
+      {
+        "img": "data/bloodlymph/images/50/bloodlymph-50-3-1.webp"
+      },
       "marrow finding in MDS",
       "iron-laden mitochondria",
       "ringed sideroblast"
@@ -4653,7 +4917,9 @@
     "buzzwords": [
       "distinctive AML subtype",
       "abundant red granules",
-      "multiple Auer rods",
+      {
+        "img": "data/bloodlymph/images/51/bloodlymph-51-3.webp"
+      },
       "strongly associated with DIC",
       "PML-RARa fusion gene",
       "responds to retinoic acid",
@@ -4689,7 +4955,9 @@
     "buzzwords": [
       "complication of hyperleukocytosis",
       "WBC count over 100,000",
-      "increased blood viscosity",
+      {
+        "img": "data/bloodlymph/images/51/bloodlymph-51-5.webp"
+      },
       "neurologic symptoms",
       "pulmonary symptoms",
       "dyspnea and hypoxia",
@@ -4707,7 +4975,9 @@
     "buzzwords": [
       "traditional HSC source",
       "harvested under anesthesia",
-      "large-bore needles",
+      {
+        "img": "data/bloodlymph/images/52/bloodlymph-52-1-1.webp"
+      },
       "aspirated from bone",
       "very safe procedure",
       "minimal side effects",
@@ -4725,7 +4995,9 @@
     "buzzwords": [
       "requires mobilization",
       "normally rare in blood",
-      "collected via apheresis",
+      {
+        "img": "data/bloodlymph/images/52/bloodlymph-52-2-1.webp"
+      },
       "measured as CD34+ cells",
       "side effect: bone pain",
       "thrombopoietin, IL-3",
@@ -4744,7 +5016,9 @@
       "alternative donor option",
       "less strict HLA matching",
       "helps uncommon HLA haplotypes",
-      "helps mixed ethnicity patients",
+      {
+        "img": "data/bloodlymph/images/52/bloodlymph-52-3-1.webp"
+      },
       "collected at delivery",
       "small HSC number",
       "increased infection risk",
@@ -4854,7 +5128,9 @@
       "inflammation of the mouth",
       "dry mouth",
       "sore mouth",
-      "mouth ulcers",
+      {
+        "img": "data/bloodlymph/images/52/bloodlymph-52-9-1.webp"
+      },
       "managed with saline rinses",
       "most transplant recipients"
     ]
@@ -4909,7 +5185,9 @@
       "splenic artery from celiac",
       "splenic vein to portal",
       "gastrosplenic ligament",
-      "splenorenal ligament",
+      {
+        "img": "data/bloodlymph/images/53/bloodlymph-53-2.webp"
+      },
       "tail of pancreas adjacent"
     ]
   },
@@ -4925,7 +5203,9 @@
       "most of parenchyma",
       "open and closed circulation",
       "leaky sinusoids",
-      "stave cells line sinusoids",
+      {
+        "img": "data/bloodlymph/images/53/bloodlymph-53-3.webp"
+      },
       "slit-like openings",
       "tissue macrophages phagocytose",
       "cords of Billroth"
@@ -4946,7 +5226,9 @@
       "germinal center B cells",
       "marginal zone antigen exchange",
       "tags encapsulated bacteria",
-      "PALS rich in T cells"
+      {
+        "img": "data/bloodlymph/images/53/bloodlymph-53-4.webp"
+      }
     ]
   },
   {
@@ -4978,7 +5260,9 @@
       "absent splenic function",
       "loss of resident B cells",
       "post-splenectomy",
-      "sickle cell autoinfarction",
+      {
+        "img": "data/bloodlymph/images/54/bloodlymph-54-2.webp"
+      },
       "encapsulated organism sepsis",
       "vaccinate against encapsulated",
       "thrombocytosis and leukocytosis",
@@ -4993,7 +5277,9 @@
     "brick_title": "Disorders of the Spleen",
     "type": "disease",
     "buzzwords": [
-      "highly vascular organ injured",
+      {
+        "img": "data/bloodlymph/images/54/bloodlymph-54-3.webp"
+      },
       "blunt abdominal trauma",
       "LUQ pain, guarding",
       "hypovolemic shock",
@@ -5067,7 +5353,9 @@
     "buzzwords": [
       "packed with thymocytes",
       "septa divide lobules",
-      "dark basophilic outer cortex",
+      {
+        "img": "data/bloodlymph/images/55/bloodlymph-55-2.webp"
+      },
       "paler inner medulla",
       "epithelial reticular cells",
       "keratinized concentric whorls",
@@ -5124,7 +5412,9 @@
       "often asymptomatic",
       "adults over 40",
       "may cause SVC syndrome",
-      "potentially curable",
+      {
+        "img": "data/bloodlymph/images/55/bloodlymph-55-5.webp"
+      },
       "associated myasthenia gravis",
       "anti-AChR antibodies"
     ]
@@ -5158,7 +5448,9 @@
       "X-linked recessive",
       "hypoplastic thymus",
       "recurrent infections",
-      "eczema",
+      {
+        "img": "data/bloodlymph/images/55/bloodlymph-55-7.webp"
+      },
       "thrombocytopenia",
       "small platelets",
       "triad disorder",
@@ -5265,11 +5557,15 @@
     "buzzwords": [
       "recurrent fevers",
       "hemolytic anemia",
-      "Anopheles mosquito vector",
+      {
+        "img": "data/bloodlymph/images/57/bloodlymph-57-1.webp"
+      },
       "infects red blood cells",
       "Duffy antigen entry",
       "ring trophozoites",
-      "crescent-shaped gametocyte",
+      {
+        "img": "data/bloodlymph/images/57/bloodlymph-57-1b.webp"
+      },
       "Giemsa-stained smear"
     ]
   },
@@ -5288,7 +5584,9 @@
       "northeastern US",
       "co-infects with Lyme",
       "Babesia microti",
-      "Maltese cross tetrads"
+      {
+        "img": "data/bloodlymph/images/57/bloodlymph-57-2.webp"
+      }
     ]
   },
   {
@@ -5322,7 +5620,9 @@
       "blocks heme detoxification",
       "toxic free heme accumulates",
       "EKG changes",
-      "cardiomyopathy risk",
+      {
+        "img": "data/bloodlymph/images/58/bloodlymph-58-1.webp"
+      },
       "hemolysis in G6PD deficiency",
       "widespread resistance"
     ]
@@ -5358,7 +5658,9 @@
       "blocks mitochondrial electron transport",
       "inhibits parasite folate synthesis",
       "synergistic combination",
-      "transient transaminitis",
+      {
+        "img": "data/bloodlymph/images/58/bloodlymph-58-3.webp"
+      },
       "renally eliminated",
       "avoid in severe renal failure"
     ]
@@ -5375,7 +5677,9 @@
       "blocks 80S subunit",
       "interferes with heme digestion",
       "abnormal dreams",
-      "insomnia",
+      {
+        "img": "data/bloodlymph/images/58/bloodlymph-58-4.webp"
+      },
       "neuropsychiatric black box",
       "avoid in psychiatric disorders",
       "contraindicated in seizures"
@@ -5394,7 +5698,9 @@
       "targets exoerythrocytic stages",
       "prevents relapse",
       "QT prolongation",
-      "leukopenia",
+      {
+        "img": "data/bloodlymph/images/58/bloodlymph-58-5.webp"
+      },
       "hemolytic anemia in G6PD",
       "covers P. ovale and vivax"
     ]
@@ -5412,7 +5718,9 @@
       "cleaves endoperoxide bridge",
       "iron-mediated free radicals",
       "rapid parasite clearance",
-      "hypotension and dizziness",
+      {
+        "img": "data/bloodlymph/images/58/bloodlymph-58-6.webp"
+      },
       "IV artesunate for severe",
       "ACT regimen"
     ]
@@ -5479,9 +5787,13 @@
     "brick_title": "Hemorrhagic Viruses",
     "type": "disease",
     "buzzwords": [
-      "filamentous shape",
+      {
+        "img": "data/bloodlymph/images/59/bloodlymph-59-2.webp"
+      },
       "negative-sense ssRNA",
-      "bat reservoir",
+      {
+        "img": "data/bloodlymph/images/59/bloodlymph-59-2b.webp"
+      },
       "high healthcare-associated spread",
       "DIC and shock",
       "dry phase, wet phase",
@@ -5498,7 +5810,9 @@
     "type": "disease",
     "buzzwords": [
       "segmented circular genome",
-      "rodent reservoir",
+      {
+        "img": "data/bloodlymph/images/59/bloodlymph-59-3.webp"
+      },
       "aerosolized excreta inhaled",
       "long incubation period",
       "renal syndrome (HFRS)",
@@ -5536,11 +5850,15 @@
       "mosquito-borne hemorrhagic fever",
       "jaundice prominent",
       "Aedes aegypti vector",
-      "biphasic course",
+      {
+        "img": "data/bloodlymph/images/60/bloodlymph-60-2-fig3.webp"
+      },
       "toxic phase intoxication",
       "black vomit",
       "live attenuated vaccine",
-      "Councilman bodies"
+      {
+        "img": "data/bloodlymph/images/60/bloodlymph-60-2-fig4.webp"
+      }
     ]
   },
   {
@@ -5575,7 +5893,9 @@
       "symmetric polyarthritis",
       "debilitating joint pain",
       "chronic arthritis persists",
-      "to be contorted",
+      {
+        "img": "data/bloodlymph/images/60/bloodlymph-60-4-fig7.webp"
+      },
       "viral-like particle vaccine"
     ]
   },
@@ -5594,7 +5914,9 @@
       "vertical transplacental spread",
       "Guillain-Barre sequela",
       "congenital microcephaly",
-      "brain calcifications"
+      {
+        "img": "data/bloodlymph/images/60/bloodlymph-60-5-fig8.webp"
+      }
     ]
   }
 ]

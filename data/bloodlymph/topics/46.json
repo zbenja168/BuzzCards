@@ -9,7 +9,7 @@
     "buzzwords": [
       "myeloproliferative neoplasm",
       "neutrophil overproduction",
-      "leukocytosis with left shift",
+      { "img": "data/bloodlymph/images/46/bloodlymph-46-1.webp" },
       "basophilia",
       "splenomegaly",
       "age 50 to 60",
@@ -47,7 +47,7 @@
       "blasts under 5 percent",
       "low leukocyte alkaline phosphatase",
       "distinguishes from leukemoid reaction",
-      "bone marrow hypercellular",
+      { "img": "data/bloodlymph/images/46/bloodlymph-46-3.webp" },
       "peripheral smear staging",
       "FISH and karyotype",
       "RT-PCR for BCR::ABL"

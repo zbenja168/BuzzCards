@@ -12,7 +12,7 @@
       "active at body temperature",
       "extravascular hemolysis",
       "splenomegaly",
-      "spherocytes on smear",
+      { "img": "data/bloodlymph/images/14/bloodlymph-14-1.webp" },
       "IgG-mediated",
       "drug-induced (penicillins)"
     ]
@@ -31,8 +31,8 @@
       "complement activation",
       "intravascular hemolysis",
       "Mycoplasma, mononucleosis trigger",
-      "cold agglutinins",
-      "IgM pentamer-mediated"
+      { "img": "data/bloodlymph/images/14/bloodlymph-14-2.webp" },
+      { "img": "data/bloodlymph/images/14/bloodlymph-14-2b.webp" }
     ]
   },
   {
@@ -45,7 +45,7 @@
     "buzzwords": [
       "detects RBC-bound antibody",
       "uses antihuman immunoglobulin",
-      "agglutinates coated RBCs",
+      { "img": "data/bloodlymph/images/14/bloodlymph-14-3.webp" },
       "positive in AHA",
       "differentiates autoimmune hemolysis",
       "detects warm and cold",

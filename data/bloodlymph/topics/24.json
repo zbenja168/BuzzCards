@@ -101,7 +101,7 @@
       "vitamin K antagonist",
       "monitored with PT/INR",
       "delayed onset, long half-life",
-      "early hypercoagulable state",
+      { "img": "data/bloodlymph/images/24/bloodlymph-24-6-1.webp" },
       "teratogen, avoid pregnancy",
       "metabolized by CYP2C9",
       "warfarin skin necrosis"
