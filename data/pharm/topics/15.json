@@ -100,7 +100,7 @@
       "dosing tailored to half-life",
       "short half-life dosed evening",
       "long half-life any time",
-      "lipophilic vs hydrophilic",
+      { "img": "data/pharm/images/15/pharm-15-6-1.webp" },
       "rosuvastatin is hydrophilic",
       "minimal hepatic metabolism pitavastatin",
       "safe in hepatic dysfunction",

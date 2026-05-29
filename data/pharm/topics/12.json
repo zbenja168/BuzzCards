@@ -98,11 +98,11 @@
     "type": "physiology",
     "buzzwords": [
       "GPCR family",
-      "alpha and beta subtypes",
+      { "img": "data/pharm/images/12/pharm-12-6.webp" },
       "respond to norepinephrine",
       "all alpha1 are Gq",
-      "all beta are Gs",
       "alpha2 is Gi",
+      "all beta are Gs",
       "beta1 raises heart rate",
       "alpha1 causes vasoconstriction"
     ]
@@ -118,8 +118,8 @@
       "respond to acetylcholine",
       "rest and digest",
       "muscarinic and nicotinic types",
+      { "img": "data/pharm/images/12/pharm-12-7.webp" },
       "nicotinic are ligand-gated channels",
-      "M1 to M5 subtypes",
       "no muscarinic Gs receptor",
       "M2 and M5 are Gi",
       "M2 slows the heart"

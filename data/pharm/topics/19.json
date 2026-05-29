@@ -8,7 +8,7 @@
     "type": "physiology",
     "buzzwords": [
       "parietal cell physiology",
-      "three stimuli",
+      { "img": "data/pharm/images/19/pharm-19-1.webp" },
       "ACh, histamine, gastrin",
       "ACh binds M3 receptor",
       "gastrin from G cells",

@@ -13,7 +13,7 @@
       "decreased secretions",
       "slowed GI motility",
       "antimuscarinics",
-      "M3 receptor antagonists",
+      { "img": "data/pharm/images/26/pharm-26-1.webp" },
       "muscarinic antagonists"
     ]
   },

@@ -61,7 +61,7 @@
     "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
     "type": "lab",
     "buzzwords": [
-      "dose vs effect plot",
+      { "img": "data/pharm/images/5/pharm-5-4.webp" },
       "linear scale is hyperbolic",
       "plateaus at receptor saturation",
       "semilog scale sigmoidal",

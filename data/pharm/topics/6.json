@@ -47,7 +47,7 @@
       "all-or-none outcome",
       "present or absent effect",
       "proportion responding",
-      "frequency curve, Gaussian",
+      { "img": "data/pharm/images/6/pharm-6-3.webp" },
       "cumulative gives sigmoid",
       "dose in mg/kg",
       "defines ED50"
@@ -102,7 +102,7 @@
       "from animal preclinical studies",
       "lethal in 1% of animals",
       "effective in 99%",
-      "guides human starting dose",
+      { "img": "data/pharm/images/6/pharm-6-6.webp" },
       "LD1 numerator",
       "MOS = LD1 / ED99"
     ]

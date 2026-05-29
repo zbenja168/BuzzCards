@@ -9,7 +9,7 @@
     "buzzwords": [
       "treats erectile dysfunction",
       "enhances smooth muscle relaxation",
-      "increases penile blood flow",
+      { "img": "data/pharm/images/22/pharm-22-1-1.webp" },
       "raises cGMP levels",
       "blocks cGMP breakdown",
       "also treats pulmonary hypertension",

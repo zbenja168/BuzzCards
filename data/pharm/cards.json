@@ -81,7 +81,9 @@
     "buzzwords": [
       "lowers oral bioavailability",
       "occurs before circulation",
-      "hepatic portal vein delivery",
+      {
+        "img": "data/pharm/images/1/pharm-1-5.webp"
+      },
       "metabolized by liver enzymes",
       "up to 90 percent lost",
       "bypassed by sublingual route",
@@ -117,7 +119,9 @@
     "buzzwords": [
       "modification reactions",
       "usually inactivates drug",
-      "oxidation, reduction, hydrolysis",
+      {
+        "img": "data/pharm/images/2/pharm-2-1-1.webp"
+      },
       "smooth ER of hepatocytes",
       "can activate prodrugs",
       "heme cofactor",
@@ -191,7 +195,9 @@
       "drug exits in urine",
       "drug must be unbound",
       "glomerular filtration and tubular secretion",
-      "uses organic anion transporters",
+      {
+        "img": "data/pharm/images/2/pharm-2-5-1.webp"
+      },
       "secretes penicillin, cephalosporins, methotrexate",
       "blocked by uricosuric agent",
       "probenecid inhibits OATs"
@@ -245,7 +251,9 @@
       "nonpolar",
       "lipophilic",
       "lipid-loving",
-      "crosses membranes easily",
+      {
+        "img": "data/pharm/images/3/pharm-3-2.webp"
+      },
       "passes lipid bilayer",
       "favored for absorption",
       "HA acid or B base"
@@ -263,7 +271,9 @@
       "polar",
       "hydrophilic",
       "water-loving",
-      "cannot cross bilayer",
+      {
+        "img": "data/pharm/images/3/pharm-3-3.webp"
+      },
       "trapped in compartments",
       "stays vascular and interstitial",
       "A-minus or BH-plus"
@@ -423,7 +433,9 @@
     "buzzwords": [
       "loss of cytoprotection",
       "peptic ulcer disease",
-      "reduced GFR",
+      {
+        "img": "data/pharm/images/4/pharm-4-6-1.webp"
+      },
       "acute kidney injury",
       "raises blood pressure",
       "bleeding with warfarin",
@@ -493,7 +505,9 @@
     "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
     "type": "lab",
     "buzzwords": [
-      "dose vs effect plot",
+      {
+        "img": "data/pharm/images/5/pharm-5-4.webp"
+      },
       "linear scale is hyperbolic",
       "plateaus at receptor saturation",
       "semilog scale sigmoidal",
@@ -623,7 +637,9 @@
       "all-or-none outcome",
       "present or absent effect",
       "proportion responding",
-      "frequency curve, Gaussian",
+      {
+        "img": "data/pharm/images/6/pharm-6-3.webp"
+      },
       "cumulative gives sigmoid",
       "dose in mg/kg",
       "defines ED50"
@@ -678,7 +694,9 @@
       "from animal preclinical studies",
       "lethal in 1% of animals",
       "effective in 99%",
-      "guides human starting dose",
+      {
+        "img": "data/pharm/images/6/pharm-6-6.webp"
+      },
       "LD1 numerator",
       "MOS = LD1 / ED99"
     ]
@@ -695,7 +713,9 @@
       "antipyretic",
       "non-selective COX inhibitor",
       "acetylsalicylic acid",
-      "acetylates serine",
+      {
+        "img": "data/pharm/images/7/pharm-7-1.webp"
+      },
       "irreversible inhibition",
       "high dose blocks COX-2",
       "converts COX-1 to lipoxygenase"
@@ -802,7 +822,9 @@
       "constant amount per time",
       "rate independent of concentration",
       "saturable elimination",
-      "linear concentration-time plot",
+      {
+        "img": "data/pharm/images/8/pharm-8-2.webp"
+      },
       "no true half-life",
       "ethanol metabolism",
       "phenytoin and aspirin",
@@ -820,7 +842,9 @@
       "most common pattern",
       "constant fraction per time",
       "rate proportional to concentration",
-      "exponential decay curve",
+      {
+        "img": "data/pharm/images/8/pharm-8-3.webp"
+      },
       "linear when plotted as ln",
       "has constant half-life",
       "higher concentration faster elimination",
@@ -876,7 +900,9 @@
       "dosing rate over clearance",
       "higher dose raises level",
       "longer interval lowers level",
-      "peak and trough oscillation",
+      {
+        "img": "data/pharm/images/8/pharm-8-6.webp"
+      },
       "attained after 4-5 half-lives",
       "Css"
     ]
@@ -890,7 +916,9 @@
     "type": "physiology",
     "buzzwords": [
       "larger initial dose",
-      "reaches Css faster",
+      {
+        "img": "data/pharm/images/9/pharm-9-1.webp"
+      },
       "depends on Vd",
       "needed for large Vd drugs",
       "achieves effective minimum quickly",
@@ -931,7 +959,9 @@
       "above minimum effective concentration",
       "doubling infusion rate doubles it",
       "loading dose reaches it fast",
-      "regular dosing builds it slowly",
+      {
+        "img": "data/pharm/images/9/pharm-9-3.webp"
+      },
       "denoted Css"
     ]
   },
@@ -1054,7 +1084,9 @@
       "nonopioid analgesic",
       "antipyretic",
       "weak anti-inflammatory",
-      "central COX inhibition",
+      {
+        "img": "data/pharm/images/11/pharm-11-1.webp"
+      },
       "raises pain threshold",
       "not an NSAID",
       "no antiplatelet effect",
@@ -1072,7 +1104,9 @@
       "hepatic metabolism",
       "half-life ~2 hours",
       "mostly phase II conjugation",
-      "glucuronidation and sulfation",
+      {
+        "img": "data/pharm/images/11/pharm-11-2.webp"
+      },
       "minor P450 route",
       "toxic intermediate normally detoxified",
       "CYP2E1 forms NAPQI",
@@ -1092,7 +1126,9 @@
       "glutathione depleted",
       "hepatocyte protein adducts",
       "centrilobular necrosis",
-      "rising transaminases",
+      {
+        "img": "data/pharm/images/11/pharm-11-3.webp"
+      },
       "alcohol and isoniazid worsen it",
       "toxic NAPQI metabolite"
     ]
@@ -1214,11 +1250,13 @@
     "type": "physiology",
     "buzzwords": [
       "GPCR family",
-      "alpha and beta subtypes",
+      {
+        "img": "data/pharm/images/12/pharm-12-6.webp"
+      },
       "respond to norepinephrine",
       "all alpha1 are Gq",
-      "all beta are Gs",
       "alpha2 is Gi",
+      "all beta are Gs",
       "beta1 raises heart rate",
       "alpha1 causes vasoconstriction"
     ]
@@ -1234,8 +1272,10 @@
       "respond to acetylcholine",
       "rest and digest",
       "muscarinic and nicotinic types",
+      {
+        "img": "data/pharm/images/12/pharm-12-7.webp"
+      },
       "nicotinic are ligand-gated channels",
-      "M1 to M5 subtypes",
       "no muscarinic Gs receptor",
       "M2 and M5 are Gi",
       "M2 slows the heart"
@@ -1269,7 +1309,9 @@
     "buzzwords": [
       "regulates salt and water",
       "expands plasma volume",
-      "acts in collecting duct",
+      {
+        "img": "data/pharm/images/13/pharm-13-2-1.webp"
+      },
       "increases sodium reabsorption",
       "drives potassium secretion",
       "binds mineralocorticoid receptor",
@@ -1340,7 +1382,9 @@
     "type": "drug",
     "buzzwords": [
       "dose-dependent toxicity",
-      "skin thinning and bruising",
+      {
+        "img": "data/pharm/images/13/pharm-13-6-1.webp"
+      },
       "psychiatric disturbances",
       "increased GI ulcer risk",
       "adrenal suppression on withdrawal",
@@ -1468,7 +1512,9 @@
       "dosing tailored to half-life",
       "short half-life dosed evening",
       "long half-life any time",
-      "lipophilic vs hydrophilic",
+      {
+        "img": "data/pharm/images/15/pharm-15-6-1.webp"
+      },
       "rosuvastatin is hydrophilic",
       "minimal hepatic metabolism pitavastatin",
       "safe in hepatic dysfunction",
@@ -1489,7 +1535,9 @@
       "alpha2 presynaptic",
       "alpha1 is Gq",
       "alpha2 is Gi",
-      "Gq raises IP3 and Ca",
+      {
+        "img": "data/pharm/images/16/pharm-16-1-1.webp"
+      },
       "Gi lowers cAMP and PKA"
     ]
   },
@@ -1594,7 +1642,9 @@
       "ends in -osin",
       "uroselective α1-blocker",
       "treats BPH symptoms",
-      "relaxes prostatic urethra",
+      {
+        "img": "data/pharm/images/17/pharm-17-2.webp"
+      },
       "lowest orthostatic risk",
       "highest IFIS risk",
       "α1A receptor selective",
@@ -1664,7 +1714,9 @@
     "type": "physiology",
     "buzzwords": [
       "parietal cell physiology",
-      "three stimuli",
+      {
+        "img": "data/pharm/images/19/pharm-19-1.webp"
+      },
       "ACh, histamine, gastrin",
       "ACh binds M3 receptor",
       "gastrin from G cells",
@@ -1790,7 +1842,9 @@
     "type": "drug",
     "buzzwords": [
       "bronchodilator",
-      "relaxes bronchiolar smooth muscle",
+      {
+        "img": "data/pharm/images/20/pharm-20-3.webp"
+      },
       "treats asthma and COPD",
       "activates Na/K-ATPase, shifts K in",
       "used off-label for hyperkalemia",
@@ -1935,7 +1989,9 @@
     "buzzwords": [
       "treats erectile dysfunction",
       "enhances smooth muscle relaxation",
-      "increases penile blood flow",
+      {
+        "img": "data/pharm/images/22/pharm-22-1-1.webp"
+      },
       "raises cGMP levels",
       "blocks cGMP breakdown",
       "also treats pulmonary hypertension",
@@ -2027,7 +2083,9 @@
       "block adrenergic receptors",
       "antagonize SNS",
       "negative inotropy",
-      "negative chronotropy",
+      {
+        "img": "data/pharm/images/23/pharm-23-1.webp"
+      },
       "lower heart rate",
       "drug names end in -olol",
       "β-adrenoceptor blockers"
@@ -2152,7 +2210,9 @@
       "block Ca2+ influx",
       "antihypertensive class",
       "target L-type channels",
-      "voltage-gated channel block",
+      {
+        "img": "data/pharm/images/24/pharm-24-1.webp"
+      },
       "reduce smooth muscle tone",
       "CYP3A4 substrates",
       "DHP vs non-DHP",
@@ -2172,7 +2232,9 @@
       "first-line antihypertensives",
       "minimal cardiac effect",
       "cause reflex tachycardia",
-      "peripheral edema ADR",
+      {
+        "img": "data/pharm/images/24/pharm-24-2.webp"
+      },
       "'-dipine' suffix",
       "amlodipine, nifedipine"
     ]
@@ -2258,7 +2320,9 @@
     "type": "physiology",
     "buzzwords": [
       "GPCR family",
-      "subtypes M1-M5",
+      {
+        "img": "data/pharm/images/25/pharm-25-1.webp"
+      },
       "bind acetylcholine",
       "M2 lowers cAMP",
       "M2 slows heart rate",
@@ -2353,7 +2417,9 @@
       "decreased secretions",
       "slowed GI motility",
       "antimuscarinics",
-      "M3 receptor antagonists",
+      {
+        "img": "data/pharm/images/26/pharm-26-1.webp"
+      },
       "muscarinic antagonists"
     ]
   },
@@ -2461,7 +2527,9 @@
       "causes vasodilation",
       "triggers itching",
       "released by allergens",
-      "stored in mast cells",
+      {
+        "img": "data/pharm/images/27/pharm-27-1.webp"
+      },
       "stored in basophils"
     ]
   },
@@ -2495,7 +2563,9 @@
       "cross blood-brain barrier",
       "cause drowsiness",
       "used for motion sickness",
-      "antimuscarinic side effects",
+      {
+        "img": "data/pharm/images/27/pharm-27-3.webp"
+      },
       "dry mouth, urinary retention",
       "off-label sleep aid",
       "diphenhydramine"
@@ -2528,7 +2598,9 @@
     "type": "drug",
     "buzzwords": [
       "indirect cholinomimetic",
-      "blocks ACh breakdown",
+      {
+        "img": "data/pharm/images/28/pharm-28-1-1.webp"
+      },
       "raises synaptic ACh",
       "activates PNS",
       "effect is temporary",
@@ -2600,7 +2672,9 @@
     "type": "physiology",
     "buzzwords": [
       "cholinergic excess",
-      "muscarinic overstimulation",
+      {
+        "img": "data/pharm/images/28/pharm-28-5-1.webp"
+      },
       "miosis, bradycardia",
       "diarrhea, urination",
       "bronchospasm, lacrimation",
@@ -2729,7 +2803,9 @@
       "slowed shallow breathing",
       "respiratory depression",
       "bradycardia and hypotension",
-      "blue fingernails and lips",
+      {
+        "img": "data/pharm/images/29/pharm-29-5-1.webp"
+      },
       "pinpoint pupils",
       "may need ACLS",
       "opioid overdose"
@@ -2853,7 +2929,9 @@
     "buzzwords": [
       "high affinity binding",
       "lower efficacy",
-      "partial receptor activation",
+      {
+        "img": "data/pharm/images/30/pharm-30-5.webp"
+      },
       "ceiling effect at high dose",
       "antagonist-like at high dose",
       "limits the high",
@@ -2930,7 +3008,9 @@
       "ACE acts in lungs",
       "Ang II causes vasoconstriction",
       "adrenal releases aldosterone",
-      "stepwise hormonal cascade"
+      {
+        "img": "data/pharm/images/31/pharm-31-3.webp"
+      }
     ]
   },
   {
@@ -2960,7 +3040,9 @@
     "type": "disease",
     "buzzwords": [
       "rare serious complication",
-      "lip and tongue swelling",
+      {
+        "img": "data/pharm/images/31/pharm-31-5.webp"
+      },
       "airway obstruction feared",
       "can be fatal",
       "higher risk in Black patients",
@@ -2981,7 +3063,9 @@
       "acute kidney injury risk",
       "prerenal AKI mechanism",
       "decreases GFR",
-      "loss of efferent constriction",
+      {
+        "img": "data/pharm/images/31/pharm-31-6.webp"
+      },
       "worse with volume depletion",
       "avoid in bilateral RAS",
       "contraindicated in pregnancy"

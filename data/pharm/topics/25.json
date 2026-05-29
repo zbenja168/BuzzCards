@@ -8,7 +8,7 @@
     "type": "physiology",
     "buzzwords": [
       "GPCR family",
-      "subtypes M1-M5",
+      { "img": "data/pharm/images/25/pharm-25-1.webp" },
       "bind acetylcholine",
       "M2 lowers cAMP",
       "M2 slows heart rate",

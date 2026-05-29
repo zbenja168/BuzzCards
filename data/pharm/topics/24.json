@@ -10,7 +10,7 @@
       "block Ca2+ influx",
       "antihypertensive class",
       "target L-type channels",
-      "voltage-gated channel block",
+      { "img": "data/pharm/images/24/pharm-24-1.webp" },
       "reduce smooth muscle tone",
       "CYP3A4 substrates",
       "DHP vs non-DHP",
@@ -30,7 +30,7 @@
       "first-line antihypertensives",
       "minimal cardiac effect",
       "cause reflex tachycardia",
-      "peripheral edema ADR",
+      { "img": "data/pharm/images/24/pharm-24-2.webp" },
       "'-dipine' suffix",
       "amlodipine, nifedipine"
     ]

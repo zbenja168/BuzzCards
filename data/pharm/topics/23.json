@@ -11,7 +11,7 @@
       "block adrenergic receptors",
       "antagonize SNS",
       "negative inotropy",
-      "negative chronotropy",
+      { "img": "data/pharm/images/23/pharm-23-1.webp" },
       "lower heart rate",
       "drug names end in -olol",
       "β-adrenoceptor blockers"

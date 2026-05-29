@@ -9,7 +9,7 @@
     "buzzwords": [
       "modification reactions",
       "usually inactivates drug",
-      "oxidation, reduction, hydrolysis",
+      { "img": "data/pharm/images/2/pharm-2-1-1.webp" },
       "smooth ER of hepatocytes",
       "can activate prodrugs",
       "heme cofactor",
@@ -83,7 +83,7 @@
       "drug exits in urine",
       "drug must be unbound",
       "glomerular filtration and tubular secretion",
-      "uses organic anion transporters",
+      { "img": "data/pharm/images/2/pharm-2-5-1.webp" },
       "secretes penicillin, cephalosporins, methotrexate",
       "blocked by uricosuric agent",
       "probenecid inhibits OATs"

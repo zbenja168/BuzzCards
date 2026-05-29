@@ -27,7 +27,7 @@
     "buzzwords": [
       "regulates salt and water",
       "expands plasma volume",
-      "acts in collecting duct",
+      { "img": "data/pharm/images/13/pharm-13-2-1.webp" },
       "increases sodium reabsorption",
       "drives potassium secretion",
       "binds mineralocorticoid receptor",
@@ -98,7 +98,7 @@
     "type": "drug",
     "buzzwords": [
       "dose-dependent toxicity",
-      "skin thinning and bruising",
+      { "img": "data/pharm/images/13/pharm-13-6-1.webp" },
       "psychiatric disturbances",
       "increased GI ulcer risk",
       "adrenal suppression on withdrawal",

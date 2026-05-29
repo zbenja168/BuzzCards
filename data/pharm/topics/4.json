@@ -99,7 +99,7 @@
     "buzzwords": [
       "loss of cytoprotection",
       "peptic ulcer disease",
-      "reduced GFR",
+      { "img": "data/pharm/images/4/pharm-4-6-1.webp" },
       "acute kidney injury",
       "raises blood pressure",
       "bleeding with warfarin",

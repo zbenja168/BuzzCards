@@ -13,7 +13,7 @@
       "alpha2 presynaptic",
       "alpha1 is Gq",
       "alpha2 is Gi",
-      "Gq raises IP3 and Ca",
+      { "img": "data/pharm/images/16/pharm-16-1-1.webp" },
       "Gi lowers cAMP and PKA"
     ]
   },

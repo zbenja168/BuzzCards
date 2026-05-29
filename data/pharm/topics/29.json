@@ -83,7 +83,7 @@
       "slowed shallow breathing",
       "respiratory depression",
       "bradycardia and hypotension",
-      "blue fingernails and lips",
+      { "img": "data/pharm/images/29/pharm-29-5-1.webp" },
       "pinpoint pupils",
       "may need ACLS",
       "opioid overdose"

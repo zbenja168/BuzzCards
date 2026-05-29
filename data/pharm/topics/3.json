@@ -29,7 +29,7 @@
       "nonpolar",
       "lipophilic",
       "lipid-loving",
-      "crosses membranes easily",
+      { "img": "data/pharm/images/3/pharm-3-2.webp" },
       "passes lipid bilayer",
       "favored for absorption",
       "HA acid or B base"
@@ -47,7 +47,7 @@
       "polar",
       "hydrophilic",
       "water-loving",
-      "cannot cross bilayer",
+      { "img": "data/pharm/images/3/pharm-3-3.webp" },
       "trapped in compartments",
       "stays vascular and interstitial",
       "A-minus or BH-plus"

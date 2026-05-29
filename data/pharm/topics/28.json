@@ -8,7 +8,7 @@
     "type": "drug",
     "buzzwords": [
       "indirect cholinomimetic",
-      "blocks ACh breakdown",
+      { "img": "data/pharm/images/28/pharm-28-1-1.webp" },
       "raises synaptic ACh",
       "activates PNS",
       "effect is temporary",
@@ -80,7 +80,7 @@
     "type": "physiology",
     "buzzwords": [
       "cholinergic excess",
-      "muscarinic overstimulation",
+      { "img": "data/pharm/images/28/pharm-28-5-1.webp" },
       "miosis, bradycardia",
       "diarrhea, urination",
       "bronchospasm, lacrimation",

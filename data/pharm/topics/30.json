@@ -81,7 +81,7 @@
     "buzzwords": [
       "high affinity binding",
       "lower efficacy",
-      "partial receptor activation",
+      { "img": "data/pharm/images/30/pharm-30-5.webp" },
       "ceiling effect at high dose",
       "antagonist-like at high dose",
       "limits the high",

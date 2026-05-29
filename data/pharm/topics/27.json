@@ -13,7 +13,7 @@
       "causes vasodilation",
       "triggers itching",
       "released by allergens",
-      "stored in mast cells",
+      { "img": "data/pharm/images/27/pharm-27-1.webp" },
       "stored in basophils"
     ]
   },
@@ -47,7 +47,7 @@
       "cross blood-brain barrier",
       "cause drowsiness",
       "used for motion sickness",
-      "antimuscarinic side effects",
+      { "img": "data/pharm/images/27/pharm-27-3.webp" },
       "dry mouth, urinary retention",
       "off-label sleep aid",
       "diphenhydramine"

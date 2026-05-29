@@ -81,7 +81,7 @@
     "buzzwords": [
       "lowers oral bioavailability",
       "occurs before circulation",
-      "hepatic portal vein delivery",
+      { "img": "data/pharm/images/1/pharm-1-5.webp" },
       "metabolized by liver enzymes",
       "up to 90 percent lost",
       "bypassed by sublingual route",

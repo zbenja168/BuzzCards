@@ -11,7 +11,7 @@
       "antipyretic",
       "non-selective COX inhibitor",
       "acetylsalicylic acid",
-      "acetylates serine",
+      { "img": "data/pharm/images/7/pharm-7-1.webp" },
       "irreversible inhibition",
       "high dose blocks COX-2",
       "converts COX-1 to lipoxygenase"

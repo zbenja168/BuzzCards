@@ -44,7 +44,7 @@
     "type": "drug",
     "buzzwords": [
       "bronchodilator",
-      "relaxes bronchiolar smooth muscle",
+      { "img": "data/pharm/images/20/pharm-20-3.webp" },
       "treats asthma and COPD",
       "activates Na/K-ATPase, shifts K in",
       "used off-label for hyperkalemia",

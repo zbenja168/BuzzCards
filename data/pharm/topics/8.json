@@ -28,7 +28,7 @@
       "constant amount per time",
       "rate independent of concentration",
       "saturable elimination",
-      "linear concentration-time plot",
+      { "img": "data/pharm/images/8/pharm-8-2.webp" },
       "no true half-life",
       "ethanol metabolism",
       "phenytoin and aspirin",
@@ -46,7 +46,7 @@
       "most common pattern",
       "constant fraction per time",
       "rate proportional to concentration",
-      "exponential decay curve",
+      { "img": "data/pharm/images/8/pharm-8-3.webp" },
       "linear when plotted as ln",
       "has constant half-life",
       "higher concentration faster elimination",
@@ -102,7 +102,7 @@
       "dosing rate over clearance",
       "higher dose raises level",
       "longer interval lowers level",
-      "peak and trough oscillation",
+      { "img": "data/pharm/images/8/pharm-8-6.webp" },
       "attained after 4-5 half-lives",
       "Css"
     ]

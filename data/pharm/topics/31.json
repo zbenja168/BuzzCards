@@ -50,7 +50,7 @@
       "ACE acts in lungs",
       "Ang II causes vasoconstriction",
       "adrenal releases aldosterone",
-      "stepwise hormonal cascade"
+      { "img": "data/pharm/images/31/pharm-31-3.webp" }
     ]
   },
   {
@@ -80,7 +80,7 @@
     "type": "disease",
     "buzzwords": [
       "rare serious complication",
-      "lip and tongue swelling",
+      { "img": "data/pharm/images/31/pharm-31-5.webp" },
       "airway obstruction feared",
       "can be fatal",
       "higher risk in Black patients",
@@ -101,7 +101,7 @@
       "acute kidney injury risk",
       "prerenal AKI mechanism",
       "decreases GFR",
-      "loss of efferent constriction",
+      { "img": "data/pharm/images/31/pharm-31-6.webp" },
       "worse with volume depletion",
       "avoid in bilateral RAS",
       "contraindicated in pregnancy"

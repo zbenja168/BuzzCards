@@ -8,7 +8,7 @@
     "type": "physiology",
     "buzzwords": [
       "larger initial dose",
-      "reaches Css faster",
+      { "img": "data/pharm/images/9/pharm-9-1.webp" },
       "depends on Vd",
       "needed for large Vd drugs",
       "achieves effective minimum quickly",
@@ -49,7 +49,7 @@
       "above minimum effective concentration",
       "doubling infusion rate doubles it",
       "loading dose reaches it fast",
-      "regular dosing builds it slowly",
+      { "img": "data/pharm/images/9/pharm-9-3.webp" },
       "denoted Css"
     ]
   }

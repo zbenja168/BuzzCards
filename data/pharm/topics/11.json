@@ -10,7 +10,7 @@
       "nonopioid analgesic",
       "antipyretic",
       "weak anti-inflammatory",
-      "central COX inhibition",
+      { "img": "data/pharm/images/11/pharm-11-1.webp" },
       "raises pain threshold",
       "not an NSAID",
       "no antiplatelet effect",
@@ -28,7 +28,7 @@
       "hepatic metabolism",
       "half-life ~2 hours",
       "mostly phase II conjugation",
-      "glucuronidation and sulfation",
+      { "img": "data/pharm/images/11/pharm-11-2.webp" },
       "minor P450 route",
       "toxic intermediate normally detoxified",
       "CYP2E1 forms NAPQI",
@@ -48,7 +48,7 @@
       "glutathione depleted",
       "hepatocyte protein adducts",
       "centrilobular necrosis",
-      "rising transaminases",
+      { "img": "data/pharm/images/11/pharm-11-3.webp" },
       "alcohol and isoniazid worsen it",
       "toxic NAPQI metabolite"
     ]
