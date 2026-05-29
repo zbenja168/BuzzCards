@@ -1,0 +1,5186 @@
+[
+  {
+    "id": "respi-1-1",
+    "title": "ARDS",
+    "course": "respi",
+    "brick_id": "1",
+    "brick_title": "Acute Respiratory Distress Syndrome",
+    "type": "disease",
+    "buzzwords": [
+      "severe inflammatory lung injury",
+      "capillary leak",
+      "noncardiogenic pulmonary edema",
+      "refractory hypoxemia",
+      "sudden-onset respiratory distress",
+      "complicates sepsis, pneumonia",
+      "bilateral diffuse infiltrates",
+      "40-50% mortality"
+    ]
+  },
+  {
+    "id": "respi-1-2",
+    "title": "Diffuse Alveolar Damage",
+    "course": "respi",
+    "brick_id": "1",
+    "brick_title": "Acute Respiratory Distress Syndrome",
+    "type": "disease",
+    "buzzwords": [
+      "histologic hallmark of ARDS",
+      "three pathologic stages",
+      "exudative, fibroproliferative, fibrotic",
+      "endothelial and alveolar injury",
+      "lost type 2 surfactant",
+      "alveolar collapse",
+      "leaked protein-rich fluid",
+      "hyaline membranes"
+    ]
+  },
+  {
+    "id": "respi-1-3",
+    "title": "Berlin Criteria",
+    "course": "respi",
+    "brick_id": "1",
+    "brick_title": "Acute Respiratory Distress Syndrome",
+    "type": "lab",
+    "buzzwords": [
+      "diagnostic criteria for ARDS",
+      "onset within one week",
+      "bilateral opacities on imaging",
+      "not explained by heart failure",
+      "impaired oxygenation",
+      "increased A-a gradient",
+      "PCO2 not required",
+      "PaO2/FiO2 ≤ 300"
+    ]
+  },
+  {
+    "id": "respi-1-4",
+    "title": "ARDS Ventilation",
+    "course": "respi",
+    "brick_id": "1",
+    "brick_title": "Acute Respiratory Distress Syndrome",
+    "type": "physiology",
+    "buzzwords": [
+      "cornerstone of ARDS treatment",
+      "endotracheal intubation",
+      "low tidal volume",
+      "avoid barotrauma, volutrauma",
+      "PEEP keeps alveoli open",
+      "prone positioning helps",
+      "permissive hypercapnia tolerated",
+      "lung-protective strategy"
+    ]
+  },
+  {
+    "id": "respi-2-1",
+    "title": "Airway Radius",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "biggest driver of resistance",
+      "set by smooth muscle tone",
+      "narrowing raises resistance",
+      "halving radius",
+      "16-fold resistance change",
+      "inverse 4th power of radius",
+      "beta-2 agonists widen it",
+      "Poiseuille's law"
+    ]
+  },
+  {
+    "id": "respi-2-2",
+    "title": "Bronchial Smooth Muscle",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "rings the airway",
+      "autonomic control of caliber",
+      "contraction narrows airway",
+      "constriction is cholinergic",
+      "parasympathetic bronchoconstriction",
+      "beta-2 relaxes it",
+      "sympathetic bronchodilation",
+      "albuterol target"
+    ]
+  },
+  {
+    "id": "respi-2-3",
+    "title": "Cross-Sectional Area",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "depends on airway generation",
+      "many parallel small airways",
+      "huge combined area distally",
+      "small airways low resistance",
+      "highest in medium bronchi",
+      "parallel resistors",
+      "rises in conducting zone",
+      "peaks at terminal bronchioles"
+    ]
+  },
+  {
+    "id": "respi-2-4",
+    "title": "Turbulent Flow",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "chaotic vortices and eddies",
+      "raises resistance and effort",
+      "occurs in large airways",
+      "favored by forced breathing",
+      "high Reynolds number",
+      "upper airway obstruction",
+      "croup causes it",
+      "produces stridor"
+    ]
+  },
+  {
+    "id": "respi-2-5",
+    "title": "Radial Traction",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "tethers airways open",
+      "from surrounding lung tissue",
+      "increases with lung volume",
+      "lower resistance on inspiration",
+      "higher resistance on expiration",
+      "needs intact elastic fibers",
+      "lost in emphysema",
+      "promotes air trapping"
+    ]
+  },
+  {
+    "id": "respi-2-6",
+    "title": "Dynamic Airway Collapse",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "airways squeezed shut",
+      "during forced expiration",
+      "hits small noncartilaginous bronchi",
+      "pleural exceeds airway pressure",
+      "worse with lost recoil",
+      "scooped-out expiratory loop",
+      "choke point forms",
+      "equal pressure point"
+    ]
+  },
+  {
+    "id": "respi-2-7",
+    "title": "Lung Compliance",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "ease of lung expansion",
+      "volume change per pressure",
+      "set by elastic fibers",
+      "raised by surfactant",
+      "low in pulmonary fibrosis",
+      "high in emphysema",
+      "greatest near FRC",
+      "slope of pressure-volume curve"
+    ]
+  },
+  {
+    "id": "respi-2-8",
+    "title": "Surfactant",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "made by type II pneumocytes",
+      "lowers alveolar surface tension",
+      "raises lung compliance",
+      "prevents alveolar collapse",
+      "stops small emptying into large",
+      "deficiency causes RDS",
+      "counters Law of Laplace",
+      "pressure equals 2T over r"
+    ]
+  },
+  {
+    "id": "respi-2-9",
+    "title": "Functional Residual Capacity",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "volume after quiet exhalation",
+      "lung and chest wall balance",
+      "inward recoil meets outward recoil",
+      "oxygen reservoir between breaths",
+      "lowest vascular resistance here",
+      "reduced in restrictive disease",
+      "raised by air trapping",
+      "ideal operating point"
+    ]
+  },
+  {
+    "id": "respi-3-1",
+    "title": "Diaphragm",
+    "course": "respi",
+    "brick_id": "3",
+    "brick_title": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "type": "anatomy",
+    "buzzwords": [
+      "dome-shaped muscle",
+      "main inspiratory muscle",
+      "contracts and flattens",
+      "separates thorax from abdomen",
+      "left and right domes",
+      "central tendon",
+      "I ate ten eggs at twelve",
+      "phrenic nerve C3-C4-C5"
+    ]
+  },
+  {
+    "id": "respi-3-2",
+    "title": "Ribs",
+    "course": "respi",
+    "brick_id": "3",
+    "brick_title": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "type": "anatomy",
+    "buzzwords": [
+      "12 pairs of curved bones",
+      "protect thoracic organs",
+      "articulate with thoracic spine",
+      "true ribs 1-7 attach directly",
+      "false ribs 8-10 attach indirectly",
+      "floating ribs 11-12",
+      "neurovascular bundle in costal groove",
+      "sternal angle at manubrium"
+    ]
+  },
+  {
+    "id": "respi-3-3",
+    "title": "Intercostal Muscles",
+    "course": "respi",
+    "brick_id": "3",
+    "brick_title": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "type": "anatomy",
+    "buzzwords": [
+      "muscles between the ribs",
+      "stiffen chest wall in inspiration",
+      "prevent retraction",
+      "three layers",
+      "external aid inspiration",
+      "internal and innermost aid expiration",
+      "supplied by intercostal arteries",
+      "innervated by intercostal nerves"
+    ]
+  },
+  {
+    "id": "respi-4-1",
+    "title": "Trachea",
+    "course": "respi",
+    "brick_id": "4",
+    "brick_title": "Anatomy of the Lower Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "air-conducting tube",
+      "about 11 cm long",
+      "C-shaped cartilage rings",
+      "begins at cricoid cartilage",
+      "posterior trachealis muscle",
+      "sits anterior to esophagus",
+      "bifurcates at the carina",
+      "splits into primary bronchi"
+    ]
+  },
+  {
+    "id": "respi-4-2",
+    "title": "Bronchial Tree",
+    "course": "respi",
+    "brick_id": "4",
+    "brick_title": "Anatomy of the Lower Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "branching airway divisions",
+      "about 23 generations",
+      "primary, lobar, segmental",
+      "lobar bronchi per lobe",
+      "supply bronchopulmonary segments",
+      "right bronchus wider, vertical",
+      "foreign bodies lodge right",
+      "ends at terminal bronchioles"
+    ]
+  },
+  {
+    "id": "respi-4-3",
+    "title": "Respiratory Zone",
+    "course": "respi",
+    "brick_id": "4",
+    "brick_title": "Anatomy of the Lower Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "site of gas exchange",
+      "very thin walls",
+      "respiratory bronchioles to alveoli",
+      "alveolar ducts and sacs",
+      "up to 400 million alveoli",
+      "begins respiratory bronchioles",
+      "60,000 acini per lung",
+      "pulmonary acinus"
+    ]
+  },
+  {
+    "id": "respi-4-4",
+    "title": "Lungs",
+    "course": "respi",
+    "brick_id": "4",
+    "brick_title": "Anatomy of the Lower Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "apex superior, base inferior",
+      "right has three lobes",
+      "left has two lobes",
+      "horizontal and oblique fissures",
+      "hilum is the root",
+      "cardiac notch on left",
+      "lingula on left superior lobe",
+      "left lacks middle lobe"
+    ]
+  },
+  {
+    "id": "respi-4-5",
+    "title": "Lung Circulation",
+    "course": "respi",
+    "brick_id": "4",
+    "brick_title": "Anatomy of the Lower Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "dual blood supply",
+      "pulmonary circulation does gas exchange",
+      "arteries carry deoxygenated blood",
+      "veins carry oxygenated blood",
+      "bronchial circulation feeds lung tissue",
+      "bronchial arteries off thoracic aorta",
+      "supplies lung metabolic needs",
+      "pulmonary and bronchial circuits"
+    ]
+  },
+  {
+    "id": "respi-4-6",
+    "title": "Pleura",
+    "course": "respi",
+    "brick_id": "4",
+    "brick_title": "Anatomy of the Lower Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "double mesothelial layer",
+      "visceral and parietal layers",
+      "visceral hugs lung surface",
+      "parietal lines thoracic cavity",
+      "thin lubricating fluid",
+      "negative pressure potential space",
+      "parietal senses pain, visceral cannot",
+      "disruption causes pneumothorax"
+    ]
+  },
+  {
+    "id": "respi-5-1",
+    "title": "Nasal Cavity",
+    "course": "respi",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Upper Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "filters and humidifies air",
+      "entered through the nares",
+      "vestibule, respiratory, olfactory regions",
+      "lined by respiratory mucosa",
+      "three conchae per side",
+      "septum divides right from left",
+      "innervated by trigeminal nerve",
+      "Kiesselbach plexus bleeds"
+    ]
+  },
+  {
+    "id": "respi-5-2",
+    "title": "Paranasal Sinuses",
+    "course": "respi",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Upper Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "air-filled skull cavities",
+      "lighten the skull",
+      "produce mucus",
+      "named after the bone",
+      "four paired sets",
+      "frontal, sphenoid, maxillary, ethmoid",
+      "drain into meatuses",
+      "maxillary most prone to sinusitis"
+    ]
+  },
+  {
+    "id": "respi-5-3",
+    "title": "Nasopharynx",
+    "course": "respi",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Upper Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "behind the nose",
+      "carries air, not food",
+      "skull base superior border",
+      "ends at the uvula",
+      "connects to middle ear",
+      "pharyngotympanic (eustachian) tube",
+      "houses pharyngeal tonsils",
+      "adenoids enlarge here"
+    ]
+  },
+  {
+    "id": "respi-5-4",
+    "title": "Oropharynx",
+    "course": "respi",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Upper Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "behind the oral cavity",
+      "carries both air and food",
+      "extends uvula to hyoid",
+      "lies between naso- and laryngopharynx",
+      "supplied by facial artery branches",
+      "innervated by glossopharyngeal nerve",
+      "contains palatine tonsils",
+      "tonsils enlarge in tonsillitis"
+    ]
+  },
+  {
+    "id": "respi-5-5",
+    "title": "Laryngopharynx",
+    "course": "respi",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Upper Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "lowest part of pharynx",
+      "aka hypopharynx",
+      "respiratory and GI tracts diverge",
+      "ends at cricoid cartilage",
+      "continues into esophagus",
+      "surrounded by pharyngeal constrictors",
+      "piriform fossae trap food",
+      "Zenker diverticulum forms here"
+    ]
+  },
+  {
+    "id": "respi-5-6",
+    "title": "Larynx",
+    "course": "respi",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Upper Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "the voice box",
+      "final part of upper tract",
+      "supraglottis, glottis, subglottis",
+      "epiglottis prevents aspiration",
+      "vocal cords vibrate to phonate",
+      "posterior cricoarytenoid abducts cords",
+      "vagus nerve motor supply",
+      "recurrent laryngeal injury causes hoarseness"
+    ]
+  },
+  {
+    "id": "respi-6-1",
+    "title": "Asthma",
+    "course": "respi",
+    "brick_id": "6",
+    "brick_title": "Asthma",
+    "type": "disease",
+    "buzzwords": [
+      "reversible obstructive lung disease",
+      "often begins in childhood",
+      "wheezing, cough, chest tightness",
+      "triggered by allergens or exercise",
+      "worse early morning and evening",
+      "bronchoconstriction with mucus plugging",
+      "expiratory wheeze, prolonged expiration",
+      "silent chest in severe attack"
+    ]
+  },
+  {
+    "id": "respi-6-2",
+    "title": "Atopic Asthma",
+    "course": "respi",
+    "brick_id": "6",
+    "brick_title": "Asthma",
+    "type": "physiology",
+    "buzzwords": [
+      "allergic asthma type",
+      "positive family history",
+      "wheal-and-flare on skin test",
+      "Th2-driven airway inflammation",
+      "allergen crosslinks bound IgE",
+      "mast cell degranulation",
+      "type 1 hypersensitivity reaction",
+      "IgE-mediated"
+    ]
+  },
+  {
+    "id": "respi-6-3",
+    "title": "Asthma Histology",
+    "course": "respi",
+    "brick_id": "6",
+    "brick_title": "Asthma",
+    "type": "lab",
+    "buzzwords": [
+      "seen on bronchial biopsy",
+      "spares the alveoli",
+      "peripheral eosinophilia",
+      "thickened basement membrane",
+      "smooth muscle hypertrophy",
+      "spiral mucus plugs in sputum",
+      "Curschmann spirals",
+      "Charcot-Leyden crystals"
+    ]
+  },
+  {
+    "id": "respi-6-4",
+    "title": "Asthma Diagnostics",
+    "course": "respi",
+    "brick_id": "6",
+    "brick_title": "Asthma",
+    "type": "lab",
+    "buzzwords": [
+      "confirms reversible obstruction",
+      "spirometry first-line test",
+      "FEV1/FVC under 0.7",
+      "improves after bronchodilator",
+      "elevated exhaled nitric oxide",
+      "FeNO measures inflammation",
+      "methacholine bronchoprovocation challenge",
+      "PC20 at or below 8 mg/mL positive"
+    ]
+  },
+  {
+    "id": "respi-6-5",
+    "title": "Asthma Treatment",
+    "course": "respi",
+    "brick_id": "6",
+    "brick_title": "Asthma",
+    "type": "drug",
+    "buzzwords": [
+      "stepwise escalation by severity",
+      "inhaled corticosteroid controller",
+      "short-acting beta-agonist rescue",
+      "albuterol for acute relief",
+      "add long-acting beta-agonist",
+      "leukotriene receptor antagonist option",
+      "biologics target cytokines",
+      "GINA step strategy"
+    ]
+  },
+  {
+    "id": "respi-7-1",
+    "title": "Anti-GBM Disease",
+    "course": "respi",
+    "brick_id": "7",
+    "brick_title": "Autoimmune Diseases with Respiratory Manifestations",
+    "type": "disease",
+    "buzzwords": [
+      "pulmonary-renal syndrome",
+      "alveolar hemorrhage",
+      "hemoptysis",
+      "hematuria",
+      "antibody vs basement membrane",
+      "rapidly progressive glomerulonephritis",
+      "linear IgG along GBM",
+      "Goodpasture syndrome"
+    ]
+  },
+  {
+    "id": "respi-7-2",
+    "title": "Granulomatosis with Polyangiitis",
+    "course": "respi",
+    "brick_id": "7",
+    "brick_title": "Autoimmune Diseases with Respiratory Manifestations",
+    "type": "disease",
+    "buzzwords": [
+      "small-vessel vasculitis",
+      "nasal polyps",
+      "sinus and lung involvement",
+      "hemoptysis",
+      "necrotizing granulomas",
+      "PR3-ANCA",
+      "cytoplasmic ANCA",
+      "c-ANCA"
+    ]
+  },
+  {
+    "id": "respi-7-3",
+    "title": "EGPA",
+    "course": "respi",
+    "brick_id": "7",
+    "brick_title": "Autoimmune Diseases with Respiratory Manifestations",
+    "type": "disease",
+    "buzzwords": [
+      "adult-onset asthma",
+      "allergic rhinitis",
+      "blood eosinophilia",
+      "migratory pulmonary infiltrates",
+      "cardiac death",
+      "MPO-ANCA",
+      "p-ANCA",
+      "Churg-Strauss"
+    ]
+  },
+  {
+    "id": "respi-7-4",
+    "title": "Rheumatoid Arthritis",
+    "course": "respi",
+    "brick_id": "7",
+    "brick_title": "Autoimmune Diseases with Respiratory Manifestations",
+    "type": "disease",
+    "buzzwords": [
+      "symmetric polyarthritis",
+      "lungs most common extra-articular site",
+      "pleural effusion",
+      "pulmonary nodules",
+      "smoking risk factor",
+      "restrictive pattern",
+      "interstitial lung disease",
+      "RA-ILD"
+    ]
+  },
+  {
+    "id": "respi-7-5",
+    "title": "Lupus (SLE)",
+    "course": "respi",
+    "brick_id": "7",
+    "brick_title": "Autoimmune Diseases with Respiratory Manifestations",
+    "type": "disease",
+    "buzzwords": [
+      "multisystem autoimmune disease",
+      "pleural effusion",
+      "pleuritic chest pain",
+      "most common: pleuritis",
+      "pulmonary embolism risk",
+      "antiphospholipid antibodies",
+      "antinuclear antibodies",
+      "anti-dsDNA"
+    ]
+  },
+  {
+    "id": "respi-7-6",
+    "title": "Scleroderma",
+    "course": "respi",
+    "brick_id": "7",
+    "brick_title": "Autoimmune Diseases with Respiratory Manifestations",
+    "type": "disease",
+    "buzzwords": [
+      "fibrosis and vascular damage",
+      "restrictive lung disease",
+      "interstitial lung disease",
+      "pulmonary arterial hypertension",
+      "media thickening",
+      "anti-centromere in limited type",
+      "CREST syndrome",
+      "anti-Scl-70"
+    ]
+  },
+  {
+    "id": "respi-7-7",
+    "title": "Sjogren Disease",
+    "course": "respi",
+    "brick_id": "7",
+    "brick_title": "Autoimmune Diseases with Respiratory Manifestations",
+    "type": "disease",
+    "buzzwords": [
+      "glandular destruction",
+      "persistent dry cough",
+      "xerotrachea",
+      "interstitial lung disease",
+      "usual interstitial pneumonia",
+      "lymphocytic infiltration",
+      "lymphocytic interstitial pneumonia",
+      "LIP most characteristic"
+    ]
+  },
+  {
+    "id": "respi-8-1",
+    "title": "Bronchiectasis",
+    "course": "respi",
+    "brick_id": "8",
+    "brick_title": "Bronchiectasis",
+    "type": "disease",
+    "buzzwords": [
+      "chronic productive cough",
+      "obstructive lung disease",
+      "large-volume sputum daily",
+      "thick foul-smelling mucus",
+      "recurrent lung infections",
+      "hemoptysis common",
+      "irreversible airway dilation",
+      "permanently widened bronchi"
+    ]
+  },
+  {
+    "id": "respi-8-2",
+    "title": "Pathophysiology",
+    "course": "respi",
+    "brick_id": "8",
+    "brick_title": "Bronchiectasis",
+    "type": "physiology",
+    "buzzwords": [
+      "inflammation damages airway wall",
+      "impaired mucus clearance",
+      "obstruction or poor drainage",
+      "cystic fibrosis most common cause",
+      "CFTR defect thickens mucus",
+      "infection-inflammation vicious cycle",
+      "Pseudomonas in CF patients",
+      "H. influenzae in non-CF"
+    ]
+  },
+  {
+    "id": "respi-8-3",
+    "title": "Imaging Findings",
+    "course": "respi",
+    "brick_id": "8",
+    "brick_title": "Bronchiectasis",
+    "type": "imaging",
+    "buzzwords": [
+      "chest x-ray or CT",
+      "may be normal early",
+      "dilated thickened bronchial walls",
+      "high-resolution CT preferred",
+      "parallel tram-track lines",
+      "bronchus wider than artery",
+      "tram-tracking sign",
+      "signet ring sign"
+    ]
+  },
+  {
+    "id": "respi-8-4",
+    "title": "Management",
+    "course": "respi",
+    "brick_id": "8",
+    "brick_title": "Bronchiectasis",
+    "type": "physiology",
+    "buzzwords": [
+      "incurable and progressive",
+      "prevent infective exacerbations",
+      "antibiotics guided by cultures",
+      "chest physiotherapy clears mucus",
+      "dornase alfa cleaves DNA",
+      "hypertonic saline thins mucus",
+      "azithromycin prophylaxis",
+      "lung resection for refractory disease"
+    ]
+  },
+  {
+    "id": "respi-9-1",
+    "title": "COPD",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "reduced airflow",
+      "persistent dyspnea",
+      "productive cough",
+      "not fully reversible",
+      "mostly from smoking",
+      "emphysema plus bronchitis",
+      "obstructive lung disease",
+      "third leading cause of death"
+    ]
+  },
+  {
+    "id": "respi-9-2",
+    "title": "Chronic Bronchitis",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "airway inflammation",
+      "conducting zone disease",
+      "excess mucus",
+      "narrowed airways",
+      "goblet cell hyperplasia",
+      "squamous metaplasia",
+      "barrel chest",
+      "blue bloater"
+    ]
+  },
+  {
+    "id": "respi-9-3",
+    "title": "Emphysema",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "respiratory zone disease",
+      "alveolar wall destruction",
+      "lost elastic recoil",
+      "increased lung compliance",
+      "reduced gas-exchange area",
+      "bullae and blebs",
+      "protease-antiprotease imbalance",
+      "pink puffer"
+    ]
+  },
+  {
+    "id": "respi-9-4",
+    "title": "A1AT Deficiency",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "genetic emphysema",
+      "nonsmoker emphysema",
+      "early onset, age 40-50",
+      "unopposed proteases",
+      "panacinar pattern",
+      "liver failure too",
+      "misfolded protein in hepatocytes",
+      "alpha-1 antitrypsin deficiency"
+    ]
+  },
+  {
+    "id": "respi-9-5",
+    "title": "Centriacinar Emphysema",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "most common type",
+      "center of acinus",
+      "smoking-related",
+      "upper lobe predominant",
+      "spares distal alveoli",
+      "anthracosis deposits",
+      "respiratory bronchiole damage",
+      "centrilobular"
+    ]
+  },
+  {
+    "id": "respi-9-6",
+    "title": "Panacinar Emphysema",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "entire acinus destroyed",
+      "less common type",
+      "lower lobe predominant",
+      "uniform air-space enlargement",
+      "nonsmokers affected",
+      "A1AT deficiency",
+      "diffuse bullae",
+      "panlobular"
+    ]
+  },
+  {
+    "id": "respi-9-7",
+    "title": "Paraseptal Emphysema",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "distal acinus affected",
+      "subpleural location",
+      "young males",
+      "apical bullae",
+      "adjacent to septa",
+      "bulla rupture",
+      "advanced age, male sex",
+      "spontaneous pneumothorax"
+    ]
+  },
+  {
+    "id": "respi-9-8",
+    "title": "COPD Complications",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "physiology",
+    "buzzwords": [
+      "V/Q mismatch",
+      "hypoxemia",
+      "CO2 retention",
+      "hypercapnia",
+      "permanent airway dilation",
+      "bronchiectasis",
+      "hypoxic vasoconstriction",
+      "cor pulmonale"
+    ]
+  },
+  {
+    "id": "respi-10-1",
+    "title": "COPD Presentation",
+    "course": "respi",
+    "brick_id": "10",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "type": "disease",
+    "buzzwords": [
+      "dyspnea",
+      "reduced exercise tolerance",
+      "fatigue",
+      "chronic productive cough",
+      "weight loss in emphysema",
+      "acute exacerbations",
+      "triggered by URIs",
+      "bronchitis plus emphysema"
+    ]
+  },
+  {
+    "id": "respi-10-2",
+    "title": "COPD Exam Findings",
+    "course": "respi",
+    "brick_id": "10",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "type": "physiology",
+    "buzzwords": [
+      "expiratory wheezes",
+      "rhonchi",
+      "distant heart sounds",
+      "flattened diaphragm",
+      "pursed-lip breathing",
+      "cyanosis",
+      "tripod position",
+      "barrel chest"
+    ]
+  },
+  {
+    "id": "respi-10-3",
+    "title": "COPD Blood Studies",
+    "course": "respi",
+    "brick_id": "10",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "type": "lab",
+    "buzzwords": [
+      "baseline hypoxemia",
+      "low PaO2",
+      "measured by pulse oximetry",
+      "hypercapnia signals severe disease",
+      "secondary polycythemia",
+      "high erythropoietin",
+      "elevated RBCs on CBC",
+      "check alpha-1 antitrypsin"
+    ]
+  },
+  {
+    "id": "respi-10-4",
+    "title": "COPD Spirometry",
+    "course": "respi",
+    "brick_id": "10",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "type": "lab",
+    "buzzwords": [
+      "measures expiratory flow",
+      "obstructive pattern",
+      "reduced FEV1",
+      "minimal bronchodilator response",
+      "low DLCO",
+      "required for diagnosis",
+      "FEV1/FVC under 0.7",
+      "FEV1/FVC less than 70%"
+    ]
+  },
+  {
+    "id": "respi-10-5",
+    "title": "COPD Chest X-ray",
+    "course": "respi",
+    "brick_id": "10",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "type": "imaging",
+    "buzzwords": [
+      "not required for diagnosis",
+      "excludes pneumonia",
+      "increased AP diameter",
+      "narrowed vertical cardiac shadow",
+      "flattened diaphragm",
+      "hyperlucent lungs",
+      "loss of vascular markings",
+      "hyperinflation"
+    ]
+  },
+  {
+    "id": "respi-10-6",
+    "title": "Stable COPD Management",
+    "course": "respi",
+    "brick_id": "10",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "type": "drug",
+    "buzzwords": [
+      "smoking cessation first",
+      "vaccinate against influenza",
+      "home oxygen if SpO2 under 88%",
+      "long-acting bronchodilators",
+      "LABA like salmeterol",
+      "LAMA like tiotropium",
+      "inhaled corticosteroids if severe",
+      "theophylline"
+    ]
+  },
+  {
+    "id": "respi-10-7",
+    "title": "COPD Exacerbation Treatment",
+    "course": "respi",
+    "brick_id": "10",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "type": "disease",
+    "buzzwords": [
+      "sudden worsening dyspnea",
+      "rising PaCO2",
+      "supplemental oxygen",
+      "short-acting albuterol",
+      "ipratropium",
+      "systemic corticosteroids",
+      "broad-spectrum antibiotics",
+      "ceftriaxone or piperacillin-tazobactam"
+    ]
+  },
+  {
+    "id": "respi-11-1",
+    "title": "Medullary Respiratory Center",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "primary control center",
+      "inferior brainstem",
+      "sets basic breathing rhythm",
+      "dorsal group controls inspiration",
+      "ventral group drives forced breathing",
+      "phrenic and intercostal output",
+      "input via CN IX and CN X",
+      "dorsal and ventral respiratory groups"
+    ]
+  },
+  {
+    "id": "respi-11-2",
+    "title": "Pontine Centers",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "fine-tunes breathing pattern",
+      "modulatory not essential",
+      "apneustic center stimulates inspiration",
+      "limits inspiratory volume",
+      "smooths transitions",
+      "controls respiratory rate",
+      "off-switch for inspiration",
+      "pneumotaxic center"
+    ]
+  },
+  {
+    "id": "respi-11-3",
+    "title": "Peripheral Chemoreceptors",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "sense arterial blood gases",
+      "respond to low oxygen",
+      "fire when PaO2 under 60",
+      "also sense high CO2 and low pH",
+      "signal via CN IX and CN X",
+      "drive breathing at altitude",
+      "carotid and aortic bodies",
+      "low PaO2 is primary stimulus"
+    ]
+  },
+  {
+    "id": "respi-11-4",
+    "title": "Central Chemoreceptors",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "located in ventral medulla",
+      "main driver of ventilation",
+      "sense CO2 indirectly",
+      "CO2 crosses blood-brain barrier",
+      "detect acidic CSF pH",
+      "cannot sense blood H+ directly",
+      "blunted response in COPD",
+      "most sensitive to CSF pH"
+    ]
+  },
+  {
+    "id": "respi-11-5",
+    "title": "Pulmonary Stretch Receptors",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "located in airway smooth muscle",
+      "sense lung inflation",
+      "activated by lung distension",
+      "terminate inspiration",
+      "prevent overinflation",
+      "signal via vagus nerve",
+      "protective inflation reflex",
+      "Hering-Breuer reflex"
+    ]
+  },
+  {
+    "id": "respi-11-6",
+    "title": "Irritant Receptors",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "located in airway epithelium",
+      "trachea and bronchi",
+      "rapidly adapting",
+      "sense noxious stimuli",
+      "triggered by dust and cold air",
+      "cause bronchoconstriction",
+      "increase respiratory rate",
+      "trigger coughing"
+    ]
+  },
+  {
+    "id": "respi-11-7",
+    "title": "J Receptors",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "alveolar mechanoreceptors",
+      "near pulmonary capillaries",
+      "unmyelinated C-fibers",
+      "sense increased capillary pressure",
+      "activated by pulmonary edema",
+      "cause rapid shallow breathing",
+      "fire in heart failure",
+      "juxtacapillary receptors"
+    ]
+  },
+  {
+    "id": "respi-11-8",
+    "title": "Kussmaul Breathing",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "disease",
+    "buzzwords": [
+      "abnormal breathing pattern",
+      "deep labored breaths",
+      "rapid rate",
+      "compensatory hyperventilation",
+      "blows off CO2",
+      "response to metabolic acidosis",
+      "seen in diabetic ketoacidosis",
+      "deep rapid air hunger"
+    ]
+  },
+  {
+    "id": "respi-11-9",
+    "title": "Cheyne-Stokes Respiration",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "disease",
+    "buzzwords": [
+      "abnormal cyclic breathing",
+      "alternating fast and slow breaths",
+      "periods of apnea",
+      "crescendo-decrescendo pattern",
+      "delayed medullary feedback",
+      "seen in heart failure",
+      "occurs at high altitude",
+      "waxing and waning depth"
+    ]
+  },
+  {
+    "id": "respi-11-10",
+    "title": "Biot Breathing",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "disease",
+    "buzzwords": [
+      "abnormal breathing pattern",
+      "irregular and erratic",
+      "constant tidal volume breaths",
+      "abrupt periods of apnea",
+      "no crescendo pattern",
+      "from medullary injury",
+      "caused by opioid intoxication",
+      "ataxic breathing"
+    ]
+  },
+  {
+    "id": "respi-11-11",
+    "title": "High-Altitude Response",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "low inspired PO2",
+      "causes hypoxemia",
+      "hyperventilation from low O2",
+      "produces respiratory alkalosis",
+      "increased erythropoietin",
+      "raised hemoglobin over time",
+      "2,3-BPG shifts curve right",
+      "acclimatization"
+    ]
+  },
+  {
+    "id": "respi-11-12",
+    "title": "Exercise Ventilation",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "rising O2 demand",
+      "increased CO2 production",
+      "ventilation rises with intensity",
+      "cardiac output increases",
+      "improved V/Q matching",
+      "neural anticipation before metabolites",
+      "chemoreceptor feedback sustains drive",
+      "feedforward response"
+    ]
+  },
+  {
+    "id": "respi-12-1",
+    "title": "Cystic Fibrosis",
+    "course": "respi",
+    "brick_id": "12",
+    "brick_title": "Cystic Fibrosis (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "multisystem exocrine disease",
+      "thick viscous secretions",
+      "chronic cough, wheezing",
+      "recurrent pneumonias",
+      "pancreatic insufficiency",
+      "male infertility, absent vas deferens",
+      "Pseudomonas colonization"
+    ]
+  },
+  {
+    "id": "respi-12-2",
+    "title": "CFTR Gene",
+    "course": "respi",
+    "brick_id": "12",
+    "brick_title": "Cystic Fibrosis (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "apical membrane channel",
+      "transports chloride out",
+      "also moves bicarbonate",
+      "loss of function mutation",
+      "reduced chloride secretion",
+      "dehydrated viscous mucus",
+      "chromosome 7",
+      "phenylalanine 508 deletion (ΔF508)"
+    ]
+  },
+  {
+    "id": "respi-12-3",
+    "title": "Sweat Chloride Test",
+    "course": "respi",
+    "brick_id": "12",
+    "brick_title": "Cystic Fibrosis (1 of 2)",
+    "type": "lab",
+    "buzzwords": [
+      "confirmatory diagnostic test",
+      "analyzes sweat sample",
+      "skin absorbs chloride inward",
+      "CF blocks sweat duct absorption",
+      "elevated sweat chloride",
+      "high sweat sodium too",
+      "pilocarpine stimulates sweat",
+      "quantitative pilocarpine iontophoresis (QPIT)"
+    ]
+  },
+  {
+    "id": "respi-12-4",
+    "title": "Meconium Ileus",
+    "course": "respi",
+    "brick_id": "12",
+    "brick_title": "Cystic Fibrosis (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "neonatal bowel obstruction",
+      "failure to pass stool",
+      "abdominal distension in newborn",
+      "thickened intestinal contents",
+      "earliest CF presentation",
+      "highly specific for CF",
+      "from excessively thick stool",
+      "inspissated meconium"
+    ]
+  },
+  {
+    "id": "respi-13-1",
+    "title": "CFTR Modulators",
+    "course": "respi",
+    "brick_id": "13",
+    "brick_title": "Cystic Fibrosis (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "disease-modifying therapy",
+      "partially restores CFTR",
+      "guided by CFTR genotyping",
+      "reduces exacerbations",
+      "improves FEV1",
+      "potentiators and correctors",
+      "ivacaftor",
+      "elexacaftor-tezacaftor-ivacaftor"
+    ]
+  },
+  {
+    "id": "respi-13-2",
+    "title": "Airway Clearance",
+    "course": "respi",
+    "brick_id": "13",
+    "brick_title": "Cystic Fibrosis (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "mobilizes thick mucus",
+      "chest physiotherapy",
+      "percussion vest",
+      "inhaled mucoactive agents",
+      "draws water into airway",
+      "cleaves extracellular DNA",
+      "hypertonic saline",
+      "dornase alfa"
+    ]
+  },
+  {
+    "id": "respi-13-3",
+    "title": "Anti-inflammatory Therapy",
+    "course": "respi",
+    "brick_id": "13",
+    "brick_title": "Cystic Fibrosis (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "slows lung function decline",
+      "reduces exacerbations",
+      "selected patients only",
+      "GI side effects",
+      "macrolide with immunomodulation",
+      "high-dose option",
+      "high-dose NSAIDs",
+      "azithromycin"
+    ]
+  },
+  {
+    "id": "respi-13-4",
+    "title": "Infection Management",
+    "course": "respi",
+    "brick_id": "13",
+    "brick_title": "Cystic Fibrosis (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "recurrent respiratory infections",
+      "maximizes airway concentration",
+      "minimizes systemic toxicity",
+      "vaccination and distancing prevent",
+      "resistant pathogens common",
+      "inhaled antibiotics preferred",
+      "chronic Pseudomonas suppression",
+      "Pseudomonas aeruginosa"
+    ]
+  },
+  {
+    "id": "respi-13-5",
+    "title": "Pancreatic Insufficiency",
+    "course": "respi",
+    "brick_id": "13",
+    "brick_title": "Cystic Fibrosis (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "thick secretions plug ducts",
+      "fat malabsorption",
+      "needs high-calorie diet",
+      "fat-soluble vitamin supplements",
+      "vitamins A, D, E, K",
+      "individualized dosing",
+      "taken with meals",
+      "pancreatic enzyme replacement"
+    ]
+  },
+  {
+    "id": "respi-13-6",
+    "title": "CF-Related Diabetes",
+    "course": "respi",
+    "brick_id": "13",
+    "brick_title": "Cystic Fibrosis (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "extrapulmonary CF complication",
+      "duct plugging damages beta cells",
+      "insulin deficiency predominates",
+      "polyuria and polydipsia",
+      "elevated glucose and A1c",
+      "needs high-calorie diet still",
+      "managed with endocrinology",
+      "insulin therapy is mainstay"
+    ]
+  },
+  {
+    "id": "respi-14-1",
+    "title": "Lung Bud",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "first respiratory structure",
+      "appears day 26",
+      "triggered by retinoic acid",
+      "outgrowth of foregut",
+      "endoderm-derived epithelium",
+      "branches off anterior foregut",
+      "separated from esophagus by septum",
+      "respiratory diverticulum"
+    ]
+  },
+  {
+    "id": "respi-14-2",
+    "title": "Bronchial Buds",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "form by day 33",
+      "left and right pair",
+      "become main bronchi",
+      "right more vertical and wider",
+      "foreign bodies aspirate right",
+      "three lobar bronchi right",
+      "two lobar bronchi left",
+      "arise from lung bud division"
+    ]
+  },
+  {
+    "id": "respi-14-3",
+    "title": "Embryonic Stage",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "first lung stage",
+      "4 to 7 weeks",
+      "lung bud forms",
+      "tracheoesophageal septation",
+      "bronchial bud branching",
+      "pulmonary vasculature begins",
+      "arteries from sixth aortic arch",
+      "veins from left atrium"
+    ]
+  },
+  {
+    "id": "respi-14-4",
+    "title": "Pseudoglandular Stage",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "5 to 17 weeks",
+      "extensive airway branching",
+      "conductive airways complete",
+      "terminal bronchioles form",
+      "driven by FGF-10",
+      "columnar to cuboidal epithelium",
+      "no gas exchange possible",
+      "gland-like histologic appearance"
+    ]
+  },
+  {
+    "id": "respi-14-5",
+    "title": "Canalicular Stage",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "16 to 25 weeks",
+      "17 orders of branching",
+      "respiratory bronchioles prominent",
+      "rudimentary acini form",
+      "capillaries near epithelium",
+      "primitive gas exchange begins",
+      "earliest possible viability",
+      "marginal survival around week 22"
+    ]
+  },
+  {
+    "id": "respi-14-6",
+    "title": "Saccular Stage",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "24 weeks to birth",
+      "terminal sacs develop",
+      "primordial alveoli",
+      "epithelium becomes very thin",
+      "elastic-fiber septation begins",
+      "capillaries press into sacs",
+      "blood-air barrier forms",
+      "surfactant production ramps up"
+    ]
+  },
+  {
+    "id": "respi-14-7",
+    "title": "Alveolar Stage",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "final lung stage",
+      "32 weeks to age 8",
+      "mature alveolarization",
+      "increase in acini number",
+      "greater vascularization",
+      "5% of alveoli at birth",
+      "95% mature postnatally",
+      "300 million mature alveoli"
+    ]
+  },
+  {
+    "id": "respi-14-8",
+    "title": "Pneumocytes",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "line the alveoli",
+      "type 1 forms blood-air barrier",
+      "type 1 thin for gas exchange",
+      "type 1 differentiate from type 2",
+      "type 2 secrete surfactant",
+      "surfactant lowers surface tension",
+      "deficiency causes neonatal RDS",
+      "corticosteroids boost surfactant"
+    ]
+  },
+  {
+    "id": "respi-15-1",
+    "title": "Nasal Cavity",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "air enters here first",
+      "lined by respiratory mucosa",
+      "ciliated epithelium",
+      "goblet cells make mucus",
+      "cilia trap particles",
+      "lamina propria beneath",
+      "olfactory epithelium at roof",
+      "pseudostratified columnar"
+    ]
+  },
+  {
+    "id": "respi-15-2",
+    "title": "Olfactory Epithelium",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "sits at nasal roof",
+      "provides sense of smell",
+      "size of a thumbnail",
+      "modified pseudostratified columnar",
+      "basal stem cells",
+      "long nonmotile cilia",
+      "bipolar olfactory neurons",
+      "dendrites bear odor receptors"
+    ]
+  },
+  {
+    "id": "respi-15-3",
+    "title": "Pharynx",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "shared air and food path",
+      "three regions",
+      "skeletal muscle in wall",
+      "nasopharynx is pseudostratified columnar",
+      "oropharynx is stratified squamous",
+      "laryngopharynx is stratified squamous",
+      "nonkeratinized squamous below",
+      "epiglottis guards larynx"
+    ]
+  },
+  {
+    "id": "respi-15-4",
+    "title": "Larynx",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "short air passage",
+      "between pharynx and trachea",
+      "mostly respiratory epithelium",
+      "underlying cartilage layer",
+      "cartilage prevents airway collapse",
+      "vocal cords stratified squamous",
+      "high mechanical stress on cords",
+      "overuse forms vocal nodules"
+    ]
+  },
+  {
+    "id": "respi-15-5",
+    "title": "Trachea",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "long flexible airway pipe",
+      "respiratory epithelium with goblet cells",
+      "lamina propria and submucosa",
+      "histology like larynx",
+      "outer adventitia layer",
+      "ends at the carina",
+      "hyaline cartilage rings",
+      "C-shaped cartilage rings"
+    ]
+  },
+  {
+    "id": "respi-15-6",
+    "title": "Bronchi",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "lined by respiratory epithelium",
+      "less cartilage than trachea",
+      "thinner epithelium than trachea",
+      "cartilage plates not rings",
+      "smooth muscle layer appears",
+      "muscle between mucosa and submucosa",
+      "more muscle as airway narrows",
+      "muscle controls airway diameter"
+    ]
+  },
+  {
+    "id": "respi-15-7",
+    "title": "Bronchioles",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "smallest conducting airways",
+      "no cartilage present",
+      "prominent smooth muscle",
+      "epithelium loses cilia distally",
+      "transitions to simple cuboidal",
+      "club cells secrete surfactant",
+      "club cells once called Clara cells",
+      "respiratory bronchioles begin gas exchange"
+    ]
+  },
+  {
+    "id": "respi-15-8",
+    "title": "Alveoli",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "ultra-thin gas exchange sacs",
+      "simple squamous epithelium",
+      "make up most of lung",
+      "type 1 pneumocytes thin lining",
+      "type 2 pneumocytes make surfactant",
+      "dust cells are macrophages",
+      "form the blood-air barrier",
+      "grouped into pulmonary acinus"
+    ]
+  },
+  {
+    "id": "respi-16-1",
+    "title": "Hypercapnia",
+    "course": "respi",
+    "brick_id": "16",
+    "brick_title": "Hypercapnia",
+    "type": "disease",
+    "buzzwords": [
+      "elevated arterial CO2",
+      "main stimulus for respiratory drive",
+      "causes respiratory acidosis",
+      "flushing and palmar erythema",
+      "encephalopathy with asterixis",
+      "seen in COPD and opioid overdose",
+      "PaCO2 over 42 to 45 mmHg",
+      "also called hypercarbia"
+    ]
+  },
+  {
+    "id": "respi-16-2",
+    "title": "Reduced Minute Ventilation",
+    "course": "respi",
+    "brick_id": "16",
+    "brick_title": "Hypercapnia",
+    "type": "physiology",
+    "buzzwords": [
+      "most common cause of hypercapnia",
+      "less air moved per unit time",
+      "minute ventilation equals RR times tidal volume",
+      "decreased respiratory rate",
+      "decreased tidal volume",
+      "CNS respiratory center depression",
+      "opioids and sedatives slow breathing",
+      "chest wall restriction limits expansion"
+    ]
+  },
+  {
+    "id": "respi-16-3",
+    "title": "V/Q Mismatch",
+    "course": "respi",
+    "brick_id": "16",
+    "brick_title": "Hypercapnia",
+    "type": "physiology",
+    "buzzwords": [
+      "perfusion and ventilation poorly matched",
+      "usually causes hypoxemia",
+      "underventilated lung segments",
+      "mucus plugging blocks airflow",
+      "mixed blood reaches left atrium",
+      "increased physiologic dead space",
+      "emphysema raises V/Q ratio",
+      "pulmonary embolism rarely causes it"
+    ]
+  },
+  {
+    "id": "respi-16-4",
+    "title": "Renal Compensation",
+    "course": "respi",
+    "brick_id": "16",
+    "brick_title": "Hypercapnia",
+    "type": "physiology",
+    "buzzwords": [
+      "metabolic response to acidosis",
+      "corrects low blood pH",
+      "kidney provides main compensation",
+      "retains filtered bicarbonate",
+      "prominent in chronic hypercapnia",
+      "explains asymptomatic high PaCO2",
+      "raises serum HCO3 level",
+      "normalizes pH despite high CO2"
+    ]
+  },
+  {
+    "id": "respi-16-5",
+    "title": "Hyperventilatory Response",
+    "course": "respi",
+    "brick_id": "16",
+    "brick_title": "Hypercapnia",
+    "type": "physiology",
+    "buzzwords": [
+      "fast compensation for high CO2",
+      "increases minute ventilation",
+      "blows off excess CO2",
+      "central chemoreceptors in medulla",
+      "peripheral receptors aortic and carotid",
+      "CO2 crosses blood-brain barrier",
+      "central receptors respond to H+",
+      "blunted by chronic habituation"
+    ]
+  },
+  {
+    "id": "respi-16-6",
+    "title": "Capnography",
+    "course": "respi",
+    "brick_id": "16",
+    "brick_title": "Hypercapnia",
+    "type": "lab",
+    "buzzwords": [
+      "real-time CO2 measurement",
+      "diagnoses hypercapnia noninvasively",
+      "attached to mask or cannula",
+      "measures inspired and expired CO2",
+      "avoids repeat blood draws",
+      "indirect estimate of PaCO2",
+      "end tidal CO2 reading",
+      "ETCO2 tracks at expiration end"
+    ]
+  },
+  {
+    "id": "respi-17-1",
+    "title": "Hypersensitivity Pneumonitis",
+    "course": "respi",
+    "brick_id": "17",
+    "brick_title": "Hypersensitivity Pneumonitis",
+    "type": "disease",
+    "buzzwords": [
+      "interstitial lung disease",
+      "inhaled antigen trigger",
+      "dyspnea most common symptom",
+      "smoking is protective",
+      "more common over 65",
+      "diagnosed more in women",
+      "mixed type III/IV reaction",
+      "bird droppings or hay"
+    ]
+  },
+  {
+    "id": "respi-17-2",
+    "title": "Acute HP",
+    "course": "respi",
+    "brick_id": "17",
+    "brick_title": "Hypersensitivity Pneumonitis",
+    "type": "disease",
+    "buzzwords": [
+      "rapid onset after exposure",
+      "symptoms in hours to days",
+      "sneezing and chest tightness",
+      "fever and chills",
+      "tachypnea",
+      "onset 4 to 8 hours",
+      "immune-complex mediated",
+      "ground-glass opacities on x-ray"
+    ]
+  },
+  {
+    "id": "respi-17-3",
+    "title": "Chronic HP",
+    "course": "respi",
+    "brick_id": "17",
+    "brick_title": "Hypersensitivity Pneumonitis",
+    "type": "disease",
+    "buzzwords": [
+      "develops over months to years",
+      "malaise and fatigue",
+      "anorexia and weight loss",
+      "T-cell mediated",
+      "progressive fibrosis",
+      "restrictive lung disease",
+      "digital clubbing",
+      "honeycombing on imaging"
+    ]
+  },
+  {
+    "id": "respi-17-4",
+    "title": "HP Histology",
+    "course": "respi",
+    "brick_id": "17",
+    "brick_title": "Hypersensitivity Pneumonitis",
+    "type": "lab",
+    "buzzwords": [
+      "lymphocytic alveolitis",
+      "interstitial inflammation",
+      "inflammation around bronchioles",
+      "histiocytes and giant cells",
+      "peribronchial fibrosis in chronic",
+      "noncaseating granulomas",
+      "less intense than sarcoidosis",
+      "poorly formed granulomas"
+    ]
+  },
+  {
+    "id": "respi-17-5",
+    "title": "HP Imaging",
+    "course": "respi",
+    "brick_id": "17",
+    "brick_title": "Hypersensitivity Pneumonitis",
+    "type": "imaging",
+    "buzzwords": [
+      "chest x-ray may be normal",
+      "micronodular interstitial pattern",
+      "reticular net-like opacities",
+      "acute shows ground-glass",
+      "chronic shows honeycombing",
+      "traction bronchiectasis",
+      "HRCT shows air-trapping",
+      "nodules 3 to 5 mm"
+    ]
+  },
+  {
+    "id": "respi-17-6",
+    "title": "Bronchoalveolar Lavage",
+    "course": "respi",
+    "brick_id": "17",
+    "brick_title": "Hypersensitivity Pneumonitis",
+    "type": "lab",
+    "buzzwords": [
+      "most sensitive for alveolitis",
+      "performed during bronchoscopy",
+      "airway washed with saline",
+      "limited specificity",
+      "abnormal even without illness",
+      "used alongside radiology",
+      "lymphocytosis supports HP",
+      "finding is nonspecific"
+    ]
+  },
+  {
+    "id": "respi-17-7",
+    "title": "HP Management",
+    "course": "respi",
+    "brick_id": "17",
+    "brick_title": "Hypersensitivity Pneumonitis",
+    "type": "drug",
+    "buzzwords": [
+      "early disease is reversible",
+      "antigen avoidance is mainstay",
+      "protective mask at work",
+      "systemic corticosteroids",
+      "steroids ease symptoms only",
+      "no long-term outcome change",
+      "transplant for severe fibrosis",
+      "prednisone"
+    ]
+  },
+  {
+    "id": "respi-18-1",
+    "title": "Hypoxemia",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "physiology",
+    "buzzwords": [
+      "low blood oxygen",
+      "dyspnea and tachypnea",
+      "leads to tissue hypoxia",
+      "cyanosis and clubbing",
+      "PaO2 under 60 mmHg",
+      "SaO2 below 80-85%",
+      "treat with supplemental O2",
+      "goal SpO2 above 90%"
+    ]
+  },
+  {
+    "id": "respi-18-2",
+    "title": "A-a Gradient",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "lab",
+    "buzzwords": [
+      "alveolar minus arterial O2",
+      "assesses gas exchange",
+      "normal under 10-20 mmHg",
+      "elevated means diffusion barrier",
+      "uses alveolar gas equation",
+      "PAO2 = 150 - PaCO2/0.8",
+      "normalizes by age",
+      "PAO2 minus PaO2"
+    ]
+  },
+  {
+    "id": "respi-18-3",
+    "title": "Low Inspired Oxygen",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "physiology",
+    "buzzwords": [
+      "normal A-a gradient",
+      "reduced alveolar PAO2",
+      "low fraction inspired oxygen",
+      "responds to supplemental O2",
+      "low barometric pressure",
+      "fixed 21% FiO2",
+      "high altitude",
+      "Everest summit PaO2 near 30"
+    ]
+  },
+  {
+    "id": "respi-18-4",
+    "title": "Hypoventilation",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "physiology",
+    "buzzwords": [
+      "normal A-a gradient",
+      "rising PaCO2",
+      "low minute ventilation",
+      "responds to supplemental O2",
+      "reduced rate or tidal volume",
+      "opioid overdose",
+      "neuromuscular weakness",
+      "myasthenia or Guillain-Barre"
+    ]
+  },
+  {
+    "id": "respi-18-5",
+    "title": "V/Q Mismatch",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "physiology",
+    "buzzwords": [
+      "elevated A-a gradient",
+      "most common clinical cause",
+      "ventilation-perfusion imbalance",
+      "normal ratio near 0.8",
+      "partial response to O2",
+      "hypoxic vasoconstriction redistributes flow",
+      "pneumonia or COPD",
+      "spectrum between shunt and dead space"
+    ]
+  },
+  {
+    "id": "respi-18-6",
+    "title": "Right-to-Left Shunt",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "physiology",
+    "buzzwords": [
+      "elevated A-a gradient",
+      "blood bypasses ventilation",
+      "V/Q equals zero",
+      "no response to 100% oxygen",
+      "blood reaches unventilated alveoli",
+      "mucus plug or atelectasis",
+      "ARDS or pulmonary edema",
+      "intracardiac septal defect"
+    ]
+  },
+  {
+    "id": "respi-18-7",
+    "title": "Dead Space",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "physiology",
+    "buzzwords": [
+      "elevated A-a gradient",
+      "ventilation without perfusion",
+      "V/Q approaches infinity",
+      "partial response to O2",
+      "alveoli ventilated not perfused",
+      "low cardiac output",
+      "pulmonary embolism",
+      "obstructing capillary blood flow"
+    ]
+  },
+  {
+    "id": "respi-18-8",
+    "title": "Diffusion Impairment",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "physiology",
+    "buzzwords": [
+      "elevated A-a gradient",
+      "thickened alveolar membrane",
+      "inefficient gas exchange",
+      "responds to supplemental O2",
+      "raising PAO2 overcomes barrier",
+      "interstitial lung disease",
+      "pulmonary fibrosis",
+      "worsens with exertion"
+    ]
+  },
+  {
+    "id": "respi-19-1",
+    "title": "Idiopathic Pulmonary Fibrosis",
+    "course": "respi",
+    "brick_id": "19",
+    "brick_title": "Idiopathic Pulmonary Fibrosis",
+    "type": "disease",
+    "buzzwords": [
+      "progressive interstitial lung disease",
+      "diagnosis of exclusion",
+      "age 55 to 75",
+      "progressive dyspnea",
+      "chronic nonproductive cough",
+      "restrictive pattern, reduced DLCO",
+      "bibasilar Velcro crackles",
+      "no known cause"
+    ]
+  },
+  {
+    "id": "respi-19-2",
+    "title": "Usual Interstitial Pneumonia",
+    "course": "respi",
+    "brick_id": "19",
+    "brick_title": "Idiopathic Pulmonary Fibrosis",
+    "type": "imaging",
+    "buzzwords": [
+      "histologic pattern of IPF",
+      "peripheral patchwork fibrosis",
+      "subpleural and paraseptal predilection",
+      "traction bronchiectasis on CT",
+      "honeycomb changes",
+      "cystic spaces, fibrotic walls",
+      "heterogeneous fibrosis",
+      "fibroblastic foci"
+    ]
+  },
+  {
+    "id": "respi-19-3",
+    "title": "Nintedanib",
+    "course": "respi",
+    "brick_id": "19",
+    "brick_title": "Idiopathic Pulmonary Fibrosis",
+    "type": "drug",
+    "buzzwords": [
+      "antifibrotic for IPF",
+      "slows disease progression",
+      "tyrosine kinase inhibitor",
+      "blocks VEGF, PDGF, FGF",
+      "diarrhea, nausea, vomiting",
+      "drug-induced liver injury",
+      "increased bleeding risk",
+      "inhibits platelet-derived growth factor"
+    ]
+  },
+  {
+    "id": "respi-19-4",
+    "title": "Pirfenidone",
+    "course": "respi",
+    "brick_id": "19",
+    "brick_title": "Idiopathic Pulmonary Fibrosis",
+    "type": "drug",
+    "buzzwords": [
+      "antifibrotic for IPF",
+      "slows disease progression",
+      "blocks fibroblast proliferation",
+      "inhibits TGF-beta collagen synthesis",
+      "reduces extracellular matrix",
+      "photosensitivity reactions",
+      "dizziness, fatigue, reflux",
+      "severe cutaneous Stevens-Johnson syndrome"
+    ]
+  },
+  {
+    "id": "respi-20-1",
+    "title": "Allergic Rhinitis",
+    "course": "respi",
+    "brick_id": "20",
+    "brick_title": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "type": "disease",
+    "buzzwords": [
+      "nasal congestion",
+      "clear watery discharge",
+      "sneezing and itching",
+      "seasonal pollen trigger",
+      "pale bluish boggy mucosa",
+      "type 1 hypersensitivity",
+      "IgE mediated",
+      "hay fever"
+    ]
+  },
+  {
+    "id": "respi-20-2",
+    "title": "Nonallergic Rhinitis",
+    "course": "respi",
+    "brick_id": "20",
+    "brick_title": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "type": "disease",
+    "buzzwords": [
+      "nasal inflammation",
+      "no IgE mechanism",
+      "viral infection trigger",
+      "cold dry air trigger",
+      "perfumes and pollutants",
+      "negative allergy testing",
+      "beefy red mucosa if viral",
+      "nonallergic noninfectious irritant"
+    ]
+  },
+  {
+    "id": "respi-20-3",
+    "title": "Rhinosinusitis",
+    "course": "respi",
+    "brick_id": "20",
+    "brick_title": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "type": "disease",
+    "buzzwords": [
+      "facial pressure and pain",
+      "purulent discharge if bacterial",
+      "postnasal drip",
+      "paranasal sinus inflammation",
+      "acute under 4 weeks",
+      "chronic over 12 weeks",
+      "concurrent nasal cavity inflammation",
+      "Strep pneumoniae most common"
+    ]
+  },
+  {
+    "id": "respi-20-4",
+    "title": "Nasal Polyps",
+    "course": "respi",
+    "brick_id": "20",
+    "brick_title": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "type": "disease",
+    "buzzwords": [
+      "chronic nasal obstruction",
+      "soft fleshy masses",
+      "swollen edematous mucosa",
+      "neutrophilic infiltration",
+      "seen on anterior rhinoscopy",
+      "structural cause of sinusitis",
+      "linked to aspirin reaction",
+      "Samter triad association"
+    ]
+  },
+  {
+    "id": "respi-20-5",
+    "title": "Rhinitis Medicamentosa",
+    "course": "respi",
+    "brick_id": "20",
+    "brick_title": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "type": "disease",
+    "buzzwords": [
+      "worsening nasal congestion",
+      "iatrogenic cause",
+      "rebound congestion",
+      "decongestant spray overuse",
+      "escalating dosing dependency",
+      "limit use to 5 days",
+      "oxymetazoline overuse",
+      "topical decongestant rebound"
+    ]
+  },
+  {
+    "id": "respi-20-6",
+    "title": "Orbital Cellulitis",
+    "course": "respi",
+    "brick_id": "20",
+    "brick_title": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "type": "disease",
+    "buzzwords": [
+      "complication of sinusitis",
+      "ocular pain and swelling",
+      "infection behind orbital septum",
+      "pain with eye movement",
+      "proptosis and diplopia",
+      "urgent CT imaging",
+      "spread to orbit and brain",
+      "distinguish from preseptal cellulitis"
+    ]
+  },
+  {
+    "id": "respi-21-1",
+    "title": "Pharyngitis",
+    "course": "respi",
+    "brick_id": "21",
+    "brick_title": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "type": "disease",
+    "buzzwords": [
+      "sore throat",
+      "pharyngeal inflammation",
+      "most viral",
+      "tender cervical nodes",
+      "tonsillar exudates, no cough",
+      "rapid antigen detection test",
+      "treat with penicillin",
+      "group A strep"
+    ]
+  },
+  {
+    "id": "respi-21-2",
+    "title": "Tonsillitis",
+    "course": "respi",
+    "brick_id": "21",
+    "brick_title": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "type": "disease",
+    "buzzwords": [
+      "sore throat",
+      "inflamed palatine tonsils",
+      "odynophagia",
+      "children over 2",
+      "uvular deviation",
+      "trismus, otalgia",
+      "obstructive sleep apnea risk",
+      "peritonsillar abscess"
+    ]
+  },
+  {
+    "id": "respi-21-3",
+    "title": "Epiglottitis",
+    "course": "respi",
+    "brick_id": "21",
+    "brick_title": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "type": "disease",
+    "buzzwords": [
+      "airway emergency",
+      "dyspnea and drooling",
+      "inspiratory stridor",
+      "muffled hot-potato voice",
+      "tripod position",
+      "nontypeable H. influenzae",
+      "thumbprint sign on X-ray",
+      "cherry-red epiglottis"
+    ]
+  },
+  {
+    "id": "respi-21-4",
+    "title": "Laryngitis",
+    "course": "respi",
+    "brick_id": "21",
+    "brick_title": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "type": "disease",
+    "buzzwords": [
+      "voice box inflammation",
+      "hoarseness",
+      "self-limited",
+      "vocal overuse trigger",
+      "usually viral",
+      "reflux-related noninfectious form",
+      "edematous vocal cords",
+      "laryngoscopy diagnosis"
+    ]
+  },
+  {
+    "id": "respi-21-5",
+    "title": "Croup",
+    "course": "respi",
+    "brick_id": "21",
+    "brick_title": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "type": "disease",
+    "buzzwords": [
+      "tracheolaryngitis",
+      "ages 6 months to 6 years",
+      "vocal hoarseness",
+      "inspiratory stridor",
+      "subglottic narrowing",
+      "barking seal-like cough",
+      "parainfluenza virus",
+      "steeple sign"
+    ]
+  },
+  {
+    "id": "respi-22-1",
+    "title": "Interstitial Lung Disease",
+    "course": "respi",
+    "brick_id": "22",
+    "brick_title": "Interstitial Lung Disease: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "persistent dry cough",
+      "insidious dyspnea",
+      "diffuse parenchymal disease",
+      "progressive fibrosis",
+      "restrictive pattern",
+      "bibasilar inspiratory crackles",
+      "irreversible interstitial scarring",
+      "honeycombing on imaging"
+    ]
+  },
+  {
+    "id": "respi-22-2",
+    "title": "Idiopathic Pulmonary Fibrosis",
+    "course": "respi",
+    "brick_id": "22",
+    "brick_title": "Interstitial Lung Disease: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "no identifiable cause",
+      "primary fibrosis",
+      "smoking risk factor",
+      "chronic GI aspiration",
+      "viral infection trigger",
+      "diagnosis of exclusion",
+      "progressive irreversible scarring",
+      "idiopathic pulmonary fibrosis"
+    ]
+  },
+  {
+    "id": "respi-22-3",
+    "title": "Restrictive Lung Physiology",
+    "course": "respi",
+    "brick_id": "22",
+    "brick_title": "Interstitial Lung Disease: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "stiff noncompliant lungs",
+      "decreased all lung volumes",
+      "reduced total lung capacity",
+      "low FVC and FEV1",
+      "normal or high FEV1/FVC",
+      "reduced DLCO",
+      "V/Q mismatch hypoxemia",
+      "restrictive spirometry pattern"
+    ]
+  },
+  {
+    "id": "respi-22-4",
+    "title": "Honeycombing",
+    "course": "respi",
+    "brick_id": "22",
+    "brick_title": "Interstitial Lung Disease: Foundations and Frameworks",
+    "type": "imaging",
+    "buzzwords": [
+      "advanced ILD finding",
+      "poor prognosis marker",
+      "small cystic air spaces",
+      "reticular lines",
+      "best seen on HRCT",
+      "bibasilar distribution",
+      "clustered subpleural cysts",
+      "honeycomb appearance"
+    ]
+  },
+  {
+    "id": "respi-22-5",
+    "title": "Bronchoalveolar Lavage",
+    "course": "respi",
+    "brick_id": "22",
+    "brick_title": "Interstitial Lung Disease: Foundations and Frameworks",
+    "type": "lab",
+    "buzzwords": [
+      "samples distal airways",
+      "bronchoscope-guided",
+      "saline instilled then aspirated",
+      "collects cells and fluid",
+      "excludes infection malignancy",
+      "rules out alveolar hemorrhage",
+      "identifies underlying cause",
+      "bronchoalveolar lavage"
+    ]
+  },
+  {
+    "id": "respi-23-1",
+    "title": "Mediastinum",
+    "course": "respi",
+    "brick_id": "23",
+    "brick_title": "Mediastinum (Part 1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "central thoracic compartment",
+      "between the lungs",
+      "superior and inferior parts",
+      "houses heart and great vessels",
+      "anterior, middle, posterior regions",
+      "divided at sternal angle",
+      "sternal angle = T4-T5",
+      "Angle of Louis"
+    ]
+  },
+  {
+    "id": "respi-23-2",
+    "title": "Aortic Arch",
+    "course": "respi",
+    "brick_id": "23",
+    "brick_title": "Mediastinum (Part 1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "curves in superior mediastinum",
+      "three great branches",
+      "posterior to sternum",
+      "left common carotid branch",
+      "left subclavian branch",
+      "first branch is brachiocephalic",
+      "brachiocephalic splits right carotid + subclavian",
+      "left RLN loops under it"
+    ]
+  },
+  {
+    "id": "respi-23-3",
+    "title": "Superior Vena Cava",
+    "course": "respi",
+    "brick_id": "23",
+    "brick_title": "Mediastinum (Part 1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "drains upper body",
+      "empties into right atrium",
+      "postero-lateral to aortic arch",
+      "union of brachiocephalic veins",
+      "receives azygos vein",
+      "compressed by mediastinal mass",
+      "facial and neck swelling",
+      "SVC syndrome"
+    ]
+  },
+  {
+    "id": "respi-23-4",
+    "title": "Vagus Nerve",
+    "course": "respi",
+    "brick_id": "23",
+    "brick_title": "Mediastinum (Part 1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "cranial nerve X",
+      "parasympathetic to heart and lungs",
+      "posterior to the SVC",
+      "gives right recurrent laryngeal",
+      "right branch loops subclavian",
+      "left branch loops aortic arch",
+      "recurrent nerve to larynx",
+      "left RLN under ligamentum arteriosum"
+    ]
+  },
+  {
+    "id": "respi-23-5",
+    "title": "Phrenic Nerve",
+    "course": "respi",
+    "brick_id": "23",
+    "brick_title": "Mediastinum (Part 1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "arises from C3-C5",
+      "sole motor to diaphragm",
+      "lateral to great vessels",
+      "anterior to lung root",
+      "along pericardial sac",
+      "sensory to pericardium",
+      "pierces and innervates diaphragm",
+      "C3,4,5 keeps diaphragm alive"
+    ]
+  },
+  {
+    "id": "respi-23-6",
+    "title": "Thymus",
+    "course": "respi",
+    "brick_id": "23",
+    "brick_title": "Mediastinum (Part 1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "anterior mediastinum organ",
+      "matures T-lymphocytes",
+      "involutes after puberty",
+      "fatty remnant in adults",
+      "retrosternal mass widens mediastinum",
+      "tumor associated with myasthenia gravis",
+      "anterior mediastinal mass",
+      "thymoma"
+    ]
+  },
+  {
+    "id": "respi-23-7",
+    "title": "Thoracic Duct",
+    "course": "respi",
+    "brick_id": "23",
+    "brick_title": "Mediastinum (Part 1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "main lymphatic vessel",
+      "ascends posterior mediastinum",
+      "drains most of the body",
+      "drains lower body + left upper",
+      "empties into venous system",
+      "junction of left IJ + subclavian",
+      "begins at cisterna chyli",
+      "carries chyle"
+    ]
+  },
+  {
+    "id": "respi-24-1",
+    "title": "Descending Thoracic Aorta",
+    "course": "respi",
+    "brick_id": "24",
+    "brick_title": "Mediastinum (Part 2 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "great vessel",
+      "posterior to pericardial sac",
+      "primary vessel here",
+      "posterior to esophagus",
+      "gives bronchial branches",
+      "gives esophageal branches",
+      "thoracic portion of aorta",
+      "supplies posterior intercostals"
+    ]
+  },
+  {
+    "id": "respi-24-2",
+    "title": "Azygos System",
+    "course": "respi",
+    "brick_id": "24",
+    "brick_title": "Mediastinum (Part 2 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "venous network",
+      "drains thoracic wall",
+      "posterior mediastinum",
+      "alternative pathway to IVC",
+      "right-sided main vein",
+      "drains into superior vena cava",
+      "hemiazygos vein",
+      "accessory hemiazygos vein"
+    ]
+  },
+  {
+    "id": "respi-24-3",
+    "title": "Sympathetic Trunk",
+    "course": "respi",
+    "brick_id": "24",
+    "brick_title": "Mediastinum (Part 2 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "major nerve",
+      "fight-or-flight",
+      "regulates heart rate",
+      "lies beside vertebral column",
+      "paired bilateral chains",
+      "ganglionated chain",
+      "thoracic part in posterior mediastinum",
+      "gives splanchnic nerves"
+    ]
+  },
+  {
+    "id": "respi-24-4",
+    "title": "Thoracic Splanchnic Nerves",
+    "course": "respi",
+    "brick_id": "24",
+    "brick_title": "Mediastinum (Part 2 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "preganglionic sympathetics",
+      "pierce the diaphragm",
+      "reach abdominal organs",
+      "synapse at prevertebral ganglia",
+      "greater from T5-T9",
+      "lesser from T10-T11",
+      "least nerve from T12",
+      "end at celiac ganglion"
+    ]
+  },
+  {
+    "id": "respi-24-5",
+    "title": "Esophagus",
+    "course": "respi",
+    "brick_id": "24",
+    "brick_title": "Mediastinum (Part 2 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "muscular tube",
+      "posterior to left atrium",
+      "anterior to vertebral column",
+      "three constrictions",
+      "compressed by aortic arch",
+      "compressed by left main bronchus",
+      "compressed by diaphragm",
+      "narrows on barium swallow"
+    ]
+  },
+  {
+    "id": "respi-24-6",
+    "title": "Thoracic Duct",
+    "course": "respi",
+    "brick_id": "24",
+    "brick_title": "Mediastinum (Part 2 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "lymphatic channel",
+      "drains most of body",
+      "travels up from abdomen",
+      "between azygos and esophagus",
+      "transports digested fat",
+      "carries chylomicrons",
+      "drains into left venous angle",
+      "left subclavian-IJ junction"
+    ]
+  },
+  {
+    "id": "respi-24-7",
+    "title": "Chylothorax",
+    "course": "respi",
+    "brick_id": "24",
+    "brick_title": "Mediastinum (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "pleural effusion",
+      "milky fatty fluid",
+      "thoracic duct injury",
+      "lymphocyte predominant",
+      "elevated triglycerides",
+      "elevated chylomicrons",
+      "often from lymphoma",
+      "treat with low oral intake"
+    ]
+  },
+  {
+    "id": "respi-25-1",
+    "title": "Mesothelioma",
+    "course": "respi",
+    "brick_id": "25",
+    "brick_title": "Mesothelioma",
+    "type": "disease",
+    "buzzwords": [
+      "serosal membrane cancer",
+      "slow insidious onset",
+      "85% pleural",
+      "occupational exposure",
+      "BAP1 inactivation",
+      "metastases rare at presentation",
+      "shipyard and construction workers",
+      "asbestos exposure"
+    ]
+  },
+  {
+    "id": "respi-25-2",
+    "title": "Histologic Subtypes",
+    "course": "respi",
+    "brick_id": "25",
+    "brick_title": "Mesothelioma",
+    "type": "lab",
+    "buzzwords": [
+      "diagnosed by morphology and IHC",
+      "tubular and papillary patterns",
+      "most common subtype",
+      "epithelioid type",
+      "fibrosarcoma-like appearance",
+      "paucicellular fibrotic",
+      "sarcomatoid type",
+      "biphasic mixed type"
+    ]
+  },
+  {
+    "id": "respi-25-3",
+    "title": "Local Invasion Complications",
+    "course": "respi",
+    "brick_id": "25",
+    "brick_title": "Mesothelioma",
+    "type": "disease",
+    "buzzwords": [
+      "from local tumor spread",
+      "face and arm swelling",
+      "SVC syndrome",
+      "pericardial fluid compresses heart",
+      "cardiac tamponade",
+      "ptosis miosis anhidrosis",
+      "sympathetic nerve damage",
+      "Horner syndrome"
+    ]
+  },
+  {
+    "id": "respi-25-4",
+    "title": "Diagnosis and Management",
+    "course": "respi",
+    "brick_id": "25",
+    "brick_title": "Mesothelioma",
+    "type": "imaging",
+    "buzzwords": [
+      "pleural-based mass",
+      "pleural plaques and calcifications",
+      "staged with MRI or PET",
+      "talc shrinks pleural space",
+      "pleurodesis for effusion",
+      "median survival 9 to 17 months",
+      "best tissue yield",
+      "VATS biopsy"
+    ]
+  },
+  {
+    "id": "respi-26-1",
+    "title": "NRDS",
+    "course": "respi",
+    "brick_id": "26",
+    "brick_title": "Neonatal Respiratory Distress Syndrome",
+    "type": "disease",
+    "buzzwords": [
+      "respiratory failure in newborns",
+      "presents within hours of birth",
+      "worsens over first 48 hours",
+      "tachypnea, retractions, nasal flaring",
+      "expiratory grunting, cyanosis",
+      "risk: prematurity, maternal diabetes",
+      "surfactant deficiency",
+      "hyaline membrane disease"
+    ]
+  },
+  {
+    "id": "respi-26-2",
+    "title": "Pulmonary Surfactant",
+    "course": "respi",
+    "brick_id": "26",
+    "brick_title": "Neonatal Respiratory Distress Syndrome",
+    "type": "physiology",
+    "buzzwords": [
+      "lipoprotein complex",
+      "phospholipids and proteins",
+      "lowers alveolar surface tension",
+      "prevents alveolar collapse",
+      "made by type 2 pneumocytes",
+      "appears third trimester",
+      "reduces intra-alveolar pressure",
+      "improves lung compliance"
+    ]
+  },
+  {
+    "id": "respi-26-3",
+    "title": "Atelectasis in NRDS",
+    "course": "respi",
+    "brick_id": "26",
+    "brick_title": "Neonatal Respiratory Distress Syndrome",
+    "type": "physiology",
+    "buzzwords": [
+      "alveolar collapse",
+      "high surface tension",
+      "increased work of breathing",
+      "hypoxemia and hypercarbia",
+      "V/Q mismatch",
+      "decreased compliance",
+      "perfused but not ventilated",
+      "progresses to respiratory failure"
+    ]
+  },
+  {
+    "id": "respi-26-4",
+    "title": "Fetal Circulation",
+    "course": "respi",
+    "brick_id": "26",
+    "brick_title": "Neonatal Respiratory Distress Syndrome",
+    "type": "physiology",
+    "buzzwords": [
+      "oxygen from maternal circulation",
+      "lungs filled with fluid",
+      "blood shunted past lungs",
+      "first breaths relax pulmonary vessels",
+      "right ventricle perfuses lungs",
+      "umbilical vessels and placenta",
+      "patent foramen ovale",
+      "patent ductus arteriosus"
+    ]
+  },
+  {
+    "id": "respi-26-5",
+    "title": "NRDS Management",
+    "course": "respi",
+    "brick_id": "26",
+    "brick_title": "Neonatal Respiratory Distress Syndrome",
+    "type": "drug",
+    "buzzwords": [
+      "buys time for endogenous surfactant",
+      "supplemental oxygen, 90-95% sat",
+      "risk of retinopathy of prematurity",
+      "positive end expiratory pressure",
+      "prevents atelectasis",
+      "antenatal corticosteroids to mother",
+      "given 2-7 days before delivery",
+      "exogenous surfactant instillation"
+    ]
+  },
+  {
+    "id": "respi-27-1",
+    "title": "Asthma",
+    "course": "respi",
+    "brick_id": "27",
+    "brick_title": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "obstructive lung disease",
+      "episodic and reversible",
+      "wheezing and chest tightness",
+      "dyspnea and cough",
+      "associated with atopy, eczema",
+      "type I hypersensitivity",
+      "IgE-mediated bronchoconstriction",
+      "smooth muscle hyperplasia"
+    ]
+  },
+  {
+    "id": "respi-27-2",
+    "title": "COPD",
+    "course": "respi",
+    "brick_id": "27",
+    "brick_title": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "chronic obstructive disease",
+      "persistent productive cough",
+      "linked to smoking",
+      "chronic bronchitis plus emphysema",
+      "alveolar destruction",
+      "elastase-driven tissue damage",
+      "chronic hypoxemia, cyanosis",
+      "alpha-1 antitrypsin deficiency"
+    ]
+  },
+  {
+    "id": "respi-27-3",
+    "title": "Restrictive Lung Disease",
+    "course": "respi",
+    "brick_id": "27",
+    "brick_title": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "reduced lung expansion",
+      "decreased lung volumes",
+      "decreased compliance",
+      "low VC and TLC",
+      "intrinsic: pulmonary fibrosis, pneumoconiosis",
+      "extrinsic: chest wall, neuromuscular",
+      "kyphoscoliosis or ALS",
+      "idiopathic pulmonary fibrosis"
+    ]
+  },
+  {
+    "id": "respi-27-4",
+    "title": "Flow-Volume Loops",
+    "course": "respi",
+    "brick_id": "27",
+    "brick_title": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "plots flow against volume",
+      "expiration above, inspiration below",
+      "distinguishes obstructive from restrictive",
+      "obstructive: scooped expiratory limb",
+      "obstructive: increased residual volume",
+      "obstructive: loop shifts left",
+      "restrictive: narrow tall loop",
+      "restrictive: loop shifts right"
+    ]
+  },
+  {
+    "id": "respi-27-5",
+    "title": "PFT Patterns",
+    "course": "respi",
+    "brick_id": "27",
+    "brick_title": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+    "type": "lab",
+    "buzzwords": [
+      "measures airflow and volumes",
+      "FEV1 and FVC",
+      "obstructive: low FEV1/FVC ratio",
+      "ratio below 0.7",
+      "restrictive: normal or high ratio",
+      "restrictive: both FEV1 and FVC low",
+      "diffusing capacity DLCO",
+      "performed by spirometry"
+    ]
+  },
+  {
+    "id": "respi-28-1",
+    "title": "Ventilation Mechanics",
+    "course": "respi",
+    "brick_id": "28",
+    "brick_title": "Overview of Respiratory Physiology",
+    "type": "physiology",
+    "buzzwords": [
+      "moving air in and out",
+      "inhalation and exhalation",
+      "diaphragm contracts down",
+      "thorax expands",
+      "negative intrathoracic pressure",
+      "negative pressure within alveoli",
+      "passive elastic recoil exhales",
+      "active inspiration, passive expiration"
+    ]
+  },
+  {
+    "id": "respi-28-2",
+    "title": "Mucociliary Escalator",
+    "course": "respi",
+    "brick_id": "28",
+    "brick_title": "Overview of Respiratory Physiology",
+    "type": "physiology",
+    "buzzwords": [
+      "airway clearance system",
+      "traps inhaled particles",
+      "sweeps mucus upward",
+      "moves toward pharynx",
+      "expectorated or swallowed",
+      "periciliary fluid plus gel layer",
+      "impaired in cystic fibrosis",
+      "cilia beating mucus blanket"
+    ]
+  },
+  {
+    "id": "respi-28-3",
+    "title": "Airway Epithelial Cells",
+    "course": "respi",
+    "brick_id": "28",
+    "brick_title": "Overview of Respiratory Physiology",
+    "type": "anatomy",
+    "buzzwords": [
+      "pseudostratified columnar epithelium",
+      "ciliated cells line airway",
+      "goblet cells secrete mucus",
+      "submucosal glands add fluid",
+      "secrete IgA, antimicrobial peptides",
+      "patrolled by macrophages",
+      "club cells secrete protective proteins",
+      "club cells are bronchiolar progenitors"
+    ]
+  },
+  {
+    "id": "respi-28-4",
+    "title": "Alveolar-Capillary Barrier",
+    "course": "respi",
+    "brick_id": "28",
+    "brick_title": "Overview of Respiratory Physiology",
+    "type": "anatomy",
+    "buzzwords": [
+      "very thin gas-liquid barrier",
+      "site of gas exchange",
+      "fluid and surfactant layer",
+      "type I and II pneumocytes",
+      "two fused basement membranes",
+      "interstitial space with elastin",
+      "continuous capillary endothelium",
+      "no fenestrae unlike other capillaries"
+    ]
+  },
+  {
+    "id": "respi-28-5",
+    "title": "Fick's Law of Diffusion",
+    "course": "respi",
+    "brick_id": "28",
+    "brick_title": "Overview of Respiratory Physiology",
+    "type": "physiology",
+    "buzzwords": [
+      "governs gas movement",
+      "proportional to surface area",
+      "driven by pressure gradient",
+      "inversely related to thickness",
+      "thickened membrane reduces diffusion",
+      "emphysema cuts surface area",
+      "fibrosis thickens the membrane",
+      "Fick's law of diffusion"
+    ]
+  },
+  {
+    "id": "respi-29-1",
+    "title": "Arterial Oxygen Content",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "lab",
+    "buzzwords": [
+      "total O2 in blood",
+      "depends on hemoglobin",
+      "falls in anemia",
+      "normal saturation can mask low value",
+      "~20 mL/dL normally",
+      "1.36 mL O2 per gram Hb",
+      "(1.36 x Hb x SaO2) + dissolved",
+      "CaO2"
+    ]
+  },
+  {
+    "id": "respi-29-2",
+    "title": "Oxygen Saturation",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "lab",
+    "buzzwords": [
+      "percent of binding sites occupied",
+      "measured on pulse oximeter",
+      "normal value ~98%",
+      "stays normal in anemia",
+      "not the amount of hemoglobin",
+      "y-axis of dissociation curve",
+      "SpO2",
+      "SaO2"
+    ]
+  },
+  {
+    "id": "respi-29-3",
+    "title": "Arterial Partial Pressure O2",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "lab",
+    "buzzwords": [
+      "reflects dissolved oxygen",
+      "drives diffusion into plasma",
+      "low solubility 0.003 mL/mmHg/dL",
+      "measured on arterial blood gas",
+      "normal in anemia",
+      "~2% of total oxygen",
+      "x-axis of dissociation curve",
+      "PaO2"
+    ]
+  },
+  {
+    "id": "respi-29-4",
+    "title": "CO2 as Bicarbonate",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "physiology",
+    "buzzwords": [
+      "main form of CO2 transport",
+      "~85% of CO2",
+      "made inside red blood cells",
+      "H+ buffered by hemoglobin",
+      "shifted out via chloride exchange",
+      "reverses at the lungs",
+      "catalyzed by carbonic anhydrase",
+      "HCO3-"
+    ]
+  },
+  {
+    "id": "respi-29-5",
+    "title": "Carbaminohemoglobin",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "physiology",
+    "buzzwords": [
+      "minor CO2 transport form",
+      "~10% of CO2",
+      "binds amino groups",
+      "not on the heme",
+      "favored when oxygen is low",
+      "released at the lungs",
+      "deoxyhemoglobin binds CO2 better",
+      "carbaminohemoglobin"
+    ]
+  },
+  {
+    "id": "respi-29-6",
+    "title": "Carbonic Anhydrase",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "physiology",
+    "buzzwords": [
+      "enzyme inside red blood cells",
+      "interconverts CO2 and bicarbonate",
+      "CO2 + H2O to carbonic acid",
+      "catalyzes both directions equally",
+      "direction set by reactant levels",
+      "regenerates CO2 at the lungs",
+      "central to pH regulation",
+      "carbonic anhydrase"
+    ]
+  },
+  {
+    "id": "respi-29-7",
+    "title": "Oxygen Dissociation Curve",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "physiology",
+    "buzzwords": [
+      "saturation versus partial pressure",
+      "sigmoid shape",
+      "reflects cooperative binding",
+      "plateau plus steep slope",
+      "P50 normally 28 mmHg",
+      "P50 is 50% saturation point",
+      "right shift unloads oxygen",
+      "left shift loads oxygen"
+    ]
+  },
+  {
+    "id": "respi-29-8",
+    "title": "Bohr Effect",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "physiology",
+    "buzzwords": [
+      "affects oxygen affinity",
+      "low pH lowers affinity",
+      "high CO2 lowers affinity",
+      "promotes unloading in tissues",
+      "rightward curve shift",
+      "exercise and septic shock",
+      "diabetic ketoacidosis shifts right",
+      "Bohr effect"
+    ]
+  },
+  {
+    "id": "respi-29-9",
+    "title": "Haldane Effect",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "physiology",
+    "buzzwords": [
+      "affects CO2 carriage",
+      "deoxyhemoglobin binds more CO2",
+      "deoxyhemoglobin buffers more H+",
+      "oxygenation releases CO2",
+      "drives CO2 uptake in tissues",
+      "drives CO2 release at lungs",
+      "couples O2 and CO2 transport",
+      "Haldane effect"
+    ]
+  },
+  {
+    "id": "respi-29-10",
+    "title": "Fetal Hemoglobin",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "physiology",
+    "buzzwords": [
+      "left-shifted curve",
+      "higher oxygen affinity",
+      "gamma chains",
+      "binds 2,3-DPG poorly",
+      "outcompetes maternal hemoglobin",
+      "pulls oxygen at placenta",
+      "facilitates maternal-to-fetal transfer",
+      "hemoglobin F"
+    ]
+  },
+  {
+    "id": "respi-30-1",
+    "title": "Respiratory Membrane",
+    "course": "respi",
+    "brick_id": "30",
+    "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "type": "anatomy",
+    "buzzwords": [
+      "site of gas exchange",
+      "barrier between air and blood",
+      "thinner = faster diffusion",
+      "alveolar-capillary unit",
+      "thickened in pulmonary fibrosis",
+      "thin epithelium plus endothelium",
+      "fused basement membranes",
+      "Fick's law diffusion"
+    ]
+  },
+  {
+    "id": "respi-30-2",
+    "title": "Pneumocytes",
+    "course": "respi",
+    "brick_id": "30",
+    "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "type": "anatomy",
+    "buzzwords": [
+      "alveolar epithelial cells",
+      "type 1 squamous and thin",
+      "cover 95% of surface",
+      "type 2 cuboidal progenitor",
+      "macrophages kill pathogens",
+      "secrete surfactant lowering tension",
+      "L/S ratio over 2.0 mature",
+      "low ratio causes NRDS"
+    ]
+  },
+  {
+    "id": "respi-30-3",
+    "title": "DLCO",
+    "course": "respi",
+    "brick_id": "30",
+    "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "type": "lab",
+    "buzzwords": [
+      "overall gas transfer efficiency",
+      "inhale small nontoxic gas",
+      "measures membrane and capillary blood",
+      "low in emphysema and fibrosis",
+      "increased with exercise",
+      "increased in polycythemia",
+      "decreased in anemia",
+      "carbon monoxide uptake test"
+    ]
+  },
+  {
+    "id": "respi-30-4",
+    "title": "A-a Gradient",
+    "course": "respi",
+    "brick_id": "30",
+    "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "type": "lab",
+    "buzzwords": [
+      "assesses cause of hypoxemia",
+      "subtract arterial from alveolar oxygen",
+      "needs alveolar gas equation",
+      "normal under 10 mmHg",
+      "rises with age",
+      "normal in hypoventilation",
+      "elevated in V/Q mismatch",
+      "estimated by age over four plus four"
+    ]
+  },
+  {
+    "id": "respi-30-5",
+    "title": "Perfusion-Limited Exchange",
+    "course": "respi",
+    "brick_id": "30",
+    "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "limited only by blood flow",
+      "equilibrates early in capillary",
+      "uptake stops once equilibrated",
+      "more flow means more transfer",
+      "normal oxygen at rest",
+      "increasing flow raises uptake",
+      "describes most gases normally",
+      "nitrous oxide example"
+    ]
+  },
+  {
+    "id": "respi-30-6",
+    "title": "Diffusion-Limited Exchange",
+    "course": "respi",
+    "brick_id": "30",
+    "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "never reaches equilibrium",
+      "limited by membrane properties",
+      "gradient maintained whole capillary",
+      "worse with thickened membrane",
+      "oxygen becomes limited in disease",
+      "seen with fibrosis and edema",
+      "unmasked by exercise",
+      "carbon monoxide example"
+    ]
+  },
+  {
+    "id": "respi-30-7",
+    "title": "Arterial Blood Gas",
+    "course": "respi",
+    "brick_id": "30",
+    "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "type": "lab",
+    "buzzwords": [
+      "assesses oxygenation and acid-base",
+      "PaO2 75 to 105",
+      "PaCO2 33 to 45",
+      "pH 7.35 to 7.45",
+      "bicarbonate 22 to 28",
+      "high CO2 is hypercapnia",
+      "low O2 is hypoxemia",
+      "COPD shows retained CO2"
+    ]
+  },
+  {
+    "id": "respi-31-1",
+    "title": "Ventilation vs Respiration",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "physiology",
+    "buzzwords": [
+      "two distinct processes",
+      "moving air vs gas exchange",
+      "driven by pressure gradients",
+      "regulated by brainstem centers",
+      "responds to PaCO2",
+      "external vs internal types",
+      "mechanical air movement",
+      "ventilation vs respiration"
+    ]
+  },
+  {
+    "id": "respi-31-2",
+    "title": "Primary Respiratory Muscles",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "anatomy",
+    "buzzwords": [
+      "drive quiet breathing",
+      "contract during inspiration",
+      "increase thoracic volume",
+      "lower intrapleural pressure",
+      "external intercostals elevate ribs",
+      "~75% of inspiratory effort",
+      "dome flattens downward",
+      "diaphragm"
+    ]
+  },
+  {
+    "id": "respi-31-3",
+    "title": "Accessory Muscles",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "anatomy",
+    "buzzwords": [
+      "recruited in respiratory distress",
+      "used in forced breathing",
+      "inspiratory ones elevate ribs",
+      "expiratory ones depress ribs",
+      "abdominals raise intraabdominal pressure",
+      "internal intercostals aid expiration",
+      "scalenes and serratus anterior",
+      "sternocleidomastoid"
+    ]
+  },
+  {
+    "id": "respi-31-4",
+    "title": "Alveolar Pressure",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "physiology",
+    "buzzwords": [
+      "pressure inside alveoli",
+      "fluctuates during breathing",
+      "zero at no airflow",
+      "drives air in and out",
+      "negative during inspiration",
+      "positive during expiration",
+      "about minus 1 cmH2O inhaling",
+      "Palv"
+    ]
+  },
+  {
+    "id": "respi-31-5",
+    "title": "Intrapleural Pressure",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "physiology",
+    "buzzwords": [
+      "pressure in pleural space",
+      "normally negative suction",
+      "keeps lung from collapsing",
+      "becomes more negative inhaling",
+      "from opposing elastic recoils",
+      "around minus 5 cmH2O",
+      "can turn positive forced expiration",
+      "Ppl"
+    ]
+  },
+  {
+    "id": "respi-31-6",
+    "title": "Transpulmonary Pressure",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "physiology",
+    "buzzwords": [
+      "distending pressure",
+      "alveolar minus pleural",
+      "always positive normally",
+      "keeps alveoli inflated",
+      "rises during inspiration",
+      "zero collapses the lung",
+      "about plus 5 cmH2O at rest",
+      "Ptp = Palv minus Ppl"
+    ]
+  },
+  {
+    "id": "respi-31-7",
+    "title": "Pneumothorax",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "disease",
+    "buzzwords": [
+      "air enters pleural space",
+      "intrapleural pressure rises to zero",
+      "transpulmonary pressure lost",
+      "lung collapses",
+      "hypoxic and short of breath",
+      "treated with chest tube suction",
+      "restores negative pleural pressure",
+      "collapsed lung re-expands"
+    ]
+  },
+  {
+    "id": "respi-31-8",
+    "title": "Surfactant",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "physiology",
+    "buzzwords": [
+      "made by type II alveolar cells",
+      "lowers surface tension",
+      "increases lung compliance",
+      "stabilizes small alveoli",
+      "prevents alveolar collapse",
+      "more concentrated when alveolus shrinks",
+      "reduces work of breathing",
+      "counters LaPlace's law collapse"
+    ]
+  },
+  {
+    "id": "respi-31-9",
+    "title": "Neonatal RDS",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "disease",
+    "buzzwords": [
+      "preterm infants affected",
+      "surfactant deficiency",
+      "widespread alveolar collapse",
+      "atelectasis and low compliance",
+      "increased work of breathing",
+      "antenatal steroids stimulate surfactant",
+      "treated with exogenous surfactant",
+      "neonatal respiratory distress syndrome"
+    ]
+  },
+  {
+    "id": "respi-32-1",
+    "title": "Pleural Effusion",
+    "course": "respi",
+    "brick_id": "32",
+    "brick_title": "Pleural Effusion",
+    "type": "disease",
+    "buzzwords": [
+      "fluid in pleural space",
+      "over 15 mL abnormal",
+      "may cause pleuritic chest pain",
+      "dyspnea when large",
+      "dullness to percussion",
+      "decreased breath sounds at base",
+      "blunted costophrenic angle on x-ray",
+      "meniscus sign"
+    ]
+  },
+  {
+    "id": "respi-32-2",
+    "title": "Transudative Effusion",
+    "course": "respi",
+    "brick_id": "32",
+    "brick_title": "Pleural Effusion",
+    "type": "disease",
+    "buzzwords": [
+      "thin and watery",
+      "low protein and cells",
+      "caused by systemic disorders",
+      "increased hydrostatic pressure",
+      "decreased oncotic pressure",
+      "altered Starling forces",
+      "heart failure or cirrhosis",
+      "hypoalbuminemia"
+    ]
+  },
+  {
+    "id": "respi-32-3",
+    "title": "Exudative Effusion",
+    "course": "respi",
+    "brick_id": "32",
+    "brick_title": "Pleural Effusion",
+    "type": "disease",
+    "buzzwords": [
+      "thick and proteinaceous",
+      "caused by local pathology",
+      "increased capillary permeability",
+      "from infection or malignancy",
+      "parapneumonic effusion",
+      "milky chylothorax if duct ruptured",
+      "hemothorax after trauma",
+      "high protein and LDH"
+    ]
+  },
+  {
+    "id": "respi-32-4",
+    "title": "Light's Criteria",
+    "course": "respi",
+    "brick_id": "32",
+    "brick_title": "Pleural Effusion",
+    "type": "lab",
+    "buzzwords": [
+      "classifies pleural fluid",
+      "transudate versus exudate",
+      "uses protein and LDH",
+      "single positive means exudate",
+      "pleural/serum protein over 0.5",
+      "pleural/serum LDH over 0.6",
+      "pleural LDH over 200 U/L",
+      "Light's criteria"
+    ]
+  },
+  {
+    "id": "respi-32-5",
+    "title": "Thoracentesis",
+    "course": "respi",
+    "brick_id": "32",
+    "brick_title": "Pleural Effusion",
+    "type": "physiology",
+    "buzzwords": [
+      "needle into pleural space",
+      "samples fluid for analysis",
+      "ultrasound-guided at bedside",
+      "both diagnostic and therapeutic",
+      "drains fluid to ease dyspnea",
+      "needle inserted above the rib",
+      "avoids neurovascular bundle",
+      "empyemas need tube drainage"
+    ]
+  },
+  {
+    "id": "respi-33-1",
+    "title": "Coal Workers' Pneumoconiosis",
+    "course": "respi",
+    "brick_id": "33",
+    "brick_title": "Pneumoconioses",
+    "type": "disease",
+    "buzzwords": [
+      "occupational lung disease",
+      "coal dust inhalation",
+      "coal miners",
+      "usually benign",
+      "upper-lobe nodules",
+      "carbon-laden macrophages",
+      "anthracosis",
+      "black lung"
+    ]
+  },
+  {
+    "id": "respi-33-2",
+    "title": "Silicosis",
+    "course": "respi",
+    "brick_id": "33",
+    "brick_title": "Pneumoconioses",
+    "type": "disease",
+    "buzzwords": [
+      "occupational lung disease",
+      "rock mining",
+      "sandblasting",
+      "upper-lobe nodules",
+      "increased TB susceptibility",
+      "hilar lymph node calcification",
+      "eggshell calcification",
+      "silica dust inhalation"
+    ]
+  },
+  {
+    "id": "respi-33-3",
+    "title": "Asbestosis",
+    "course": "respi",
+    "brick_id": "33",
+    "brick_title": "Pneumoconioses",
+    "type": "disease",
+    "buzzwords": [
+      "occupational lung disease",
+      "shipbuilding, plumbing",
+      "lower-lobe fibrosis",
+      "pleural plaques",
+      "pleural effusions",
+      "raises lung cancer risk",
+      "mesothelioma risk",
+      "asbestos bodies"
+    ]
+  },
+  {
+    "id": "respi-34-1",
+    "title": "Primary Spontaneous Pneumothorax",
+    "course": "respi",
+    "brick_id": "34",
+    "brick_title": "Pneumothorax",
+    "type": "disease",
+    "buzzwords": [
+      "air in pleural space",
+      "no underlying lung disease",
+      "sudden pleuritic chest pain",
+      "decreased breath sounds",
+      "hyperresonant percussion",
+      "tall thin young males",
+      "apical lung blebs",
+      "ruptured subpleural bleb"
+    ]
+  },
+  {
+    "id": "respi-34-2",
+    "title": "Tension Pneumothorax",
+    "course": "respi",
+    "brick_id": "34",
+    "brick_title": "Pneumothorax",
+    "type": "disease",
+    "buzzwords": [
+      "progressive air accumulation",
+      "one-way valve defect",
+      "hemodynamic compromise",
+      "distended neck veins",
+      "tachycardia and hypotension",
+      "obstructive shock",
+      "tracheal deviation away",
+      "needle decompression emergency"
+    ]
+  },
+  {
+    "id": "respi-34-3",
+    "title": "Secondary Spontaneous Pneumothorax",
+    "course": "respi",
+    "brick_id": "34",
+    "brick_title": "Pneumothorax",
+    "type": "disease",
+    "buzzwords": [
+      "air in pleural space",
+      "known underlying lung disease",
+      "older patients over 55",
+      "ruptured emphysematous bullae",
+      "associated with smoking",
+      "COVID-19 and TB linked",
+      "most commonly COPD",
+      "higher mortality risk"
+    ]
+  },
+  {
+    "id": "respi-34-4",
+    "title": "Traumatic Pneumothorax",
+    "course": "respi",
+    "brick_id": "34",
+    "brick_title": "Pneumothorax",
+    "type": "disease",
+    "buzzwords": [
+      "air enters pleural space",
+      "penetrating chest trauma",
+      "blunt injury with rib fracture",
+      "knife or gunshot wound",
+      "ventilator barotrauma",
+      "iatrogenic from central line",
+      "thoracentesis complication",
+      "high airway pressure cause"
+    ]
+  },
+  {
+    "id": "respi-34-5",
+    "title": "Chest Tube Thoracostomy",
+    "course": "respi",
+    "brick_id": "34",
+    "brick_title": "Pneumothorax",
+    "type": "physiology",
+    "buzzwords": [
+      "drains air from pleura",
+      "treats large pneumothorax",
+      "directed apically",
+      "underwater seal one-way valve",
+      "three-bottle suction system",
+      "sentinel hole inside ribcage",
+      "post-placement chest x-ray",
+      "tube thoracostomy"
+    ]
+  },
+  {
+    "id": "respi-34-6",
+    "title": "Chemical Pleurodesis",
+    "course": "respi",
+    "brick_id": "34",
+    "brick_title": "Pneumothorax",
+    "type": "physiology",
+    "buzzwords": [
+      "treats recurrent pneumothorax",
+      "prevents future relapse",
+      "obliterates pleural space",
+      "adheres visceral to parietal pleura",
+      "keeps lung against chest wall",
+      "irritant induces inflammation",
+      "thoracoscopic bleb resection",
+      "chemical pleurodesis"
+    ]
+  },
+  {
+    "id": "respi-36-1",
+    "title": "Pulmonary Circulation",
+    "course": "respi",
+    "brick_id": "36",
+    "brick_title": "Pulmonary Circulation",
+    "type": "physiology",
+    "buzzwords": [
+      "low-pressure system",
+      "high compliance",
+      "thin-walled vessels",
+      "acts as blood reservoir",
+      "PVR one-tenth of SVR",
+      "mean pressure ~15 mmHg",
+      "equal cardiac output",
+      "protects alveolar capillaries"
+    ]
+  },
+  {
+    "id": "respi-36-2",
+    "title": "West's Lung Zones",
+    "course": "respi",
+    "brick_id": "36",
+    "brick_title": "Pulmonary Circulation",
+    "type": "physiology",
+    "buzzwords": [
+      "gravity-dependent perfusion",
+      "highest flow at base",
+      "lowest flow at apex",
+      "zone 3 base: Pa>Pv>PA",
+      "zone 2 mid: Pa>PA>Pv",
+      "zone 1 apex: PA>Pa>Pv",
+      "zone 1 is dead space",
+      "West's zones"
+    ]
+  },
+  {
+    "id": "respi-36-3",
+    "title": "Pulmonary Vascular Resistance",
+    "course": "respi",
+    "brick_id": "36",
+    "brick_title": "Pulmonary Circulation",
+    "type": "physiology",
+    "buzzwords": [
+      "falls with higher output",
+      "capillary recruitment",
+      "vessel distension",
+      "U-shaped vs lung volume",
+      "lowest at FRC",
+      "high at RV and TLC",
+      "resistance proportional to 1/r^4",
+      "Poiseuille's law"
+    ]
+  },
+  {
+    "id": "respi-36-4",
+    "title": "Hypoxic Vasoconstriction",
+    "course": "respi",
+    "brick_id": "36",
+    "brick_title": "Pulmonary Circulation",
+    "type": "physiology",
+    "buzzwords": [
+      "vessels constrict in hypoxia",
+      "opposite of systemic dilation",
+      "diverts flow to oxygenated lung",
+      "optimizes V/Q matching",
+      "onset within seconds",
+      "global hypoxia causes pulmonary HTN",
+      "leads to cor pulmonale",
+      "HPV"
+    ]
+  },
+  {
+    "id": "respi-36-5",
+    "title": "Pulmonary Edema",
+    "course": "respi",
+    "brick_id": "36",
+    "brick_title": "Pulmonary Circulation",
+    "type": "disease",
+    "buzzwords": [
+      "fluid floods alveoli",
+      "impairs gas exchange",
+      "increased hydrostatic pressure",
+      "low oncotic pressure",
+      "increased capillary permeability",
+      "impaired lymphatic drainage",
+      "cardiogenic from left heart failure",
+      "Starling forces imbalance"
+    ]
+  },
+  {
+    "id": "respi-37-1",
+    "title": "Lung Volumes",
+    "course": "respi",
+    "brick_id": "37",
+    "brick_title": "Pulmonary Function Tests (PFT)",
+    "type": "physiology",
+    "buzzwords": [
+      "four basic volumes",
+      "do not overlap",
+      "tidal volume ~0.5 L",
+      "inspiratory reserve volume",
+      "expiratory reserve volume",
+      "air left after max exhale",
+      "RV not measured by spirometry",
+      "residual volume"
+    ]
+  },
+  {
+    "id": "respi-37-2",
+    "title": "Lung Capacities",
+    "course": "respi",
+    "brick_id": "37",
+    "brick_title": "Pulmonary Function Tests (PFT)",
+    "type": "physiology",
+    "buzzwords": [
+      "sums of two or more volumes",
+      "max air after full inhale",
+      "TV plus IRV",
+      "air left after normal exhale",
+      "ERV plus RV at rest",
+      "max inhale to max exhale",
+      "everything but residual volume",
+      "TLC, VC, IC, FRC"
+    ]
+  },
+  {
+    "id": "respi-37-3",
+    "title": "Spirometry",
+    "course": "respi",
+    "brick_id": "37",
+    "brick_title": "Pulmonary Function Tests (PFT)",
+    "type": "lab",
+    "buzzwords": [
+      "forceful complete exhalation",
+      "cannot measure residual volume",
+      "nose clip, tight mouthpiece",
+      "volume-time curve",
+      "FVC and FEV1",
+      "normal ratio at or above 0.7",
+      "LLN is 5th percentile",
+      "Z score < -1.65"
+    ]
+  },
+  {
+    "id": "respi-37-4",
+    "title": "Flow-Volume Loop",
+    "course": "respi",
+    "brick_id": "37",
+    "brick_title": "Pulmonary Function Tests (PFT)",
+    "type": "lab",
+    "buzzwords": [
+      "flow versus lung volume",
+      "no time axis",
+      "x-axis reads backward",
+      "peak expiratory flow at top",
+      "obstructive shifts left",
+      "restrictive shifts right, narrow",
+      "fixed upper airway obstruction flattens both",
+      "plateau on inspiration and expiration"
+    ]
+  },
+  {
+    "id": "respi-37-5",
+    "title": "Obstructive Lung Disease",
+    "course": "respi",
+    "brick_id": "37",
+    "brick_title": "Pulmonary Function Tests (PFT)",
+    "type": "disease",
+    "buzzwords": [
+      "trouble exhaling air",
+      "air trapping, hyperinflation",
+      "increased RV, FRC, TLC",
+      "FEV1 drops more than FVC",
+      "low FEV1/FVC ratio",
+      "reversibility suggests asthma",
+      "COPD, asthma, bronchitis",
+      "FEV1/FVC < 0.7"
+    ]
+  },
+  {
+    "id": "respi-37-6",
+    "title": "Restrictive Lung Disease",
+    "course": "respi",
+    "brick_id": "37",
+    "brick_title": "Pulmonary Function Tests (PFT)",
+    "type": "disease",
+    "buzzwords": [
+      "trouble filling lungs",
+      "reduced lung volumes",
+      "low RV, FRC, TLC",
+      "FEV1 and FVC fall together",
+      "ratio normal or elevated",
+      "confirmed by TLC below LLN",
+      "intrinsic versus extrinsic causes",
+      "pulmonary fibrosis"
+    ]
+  },
+  {
+    "id": "respi-37-7",
+    "title": "DLCO",
+    "course": "respi",
+    "brick_id": "37",
+    "brick_title": "Pulmonary Function Tests (PFT)",
+    "type": "lab",
+    "buzzwords": [
+      "measures gas exchange efficiency",
+      "single inhaled breath of CO",
+      "tests alveolar-capillary membrane",
+      "low in destroyed surface area",
+      "decreased in emphysema",
+      "decreased in interstitial disease",
+      "low in pulmonary vascular disease",
+      "diffusing capacity for carbon monoxide"
+    ]
+  },
+  {
+    "id": "respi-38-1",
+    "title": "Ventilation",
+    "course": "respi",
+    "brick_id": "38",
+    "brick_title": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "type": "physiology",
+    "buzzwords": [
+      "movement of air",
+      "into and out of alveoli",
+      "abbreviated V dot",
+      "increases at lung base",
+      "gravity-dependent expansion",
+      "less at apex",
+      "alveoli compress at base",
+      "depends on inspiration"
+    ]
+  },
+  {
+    "id": "respi-38-2",
+    "title": "Perfusion",
+    "course": "respi",
+    "brick_id": "38",
+    "brick_title": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "type": "physiology",
+    "buzzwords": [
+      "delivery of blood",
+      "abbreviated Q dot",
+      "carries deoxygenated blood",
+      "highest at lung base",
+      "lowest at apex",
+      "driven by gravity",
+      "vascular resistance dependent",
+      "~5 L/min at rest"
+    ]
+  },
+  {
+    "id": "respi-38-3",
+    "title": "V/Q Ratio",
+    "course": "respi",
+    "brick_id": "38",
+    "brick_title": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "type": "physiology",
+    "buzzwords": [
+      "airflow vs blood flow",
+      "matching index",
+      "normal whole-lung ~0.8",
+      "high at apex (~3)",
+      "low at base (~0.6)",
+      "decreases base to apex",
+      "ideal value is 1",
+      "ratio of V dot to Q dot"
+    ]
+  },
+  {
+    "id": "respi-38-4",
+    "title": "West Zones",
+    "course": "respi",
+    "brick_id": "38",
+    "brick_title": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "type": "physiology",
+    "buzzwords": [
+      "three regions of lung",
+      "gravity-based perfusion gradient",
+      "Zone 1 apex, V/Q >1",
+      "Zone 3 base, V/Q <1",
+      "Zone 2 middle, V/Q ~0.8",
+      "PA > Pa > Pv at apex",
+      "Pa > Pv > PA at base",
+      "alveolar vs vascular pressures"
+    ]
+  },
+  {
+    "id": "respi-38-5",
+    "title": "Shunt",
+    "course": "respi",
+    "brick_id": "38",
+    "brick_title": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "type": "physiology",
+    "buzzwords": [
+      "perfusion without ventilation",
+      "V/Q approaches zero",
+      "low V/Q extreme",
+      "blocked alveoli",
+      "causes hypoxemia",
+      "pneumonia or atelectasis",
+      "poor response to supplemental O2",
+      "triggers hypoxic vasoconstriction"
+    ]
+  },
+  {
+    "id": "respi-38-6",
+    "title": "Dead Space",
+    "course": "respi",
+    "brick_id": "38",
+    "brick_title": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "type": "physiology",
+    "buzzwords": [
+      "ventilation without perfusion",
+      "V/Q approaches infinity",
+      "high V/Q extreme",
+      "anatomical ~150 mL",
+      "conducting airways",
+      "gas resembles inspired air",
+      "responds to supplemental O2",
+      "pulmonary embolism"
+    ]
+  },
+  {
+    "id": "respi-39-1",
+    "title": "Respiratory Acidosis",
+    "course": "respi",
+    "brick_id": "39",
+    "brick_title": "Respiratory Acidosis",
+    "type": "disease",
+    "buzzwords": [
+      "low blood pH",
+      "pH < 7.35",
+      "altered mental status",
+      "CO2 alters brain function",
+      "hypoventilation",
+      "elevated PaCO2",
+      "primary lung disorder",
+      "PaCO2 > 40 mmHg"
+    ]
+  },
+  {
+    "id": "respi-39-2",
+    "title": "Causes",
+    "course": "respi",
+    "brick_id": "39",
+    "brick_title": "Respiratory Acidosis",
+    "type": "physiology",
+    "buzzwords": [
+      "decreased ventilation",
+      "impaired gas exchange",
+      "decreased respiratory drive",
+      "opioid overdose",
+      "respiratory muscle weakness",
+      "upper airway obstruction",
+      "COPD exacerbation",
+      "Guillain-Barre"
+    ]
+  },
+  {
+    "id": "respi-39-3",
+    "title": "Renal Compensation",
+    "course": "respi",
+    "brick_id": "39",
+    "brick_title": "Respiratory Acidosis",
+    "type": "physiology",
+    "buzzwords": [
+      "kidneys respond",
+      "excrete H+ in urine",
+      "regenerate bicarbonate",
+      "buffered by phosphate, ammonium",
+      "rising HCO3",
+      "high bicarbonate if chronic",
+      "minimal change if acute",
+      "Henderson-Hasselbalch rebalance"
+    ]
+  },
+  {
+    "id": "respi-39-4",
+    "title": "Management",
+    "course": "respi",
+    "brick_id": "39",
+    "brick_title": "Respiratory Acidosis",
+    "type": "physiology",
+    "buzzwords": [
+      "improve ventilation",
+      "blow off CO2",
+      "increase tidal volume",
+      "naloxone for opioids",
+      "BiPAP",
+      "intubation if fatigued",
+      "pinpoint pupils clue",
+      "treat underlying cause"
+    ]
+  },
+  {
+    "id": "respi-40-1",
+    "title": "Respiratory Alkalosis",
+    "course": "respi",
+    "brick_id": "40",
+    "brick_title": "Respiratory Alkalosis",
+    "type": "disease",
+    "buzzwords": [
+      "high blood pH",
+      "primary acid-base disorder",
+      "alveolar ventilation exceeds demand",
+      "low PaCO2",
+      "hypocapnia",
+      "tingling and dizziness",
+      "tetany from low ionized calcium",
+      "perioral paresthesias"
+    ]
+  },
+  {
+    "id": "respi-40-2",
+    "title": "Bicarbonate Buffer System",
+    "course": "respi",
+    "brick_id": "40",
+    "brick_title": "Respiratory Alkalosis",
+    "type": "physiology",
+    "buzzwords": [
+      "primary extracellular buffer",
+      "normal pH 7.35 to 7.45",
+      "CO2 plus water",
+      "forms carbonic acid",
+      "yields H+ and bicarbonate",
+      "hyperventilation lowers CO2",
+      "shifts left raising pH",
+      "carbonic anhydrase catalyzed"
+    ]
+  },
+  {
+    "id": "respi-40-3",
+    "title": "Hypoxemic Hyperventilation",
+    "course": "respi",
+    "brick_id": "40",
+    "brick_title": "Respiratory Alkalosis",
+    "type": "physiology",
+    "buzzwords": [
+      "low PO2 trigger",
+      "reflex increased ventilation",
+      "high altitude low FiO2",
+      "pneumonia, CHF, ARDS",
+      "reduced alveolar diffusion",
+      "peripheral chemoreceptors sense it",
+      "carotid and aortic bodies",
+      "pulmonary embolism cause"
+    ]
+  },
+  {
+    "id": "respi-40-4",
+    "title": "Nonhypoxic Hyperventilation",
+    "course": "respi",
+    "brick_id": "40",
+    "brick_title": "Respiratory Alkalosis",
+    "type": "physiology",
+    "buzzwords": [
+      "normal PO2",
+      "hyperthyroidism, sepsis, fever",
+      "pregnancy progesterone effect",
+      "increased tidal volume",
+      "liver cirrhosis",
+      "respiratory center stimulation",
+      "panic disorder most common",
+      "early aspirin overdose"
+    ]
+  },
+  {
+    "id": "respi-40-5",
+    "title": "Renal Compensation",
+    "course": "respi",
+    "brick_id": "40",
+    "brick_title": "Respiratory Alkalosis",
+    "type": "physiology",
+    "buzzwords": [
+      "kidneys correct high pH",
+      "metabolic compensation",
+      "bicarbonate excretion",
+      "lowers serum HCO3",
+      "takes hours to days",
+      "seen in chronic disorder",
+      "acute leaves bicarbonate normal",
+      "never fully normalizes pH"
+    ]
+  },
+  {
+    "id": "respi-41-1",
+    "title": "Alveolar PO2",
+    "course": "respi",
+    "brick_id": "41",
+    "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "oxygen available to diffuse",
+      "marker of gas exchange",
+      "set by ventilation",
+      "falls with hypoventilation",
+      "drops at high altitude",
+      "~99 mmHg normal",
+      "raised by supplemental O2",
+      "PAO2"
+    ]
+  },
+  {
+    "id": "respi-41-2",
+    "title": "Oxygen Cascade",
+    "course": "respi",
+    "brick_id": "41",
+    "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "stepwise pressure drop",
+      "atmosphere to mitochondria",
+      "humidification first step",
+      "diluted by CO2",
+      "159 mmHg in dry air",
+      "149 after humidification",
+      "tissue ~33, mitochondria ~5",
+      "venous admixture lowers arterial"
+    ]
+  },
+  {
+    "id": "respi-41-3",
+    "title": "Alveolar Gas Equation",
+    "course": "respi",
+    "brick_id": "41",
+    "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "estimates alveolar oxygen",
+      "subtracts CO2 contribution",
+      "uses respiratory quotient 0.8",
+      "PiO2 ~150 at sea level",
+      "FiO2 0.21 room air",
+      "divides PaCO2 by RQ",
+      "PAO2 = FiO2(Patm-PH2O) - PaCO2/RQ",
+      "47 mmHg water vapor"
+    ]
+  },
+  {
+    "id": "respi-41-4",
+    "title": "Alveolar PCO2",
+    "course": "respi",
+    "brick_id": "41",
+    "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "produced by tissue metabolism",
+      "diffuses blood to alveoli",
+      "equilibrates almost instantly",
+      "~40 mmHg normal",
+      "rises with hypoventilation",
+      "falls with hyperventilation",
+      "inverse marker of ventilation",
+      "PaCO2 mirrors PACO2"
+    ]
+  },
+  {
+    "id": "respi-41-5",
+    "title": "Alveolar Ventilation",
+    "course": "respi",
+    "brick_id": "41",
+    "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "air reaching the alveoli",
+      "participates in gas exchange",
+      "minute ventilation minus dead space",
+      "(Vt - Vd) x RR",
+      "rapid shallow lowers it",
+      "slow deep raises it",
+      "~4.2 L/min typical",
+      "VA"
+    ]
+  },
+  {
+    "id": "respi-41-6",
+    "title": "Dead Space",
+    "course": "respi",
+    "brick_id": "41",
+    "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "wasted ventilation",
+      "no gas exchange",
+      "anatomic ~150 mL",
+      "conducting airways portion",
+      "ventilated but unperfused",
+      "alveolar type in embolism",
+      "physiologic = anatomic + alveolar",
+      "1 mL per pound ideal weight"
+    ]
+  },
+  {
+    "id": "respi-41-7",
+    "title": "Bohr Equation",
+    "course": "respi",
+    "brick_id": "41",
+    "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "estimates dead space fraction",
+      "gives Vd/Vt ratio",
+      "uses arterial-expired CO2 gap",
+      "PECO2 diluted by dead space",
+      "normal 20-40%",
+      "elevated means inefficient exchange",
+      "PaCO2 proxy for alveolar CO2",
+      "(PaCO2-PECO2)/PaCO2"
+    ]
+  },
+  {
+    "id": "respi-42-1",
+    "title": "C. diphtheriae",
+    "course": "respi",
+    "brick_id": "42",
+    "brick_title": "Respiratory: B. pertussis and C. diphtheriae",
+    "type": "disease",
+    "buzzwords": [
+      "gram-positive rod",
+      "non-spore-forming",
+      "toxin-mediated sore throat",
+      "club-shaped, Chinese-letter clusters",
+      "gray pseudomembrane on tonsils",
+      "bleeds when scraped",
+      "bull-neck lymphadenopathy",
+      "myocarditis and neuropathy"
+    ]
+  },
+  {
+    "id": "respi-42-2",
+    "title": "Diphtheria Toxin",
+    "course": "respi",
+    "brick_id": "42",
+    "brick_title": "Respiratory: B. pertussis and C. diphtheriae",
+    "type": "physiology",
+    "buzzwords": [
+      "AB exotoxin",
+      "halts host protein synthesis",
+      "only in lysogenized strains",
+      "phage-encoded virulence",
+      "B-prophage lysogenic conversion",
+      "Elek test detects it",
+      "ADP-ribosylates EF-2",
+      "inactivates elongation factor-2"
+    ]
+  },
+  {
+    "id": "respi-42-3",
+    "title": "C. diphtheriae Diagnosis",
+    "course": "respi",
+    "brick_id": "42",
+    "brick_title": "Respiratory: B. pertussis and C. diphtheriae",
+    "type": "lab",
+    "buzzwords": [
+      "metachromatic granules",
+      "deep-blue staining granules",
+      "methylene blue stain",
+      "black colonies on culture",
+      "tellurite reduced to metal",
+      "potassium tellurite agar",
+      "Loeffler's medium",
+      "Elek test for toxigenicity"
+    ]
+  },
+  {
+    "id": "respi-42-4",
+    "title": "B. pertussis",
+    "course": "respi",
+    "brick_id": "42",
+    "brick_title": "Respiratory: B. pertussis and C. diphtheriae",
+    "type": "disease",
+    "buzzwords": [
+      "gram-negative coccobacillus",
+      "obligate aerobe",
+      "violent coughing fits",
+      "post-tussive vomiting",
+      "cough over two weeks",
+      "catarrhal, paroxysmal, convalescent stages",
+      "inspiratory whoop",
+      "whooping cough"
+    ]
+  },
+  {
+    "id": "respi-42-5",
+    "title": "Pertussis Toxins",
+    "course": "respi",
+    "brick_id": "42",
+    "brick_title": "Respiratory: B. pertussis and C. diphtheriae",
+    "type": "physiology",
+    "buzzwords": [
+      "raise intracellular cAMP",
+      "impair phagocyte killing",
+      "damage ciliated epithelium",
+      "tracheal cytotoxin causes cough",
+      "adenylate cyclase toxin",
+      "inactivates Gi protein",
+      "detoxified PT in vaccine",
+      "pertussis toxin"
+    ]
+  },
+  {
+    "id": "respi-42-6",
+    "title": "B. pertussis Diagnosis",
+    "course": "respi",
+    "brick_id": "42",
+    "brick_title": "Respiratory: B. pertussis and C. diphtheriae",
+    "type": "lab",
+    "buzzwords": [
+      "nasopharyngeal swab",
+      "fastidious, hard to grow",
+      "PCR most sensitive early",
+      "serology in later stages",
+      "culture confirms first weeks",
+      "specialized enriched media",
+      "Regan-Lowe agar",
+      "Bordet-Gengou agar"
+    ]
+  },
+  {
+    "id": "respi-43-1",
+    "title": "Carbon Monoxide Poisoning",
+    "course": "respi",
+    "brick_id": "43",
+    "brick_title": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+    "type": "disease",
+    "buzzwords": [
+      "smoke inhalation",
+      "headache, nausea",
+      "misdiagnosed as viral",
+      "falsely normal SpO2",
+      "cherry-red skin",
+      "left-shifted O2 curve",
+      "delayed neuropsychiatric sequelae",
+      "elevated carboxyhemoglobin"
+    ]
+  },
+  {
+    "id": "respi-43-2",
+    "title": "Cyanide Poisoning",
+    "course": "respi",
+    "brick_id": "43",
+    "brick_title": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+    "type": "disease",
+    "buzzwords": [
+      "smoke inhalation",
+      "bitter almond breath",
+      "no response to O2",
+      "high anion gap",
+      "severe lactic acidosis",
+      "blocks cytochrome c oxidase",
+      "sodium nitroprusside infusion",
+      "apricot kernels, cassava"
+    ]
+  },
+  {
+    "id": "respi-43-3",
+    "title": "Carboxyhemoglobin",
+    "course": "respi",
+    "brick_id": "43",
+    "brick_title": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+    "type": "lab",
+    "buzzwords": [
+      "fooled pulse oximeter",
+      "decreased O2 capacity",
+      "left-shifted dissociation curve",
+      "impairs O2 unloading",
+      "200x hemoglobin affinity",
+      "diagnosed by CO-oximetry",
+      "25% means severe",
+      "CO bound to hemoglobin"
+    ]
+  },
+  {
+    "id": "respi-43-4",
+    "title": "Hydroxocobalamin",
+    "course": "respi",
+    "brick_id": "43",
+    "brick_title": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+    "type": "drug",
+    "buzzwords": [
+      "first-line antidote",
+      "given empirically early",
+      "binds free toxin",
+      "forms excretable complex",
+      "renally cleared",
+      "vitamin B12 precursor",
+      "treats cyanide poisoning",
+      "becomes cyanocobalamin"
+    ]
+  },
+  {
+    "id": "respi-43-5",
+    "title": "Hyperbaric Oxygen",
+    "course": "respi",
+    "brick_id": "43",
+    "brick_title": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+    "type": "physiology",
+    "buzzwords": [
+      "pressurized chamber",
+      "speeds toxin clearance",
+      "raises dissolved oxygen",
+      "for severe CO",
+      "used in pregnancy",
+      "given if unconscious",
+      "loss of consciousness indication",
+      "COHb above 25%"
+    ]
+  },
+  {
+    "id": "respi-44-1",
+    "title": "Sarcoidosis",
+    "course": "respi",
+    "brick_id": "44",
+    "brick_title": "Sarcoidosis",
+    "type": "disease",
+    "buzzwords": [
+      "multiorgan inflammatory disease",
+      "often asymptomatic",
+      "dry cough, dyspnea",
+      "restrictive lung disease",
+      "young Black female",
+      "bilateral hilar adenopathy",
+      "noncaseating granulomas",
+      "elevated serum ACE"
+    ]
+  },
+  {
+    "id": "respi-44-2",
+    "title": "Noncaseating Granuloma",
+    "course": "respi",
+    "brick_id": "44",
+    "brick_title": "Sarcoidosis",
+    "type": "physiology",
+    "buzzwords": [
+      "cell-mediated immunity",
+      "macrophages and lymphocytes",
+      "lacks central necrosis",
+      "epithelioid cells",
+      "multinucleated giant cells",
+      "stellate asteroid bodies",
+      "calcium Schaumann bodies",
+      "hallmark of sarcoidosis"
+    ]
+  },
+  {
+    "id": "respi-44-3",
+    "title": "Sarcoid Hypercalcemia",
+    "course": "respi",
+    "brick_id": "44",
+    "brick_title": "Sarcoidosis",
+    "type": "lab",
+    "buzzwords": [
+      "renal calcium stones",
+      "increased gut absorption",
+      "bone calcium release",
+      "calcium oxalate stones",
+      "10-20% of cases",
+      "granulomas make calcitriol",
+      "active vitamin D excess",
+      "elevated serum calcium"
+    ]
+  },
+  {
+    "id": "respi-44-4",
+    "title": "Extrapulmonary Sarcoidosis",
+    "course": "respi",
+    "brick_id": "44",
+    "brick_title": "Sarcoidosis",
+    "type": "disease",
+    "buzzwords": [
+      "one third of patients",
+      "anterior uveitis",
+      "facial nerve palsy",
+      "polyarthritis of ankles",
+      "erythema nodosum",
+      "painless subcutaneous nodules",
+      "cardiac arrhythmias",
+      "Lofgren syndrome triad"
+    ]
+  },
+  {
+    "id": "respi-44-5",
+    "title": "Sarcoidosis Diagnosis",
+    "course": "respi",
+    "brick_id": "44",
+    "brick_title": "Sarcoidosis",
+    "type": "imaging",
+    "buzzwords": [
+      "inspiratory crackles",
+      "reticulonodular opacities",
+      "restrictive PFT pattern",
+      "decreased diffusing capacity",
+      "biopsy shows granulomas",
+      "increased BAL CD4:CD8",
+      "elevated serum ACE",
+      "bilateral hilar adenopathy"
+    ]
+  },
+  {
+    "id": "respi-45-1",
+    "title": "Obstructive Sleep Apnea",
+    "course": "respi",
+    "brick_id": "45",
+    "brick_title": "Sleep Apnea",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent airway collapse",
+      "excessive daytime sleepiness",
+      "morning headaches",
+      "wakes gasping or choking",
+      "loud snoring",
+      "obesity risk factor",
+      "narrowed upper airway",
+      "cause of secondary hypertension"
+    ]
+  },
+  {
+    "id": "respi-45-2",
+    "title": "Central Sleep Apnea",
+    "course": "respi",
+    "brick_id": "45",
+    "brick_title": "Sleep Apnea",
+    "type": "disease",
+    "buzzwords": [
+      "much rarer than OSA",
+      "about 1% of population",
+      "no airway obstruction",
+      "absent respiratory drive",
+      "impaired brainstem signaling",
+      "transient hyperventilation lowers PaCO2",
+      "opioids and benzodiazepines",
+      "linked to heart failure"
+    ]
+  },
+  {
+    "id": "respi-45-3",
+    "title": "Polysomnography",
+    "course": "respi",
+    "brick_id": "45",
+    "brick_title": "Sleep Apnea",
+    "type": "lab",
+    "buzzwords": [
+      "overnight sleep study",
+      "diagnostic gold standard",
+      "monitors oxygen saturation",
+      "measures respiratory effort",
+      "counts events per hour",
+      "five events plus symptoms",
+      "fifteen events diagnostic alone",
+      "apnea-hypopnea index"
+    ]
+  },
+  {
+    "id": "respi-45-4",
+    "title": "CPAP Therapy",
+    "course": "respi",
+    "brick_id": "45",
+    "brick_title": "Sleep Apnea",
+    "type": "physiology",
+    "buzzwords": [
+      "first-line OSA treatment",
+      "nighttime mask device",
+      "splints airway open",
+      "prevents upper airway collapse",
+      "raises airway pressure",
+      "BiPAP for hypoventilation",
+      "higher inspiratory pressure",
+      "continuous positive airway pressure"
+    ]
+  },
+  {
+    "id": "respi-45-5",
+    "title": "Sleep Apnea Surgery",
+    "course": "respi",
+    "brick_id": "45",
+    "brick_title": "Sleep Apnea",
+    "type": "physiology",
+    "buzzwords": [
+      "removes anatomic obstruction",
+      "oral appliances for mild cases",
+      "advances the mandible",
+      "first-line in children",
+      "for adenotonsillar hypertrophy",
+      "refer to otolaryngologist",
+      "rare in adults",
+      "adenotonsillectomy"
+    ]
+  },
+  {
+    "id": "respi-46-1",
+    "title": "Nicotine",
+    "course": "respi",
+    "brick_id": "46",
+    "brick_title": "Tobacco Smoking",
+    "type": "physiology",
+    "buzzwords": [
+      "addictive alkaloid",
+      "central nervous stimulant",
+      "stimulates dopamine release",
+      "activates brain reward pathway",
+      "inhibits monoamine oxidase",
+      "raises ACTH and cortisol",
+      "poisoning risk in children",
+      "binds nicotinic acetylcholine receptors"
+    ]
+  },
+  {
+    "id": "respi-46-2",
+    "title": "Vaping",
+    "course": "respi",
+    "brick_id": "46",
+    "brick_title": "Tobacco Smoking",
+    "type": "disease",
+    "buzzwords": [
+      "delivers inhaled nicotine",
+      "popular in young people",
+      "produces particulates not vapor",
+      "acute lung injury",
+      "eosinophilic and lipid pneumonia",
+      "lipid-laden macrophages",
+      "linked to THC products",
+      "vaping-associated pulmonary injury"
+    ]
+  },
+  {
+    "id": "respi-46-3",
+    "title": "Nicotine Replacement",
+    "course": "respi",
+    "brick_id": "46",
+    "brick_title": "Tobacco Smoking",
+    "type": "drug",
+    "buzzwords": [
+      "first-line cessation aid",
+      "eases withdrawal symptoms",
+      "supplies controlled nicotine",
+      "dose tapered over time",
+      "patches and gum",
+      "lozenges and nasal spray",
+      "available over the counter",
+      "inhaler form"
+    ]
+  },
+  {
+    "id": "respi-46-4",
+    "title": "Bupropion",
+    "course": "respi",
+    "brick_id": "46",
+    "brick_title": "Tobacco Smoking",
+    "type": "drug",
+    "buzzwords": [
+      "non-nicotine cessation drug",
+      "reduces cravings",
+      "helpful with coexisting depression",
+      "no weight gain",
+      "contraindicated in seizure disorders",
+      "avoid in eating disorders",
+      "norepinephrine-dopamine reuptake inhibitor",
+      "seizure is serious risk"
+    ]
+  },
+  {
+    "id": "respi-46-5",
+    "title": "Varenicline",
+    "course": "respi",
+    "brick_id": "46",
+    "brick_title": "Tobacco Smoking",
+    "type": "drug",
+    "buzzwords": [
+      "non-nicotine cessation drug",
+      "most effective single agent",
+      "reduces withdrawal and cravings",
+      "blocks rewarding effect of smoking",
+      "nausea most common effect",
+      "monitor for depression",
+      "watch for suicidal ideation",
+      "partial nicotinic receptor agonist"
+    ]
+  },
+  {
+    "id": "respi-47-1",
+    "title": "Flail Chest",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "blunt chest trauma",
+      "multiple rib fractures",
+      "3+ ribs, 2+ places",
+      "free-floating segment",
+      "impaired breathing mechanics",
+      "respiratory failure risk",
+      "paradoxical chest motion",
+      "inward on inspiration"
+    ]
+  },
+  {
+    "id": "respi-47-2",
+    "title": "Diaphragmatic Injury",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "often penetrating trauma",
+      "missed on chest X-ray",
+      "abdominal contents herniate up",
+      "CT for diagnosis",
+      "needs operative repair",
+      "risk of strangulation",
+      "danger zone wounds",
+      "nipple to umbilicus"
+    ]
+  },
+  {
+    "id": "respi-47-3",
+    "title": "Pleuritis",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "pleural membrane inflammation",
+      "sharp stabbing chest pain",
+      "worse with inspiration",
+      "worse with coughing",
+      "uremia or autoimmune cause",
+      "NSAIDs for treatment",
+      "pleuritic chest pain",
+      "pleural friction rub"
+    ]
+  },
+  {
+    "id": "respi-47-4",
+    "title": "Hemothorax",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "blood in pleural space",
+      "from chest trauma",
+      "chest tube drainage",
+      "85% managed conservatively",
+      ">1500 mL needs surgery",
+      ">200 mL/hr is heavy",
+      "thoracotomy if unstable",
+      "retained clot needs VATS"
+    ]
+  },
+  {
+    "id": "respi-47-5",
+    "title": "Chylothorax",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "lymphatic fluid in pleura",
+      "thoracic duct injury",
+      "milky pleural fluid",
+      "high triglycerides",
+      "lymphocyte predominant",
+      "nutritional deficiency risk",
+      "medium-chain triglyceride diet",
+      "rich in chylomicrons"
+    ]
+  },
+  {
+    "id": "respi-47-6",
+    "title": "Mediastinitis",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "mediastinal inflammation",
+      "life-threatening infection",
+      "esophageal perforation cause",
+      "fever and systemic toxicity",
+      "emergent surgical drainage",
+      "broad-spectrum antibiotics",
+      "polymicrobial",
+      "high mortality untreated"
+    ]
+  },
+  {
+    "id": "respi-47-7",
+    "title": "Pneumomediastinum",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "air in the mediastinum",
+      "barotrauma or trauma",
+      "subcutaneous emphysema",
+      "esophageal or tracheal injury",
+      "usually self-limiting",
+      "monitor for mediastinitis",
+      "continuous diaphragm sign",
+      "Hamman crunch"
+    ]
+  },
+  {
+    "id": "respi-47-8",
+    "title": "Pulmonary Contusion",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "blunt chest trauma",
+      "no pleural laceration",
+      "rapid deceleration injury",
+      "alveolar capillary rupture",
+      "hemorrhage and edema",
+      "worsens over 24-48 hours",
+      "opacification on X-ray",
+      "bruised lung"
+    ]
+  },
+  {
+    "id": "respi-47-9",
+    "title": "Oxygen Toxicity",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "high inspired oxygen",
+      "free radical damage",
+      "diffuse alveolar injury",
+      "100% O2 over 24-48 hours",
+      "can progress to ARDS",
+      "worsens oxygenation",
+      "keep FiO2 under 60%",
+      "reactive oxygen species"
+    ]
+  },
+  {
+    "id": "respi-47-10",
+    "title": "Pulmonary Barotrauma",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "alveolar overdistension",
+      "rapid dive ascent",
+      "high ventilator pressures",
+      "worse in stiff lungs",
+      "air escapes into tissues",
+      "low tidal volume protective",
+      "pneumothorax risk",
+      "arterial gas embolism"
+    ]
+  },
+  {
+    "id": "respi-48-1",
+    "title": "Inhaled Corticosteroids",
+    "course": "respi",
+    "brick_id": "48",
+    "brick_title": "Treatment of Asthma & COPD",
+    "type": "drug",
+    "buzzwords": [
+      "anti-inflammatory inhaler",
+      "first-line long-term control",
+      "minimal systemic absorption",
+      "inhibits cytokine synthesis",
+      "inactivates NF-kB",
+      "upregulates beta-2 receptors",
+      "oral thrush, dysphonia",
+      "fluticasone, budesonide"
+    ]
+  },
+  {
+    "id": "respi-48-2",
+    "title": "Beta-2 Agonists",
+    "course": "respi",
+    "brick_id": "48",
+    "brick_title": "Treatment of Asthma & COPD",
+    "type": "drug",
+    "buzzwords": [
+      "bronchodilator",
+      "stimulates beta-2 receptors",
+      "raises cAMP",
+      "SABA for rescue",
+      "LABA for maintenance",
+      "tremor, tachycardia",
+      "hypokalemia",
+      "albuterol, salmeterol"
+    ]
+  },
+  {
+    "id": "respi-48-3",
+    "title": "Leukotriene Antagonists",
+    "course": "respi",
+    "brick_id": "48",
+    "brick_title": "Treatment of Asthma & COPD",
+    "type": "drug",
+    "buzzwords": [
+      "anti-inflammatory adjunct",
+      "blocks inflammatory mediators",
+      "good for exercise trigger",
+      "helps allergic rhinitis",
+      "blocks cysteinyl receptor",
+      "zileuton inhibits lipoxygenase",
+      "neuropsychiatric black box",
+      "montelukast, zafirlukast"
+    ]
+  },
+  {
+    "id": "respi-48-4",
+    "title": "Muscarinic Antagonists",
+    "course": "respi",
+    "brick_id": "48",
+    "brick_title": "Treatment of Asthma & COPD",
+    "type": "drug",
+    "buzzwords": [
+      "bronchodilator",
+      "prevents bronchoconstriction",
+      "blocks M3 receptor",
+      "bigger role in COPD",
+      "SAMA and LAMA",
+      "dry mouth, blurry vision",
+      "urinary retention",
+      "ipratropium, tiotropium"
+    ]
+  },
+  {
+    "id": "respi-48-5",
+    "title": "Phosphodiesterase Inhibitors",
+    "course": "respi",
+    "brick_id": "48",
+    "brick_title": "Treatment of Asthma & COPD",
+    "type": "drug",
+    "buzzwords": [
+      "oral bronchodilator",
+      "inhibits cAMP breakdown",
+      "raises intracellular cAMP",
+      "narrow therapeutic index",
+      "not first-line",
+      "many drug interactions",
+      "seizures, arrhythmias",
+      "theophylline, roflumilast"
+    ]
+  },
+  {
+    "id": "respi-48-6",
+    "title": "Cromolyn",
+    "course": "respi",
+    "brick_id": "48",
+    "brick_title": "Treatment of Asthma & COPD",
+    "type": "drug",
+    "buzzwords": [
+      "prophylactic only",
+      "no role in acute attack",
+      "mast cell stabilizer",
+      "blocks degranulation",
+      "prevents mediator release",
+      "delayed onset of effect",
+      "now rarely used",
+      "cromolyn sodium"
+    ]
+  },
+  {
+    "id": "respi-48-7",
+    "title": "Biologic Therapies",
+    "course": "respi",
+    "brick_id": "48",
+    "brick_title": "Treatment of Asthma & COPD",
+    "type": "drug",
+    "buzzwords": [
+      "monoclonal antibodies",
+      "for severe asthma",
+      "target eosinophilic pathways",
+      "phenotype-driven therapy",
+      "anti-IgE omalizumab",
+      "IL-5 mepolizumab, benralizumab",
+      "IL-4/IL-13 dupilumab",
+      "anaphylaxis risk"
+    ]
+  }
+]

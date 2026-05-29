@@ -1,0 +1,92 @@
+[
+  {
+    "id": "respi-36-1",
+    "title": "Pulmonary Circulation",
+    "course": "respi",
+    "brick_id": "36",
+    "brick_title": "Pulmonary Circulation",
+    "type": "physiology",
+    "buzzwords": [
+      "low-pressure system",
+      "high compliance",
+      "thin-walled vessels",
+      "acts as blood reservoir",
+      "PVR one-tenth of SVR",
+      "mean pressure ~15 mmHg",
+      "equal cardiac output",
+      "protects alveolar capillaries"
+    ]
+  },
+  {
+    "id": "respi-36-2",
+    "title": "West's Lung Zones",
+    "course": "respi",
+    "brick_id": "36",
+    "brick_title": "Pulmonary Circulation",
+    "type": "physiology",
+    "buzzwords": [
+      "gravity-dependent perfusion",
+      "highest flow at base",
+      "lowest flow at apex",
+      "zone 3 base: Pa>Pv>PA",
+      "zone 2 mid: Pa>PA>Pv",
+      "zone 1 apex: PA>Pa>Pv",
+      "zone 1 is dead space",
+      "West's zones"
+    ]
+  },
+  {
+    "id": "respi-36-3",
+    "title": "Pulmonary Vascular Resistance",
+    "course": "respi",
+    "brick_id": "36",
+    "brick_title": "Pulmonary Circulation",
+    "type": "physiology",
+    "buzzwords": [
+      "falls with higher output",
+      "capillary recruitment",
+      "vessel distension",
+      "U-shaped vs lung volume",
+      "lowest at FRC",
+      "high at RV and TLC",
+      "resistance proportional to 1/r^4",
+      "Poiseuille's law"
+    ]
+  },
+  {
+    "id": "respi-36-4",
+    "title": "Hypoxic Vasoconstriction",
+    "course": "respi",
+    "brick_id": "36",
+    "brick_title": "Pulmonary Circulation",
+    "type": "physiology",
+    "buzzwords": [
+      "vessels constrict in hypoxia",
+      "opposite of systemic dilation",
+      "diverts flow to oxygenated lung",
+      "optimizes V/Q matching",
+      "onset within seconds",
+      "global hypoxia causes pulmonary HTN",
+      "leads to cor pulmonale",
+      "HPV"
+    ]
+  },
+  {
+    "id": "respi-36-5",
+    "title": "Pulmonary Edema",
+    "course": "respi",
+    "brick_id": "36",
+    "brick_title": "Pulmonary Circulation",
+    "type": "disease",
+    "buzzwords": [
+      "fluid floods alveoli",
+      "impairs gas exchange",
+      "increased hydrostatic pressure",
+      "low oncotic pressure",
+      "increased capillary permeability",
+      "impaired lymphatic drainage",
+      "cardiogenic from left heart failure",
+      "Starling forces imbalance"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "respi-23-1",
+    "title": "Mediastinum",
+    "course": "respi",
+    "brick_id": "23",
+    "brick_title": "Mediastinum (Part 1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "central thoracic compartment",
+      "between the lungs",
+      "superior and inferior parts",
+      "houses heart and great vessels",
+      "anterior, middle, posterior regions",
+      "divided at sternal angle",
+      "sternal angle = T4-T5",
+      "Angle of Louis"
+    ]
+  },
+  {
+    "id": "respi-23-2",
+    "title": "Aortic Arch",
+    "course": "respi",
+    "brick_id": "23",
+    "brick_title": "Mediastinum (Part 1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "curves in superior mediastinum",
+      "three great branches",
+      "posterior to sternum",
+      "left common carotid branch",
+      "left subclavian branch",
+      "first branch is brachiocephalic",
+      "brachiocephalic splits right carotid + subclavian",
+      "left RLN loops under it"
+    ]
+  },
+  {
+    "id": "respi-23-3",
+    "title": "Superior Vena Cava",
+    "course": "respi",
+    "brick_id": "23",
+    "brick_title": "Mediastinum (Part 1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "drains upper body",
+      "empties into right atrium",
+      "postero-lateral to aortic arch",
+      "union of brachiocephalic veins",
+      "receives azygos vein",
+      "compressed by mediastinal mass",
+      "facial and neck swelling",
+      "SVC syndrome"
+    ]
+  },
+  {
+    "id": "respi-23-4",
+    "title": "Vagus Nerve",
+    "course": "respi",
+    "brick_id": "23",
+    "brick_title": "Mediastinum (Part 1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "cranial nerve X",
+      "parasympathetic to heart and lungs",
+      "posterior to the SVC",
+      "gives right recurrent laryngeal",
+      "right branch loops subclavian",
+      "left branch loops aortic arch",
+      "recurrent nerve to larynx",
+      "left RLN under ligamentum arteriosum"
+    ]
+  },
+  {
+    "id": "respi-23-5",
+    "title": "Phrenic Nerve",
+    "course": "respi",
+    "brick_id": "23",
+    "brick_title": "Mediastinum (Part 1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "arises from C3-C5",
+      "sole motor to diaphragm",
+      "lateral to great vessels",
+      "anterior to lung root",
+      "along pericardial sac",
+      "sensory to pericardium",
+      "pierces and innervates diaphragm",
+      "C3,4,5 keeps diaphragm alive"
+    ]
+  },
+  {
+    "id": "respi-23-6",
+    "title": "Thymus",
+    "course": "respi",
+    "brick_id": "23",
+    "brick_title": "Mediastinum (Part 1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "anterior mediastinum organ",
+      "matures T-lymphocytes",
+      "involutes after puberty",
+      "fatty remnant in adults",
+      "retrosternal mass widens mediastinum",
+      "tumor associated with myasthenia gravis",
+      "anterior mediastinal mass",
+      "thymoma"
+    ]
+  },
+  {
+    "id": "respi-23-7",
+    "title": "Thoracic Duct",
+    "course": "respi",
+    "brick_id": "23",
+    "brick_title": "Mediastinum (Part 1 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "main lymphatic vessel",
+      "ascends posterior mediastinum",
+      "drains most of the body",
+      "drains lower body + left upper",
+      "empties into venous system",
+      "junction of left IJ + subclavian",
+      "begins at cisterna chyli",
+      "carries chyle"
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "respi-4-1",
+    "title": "Trachea",
+    "course": "respi",
+    "brick_id": "4",
+    "brick_title": "Anatomy of the Lower Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "air-conducting tube",
+      "about 11 cm long",
+      "C-shaped cartilage rings",
+      "begins at cricoid cartilage",
+      "posterior trachealis muscle",
+      "sits anterior to esophagus",
+      "bifurcates at the carina",
+      "splits into primary bronchi"
+    ]
+  },
+  {
+    "id": "respi-4-2",
+    "title": "Bronchial Tree",
+    "course": "respi",
+    "brick_id": "4",
+    "brick_title": "Anatomy of the Lower Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "branching airway divisions",
+      "about 23 generations",
+      "primary, lobar, segmental",
+      "lobar bronchi per lobe",
+      "supply bronchopulmonary segments",
+      "right bronchus wider, vertical",
+      "foreign bodies lodge right",
+      "ends at terminal bronchioles"
+    ]
+  },
+  {
+    "id": "respi-4-3",
+    "title": "Respiratory Zone",
+    "course": "respi",
+    "brick_id": "4",
+    "brick_title": "Anatomy of the Lower Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "site of gas exchange",
+      "very thin walls",
+      "respiratory bronchioles to alveoli",
+      "alveolar ducts and sacs",
+      "up to 400 million alveoli",
+      "begins respiratory bronchioles",
+      "60,000 acini per lung",
+      "pulmonary acinus"
+    ]
+  },
+  {
+    "id": "respi-4-4",
+    "title": "Lungs",
+    "course": "respi",
+    "brick_id": "4",
+    "brick_title": "Anatomy of the Lower Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "apex superior, base inferior",
+      "right has three lobes",
+      "left has two lobes",
+      "horizontal and oblique fissures",
+      "hilum is the root",
+      "cardiac notch on left",
+      "lingula on left superior lobe",
+      "left lacks middle lobe"
+    ]
+  },
+  {
+    "id": "respi-4-5",
+    "title": "Lung Circulation",
+    "course": "respi",
+    "brick_id": "4",
+    "brick_title": "Anatomy of the Lower Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "dual blood supply",
+      "pulmonary circulation does gas exchange",
+      "arteries carry deoxygenated blood",
+      "veins carry oxygenated blood",
+      "bronchial circulation feeds lung tissue",
+      "bronchial arteries off thoracic aorta",
+      "supplies lung metabolic needs",
+      "pulmonary and bronchial circuits"
+    ]
+  },
+  {
+    "id": "respi-4-6",
+    "title": "Pleura",
+    "course": "respi",
+    "brick_id": "4",
+    "brick_title": "Anatomy of the Lower Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "double mesothelial layer",
+      "visceral and parietal layers",
+      "visceral hugs lung surface",
+      "parietal lines thoracic cavity",
+      "thin lubricating fluid",
+      "negative pressure potential space",
+      "parietal senses pain, visceral cannot",
+      "disruption causes pneumothorax"
+    ]
+  }
+]

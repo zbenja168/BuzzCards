@@ -1,0 +1,74 @@
+[
+  {
+    "id": "respi-12-1",
+    "title": "Cystic Fibrosis",
+    "course": "respi",
+    "brick_id": "12",
+    "brick_title": "Cystic Fibrosis (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "multisystem exocrine disease",
+      "thick viscous secretions",
+      "chronic cough, wheezing",
+      "recurrent pneumonias",
+      "pancreatic insufficiency",
+      "male infertility, absent vas deferens",
+      "Pseudomonas colonization"
+    ]
+  },
+  {
+    "id": "respi-12-2",
+    "title": "CFTR Gene",
+    "course": "respi",
+    "brick_id": "12",
+    "brick_title": "Cystic Fibrosis (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "apical membrane channel",
+      "transports chloride out",
+      "also moves bicarbonate",
+      "loss of function mutation",
+      "reduced chloride secretion",
+      "dehydrated viscous mucus",
+      "chromosome 7",
+      "phenylalanine 508 deletion (ΔF508)"
+    ]
+  },
+  {
+    "id": "respi-12-3",
+    "title": "Sweat Chloride Test",
+    "course": "respi",
+    "brick_id": "12",
+    "brick_title": "Cystic Fibrosis (1 of 2)",
+    "type": "lab",
+    "buzzwords": [
+      "confirmatory diagnostic test",
+      "analyzes sweat sample",
+      "skin absorbs chloride inward",
+      "CF blocks sweat duct absorption",
+      "elevated sweat chloride",
+      "high sweat sodium too",
+      "pilocarpine stimulates sweat",
+      "quantitative pilocarpine iontophoresis (QPIT)"
+    ]
+  },
+  {
+    "id": "respi-12-4",
+    "title": "Meconium Ileus",
+    "course": "respi",
+    "brick_id": "12",
+    "brick_title": "Cystic Fibrosis (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "neonatal bowel obstruction",
+      "failure to pass stool",
+      "abdominal distension in newborn",
+      "thickened intestinal contents",
+      "earliest CF presentation",
+      "highly specific for CF",
+      "from excessively thick stool",
+      "inspissated meconium"
+    ]
+  }
+]

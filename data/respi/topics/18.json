@@ -1,0 +1,146 @@
+[
+  {
+    "id": "respi-18-1",
+    "title": "Hypoxemia",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "physiology",
+    "buzzwords": [
+      "low blood oxygen",
+      "dyspnea and tachypnea",
+      "leads to tissue hypoxia",
+      "cyanosis and clubbing",
+      "PaO2 under 60 mmHg",
+      "SaO2 below 80-85%",
+      "treat with supplemental O2",
+      "goal SpO2 above 90%"
+    ]
+  },
+  {
+    "id": "respi-18-2",
+    "title": "A-a Gradient",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "lab",
+    "buzzwords": [
+      "alveolar minus arterial O2",
+      "assesses gas exchange",
+      "normal under 10-20 mmHg",
+      "elevated means diffusion barrier",
+      "uses alveolar gas equation",
+      "PAO2 = 150 - PaCO2/0.8",
+      "normalizes by age",
+      "PAO2 minus PaO2"
+    ]
+  },
+  {
+    "id": "respi-18-3",
+    "title": "Low Inspired Oxygen",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "physiology",
+    "buzzwords": [
+      "normal A-a gradient",
+      "reduced alveolar PAO2",
+      "low fraction inspired oxygen",
+      "responds to supplemental O2",
+      "low barometric pressure",
+      "fixed 21% FiO2",
+      "high altitude",
+      "Everest summit PaO2 near 30"
+    ]
+  },
+  {
+    "id": "respi-18-4",
+    "title": "Hypoventilation",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "physiology",
+    "buzzwords": [
+      "normal A-a gradient",
+      "rising PaCO2",
+      "low minute ventilation",
+      "responds to supplemental O2",
+      "reduced rate or tidal volume",
+      "opioid overdose",
+      "neuromuscular weakness",
+      "myasthenia or Guillain-Barre"
+    ]
+  },
+  {
+    "id": "respi-18-5",
+    "title": "V/Q Mismatch",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "physiology",
+    "buzzwords": [
+      "elevated A-a gradient",
+      "most common clinical cause",
+      "ventilation-perfusion imbalance",
+      "normal ratio near 0.8",
+      "partial response to O2",
+      "hypoxic vasoconstriction redistributes flow",
+      "pneumonia or COPD",
+      "spectrum between shunt and dead space"
+    ]
+  },
+  {
+    "id": "respi-18-6",
+    "title": "Right-to-Left Shunt",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "physiology",
+    "buzzwords": [
+      "elevated A-a gradient",
+      "blood bypasses ventilation",
+      "V/Q equals zero",
+      "no response to 100% oxygen",
+      "blood reaches unventilated alveoli",
+      "mucus plug or atelectasis",
+      "ARDS or pulmonary edema",
+      "intracardiac septal defect"
+    ]
+  },
+  {
+    "id": "respi-18-7",
+    "title": "Dead Space",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "physiology",
+    "buzzwords": [
+      "elevated A-a gradient",
+      "ventilation without perfusion",
+      "V/Q approaches infinity",
+      "partial response to O2",
+      "alveoli ventilated not perfused",
+      "low cardiac output",
+      "pulmonary embolism",
+      "obstructing capillary blood flow"
+    ]
+  },
+  {
+    "id": "respi-18-8",
+    "title": "Diffusion Impairment",
+    "course": "respi",
+    "brick_id": "18",
+    "brick_title": "Hypoxemia",
+    "type": "physiology",
+    "buzzwords": [
+      "elevated A-a gradient",
+      "thickened alveolar membrane",
+      "inefficient gas exchange",
+      "responds to supplemental O2",
+      "raising PAO2 overcomes barrier",
+      "interstitial lung disease",
+      "pulmonary fibrosis",
+      "worsens with exertion"
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "respi-9-1",
+    "title": "COPD",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "reduced airflow",
+      "persistent dyspnea",
+      "productive cough",
+      "not fully reversible",
+      "mostly from smoking",
+      "emphysema plus bronchitis",
+      "obstructive lung disease",
+      "third leading cause of death"
+    ]
+  },
+  {
+    "id": "respi-9-2",
+    "title": "Chronic Bronchitis",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "airway inflammation",
+      "conducting zone disease",
+      "excess mucus",
+      "narrowed airways",
+      "goblet cell hyperplasia",
+      "squamous metaplasia",
+      "barrel chest",
+      "blue bloater"
+    ]
+  },
+  {
+    "id": "respi-9-3",
+    "title": "Emphysema",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "respiratory zone disease",
+      "alveolar wall destruction",
+      "lost elastic recoil",
+      "increased lung compliance",
+      "reduced gas-exchange area",
+      "bullae and blebs",
+      "protease-antiprotease imbalance",
+      "pink puffer"
+    ]
+  },
+  {
+    "id": "respi-9-4",
+    "title": "A1AT Deficiency",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "genetic emphysema",
+      "nonsmoker emphysema",
+      "early onset, age 40-50",
+      "unopposed proteases",
+      "panacinar pattern",
+      "liver failure too",
+      "misfolded protein in hepatocytes",
+      "alpha-1 antitrypsin deficiency"
+    ]
+  },
+  {
+    "id": "respi-9-5",
+    "title": "Centriacinar Emphysema",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "most common type",
+      "center of acinus",
+      "smoking-related",
+      "upper lobe predominant",
+      "spares distal alveoli",
+      "anthracosis deposits",
+      "respiratory bronchiole damage",
+      "centrilobular"
+    ]
+  },
+  {
+    "id": "respi-9-6",
+    "title": "Panacinar Emphysema",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "entire acinus destroyed",
+      "less common type",
+      "lower lobe predominant",
+      "uniform air-space enlargement",
+      "nonsmokers affected",
+      "A1AT deficiency",
+      "diffuse bullae",
+      "panlobular"
+    ]
+  },
+  {
+    "id": "respi-9-7",
+    "title": "Paraseptal Emphysema",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "distal acinus affected",
+      "subpleural location",
+      "young males",
+      "apical bullae",
+      "adjacent to septa",
+      "bulla rupture",
+      "advanced age, male sex",
+      "spontaneous pneumothorax"
+    ]
+  },
+  {
+    "id": "respi-9-8",
+    "title": "COPD Complications",
+    "course": "respi",
+    "brick_id": "9",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "type": "physiology",
+    "buzzwords": [
+      "V/Q mismatch",
+      "hypoxemia",
+      "CO2 retention",
+      "hypercapnia",
+      "permanent airway dilation",
+      "bronchiectasis",
+      "hypoxic vasoconstriction",
+      "cor pulmonale"
+    ]
+  }
+]

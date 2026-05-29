@@ -1,0 +1,128 @@
+[
+  {
+    "id": "respi-7-1",
+    "title": "Anti-GBM Disease",
+    "course": "respi",
+    "brick_id": "7",
+    "brick_title": "Autoimmune Diseases with Respiratory Manifestations",
+    "type": "disease",
+    "buzzwords": [
+      "pulmonary-renal syndrome",
+      "alveolar hemorrhage",
+      "hemoptysis",
+      "hematuria",
+      "antibody vs basement membrane",
+      "rapidly progressive glomerulonephritis",
+      "linear IgG along GBM",
+      "Goodpasture syndrome"
+    ]
+  },
+  {
+    "id": "respi-7-2",
+    "title": "Granulomatosis with Polyangiitis",
+    "course": "respi",
+    "brick_id": "7",
+    "brick_title": "Autoimmune Diseases with Respiratory Manifestations",
+    "type": "disease",
+    "buzzwords": [
+      "small-vessel vasculitis",
+      "nasal polyps",
+      "sinus and lung involvement",
+      "hemoptysis",
+      "necrotizing granulomas",
+      "PR3-ANCA",
+      "cytoplasmic ANCA",
+      "c-ANCA"
+    ]
+  },
+  {
+    "id": "respi-7-3",
+    "title": "EGPA",
+    "course": "respi",
+    "brick_id": "7",
+    "brick_title": "Autoimmune Diseases with Respiratory Manifestations",
+    "type": "disease",
+    "buzzwords": [
+      "adult-onset asthma",
+      "allergic rhinitis",
+      "blood eosinophilia",
+      "migratory pulmonary infiltrates",
+      "cardiac death",
+      "MPO-ANCA",
+      "p-ANCA",
+      "Churg-Strauss"
+    ]
+  },
+  {
+    "id": "respi-7-4",
+    "title": "Rheumatoid Arthritis",
+    "course": "respi",
+    "brick_id": "7",
+    "brick_title": "Autoimmune Diseases with Respiratory Manifestations",
+    "type": "disease",
+    "buzzwords": [
+      "symmetric polyarthritis",
+      "lungs most common extra-articular site",
+      "pleural effusion",
+      "pulmonary nodules",
+      "smoking risk factor",
+      "restrictive pattern",
+      "interstitial lung disease",
+      "RA-ILD"
+    ]
+  },
+  {
+    "id": "respi-7-5",
+    "title": "Lupus (SLE)",
+    "course": "respi",
+    "brick_id": "7",
+    "brick_title": "Autoimmune Diseases with Respiratory Manifestations",
+    "type": "disease",
+    "buzzwords": [
+      "multisystem autoimmune disease",
+      "pleural effusion",
+      "pleuritic chest pain",
+      "most common: pleuritis",
+      "pulmonary embolism risk",
+      "antiphospholipid antibodies",
+      "antinuclear antibodies",
+      "anti-dsDNA"
+    ]
+  },
+  {
+    "id": "respi-7-6",
+    "title": "Scleroderma",
+    "course": "respi",
+    "brick_id": "7",
+    "brick_title": "Autoimmune Diseases with Respiratory Manifestations",
+    "type": "disease",
+    "buzzwords": [
+      "fibrosis and vascular damage",
+      "restrictive lung disease",
+      "interstitial lung disease",
+      "pulmonary arterial hypertension",
+      "media thickening",
+      "anti-centromere in limited type",
+      "CREST syndrome",
+      "anti-Scl-70"
+    ]
+  },
+  {
+    "id": "respi-7-7",
+    "title": "Sjogren Disease",
+    "course": "respi",
+    "brick_id": "7",
+    "brick_title": "Autoimmune Diseases with Respiratory Manifestations",
+    "type": "disease",
+    "buzzwords": [
+      "glandular destruction",
+      "persistent dry cough",
+      "xerotrachea",
+      "interstitial lung disease",
+      "usual interstitial pneumonia",
+      "lymphocytic infiltration",
+      "lymphocytic interstitial pneumonia",
+      "LIP most characteristic"
+    ]
+  }
+]

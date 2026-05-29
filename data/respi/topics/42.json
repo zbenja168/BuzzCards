@@ -1,0 +1,110 @@
+[
+  {
+    "id": "respi-42-1",
+    "title": "C. diphtheriae",
+    "course": "respi",
+    "brick_id": "42",
+    "brick_title": "Respiratory: B. pertussis and C. diphtheriae",
+    "type": "disease",
+    "buzzwords": [
+      "gram-positive rod",
+      "non-spore-forming",
+      "toxin-mediated sore throat",
+      "club-shaped, Chinese-letter clusters",
+      "gray pseudomembrane on tonsils",
+      "bleeds when scraped",
+      "bull-neck lymphadenopathy",
+      "myocarditis and neuropathy"
+    ]
+  },
+  {
+    "id": "respi-42-2",
+    "title": "Diphtheria Toxin",
+    "course": "respi",
+    "brick_id": "42",
+    "brick_title": "Respiratory: B. pertussis and C. diphtheriae",
+    "type": "physiology",
+    "buzzwords": [
+      "AB exotoxin",
+      "halts host protein synthesis",
+      "only in lysogenized strains",
+      "phage-encoded virulence",
+      "B-prophage lysogenic conversion",
+      "Elek test detects it",
+      "ADP-ribosylates EF-2",
+      "inactivates elongation factor-2"
+    ]
+  },
+  {
+    "id": "respi-42-3",
+    "title": "C. diphtheriae Diagnosis",
+    "course": "respi",
+    "brick_id": "42",
+    "brick_title": "Respiratory: B. pertussis and C. diphtheriae",
+    "type": "lab",
+    "buzzwords": [
+      "metachromatic granules",
+      "deep-blue staining granules",
+      "methylene blue stain",
+      "black colonies on culture",
+      "tellurite reduced to metal",
+      "potassium tellurite agar",
+      "Loeffler's medium",
+      "Elek test for toxigenicity"
+    ]
+  },
+  {
+    "id": "respi-42-4",
+    "title": "B. pertussis",
+    "course": "respi",
+    "brick_id": "42",
+    "brick_title": "Respiratory: B. pertussis and C. diphtheriae",
+    "type": "disease",
+    "buzzwords": [
+      "gram-negative coccobacillus",
+      "obligate aerobe",
+      "violent coughing fits",
+      "post-tussive vomiting",
+      "cough over two weeks",
+      "catarrhal, paroxysmal, convalescent stages",
+      "inspiratory whoop",
+      "whooping cough"
+    ]
+  },
+  {
+    "id": "respi-42-5",
+    "title": "Pertussis Toxins",
+    "course": "respi",
+    "brick_id": "42",
+    "brick_title": "Respiratory: B. pertussis and C. diphtheriae",
+    "type": "physiology",
+    "buzzwords": [
+      "raise intracellular cAMP",
+      "impair phagocyte killing",
+      "damage ciliated epithelium",
+      "tracheal cytotoxin causes cough",
+      "adenylate cyclase toxin",
+      "inactivates Gi protein",
+      "detoxified PT in vaccine",
+      "pertussis toxin"
+    ]
+  },
+  {
+    "id": "respi-42-6",
+    "title": "B. pertussis Diagnosis",
+    "course": "respi",
+    "brick_id": "42",
+    "brick_title": "Respiratory: B. pertussis and C. diphtheriae",
+    "type": "lab",
+    "buzzwords": [
+      "nasopharyngeal swab",
+      "fastidious, hard to grow",
+      "PCR most sensitive early",
+      "serology in later stages",
+      "culture confirms first weeks",
+      "specialized enriched media",
+      "Regan-Lowe agar",
+      "Bordet-Gengou agar"
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "respi-13-1",
+    "title": "CFTR Modulators",
+    "course": "respi",
+    "brick_id": "13",
+    "brick_title": "Cystic Fibrosis (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "disease-modifying therapy",
+      "partially restores CFTR",
+      "guided by CFTR genotyping",
+      "reduces exacerbations",
+      "improves FEV1",
+      "potentiators and correctors",
+      "ivacaftor",
+      "elexacaftor-tezacaftor-ivacaftor"
+    ]
+  },
+  {
+    "id": "respi-13-2",
+    "title": "Airway Clearance",
+    "course": "respi",
+    "brick_id": "13",
+    "brick_title": "Cystic Fibrosis (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "mobilizes thick mucus",
+      "chest physiotherapy",
+      "percussion vest",
+      "inhaled mucoactive agents",
+      "draws water into airway",
+      "cleaves extracellular DNA",
+      "hypertonic saline",
+      "dornase alfa"
+    ]
+  },
+  {
+    "id": "respi-13-3",
+    "title": "Anti-inflammatory Therapy",
+    "course": "respi",
+    "brick_id": "13",
+    "brick_title": "Cystic Fibrosis (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "slows lung function decline",
+      "reduces exacerbations",
+      "selected patients only",
+      "GI side effects",
+      "macrolide with immunomodulation",
+      "high-dose option",
+      "high-dose NSAIDs",
+      "azithromycin"
+    ]
+  },
+  {
+    "id": "respi-13-4",
+    "title": "Infection Management",
+    "course": "respi",
+    "brick_id": "13",
+    "brick_title": "Cystic Fibrosis (2 of 2)",
+    "type": "drug",
+    "buzzwords": [
+      "recurrent respiratory infections",
+      "maximizes airway concentration",
+      "minimizes systemic toxicity",
+      "vaccination and distancing prevent",
+      "resistant pathogens common",
+      "inhaled antibiotics preferred",
+      "chronic Pseudomonas suppression",
+      "Pseudomonas aeruginosa"
+    ]
+  },
+  {
+    "id": "respi-13-5",
+    "title": "Pancreatic Insufficiency",
+    "course": "respi",
+    "brick_id": "13",
+    "brick_title": "Cystic Fibrosis (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "thick secretions plug ducts",
+      "fat malabsorption",
+      "needs high-calorie diet",
+      "fat-soluble vitamin supplements",
+      "vitamins A, D, E, K",
+      "individualized dosing",
+      "taken with meals",
+      "pancreatic enzyme replacement"
+    ]
+  },
+  {
+    "id": "respi-13-6",
+    "title": "CF-Related Diabetes",
+    "course": "respi",
+    "brick_id": "13",
+    "brick_title": "Cystic Fibrosis (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "extrapulmonary CF complication",
+      "duct plugging damages beta cells",
+      "insulin deficiency predominates",
+      "polyuria and polydipsia",
+      "elevated glucose and A1c",
+      "needs high-calorie diet still",
+      "managed with endocrinology",
+      "insulin therapy is mainstay"
+    ]
+  }
+]

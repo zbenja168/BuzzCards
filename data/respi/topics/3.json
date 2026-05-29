@@ -1,0 +1,56 @@
+[
+  {
+    "id": "respi-3-1",
+    "title": "Diaphragm",
+    "course": "respi",
+    "brick_id": "3",
+    "brick_title": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "type": "anatomy",
+    "buzzwords": [
+      "dome-shaped muscle",
+      "main inspiratory muscle",
+      "contracts and flattens",
+      "separates thorax from abdomen",
+      "left and right domes",
+      "central tendon",
+      "I ate ten eggs at twelve",
+      "phrenic nerve C3-C4-C5"
+    ]
+  },
+  {
+    "id": "respi-3-2",
+    "title": "Ribs",
+    "course": "respi",
+    "brick_id": "3",
+    "brick_title": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "type": "anatomy",
+    "buzzwords": [
+      "12 pairs of curved bones",
+      "protect thoracic organs",
+      "articulate with thoracic spine",
+      "true ribs 1-7 attach directly",
+      "false ribs 8-10 attach indirectly",
+      "floating ribs 11-12",
+      "neurovascular bundle in costal groove",
+      "sternal angle at manubrium"
+    ]
+  },
+  {
+    "id": "respi-3-3",
+    "title": "Intercostal Muscles",
+    "course": "respi",
+    "brick_id": "3",
+    "brick_title": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "type": "anatomy",
+    "buzzwords": [
+      "muscles between the ribs",
+      "stiffen chest wall in inspiration",
+      "prevent retraction",
+      "three layers",
+      "external aid inspiration",
+      "internal and innermost aid expiration",
+      "supplied by intercostal arteries",
+      "innervated by intercostal nerves"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "respi-24-1",
+    "title": "Descending Thoracic Aorta",
+    "course": "respi",
+    "brick_id": "24",
+    "brick_title": "Mediastinum (Part 2 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "great vessel",
+      "posterior to pericardial sac",
+      "primary vessel here",
+      "posterior to esophagus",
+      "gives bronchial branches",
+      "gives esophageal branches",
+      "thoracic portion of aorta",
+      "supplies posterior intercostals"
+    ]
+  },
+  {
+    "id": "respi-24-2",
+    "title": "Azygos System",
+    "course": "respi",
+    "brick_id": "24",
+    "brick_title": "Mediastinum (Part 2 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "venous network",
+      "drains thoracic wall",
+      "posterior mediastinum",
+      "alternative pathway to IVC",
+      "right-sided main vein",
+      "drains into superior vena cava",
+      "hemiazygos vein",
+      "accessory hemiazygos vein"
+    ]
+  },
+  {
+    "id": "respi-24-3",
+    "title": "Sympathetic Trunk",
+    "course": "respi",
+    "brick_id": "24",
+    "brick_title": "Mediastinum (Part 2 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "major nerve",
+      "fight-or-flight",
+      "regulates heart rate",
+      "lies beside vertebral column",
+      "paired bilateral chains",
+      "ganglionated chain",
+      "thoracic part in posterior mediastinum",
+      "gives splanchnic nerves"
+    ]
+  },
+  {
+    "id": "respi-24-4",
+    "title": "Thoracic Splanchnic Nerves",
+    "course": "respi",
+    "brick_id": "24",
+    "brick_title": "Mediastinum (Part 2 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "preganglionic sympathetics",
+      "pierce the diaphragm",
+      "reach abdominal organs",
+      "synapse at prevertebral ganglia",
+      "greater from T5-T9",
+      "lesser from T10-T11",
+      "least nerve from T12",
+      "end at celiac ganglion"
+    ]
+  },
+  {
+    "id": "respi-24-5",
+    "title": "Esophagus",
+    "course": "respi",
+    "brick_id": "24",
+    "brick_title": "Mediastinum (Part 2 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "muscular tube",
+      "posterior to left atrium",
+      "anterior to vertebral column",
+      "three constrictions",
+      "compressed by aortic arch",
+      "compressed by left main bronchus",
+      "compressed by diaphragm",
+      "narrows on barium swallow"
+    ]
+  },
+  {
+    "id": "respi-24-6",
+    "title": "Thoracic Duct",
+    "course": "respi",
+    "brick_id": "24",
+    "brick_title": "Mediastinum (Part 2 of 2)",
+    "type": "anatomy",
+    "buzzwords": [
+      "lymphatic channel",
+      "drains most of body",
+      "travels up from abdomen",
+      "between azygos and esophagus",
+      "transports digested fat",
+      "carries chylomicrons",
+      "drains into left venous angle",
+      "left subclavian-IJ junction"
+    ]
+  },
+  {
+    "id": "respi-24-7",
+    "title": "Chylothorax",
+    "course": "respi",
+    "brick_id": "24",
+    "brick_title": "Mediastinum (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "pleural effusion",
+      "milky fatty fluid",
+      "thoracic duct injury",
+      "lymphocyte predominant",
+      "elevated triglycerides",
+      "elevated chylomicrons",
+      "often from lymphoma",
+      "treat with low oral intake"
+    ]
+  }
+]

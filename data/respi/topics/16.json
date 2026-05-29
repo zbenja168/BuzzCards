@@ -1,0 +1,110 @@
+[
+  {
+    "id": "respi-16-1",
+    "title": "Hypercapnia",
+    "course": "respi",
+    "brick_id": "16",
+    "brick_title": "Hypercapnia",
+    "type": "disease",
+    "buzzwords": [
+      "elevated arterial CO2",
+      "main stimulus for respiratory drive",
+      "causes respiratory acidosis",
+      "flushing and palmar erythema",
+      "encephalopathy with asterixis",
+      "seen in COPD and opioid overdose",
+      "PaCO2 over 42 to 45 mmHg",
+      "also called hypercarbia"
+    ]
+  },
+  {
+    "id": "respi-16-2",
+    "title": "Reduced Minute Ventilation",
+    "course": "respi",
+    "brick_id": "16",
+    "brick_title": "Hypercapnia",
+    "type": "physiology",
+    "buzzwords": [
+      "most common cause of hypercapnia",
+      "less air moved per unit time",
+      "minute ventilation equals RR times tidal volume",
+      "decreased respiratory rate",
+      "decreased tidal volume",
+      "CNS respiratory center depression",
+      "opioids and sedatives slow breathing",
+      "chest wall restriction limits expansion"
+    ]
+  },
+  {
+    "id": "respi-16-3",
+    "title": "V/Q Mismatch",
+    "course": "respi",
+    "brick_id": "16",
+    "brick_title": "Hypercapnia",
+    "type": "physiology",
+    "buzzwords": [
+      "perfusion and ventilation poorly matched",
+      "usually causes hypoxemia",
+      "underventilated lung segments",
+      "mucus plugging blocks airflow",
+      "mixed blood reaches left atrium",
+      "increased physiologic dead space",
+      "emphysema raises V/Q ratio",
+      "pulmonary embolism rarely causes it"
+    ]
+  },
+  {
+    "id": "respi-16-4",
+    "title": "Renal Compensation",
+    "course": "respi",
+    "brick_id": "16",
+    "brick_title": "Hypercapnia",
+    "type": "physiology",
+    "buzzwords": [
+      "metabolic response to acidosis",
+      "corrects low blood pH",
+      "kidney provides main compensation",
+      "retains filtered bicarbonate",
+      "prominent in chronic hypercapnia",
+      "explains asymptomatic high PaCO2",
+      "raises serum HCO3 level",
+      "normalizes pH despite high CO2"
+    ]
+  },
+  {
+    "id": "respi-16-5",
+    "title": "Hyperventilatory Response",
+    "course": "respi",
+    "brick_id": "16",
+    "brick_title": "Hypercapnia",
+    "type": "physiology",
+    "buzzwords": [
+      "fast compensation for high CO2",
+      "increases minute ventilation",
+      "blows off excess CO2",
+      "central chemoreceptors in medulla",
+      "peripheral receptors aortic and carotid",
+      "CO2 crosses blood-brain barrier",
+      "central receptors respond to H+",
+      "blunted by chronic habituation"
+    ]
+  },
+  {
+    "id": "respi-16-6",
+    "title": "Capnography",
+    "course": "respi",
+    "brick_id": "16",
+    "brick_title": "Hypercapnia",
+    "type": "lab",
+    "buzzwords": [
+      "real-time CO2 measurement",
+      "diagnoses hypercapnia noninvasively",
+      "attached to mask or cannula",
+      "measures inspired and expired CO2",
+      "avoids repeat blood draws",
+      "indirect estimate of PaCO2",
+      "end tidal CO2 reading",
+      "ETCO2 tracks at expiration end"
+    ]
+  }
+]

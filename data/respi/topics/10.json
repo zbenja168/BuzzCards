@@ -1,0 +1,128 @@
+[
+  {
+    "id": "respi-10-1",
+    "title": "COPD Presentation",
+    "course": "respi",
+    "brick_id": "10",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "type": "disease",
+    "buzzwords": [
+      "dyspnea",
+      "reduced exercise tolerance",
+      "fatigue",
+      "chronic productive cough",
+      "weight loss in emphysema",
+      "acute exacerbations",
+      "triggered by URIs",
+      "bronchitis plus emphysema"
+    ]
+  },
+  {
+    "id": "respi-10-2",
+    "title": "COPD Exam Findings",
+    "course": "respi",
+    "brick_id": "10",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "type": "physiology",
+    "buzzwords": [
+      "expiratory wheezes",
+      "rhonchi",
+      "distant heart sounds",
+      "flattened diaphragm",
+      "pursed-lip breathing",
+      "cyanosis",
+      "tripod position",
+      "barrel chest"
+    ]
+  },
+  {
+    "id": "respi-10-3",
+    "title": "COPD Blood Studies",
+    "course": "respi",
+    "brick_id": "10",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "type": "lab",
+    "buzzwords": [
+      "baseline hypoxemia",
+      "low PaO2",
+      "measured by pulse oximetry",
+      "hypercapnia signals severe disease",
+      "secondary polycythemia",
+      "high erythropoietin",
+      "elevated RBCs on CBC",
+      "check alpha-1 antitrypsin"
+    ]
+  },
+  {
+    "id": "respi-10-4",
+    "title": "COPD Spirometry",
+    "course": "respi",
+    "brick_id": "10",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "type": "lab",
+    "buzzwords": [
+      "measures expiratory flow",
+      "obstructive pattern",
+      "reduced FEV1",
+      "minimal bronchodilator response",
+      "low DLCO",
+      "required for diagnosis",
+      "FEV1/FVC under 0.7",
+      "FEV1/FVC less than 70%"
+    ]
+  },
+  {
+    "id": "respi-10-5",
+    "title": "COPD Chest X-ray",
+    "course": "respi",
+    "brick_id": "10",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "type": "imaging",
+    "buzzwords": [
+      "not required for diagnosis",
+      "excludes pneumonia",
+      "increased AP diameter",
+      "narrowed vertical cardiac shadow",
+      "flattened diaphragm",
+      "hyperlucent lungs",
+      "loss of vascular markings",
+      "hyperinflation"
+    ]
+  },
+  {
+    "id": "respi-10-6",
+    "title": "Stable COPD Management",
+    "course": "respi",
+    "brick_id": "10",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "type": "drug",
+    "buzzwords": [
+      "smoking cessation first",
+      "vaccinate against influenza",
+      "home oxygen if SpO2 under 88%",
+      "long-acting bronchodilators",
+      "LABA like salmeterol",
+      "LAMA like tiotropium",
+      "inhaled corticosteroids if severe",
+      "theophylline"
+    ]
+  },
+  {
+    "id": "respi-10-7",
+    "title": "COPD Exacerbation Treatment",
+    "course": "respi",
+    "brick_id": "10",
+    "brick_title": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "type": "disease",
+    "buzzwords": [
+      "sudden worsening dyspnea",
+      "rising PaCO2",
+      "supplemental oxygen",
+      "short-acting albuterol",
+      "ipratropium",
+      "systemic corticosteroids",
+      "broad-spectrum antibiotics",
+      "ceftriaxone or piperacillin-tazobactam"
+    ]
+  }
+]

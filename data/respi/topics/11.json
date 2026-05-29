@@ -1,0 +1,218 @@
+[
+  {
+    "id": "respi-11-1",
+    "title": "Medullary Respiratory Center",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "primary control center",
+      "inferior brainstem",
+      "sets basic breathing rhythm",
+      "dorsal group controls inspiration",
+      "ventral group drives forced breathing",
+      "phrenic and intercostal output",
+      "input via CN IX and CN X",
+      "dorsal and ventral respiratory groups"
+    ]
+  },
+  {
+    "id": "respi-11-2",
+    "title": "Pontine Centers",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "fine-tunes breathing pattern",
+      "modulatory not essential",
+      "apneustic center stimulates inspiration",
+      "limits inspiratory volume",
+      "smooths transitions",
+      "controls respiratory rate",
+      "off-switch for inspiration",
+      "pneumotaxic center"
+    ]
+  },
+  {
+    "id": "respi-11-3",
+    "title": "Peripheral Chemoreceptors",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "sense arterial blood gases",
+      "respond to low oxygen",
+      "fire when PaO2 under 60",
+      "also sense high CO2 and low pH",
+      "signal via CN IX and CN X",
+      "drive breathing at altitude",
+      "carotid and aortic bodies",
+      "low PaO2 is primary stimulus"
+    ]
+  },
+  {
+    "id": "respi-11-4",
+    "title": "Central Chemoreceptors",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "located in ventral medulla",
+      "main driver of ventilation",
+      "sense CO2 indirectly",
+      "CO2 crosses blood-brain barrier",
+      "detect acidic CSF pH",
+      "cannot sense blood H+ directly",
+      "blunted response in COPD",
+      "most sensitive to CSF pH"
+    ]
+  },
+  {
+    "id": "respi-11-5",
+    "title": "Pulmonary Stretch Receptors",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "located in airway smooth muscle",
+      "sense lung inflation",
+      "activated by lung distension",
+      "terminate inspiration",
+      "prevent overinflation",
+      "signal via vagus nerve",
+      "protective inflation reflex",
+      "Hering-Breuer reflex"
+    ]
+  },
+  {
+    "id": "respi-11-6",
+    "title": "Irritant Receptors",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "located in airway epithelium",
+      "trachea and bronchi",
+      "rapidly adapting",
+      "sense noxious stimuli",
+      "triggered by dust and cold air",
+      "cause bronchoconstriction",
+      "increase respiratory rate",
+      "trigger coughing"
+    ]
+  },
+  {
+    "id": "respi-11-7",
+    "title": "J Receptors",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "alveolar mechanoreceptors",
+      "near pulmonary capillaries",
+      "unmyelinated C-fibers",
+      "sense increased capillary pressure",
+      "activated by pulmonary edema",
+      "cause rapid shallow breathing",
+      "fire in heart failure",
+      "juxtacapillary receptors"
+    ]
+  },
+  {
+    "id": "respi-11-8",
+    "title": "Kussmaul Breathing",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "disease",
+    "buzzwords": [
+      "abnormal breathing pattern",
+      "deep labored breaths",
+      "rapid rate",
+      "compensatory hyperventilation",
+      "blows off CO2",
+      "response to metabolic acidosis",
+      "seen in diabetic ketoacidosis",
+      "deep rapid air hunger"
+    ]
+  },
+  {
+    "id": "respi-11-9",
+    "title": "Cheyne-Stokes Respiration",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "disease",
+    "buzzwords": [
+      "abnormal cyclic breathing",
+      "alternating fast and slow breaths",
+      "periods of apnea",
+      "crescendo-decrescendo pattern",
+      "delayed medullary feedback",
+      "seen in heart failure",
+      "occurs at high altitude",
+      "waxing and waning depth"
+    ]
+  },
+  {
+    "id": "respi-11-10",
+    "title": "Biot Breathing",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "disease",
+    "buzzwords": [
+      "abnormal breathing pattern",
+      "irregular and erratic",
+      "constant tidal volume breaths",
+      "abrupt periods of apnea",
+      "no crescendo pattern",
+      "from medullary injury",
+      "caused by opioid intoxication",
+      "ataxic breathing"
+    ]
+  },
+  {
+    "id": "respi-11-11",
+    "title": "High-Altitude Response",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "low inspired PO2",
+      "causes hypoxemia",
+      "hyperventilation from low O2",
+      "produces respiratory alkalosis",
+      "increased erythropoietin",
+      "raised hemoglobin over time",
+      "2,3-BPG shifts curve right",
+      "acclimatization"
+    ]
+  },
+  {
+    "id": "respi-11-12",
+    "title": "Exercise Ventilation",
+    "course": "respi",
+    "brick_id": "11",
+    "brick_title": "Control of Ventilation and Effects of Altitude and Exercise",
+    "type": "physiology",
+    "buzzwords": [
+      "rising O2 demand",
+      "increased CO2 production",
+      "ventilation rises with intensity",
+      "cardiac output increases",
+      "improved V/Q matching",
+      "neural anticipation before metabolites",
+      "chemoreceptor feedback sustains drive",
+      "feedforward response"
+    ]
+  }
+]

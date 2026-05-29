@@ -1,0 +1,128 @@
+[
+  {
+    "id": "respi-30-1",
+    "title": "Respiratory Membrane",
+    "course": "respi",
+    "brick_id": "30",
+    "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "type": "anatomy",
+    "buzzwords": [
+      "site of gas exchange",
+      "barrier between air and blood",
+      "thinner = faster diffusion",
+      "alveolar-capillary unit",
+      "thickened in pulmonary fibrosis",
+      "thin epithelium plus endothelium",
+      "fused basement membranes",
+      "Fick's law diffusion"
+    ]
+  },
+  {
+    "id": "respi-30-2",
+    "title": "Pneumocytes",
+    "course": "respi",
+    "brick_id": "30",
+    "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "type": "anatomy",
+    "buzzwords": [
+      "alveolar epithelial cells",
+      "type 1 squamous and thin",
+      "cover 95% of surface",
+      "type 2 cuboidal progenitor",
+      "macrophages kill pathogens",
+      "secrete surfactant lowering tension",
+      "L/S ratio over 2.0 mature",
+      "low ratio causes NRDS"
+    ]
+  },
+  {
+    "id": "respi-30-3",
+    "title": "DLCO",
+    "course": "respi",
+    "brick_id": "30",
+    "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "type": "lab",
+    "buzzwords": [
+      "overall gas transfer efficiency",
+      "inhale small nontoxic gas",
+      "measures membrane and capillary blood",
+      "low in emphysema and fibrosis",
+      "increased with exercise",
+      "increased in polycythemia",
+      "decreased in anemia",
+      "carbon monoxide uptake test"
+    ]
+  },
+  {
+    "id": "respi-30-4",
+    "title": "A-a Gradient",
+    "course": "respi",
+    "brick_id": "30",
+    "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "type": "lab",
+    "buzzwords": [
+      "assesses cause of hypoxemia",
+      "subtract arterial from alveolar oxygen",
+      "needs alveolar gas equation",
+      "normal under 10 mmHg",
+      "rises with age",
+      "normal in hypoventilation",
+      "elevated in V/Q mismatch",
+      "estimated by age over four plus four"
+    ]
+  },
+  {
+    "id": "respi-30-5",
+    "title": "Perfusion-Limited Exchange",
+    "course": "respi",
+    "brick_id": "30",
+    "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "limited only by blood flow",
+      "equilibrates early in capillary",
+      "uptake stops once equilibrated",
+      "more flow means more transfer",
+      "normal oxygen at rest",
+      "increasing flow raises uptake",
+      "describes most gases normally",
+      "nitrous oxide example"
+    ]
+  },
+  {
+    "id": "respi-30-6",
+    "title": "Diffusion-Limited Exchange",
+    "course": "respi",
+    "brick_id": "30",
+    "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "never reaches equilibrium",
+      "limited by membrane properties",
+      "gradient maintained whole capillary",
+      "worse with thickened membrane",
+      "oxygen becomes limited in disease",
+      "seen with fibrosis and edema",
+      "unmasked by exercise",
+      "carbon monoxide example"
+    ]
+  },
+  {
+    "id": "respi-30-7",
+    "title": "Arterial Blood Gas",
+    "course": "respi",
+    "brick_id": "30",
+    "brick_title": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "type": "lab",
+    "buzzwords": [
+      "assesses oxygenation and acid-base",
+      "PaO2 75 to 105",
+      "PaCO2 33 to 45",
+      "pH 7.35 to 7.45",
+      "bicarbonate 22 to 28",
+      "high CO2 is hypercapnia",
+      "low O2 is hypoxemia",
+      "COPD shows retained CO2"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "respi-43-1",
+    "title": "Carbon Monoxide Poisoning",
+    "course": "respi",
+    "brick_id": "43",
+    "brick_title": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+    "type": "disease",
+    "buzzwords": [
+      "smoke inhalation",
+      "headache, nausea",
+      "misdiagnosed as viral",
+      "falsely normal SpO2",
+      "cherry-red skin",
+      "left-shifted O2 curve",
+      "delayed neuropsychiatric sequelae",
+      "elevated carboxyhemoglobin"
+    ]
+  },
+  {
+    "id": "respi-43-2",
+    "title": "Cyanide Poisoning",
+    "course": "respi",
+    "brick_id": "43",
+    "brick_title": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+    "type": "disease",
+    "buzzwords": [
+      "smoke inhalation",
+      "bitter almond breath",
+      "no response to O2",
+      "high anion gap",
+      "severe lactic acidosis",
+      "blocks cytochrome c oxidase",
+      "sodium nitroprusside infusion",
+      "apricot kernels, cassava"
+    ]
+  },
+  {
+    "id": "respi-43-3",
+    "title": "Carboxyhemoglobin",
+    "course": "respi",
+    "brick_id": "43",
+    "brick_title": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+    "type": "lab",
+    "buzzwords": [
+      "fooled pulse oximeter",
+      "decreased O2 capacity",
+      "left-shifted dissociation curve",
+      "impairs O2 unloading",
+      "200x hemoglobin affinity",
+      "diagnosed by CO-oximetry",
+      "25% means severe",
+      "CO bound to hemoglobin"
+    ]
+  },
+  {
+    "id": "respi-43-4",
+    "title": "Hydroxocobalamin",
+    "course": "respi",
+    "brick_id": "43",
+    "brick_title": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+    "type": "drug",
+    "buzzwords": [
+      "first-line antidote",
+      "given empirically early",
+      "binds free toxin",
+      "forms excretable complex",
+      "renally cleared",
+      "vitamin B12 precursor",
+      "treats cyanide poisoning",
+      "becomes cyanocobalamin"
+    ]
+  },
+  {
+    "id": "respi-43-5",
+    "title": "Hyperbaric Oxygen",
+    "course": "respi",
+    "brick_id": "43",
+    "brick_title": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+    "type": "physiology",
+    "buzzwords": [
+      "pressurized chamber",
+      "speeds toxin clearance",
+      "raises dissolved oxygen",
+      "for severe CO",
+      "used in pregnancy",
+      "given if unconscious",
+      "loss of consciousness indication",
+      "COHb above 25%"
+    ]
+  }
+]

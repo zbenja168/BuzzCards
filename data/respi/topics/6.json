@@ -1,0 +1,92 @@
+[
+  {
+    "id": "respi-6-1",
+    "title": "Asthma",
+    "course": "respi",
+    "brick_id": "6",
+    "brick_title": "Asthma",
+    "type": "disease",
+    "buzzwords": [
+      "reversible obstructive lung disease",
+      "often begins in childhood",
+      "wheezing, cough, chest tightness",
+      "triggered by allergens or exercise",
+      "worse early morning and evening",
+      "bronchoconstriction with mucus plugging",
+      "expiratory wheeze, prolonged expiration",
+      "silent chest in severe attack"
+    ]
+  },
+  {
+    "id": "respi-6-2",
+    "title": "Atopic Asthma",
+    "course": "respi",
+    "brick_id": "6",
+    "brick_title": "Asthma",
+    "type": "physiology",
+    "buzzwords": [
+      "allergic asthma type",
+      "positive family history",
+      "wheal-and-flare on skin test",
+      "Th2-driven airway inflammation",
+      "allergen crosslinks bound IgE",
+      "mast cell degranulation",
+      "type 1 hypersensitivity reaction",
+      "IgE-mediated"
+    ]
+  },
+  {
+    "id": "respi-6-3",
+    "title": "Asthma Histology",
+    "course": "respi",
+    "brick_id": "6",
+    "brick_title": "Asthma",
+    "type": "lab",
+    "buzzwords": [
+      "seen on bronchial biopsy",
+      "spares the alveoli",
+      "peripheral eosinophilia",
+      "thickened basement membrane",
+      "smooth muscle hypertrophy",
+      "spiral mucus plugs in sputum",
+      "Curschmann spirals",
+      "Charcot-Leyden crystals"
+    ]
+  },
+  {
+    "id": "respi-6-4",
+    "title": "Asthma Diagnostics",
+    "course": "respi",
+    "brick_id": "6",
+    "brick_title": "Asthma",
+    "type": "lab",
+    "buzzwords": [
+      "confirms reversible obstruction",
+      "spirometry first-line test",
+      "FEV1/FVC under 0.7",
+      "improves after bronchodilator",
+      "elevated exhaled nitric oxide",
+      "FeNO measures inflammation",
+      "methacholine bronchoprovocation challenge",
+      "PC20 at or below 8 mg/mL positive"
+    ]
+  },
+  {
+    "id": "respi-6-5",
+    "title": "Asthma Treatment",
+    "course": "respi",
+    "brick_id": "6",
+    "brick_title": "Asthma",
+    "type": "drug",
+    "buzzwords": [
+      "stepwise escalation by severity",
+      "inhaled corticosteroid controller",
+      "short-acting beta-agonist rescue",
+      "albuterol for acute relief",
+      "add long-acting beta-agonist",
+      "leukotriene receptor antagonist option",
+      "biologics target cytokines",
+      "GINA step strategy"
+    ]
+  }
+]

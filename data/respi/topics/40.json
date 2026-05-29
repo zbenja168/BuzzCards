@@ -1,0 +1,92 @@
+[
+  {
+    "id": "respi-40-1",
+    "title": "Respiratory Alkalosis",
+    "course": "respi",
+    "brick_id": "40",
+    "brick_title": "Respiratory Alkalosis",
+    "type": "disease",
+    "buzzwords": [
+      "high blood pH",
+      "primary acid-base disorder",
+      "alveolar ventilation exceeds demand",
+      "low PaCO2",
+      "hypocapnia",
+      "tingling and dizziness",
+      "tetany from low ionized calcium",
+      "perioral paresthesias"
+    ]
+  },
+  {
+    "id": "respi-40-2",
+    "title": "Bicarbonate Buffer System",
+    "course": "respi",
+    "brick_id": "40",
+    "brick_title": "Respiratory Alkalosis",
+    "type": "physiology",
+    "buzzwords": [
+      "primary extracellular buffer",
+      "normal pH 7.35 to 7.45",
+      "CO2 plus water",
+      "forms carbonic acid",
+      "yields H+ and bicarbonate",
+      "hyperventilation lowers CO2",
+      "shifts left raising pH",
+      "carbonic anhydrase catalyzed"
+    ]
+  },
+  {
+    "id": "respi-40-3",
+    "title": "Hypoxemic Hyperventilation",
+    "course": "respi",
+    "brick_id": "40",
+    "brick_title": "Respiratory Alkalosis",
+    "type": "physiology",
+    "buzzwords": [
+      "low PO2 trigger",
+      "reflex increased ventilation",
+      "high altitude low FiO2",
+      "pneumonia, CHF, ARDS",
+      "reduced alveolar diffusion",
+      "peripheral chemoreceptors sense it",
+      "carotid and aortic bodies",
+      "pulmonary embolism cause"
+    ]
+  },
+  {
+    "id": "respi-40-4",
+    "title": "Nonhypoxic Hyperventilation",
+    "course": "respi",
+    "brick_id": "40",
+    "brick_title": "Respiratory Alkalosis",
+    "type": "physiology",
+    "buzzwords": [
+      "normal PO2",
+      "hyperthyroidism, sepsis, fever",
+      "pregnancy progesterone effect",
+      "increased tidal volume",
+      "liver cirrhosis",
+      "respiratory center stimulation",
+      "panic disorder most common",
+      "early aspirin overdose"
+    ]
+  },
+  {
+    "id": "respi-40-5",
+    "title": "Renal Compensation",
+    "course": "respi",
+    "brick_id": "40",
+    "brick_title": "Respiratory Alkalosis",
+    "type": "physiology",
+    "buzzwords": [
+      "kidneys correct high pH",
+      "metabolic compensation",
+      "bicarbonate excretion",
+      "lowers serum HCO3",
+      "takes hours to days",
+      "seen in chronic disorder",
+      "acute leaves bicarbonate normal",
+      "never fully normalizes pH"
+    ]
+  }
+]

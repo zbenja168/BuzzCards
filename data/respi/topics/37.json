@@ -1,0 +1,128 @@
+[
+  {
+    "id": "respi-37-1",
+    "title": "Lung Volumes",
+    "course": "respi",
+    "brick_id": "37",
+    "brick_title": "Pulmonary Function Tests (PFT)",
+    "type": "physiology",
+    "buzzwords": [
+      "four basic volumes",
+      "do not overlap",
+      "tidal volume ~0.5 L",
+      "inspiratory reserve volume",
+      "expiratory reserve volume",
+      "air left after max exhale",
+      "RV not measured by spirometry",
+      "residual volume"
+    ]
+  },
+  {
+    "id": "respi-37-2",
+    "title": "Lung Capacities",
+    "course": "respi",
+    "brick_id": "37",
+    "brick_title": "Pulmonary Function Tests (PFT)",
+    "type": "physiology",
+    "buzzwords": [
+      "sums of two or more volumes",
+      "max air after full inhale",
+      "TV plus IRV",
+      "air left after normal exhale",
+      "ERV plus RV at rest",
+      "max inhale to max exhale",
+      "everything but residual volume",
+      "TLC, VC, IC, FRC"
+    ]
+  },
+  {
+    "id": "respi-37-3",
+    "title": "Spirometry",
+    "course": "respi",
+    "brick_id": "37",
+    "brick_title": "Pulmonary Function Tests (PFT)",
+    "type": "lab",
+    "buzzwords": [
+      "forceful complete exhalation",
+      "cannot measure residual volume",
+      "nose clip, tight mouthpiece",
+      "volume-time curve",
+      "FVC and FEV1",
+      "normal ratio at or above 0.7",
+      "LLN is 5th percentile",
+      "Z score < -1.65"
+    ]
+  },
+  {
+    "id": "respi-37-4",
+    "title": "Flow-Volume Loop",
+    "course": "respi",
+    "brick_id": "37",
+    "brick_title": "Pulmonary Function Tests (PFT)",
+    "type": "lab",
+    "buzzwords": [
+      "flow versus lung volume",
+      "no time axis",
+      "x-axis reads backward",
+      "peak expiratory flow at top",
+      "obstructive shifts left",
+      "restrictive shifts right, narrow",
+      "fixed upper airway obstruction flattens both",
+      "plateau on inspiration and expiration"
+    ]
+  },
+  {
+    "id": "respi-37-5",
+    "title": "Obstructive Lung Disease",
+    "course": "respi",
+    "brick_id": "37",
+    "brick_title": "Pulmonary Function Tests (PFT)",
+    "type": "disease",
+    "buzzwords": [
+      "trouble exhaling air",
+      "air trapping, hyperinflation",
+      "increased RV, FRC, TLC",
+      "FEV1 drops more than FVC",
+      "low FEV1/FVC ratio",
+      "reversibility suggests asthma",
+      "COPD, asthma, bronchitis",
+      "FEV1/FVC < 0.7"
+    ]
+  },
+  {
+    "id": "respi-37-6",
+    "title": "Restrictive Lung Disease",
+    "course": "respi",
+    "brick_id": "37",
+    "brick_title": "Pulmonary Function Tests (PFT)",
+    "type": "disease",
+    "buzzwords": [
+      "trouble filling lungs",
+      "reduced lung volumes",
+      "low RV, FRC, TLC",
+      "FEV1 and FVC fall together",
+      "ratio normal or elevated",
+      "confirmed by TLC below LLN",
+      "intrinsic versus extrinsic causes",
+      "pulmonary fibrosis"
+    ]
+  },
+  {
+    "id": "respi-37-7",
+    "title": "DLCO",
+    "course": "respi",
+    "brick_id": "37",
+    "brick_title": "Pulmonary Function Tests (PFT)",
+    "type": "lab",
+    "buzzwords": [
+      "measures gas exchange efficiency",
+      "single inhaled breath of CO",
+      "tests alveolar-capillary membrane",
+      "low in destroyed surface area",
+      "decreased in emphysema",
+      "decreased in interstitial disease",
+      "low in pulmonary vascular disease",
+      "diffusing capacity for carbon monoxide"
+    ]
+  }
+]

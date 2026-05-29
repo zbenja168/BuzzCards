@@ -1,0 +1,182 @@
+[
+  {
+    "id": "respi-29-1",
+    "title": "Arterial Oxygen Content",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "lab",
+    "buzzwords": [
+      "total O2 in blood",
+      "depends on hemoglobin",
+      "falls in anemia",
+      "normal saturation can mask low value",
+      "~20 mL/dL normally",
+      "1.36 mL O2 per gram Hb",
+      "(1.36 x Hb x SaO2) + dissolved",
+      "CaO2"
+    ]
+  },
+  {
+    "id": "respi-29-2",
+    "title": "Oxygen Saturation",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "lab",
+    "buzzwords": [
+      "percent of binding sites occupied",
+      "measured on pulse oximeter",
+      "normal value ~98%",
+      "stays normal in anemia",
+      "not the amount of hemoglobin",
+      "y-axis of dissociation curve",
+      "SpO2",
+      "SaO2"
+    ]
+  },
+  {
+    "id": "respi-29-3",
+    "title": "Arterial Partial Pressure O2",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "lab",
+    "buzzwords": [
+      "reflects dissolved oxygen",
+      "drives diffusion into plasma",
+      "low solubility 0.003 mL/mmHg/dL",
+      "measured on arterial blood gas",
+      "normal in anemia",
+      "~2% of total oxygen",
+      "x-axis of dissociation curve",
+      "PaO2"
+    ]
+  },
+  {
+    "id": "respi-29-4",
+    "title": "CO2 as Bicarbonate",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "physiology",
+    "buzzwords": [
+      "main form of CO2 transport",
+      "~85% of CO2",
+      "made inside red blood cells",
+      "H+ buffered by hemoglobin",
+      "shifted out via chloride exchange",
+      "reverses at the lungs",
+      "catalyzed by carbonic anhydrase",
+      "HCO3-"
+    ]
+  },
+  {
+    "id": "respi-29-5",
+    "title": "Carbaminohemoglobin",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "physiology",
+    "buzzwords": [
+      "minor CO2 transport form",
+      "~10% of CO2",
+      "binds amino groups",
+      "not on the heme",
+      "favored when oxygen is low",
+      "released at the lungs",
+      "deoxyhemoglobin binds CO2 better",
+      "carbaminohemoglobin"
+    ]
+  },
+  {
+    "id": "respi-29-6",
+    "title": "Carbonic Anhydrase",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "physiology",
+    "buzzwords": [
+      "enzyme inside red blood cells",
+      "interconverts CO2 and bicarbonate",
+      "CO2 + H2O to carbonic acid",
+      "catalyzes both directions equally",
+      "direction set by reactant levels",
+      "regenerates CO2 at the lungs",
+      "central to pH regulation",
+      "carbonic anhydrase"
+    ]
+  },
+  {
+    "id": "respi-29-7",
+    "title": "Oxygen Dissociation Curve",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "physiology",
+    "buzzwords": [
+      "saturation versus partial pressure",
+      "sigmoid shape",
+      "reflects cooperative binding",
+      "plateau plus steep slope",
+      "P50 normally 28 mmHg",
+      "P50 is 50% saturation point",
+      "right shift unloads oxygen",
+      "left shift loads oxygen"
+    ]
+  },
+  {
+    "id": "respi-29-8",
+    "title": "Bohr Effect",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "physiology",
+    "buzzwords": [
+      "affects oxygen affinity",
+      "low pH lowers affinity",
+      "high CO2 lowers affinity",
+      "promotes unloading in tissues",
+      "rightward curve shift",
+      "exercise and septic shock",
+      "diabetic ketoacidosis shifts right",
+      "Bohr effect"
+    ]
+  },
+  {
+    "id": "respi-29-9",
+    "title": "Haldane Effect",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "physiology",
+    "buzzwords": [
+      "affects CO2 carriage",
+      "deoxyhemoglobin binds more CO2",
+      "deoxyhemoglobin buffers more H+",
+      "oxygenation releases CO2",
+      "drives CO2 uptake in tissues",
+      "drives CO2 release at lungs",
+      "couples O2 and CO2 transport",
+      "Haldane effect"
+    ]
+  },
+  {
+    "id": "respi-29-10",
+    "title": "Fetal Hemoglobin",
+    "course": "respi",
+    "brick_id": "29",
+    "brick_title": "Oxygen and Carbon Dioxide Transport",
+    "type": "physiology",
+    "buzzwords": [
+      "left-shifted curve",
+      "higher oxygen affinity",
+      "gamma chains",
+      "binds 2,3-DPG poorly",
+      "outcompetes maternal hemoglobin",
+      "pulls oxygen at placenta",
+      "facilitates maternal-to-fetal transfer",
+      "hemoglobin F"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "respi-28-1",
+    "title": "Ventilation Mechanics",
+    "course": "respi",
+    "brick_id": "28",
+    "brick_title": "Overview of Respiratory Physiology",
+    "type": "physiology",
+    "buzzwords": [
+      "moving air in and out",
+      "inhalation and exhalation",
+      "diaphragm contracts down",
+      "thorax expands",
+      "negative intrathoracic pressure",
+      "negative pressure within alveoli",
+      "passive elastic recoil exhales",
+      "active inspiration, passive expiration"
+    ]
+  },
+  {
+    "id": "respi-28-2",
+    "title": "Mucociliary Escalator",
+    "course": "respi",
+    "brick_id": "28",
+    "brick_title": "Overview of Respiratory Physiology",
+    "type": "physiology",
+    "buzzwords": [
+      "airway clearance system",
+      "traps inhaled particles",
+      "sweeps mucus upward",
+      "moves toward pharynx",
+      "expectorated or swallowed",
+      "periciliary fluid plus gel layer",
+      "impaired in cystic fibrosis",
+      "cilia beating mucus blanket"
+    ]
+  },
+  {
+    "id": "respi-28-3",
+    "title": "Airway Epithelial Cells",
+    "course": "respi",
+    "brick_id": "28",
+    "brick_title": "Overview of Respiratory Physiology",
+    "type": "anatomy",
+    "buzzwords": [
+      "pseudostratified columnar epithelium",
+      "ciliated cells line airway",
+      "goblet cells secrete mucus",
+      "submucosal glands add fluid",
+      "secrete IgA, antimicrobial peptides",
+      "patrolled by macrophages",
+      "club cells secrete protective proteins",
+      "club cells are bronchiolar progenitors"
+    ]
+  },
+  {
+    "id": "respi-28-4",
+    "title": "Alveolar-Capillary Barrier",
+    "course": "respi",
+    "brick_id": "28",
+    "brick_title": "Overview of Respiratory Physiology",
+    "type": "anatomy",
+    "buzzwords": [
+      "very thin gas-liquid barrier",
+      "site of gas exchange",
+      "fluid and surfactant layer",
+      "type I and II pneumocytes",
+      "two fused basement membranes",
+      "interstitial space with elastin",
+      "continuous capillary endothelium",
+      "no fenestrae unlike other capillaries"
+    ]
+  },
+  {
+    "id": "respi-28-5",
+    "title": "Fick's Law of Diffusion",
+    "course": "respi",
+    "brick_id": "28",
+    "brick_title": "Overview of Respiratory Physiology",
+    "type": "physiology",
+    "buzzwords": [
+      "governs gas movement",
+      "proportional to surface area",
+      "driven by pressure gradient",
+      "inversely related to thickness",
+      "thickened membrane reduces diffusion",
+      "emphysema cuts surface area",
+      "fibrosis thickens the membrane",
+      "Fick's law of diffusion"
+    ]
+  }
+]

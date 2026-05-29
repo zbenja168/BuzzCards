@@ -1,0 +1,74 @@
+[
+  {
+    "id": "respi-1-1",
+    "title": "ARDS",
+    "course": "respi",
+    "brick_id": "1",
+    "brick_title": "Acute Respiratory Distress Syndrome",
+    "type": "disease",
+    "buzzwords": [
+      "severe inflammatory lung injury",
+      "capillary leak",
+      "noncardiogenic pulmonary edema",
+      "refractory hypoxemia",
+      "sudden-onset respiratory distress",
+      "complicates sepsis, pneumonia",
+      "bilateral diffuse infiltrates",
+      "40-50% mortality"
+    ]
+  },
+  {
+    "id": "respi-1-2",
+    "title": "Diffuse Alveolar Damage",
+    "course": "respi",
+    "brick_id": "1",
+    "brick_title": "Acute Respiratory Distress Syndrome",
+    "type": "disease",
+    "buzzwords": [
+      "histologic hallmark of ARDS",
+      "three pathologic stages",
+      "exudative, fibroproliferative, fibrotic",
+      "endothelial and alveolar injury",
+      "lost type 2 surfactant",
+      "alveolar collapse",
+      "leaked protein-rich fluid",
+      "hyaline membranes"
+    ]
+  },
+  {
+    "id": "respi-1-3",
+    "title": "Berlin Criteria",
+    "course": "respi",
+    "brick_id": "1",
+    "brick_title": "Acute Respiratory Distress Syndrome",
+    "type": "lab",
+    "buzzwords": [
+      "diagnostic criteria for ARDS",
+      "onset within one week",
+      "bilateral opacities on imaging",
+      "not explained by heart failure",
+      "impaired oxygenation",
+      "increased A-a gradient",
+      "PCO2 not required",
+      "PaO2/FiO2 ≤ 300"
+    ]
+  },
+  {
+    "id": "respi-1-4",
+    "title": "ARDS Ventilation",
+    "course": "respi",
+    "brick_id": "1",
+    "brick_title": "Acute Respiratory Distress Syndrome",
+    "type": "physiology",
+    "buzzwords": [
+      "cornerstone of ARDS treatment",
+      "endotracheal intubation",
+      "low tidal volume",
+      "avoid barotrauma, volutrauma",
+      "PEEP keeps alveoli open",
+      "prone positioning helps",
+      "permissive hypercapnia tolerated",
+      "lung-protective strategy"
+    ]
+  }
+]

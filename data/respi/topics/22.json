@@ -1,0 +1,92 @@
+[
+  {
+    "id": "respi-22-1",
+    "title": "Interstitial Lung Disease",
+    "course": "respi",
+    "brick_id": "22",
+    "brick_title": "Interstitial Lung Disease: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "persistent dry cough",
+      "insidious dyspnea",
+      "diffuse parenchymal disease",
+      "progressive fibrosis",
+      "restrictive pattern",
+      "bibasilar inspiratory crackles",
+      "irreversible interstitial scarring",
+      "honeycombing on imaging"
+    ]
+  },
+  {
+    "id": "respi-22-2",
+    "title": "Idiopathic Pulmonary Fibrosis",
+    "course": "respi",
+    "brick_id": "22",
+    "brick_title": "Interstitial Lung Disease: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "no identifiable cause",
+      "primary fibrosis",
+      "smoking risk factor",
+      "chronic GI aspiration",
+      "viral infection trigger",
+      "diagnosis of exclusion",
+      "progressive irreversible scarring",
+      "idiopathic pulmonary fibrosis"
+    ]
+  },
+  {
+    "id": "respi-22-3",
+    "title": "Restrictive Lung Physiology",
+    "course": "respi",
+    "brick_id": "22",
+    "brick_title": "Interstitial Lung Disease: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "stiff noncompliant lungs",
+      "decreased all lung volumes",
+      "reduced total lung capacity",
+      "low FVC and FEV1",
+      "normal or high FEV1/FVC",
+      "reduced DLCO",
+      "V/Q mismatch hypoxemia",
+      "restrictive spirometry pattern"
+    ]
+  },
+  {
+    "id": "respi-22-4",
+    "title": "Honeycombing",
+    "course": "respi",
+    "brick_id": "22",
+    "brick_title": "Interstitial Lung Disease: Foundations and Frameworks",
+    "type": "imaging",
+    "buzzwords": [
+      "advanced ILD finding",
+      "poor prognosis marker",
+      "small cystic air spaces",
+      "reticular lines",
+      "best seen on HRCT",
+      "bibasilar distribution",
+      "clustered subpleural cysts",
+      "honeycomb appearance"
+    ]
+  },
+  {
+    "id": "respi-22-5",
+    "title": "Bronchoalveolar Lavage",
+    "course": "respi",
+    "brick_id": "22",
+    "brick_title": "Interstitial Lung Disease: Foundations and Frameworks",
+    "type": "lab",
+    "buzzwords": [
+      "samples distal airways",
+      "bronchoscope-guided",
+      "saline instilled then aspirated",
+      "collects cells and fluid",
+      "excludes infection malignancy",
+      "rules out alveolar hemorrhage",
+      "identifies underlying cause",
+      "bronchoalveolar lavage"
+    ]
+  }
+]

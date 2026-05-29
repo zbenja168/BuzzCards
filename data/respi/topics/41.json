@@ -1,0 +1,128 @@
+[
+  {
+    "id": "respi-41-1",
+    "title": "Alveolar PO2",
+    "course": "respi",
+    "brick_id": "41",
+    "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "oxygen available to diffuse",
+      "marker of gas exchange",
+      "set by ventilation",
+      "falls with hypoventilation",
+      "drops at high altitude",
+      "~99 mmHg normal",
+      "raised by supplemental O2",
+      "PAO2"
+    ]
+  },
+  {
+    "id": "respi-41-2",
+    "title": "Oxygen Cascade",
+    "course": "respi",
+    "brick_id": "41",
+    "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "stepwise pressure drop",
+      "atmosphere to mitochondria",
+      "humidification first step",
+      "diluted by CO2",
+      "159 mmHg in dry air",
+      "149 after humidification",
+      "tissue ~33, mitochondria ~5",
+      "venous admixture lowers arterial"
+    ]
+  },
+  {
+    "id": "respi-41-3",
+    "title": "Alveolar Gas Equation",
+    "course": "respi",
+    "brick_id": "41",
+    "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "estimates alveolar oxygen",
+      "subtracts CO2 contribution",
+      "uses respiratory quotient 0.8",
+      "PiO2 ~150 at sea level",
+      "FiO2 0.21 room air",
+      "divides PaCO2 by RQ",
+      "PAO2 = FiO2(Patm-PH2O) - PaCO2/RQ",
+      "47 mmHg water vapor"
+    ]
+  },
+  {
+    "id": "respi-41-4",
+    "title": "Alveolar PCO2",
+    "course": "respi",
+    "brick_id": "41",
+    "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "produced by tissue metabolism",
+      "diffuses blood to alveoli",
+      "equilibrates almost instantly",
+      "~40 mmHg normal",
+      "rises with hypoventilation",
+      "falls with hyperventilation",
+      "inverse marker of ventilation",
+      "PaCO2 mirrors PACO2"
+    ]
+  },
+  {
+    "id": "respi-41-5",
+    "title": "Alveolar Ventilation",
+    "course": "respi",
+    "brick_id": "41",
+    "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "air reaching the alveoli",
+      "participates in gas exchange",
+      "minute ventilation minus dead space",
+      "(Vt - Vd) x RR",
+      "rapid shallow lowers it",
+      "slow deep raises it",
+      "~4.2 L/min typical",
+      "VA"
+    ]
+  },
+  {
+    "id": "respi-41-6",
+    "title": "Dead Space",
+    "course": "respi",
+    "brick_id": "41",
+    "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "wasted ventilation",
+      "no gas exchange",
+      "anatomic ~150 mL",
+      "conducting airways portion",
+      "ventilated but unperfused",
+      "alveolar type in embolism",
+      "physiologic = anatomic + alveolar",
+      "1 mL per pound ideal weight"
+    ]
+  },
+  {
+    "id": "respi-41-7",
+    "title": "Bohr Equation",
+    "course": "respi",
+    "brick_id": "41",
+    "brick_title": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "type": "physiology",
+    "buzzwords": [
+      "estimates dead space fraction",
+      "gives Vd/Vt ratio",
+      "uses arterial-expired CO2 gap",
+      "PECO2 diluted by dead space",
+      "normal 20-40%",
+      "elevated means inefficient exchange",
+      "PaCO2 proxy for alveolar CO2",
+      "(PaCO2-PECO2)/PaCO2"
+    ]
+  }
+]

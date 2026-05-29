@@ -1,0 +1,92 @@
+[
+  {
+    "id": "respi-45-1",
+    "title": "Obstructive Sleep Apnea",
+    "course": "respi",
+    "brick_id": "45",
+    "brick_title": "Sleep Apnea",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent airway collapse",
+      "excessive daytime sleepiness",
+      "morning headaches",
+      "wakes gasping or choking",
+      "loud snoring",
+      "obesity risk factor",
+      "narrowed upper airway",
+      "cause of secondary hypertension"
+    ]
+  },
+  {
+    "id": "respi-45-2",
+    "title": "Central Sleep Apnea",
+    "course": "respi",
+    "brick_id": "45",
+    "brick_title": "Sleep Apnea",
+    "type": "disease",
+    "buzzwords": [
+      "much rarer than OSA",
+      "about 1% of population",
+      "no airway obstruction",
+      "absent respiratory drive",
+      "impaired brainstem signaling",
+      "transient hyperventilation lowers PaCO2",
+      "opioids and benzodiazepines",
+      "linked to heart failure"
+    ]
+  },
+  {
+    "id": "respi-45-3",
+    "title": "Polysomnography",
+    "course": "respi",
+    "brick_id": "45",
+    "brick_title": "Sleep Apnea",
+    "type": "lab",
+    "buzzwords": [
+      "overnight sleep study",
+      "diagnostic gold standard",
+      "monitors oxygen saturation",
+      "measures respiratory effort",
+      "counts events per hour",
+      "five events plus symptoms",
+      "fifteen events diagnostic alone",
+      "apnea-hypopnea index"
+    ]
+  },
+  {
+    "id": "respi-45-4",
+    "title": "CPAP Therapy",
+    "course": "respi",
+    "brick_id": "45",
+    "brick_title": "Sleep Apnea",
+    "type": "physiology",
+    "buzzwords": [
+      "first-line OSA treatment",
+      "nighttime mask device",
+      "splints airway open",
+      "prevents upper airway collapse",
+      "raises airway pressure",
+      "BiPAP for hypoventilation",
+      "higher inspiratory pressure",
+      "continuous positive airway pressure"
+    ]
+  },
+  {
+    "id": "respi-45-5",
+    "title": "Sleep Apnea Surgery",
+    "course": "respi",
+    "brick_id": "45",
+    "brick_title": "Sleep Apnea",
+    "type": "physiology",
+    "buzzwords": [
+      "removes anatomic obstruction",
+      "oral appliances for mild cases",
+      "advances the mandible",
+      "first-line in children",
+      "for adenotonsillar hypertrophy",
+      "refer to otolaryngologist",
+      "rare in adults",
+      "adenotonsillectomy"
+    ]
+  }
+]

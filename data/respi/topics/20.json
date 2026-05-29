@@ -1,0 +1,110 @@
+[
+  {
+    "id": "respi-20-1",
+    "title": "Allergic Rhinitis",
+    "course": "respi",
+    "brick_id": "20",
+    "brick_title": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "type": "disease",
+    "buzzwords": [
+      "nasal congestion",
+      "clear watery discharge",
+      "sneezing and itching",
+      "seasonal pollen trigger",
+      "pale bluish boggy mucosa",
+      "type 1 hypersensitivity",
+      "IgE mediated",
+      "hay fever"
+    ]
+  },
+  {
+    "id": "respi-20-2",
+    "title": "Nonallergic Rhinitis",
+    "course": "respi",
+    "brick_id": "20",
+    "brick_title": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "type": "disease",
+    "buzzwords": [
+      "nasal inflammation",
+      "no IgE mechanism",
+      "viral infection trigger",
+      "cold dry air trigger",
+      "perfumes and pollutants",
+      "negative allergy testing",
+      "beefy red mucosa if viral",
+      "nonallergic noninfectious irritant"
+    ]
+  },
+  {
+    "id": "respi-20-3",
+    "title": "Rhinosinusitis",
+    "course": "respi",
+    "brick_id": "20",
+    "brick_title": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "type": "disease",
+    "buzzwords": [
+      "facial pressure and pain",
+      "purulent discharge if bacterial",
+      "postnasal drip",
+      "paranasal sinus inflammation",
+      "acute under 4 weeks",
+      "chronic over 12 weeks",
+      "concurrent nasal cavity inflammation",
+      "Strep pneumoniae most common"
+    ]
+  },
+  {
+    "id": "respi-20-4",
+    "title": "Nasal Polyps",
+    "course": "respi",
+    "brick_id": "20",
+    "brick_title": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "type": "disease",
+    "buzzwords": [
+      "chronic nasal obstruction",
+      "soft fleshy masses",
+      "swollen edematous mucosa",
+      "neutrophilic infiltration",
+      "seen on anterior rhinoscopy",
+      "structural cause of sinusitis",
+      "linked to aspirin reaction",
+      "Samter triad association"
+    ]
+  },
+  {
+    "id": "respi-20-5",
+    "title": "Rhinitis Medicamentosa",
+    "course": "respi",
+    "brick_id": "20",
+    "brick_title": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "type": "disease",
+    "buzzwords": [
+      "worsening nasal congestion",
+      "iatrogenic cause",
+      "rebound congestion",
+      "decongestant spray overuse",
+      "escalating dosing dependency",
+      "limit use to 5 days",
+      "oxymetazoline overuse",
+      "topical decongestant rebound"
+    ]
+  },
+  {
+    "id": "respi-20-6",
+    "title": "Orbital Cellulitis",
+    "course": "respi",
+    "brick_id": "20",
+    "brick_title": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "type": "disease",
+    "buzzwords": [
+      "complication of sinusitis",
+      "ocular pain and swelling",
+      "infection behind orbital septum",
+      "pain with eye movement",
+      "proptosis and diplopia",
+      "urgent CT imaging",
+      "spread to orbit and brain",
+      "distinguish from preseptal cellulitis"
+    ]
+  }
+]

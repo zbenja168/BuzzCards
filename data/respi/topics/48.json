@@ -1,0 +1,128 @@
+[
+  {
+    "id": "respi-48-1",
+    "title": "Inhaled Corticosteroids",
+    "course": "respi",
+    "brick_id": "48",
+    "brick_title": "Treatment of Asthma & COPD",
+    "type": "drug",
+    "buzzwords": [
+      "anti-inflammatory inhaler",
+      "first-line long-term control",
+      "minimal systemic absorption",
+      "inhibits cytokine synthesis",
+      "inactivates NF-kB",
+      "upregulates beta-2 receptors",
+      "oral thrush, dysphonia",
+      "fluticasone, budesonide"
+    ]
+  },
+  {
+    "id": "respi-48-2",
+    "title": "Beta-2 Agonists",
+    "course": "respi",
+    "brick_id": "48",
+    "brick_title": "Treatment of Asthma & COPD",
+    "type": "drug",
+    "buzzwords": [
+      "bronchodilator",
+      "stimulates beta-2 receptors",
+      "raises cAMP",
+      "SABA for rescue",
+      "LABA for maintenance",
+      "tremor, tachycardia",
+      "hypokalemia",
+      "albuterol, salmeterol"
+    ]
+  },
+  {
+    "id": "respi-48-3",
+    "title": "Leukotriene Antagonists",
+    "course": "respi",
+    "brick_id": "48",
+    "brick_title": "Treatment of Asthma & COPD",
+    "type": "drug",
+    "buzzwords": [
+      "anti-inflammatory adjunct",
+      "blocks inflammatory mediators",
+      "good for exercise trigger",
+      "helps allergic rhinitis",
+      "blocks cysteinyl receptor",
+      "zileuton inhibits lipoxygenase",
+      "neuropsychiatric black box",
+      "montelukast, zafirlukast"
+    ]
+  },
+  {
+    "id": "respi-48-4",
+    "title": "Muscarinic Antagonists",
+    "course": "respi",
+    "brick_id": "48",
+    "brick_title": "Treatment of Asthma & COPD",
+    "type": "drug",
+    "buzzwords": [
+      "bronchodilator",
+      "prevents bronchoconstriction",
+      "blocks M3 receptor",
+      "bigger role in COPD",
+      "SAMA and LAMA",
+      "dry mouth, blurry vision",
+      "urinary retention",
+      "ipratropium, tiotropium"
+    ]
+  },
+  {
+    "id": "respi-48-5",
+    "title": "Phosphodiesterase Inhibitors",
+    "course": "respi",
+    "brick_id": "48",
+    "brick_title": "Treatment of Asthma & COPD",
+    "type": "drug",
+    "buzzwords": [
+      "oral bronchodilator",
+      "inhibits cAMP breakdown",
+      "raises intracellular cAMP",
+      "narrow therapeutic index",
+      "not first-line",
+      "many drug interactions",
+      "seizures, arrhythmias",
+      "theophylline, roflumilast"
+    ]
+  },
+  {
+    "id": "respi-48-6",
+    "title": "Cromolyn",
+    "course": "respi",
+    "brick_id": "48",
+    "brick_title": "Treatment of Asthma & COPD",
+    "type": "drug",
+    "buzzwords": [
+      "prophylactic only",
+      "no role in acute attack",
+      "mast cell stabilizer",
+      "blocks degranulation",
+      "prevents mediator release",
+      "delayed onset of effect",
+      "now rarely used",
+      "cromolyn sodium"
+    ]
+  },
+  {
+    "id": "respi-48-7",
+    "title": "Biologic Therapies",
+    "course": "respi",
+    "brick_id": "48",
+    "brick_title": "Treatment of Asthma & COPD",
+    "type": "drug",
+    "buzzwords": [
+      "monoclonal antibodies",
+      "for severe asthma",
+      "target eosinophilic pathways",
+      "phenotype-driven therapy",
+      "anti-IgE omalizumab",
+      "IL-5 mepolizumab, benralizumab",
+      "IL-4/IL-13 dupilumab",
+      "anaphylaxis risk"
+    ]
+  }
+]

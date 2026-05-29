@@ -1,0 +1,164 @@
+[
+  {
+    "id": "respi-2-1",
+    "title": "Airway Radius",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "biggest driver of resistance",
+      "set by smooth muscle tone",
+      "narrowing raises resistance",
+      "halving radius",
+      "16-fold resistance change",
+      "inverse 4th power of radius",
+      "beta-2 agonists widen it",
+      "Poiseuille's law"
+    ]
+  },
+  {
+    "id": "respi-2-2",
+    "title": "Bronchial Smooth Muscle",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "rings the airway",
+      "autonomic control of caliber",
+      "contraction narrows airway",
+      "constriction is cholinergic",
+      "parasympathetic bronchoconstriction",
+      "beta-2 relaxes it",
+      "sympathetic bronchodilation",
+      "albuterol target"
+    ]
+  },
+  {
+    "id": "respi-2-3",
+    "title": "Cross-Sectional Area",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "depends on airway generation",
+      "many parallel small airways",
+      "huge combined area distally",
+      "small airways low resistance",
+      "highest in medium bronchi",
+      "parallel resistors",
+      "rises in conducting zone",
+      "peaks at terminal bronchioles"
+    ]
+  },
+  {
+    "id": "respi-2-4",
+    "title": "Turbulent Flow",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "chaotic vortices and eddies",
+      "raises resistance and effort",
+      "occurs in large airways",
+      "favored by forced breathing",
+      "high Reynolds number",
+      "upper airway obstruction",
+      "croup causes it",
+      "produces stridor"
+    ]
+  },
+  {
+    "id": "respi-2-5",
+    "title": "Radial Traction",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "tethers airways open",
+      "from surrounding lung tissue",
+      "increases with lung volume",
+      "lower resistance on inspiration",
+      "higher resistance on expiration",
+      "needs intact elastic fibers",
+      "lost in emphysema",
+      "promotes air trapping"
+    ]
+  },
+  {
+    "id": "respi-2-6",
+    "title": "Dynamic Airway Collapse",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "airways squeezed shut",
+      "during forced expiration",
+      "hits small noncartilaginous bronchi",
+      "pleural exceeds airway pressure",
+      "worse with lost recoil",
+      "scooped-out expiratory loop",
+      "choke point forms",
+      "equal pressure point"
+    ]
+  },
+  {
+    "id": "respi-2-7",
+    "title": "Lung Compliance",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "ease of lung expansion",
+      "volume change per pressure",
+      "set by elastic fibers",
+      "raised by surfactant",
+      "low in pulmonary fibrosis",
+      "high in emphysema",
+      "greatest near FRC",
+      "slope of pressure-volume curve"
+    ]
+  },
+  {
+    "id": "respi-2-8",
+    "title": "Surfactant",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "made by type II pneumocytes",
+      "lowers alveolar surface tension",
+      "raises lung compliance",
+      "prevents alveolar collapse",
+      "stops small emptying into large",
+      "deficiency causes RDS",
+      "counters Law of Laplace",
+      "pressure equals 2T over r"
+    ]
+  },
+  {
+    "id": "respi-2-9",
+    "title": "Functional Residual Capacity",
+    "course": "respi",
+    "brick_id": "2",
+    "brick_title": "Airway Resistance",
+    "type": "physiology",
+    "buzzwords": [
+      "volume after quiet exhalation",
+      "lung and chest wall balance",
+      "inward recoil meets outward recoil",
+      "oxygen reservoir between breaths",
+      "lowest vascular resistance here",
+      "reduced in restrictive disease",
+      "raised by air trapping",
+      "ideal operating point"
+    ]
+  }
+]

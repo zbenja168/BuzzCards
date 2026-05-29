@@ -1,0 +1,92 @@
+[
+  {
+    "id": "respi-46-1",
+    "title": "Nicotine",
+    "course": "respi",
+    "brick_id": "46",
+    "brick_title": "Tobacco Smoking",
+    "type": "physiology",
+    "buzzwords": [
+      "addictive alkaloid",
+      "central nervous stimulant",
+      "stimulates dopamine release",
+      "activates brain reward pathway",
+      "inhibits monoamine oxidase",
+      "raises ACTH and cortisol",
+      "poisoning risk in children",
+      "binds nicotinic acetylcholine receptors"
+    ]
+  },
+  {
+    "id": "respi-46-2",
+    "title": "Vaping",
+    "course": "respi",
+    "brick_id": "46",
+    "brick_title": "Tobacco Smoking",
+    "type": "disease",
+    "buzzwords": [
+      "delivers inhaled nicotine",
+      "popular in young people",
+      "produces particulates not vapor",
+      "acute lung injury",
+      "eosinophilic and lipid pneumonia",
+      "lipid-laden macrophages",
+      "linked to THC products",
+      "vaping-associated pulmonary injury"
+    ]
+  },
+  {
+    "id": "respi-46-3",
+    "title": "Nicotine Replacement",
+    "course": "respi",
+    "brick_id": "46",
+    "brick_title": "Tobacco Smoking",
+    "type": "drug",
+    "buzzwords": [
+      "first-line cessation aid",
+      "eases withdrawal symptoms",
+      "supplies controlled nicotine",
+      "dose tapered over time",
+      "patches and gum",
+      "lozenges and nasal spray",
+      "available over the counter",
+      "inhaler form"
+    ]
+  },
+  {
+    "id": "respi-46-4",
+    "title": "Bupropion",
+    "course": "respi",
+    "brick_id": "46",
+    "brick_title": "Tobacco Smoking",
+    "type": "drug",
+    "buzzwords": [
+      "non-nicotine cessation drug",
+      "reduces cravings",
+      "helpful with coexisting depression",
+      "no weight gain",
+      "contraindicated in seizure disorders",
+      "avoid in eating disorders",
+      "norepinephrine-dopamine reuptake inhibitor",
+      "seizure is serious risk"
+    ]
+  },
+  {
+    "id": "respi-46-5",
+    "title": "Varenicline",
+    "course": "respi",
+    "brick_id": "46",
+    "brick_title": "Tobacco Smoking",
+    "type": "drug",
+    "buzzwords": [
+      "non-nicotine cessation drug",
+      "most effective single agent",
+      "reduces withdrawal and cravings",
+      "blocks rewarding effect of smoking",
+      "nausea most common effect",
+      "monitor for depression",
+      "watch for suicidal ideation",
+      "partial nicotinic receptor agonist"
+    ]
+  }
+]

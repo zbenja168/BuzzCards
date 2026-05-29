@@ -1,0 +1,110 @@
+[
+  {
+    "id": "respi-34-1",
+    "title": "Primary Spontaneous Pneumothorax",
+    "course": "respi",
+    "brick_id": "34",
+    "brick_title": "Pneumothorax",
+    "type": "disease",
+    "buzzwords": [
+      "air in pleural space",
+      "no underlying lung disease",
+      "sudden pleuritic chest pain",
+      "decreased breath sounds",
+      "hyperresonant percussion",
+      "tall thin young males",
+      "apical lung blebs",
+      "ruptured subpleural bleb"
+    ]
+  },
+  {
+    "id": "respi-34-2",
+    "title": "Tension Pneumothorax",
+    "course": "respi",
+    "brick_id": "34",
+    "brick_title": "Pneumothorax",
+    "type": "disease",
+    "buzzwords": [
+      "progressive air accumulation",
+      "one-way valve defect",
+      "hemodynamic compromise",
+      "distended neck veins",
+      "tachycardia and hypotension",
+      "obstructive shock",
+      "tracheal deviation away",
+      "needle decompression emergency"
+    ]
+  },
+  {
+    "id": "respi-34-3",
+    "title": "Secondary Spontaneous Pneumothorax",
+    "course": "respi",
+    "brick_id": "34",
+    "brick_title": "Pneumothorax",
+    "type": "disease",
+    "buzzwords": [
+      "air in pleural space",
+      "known underlying lung disease",
+      "older patients over 55",
+      "ruptured emphysematous bullae",
+      "associated with smoking",
+      "COVID-19 and TB linked",
+      "most commonly COPD",
+      "higher mortality risk"
+    ]
+  },
+  {
+    "id": "respi-34-4",
+    "title": "Traumatic Pneumothorax",
+    "course": "respi",
+    "brick_id": "34",
+    "brick_title": "Pneumothorax",
+    "type": "disease",
+    "buzzwords": [
+      "air enters pleural space",
+      "penetrating chest trauma",
+      "blunt injury with rib fracture",
+      "knife or gunshot wound",
+      "ventilator barotrauma",
+      "iatrogenic from central line",
+      "thoracentesis complication",
+      "high airway pressure cause"
+    ]
+  },
+  {
+    "id": "respi-34-5",
+    "title": "Chest Tube Thoracostomy",
+    "course": "respi",
+    "brick_id": "34",
+    "brick_title": "Pneumothorax",
+    "type": "physiology",
+    "buzzwords": [
+      "drains air from pleura",
+      "treats large pneumothorax",
+      "directed apically",
+      "underwater seal one-way valve",
+      "three-bottle suction system",
+      "sentinel hole inside ribcage",
+      "post-placement chest x-ray",
+      "tube thoracostomy"
+    ]
+  },
+  {
+    "id": "respi-34-6",
+    "title": "Chemical Pleurodesis",
+    "course": "respi",
+    "brick_id": "34",
+    "brick_title": "Pneumothorax",
+    "type": "physiology",
+    "buzzwords": [
+      "treats recurrent pneumothorax",
+      "prevents future relapse",
+      "obliterates pleural space",
+      "adheres visceral to parietal pleura",
+      "keeps lung against chest wall",
+      "irritant induces inflammation",
+      "thoracoscopic bleb resection",
+      "chemical pleurodesis"
+    ]
+  }
+]

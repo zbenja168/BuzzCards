@@ -1,0 +1,92 @@
+[
+  {
+    "id": "respi-32-1",
+    "title": "Pleural Effusion",
+    "course": "respi",
+    "brick_id": "32",
+    "brick_title": "Pleural Effusion",
+    "type": "disease",
+    "buzzwords": [
+      "fluid in pleural space",
+      "over 15 mL abnormal",
+      "may cause pleuritic chest pain",
+      "dyspnea when large",
+      "dullness to percussion",
+      "decreased breath sounds at base",
+      "blunted costophrenic angle on x-ray",
+      "meniscus sign"
+    ]
+  },
+  {
+    "id": "respi-32-2",
+    "title": "Transudative Effusion",
+    "course": "respi",
+    "brick_id": "32",
+    "brick_title": "Pleural Effusion",
+    "type": "disease",
+    "buzzwords": [
+      "thin and watery",
+      "low protein and cells",
+      "caused by systemic disorders",
+      "increased hydrostatic pressure",
+      "decreased oncotic pressure",
+      "altered Starling forces",
+      "heart failure or cirrhosis",
+      "hypoalbuminemia"
+    ]
+  },
+  {
+    "id": "respi-32-3",
+    "title": "Exudative Effusion",
+    "course": "respi",
+    "brick_id": "32",
+    "brick_title": "Pleural Effusion",
+    "type": "disease",
+    "buzzwords": [
+      "thick and proteinaceous",
+      "caused by local pathology",
+      "increased capillary permeability",
+      "from infection or malignancy",
+      "parapneumonic effusion",
+      "milky chylothorax if duct ruptured",
+      "hemothorax after trauma",
+      "high protein and LDH"
+    ]
+  },
+  {
+    "id": "respi-32-4",
+    "title": "Light's Criteria",
+    "course": "respi",
+    "brick_id": "32",
+    "brick_title": "Pleural Effusion",
+    "type": "lab",
+    "buzzwords": [
+      "classifies pleural fluid",
+      "transudate versus exudate",
+      "uses protein and LDH",
+      "single positive means exudate",
+      "pleural/serum protein over 0.5",
+      "pleural/serum LDH over 0.6",
+      "pleural LDH over 200 U/L",
+      "Light's criteria"
+    ]
+  },
+  {
+    "id": "respi-32-5",
+    "title": "Thoracentesis",
+    "course": "respi",
+    "brick_id": "32",
+    "brick_title": "Pleural Effusion",
+    "type": "physiology",
+    "buzzwords": [
+      "needle into pleural space",
+      "samples fluid for analysis",
+      "ultrasound-guided at bedside",
+      "both diagnostic and therapeutic",
+      "drains fluid to ease dyspnea",
+      "needle inserted above the rib",
+      "avoids neurovascular bundle",
+      "empyemas need tube drainage"
+    ]
+  }
+]

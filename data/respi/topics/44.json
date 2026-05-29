@@ -1,0 +1,92 @@
+[
+  {
+    "id": "respi-44-1",
+    "title": "Sarcoidosis",
+    "course": "respi",
+    "brick_id": "44",
+    "brick_title": "Sarcoidosis",
+    "type": "disease",
+    "buzzwords": [
+      "multiorgan inflammatory disease",
+      "often asymptomatic",
+      "dry cough, dyspnea",
+      "restrictive lung disease",
+      "young Black female",
+      "bilateral hilar adenopathy",
+      "noncaseating granulomas",
+      "elevated serum ACE"
+    ]
+  },
+  {
+    "id": "respi-44-2",
+    "title": "Noncaseating Granuloma",
+    "course": "respi",
+    "brick_id": "44",
+    "brick_title": "Sarcoidosis",
+    "type": "physiology",
+    "buzzwords": [
+      "cell-mediated immunity",
+      "macrophages and lymphocytes",
+      "lacks central necrosis",
+      "epithelioid cells",
+      "multinucleated giant cells",
+      "stellate asteroid bodies",
+      "calcium Schaumann bodies",
+      "hallmark of sarcoidosis"
+    ]
+  },
+  {
+    "id": "respi-44-3",
+    "title": "Sarcoid Hypercalcemia",
+    "course": "respi",
+    "brick_id": "44",
+    "brick_title": "Sarcoidosis",
+    "type": "lab",
+    "buzzwords": [
+      "renal calcium stones",
+      "increased gut absorption",
+      "bone calcium release",
+      "calcium oxalate stones",
+      "10-20% of cases",
+      "granulomas make calcitriol",
+      "active vitamin D excess",
+      "elevated serum calcium"
+    ]
+  },
+  {
+    "id": "respi-44-4",
+    "title": "Extrapulmonary Sarcoidosis",
+    "course": "respi",
+    "brick_id": "44",
+    "brick_title": "Sarcoidosis",
+    "type": "disease",
+    "buzzwords": [
+      "one third of patients",
+      "anterior uveitis",
+      "facial nerve palsy",
+      "polyarthritis of ankles",
+      "erythema nodosum",
+      "painless subcutaneous nodules",
+      "cardiac arrhythmias",
+      "Lofgren syndrome triad"
+    ]
+  },
+  {
+    "id": "respi-44-5",
+    "title": "Sarcoidosis Diagnosis",
+    "course": "respi",
+    "brick_id": "44",
+    "brick_title": "Sarcoidosis",
+    "type": "imaging",
+    "buzzwords": [
+      "inspiratory crackles",
+      "reticulonodular opacities",
+      "restrictive PFT pattern",
+      "decreased diffusing capacity",
+      "biopsy shows granulomas",
+      "increased BAL CD4:CD8",
+      "elevated serum ACE",
+      "bilateral hilar adenopathy"
+    ]
+  }
+]

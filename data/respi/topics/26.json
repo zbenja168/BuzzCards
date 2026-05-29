@@ -1,0 +1,92 @@
+[
+  {
+    "id": "respi-26-1",
+    "title": "NRDS",
+    "course": "respi",
+    "brick_id": "26",
+    "brick_title": "Neonatal Respiratory Distress Syndrome",
+    "type": "disease",
+    "buzzwords": [
+      "respiratory failure in newborns",
+      "presents within hours of birth",
+      "worsens over first 48 hours",
+      "tachypnea, retractions, nasal flaring",
+      "expiratory grunting, cyanosis",
+      "risk: prematurity, maternal diabetes",
+      "surfactant deficiency",
+      "hyaline membrane disease"
+    ]
+  },
+  {
+    "id": "respi-26-2",
+    "title": "Pulmonary Surfactant",
+    "course": "respi",
+    "brick_id": "26",
+    "brick_title": "Neonatal Respiratory Distress Syndrome",
+    "type": "physiology",
+    "buzzwords": [
+      "lipoprotein complex",
+      "phospholipids and proteins",
+      "lowers alveolar surface tension",
+      "prevents alveolar collapse",
+      "made by type 2 pneumocytes",
+      "appears third trimester",
+      "reduces intra-alveolar pressure",
+      "improves lung compliance"
+    ]
+  },
+  {
+    "id": "respi-26-3",
+    "title": "Atelectasis in NRDS",
+    "course": "respi",
+    "brick_id": "26",
+    "brick_title": "Neonatal Respiratory Distress Syndrome",
+    "type": "physiology",
+    "buzzwords": [
+      "alveolar collapse",
+      "high surface tension",
+      "increased work of breathing",
+      "hypoxemia and hypercarbia",
+      "V/Q mismatch",
+      "decreased compliance",
+      "perfused but not ventilated",
+      "progresses to respiratory failure"
+    ]
+  },
+  {
+    "id": "respi-26-4",
+    "title": "Fetal Circulation",
+    "course": "respi",
+    "brick_id": "26",
+    "brick_title": "Neonatal Respiratory Distress Syndrome",
+    "type": "physiology",
+    "buzzwords": [
+      "oxygen from maternal circulation",
+      "lungs filled with fluid",
+      "blood shunted past lungs",
+      "first breaths relax pulmonary vessels",
+      "right ventricle perfuses lungs",
+      "umbilical vessels and placenta",
+      "patent foramen ovale",
+      "patent ductus arteriosus"
+    ]
+  },
+  {
+    "id": "respi-26-5",
+    "title": "NRDS Management",
+    "course": "respi",
+    "brick_id": "26",
+    "brick_title": "Neonatal Respiratory Distress Syndrome",
+    "type": "drug",
+    "buzzwords": [
+      "buys time for endogenous surfactant",
+      "supplemental oxygen, 90-95% sat",
+      "risk of retinopathy of prematurity",
+      "positive end expiratory pressure",
+      "prevents atelectasis",
+      "antenatal corticosteroids to mother",
+      "given 2-7 days before delivery",
+      "exogenous surfactant instillation"
+    ]
+  }
+]

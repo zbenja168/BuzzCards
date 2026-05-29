@@ -1,0 +1,74 @@
+[
+  {
+    "id": "respi-8-1",
+    "title": "Bronchiectasis",
+    "course": "respi",
+    "brick_id": "8",
+    "brick_title": "Bronchiectasis",
+    "type": "disease",
+    "buzzwords": [
+      "chronic productive cough",
+      "obstructive lung disease",
+      "large-volume sputum daily",
+      "thick foul-smelling mucus",
+      "recurrent lung infections",
+      "hemoptysis common",
+      "irreversible airway dilation",
+      "permanently widened bronchi"
+    ]
+  },
+  {
+    "id": "respi-8-2",
+    "title": "Pathophysiology",
+    "course": "respi",
+    "brick_id": "8",
+    "brick_title": "Bronchiectasis",
+    "type": "physiology",
+    "buzzwords": [
+      "inflammation damages airway wall",
+      "impaired mucus clearance",
+      "obstruction or poor drainage",
+      "cystic fibrosis most common cause",
+      "CFTR defect thickens mucus",
+      "infection-inflammation vicious cycle",
+      "Pseudomonas in CF patients",
+      "H. influenzae in non-CF"
+    ]
+  },
+  {
+    "id": "respi-8-3",
+    "title": "Imaging Findings",
+    "course": "respi",
+    "brick_id": "8",
+    "brick_title": "Bronchiectasis",
+    "type": "imaging",
+    "buzzwords": [
+      "chest x-ray or CT",
+      "may be normal early",
+      "dilated thickened bronchial walls",
+      "high-resolution CT preferred",
+      "parallel tram-track lines",
+      "bronchus wider than artery",
+      "tram-tracking sign",
+      "signet ring sign"
+    ]
+  },
+  {
+    "id": "respi-8-4",
+    "title": "Management",
+    "course": "respi",
+    "brick_id": "8",
+    "brick_title": "Bronchiectasis",
+    "type": "physiology",
+    "buzzwords": [
+      "incurable and progressive",
+      "prevent infective exacerbations",
+      "antibiotics guided by cultures",
+      "chest physiotherapy clears mucus",
+      "dornase alfa cleaves DNA",
+      "hypertonic saline thins mucus",
+      "azithromycin prophylaxis",
+      "lung resection for refractory disease"
+    ]
+  }
+]

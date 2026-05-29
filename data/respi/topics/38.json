@@ -1,0 +1,110 @@
+[
+  {
+    "id": "respi-38-1",
+    "title": "Ventilation",
+    "course": "respi",
+    "brick_id": "38",
+    "brick_title": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "type": "physiology",
+    "buzzwords": [
+      "movement of air",
+      "into and out of alveoli",
+      "abbreviated V dot",
+      "increases at lung base",
+      "gravity-dependent expansion",
+      "less at apex",
+      "alveoli compress at base",
+      "depends on inspiration"
+    ]
+  },
+  {
+    "id": "respi-38-2",
+    "title": "Perfusion",
+    "course": "respi",
+    "brick_id": "38",
+    "brick_title": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "type": "physiology",
+    "buzzwords": [
+      "delivery of blood",
+      "abbreviated Q dot",
+      "carries deoxygenated blood",
+      "highest at lung base",
+      "lowest at apex",
+      "driven by gravity",
+      "vascular resistance dependent",
+      "~5 L/min at rest"
+    ]
+  },
+  {
+    "id": "respi-38-3",
+    "title": "V/Q Ratio",
+    "course": "respi",
+    "brick_id": "38",
+    "brick_title": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "type": "physiology",
+    "buzzwords": [
+      "airflow vs blood flow",
+      "matching index",
+      "normal whole-lung ~0.8",
+      "high at apex (~3)",
+      "low at base (~0.6)",
+      "decreases base to apex",
+      "ideal value is 1",
+      "ratio of V dot to Q dot"
+    ]
+  },
+  {
+    "id": "respi-38-4",
+    "title": "West Zones",
+    "course": "respi",
+    "brick_id": "38",
+    "brick_title": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "type": "physiology",
+    "buzzwords": [
+      "three regions of lung",
+      "gravity-based perfusion gradient",
+      "Zone 1 apex, V/Q >1",
+      "Zone 3 base, V/Q <1",
+      "Zone 2 middle, V/Q ~0.8",
+      "PA > Pa > Pv at apex",
+      "Pa > Pv > PA at base",
+      "alveolar vs vascular pressures"
+    ]
+  },
+  {
+    "id": "respi-38-5",
+    "title": "Shunt",
+    "course": "respi",
+    "brick_id": "38",
+    "brick_title": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "type": "physiology",
+    "buzzwords": [
+      "perfusion without ventilation",
+      "V/Q approaches zero",
+      "low V/Q extreme",
+      "blocked alveoli",
+      "causes hypoxemia",
+      "pneumonia or atelectasis",
+      "poor response to supplemental O2",
+      "triggers hypoxic vasoconstriction"
+    ]
+  },
+  {
+    "id": "respi-38-6",
+    "title": "Dead Space",
+    "course": "respi",
+    "brick_id": "38",
+    "brick_title": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "type": "physiology",
+    "buzzwords": [
+      "ventilation without perfusion",
+      "V/Q approaches infinity",
+      "high V/Q extreme",
+      "anatomical ~150 mL",
+      "conducting airways",
+      "gas resembles inspired air",
+      "responds to supplemental O2",
+      "pulmonary embolism"
+    ]
+  }
+]

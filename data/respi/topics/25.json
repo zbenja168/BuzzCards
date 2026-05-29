@@ -1,0 +1,74 @@
+[
+  {
+    "id": "respi-25-1",
+    "title": "Mesothelioma",
+    "course": "respi",
+    "brick_id": "25",
+    "brick_title": "Mesothelioma",
+    "type": "disease",
+    "buzzwords": [
+      "serosal membrane cancer",
+      "slow insidious onset",
+      "85% pleural",
+      "occupational exposure",
+      "BAP1 inactivation",
+      "metastases rare at presentation",
+      "shipyard and construction workers",
+      "asbestos exposure"
+    ]
+  },
+  {
+    "id": "respi-25-2",
+    "title": "Histologic Subtypes",
+    "course": "respi",
+    "brick_id": "25",
+    "brick_title": "Mesothelioma",
+    "type": "lab",
+    "buzzwords": [
+      "diagnosed by morphology and IHC",
+      "tubular and papillary patterns",
+      "most common subtype",
+      "epithelioid type",
+      "fibrosarcoma-like appearance",
+      "paucicellular fibrotic",
+      "sarcomatoid type",
+      "biphasic mixed type"
+    ]
+  },
+  {
+    "id": "respi-25-3",
+    "title": "Local Invasion Complications",
+    "course": "respi",
+    "brick_id": "25",
+    "brick_title": "Mesothelioma",
+    "type": "disease",
+    "buzzwords": [
+      "from local tumor spread",
+      "face and arm swelling",
+      "SVC syndrome",
+      "pericardial fluid compresses heart",
+      "cardiac tamponade",
+      "ptosis miosis anhidrosis",
+      "sympathetic nerve damage",
+      "Horner syndrome"
+    ]
+  },
+  {
+    "id": "respi-25-4",
+    "title": "Diagnosis and Management",
+    "course": "respi",
+    "brick_id": "25",
+    "brick_title": "Mesothelioma",
+    "type": "imaging",
+    "buzzwords": [
+      "pleural-based mass",
+      "pleural plaques and calcifications",
+      "staged with MRI or PET",
+      "talc shrinks pleural space",
+      "pleurodesis for effusion",
+      "median survival 9 to 17 months",
+      "best tissue yield",
+      "VATS biopsy"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "respi-17-1",
+    "title": "Hypersensitivity Pneumonitis",
+    "course": "respi",
+    "brick_id": "17",
+    "brick_title": "Hypersensitivity Pneumonitis",
+    "type": "disease",
+    "buzzwords": [
+      "interstitial lung disease",
+      "inhaled antigen trigger",
+      "dyspnea most common symptom",
+      "smoking is protective",
+      "more common over 65",
+      "diagnosed more in women",
+      "mixed type III/IV reaction",
+      "bird droppings or hay"
+    ]
+  },
+  {
+    "id": "respi-17-2",
+    "title": "Acute HP",
+    "course": "respi",
+    "brick_id": "17",
+    "brick_title": "Hypersensitivity Pneumonitis",
+    "type": "disease",
+    "buzzwords": [
+      "rapid onset after exposure",
+      "symptoms in hours to days",
+      "sneezing and chest tightness",
+      "fever and chills",
+      "tachypnea",
+      "onset 4 to 8 hours",
+      "immune-complex mediated",
+      "ground-glass opacities on x-ray"
+    ]
+  },
+  {
+    "id": "respi-17-3",
+    "title": "Chronic HP",
+    "course": "respi",
+    "brick_id": "17",
+    "brick_title": "Hypersensitivity Pneumonitis",
+    "type": "disease",
+    "buzzwords": [
+      "develops over months to years",
+      "malaise and fatigue",
+      "anorexia and weight loss",
+      "T-cell mediated",
+      "progressive fibrosis",
+      "restrictive lung disease",
+      "digital clubbing",
+      "honeycombing on imaging"
+    ]
+  },
+  {
+    "id": "respi-17-4",
+    "title": "HP Histology",
+    "course": "respi",
+    "brick_id": "17",
+    "brick_title": "Hypersensitivity Pneumonitis",
+    "type": "lab",
+    "buzzwords": [
+      "lymphocytic alveolitis",
+      "interstitial inflammation",
+      "inflammation around bronchioles",
+      "histiocytes and giant cells",
+      "peribronchial fibrosis in chronic",
+      "noncaseating granulomas",
+      "less intense than sarcoidosis",
+      "poorly formed granulomas"
+    ]
+  },
+  {
+    "id": "respi-17-5",
+    "title": "HP Imaging",
+    "course": "respi",
+    "brick_id": "17",
+    "brick_title": "Hypersensitivity Pneumonitis",
+    "type": "imaging",
+    "buzzwords": [
+      "chest x-ray may be normal",
+      "micronodular interstitial pattern",
+      "reticular net-like opacities",
+      "acute shows ground-glass",
+      "chronic shows honeycombing",
+      "traction bronchiectasis",
+      "HRCT shows air-trapping",
+      "nodules 3 to 5 mm"
+    ]
+  },
+  {
+    "id": "respi-17-6",
+    "title": "Bronchoalveolar Lavage",
+    "course": "respi",
+    "brick_id": "17",
+    "brick_title": "Hypersensitivity Pneumonitis",
+    "type": "lab",
+    "buzzwords": [
+      "most sensitive for alveolitis",
+      "performed during bronchoscopy",
+      "airway washed with saline",
+      "limited specificity",
+      "abnormal even without illness",
+      "used alongside radiology",
+      "lymphocytosis supports HP",
+      "finding is nonspecific"
+    ]
+  },
+  {
+    "id": "respi-17-7",
+    "title": "HP Management",
+    "course": "respi",
+    "brick_id": "17",
+    "brick_title": "Hypersensitivity Pneumonitis",
+    "type": "drug",
+    "buzzwords": [
+      "early disease is reversible",
+      "antigen avoidance is mainstay",
+      "protective mask at work",
+      "systemic corticosteroids",
+      "steroids ease symptoms only",
+      "no long-term outcome change",
+      "transplant for severe fibrosis",
+      "prednisone"
+    ]
+  }
+]

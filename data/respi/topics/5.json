@@ -1,0 +1,110 @@
+[
+  {
+    "id": "respi-5-1",
+    "title": "Nasal Cavity",
+    "course": "respi",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Upper Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "filters and humidifies air",
+      "entered through the nares",
+      "vestibule, respiratory, olfactory regions",
+      "lined by respiratory mucosa",
+      "three conchae per side",
+      "septum divides right from left",
+      "innervated by trigeminal nerve",
+      "Kiesselbach plexus bleeds"
+    ]
+  },
+  {
+    "id": "respi-5-2",
+    "title": "Paranasal Sinuses",
+    "course": "respi",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Upper Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "air-filled skull cavities",
+      "lighten the skull",
+      "produce mucus",
+      "named after the bone",
+      "four paired sets",
+      "frontal, sphenoid, maxillary, ethmoid",
+      "drain into meatuses",
+      "maxillary most prone to sinusitis"
+    ]
+  },
+  {
+    "id": "respi-5-3",
+    "title": "Nasopharynx",
+    "course": "respi",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Upper Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "behind the nose",
+      "carries air, not food",
+      "skull base superior border",
+      "ends at the uvula",
+      "connects to middle ear",
+      "pharyngotympanic (eustachian) tube",
+      "houses pharyngeal tonsils",
+      "adenoids enlarge here"
+    ]
+  },
+  {
+    "id": "respi-5-4",
+    "title": "Oropharynx",
+    "course": "respi",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Upper Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "behind the oral cavity",
+      "carries both air and food",
+      "extends uvula to hyoid",
+      "lies between naso- and laryngopharynx",
+      "supplied by facial artery branches",
+      "innervated by glossopharyngeal nerve",
+      "contains palatine tonsils",
+      "tonsils enlarge in tonsillitis"
+    ]
+  },
+  {
+    "id": "respi-5-5",
+    "title": "Laryngopharynx",
+    "course": "respi",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Upper Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "lowest part of pharynx",
+      "aka hypopharynx",
+      "respiratory and GI tracts diverge",
+      "ends at cricoid cartilage",
+      "continues into esophagus",
+      "surrounded by pharyngeal constrictors",
+      "piriform fossae trap food",
+      "Zenker diverticulum forms here"
+    ]
+  },
+  {
+    "id": "respi-5-6",
+    "title": "Larynx",
+    "course": "respi",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Upper Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "the voice box",
+      "final part of upper tract",
+      "supraglottis, glottis, subglottis",
+      "epiglottis prevents aspiration",
+      "vocal cords vibrate to phonate",
+      "posterior cricoarytenoid abducts cords",
+      "vagus nerve motor supply",
+      "recurrent laryngeal injury causes hoarseness"
+    ]
+  }
+]

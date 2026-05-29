@@ -1,0 +1,146 @@
+[
+  {
+    "id": "respi-14-1",
+    "title": "Lung Bud",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "first respiratory structure",
+      "appears day 26",
+      "triggered by retinoic acid",
+      "outgrowth of foregut",
+      "endoderm-derived epithelium",
+      "branches off anterior foregut",
+      "separated from esophagus by septum",
+      "respiratory diverticulum"
+    ]
+  },
+  {
+    "id": "respi-14-2",
+    "title": "Bronchial Buds",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "form by day 33",
+      "left and right pair",
+      "become main bronchi",
+      "right more vertical and wider",
+      "foreign bodies aspirate right",
+      "three lobar bronchi right",
+      "two lobar bronchi left",
+      "arise from lung bud division"
+    ]
+  },
+  {
+    "id": "respi-14-3",
+    "title": "Embryonic Stage",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "first lung stage",
+      "4 to 7 weeks",
+      "lung bud forms",
+      "tracheoesophageal septation",
+      "bronchial bud branching",
+      "pulmonary vasculature begins",
+      "arteries from sixth aortic arch",
+      "veins from left atrium"
+    ]
+  },
+  {
+    "id": "respi-14-4",
+    "title": "Pseudoglandular Stage",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "5 to 17 weeks",
+      "extensive airway branching",
+      "conductive airways complete",
+      "terminal bronchioles form",
+      "driven by FGF-10",
+      "columnar to cuboidal epithelium",
+      "no gas exchange possible",
+      "gland-like histologic appearance"
+    ]
+  },
+  {
+    "id": "respi-14-5",
+    "title": "Canalicular Stage",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "16 to 25 weeks",
+      "17 orders of branching",
+      "respiratory bronchioles prominent",
+      "rudimentary acini form",
+      "capillaries near epithelium",
+      "primitive gas exchange begins",
+      "earliest possible viability",
+      "marginal survival around week 22"
+    ]
+  },
+  {
+    "id": "respi-14-6",
+    "title": "Saccular Stage",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "24 weeks to birth",
+      "terminal sacs develop",
+      "primordial alveoli",
+      "epithelium becomes very thin",
+      "elastic-fiber septation begins",
+      "capillaries press into sacs",
+      "blood-air barrier forms",
+      "surfactant production ramps up"
+    ]
+  },
+  {
+    "id": "respi-14-7",
+    "title": "Alveolar Stage",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "final lung stage",
+      "32 weeks to age 8",
+      "mature alveolarization",
+      "increase in acini number",
+      "greater vascularization",
+      "5% of alveoli at birth",
+      "95% mature postnatally",
+      "300 million mature alveoli"
+    ]
+  },
+  {
+    "id": "respi-14-8",
+    "title": "Pneumocytes",
+    "course": "respi",
+    "brick_id": "14",
+    "brick_title": "Development of the Respiratory Tract",
+    "type": "physiology",
+    "buzzwords": [
+      "line the alveoli",
+      "type 1 forms blood-air barrier",
+      "type 1 thin for gas exchange",
+      "type 1 differentiate from type 2",
+      "type 2 secrete surfactant",
+      "surfactant lowers surface tension",
+      "deficiency causes neonatal RDS",
+      "corticosteroids boost surfactant"
+    ]
+  }
+]

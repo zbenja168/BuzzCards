@@ -1,0 +1,182 @@
+[
+  {
+    "id": "respi-47-1",
+    "title": "Flail Chest",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "blunt chest trauma",
+      "multiple rib fractures",
+      "3+ ribs, 2+ places",
+      "free-floating segment",
+      "impaired breathing mechanics",
+      "respiratory failure risk",
+      "paradoxical chest motion",
+      "inward on inspiration"
+    ]
+  },
+  {
+    "id": "respi-47-2",
+    "title": "Diaphragmatic Injury",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "often penetrating trauma",
+      "missed on chest X-ray",
+      "abdominal contents herniate up",
+      "CT for diagnosis",
+      "needs operative repair",
+      "risk of strangulation",
+      "danger zone wounds",
+      "nipple to umbilicus"
+    ]
+  },
+  {
+    "id": "respi-47-3",
+    "title": "Pleuritis",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "pleural membrane inflammation",
+      "sharp stabbing chest pain",
+      "worse with inspiration",
+      "worse with coughing",
+      "uremia or autoimmune cause",
+      "NSAIDs for treatment",
+      "pleuritic chest pain",
+      "pleural friction rub"
+    ]
+  },
+  {
+    "id": "respi-47-4",
+    "title": "Hemothorax",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "blood in pleural space",
+      "from chest trauma",
+      "chest tube drainage",
+      "85% managed conservatively",
+      ">1500 mL needs surgery",
+      ">200 mL/hr is heavy",
+      "thoracotomy if unstable",
+      "retained clot needs VATS"
+    ]
+  },
+  {
+    "id": "respi-47-5",
+    "title": "Chylothorax",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "lymphatic fluid in pleura",
+      "thoracic duct injury",
+      "milky pleural fluid",
+      "high triglycerides",
+      "lymphocyte predominant",
+      "nutritional deficiency risk",
+      "medium-chain triglyceride diet",
+      "rich in chylomicrons"
+    ]
+  },
+  {
+    "id": "respi-47-6",
+    "title": "Mediastinitis",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "mediastinal inflammation",
+      "life-threatening infection",
+      "esophageal perforation cause",
+      "fever and systemic toxicity",
+      "emergent surgical drainage",
+      "broad-spectrum antibiotics",
+      "polymicrobial",
+      "high mortality untreated"
+    ]
+  },
+  {
+    "id": "respi-47-7",
+    "title": "Pneumomediastinum",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "air in the mediastinum",
+      "barotrauma or trauma",
+      "subcutaneous emphysema",
+      "esophageal or tracheal injury",
+      "usually self-limiting",
+      "monitor for mediastinitis",
+      "continuous diaphragm sign",
+      "Hamman crunch"
+    ]
+  },
+  {
+    "id": "respi-47-8",
+    "title": "Pulmonary Contusion",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "blunt chest trauma",
+      "no pleural laceration",
+      "rapid deceleration injury",
+      "alveolar capillary rupture",
+      "hemorrhage and edema",
+      "worsens over 24-48 hours",
+      "opacification on X-ray",
+      "bruised lung"
+    ]
+  },
+  {
+    "id": "respi-47-9",
+    "title": "Oxygen Toxicity",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "high inspired oxygen",
+      "free radical damage",
+      "diffuse alveolar injury",
+      "100% O2 over 24-48 hours",
+      "can progress to ARDS",
+      "worsens oxygenation",
+      "keep FiO2 under 60%",
+      "reactive oxygen species"
+    ]
+  },
+  {
+    "id": "respi-47-10",
+    "title": "Pulmonary Barotrauma",
+    "course": "respi",
+    "brick_id": "47",
+    "brick_title": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "type": "disease",
+    "buzzwords": [
+      "alveolar overdistension",
+      "rapid dive ascent",
+      "high ventilator pressures",
+      "worse in stiff lungs",
+      "air escapes into tissues",
+      "low tidal volume protective",
+      "pneumothorax risk",
+      "arterial gas embolism"
+    ]
+  }
+]

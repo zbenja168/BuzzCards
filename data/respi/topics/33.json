@@ -1,0 +1,56 @@
+[
+  {
+    "id": "respi-33-1",
+    "title": "Coal Workers' Pneumoconiosis",
+    "course": "respi",
+    "brick_id": "33",
+    "brick_title": "Pneumoconioses",
+    "type": "disease",
+    "buzzwords": [
+      "occupational lung disease",
+      "coal dust inhalation",
+      "coal miners",
+      "usually benign",
+      "upper-lobe nodules",
+      "carbon-laden macrophages",
+      "anthracosis",
+      "black lung"
+    ]
+  },
+  {
+    "id": "respi-33-2",
+    "title": "Silicosis",
+    "course": "respi",
+    "brick_id": "33",
+    "brick_title": "Pneumoconioses",
+    "type": "disease",
+    "buzzwords": [
+      "occupational lung disease",
+      "rock mining",
+      "sandblasting",
+      "upper-lobe nodules",
+      "increased TB susceptibility",
+      "hilar lymph node calcification",
+      "eggshell calcification",
+      "silica dust inhalation"
+    ]
+  },
+  {
+    "id": "respi-33-3",
+    "title": "Asbestosis",
+    "course": "respi",
+    "brick_id": "33",
+    "brick_title": "Pneumoconioses",
+    "type": "disease",
+    "buzzwords": [
+      "occupational lung disease",
+      "shipbuilding, plumbing",
+      "lower-lobe fibrosis",
+      "pleural plaques",
+      "pleural effusions",
+      "raises lung cancer risk",
+      "mesothelioma risk",
+      "asbestos bodies"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "respi-19-1",
+    "title": "Idiopathic Pulmonary Fibrosis",
+    "course": "respi",
+    "brick_id": "19",
+    "brick_title": "Idiopathic Pulmonary Fibrosis",
+    "type": "disease",
+    "buzzwords": [
+      "progressive interstitial lung disease",
+      "diagnosis of exclusion",
+      "age 55 to 75",
+      "progressive dyspnea",
+      "chronic nonproductive cough",
+      "restrictive pattern, reduced DLCO",
+      "bibasilar Velcro crackles",
+      "no known cause"
+    ]
+  },
+  {
+    "id": "respi-19-2",
+    "title": "Usual Interstitial Pneumonia",
+    "course": "respi",
+    "brick_id": "19",
+    "brick_title": "Idiopathic Pulmonary Fibrosis",
+    "type": "imaging",
+    "buzzwords": [
+      "histologic pattern of IPF",
+      "peripheral patchwork fibrosis",
+      "subpleural and paraseptal predilection",
+      "traction bronchiectasis on CT",
+      "honeycomb changes",
+      "cystic spaces, fibrotic walls",
+      "heterogeneous fibrosis",
+      "fibroblastic foci"
+    ]
+  },
+  {
+    "id": "respi-19-3",
+    "title": "Nintedanib",
+    "course": "respi",
+    "brick_id": "19",
+    "brick_title": "Idiopathic Pulmonary Fibrosis",
+    "type": "drug",
+    "buzzwords": [
+      "antifibrotic for IPF",
+      "slows disease progression",
+      "tyrosine kinase inhibitor",
+      "blocks VEGF, PDGF, FGF",
+      "diarrhea, nausea, vomiting",
+      "drug-induced liver injury",
+      "increased bleeding risk",
+      "inhibits platelet-derived growth factor"
+    ]
+  },
+  {
+    "id": "respi-19-4",
+    "title": "Pirfenidone",
+    "course": "respi",
+    "brick_id": "19",
+    "brick_title": "Idiopathic Pulmonary Fibrosis",
+    "type": "drug",
+    "buzzwords": [
+      "antifibrotic for IPF",
+      "slows disease progression",
+      "blocks fibroblast proliferation",
+      "inhibits TGF-beta collagen synthesis",
+      "reduces extracellular matrix",
+      "photosensitivity reactions",
+      "dizziness, fatigue, reflux",
+      "severe cutaneous Stevens-Johnson syndrome"
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "respi-31-1",
+    "title": "Ventilation vs Respiration",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "physiology",
+    "buzzwords": [
+      "two distinct processes",
+      "moving air vs gas exchange",
+      "driven by pressure gradients",
+      "regulated by brainstem centers",
+      "responds to PaCO2",
+      "external vs internal types",
+      "mechanical air movement",
+      "ventilation vs respiration"
+    ]
+  },
+  {
+    "id": "respi-31-2",
+    "title": "Primary Respiratory Muscles",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "anatomy",
+    "buzzwords": [
+      "drive quiet breathing",
+      "contract during inspiration",
+      "increase thoracic volume",
+      "lower intrapleural pressure",
+      "external intercostals elevate ribs",
+      "~75% of inspiratory effort",
+      "dome flattens downward",
+      "diaphragm"
+    ]
+  },
+  {
+    "id": "respi-31-3",
+    "title": "Accessory Muscles",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "anatomy",
+    "buzzwords": [
+      "recruited in respiratory distress",
+      "used in forced breathing",
+      "inspiratory ones elevate ribs",
+      "expiratory ones depress ribs",
+      "abdominals raise intraabdominal pressure",
+      "internal intercostals aid expiration",
+      "scalenes and serratus anterior",
+      "sternocleidomastoid"
+    ]
+  },
+  {
+    "id": "respi-31-4",
+    "title": "Alveolar Pressure",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "physiology",
+    "buzzwords": [
+      "pressure inside alveoli",
+      "fluctuates during breathing",
+      "zero at no airflow",
+      "drives air in and out",
+      "negative during inspiration",
+      "positive during expiration",
+      "about minus 1 cmH2O inhaling",
+      "Palv"
+    ]
+  },
+  {
+    "id": "respi-31-5",
+    "title": "Intrapleural Pressure",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "physiology",
+    "buzzwords": [
+      "pressure in pleural space",
+      "normally negative suction",
+      "keeps lung from collapsing",
+      "becomes more negative inhaling",
+      "from opposing elastic recoils",
+      "around minus 5 cmH2O",
+      "can turn positive forced expiration",
+      "Ppl"
+    ]
+  },
+  {
+    "id": "respi-31-6",
+    "title": "Transpulmonary Pressure",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "physiology",
+    "buzzwords": [
+      "distending pressure",
+      "alveolar minus pleural",
+      "always positive normally",
+      "keeps alveoli inflated",
+      "rises during inspiration",
+      "zero collapses the lung",
+      "about plus 5 cmH2O at rest",
+      "Ptp = Palv minus Ppl"
+    ]
+  },
+  {
+    "id": "respi-31-7",
+    "title": "Pneumothorax",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "disease",
+    "buzzwords": [
+      "air enters pleural space",
+      "intrapleural pressure rises to zero",
+      "transpulmonary pressure lost",
+      "lung collapses",
+      "hypoxic and short of breath",
+      "treated with chest tube suction",
+      "restores negative pleural pressure",
+      "collapsed lung re-expands"
+    ]
+  },
+  {
+    "id": "respi-31-8",
+    "title": "Surfactant",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "physiology",
+    "buzzwords": [
+      "made by type II alveolar cells",
+      "lowers surface tension",
+      "increases lung compliance",
+      "stabilizes small alveoli",
+      "prevents alveolar collapse",
+      "more concentrated when alveolus shrinks",
+      "reduces work of breathing",
+      "counters LaPlace's law collapse"
+    ]
+  },
+  {
+    "id": "respi-31-9",
+    "title": "Neonatal RDS",
+    "course": "respi",
+    "brick_id": "31",
+    "brick_title": "Physiology: Mechanics and pressures of breathing",
+    "type": "disease",
+    "buzzwords": [
+      "preterm infants affected",
+      "surfactant deficiency",
+      "widespread alveolar collapse",
+      "atelectasis and low compliance",
+      "increased work of breathing",
+      "antenatal steroids stimulate surfactant",
+      "treated with exogenous surfactant",
+      "neonatal respiratory distress syndrome"
+    ]
+  }
+]

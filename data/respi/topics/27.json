@@ -1,0 +1,92 @@
+[
+  {
+    "id": "respi-27-1",
+    "title": "Asthma",
+    "course": "respi",
+    "brick_id": "27",
+    "brick_title": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "obstructive lung disease",
+      "episodic and reversible",
+      "wheezing and chest tightness",
+      "dyspnea and cough",
+      "associated with atopy, eczema",
+      "type I hypersensitivity",
+      "IgE-mediated bronchoconstriction",
+      "smooth muscle hyperplasia"
+    ]
+  },
+  {
+    "id": "respi-27-2",
+    "title": "COPD",
+    "course": "respi",
+    "brick_id": "27",
+    "brick_title": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "chronic obstructive disease",
+      "persistent productive cough",
+      "linked to smoking",
+      "chronic bronchitis plus emphysema",
+      "alveolar destruction",
+      "elastase-driven tissue damage",
+      "chronic hypoxemia, cyanosis",
+      "alpha-1 antitrypsin deficiency"
+    ]
+  },
+  {
+    "id": "respi-27-3",
+    "title": "Restrictive Lung Disease",
+    "course": "respi",
+    "brick_id": "27",
+    "brick_title": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "reduced lung expansion",
+      "decreased lung volumes",
+      "decreased compliance",
+      "low VC and TLC",
+      "intrinsic: pulmonary fibrosis, pneumoconiosis",
+      "extrinsic: chest wall, neuromuscular",
+      "kyphoscoliosis or ALS",
+      "idiopathic pulmonary fibrosis"
+    ]
+  },
+  {
+    "id": "respi-27-4",
+    "title": "Flow-Volume Loops",
+    "course": "respi",
+    "brick_id": "27",
+    "brick_title": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "plots flow against volume",
+      "expiration above, inspiration below",
+      "distinguishes obstructive from restrictive",
+      "obstructive: scooped expiratory limb",
+      "obstructive: increased residual volume",
+      "obstructive: loop shifts left",
+      "restrictive: narrow tall loop",
+      "restrictive: loop shifts right"
+    ]
+  },
+  {
+    "id": "respi-27-5",
+    "title": "PFT Patterns",
+    "course": "respi",
+    "brick_id": "27",
+    "brick_title": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+    "type": "lab",
+    "buzzwords": [
+      "measures airflow and volumes",
+      "FEV1 and FVC",
+      "obstructive: low FEV1/FVC ratio",
+      "ratio below 0.7",
+      "restrictive: normal or high ratio",
+      "restrictive: both FEV1 and FVC low",
+      "diffusing capacity DLCO",
+      "performed by spirometry"
+    ]
+  }
+]

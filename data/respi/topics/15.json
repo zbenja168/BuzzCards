@@ -1,0 +1,146 @@
+[
+  {
+    "id": "respi-15-1",
+    "title": "Nasal Cavity",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "air enters here first",
+      "lined by respiratory mucosa",
+      "ciliated epithelium",
+      "goblet cells make mucus",
+      "cilia trap particles",
+      "lamina propria beneath",
+      "olfactory epithelium at roof",
+      "pseudostratified columnar"
+    ]
+  },
+  {
+    "id": "respi-15-2",
+    "title": "Olfactory Epithelium",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "sits at nasal roof",
+      "provides sense of smell",
+      "size of a thumbnail",
+      "modified pseudostratified columnar",
+      "basal stem cells",
+      "long nonmotile cilia",
+      "bipolar olfactory neurons",
+      "dendrites bear odor receptors"
+    ]
+  },
+  {
+    "id": "respi-15-3",
+    "title": "Pharynx",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "shared air and food path",
+      "three regions",
+      "skeletal muscle in wall",
+      "nasopharynx is pseudostratified columnar",
+      "oropharynx is stratified squamous",
+      "laryngopharynx is stratified squamous",
+      "nonkeratinized squamous below",
+      "epiglottis guards larynx"
+    ]
+  },
+  {
+    "id": "respi-15-4",
+    "title": "Larynx",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "short air passage",
+      "between pharynx and trachea",
+      "mostly respiratory epithelium",
+      "underlying cartilage layer",
+      "cartilage prevents airway collapse",
+      "vocal cords stratified squamous",
+      "high mechanical stress on cords",
+      "overuse forms vocal nodules"
+    ]
+  },
+  {
+    "id": "respi-15-5",
+    "title": "Trachea",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "long flexible airway pipe",
+      "respiratory epithelium with goblet cells",
+      "lamina propria and submucosa",
+      "histology like larynx",
+      "outer adventitia layer",
+      "ends at the carina",
+      "hyaline cartilage rings",
+      "C-shaped cartilage rings"
+    ]
+  },
+  {
+    "id": "respi-15-6",
+    "title": "Bronchi",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "lined by respiratory epithelium",
+      "less cartilage than trachea",
+      "thinner epithelium than trachea",
+      "cartilage plates not rings",
+      "smooth muscle layer appears",
+      "muscle between mucosa and submucosa",
+      "more muscle as airway narrows",
+      "muscle controls airway diameter"
+    ]
+  },
+  {
+    "id": "respi-15-7",
+    "title": "Bronchioles",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "smallest conducting airways",
+      "no cartilage present",
+      "prominent smooth muscle",
+      "epithelium loses cilia distally",
+      "transitions to simple cuboidal",
+      "club cells secrete surfactant",
+      "club cells once called Clara cells",
+      "respiratory bronchioles begin gas exchange"
+    ]
+  },
+  {
+    "id": "respi-15-8",
+    "title": "Alveoli",
+    "course": "respi",
+    "brick_id": "15",
+    "brick_title": "Histology of the Respiratory Tract",
+    "type": "anatomy",
+    "buzzwords": [
+      "ultra-thin gas exchange sacs",
+      "simple squamous epithelium",
+      "make up most of lung",
+      "type 1 pneumocytes thin lining",
+      "type 2 pneumocytes make surfactant",
+      "dust cells are macrophages",
+      "form the blood-air barrier",
+      "grouped into pulmonary acinus"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "respi-39-1",
+    "title": "Respiratory Acidosis",
+    "course": "respi",
+    "brick_id": "39",
+    "brick_title": "Respiratory Acidosis",
+    "type": "disease",
+    "buzzwords": [
+      "low blood pH",
+      "pH < 7.35",
+      "altered mental status",
+      "CO2 alters brain function",
+      "hypoventilation",
+      "elevated PaCO2",
+      "primary lung disorder",
+      "PaCO2 > 40 mmHg"
+    ]
+  },
+  {
+    "id": "respi-39-2",
+    "title": "Causes",
+    "course": "respi",
+    "brick_id": "39",
+    "brick_title": "Respiratory Acidosis",
+    "type": "physiology",
+    "buzzwords": [
+      "decreased ventilation",
+      "impaired gas exchange",
+      "decreased respiratory drive",
+      "opioid overdose",
+      "respiratory muscle weakness",
+      "upper airway obstruction",
+      "COPD exacerbation",
+      "Guillain-Barre"
+    ]
+  },
+  {
+    "id": "respi-39-3",
+    "title": "Renal Compensation",
+    "course": "respi",
+    "brick_id": "39",
+    "brick_title": "Respiratory Acidosis",
+    "type": "physiology",
+    "buzzwords": [
+      "kidneys respond",
+      "excrete H+ in urine",
+      "regenerate bicarbonate",
+      "buffered by phosphate, ammonium",
+      "rising HCO3",
+      "high bicarbonate if chronic",
+      "minimal change if acute",
+      "Henderson-Hasselbalch rebalance"
+    ]
+  },
+  {
+    "id": "respi-39-4",
+    "title": "Management",
+    "course": "respi",
+    "brick_id": "39",
+    "brick_title": "Respiratory Acidosis",
+    "type": "physiology",
+    "buzzwords": [
+      "improve ventilation",
+      "blow off CO2",
+      "increase tidal volume",
+      "naloxone for opioids",
+      "BiPAP",
+      "intubation if fatigued",
+      "pinpoint pupils clue",
+      "treat underlying cause"
+    ]
+  }
+]
