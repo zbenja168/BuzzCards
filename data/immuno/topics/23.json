@@ -12,7 +12,7 @@
       "starts ~3 weeks",
       "liver peaks mid-gestation",
       "spleen minor contributor",
-      "marrow primary by birth",
+      { "img": "data/immuno/images/immuno-23-1/1.webp" },
       "first site is yolk sac",
       "yolk sac to liver to marrow"
     ]
@@ -29,7 +29,7 @@
       "fetal-derived",
       "not renewed by marrow",
       "self-maintaining locally",
-      "Kupffer cells",
+      { "img": "data/immuno/images/immuno-23-2/1.webp" },
       "alveolar macrophages",
       "microglia from yolk sac",
       "B-1 cells make low-affinity IgM"
@@ -49,7 +49,7 @@
       "positive and negative selection",
       "makes regulatory T cells",
       "involutes with age",
-      "third pharyngeal pouch",
+      { "img": "data/immuno/images/immuno-23-3/1.webp" },
       "fills with fat over life"
     ]
   },
@@ -66,7 +66,7 @@
       "crosses placenta",
       "only IgG transferred",
       "protects 3 to 6 months",
-      "wanes as infant synthesizes own",
+      { "img": "data/immuno/images/immuno-23-4/1.webp" },
       "neonatal Fc receptor",
       "FcRn transport"
     ]
@@ -99,7 +99,7 @@
     "buzzwords": [
       "normal flora",
       "part of innate immunity",
-      "first acquired at birth",
+      { "img": "data/immuno/images/immuno-23-6/1.webp" },
       "competes with pathogens",
       "builds oral tolerance",
       "skin flora from primary caregiver",

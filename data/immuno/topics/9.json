@@ -27,7 +27,7 @@
     "buzzwords": [
       "tests TCR self-reactivity",
       "occurs in the thymus",
-      "positive selection in cortex",
+      { "img": "data/immuno/images/immuno-9-2/1.webp" },
       "no MHC binding causes death by neglect",
       "negative selection in medulla",
       "too-strong self-binding triggers apoptosis",
@@ -46,7 +46,7 @@
       "first activation of naive T cell",
       "requires three signals",
       "dendritic cell presents antigen",
-      "immunological synapse",
+      { "img": "data/immuno/images/immuno-9-3/1.webp" },
       "TCR binds peptide-MHC",
       "coreceptor binds MHC",
       "costimulation needed",
@@ -67,7 +67,7 @@
       "tyrosine kinase phosphorylates CD3",
       "adaptor docks downstream",
       "blocked by cyclosporine",
-      "Lck and Zap-70",
+      { "img": "data/immuno/images/immuno-9-4/1.webp" },
       "activates NFAT, NF-kB, AP1"
     ]
   },
@@ -103,7 +103,7 @@
       "Th2 fights helminths",
       "Th17 enhances neutrophils",
       "Tregs inhibit the response",
-      "driven by innate cytokines",
+      { "img": "data/immuno/images/immuno-9-6/1.webp" },
       "Th1 IFN-gamma, Th2 IL-4"
     ]
   }

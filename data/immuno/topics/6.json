@@ -13,7 +13,7 @@
       "binds 8-11 amino acid peptides",
       "recognized by CD8 T cells",
       "single transmembrane chain",
-      "groove from one chain",
+      { "img": "data/immuno/images/immuno-6-1/1.webp" },
       "alpha chain plus beta2-microglobulin"
     ]
   },
@@ -30,7 +30,7 @@
       "binds 15-25 amino acid peptides",
       "recognized by CD4 T cells",
       "two transmembrane chains",
-      "groove from both chains",
+      { "img": "data/immuno/images/immuno-6-2/1.webp" },
       "stabilized by CD4 coreceptor",
       "alpha and beta chains"
     ]
@@ -47,7 +47,7 @@
       "cytosolic protein source",
       "proteasome degrades proteins",
       "ubiquitin tags substrates",
-      "peptides pumped into ER",
+      { "img": "data/immuno/images/immuno-6-3/1.webp" },
       "loaded in ER",
       "TAP transporter",
       "tapasin chaperone"
@@ -67,7 +67,7 @@
       "invariant chain blocks groove",
       "acidic environment degrades chaperone",
       "CLIP fragment remains bound",
-      "CLIP exchanged for peptide",
+      { "img": "data/immuno/images/immuno-6-4/1.webp" },
       "HLA-DM catalyzes exchange"
     ]
   },
@@ -86,7 +86,7 @@
       "performed by dendritic cells",
       "primes cytotoxic T cells",
       "key against viruses not infecting APCs",
-      "links phagosome to class I"
+      { "img": "data/immuno/images/immuno-6-5/1.webp" }
     ]
   }
 ]

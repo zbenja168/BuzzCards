@@ -13,7 +13,7 @@
       "deletes self-reactive cells",
       "happens in thymic medulla",
       "strong self-MHC binding",
-      "high-affinity binders apoptose",
+      { "img": "data/immuno/images/immuno-11-1/1.webp" },
       "negative selection"
     ]
   },
@@ -27,7 +27,7 @@
     "buzzwords": [
       "suppress immune responses",
       "from intermediate-affinity binders",
-      "secrete IL-10 and TGF-beta",
+      { "img": "data/immuno/images/immuno-11-2/1.webp" },
       "express CD25",
       "soak up IL-2",
       "express CTLA-4",
@@ -46,7 +46,7 @@
       "B-cell central tolerance",
       "occurs in bone marrow",
       "salvages self-reactive cells",
-      "new round of VJ recombination",
+      { "img": "data/immuno/images/immuno-11-3/1.webp" },
       "swaps light chain",
       "kappa or lambda locus",
       "rescues autoreactive BCR",
@@ -63,7 +63,7 @@
     "buzzwords": [
       "peripheral tolerance",
       "signal 1 without signal 2",
-      "no costimulation",
+      { "img": "data/immuno/images/immuno-11-4/1.webp" },
       "missing B7-CD28 signal",
       "unresponsive but alive",
       "PD-1 shuts off activation",
@@ -83,7 +83,7 @@
       "death receptor pathway",
       "ligand on activated CTLs",
       "upregulated on self-reactive T cells",
-      "Fas binds FasL",
+      { "img": "data/immuno/images/immuno-11-5/1.webp" },
       "defect causes ALPS",
       "splenomegaly and lymphadenopathy",
       "Fas/FasL"
@@ -99,7 +99,7 @@
     "buzzwords": [
       "prevents response to gut antigens",
       "limits access to food proteins",
-      "Peyer patches sample lumen",
+      { "img": "data/immuno/images/immuno-11-6/1.webp" },
       "secretory IgA neutralizes",
       "tolerogenic dendritic cells",
       "induced Tregs",

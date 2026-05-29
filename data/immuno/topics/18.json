@@ -11,7 +11,7 @@
       "decrease cytokine production",
       "impairs WBC migration",
       "drugs ending -sone, -sol",
-      "inhibit NF-kB",
+      { "img": "data/immuno/images/immuno-18-1/1.webp" },
       "causes demargination leukocytosis",
       "Cushing syndrome long-term",
       "prednisone, dexamethasone"
@@ -100,7 +100,7 @@
       "immunophilin-binding agents",
       "target T-cell activation",
       "lower IL-2 levels",
-      "blocks NFAT dephosphorylation",
+      { "img": "data/immuno/images/immuno-18-6/1.webp" },
       "prevent transplant rejection",
       "nephrotoxic",
       "inhibit calcineurin",
@@ -119,7 +119,7 @@
       "blocks T-cell proliferation",
       "hinders response to IL-2",
       "decreases antibody production",
-      "binds FKBP",
+      { "img": "data/immuno/images/immuno-18-7/1.webp" },
       "used to prevent rejection",
       "inhibits mTOR",
       "also called rapamycin"

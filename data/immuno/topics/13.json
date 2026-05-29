@@ -12,7 +12,7 @@
       "type I hypersensitivity",
       "IgE-mediated",
       "genetic predisposition",
-      "rhinitis, conjunctivitis, dermatitis",
+      { "img": "data/immuno/images/immuno-13-1/1.webp" },
       "family history of atopy",
       "atopy"
     ]
@@ -27,7 +27,7 @@
     "buzzwords": [
       "severe systemic reaction",
       "rapid onset",
-      "multiple organ systems",
+      { "img": "data/immuno/images/immuno-13-2/1.webp" },
       "bronchoconstriction and vasodilation",
       "hypotension and shock",
       "airway swelling, stridor",
@@ -65,7 +65,7 @@
       "most sensitive method",
       "introduces small allergen amount",
       "look for wheal and flare",
-      "prick or puncture test",
+      { "img": "data/immuno/images/immuno-13-4/1.webp" },
       "intradermal for drugs, venom",
       "more sensitive than blood EIA",
       "skin prick test"

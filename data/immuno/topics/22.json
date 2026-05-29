@@ -31,7 +31,7 @@
       "recognizes neoantigen on MHC I",
       "NK cells kill MHC-low cells",
       "IFN-gamma and IL-12 driven",
-      "dominant CD8 CTL response",
+      { "img": "data/immuno/images/immuno-22-2/1.webp" },
       "CTLs plus NK cells"
     ]
   },
@@ -50,7 +50,7 @@
       "induces T cell tolerance",
       "secretes TGF-beta and IL-10",
       "recruits regulatory Tregs",
-      "polarizes M2 macrophages"
+      { "img": "data/immuno/images/immuno-22-3/1.webp" }
     ]
   },
   {
@@ -62,7 +62,7 @@
     "type": "physiology",
     "buzzwords": [
       "transplanted tissue source",
-      "matched by HLA and ABO",
+      { "img": "data/immuno/images/immuno-22-4/1.webp" },
       "autograft from self",
       "isograft from twin",
       "allograft same species",
@@ -84,7 +84,7 @@
       "preformed recipient antibodies",
       "type II hypersensitivity",
       "complement activation",
-      "endothelial damage",
+      { "img": "data/immuno/images/immuno-22-5/1.webp" },
       "vascular thrombosis",
       "graft must be removed"
     ]
@@ -102,7 +102,7 @@
       "CTLs attack graft",
       "direct alloantigen presentation",
       "indirect alloantigen presentation",
-      "endothelialitis and vasculitis",
+      { "img": "data/immuno/images/immuno-22-6/1.webp" },
       "responds to immunosuppression",
       "interstitial lymphocyte infiltrate"
     ]
@@ -117,7 +117,7 @@
     "buzzwords": [
       "months to years",
       "recipient T cell mediated",
-      "smooth muscle proliferation",
+      { "img": "data/immuno/images/immuno-22-7/1.webp" },
       "vessel occlusion",
       "irreversible graft fibrosis",
       "lung shows thickened airways",

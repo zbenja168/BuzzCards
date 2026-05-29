@@ -10,7 +10,9 @@
       "generative organs",
       "all immune cells made here",
       "site of lymphocyte maturation",
-      "myeloid and lymphoid lineages",
+      {
+        "img": "data/immuno/images/immuno-1-1/1.webp"
+      },
       "hematopoietic stem cells",
       "self-reactive cells deleted here",
       "bone marrow",
@@ -48,7 +50,9 @@
       "no immunologic memory",
       "responds within hours",
       "encoded in germline DNA",
-      "phagocytes and granulocytes",
+      {
+        "img": "data/immuno/images/immuno-1-3/1.webp"
+      },
       "recognizes PAMPs and DAMPs",
       "pattern recognition receptors"
     ]
@@ -68,7 +72,9 @@
       "clonal expansion of one clone",
       "tolerance to self",
       "made by gene rearrangement",
-      "B and T lymphocytes"
+      {
+        "img": "data/immuno/images/immuno-1-4/1.webp"
+      }
     ]
   },
   {
@@ -85,7 +91,9 @@
       "produces antibodies",
       "opsonizes for phagocytosis",
       "neutralizes toxins",
-      "plasma cells secrete antibody",
+      {
+        "img": "data/immuno/images/immuno-1-5/1.webp"
+      },
       "antibodies"
     ]
   },
@@ -101,7 +109,9 @@
       "T cell mediated",
       "no antibodies involved",
       "recognizes antigen on MHC",
-      "cytotoxic T cells kill infected cells",
+      {
+        "img": "data/immuno/images/immuno-1-6/1.webp"
+      },
       "regulatory T cells downregulate",
       "helper T cells coordinate",
       "induces apoptosis of target"
@@ -139,7 +149,9 @@
       "in endosomes for viruses",
       "deficiency causes herpesvirus infection",
       "TLR4 detects LPS",
-      "signal to NF-kB",
+      {
+        "img": "data/immuno/images/immuno-2-2/1.webp"
+      },
       "TLRs"
     ]
   },
@@ -190,7 +202,9 @@
       "block a pro-inflammatory cytokine",
       "treat inflammatory disease",
       "monoclonal antibodies",
-      "bind soluble TNF-alpha",
+      {
+        "img": "data/immuno/images/immuno-2-5/1.webp"
+      },
       "etanercept is decoy receptor",
       "risk of immunosuppression",
       "adalimumab",
@@ -282,7 +296,9 @@
       "abnormal temperature, heart rate",
       "SIRS plus infection is sepsis",
       "persistent hypotension is septic shock",
-      "progresses to organ damage",
+      {
+        "img": "data/immuno/images/immuno-2-10/1.webp"
+      },
       "MODS mortality over 50%",
       "SIRS"
     ]
@@ -302,7 +318,9 @@
       "first responders",
       "peak 2-6 hours",
       "short-lived 1-4 days",
-      "multilobed nucleus"
+      {
+        "img": "data/immuno/images/immuno-3-1/1.webp"
+      }
     ]
   },
   {
@@ -317,7 +335,9 @@
       "oxygen-dependent killing",
       "makes superoxide",
       "hydrogen peroxide",
-      "NADPH oxidase",
+      {
+        "img": "data/immuno/images/immuno-3-2/1.webp"
+      },
       "myeloperoxidase",
       "hypochlorite product",
       "oxidative burst"
@@ -369,7 +389,9 @@
     "buzzwords": [
       "neutrophil-only mechanism",
       "last-ditch killing",
-      "expelled DNA web",
+      {
+        "img": "data/immuno/images/immuno-3-5/1.webp"
+      },
       "traps pathogens",
       "granule contents bound",
       "neutrophil dies",
@@ -387,7 +409,9 @@
     "buzzwords": [
       "blood phagocyte",
       "2-8% of leukocytes",
-      "largest leukocyte",
+      {
+        "img": "data/immuno/images/immuno-3-6/1.webp"
+      },
       "horseshoe nucleus",
       "circulates then enters tissue",
       "replenishes macrophages",
@@ -403,12 +427,16 @@
     "brick_title": "Phagocyte Function",
     "type": "physiology",
     "buzzwords": [
-      "tissue-resident phagocyte",
+      {
+        "img": "data/immuno/images/immuno-3-7/1.webp"
+      },
       "sentinel cell",
       "long-lived",
       "antigen-presenting cell",
       "tissue repair role",
-      "M1 versus M2 polarization",
+      {
+        "img": "data/immuno/images/immuno-3-7/2.webp"
+      },
       "M1 inflammatory killer",
       "Kupffer and microglia"
     ]
@@ -424,11 +452,15 @@
       "professional APC",
       "weak phagocyte",
       "samples antigens",
-      "migrates to lymph node",
+      {
+        "img": "data/immuno/images/immuno-3-8/2.webp"
+      },
       "activates naive T cells",
       "links innate and adaptive",
       "upregulates CCR7",
-      "cytoplasmic projections"
+      {
+        "img": "data/immuno/images/immuno-3-8/1.webp"
+      }
     ]
   },
   {
@@ -445,7 +477,9 @@
       "IgM is most potent activator",
       "needs two IgG molecules",
       "activated by CRP",
-      "C4b2b convertase",
+      {
+        "img": "data/immuno/images/immuno-4-1/1.webp"
+      },
       "starts with C1qrs"
     ]
   },
@@ -463,7 +497,9 @@
       "stabilized by properdin",
       "makes most C3b",
       "produces 80-90% of MAC",
-      "C3bBb convertase",
+      {
+        "img": "data/immuno/images/immuno-4-2/1.webp"
+      },
       "properdin loss: Neisseria infections"
     ]
   },
@@ -479,7 +515,9 @@
       "recognizes surface sugars",
       "binds mannose residues",
       "cleaves C4 and C2",
-      "uses MASP proteases",
+      {
+        "img": "data/immuno/images/immuno-4-3/1.webp"
+      },
       "C4b2b convertase",
       "mannose-binding lectin",
       "MBL initiates it"
@@ -530,7 +568,9 @@
     "type": "disease",
     "buzzwords": [
       "recurrent painless swelling",
-      "face, hands, feet",
+      {
+        "img": "data/immuno/images/immuno-4-6/1.webp"
+      },
       "GI attacks with pain",
       "laryngeal edema risk",
       "no urticaria",
@@ -587,10 +627,14 @@
       "neutrophils can't exit vessels",
       "infections lack pus",
       "marked leukocytosis",
-      "delayed umbilical cord separation",
+      {
+        "img": "data/immuno/images/immuno-5-1/1.webp"
+      },
       "recurrent skin infections",
       "poor wound healing",
-      "defective CD18 integrin"
+      {
+        "img": "data/immuno/images/immuno-5-1/2.webp"
+      }
     ]
   },
   {
@@ -606,8 +650,12 @@
       "bleeding tendency",
       "progressive neuropathy",
       "partial albinism",
-      "silvery hair",
-      "giant granules in neutrophils",
+      {
+        "img": "data/immuno/images/immuno-5-2/1.webp"
+      },
+      {
+        "img": "data/immuno/images/immuno-5-2/2.webp"
+      },
       "LYST mutation"
     ]
   },
@@ -623,9 +671,13 @@
       "defective oxidative burst",
       "no reactive oxygen species",
       "catalase-positive infections",
-      "granuloma formation",
+      {
+        "img": "data/immuno/images/immuno-5-3/1.webp"
+      },
       "recurrent abscesses",
-      "negative dihydrorhodamine test",
+      {
+        "img": "data/immuno/images/immuno-5-3/2.webp"
+      },
       "defective NADPH oxidase"
     ]
   },
@@ -643,7 +695,9 @@
       "binds 8-11 amino acid peptides",
       "recognized by CD8 T cells",
       "single transmembrane chain",
-      "groove from one chain",
+      {
+        "img": "data/immuno/images/immuno-6-1/1.webp"
+      },
       "alpha chain plus beta2-microglobulin"
     ]
   },
@@ -660,7 +714,9 @@
       "binds 15-25 amino acid peptides",
       "recognized by CD4 T cells",
       "two transmembrane chains",
-      "groove from both chains",
+      {
+        "img": "data/immuno/images/immuno-6-2/1.webp"
+      },
       "stabilized by CD4 coreceptor",
       "alpha and beta chains"
     ]
@@ -677,7 +733,9 @@
       "cytosolic protein source",
       "proteasome degrades proteins",
       "ubiquitin tags substrates",
-      "peptides pumped into ER",
+      {
+        "img": "data/immuno/images/immuno-6-3/1.webp"
+      },
       "loaded in ER",
       "TAP transporter",
       "tapasin chaperone"
@@ -697,7 +755,9 @@
       "invariant chain blocks groove",
       "acidic environment degrades chaperone",
       "CLIP fragment remains bound",
-      "CLIP exchanged for peptide",
+      {
+        "img": "data/immuno/images/immuno-6-4/1.webp"
+      },
       "HLA-DM catalyzes exchange"
     ]
   },
@@ -716,7 +776,9 @@
       "performed by dendritic cells",
       "primes cytotoxic T cells",
       "key against viruses not infecting APCs",
-      "links phagosome to class I"
+      {
+        "img": "data/immuno/images/immuno-6-5/1.webp"
+      }
     ]
   },
   {
@@ -727,7 +789,9 @@
     "brick_title": "Antigen Receptor Generation and Structure",
     "type": "physiology",
     "buzzwords": [
-      "Y-shaped glycoprotein",
+      {
+        "img": "data/immuno/images/immuno-7-1/1.webp"
+      },
       "two heavy, two light chains",
       "disulfide-linked chains",
       "flexible hinge region",
@@ -747,7 +811,9 @@
     "buzzwords": [
       "cut-and-join gene segments",
       "occurs before antigen exposure",
-      "V, D, and J segments",
+      {
+        "img": "data/immuno/images/immuno-7-2/1.webp"
+      },
       "light chain uses only V and J",
       "heavy chain uses V, D, J",
       "controlled double-strand breaks",
@@ -764,7 +830,9 @@
     "type": "physiology",
     "buzzwords": [
       "diversity at segment joints",
-      "random nucleotide additions",
+      {
+        "img": "data/immuno/images/immuno-7-3/1.webp"
+      },
       "alters CDR3 region",
       "not germline-encoded",
       "can cause frameshift",
@@ -786,7 +854,9 @@
       "point mutations in variable domains",
       "concentrated in CDRs",
       "mutates faster than other DNA",
-      "drives affinity maturation",
+      {
+        "img": "data/immuno/images/immuno-7-4/1.webp"
+      },
       "highest-affinity clones survive",
       "found in hypervariable regions"
     ]
@@ -801,7 +871,9 @@
     "buzzwords": [
       "membrane-anchored glycoprotein",
       "never secreted",
-      "alpha and beta chains",
+      {
+        "img": "data/immuno/images/immuno-7-5/1.webp"
+      },
       "single disulfide bond",
       "variable and constant domains",
       "no somatic hypermutation",
@@ -824,7 +896,9 @@
       "activates classical complement",
       "ten antigen binding sites",
       "joined by J chain",
-      "circulates as pentamer"
+      {
+        "img": "data/immuno/images/immuno-7-6/1.webp"
+      }
     ]
   },
   {
@@ -837,7 +911,9 @@
     "buzzwords": [
       "most abundant in blood",
       "monomer",
-      "opsonizes pathogens",
+      {
+        "img": "data/immuno/images/immuno-7-7/1.webp"
+      },
       "activates classical complement",
       "neutralizes toxins",
       "mediates NK-driven ADCC",
@@ -856,7 +932,9 @@
       "main mucosal antibody",
       "found in saliva and breast milk",
       "monomer in blood",
-      "dimer at mucosa",
+      {
+        "img": "data/immuno/images/immuno-7-8/1.webp"
+      },
       "joined by J chain",
       "prevents bacterial adherence",
       "secreted via transcytosis",
@@ -912,7 +990,9 @@
       "pro-B has no BCR",
       "pre-B rearranges heavy chain",
       "pre-B expresses surrogate light chain",
-      "immature B expresses full BCR",
+      {
+        "img": "data/immuno/images/immuno-8-1/1.webp"
+      },
       "mature naive cell exits marrow",
       "naive cell carries IgM and IgD"
     ]
@@ -927,7 +1007,9 @@
     "buzzwords": [
       "tests immature B cell receptors",
       "weak self-binding passes positive selection",
-      "strong self-binding triggers apoptosis",
+      {
+        "img": "data/immuno/images/immuno-8-2/1.webp"
+      },
       "removes autoreactive clones",
       "negative selection prevents autoantibodies",
       "second chance via receptor editing",
@@ -948,7 +1030,9 @@
       "lymph node filters lymph antigens",
       "spleen filters blood-borne antigens",
       "B cells enter through HEVs",
-      "white pulp surrounds central artery",
+      {
+        "img": "data/immuno/images/immuno-8-3/1.webp"
+      },
       "marrow zone called PALS",
       "follicles hold germinal centers"
     ]
@@ -967,7 +1051,9 @@
       "C3d via CR2 costimulates",
       "B cell presents peptide on MHC II",
       "TCR reads peptide-MHC II complex",
-      "immunological synapse",
+      {
+        "img": "data/immuno/images/immuno-8-4/1.webp"
+      },
       "CD40L-CD40 interaction"
     ]
   },
@@ -983,7 +1069,9 @@
       "non-protein antigens",
       "repetitive epitopes",
       "extensive BCR crosslinking",
-      "polysaccharide capsule antigens",
+      {
+        "img": "data/immuno/images/immuno-8-5/1.webp"
+      },
       "low-affinity antibody",
       "predominantly IgM, no class switch",
       "conjugate vaccines recruit T cell help"
@@ -998,7 +1086,9 @@
     "type": "physiology",
     "buzzwords": [
       "forms within follicles",
-      "dark zone holds dividing B cells",
+      {
+        "img": "data/immuno/images/immuno-8-6/1.webp"
+      },
       "light zone selects high affinity",
       "follicular dendritic cells display antigen",
       "Tfh cells provide help here",
@@ -1035,7 +1125,9 @@
     "buzzwords": [
       "tests TCR self-reactivity",
       "occurs in the thymus",
-      "positive selection in cortex",
+      {
+        "img": "data/immuno/images/immuno-9-2/1.webp"
+      },
       "no MHC binding causes death by neglect",
       "negative selection in medulla",
       "too-strong self-binding triggers apoptosis",
@@ -1054,7 +1146,9 @@
       "first activation of naive T cell",
       "requires three signals",
       "dendritic cell presents antigen",
-      "immunological synapse",
+      {
+        "img": "data/immuno/images/immuno-9-3/1.webp"
+      },
       "TCR binds peptide-MHC",
       "coreceptor binds MHC",
       "costimulation needed",
@@ -1075,7 +1169,9 @@
       "tyrosine kinase phosphorylates CD3",
       "adaptor docks downstream",
       "blocked by cyclosporine",
-      "Lck and Zap-70",
+      {
+        "img": "data/immuno/images/immuno-9-4/1.webp"
+      },
       "activates NFAT, NF-kB, AP1"
     ]
   },
@@ -1111,7 +1207,9 @@
       "Th2 fights helminths",
       "Th17 enhances neutrophils",
       "Tregs inhibit the response",
-      "driven by innate cytokines",
+      {
+        "img": "data/immuno/images/immuno-9-6/1.webp"
+      },
       "Th1 IFN-gamma, Th2 IL-4"
     ]
   },
@@ -1128,9 +1226,13 @@
       "recognizes MHC class I",
       "triggers target apoptosis",
       "no inflammation, no DAMPs",
-      "delivers perforin and granzymes",
+      {
+        "img": "data/immuno/images/immuno-10-1/1.webp"
+      },
       "activates caspases",
-      "also uses FasL-Fas"
+      {
+        "img": "data/immuno/images/immuno-10-1/2.webp"
+      }
     ]
   },
   {
@@ -1143,7 +1245,9 @@
     "buzzwords": [
       "CD4-positive effector",
       "fights intracellular pathogens",
-      "activates macrophages",
+      {
+        "img": "data/immuno/images/immuno-10-2/1.webp"
+      },
       "boosts phagocytic killing",
       "induced by IFN-gamma and IL-12",
       "upregulates MHC and B7",
@@ -1162,7 +1266,9 @@
       "CD4-positive effector",
       "fights parasites and helminths",
       "drives IgE class switching",
-      "activates eosinophils and mast cells",
+      {
+        "img": "data/immuno/images/immuno-10-3/1.webp"
+      },
       "promotes M2 macrophages",
       "IL-4, IL-5, IL-13",
       "IL-13 boosts mucus and peristalsis",
@@ -1200,7 +1306,9 @@
       "active when MHC class I is lost",
       "releases perforin and granzymes",
       "recognizes IgG on target",
-      "Fc receptor cross-linking triggers it",
+      {
+        "img": "data/immuno/images/immuno-10-5/1.webp"
+      },
       "CD16 binds the antibody",
       "target dies by apoptosis"
     ]
@@ -1219,7 +1327,9 @@
       "deletes self-reactive cells",
       "happens in thymic medulla",
       "strong self-MHC binding",
-      "high-affinity binders apoptose",
+      {
+        "img": "data/immuno/images/immuno-11-1/1.webp"
+      },
       "negative selection"
     ]
   },
@@ -1233,7 +1343,9 @@
     "buzzwords": [
       "suppress immune responses",
       "from intermediate-affinity binders",
-      "secrete IL-10 and TGF-beta",
+      {
+        "img": "data/immuno/images/immuno-11-2/1.webp"
+      },
       "express CD25",
       "soak up IL-2",
       "express CTLA-4",
@@ -1252,7 +1364,9 @@
       "B-cell central tolerance",
       "occurs in bone marrow",
       "salvages self-reactive cells",
-      "new round of VJ recombination",
+      {
+        "img": "data/immuno/images/immuno-11-3/1.webp"
+      },
       "swaps light chain",
       "kappa or lambda locus",
       "rescues autoreactive BCR",
@@ -1269,7 +1383,9 @@
     "buzzwords": [
       "peripheral tolerance",
       "signal 1 without signal 2",
-      "no costimulation",
+      {
+        "img": "data/immuno/images/immuno-11-4/1.webp"
+      },
       "missing B7-CD28 signal",
       "unresponsive but alive",
       "PD-1 shuts off activation",
@@ -1289,7 +1405,9 @@
       "death receptor pathway",
       "ligand on activated CTLs",
       "upregulated on self-reactive T cells",
-      "Fas binds FasL",
+      {
+        "img": "data/immuno/images/immuno-11-5/1.webp"
+      },
       "defect causes ALPS",
       "splenomegaly and lymphadenopathy",
       "Fas/FasL"
@@ -1305,7 +1423,9 @@
     "buzzwords": [
       "prevents response to gut antigens",
       "limits access to food proteins",
-      "Peyer patches sample lumen",
+      {
+        "img": "data/immuno/images/immuno-11-6/1.webp"
+      },
       "secretory IgA neutralizes",
       "tolerogenic dendritic cells",
       "induced Tregs",
@@ -1343,8 +1463,12 @@
       "allergens trigger it",
       "asthma and allergic rhinitis",
       "can cause anaphylaxis",
-      "mast cells and eosinophils",
-      "histamine release",
+      {
+        "img": "data/immuno/images/immuno-12-1/2.webp"
+      },
+      {
+        "img": "data/immuno/images/immuno-12-1/1.webp"
+      },
       "FcεRI cross-linking degranulation",
       "IgE mediated"
     ]
@@ -1363,7 +1487,9 @@
       "complement activation, MAC",
       "ADCC by NK cells",
       "autoimmune hemolytic anemia",
-      "Graves and myasthenia gravis",
+      {
+        "img": "data/immuno/images/immuno-12-2/1.webp"
+      },
       "IgG or IgM mediated"
     ]
   },
@@ -1376,7 +1502,9 @@
     "type": "physiology",
     "buzzwords": [
       "antibody binds soluble antigen",
-      "deposits in small vessels",
+      {
+        "img": "data/immuno/images/immuno-12-3/1.webp"
+      },
       "nephritis, arthritis, vasculitis",
       "complement and neutrophils",
       "SLE and serum sickness",
@@ -1395,7 +1523,9 @@
     "buzzwords": [
       "delayed, 24-72 hours",
       "no antibody involved",
-      "contact dermatitis, poison ivy",
+      {
+        "img": "data/immuno/images/immuno-12-4/1.webp"
+      },
       "CD4 and CD8 T cells",
       "macrophage activation",
       "CTL perforin and granzymes",
@@ -1416,7 +1546,9 @@
       "type I hypersensitivity",
       "IgE-mediated",
       "genetic predisposition",
-      "rhinitis, conjunctivitis, dermatitis",
+      {
+        "img": "data/immuno/images/immuno-13-1/1.webp"
+      },
       "family history of atopy",
       "atopy"
     ]
@@ -1431,7 +1563,9 @@
     "buzzwords": [
       "severe systemic reaction",
       "rapid onset",
-      "multiple organ systems",
+      {
+        "img": "data/immuno/images/immuno-13-2/1.webp"
+      },
       "bronchoconstriction and vasodilation",
       "hypotension and shock",
       "airway swelling, stridor",
@@ -1469,7 +1603,9 @@
       "most sensitive method",
       "introduces small allergen amount",
       "look for wheal and flare",
-      "prick or puncture test",
+      {
+        "img": "data/immuno/images/immuno-13-4/1.webp"
+      },
       "intradermal for drugs, venom",
       "more sensitive than blood EIA",
       "skin prick test"
@@ -1558,7 +1694,9 @@
       "X-linked recessive",
       "recurrent encapsulated infections",
       "onset around 6 months",
-      "B-cell maturation arrest",
+      {
+        "img": "data/immuno/images/immuno-14-1/1.webp"
+      },
       "absent B cells",
       "low all immunoglobulins",
       "BTK gene defect",
@@ -1574,11 +1712,15 @@
     "type": "disease",
     "buzzwords": [
       "thymic hypoplasia",
-      "absent or low T cells",
+      {
+        "img": "data/immuno/images/immuno-14-2/1.webp"
+      },
       "neural crest defect",
       "3rd/4th pharyngeal pouch",
       "hypocalcemia and seizures",
-      "conotruncal heart defects",
+      {
+        "img": "data/immuno/images/immuno-14-2/2.webp"
+      },
       "absent thymic shadow",
       "22q11 microdeletion"
     ]
@@ -1649,7 +1791,9 @@
       "often asymptomatic",
       "recurrent sinopulmonary infections",
       "recurrent GI infections",
-      "impaired class switching",
+      {
+        "img": "data/immuno/images/immuno-15-1/1.webp"
+      },
       "anaphylaxis to blood products",
       "isolated low IgA",
       "normal IgG and IgM"
@@ -1683,7 +1827,9 @@
     "buzzwords": [
       "X-linked recessive",
       "presents in infancy",
-      "failed class switching",
+      {
+        "img": "data/immuno/images/immuno-15-3/1.webp"
+      },
       "Pneumocystis pneumonia",
       "Cryptosporidium diarrhea",
       "high IgM",
@@ -1701,7 +1847,9 @@
     "buzzwords": [
       "autosomal dominant",
       "eczema",
-      "cold abscesses",
+      {
+        "img": "data/immuno/images/immuno-15-4/1.webp"
+      },
       "retained baby teeth",
       "coarse facial features",
       "markedly elevated IgE",
@@ -1723,7 +1871,9 @@
       "thrombocytopenia",
       "small platelets",
       "low IgM, high IgA/IgE",
-      "defective actin polymerization",
+      {
+        "img": "data/immuno/images/immuno-15-5/1.webp"
+      },
       "WASP mutation"
     ]
   },
@@ -1736,7 +1886,9 @@
     "type": "disease",
     "buzzwords": [
       "impaired Th1 pathway",
-      "loss of macrophage activation",
+      {
+        "img": "data/immuno/images/immuno-15-6/1.webp"
+      },
       "disseminated mycobacterial infection",
       "disseminated BCG after vaccine",
       "salmonellosis",
@@ -1757,7 +1909,9 @@
       "infections of unusual severity",
       "atypical organisms",
       "opportunistic infections",
-      "four or more ear infections yearly",
+      {
+        "img": "data/immuno/images/immuno-16-1/1.webp"
+      },
       "two or more pneumonias yearly",
       "failure to thrive",
       "IV antibiotics needed to clear"
@@ -1810,7 +1964,9 @@
       "infectious cause of immunodeficiency",
       "targets CD4 T cells",
       "lymphopenia",
-      "opportunistic infections by CD4 count",
+      {
+        "img": "data/immuno/images/immuno-16-4/1.webp"
+      },
       "Pneumocystis at low CD4",
       "tuberculosis reactivation",
       "Acquired Immunodeficiency Syndrome",
@@ -1825,12 +1981,16 @@
     "brick_title": "Diagnosis and Treatment of Immunodeficiency Disorders",
     "type": "lab",
     "buzzwords": [
-      "categorized by age at presentation",
+      {
+        "img": "data/immuno/images/immuno-16-5/1.webp"
+      },
       "complete blood count",
       "lymphocyte subset analysis",
       "quantitative immunoglobulin levels",
       "post-vaccination antibody titers",
-      "B and T cell subsets",
+      {
+        "img": "data/immuno/images/immuno-16-5/2.webp"
+      },
       "CD4 to CD8 ratio",
       "early diagnosis lowers mortality"
     ]
@@ -1865,7 +2025,9 @@
       "low sensitivity",
       "detects antigen presence",
       "qualitative result",
-      "visible clumping",
+      {
+        "img": "data/immuno/images/immuno-17-1/1.webp"
+      },
       "immune complexes precipitate",
       "RBC cross-linking",
       "blood typing kit"
@@ -1883,7 +2045,9 @@
       "locates target molecule",
       "fluorophore-labeled antibody",
       "tissue section or smear",
-      "staining patterns",
+      {
+        "img": "data/immuno/images/immuno-17-2/1.webp"
+      },
       "titer plus pattern",
       "homogeneous or speckled",
       "ANA testing"
@@ -1899,10 +2063,14 @@
     "buzzwords": [
       "high sensitivity",
       "quantifies soluble antigen",
-      "microplate well",
+      {
+        "img": "data/immuno/images/immuno-17-3/1.webp"
+      },
       "enzyme-conjugated antibody",
       "color intensity signal",
-      "direct, indirect, sandwich, competitive",
+      {
+        "img": "data/immuno/images/immuno-17-3/2.webp"
+      },
       "sandwich type most sensitive",
       "HIV screening"
     ]
@@ -1934,11 +2102,15 @@
     "type": "lab",
     "buzzwords": [
       "cell-based test",
-      "single-file laser stream",
+      {
+        "img": "data/immuno/images/immuno-17-5/2.webp"
+      },
       "counts cell populations",
       "fluorophore-conjugated antibodies",
       "CD marker detection",
-      "forward and side scatter",
+      {
+        "img": "data/immuno/images/immuno-17-5/1.webp"
+      },
       "FOXP3 intracellular stain",
       "SCID lacks CD3 cells"
     ]
@@ -1973,7 +2145,9 @@
       "PCR amplification",
       "newborn blood spot",
       "measures T-cell output",
-      "circular DNA fragments",
+      {
+        "img": "data/immuno/images/immuno-17-7/1.webp"
+      },
       "from V(D)J recombination",
       "low count signals SCID",
       "neonatal TREC screen"
@@ -1991,7 +2165,9 @@
       "decrease cytokine production",
       "impairs WBC migration",
       "drugs ending -sone, -sol",
-      "inhibit NF-kB",
+      {
+        "img": "data/immuno/images/immuno-18-1/1.webp"
+      },
       "causes demargination leukocytosis",
       "Cushing syndrome long-term",
       "prednisone, dexamethasone"
@@ -2080,7 +2256,9 @@
       "immunophilin-binding agents",
       "target T-cell activation",
       "lower IL-2 levels",
-      "blocks NFAT dephosphorylation",
+      {
+        "img": "data/immuno/images/immuno-18-6/1.webp"
+      },
       "prevent transplant rejection",
       "nephrotoxic",
       "inhibit calcineurin",
@@ -2099,7 +2277,9 @@
       "blocks T-cell proliferation",
       "hinders response to IL-2",
       "decreases antibody production",
-      "binds FKBP",
+      {
+        "img": "data/immuno/images/immuno-18-7/1.webp"
+      },
       "used to prevent rejection",
       "inhibits mTOR",
       "also called rapamycin"
@@ -2242,7 +2422,9 @@
       "rapid protection",
       "no memory generated",
       "short-lived immunity",
-      "transfers preformed antibodies",
+      {
+        "img": "data/immuno/images/immuno-20-1/1.webp"
+      },
       "maternal IgG crosses placenta",
       "IgA in breast milk",
       "monoclonal or polyclonal antibodies",
@@ -2260,10 +2442,14 @@
       "long-term protection",
       "takes 2-4 weeks",
       "generates immunologic memory",
-      "stimulates own immune system",
+      {
+        "img": "data/immuno/images/immuno-20-2/1.webp"
+      },
       "makes memory B and T cells",
       "boosters drive class switching",
-      "boosters drive affinity maturation",
+      {
+        "img": "data/immuno/images/immuno-20-2/2.webp"
+      },
       "vaccination"
     ]
   },
@@ -2329,7 +2515,9 @@
     "brick_title": "Vaccines",
     "type": "physiology",
     "buzzwords": [
-      "host cells make antigen",
+      {
+        "img": "data/immuno/images/immuno-20-6/1.webp"
+      },
       "lipid nanoparticle delivery",
       "nanoparticle acts as adjuvant",
       "presented on MHC I and II",
@@ -2351,7 +2539,9 @@
       "mainly humoral immunity",
       "needs adjuvants and boosters",
       "safe if immunocompromised",
-      "recombinant surface protein",
+      {
+        "img": "data/immuno/images/immuno-20-7/1.webp"
+      },
       "capsule polysaccharide",
       "HPV, hepatitis B, shingles",
       "pertussis, tetanus, diphtheria"
@@ -2369,7 +2559,9 @@
       "converts T-independent to T-dependent",
       "high-affinity memory response",
       "needed in young children",
-      "B cells present peptide on MHC II",
+      {
+        "img": "data/immuno/images/immuno-20-8/1.webp"
+      },
       "engages T follicular helper cells",
       "S. pneumoniae, H. influenzae B",
       "Neisseria meningitidis"
@@ -2385,7 +2577,9 @@
     "buzzwords": [
       "pathogen gene in harmless virus",
       "host virus replicates in patient",
-      "antigen presented in MHC",
+      {
+        "img": "data/immuno/images/immuno-20-9/1.webp"
+      },
       "strong cell-mediated and humoral",
       "studied for Zika and HIV",
       "first used for Ebola 2019",
@@ -2439,7 +2633,9 @@
     "buzzwords": [
       "lack of response to antigen",
       "destroys autoreactive lymphocytes",
-      "central in thymus/marrow",
+      {
+        "img": "data/immuno/images/immuno-21-3/1.webp"
+      },
       "negative selection",
       "Treg generation",
       "peripheral anergy",
@@ -2456,7 +2652,9 @@
     "type": "lab",
     "buzzwords": [
       "MHC genetic risk",
-      "peptide-binding groove",
+      {
+        "img": "data/immuno/images/immuno-21-4/1.webp"
+      },
       "B27 ankylosing spondylitis",
       "B27 reactive arthritis",
       "DQ2/DQ8 celiac disease",
@@ -2474,7 +2672,9 @@
     "type": "physiology",
     "buzzwords": [
       "infection triggers autoimmunity",
-      "shared structural homology",
+      {
+        "img": "data/immuno/images/immuno-21-5/1.webp"
+      },
       "cross-reactive antibodies",
       "bind next-best self-antigen",
       "anti-M protein cross-reaction",
@@ -2492,7 +2692,9 @@
     "type": "physiology",
     "buzzwords": [
       "amplification of autoimmunity",
-      "expands to new antigens",
+      {
+        "img": "data/immuno/images/immuno-21-6/1.webp"
+      },
       "spreads beyond initial target",
       "tissue damage releases antigens",
       "somatic hypermutation",
@@ -2533,7 +2735,9 @@
       "recognizes neoantigen on MHC I",
       "NK cells kill MHC-low cells",
       "IFN-gamma and IL-12 driven",
-      "dominant CD8 CTL response",
+      {
+        "img": "data/immuno/images/immuno-22-2/1.webp"
+      },
       "CTLs plus NK cells"
     ]
   },
@@ -2552,7 +2756,9 @@
       "induces T cell tolerance",
       "secretes TGF-beta and IL-10",
       "recruits regulatory Tregs",
-      "polarizes M2 macrophages"
+      {
+        "img": "data/immuno/images/immuno-22-3/1.webp"
+      }
     ]
   },
   {
@@ -2564,7 +2770,9 @@
     "type": "physiology",
     "buzzwords": [
       "transplanted tissue source",
-      "matched by HLA and ABO",
+      {
+        "img": "data/immuno/images/immuno-22-4/1.webp"
+      },
       "autograft from self",
       "isograft from twin",
       "allograft same species",
@@ -2586,7 +2794,9 @@
       "preformed recipient antibodies",
       "type II hypersensitivity",
       "complement activation",
-      "endothelial damage",
+      {
+        "img": "data/immuno/images/immuno-22-5/1.webp"
+      },
       "vascular thrombosis",
       "graft must be removed"
     ]
@@ -2604,7 +2814,9 @@
       "CTLs attack graft",
       "direct alloantigen presentation",
       "indirect alloantigen presentation",
-      "endothelialitis and vasculitis",
+      {
+        "img": "data/immuno/images/immuno-22-6/1.webp"
+      },
       "responds to immunosuppression",
       "interstitial lymphocyte infiltrate"
     ]
@@ -2619,7 +2831,9 @@
     "buzzwords": [
       "months to years",
       "recipient T cell mediated",
-      "smooth muscle proliferation",
+      {
+        "img": "data/immuno/images/immuno-22-7/1.webp"
+      },
       "vessel occlusion",
       "irreversible graft fibrosis",
       "lung shows thickened airways",
@@ -2658,7 +2872,9 @@
       "starts ~3 weeks",
       "liver peaks mid-gestation",
       "spleen minor contributor",
-      "marrow primary by birth",
+      {
+        "img": "data/immuno/images/immuno-23-1/1.webp"
+      },
       "first site is yolk sac",
       "yolk sac to liver to marrow"
     ]
@@ -2675,7 +2891,9 @@
       "fetal-derived",
       "not renewed by marrow",
       "self-maintaining locally",
-      "Kupffer cells",
+      {
+        "img": "data/immuno/images/immuno-23-2/1.webp"
+      },
       "alveolar macrophages",
       "microglia from yolk sac",
       "B-1 cells make low-affinity IgM"
@@ -2695,7 +2913,9 @@
       "positive and negative selection",
       "makes regulatory T cells",
       "involutes with age",
-      "third pharyngeal pouch",
+      {
+        "img": "data/immuno/images/immuno-23-3/1.webp"
+      },
       "fills with fat over life"
     ]
   },
@@ -2712,7 +2932,9 @@
       "crosses placenta",
       "only IgG transferred",
       "protects 3 to 6 months",
-      "wanes as infant synthesizes own",
+      {
+        "img": "data/immuno/images/immuno-23-4/1.webp"
+      },
       "neonatal Fc receptor",
       "FcRn transport"
     ]
@@ -2745,7 +2967,9 @@
     "buzzwords": [
       "normal flora",
       "part of innate immunity",
-      "first acquired at birth",
+      {
+        "img": "data/immuno/images/immuno-23-6/1.webp"
+      },
       "competes with pathogens",
       "builds oral tolerance",
       "skin flora from primary caregiver",

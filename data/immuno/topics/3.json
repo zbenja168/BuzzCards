@@ -14,7 +14,7 @@
       "first responders",
       "peak 2-6 hours",
       "short-lived 1-4 days",
-      "multilobed nucleus"
+      { "img": "data/immuno/images/immuno-3-1/1.webp" }
     ]
   },
   {
@@ -29,7 +29,7 @@
       "oxygen-dependent killing",
       "makes superoxide",
       "hydrogen peroxide",
-      "NADPH oxidase",
+      { "img": "data/immuno/images/immuno-3-2/1.webp" },
       "myeloperoxidase",
       "hypochlorite product",
       "oxidative burst"
@@ -81,7 +81,7 @@
     "buzzwords": [
       "neutrophil-only mechanism",
       "last-ditch killing",
-      "expelled DNA web",
+      { "img": "data/immuno/images/immuno-3-5/1.webp" },
       "traps pathogens",
       "granule contents bound",
       "neutrophil dies",
@@ -99,7 +99,7 @@
     "buzzwords": [
       "blood phagocyte",
       "2-8% of leukocytes",
-      "largest leukocyte",
+      { "img": "data/immuno/images/immuno-3-6/1.webp" },
       "horseshoe nucleus",
       "circulates then enters tissue",
       "replenishes macrophages",
@@ -115,12 +115,12 @@
     "brick_title": "Phagocyte Function",
     "type": "physiology",
     "buzzwords": [
-      "tissue-resident phagocyte",
+      { "img": "data/immuno/images/immuno-3-7/1.webp" },
       "sentinel cell",
       "long-lived",
       "antigen-presenting cell",
       "tissue repair role",
-      "M1 versus M2 polarization",
+      { "img": "data/immuno/images/immuno-3-7/2.webp" },
       "M1 inflammatory killer",
       "Kupffer and microglia"
     ]
@@ -136,11 +136,11 @@
       "professional APC",
       "weak phagocyte",
       "samples antigens",
-      "migrates to lymph node",
+      { "img": "data/immuno/images/immuno-3-8/2.webp" },
       "activates naive T cells",
       "links innate and adaptive",
       "upregulates CCR7",
-      "cytoplasmic projections"
+      { "img": "data/immuno/images/immuno-3-8/1.webp" }
     ]
   }
 ]

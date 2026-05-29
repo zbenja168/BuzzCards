@@ -13,7 +13,7 @@
       "IgM is most potent activator",
       "needs two IgG molecules",
       "activated by CRP",
-      "C4b2b convertase",
+      { "img": "data/immuno/images/immuno-4-1/1.webp" },
       "starts with C1qrs"
     ]
   },
@@ -31,7 +31,7 @@
       "stabilized by properdin",
       "makes most C3b",
       "produces 80-90% of MAC",
-      "C3bBb convertase",
+      { "img": "data/immuno/images/immuno-4-2/1.webp" },
       "properdin loss: Neisseria infections"
     ]
   },
@@ -47,7 +47,7 @@
       "recognizes surface sugars",
       "binds mannose residues",
       "cleaves C4 and C2",
-      "uses MASP proteases",
+      { "img": "data/immuno/images/immuno-4-3/1.webp" },
       "C4b2b convertase",
       "mannose-binding lectin",
       "MBL initiates it"
@@ -98,7 +98,7 @@
     "type": "disease",
     "buzzwords": [
       "recurrent painless swelling",
-      "face, hands, feet",
+      { "img": "data/immuno/images/immuno-4-6/1.webp" },
       "GI attacks with pain",
       "laryngeal edema risk",
       "no urticaria",

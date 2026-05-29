@@ -12,9 +12,9 @@
       "recognizes MHC class I",
       "triggers target apoptosis",
       "no inflammation, no DAMPs",
-      "delivers perforin and granzymes",
+      { "img": "data/immuno/images/immuno-10-1/1.webp" },
       "activates caspases",
-      "also uses FasL-Fas"
+      { "img": "data/immuno/images/immuno-10-1/2.webp" }
     ]
   },
   {
@@ -27,7 +27,7 @@
     "buzzwords": [
       "CD4-positive effector",
       "fights intracellular pathogens",
-      "activates macrophages",
+      { "img": "data/immuno/images/immuno-10-2/1.webp" },
       "boosts phagocytic killing",
       "induced by IFN-gamma and IL-12",
       "upregulates MHC and B7",
@@ -46,7 +46,7 @@
       "CD4-positive effector",
       "fights parasites and helminths",
       "drives IgE class switching",
-      "activates eosinophils and mast cells",
+      { "img": "data/immuno/images/immuno-10-3/1.webp" },
       "promotes M2 macrophages",
       "IL-4, IL-5, IL-13",
       "IL-13 boosts mucus and peristalsis",
@@ -84,7 +84,7 @@
       "active when MHC class I is lost",
       "releases perforin and granzymes",
       "recognizes IgG on target",
-      "Fc receptor cross-linking triggers it",
+      { "img": "data/immuno/images/immuno-10-5/1.webp" },
       "CD16 binds the antibody",
       "target dies by apoptosis"
     ]

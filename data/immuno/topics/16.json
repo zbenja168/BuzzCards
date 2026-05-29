@@ -11,7 +11,7 @@
       "infections of unusual severity",
       "atypical organisms",
       "opportunistic infections",
-      "four or more ear infections yearly",
+      { "img": "data/immuno/images/immuno-16-1/1.webp" },
       "two or more pneumonias yearly",
       "failure to thrive",
       "IV antibiotics needed to clear"
@@ -64,7 +64,7 @@
       "infectious cause of immunodeficiency",
       "targets CD4 T cells",
       "lymphopenia",
-      "opportunistic infections by CD4 count",
+      { "img": "data/immuno/images/immuno-16-4/1.webp" },
       "Pneumocystis at low CD4",
       "tuberculosis reactivation",
       "Acquired Immunodeficiency Syndrome",
@@ -79,12 +79,12 @@
     "brick_title": "Diagnosis and Treatment of Immunodeficiency Disorders",
     "type": "lab",
     "buzzwords": [
-      "categorized by age at presentation",
+      { "img": "data/immuno/images/immuno-16-5/1.webp" },
       "complete blood count",
       "lymphocyte subset analysis",
       "quantitative immunoglobulin levels",
       "post-vaccination antibody titers",
-      "B and T cell subsets",
+      { "img": "data/immuno/images/immuno-16-5/2.webp" },
       "CD4 to CD8 ratio",
       "early diagnosis lowers mortality"
     ]

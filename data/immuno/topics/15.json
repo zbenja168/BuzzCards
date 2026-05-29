@@ -11,7 +11,7 @@
       "often asymptomatic",
       "recurrent sinopulmonary infections",
       "recurrent GI infections",
-      "impaired class switching",
+      { "img": "data/immuno/images/immuno-15-1/1.webp" },
       "anaphylaxis to blood products",
       "isolated low IgA",
       "normal IgG and IgM"
@@ -45,7 +45,7 @@
     "buzzwords": [
       "X-linked recessive",
       "presents in infancy",
-      "failed class switching",
+      { "img": "data/immuno/images/immuno-15-3/1.webp" },
       "Pneumocystis pneumonia",
       "Cryptosporidium diarrhea",
       "high IgM",
@@ -63,7 +63,7 @@
     "buzzwords": [
       "autosomal dominant",
       "eczema",
-      "cold abscesses",
+      { "img": "data/immuno/images/immuno-15-4/1.webp" },
       "retained baby teeth",
       "coarse facial features",
       "markedly elevated IgE",
@@ -85,7 +85,7 @@
       "thrombocytopenia",
       "small platelets",
       "low IgM, high IgA/IgE",
-      "defective actin polymerization",
+      { "img": "data/immuno/images/immuno-15-5/1.webp" },
       "WASP mutation"
     ]
   },
@@ -98,7 +98,7 @@
     "type": "disease",
     "buzzwords": [
       "impaired Th1 pathway",
-      "loss of macrophage activation",
+      { "img": "data/immuno/images/immuno-15-6/1.webp" },
       "disseminated mycobacterial infection",
       "disseminated BCG after vaccine",
       "salmonellosis",

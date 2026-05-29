@@ -11,10 +11,10 @@
       "neutrophils can't exit vessels",
       "infections lack pus",
       "marked leukocytosis",
-      "delayed umbilical cord separation",
+      { "img": "data/immuno/images/immuno-5-1/1.webp" },
       "recurrent skin infections",
       "poor wound healing",
-      "defective CD18 integrin"
+      { "img": "data/immuno/images/immuno-5-1/2.webp" }
     ]
   },
   {
@@ -30,8 +30,8 @@
       "bleeding tendency",
       "progressive neuropathy",
       "partial albinism",
-      "silvery hair",
-      "giant granules in neutrophils",
+      { "img": "data/immuno/images/immuno-5-2/1.webp" },
+      { "img": "data/immuno/images/immuno-5-2/2.webp" },
       "LYST mutation"
     ]
   },
@@ -47,9 +47,9 @@
       "defective oxidative burst",
       "no reactive oxygen species",
       "catalase-positive infections",
-      "granuloma formation",
+      { "img": "data/immuno/images/immuno-5-3/1.webp" },
       "recurrent abscesses",
-      "negative dihydrorhodamine test",
+      { "img": "data/immuno/images/immuno-5-3/2.webp" },
       "defective NADPH oxidase"
     ]
   }

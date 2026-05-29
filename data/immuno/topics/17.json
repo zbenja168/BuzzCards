@@ -11,7 +11,7 @@
       "low sensitivity",
       "detects antigen presence",
       "qualitative result",
-      "visible clumping",
+      { "img": "data/immuno/images/immuno-17-1/1.webp" },
       "immune complexes precipitate",
       "RBC cross-linking",
       "blood typing kit"
@@ -29,7 +29,7 @@
       "locates target molecule",
       "fluorophore-labeled antibody",
       "tissue section or smear",
-      "staining patterns",
+      { "img": "data/immuno/images/immuno-17-2/1.webp" },
       "titer plus pattern",
       "homogeneous or speckled",
       "ANA testing"
@@ -45,10 +45,10 @@
     "buzzwords": [
       "high sensitivity",
       "quantifies soluble antigen",
-      "microplate well",
+      { "img": "data/immuno/images/immuno-17-3/1.webp" },
       "enzyme-conjugated antibody",
       "color intensity signal",
-      "direct, indirect, sandwich, competitive",
+      { "img": "data/immuno/images/immuno-17-3/2.webp" },
       "sandwich type most sensitive",
       "HIV screening"
     ]
@@ -80,11 +80,11 @@
     "type": "lab",
     "buzzwords": [
       "cell-based test",
-      "single-file laser stream",
+      { "img": "data/immuno/images/immuno-17-5/2.webp" },
       "counts cell populations",
       "fluorophore-conjugated antibodies",
       "CD marker detection",
-      "forward and side scatter",
+      { "img": "data/immuno/images/immuno-17-5/1.webp" },
       "FOXP3 intracellular stain",
       "SCID lacks CD3 cells"
     ]
@@ -119,7 +119,7 @@
       "PCR amplification",
       "newborn blood spot",
       "measures T-cell output",
-      "circular DNA fragments",
+      { "img": "data/immuno/images/immuno-17-7/1.webp" },
       "from V(D)J recombination",
       "low count signals SCID",
       "neonatal TREC screen"

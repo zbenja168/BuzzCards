@@ -12,7 +12,7 @@
       "pro-B has no BCR",
       "pre-B rearranges heavy chain",
       "pre-B expresses surrogate light chain",
-      "immature B expresses full BCR",
+      { "img": "data/immuno/images/immuno-8-1/1.webp" },
       "mature naive cell exits marrow",
       "naive cell carries IgM and IgD"
     ]
@@ -27,7 +27,7 @@
     "buzzwords": [
       "tests immature B cell receptors",
       "weak self-binding passes positive selection",
-      "strong self-binding triggers apoptosis",
+      { "img": "data/immuno/images/immuno-8-2/1.webp" },
       "removes autoreactive clones",
       "negative selection prevents autoantibodies",
       "second chance via receptor editing",
@@ -48,7 +48,7 @@
       "lymph node filters lymph antigens",
       "spleen filters blood-borne antigens",
       "B cells enter through HEVs",
-      "white pulp surrounds central artery",
+      { "img": "data/immuno/images/immuno-8-3/1.webp" },
       "marrow zone called PALS",
       "follicles hold germinal centers"
     ]
@@ -67,7 +67,7 @@
       "C3d via CR2 costimulates",
       "B cell presents peptide on MHC II",
       "TCR reads peptide-MHC II complex",
-      "immunological synapse",
+      { "img": "data/immuno/images/immuno-8-4/1.webp" },
       "CD40L-CD40 interaction"
     ]
   },
@@ -83,7 +83,7 @@
       "non-protein antigens",
       "repetitive epitopes",
       "extensive BCR crosslinking",
-      "polysaccharide capsule antigens",
+      { "img": "data/immuno/images/immuno-8-5/1.webp" },
       "low-affinity antibody",
       "predominantly IgM, no class switch",
       "conjugate vaccines recruit T cell help"
@@ -98,7 +98,7 @@
     "type": "physiology",
     "buzzwords": [
       "forms within follicles",
-      "dark zone holds dividing B cells",
+      { "img": "data/immuno/images/immuno-8-6/1.webp" },
       "light zone selects high affinity",
       "follicular dendritic cells display antigen",
       "Tfh cells provide help here",

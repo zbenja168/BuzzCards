@@ -7,7 +7,7 @@
     "brick_title": "Antigen Receptor Generation and Structure",
     "type": "physiology",
     "buzzwords": [
-      "Y-shaped glycoprotein",
+      { "img": "data/immuno/images/immuno-7-1/1.webp" },
       "two heavy, two light chains",
       "disulfide-linked chains",
       "flexible hinge region",
@@ -27,7 +27,7 @@
     "buzzwords": [
       "cut-and-join gene segments",
       "occurs before antigen exposure",
-      "V, D, and J segments",
+      { "img": "data/immuno/images/immuno-7-2/1.webp" },
       "light chain uses only V and J",
       "heavy chain uses V, D, J",
       "controlled double-strand breaks",
@@ -44,7 +44,7 @@
     "type": "physiology",
     "buzzwords": [
       "diversity at segment joints",
-      "random nucleotide additions",
+      { "img": "data/immuno/images/immuno-7-3/1.webp" },
       "alters CDR3 region",
       "not germline-encoded",
       "can cause frameshift",
@@ -66,7 +66,7 @@
       "point mutations in variable domains",
       "concentrated in CDRs",
       "mutates faster than other DNA",
-      "drives affinity maturation",
+      { "img": "data/immuno/images/immuno-7-4/1.webp" },
       "highest-affinity clones survive",
       "found in hypervariable regions"
     ]
@@ -81,7 +81,7 @@
     "buzzwords": [
       "membrane-anchored glycoprotein",
       "never secreted",
-      "alpha and beta chains",
+      { "img": "data/immuno/images/immuno-7-5/1.webp" },
       "single disulfide bond",
       "variable and constant domains",
       "no somatic hypermutation",
@@ -104,7 +104,7 @@
       "activates classical complement",
       "ten antigen binding sites",
       "joined by J chain",
-      "circulates as pentamer"
+      { "img": "data/immuno/images/immuno-7-6/1.webp" }
     ]
   },
   {
@@ -117,7 +117,7 @@
     "buzzwords": [
       "most abundant in blood",
       "monomer",
-      "opsonizes pathogens",
+      { "img": "data/immuno/images/immuno-7-7/1.webp" },
       "activates classical complement",
       "neutralizes toxins",
       "mediates NK-driven ADCC",
@@ -136,7 +136,7 @@
       "main mucosal antibody",
       "found in saliva and breast milk",
       "monomer in blood",
-      "dimer at mucosa",
+      { "img": "data/immuno/images/immuno-7-8/1.webp" },
       "joined by J chain",
       "prevents bacterial adherence",
       "secreted via transcytosis",

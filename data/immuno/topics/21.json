@@ -45,7 +45,7 @@
     "buzzwords": [
       "lack of response to antigen",
       "destroys autoreactive lymphocytes",
-      "central in thymus/marrow",
+      { "img": "data/immuno/images/immuno-21-3/1.webp" },
       "negative selection",
       "Treg generation",
       "peripheral anergy",
@@ -62,7 +62,7 @@
     "type": "lab",
     "buzzwords": [
       "MHC genetic risk",
-      "peptide-binding groove",
+      { "img": "data/immuno/images/immuno-21-4/1.webp" },
       "B27 ankylosing spondylitis",
       "B27 reactive arthritis",
       "DQ2/DQ8 celiac disease",
@@ -80,7 +80,7 @@
     "type": "physiology",
     "buzzwords": [
       "infection triggers autoimmunity",
-      "shared structural homology",
+      { "img": "data/immuno/images/immuno-21-5/1.webp" },
       "cross-reactive antibodies",
       "bind next-best self-antigen",
       "anti-M protein cross-reaction",
@@ -98,7 +98,7 @@
     "type": "physiology",
     "buzzwords": [
       "amplification of autoimmunity",
-      "expands to new antigens",
+      { "img": "data/immuno/images/immuno-21-6/1.webp" },
       "spreads beyond initial target",
       "tissue damage releases antigens",
       "somatic hypermutation",

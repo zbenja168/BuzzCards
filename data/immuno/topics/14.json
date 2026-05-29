@@ -10,7 +10,7 @@
       "X-linked recessive",
       "recurrent encapsulated infections",
       "onset around 6 months",
-      "B-cell maturation arrest",
+      { "img": "data/immuno/images/immuno-14-1/1.webp" },
       "absent B cells",
       "low all immunoglobulins",
       "BTK gene defect",
@@ -26,11 +26,11 @@
     "type": "disease",
     "buzzwords": [
       "thymic hypoplasia",
-      "absent or low T cells",
+      { "img": "data/immuno/images/immuno-14-2/1.webp" },
       "neural crest defect",
       "3rd/4th pharyngeal pouch",
       "hypocalcemia and seizures",
-      "conotruncal heart defects",
+      { "img": "data/immuno/images/immuno-14-2/2.webp" },
       "absent thymic shadow",
       "22q11 microdeletion"
     ]

@@ -11,8 +11,8 @@
       "allergens trigger it",
       "asthma and allergic rhinitis",
       "can cause anaphylaxis",
-      "mast cells and eosinophils",
-      "histamine release",
+      { "img": "data/immuno/images/immuno-12-1/2.webp" },
+      { "img": "data/immuno/images/immuno-12-1/1.webp" },
       "FcεRI cross-linking degranulation",
       "IgE mediated"
     ]
@@ -31,7 +31,7 @@
       "complement activation, MAC",
       "ADCC by NK cells",
       "autoimmune hemolytic anemia",
-      "Graves and myasthenia gravis",
+      { "img": "data/immuno/images/immuno-12-2/1.webp" },
       "IgG or IgM mediated"
     ]
   },
@@ -44,7 +44,7 @@
     "type": "physiology",
     "buzzwords": [
       "antibody binds soluble antigen",
-      "deposits in small vessels",
+      { "img": "data/immuno/images/immuno-12-3/1.webp" },
       "nephritis, arthritis, vasculitis",
       "complement and neutrophils",
       "SLE and serum sickness",
@@ -63,7 +63,7 @@
     "buzzwords": [
       "delayed, 24-72 hours",
       "no antibody involved",
-      "contact dermatitis, poison ivy",
+      { "img": "data/immuno/images/immuno-12-4/1.webp" },
       "CD4 and CD8 T cells",
       "macrophage activation",
       "CTL perforin and granzymes",

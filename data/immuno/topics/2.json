@@ -31,7 +31,7 @@
       "in endosomes for viruses",
       "deficiency causes herpesvirus infection",
       "TLR4 detects LPS",
-      "signal to NF-kB",
+      { "img": "data/immuno/images/immuno-2-2/1.webp" },
       "TLRs"
     ]
   },
@@ -82,7 +82,7 @@
       "block a pro-inflammatory cytokine",
       "treat inflammatory disease",
       "monoclonal antibodies",
-      "bind soluble TNF-alpha",
+      { "img": "data/immuno/images/immuno-2-5/1.webp" },
       "etanercept is decoy receptor",
       "risk of immunosuppression",
       "adalimumab",
@@ -174,7 +174,7 @@
       "abnormal temperature, heart rate",
       "SIRS plus infection is sepsis",
       "persistent hypotension is septic shock",
-      "progresses to organ damage",
+      { "img": "data/immuno/images/immuno-2-10/1.webp" },
       "MODS mortality over 50%",
       "SIRS"
     ]
