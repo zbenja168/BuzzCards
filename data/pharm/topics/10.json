@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharm-10-1",
+    "title": "CYP Metabolizer Phenotypes",
+    "course": "pharm",
+    "brick_id": "10",
+    "brick_title": "Pharmacodynamics 3 - Pharmacogenomics",
+    "type": "physiology",
+    "buzzwords": [
+      "SNP alters enzyme function",
+      "varies drug serum levels",
+      "four metabolizer classes",
+      "prodrug activation affected",
+      "PM raises toxicity risk",
+      "UM clears drug fast",
+      "CYP2D6 PM vs UM",
+      "ultra-rapid metabolizer"
+    ]
+  },
+  {
+    "id": "pharm-10-2",
+    "title": "HLA-B Variations",
+    "course": "pharm",
+    "brick_id": "10",
+    "brick_title": "Pharmacodynamics 3 - Pharmacogenomics",
+    "type": "physiology",
+    "buzzwords": [
+      "MHC immune gene",
+      "presents peptides to T cells",
+      "drug hypersensitivity reactions",
+      "severe sometimes fatal reactions",
+      "test before initiation",
+      "abacavir hypersensitivity",
+      "HLA-B*5701",
+      "carbamazepine HLA-B*1502"
+    ]
+  },
+  {
+    "id": "pharm-10-3",
+    "title": "CYP Inducers",
+    "course": "pharm",
+    "brick_id": "10",
+    "brick_title": "Pharmacodynamics 3 - Pharmacogenomics",
+    "type": "drug",
+    "buzzwords": [
+      "increases hepatic metabolism",
+      "lowers substrate drug levels",
+      "renders co-drugs less effective",
+      "anti-epileptics induce",
+      "rifampin induces",
+      "St. John's wort",
+      "phenobarbital carbamazepine phenytoin",
+      "smoking induces CYP1A2"
+    ]
+  },
+  {
+    "id": "pharm-10-4",
+    "title": "CYP Inhibitors",
+    "course": "pharm",
+    "brick_id": "10",
+    "brick_title": "Pharmacodynamics 3 - Pharmacogenomics",
+    "type": "drug",
+    "buzzwords": [
+      "binds enzyme active site",
+      "raises substrate drug levels",
+      "increases toxicity potential",
+      "azole antifungals inhibit",
+      "macrolide antibiotics inhibit",
+      "sulfamethoxazole inhibits CYP2C9",
+      "warfarin bleeding interaction",
+      "grapefruit juice CYP3A4"
+    ]
+  },
+  {
+    "id": "pharm-10-5",
+    "title": "Clopidogrel CYP2C19",
+    "course": "pharm",
+    "brick_id": "10",
+    "brick_title": "Pharmacodynamics 3 - Pharmacogenomics",
+    "type": "drug",
+    "buzzwords": [
+      "antiplatelet prodrug",
+      "needs CYP activation",
+      "poor metabolizer fails activation",
+      "reduced antiplatelet effect",
+      "higher thrombotic risk",
+      "pharmacogenomic testing pair",
+      "metabolized by CYP2C19",
+      "loss-of-function allele"
+    ]
+  },
+  {
+    "id": "pharm-10-6",
+    "title": "Warfarin CYP2C9",
+    "course": "pharm",
+    "brick_id": "10",
+    "brick_title": "Pharmacodynamics 3 - Pharmacogenomics",
+    "type": "drug",
+    "buzzwords": [
+      "blood thinner",
+      "narrow therapeutic index",
+      "metabolizer status alters dose",
+      "inhibition raises bleeding risk",
+      "CYP2C9 substrate",
+      "VKORC1 also tested",
+      "warfarin sensitivity",
+      "primary warfarin enzyme"
+    ]
+  }
+]

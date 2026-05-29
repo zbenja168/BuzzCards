@@ -1,0 +1,3044 @@
+[
+  {
+    "id": "pharm-1-1",
+    "title": "ADME",
+    "course": "pharm",
+    "brick_id": "1",
+    "brick_title": "Pharmacokinetics 1 - Drug absorption and distribution",
+    "type": "physiology",
+    "buzzwords": [
+      "drug time course",
+      "what body does to drug",
+      "four sequential stages",
+      "absorption",
+      "distribution",
+      "metabolism then excretion",
+      "core of pharmacokinetics",
+      "ADME"
+    ]
+  },
+  {
+    "id": "pharm-1-2",
+    "title": "Enteral routes",
+    "course": "pharm",
+    "brick_id": "1",
+    "brick_title": "Pharmacokinetics 1 - Drug absorption and distribution",
+    "type": "physiology",
+    "buzzwords": [
+      "into the GI tract",
+      "oral most common",
+      "absorbed at small intestine",
+      "convenient and cost-effective",
+      "sublingual bypasses liver",
+      "rectal partly avoids portal vein",
+      "from Greek enteron",
+      "oral, sublingual, rectal"
+    ]
+  },
+  {
+    "id": "pharm-1-3",
+    "title": "Parenteral routes",
+    "course": "pharm",
+    "brick_id": "1",
+    "brick_title": "Pharmacokinetics 1 - Drug absorption and distribution",
+    "type": "physiology",
+    "buzzwords": [
+      "beside the enteron",
+      "outside the GI tract",
+      "rapid onset desired",
+      "IV gives full bioavailability",
+      "IM depot for sustained dose",
+      "subcutaneous slow steady release",
+      "insulin and heparin SC",
+      "IV, IM, subcutaneous"
+    ]
+  },
+  {
+    "id": "pharm-1-4",
+    "title": "Bioavailability",
+    "course": "pharm",
+    "brick_id": "1",
+    "brick_title": "Pharmacokinetics 1 - Drug absorption and distribution",
+    "type": "physiology",
+    "buzzwords": [
+      "fraction reaching circulation",
+      "reported as percentage",
+      "affected by route",
+      "lowered by first-pass",
+      "IV is 100 percent",
+      "denoted F",
+      "F of 1.0 for IV",
+      "extravascular relative to IV"
+    ]
+  },
+  {
+    "id": "pharm-1-5",
+    "title": "First-pass metabolism",
+    "course": "pharm",
+    "brick_id": "1",
+    "brick_title": "Pharmacokinetics 1 - Drug absorption and distribution",
+    "type": "physiology",
+    "buzzwords": [
+      "lowers oral bioavailability",
+      "occurs before circulation",
+      "hepatic portal vein delivery",
+      "metabolized by liver enzymes",
+      "up to 90 percent lost",
+      "bypassed by sublingual route",
+      "oral average F 0.7",
+      "first-pass effect"
+    ]
+  },
+  {
+    "id": "pharm-1-6",
+    "title": "Drug distribution",
+    "course": "pharm",
+    "brick_id": "1",
+    "brick_title": "Pharmacokinetics 1 - Drug absorption and distribution",
+    "type": "physiology",
+    "buzzwords": [
+      "drug dispersed through body",
+      "depends on blood flow",
+      "fast to brain and kidney",
+      "lipophilic accumulate in fat",
+      "crosses blood-brain barrier",
+      "only free drug is active",
+      "bound fraction is reservoir",
+      "albumin binds 95-98 percent"
+    ]
+  },
+  {
+    "id": "pharm-2-1",
+    "title": "Phase I Biotransformation",
+    "course": "pharm",
+    "brick_id": "2",
+    "brick_title": "Pharmacokinetics 1 - 2 of 3: Drug Metabolism and Excretion",
+    "type": "physiology",
+    "buzzwords": [
+      "modification reactions",
+      "usually inactivates drug",
+      "oxidation, reduction, hydrolysis",
+      "smooth ER of hepatocytes",
+      "can activate prodrugs",
+      "heme cofactor",
+      "absorbs light at 450 nm",
+      "cytochrome P450 (CYP450)"
+    ]
+  },
+  {
+    "id": "pharm-2-2",
+    "title": "Phase II Conjugation",
+    "course": "pharm",
+    "brick_id": "2",
+    "brick_title": "Pharmacokinetics 1 - 2 of 3: Drug Metabolism and Excretion",
+    "type": "physiology",
+    "buzzwords": [
+      "adds functional group",
+      "yields water-soluble metabolite",
+      "performed by transferases",
+      "conjugates amino acids or acetate",
+      "methylation, acetylation, sulfation",
+      "may follow phase I",
+      "produces inactive metabolites",
+      "glucuronidation most common"
+    ]
+  },
+  {
+    "id": "pharm-2-3",
+    "title": "CYP Inhibitors",
+    "course": "pharm",
+    "brick_id": "2",
+    "brick_title": "Pharmacokinetics 1 - 2 of 3: Drug Metabolism and Excretion",
+    "type": "drug",
+    "buzzwords": [
+      "reduce enzyme activity",
+      "decrease drug metabolism",
+      "raise serum drug levels",
+      "risk of toxicity",
+      "azole antifungals, macrolides",
+      "isoniazid, ciprofloxacin, amiodarone",
+      "ketoconazole, cobicistat, omeprazole",
+      "grapefruit juice"
+    ]
+  },
+  {
+    "id": "pharm-2-4",
+    "title": "CYP Inducers",
+    "course": "pharm",
+    "brick_id": "2",
+    "brick_title": "Pharmacokinetics 1 - 2 of 3: Drug Metabolism and Excretion",
+    "type": "drug",
+    "buzzwords": [
+      "increase enzyme activity",
+      "speed up drug metabolism",
+      "lower serum drug levels",
+      "risk of treatment failure",
+      "alcohol and smoking",
+      "anticonvulsants phenytoin, carbamazepine",
+      "rifampin, barbiturates",
+      "St John's wort"
+    ]
+  },
+  {
+    "id": "pharm-2-5",
+    "title": "Renal Excretion",
+    "course": "pharm",
+    "brick_id": "2",
+    "brick_title": "Pharmacokinetics 1 - 2 of 3: Drug Metabolism and Excretion",
+    "type": "physiology",
+    "buzzwords": [
+      "excretes water-soluble metabolites",
+      "drug exits in urine",
+      "drug must be unbound",
+      "glomerular filtration and tubular secretion",
+      "uses organic anion transporters",
+      "secretes penicillin, cephalosporins, methotrexate",
+      "blocked by uricosuric agent",
+      "probenecid inhibits OATs"
+    ]
+  },
+  {
+    "id": "pharm-2-6",
+    "title": "Hepatic Excretion",
+    "course": "pharm",
+    "brick_id": "2",
+    "brick_title": "Pharmacokinetics 1 - 2 of 3: Drug Metabolism and Excretion",
+    "type": "physiology",
+    "buzzwords": [
+      "excretes lipophilic drugs",
+      "metabolites exit in feces",
+      "secreted into bile",
+      "drug reaches gut intestine",
+      "gut bacteria cleave glucuronide",
+      "drug reabsorbed back to liver",
+      "prolongs drug half-life",
+      "enterohepatic circulation"
+    ]
+  },
+  {
+    "id": "pharm-3-1",
+    "title": "Drug Ionization State",
+    "course": "pharm",
+    "brick_id": "3",
+    "brick_title": "Pharmacokinetics-1 (3 of 3) pH and pKa",
+    "type": "physiology",
+    "buzzwords": [
+      "governs absorption",
+      "depends on pH and pKa",
+      "set by surrounding pH",
+      "ionized vs unionized",
+      "two interconverting forms",
+      "in equilibrium",
+      "ionized loses proton or gains it",
+      "key to drug distribution"
+    ]
+  },
+  {
+    "id": "pharm-3-2",
+    "title": "Unionized Form",
+    "course": "pharm",
+    "brick_id": "3",
+    "brick_title": "Pharmacokinetics-1 (3 of 3) pH and pKa",
+    "type": "physiology",
+    "buzzwords": [
+      "uncharged",
+      "nonpolar",
+      "lipophilic",
+      "lipid-loving",
+      "crosses membranes easily",
+      "passes lipid bilayer",
+      "favored for absorption",
+      "HA acid or B base"
+    ]
+  },
+  {
+    "id": "pharm-3-3",
+    "title": "Ionized Form",
+    "course": "pharm",
+    "brick_id": "3",
+    "brick_title": "Pharmacokinetics-1 (3 of 3) pH and pKa",
+    "type": "physiology",
+    "buzzwords": [
+      "electrically charged",
+      "polar",
+      "hydrophilic",
+      "water-loving",
+      "cannot cross bilayer",
+      "trapped in compartments",
+      "stays vascular and interstitial",
+      "A-minus or BH-plus"
+    ]
+  },
+  {
+    "id": "pharm-3-4",
+    "title": "Weak Acids",
+    "course": "pharm",
+    "brick_id": "3",
+    "brick_title": "Pharmacokinetics-1 (3 of 3) pH and pKa",
+    "type": "physiology",
+    "buzzwords": [
+      "proton donors",
+      "unionized when pH below pKa",
+      "absorbed in acidic environment",
+      "best in proximal duodenum",
+      "ionized when pH above pKa",
+      "HA dissociates to H+ plus A-",
+      "methotrexate is one",
+      "trapped if alkaline"
+    ]
+  },
+  {
+    "id": "pharm-3-5",
+    "title": "Weak Bases",
+    "course": "pharm",
+    "brick_id": "3",
+    "brick_title": "Pharmacokinetics-1 (3 of 3) pH and pKa",
+    "type": "physiology",
+    "buzzwords": [
+      "proton acceptors",
+      "unionized when pH above pKa",
+      "absorbed in alkaline environment",
+      "best in distal ileum",
+      "ionized in acidic pH",
+      "BH+ dissociates to H+ plus B",
+      "ionized form is BH-plus",
+      "trapped in acid"
+    ]
+  },
+  {
+    "id": "pharm-3-6",
+    "title": "pKa",
+    "course": "pharm",
+    "brick_id": "3",
+    "brick_title": "Pharmacokinetics-1 (3 of 3) pH and pKa",
+    "type": "physiology",
+    "buzzwords": [
+      "drug-specific constant",
+      "fixed property of molecule",
+      "compared against solution pH",
+      "predicts ionization",
+      "pH where 50% ionized",
+      "50% ionized 50% unionized",
+      "half-and-half point",
+      "the pH equal to pKa"
+    ]
+  },
+  {
+    "id": "pharm-4-1",
+    "title": "NSAIDs",
+    "course": "pharm",
+    "brick_id": "4",
+    "brick_title": "Nonopioid Analgesics-NSAIDs",
+    "type": "drug",
+    "buzzwords": [
+      "analgesic",
+      "antipyretic",
+      "anti-inflammatory",
+      "block prostaglandin synthesis",
+      "inhibit cyclooxygenase",
+      "act on arachidonic acid pathway",
+      "competitive reversible inhibitors",
+      "block COX-1 and COX-2"
+    ]
+  },
+  {
+    "id": "pharm-4-2",
+    "title": "COX-1",
+    "course": "pharm",
+    "brick_id": "4",
+    "brick_title": "Nonopioid Analgesics-NSAIDs",
+    "type": "physiology",
+    "buzzwords": [
+      "constitutive enzyme",
+      "maintains homeostasis",
+      "gastric mucous secretion",
+      "platelet activity",
+      "GI cytoprotection",
+      "dilates renal arteries",
+      "makes PGI2 and PGE2",
+      "constitutive cyclooxygenase"
+    ]
+  },
+  {
+    "id": "pharm-4-3",
+    "title": "COX-2",
+    "course": "pharm",
+    "brick_id": "4",
+    "brick_title": "Nonopioid Analgesics-NSAIDs",
+    "type": "physiology",
+    "buzzwords": [
+      "inducible enzyme",
+      "expressed in inflammation",
+      "drives pain and fever",
+      "macrophage differentiation",
+      "produces inflammatory PGs",
+      "induced by tissue injury",
+      "target of coxibs",
+      "inducible cyclooxygenase"
+    ]
+  },
+  {
+    "id": "pharm-4-4",
+    "title": "Aspirin",
+    "course": "pharm",
+    "brick_id": "4",
+    "brick_title": "Nonopioid Analgesics-NSAIDs",
+    "type": "drug",
+    "buzzwords": [
+      "salicylate NSAID",
+      "irreversible COX inhibitor",
+      "antiplatelet drug",
+      "prevents clots",
+      "stroke prevention",
+      "post-MI prophylaxis",
+      "acetylsalicylic acid",
+      "unique MOA among NSAIDs"
+    ]
+  },
+  {
+    "id": "pharm-4-5",
+    "title": "COX-2 Inhibitors",
+    "course": "pharm",
+    "brick_id": "4",
+    "brick_title": "Nonopioid Analgesics-NSAIDs",
+    "type": "drug",
+    "buzzwords": [
+      "names end in -coxib",
+      "spares the stomach",
+      "low GI side effects",
+      "increased cardiovascular risk",
+      "inhibits prostacyclin",
+      "promotes thrombosis",
+      "withdrawn in early 2000s",
+      "celecoxib"
+    ]
+  },
+  {
+    "id": "pharm-4-6",
+    "title": "NSAID Adverse Effects",
+    "course": "pharm",
+    "brick_id": "4",
+    "brick_title": "Nonopioid Analgesics-NSAIDs",
+    "type": "disease",
+    "buzzwords": [
+      "loss of cytoprotection",
+      "peptic ulcer disease",
+      "reduced GFR",
+      "acute kidney injury",
+      "raises blood pressure",
+      "bleeding with warfarin",
+      "contraindicated 3rd trimester",
+      "premature ductus closure"
+    ]
+  },
+  {
+    "id": "pharm-5-1",
+    "title": "Pharmacodynamics",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "what drug does to body",
+      "drug binds a target",
+      "concentration vs effect",
+      "site of action",
+      "downstream signaling",
+      "therapeutic and adverse effects",
+      "opposite of pharmacokinetics",
+      "drug-on-body relationship"
+    ]
+  },
+  {
+    "id": "pharm-5-2",
+    "title": "Agonists",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "drug",
+    "buzzwords": [
+      "binds a receptor",
+      "activates the receptor",
+      "induces cellular action",
+      "ligand triggers effect",
+      "full, partial, inverse types",
+      "differ by efficacy",
+      "differ by intrinsic activity",
+      "albuterol on beta-2"
+    ]
+  },
+  {
+    "id": "pharm-5-3",
+    "title": "Antagonists",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "drug",
+    "buzzwords": [
+      "blocks receptor function",
+      "competes for binding",
+      "no cellular action",
+      "competitive or noncompetitive",
+      "shifts agonist dose-response",
+      "competitive is surmountable",
+      "noncompetitive irreversible",
+      "propranolol blocks beta-receptors"
+    ]
+  },
+  {
+    "id": "pharm-5-4",
+    "title": "Dose-Response Curve",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "lab",
+    "buzzwords": [
+      "dose vs effect plot",
+      "linear scale is hyperbolic",
+      "plateaus at receptor saturation",
+      "semilog scale sigmoidal",
+      "S-shaped curve",
+      "preferred plotting method",
+      "read EC50 off linear portion",
+      "graded dose-response"
+    ]
+  },
+  {
+    "id": "pharm-5-5",
+    "title": "Efficacy",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "maximal response produced",
+      "the ceiling effect",
+      "height of the curve",
+      "independent of dose",
+      "higher curve, more efficacy",
+      "maximum effect of drug",
+      "Emax",
+      "Emax is the plateau"
+    ]
+  },
+  {
+    "id": "pharm-5-6",
+    "title": "Potency",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "amount needed for effect",
+      "less drug means more potent",
+      "leftward curve more potent",
+      "concentration for half-maximal effect",
+      "inversely related to affinity",
+      "lower value, more potent",
+      "EC50",
+      "EC50 measures potency"
+    ]
+  },
+  {
+    "id": "pharm-5-7",
+    "title": "Affinity",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "how tightly drug binds",
+      "fraction bound at concentration",
+      "determines potency",
+      "inverse of dissociation constant",
+      "low value, stronger binding",
+      "higher affinity, lower EC50",
+      "Kd",
+      "Kd of 100 nM albuterol"
+    ]
+  },
+  {
+    "id": "pharm-5-8",
+    "title": "Selectivity vs Specificity",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "acts on one system",
+      "specificity is one effect",
+      "selective hits one site",
+      "most drugs are selective",
+      "few are truly specific",
+      "selectivity lost at high concentration",
+      "nonselective propranolol",
+      "selective metoprolol on beta-1"
+    ]
+  },
+  {
+    "id": "pharm-6-1",
+    "title": "Physiologic Antagonism",
+    "course": "pharm",
+    "brick_id": "6",
+    "brick_title": "Pharmacodynamics2: Quantal Dose Response and Therapeutic Index",
+    "type": "physiology",
+    "buzzwords": [
+      "two drugs oppose",
+      "no receptor competition",
+      "different receptors",
+      "opposite physiologic effect",
+      "functional antagonism",
+      "counteracts via separate pathway",
+      "maintains homeostasis",
+      "glucagon vs insulin"
+    ]
+  },
+  {
+    "id": "pharm-6-2",
+    "title": "Chemical Antagonism",
+    "course": "pharm",
+    "brick_id": "6",
+    "brick_title": "Pharmacodynamics2: Quantal Dose Response and Therapeutic Index",
+    "type": "physiology",
+    "buzzwords": [
+      "one drug inactivates another",
+      "direct chemical reaction",
+      "no receptor involved",
+      "no enzyme inhibition",
+      "binds and neutralizes",
+      "antacid neutralizes acid",
+      "chelators bind metals",
+      "deferoxamine binds iron"
+    ]
+  },
+  {
+    "id": "pharm-6-3",
+    "title": "Quantal Dose-Response",
+    "course": "pharm",
+    "brick_id": "6",
+    "brick_title": "Pharmacodynamics2: Quantal Dose Response and Therapeutic Index",
+    "type": "physiology",
+    "buzzwords": [
+      "population-level response",
+      "all-or-none outcome",
+      "present or absent effect",
+      "proportion responding",
+      "frequency curve, Gaussian",
+      "cumulative gives sigmoid",
+      "dose in mg/kg",
+      "defines ED50"
+    ]
+  },
+  {
+    "id": "pharm-6-4",
+    "title": "Therapeutic Index",
+    "course": "pharm",
+    "brick_id": "6",
+    "brick_title": "Pharmacodynamics2: Quantal Dose Response and Therapeutic Index",
+    "type": "physiology",
+    "buzzwords": [
+      "measures drug safety",
+      "higher means safer",
+      "guides monitoring need",
+      "narrow needs monitoring",
+      "ratio of two doses",
+      "toxic over effective dose",
+      "TI = TD50 / ED50",
+      "warfarin has narrow TI"
+    ]
+  },
+  {
+    "id": "pharm-6-5",
+    "title": "Therapeutic Window",
+    "course": "pharm",
+    "brick_id": "6",
+    "brick_title": "Pharmacodynamics2: Quantal Dose Response and Therapeutic Index",
+    "type": "physiology",
+    "buzzwords": [
+      "safe dosing range",
+      "concentration range, not ratio",
+      "above min effective conc",
+      "below min toxic conc",
+      "wider is safer",
+      "narrow needs monitoring",
+      "ibuprofen wide window",
+      "warfarin narrow window"
+    ]
+  },
+  {
+    "id": "pharm-6-6",
+    "title": "Margin of Safety",
+    "course": "pharm",
+    "brick_id": "6",
+    "brick_title": "Pharmacodynamics2: Quantal Dose Response and Therapeutic Index",
+    "type": "physiology",
+    "buzzwords": [
+      "accounts for curve slopes",
+      "uses extreme percentiles",
+      "from animal preclinical studies",
+      "lethal in 1% of animals",
+      "effective in 99%",
+      "guides human starting dose",
+      "LD1 numerator",
+      "MOS = LD1 / ED99"
+    ]
+  },
+  {
+    "id": "pharm-7-1",
+    "title": "Aspirin COX Inhibition",
+    "course": "pharm",
+    "brick_id": "7",
+    "brick_title": "Nonopioid Analgesics – Aspirin",
+    "type": "drug",
+    "buzzwords": [
+      "nonopioid analgesic",
+      "antipyretic",
+      "non-selective COX inhibitor",
+      "acetylsalicylic acid",
+      "acetylates serine",
+      "irreversible inhibition",
+      "high dose blocks COX-2",
+      "converts COX-1 to lipoxygenase"
+    ]
+  },
+  {
+    "id": "pharm-7-2",
+    "title": "Antiplatelet Action",
+    "course": "pharm",
+    "brick_id": "7",
+    "brick_title": "Nonopioid Analgesics – Aspirin",
+    "type": "drug",
+    "buzzwords": [
+      "prevents clots",
+      "cardiovascular protection",
+      "low dose effective",
+      "81mg daily",
+      "blocks platelet aggregation",
+      "inhibits thromboxane A2",
+      "platelets lack DNA",
+      "effect lasts platelet lifespan"
+    ]
+  },
+  {
+    "id": "pharm-7-3",
+    "title": "Aspirin Pharmacokinetics",
+    "course": "pharm",
+    "brick_id": "7",
+    "brick_title": "Nonopioid Analgesics – Aspirin",
+    "type": "drug",
+    "buzzwords": [
+      "weak acid",
+      "pKa 3.5",
+      "absorbed in stomach",
+      "hydrolyzed to salicylate",
+      "renally cleared",
+      "alkaline urine speeds clearance",
+      "overdose saturates enzymes",
+      "zero-order kinetics in overdose"
+    ]
+  },
+  {
+    "id": "pharm-7-4",
+    "title": "Aspirin Adverse Effects",
+    "course": "pharm",
+    "brick_id": "7",
+    "brick_title": "Nonopioid Analgesics – Aspirin",
+    "type": "drug",
+    "buzzwords": [
+      "gastric irritation",
+      "peptic ulcer risk",
+      "GI bleeding",
+      "blocks gastroprotective prostaglandins",
+      "high-dose tinnitus",
+      "metabolic acidosis in overdose",
+      "hypersensitivity reactions",
+      "aspirin-exacerbated respiratory disease"
+    ]
+  },
+  {
+    "id": "pharm-7-5",
+    "title": "Reye Syndrome",
+    "course": "pharm",
+    "brick_id": "7",
+    "brick_title": "Nonopioid Analgesics – Aspirin",
+    "type": "disease",
+    "buzzwords": [
+      "rare but fatal",
+      "avoid aspirin in children",
+      "follows viral infection",
+      "under 18 years",
+      "rapid hepatic degeneration",
+      "fatty liver",
+      "encephalopathy",
+      "Reye syndrome"
+    ]
+  },
+  {
+    "id": "pharm-8-1",
+    "title": "Volume of Distribution",
+    "course": "pharm",
+    "brick_id": "8",
+    "brick_title": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+    "type": "physiology",
+    "buzzwords": [
+      "theoretical volume",
+      "dose over peak concentration",
+      "dose / Cmax",
+      "low value confined to plasma",
+      "high value sequestered in fat",
+      "increased in pregnancy",
+      "amiodarone has high value",
+      "Vd"
+    ]
+  },
+  {
+    "id": "pharm-8-2",
+    "title": "Zero-Order Kinetics",
+    "course": "pharm",
+    "brick_id": "8",
+    "brick_title": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+    "type": "physiology",
+    "buzzwords": [
+      "constant amount per time",
+      "rate independent of concentration",
+      "saturable elimination",
+      "linear concentration-time plot",
+      "no true half-life",
+      "ethanol metabolism",
+      "phenytoin and aspirin",
+      "PEA mnemonic"
+    ]
+  },
+  {
+    "id": "pharm-8-3",
+    "title": "First-Order Kinetics",
+    "course": "pharm",
+    "brick_id": "8",
+    "brick_title": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+    "type": "physiology",
+    "buzzwords": [
+      "most common pattern",
+      "constant fraction per time",
+      "rate proportional to concentration",
+      "exponential decay curve",
+      "linear when plotted as ln",
+      "has constant half-life",
+      "higher concentration faster elimination",
+      "first-order elimination"
+    ]
+  },
+  {
+    "id": "pharm-8-4",
+    "title": "Half-Life",
+    "course": "pharm",
+    "brick_id": "8",
+    "brick_title": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+    "type": "physiology",
+    "buzzwords": [
+      "time to halve concentration",
+      "only in first-order drugs",
+      "inverse of elimination rate constant",
+      "0.693 / kel",
+      "0.693 x Vd / CL",
+      "sets time to steady state",
+      "4-5 to reach steady state",
+      "t1/2"
+    ]
+  },
+  {
+    "id": "pharm-8-5",
+    "title": "Clearance",
+    "course": "pharm",
+    "brick_id": "8",
+    "brick_title": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+    "type": "physiology",
+    "buzzwords": [
+      "blood volume cleared per time",
+      "expressed as a rate",
+      "mL/h or L/h",
+      "Vd times kel",
+      "dose over AUC",
+      "smaller AUC means higher value",
+      "falls with reduced blood flow",
+      "CL"
+    ]
+  },
+  {
+    "id": "pharm-8-6",
+    "title": "Steady-State Concentration",
+    "course": "pharm",
+    "brick_id": "8",
+    "brick_title": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+    "type": "physiology",
+    "buzzwords": [
+      "intake equals elimination",
+      "reached with repeated dosing",
+      "dosing rate over clearance",
+      "higher dose raises level",
+      "longer interval lowers level",
+      "peak and trough oscillation",
+      "attained after 4-5 half-lives",
+      "Css"
+    ]
+  },
+  {
+    "id": "pharm-9-1",
+    "title": "Loading Dose",
+    "course": "pharm",
+    "brick_id": "9",
+    "brick_title": "Pharmacokinetics-3: Loading and Maintenance Dose",
+    "type": "physiology",
+    "buzzwords": [
+      "larger initial dose",
+      "reaches Css faster",
+      "depends on Vd",
+      "needed for large Vd drugs",
+      "achieves effective minimum quickly",
+      "Cp x Vd / F",
+      "lipophilic drugs need it",
+      "amiodarone, digoxin"
+    ]
+  },
+  {
+    "id": "pharm-9-2",
+    "title": "Maintenance Dose",
+    "course": "pharm",
+    "brick_id": "9",
+    "brick_title": "Pharmacokinetics-3: Loading and Maintenance Dose",
+    "type": "physiology",
+    "buzzwords": [
+      "keeps drug at Css",
+      "prevents drug toxicity",
+      "depends on clearance",
+      "most drugs need it",
+      "switch to it after loading",
+      "modified per patient",
+      "Cp x CL x tau / F",
+      "skipping causes toxicity"
+    ]
+  },
+  {
+    "id": "pharm-9-3",
+    "title": "Steady-State Concentration",
+    "course": "pharm",
+    "brick_id": "9",
+    "brick_title": "Pharmacokinetics-3: Loading and Maintenance Dose",
+    "type": "physiology",
+    "buzzwords": [
+      "reached after 4-5 half-lives",
+      "input equals elimination",
+      "target therapeutic level",
+      "above minimum effective concentration",
+      "doubling infusion rate doubles it",
+      "loading dose reaches it fast",
+      "regular dosing builds it slowly",
+      "denoted Css"
+    ]
+  },
+  {
+    "id": "pharm-10-1",
+    "title": "CYP Metabolizer Phenotypes",
+    "course": "pharm",
+    "brick_id": "10",
+    "brick_title": "Pharmacodynamics 3 - Pharmacogenomics",
+    "type": "physiology",
+    "buzzwords": [
+      "SNP alters enzyme function",
+      "varies drug serum levels",
+      "four metabolizer classes",
+      "prodrug activation affected",
+      "PM raises toxicity risk",
+      "UM clears drug fast",
+      "CYP2D6 PM vs UM",
+      "ultra-rapid metabolizer"
+    ]
+  },
+  {
+    "id": "pharm-10-2",
+    "title": "HLA-B Variations",
+    "course": "pharm",
+    "brick_id": "10",
+    "brick_title": "Pharmacodynamics 3 - Pharmacogenomics",
+    "type": "physiology",
+    "buzzwords": [
+      "MHC immune gene",
+      "presents peptides to T cells",
+      "drug hypersensitivity reactions",
+      "severe sometimes fatal reactions",
+      "test before initiation",
+      "abacavir hypersensitivity",
+      "HLA-B*5701",
+      "carbamazepine HLA-B*1502"
+    ]
+  },
+  {
+    "id": "pharm-10-3",
+    "title": "CYP Inducers",
+    "course": "pharm",
+    "brick_id": "10",
+    "brick_title": "Pharmacodynamics 3 - Pharmacogenomics",
+    "type": "drug",
+    "buzzwords": [
+      "increases hepatic metabolism",
+      "lowers substrate drug levels",
+      "renders co-drugs less effective",
+      "anti-epileptics induce",
+      "rifampin induces",
+      "St. John's wort",
+      "phenobarbital carbamazepine phenytoin",
+      "smoking induces CYP1A2"
+    ]
+  },
+  {
+    "id": "pharm-10-4",
+    "title": "CYP Inhibitors",
+    "course": "pharm",
+    "brick_id": "10",
+    "brick_title": "Pharmacodynamics 3 - Pharmacogenomics",
+    "type": "drug",
+    "buzzwords": [
+      "binds enzyme active site",
+      "raises substrate drug levels",
+      "increases toxicity potential",
+      "azole antifungals inhibit",
+      "macrolide antibiotics inhibit",
+      "sulfamethoxazole inhibits CYP2C9",
+      "warfarin bleeding interaction",
+      "grapefruit juice CYP3A4"
+    ]
+  },
+  {
+    "id": "pharm-10-5",
+    "title": "Clopidogrel CYP2C19",
+    "course": "pharm",
+    "brick_id": "10",
+    "brick_title": "Pharmacodynamics 3 - Pharmacogenomics",
+    "type": "drug",
+    "buzzwords": [
+      "antiplatelet prodrug",
+      "needs CYP activation",
+      "poor metabolizer fails activation",
+      "reduced antiplatelet effect",
+      "higher thrombotic risk",
+      "pharmacogenomic testing pair",
+      "metabolized by CYP2C19",
+      "loss-of-function allele"
+    ]
+  },
+  {
+    "id": "pharm-10-6",
+    "title": "Warfarin CYP2C9",
+    "course": "pharm",
+    "brick_id": "10",
+    "brick_title": "Pharmacodynamics 3 - Pharmacogenomics",
+    "type": "drug",
+    "buzzwords": [
+      "blood thinner",
+      "narrow therapeutic index",
+      "metabolizer status alters dose",
+      "inhibition raises bleeding risk",
+      "CYP2C9 substrate",
+      "VKORC1 also tested",
+      "warfarin sensitivity",
+      "primary warfarin enzyme"
+    ]
+  },
+  {
+    "id": "pharm-11-1",
+    "title": "Acetaminophen",
+    "course": "pharm",
+    "brick_id": "11",
+    "brick_title": "Nonopioid Analgesics – Acetaminophen",
+    "type": "drug",
+    "buzzwords": [
+      "nonopioid analgesic",
+      "antipyretic",
+      "weak anti-inflammatory",
+      "central COX inhibition",
+      "raises pain threshold",
+      "not an NSAID",
+      "no antiplatelet effect",
+      "reversible noncompetitive COX inhibitor"
+    ]
+  },
+  {
+    "id": "pharm-11-2",
+    "title": "Acetaminophen Metabolism",
+    "course": "pharm",
+    "brick_id": "11",
+    "brick_title": "Nonopioid Analgesics – Acetaminophen",
+    "type": "physiology",
+    "buzzwords": [
+      "hepatic metabolism",
+      "half-life ~2 hours",
+      "mostly phase II conjugation",
+      "glucuronidation and sulfation",
+      "minor P450 route",
+      "toxic intermediate normally detoxified",
+      "CYP2E1 forms NAPQI",
+      "glutathione conjugates NAPQI"
+    ]
+  },
+  {
+    "id": "pharm-11-3",
+    "title": "NAPQI Hepatotoxicity",
+    "course": "pharm",
+    "brick_id": "11",
+    "brick_title": "Nonopioid Analgesics – Acetaminophen",
+    "type": "disease",
+    "buzzwords": [
+      "overdose injury",
+      "conjugation pathways saturated",
+      "glutathione depleted",
+      "hepatocyte protein adducts",
+      "centrilobular necrosis",
+      "rising transaminases",
+      "alcohol and isoniazid worsen it",
+      "toxic NAPQI metabolite"
+    ]
+  },
+  {
+    "id": "pharm-11-4",
+    "title": "N-acetylcysteine",
+    "course": "pharm",
+    "brick_id": "11",
+    "brick_title": "Nonopioid Analgesics – Acetaminophen",
+    "type": "drug",
+    "buzzwords": [
+      "overdose antidote",
+      "give within 16 hours",
+      "restores glutathione",
+      "provides cysteine",
+      "scavenges free radicals",
+      "boosts mitochondrial ATP",
+      "flushing and urticaria possible",
+      "NAC"
+    ]
+  },
+  {
+    "id": "pharm-12-1",
+    "title": "Epinephrine",
+    "course": "pharm",
+    "brick_id": "12",
+    "brick_title": "Autonomic Nervous System - Vasopressors and Inotropes",
+    "type": "drug",
+    "buzzwords": [
+      "sympathomimetic",
+      "positive inotrope",
+      "positive chronotrope",
+      "bronchodilation",
+      "raises systolic BP",
+      "equal alpha and beta",
+      "skeletal muscle vasodilation",
+      "ACLS cardiac arrest drug"
+    ]
+  },
+  {
+    "id": "pharm-12-2",
+    "title": "Norepinephrine",
+    "course": "pharm",
+    "brick_id": "12",
+    "brick_title": "Autonomic Nervous System - Vasopressors and Inotropes",
+    "type": "drug",
+    "buzzwords": [
+      "pure vasopressor",
+      "constricts all vascular beds",
+      "raises systolic and diastolic",
+      "increases vascular resistance",
+      "non-selective for beta",
+      "more alpha than beta",
+      "alpha1 over alpha2",
+      "a1 >> a2"
+    ]
+  },
+  {
+    "id": "pharm-12-3",
+    "title": "Dopamine",
+    "course": "pharm",
+    "brick_id": "12",
+    "brick_title": "Autonomic Nervous System - Vasopressors and Inotropes",
+    "type": "drug",
+    "buzzwords": [
+      "dose-dependent effects",
+      "low dose beta1 inotropy",
+      "high dose alpha effects",
+      "renal vasodilation",
+      "activates D1 and D2",
+      "dopaminergic receptors",
+      "renal vascular beds",
+      "increases cardiac contractility"
+    ]
+  },
+  {
+    "id": "pharm-12-4",
+    "title": "Dobutamine",
+    "course": "pharm",
+    "brick_id": "12",
+    "brick_title": "Autonomic Nervous System - Vasopressors and Inotropes",
+    "type": "drug",
+    "buzzwords": [
+      "inotrope",
+      "increases contractility",
+      "increases cardiac output",
+      "positive chronotrope",
+      "high beta1 affinity",
+      "beta1 over beta2",
+      "raises stroke volume",
+      "selective beta1 agonist"
+    ]
+  },
+  {
+    "id": "pharm-12-5",
+    "title": "Isoproterenol",
+    "course": "pharm",
+    "brick_id": "12",
+    "brick_title": "Autonomic Nervous System - Vasopressors and Inotropes",
+    "type": "drug",
+    "buzzwords": [
+      "increases heart rate",
+      "increases contractility",
+      "bronchodilation",
+      "potent beta agonist",
+      "activates beta1 and beta2",
+      "beta1 equals beta2",
+      "non-selective beta agonist",
+      "relaxes bronchial smooth muscle"
+    ]
+  },
+  {
+    "id": "pharm-12-6",
+    "title": "Adrenergic Receptors",
+    "course": "pharm",
+    "brick_id": "12",
+    "brick_title": "Autonomic Nervous System - Vasopressors and Inotropes",
+    "type": "physiology",
+    "buzzwords": [
+      "GPCR family",
+      "alpha and beta subtypes",
+      "respond to norepinephrine",
+      "all alpha1 are Gq",
+      "all beta are Gs",
+      "alpha2 is Gi",
+      "beta1 raises heart rate",
+      "alpha1 causes vasoconstriction"
+    ]
+  },
+  {
+    "id": "pharm-12-7",
+    "title": "Cholinergic Receptors",
+    "course": "pharm",
+    "brick_id": "12",
+    "brick_title": "Autonomic Nervous System - Vasopressors and Inotropes",
+    "type": "physiology",
+    "buzzwords": [
+      "respond to acetylcholine",
+      "rest and digest",
+      "muscarinic and nicotinic types",
+      "nicotinic are ligand-gated channels",
+      "M1 to M5 subtypes",
+      "no muscarinic Gs receptor",
+      "M2 and M5 are Gi",
+      "M2 slows the heart"
+    ]
+  },
+  {
+    "id": "pharm-13-1",
+    "title": "Cortisol",
+    "course": "pharm",
+    "brick_id": "13",
+    "brick_title": "Steroids",
+    "type": "physiology",
+    "buzzwords": [
+      "endogenous steroid",
+      "maintains blood pressure",
+      "secreted in pulsatile rhythm",
+      "anti-inflammatory",
+      "immunosuppressive",
+      "induces gluconeogenesis",
+      "primary glucocorticoid",
+      "released from zona fasciculata"
+    ]
+  },
+  {
+    "id": "pharm-13-2",
+    "title": "Aldosterone",
+    "course": "pharm",
+    "brick_id": "13",
+    "brick_title": "Steroids",
+    "type": "physiology",
+    "buzzwords": [
+      "regulates salt and water",
+      "expands plasma volume",
+      "acts in collecting duct",
+      "increases sodium reabsorption",
+      "drives potassium secretion",
+      "binds mineralocorticoid receptor",
+      "released from zona glomerulosa",
+      "primary mineralocorticoid"
+    ]
+  },
+  {
+    "id": "pharm-13-3",
+    "title": "HPA Axis",
+    "course": "pharm",
+    "brick_id": "13",
+    "brick_title": "Steroids",
+    "type": "physiology",
+    "buzzwords": [
+      "hormone-modulating center",
+      "stimulates cortisol synthesis",
+      "negative feedback loop",
+      "hypothalamus releases CRH",
+      "CRH triggers ACTH",
+      "ACTH acts on adrenal gland",
+      "suppressed by exogenous steroids",
+      "hypothalamic-pituitary-adrenal"
+    ]
+  },
+  {
+    "id": "pharm-13-4",
+    "title": "11B-HSD2",
+    "course": "pharm",
+    "brick_id": "13",
+    "brick_title": "Steroids",
+    "type": "physiology",
+    "buzzwords": [
+      "protects a receptor",
+      "prevents receptor cross-activation",
+      "inactivates a steroid",
+      "guards mineralocorticoid receptor",
+      "blocks cortisol binding MR",
+      "cortisol 100x aldosterone level",
+      "isozyme 2 enzyme",
+      "11-beta-hydroxysteroid dehydrogenase"
+    ]
+  },
+  {
+    "id": "pharm-13-5",
+    "title": "Dexamethasone",
+    "course": "pharm",
+    "brick_id": "13",
+    "brick_title": "Steroids",
+    "type": "drug",
+    "buzzwords": [
+      "synthetic corticosteroid",
+      "long duration of action",
+      "no mineralocorticoid activity",
+      "high glucocorticoid potency",
+      "potency 30x hydrocortisone",
+      "once-daily dosing possible",
+      "preferred in pediatric asthma",
+      "antenatal lung maturity steroid"
+    ]
+  },
+  {
+    "id": "pharm-13-6",
+    "title": "Steroid Adverse Effects",
+    "course": "pharm",
+    "brick_id": "13",
+    "brick_title": "Steroids",
+    "type": "drug",
+    "buzzwords": [
+      "dose-dependent toxicity",
+      "skin thinning and bruising",
+      "psychiatric disturbances",
+      "increased GI ulcer risk",
+      "adrenal suppression on withdrawal",
+      "most common drug-induced diabetes",
+      "taper to prevent adrenal crisis",
+      "chronic use causes Cushing syndrome"
+    ]
+  },
+  {
+    "id": "pharm-13-7",
+    "title": "Steroid Contraindications",
+    "course": "pharm",
+    "brick_id": "13",
+    "brick_title": "Steroids",
+    "type": "drug",
+    "buzzwords": [
+      "immune-related cautions",
+      "active peptic ulcer disease",
+      "uncontrolled hyperglycemia",
+      "systemic fungal infection",
+      "avoid in glaucoma",
+      "herpes simplex keratitis",
+      "no live attenuated vaccines",
+      "varicella infection contraindicated"
+    ]
+  },
+  {
+    "id": "pharm-15-1",
+    "title": "Statin Mechanism",
+    "course": "pharm",
+    "brick_id": "15",
+    "brick_title": "Antihyperlipidemic Drugs - Statins",
+    "type": "drug",
+    "buzzwords": [
+      "antihyperlipidemic agents",
+      "lower LDL",
+      "rate-limiting step inhibited",
+      "block cholesterol synthesis",
+      "upregulate hepatic LDL-R",
+      "modest HDL rise",
+      "lower VLDL and TGs",
+      "HMG-CoA reductase inhibitor"
+    ]
+  },
+  {
+    "id": "pharm-15-2",
+    "title": "Statin Intensity Classes",
+    "course": "pharm",
+    "brick_id": "15",
+    "brick_title": "Antihyperlipidemic Drugs - Statins",
+    "type": "drug",
+    "buzzwords": [
+      "dose-based classification",
+      "AHA/ACC guidelines",
+      "estimated LDL reduction",
+      "low, moderate, high",
+      "high lowers LDL >50%",
+      "atorvastatin 40-80 mg",
+      "rosuvastatin 20-40 mg",
+      "atorvastatin >40 mg high-intensity"
+    ]
+  },
+  {
+    "id": "pharm-15-3",
+    "title": "SAMS",
+    "course": "pharm",
+    "brick_id": "15",
+    "brick_title": "Antihyperlipidemic Drugs - Statins",
+    "type": "disease",
+    "buzzwords": [
+      "common statin adverse effect",
+      "muscle aches",
+      "elevated CPK",
+      "low vitamin D worsens",
+      "hypothyroidism predisposes",
+      "lowest with pravastatin",
+      "rhabdomyolysis with myoglobinuria",
+      "statin-associated muscle symptoms"
+    ]
+  },
+  {
+    "id": "pharm-15-4",
+    "title": "Statin Adverse Effects",
+    "course": "pharm",
+    "brick_id": "15",
+    "brick_title": "Antihyperlipidemic Drugs - Statins",
+    "type": "drug",
+    "buzzwords": [
+      "hepatic dysfunction",
+      "elevated aminotransferases",
+      "check LFT before starting",
+      "diarrhea",
+      "contraindicated in pregnancy",
+      "avoid in breastfeeding",
+      "raises new-onset diabetes risk",
+      "beta-cell lipotoxicity"
+    ]
+  },
+  {
+    "id": "pharm-15-5",
+    "title": "Statin Drug Interactions",
+    "course": "pharm",
+    "brick_id": "15",
+    "brick_title": "Antihyperlipidemic Drugs - Statins",
+    "type": "drug",
+    "buzzwords": [
+      "CYP3A4 metabolism",
+      "raises myopathy risk",
+      "calcium channel blocker inhibitors",
+      "diltiazem and verapamil",
+      "amiodarone inhibits CYP3A4",
+      "grapefruit juice inhibits CYP3A4",
+      "CYP2D6 affects simvastatin",
+      "daptomycin increases CPK"
+    ]
+  },
+  {
+    "id": "pharm-15-6",
+    "title": "Statin PK/PD Profiles",
+    "course": "pharm",
+    "brick_id": "15",
+    "brick_title": "Antihyperlipidemic Drugs - Statins",
+    "type": "drug",
+    "buzzwords": [
+      "dosing tailored to half-life",
+      "short half-life dosed evening",
+      "long half-life any time",
+      "lipophilic vs hydrophilic",
+      "rosuvastatin is hydrophilic",
+      "minimal hepatic metabolism pitavastatin",
+      "safe in hepatic dysfunction",
+      "simvastatin taken in evening"
+    ]
+  },
+  {
+    "id": "pharm-16-1",
+    "title": "Alpha-Receptor Classification",
+    "course": "pharm",
+    "brick_id": "16",
+    "brick_title": "α–Agonists",
+    "type": "physiology",
+    "buzzwords": [
+      "GPCR adrenergic receptors",
+      "two subtypes",
+      "alpha1 widely distributed",
+      "alpha2 presynaptic",
+      "alpha1 is Gq",
+      "alpha2 is Gi",
+      "Gq raises IP3 and Ca",
+      "Gi lowers cAMP and PKA"
+    ]
+  },
+  {
+    "id": "pharm-16-2",
+    "title": "Phenylephrine",
+    "course": "pharm",
+    "brick_id": "16",
+    "brick_title": "α–Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "selective alpha1 agonist",
+      "vasoconstrictor",
+      "raises blood pressure",
+      "IV vasopressor for shock",
+      "nasal decongestant",
+      "causes mydriasis",
+      "not a catecholamine",
+      "not metabolized by COMT"
+    ]
+  },
+  {
+    "id": "pharm-16-3",
+    "title": "Oxymetazoline",
+    "course": "pharm",
+    "brick_id": "16",
+    "brick_title": "α–Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "alpha1 agonist",
+      "vasoconstrictor",
+      "topical decongestant",
+      "relieves eye redness",
+      "treats facial erythema",
+      "OTC eye drops",
+      "treats minor eye irritation",
+      "topical cream form"
+    ]
+  },
+  {
+    "id": "pharm-16-4",
+    "title": "Clonidine",
+    "course": "pharm",
+    "brick_id": "16",
+    "brick_title": "α–Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "alpha2 agonist",
+      "presynaptic action",
+      "decreases norepinephrine release",
+      "central sympatholytic",
+      "antihypertensive",
+      "treats ADHD",
+      "eases opioid withdrawal",
+      "causes xerostomia and sedation"
+    ]
+  },
+  {
+    "id": "pharm-16-5",
+    "title": "Methyldopa",
+    "course": "pharm",
+    "brick_id": "16",
+    "brick_title": "α–Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "alpha2 agonist",
+      "prodrug",
+      "lowers blood pressure",
+      "decreases sympathetic outflow",
+      "converted to alpha-methylnorepinephrine",
+      "false neurotransmitter",
+      "replaces norepinephrine in vesicles",
+      "hypertension in pregnancy"
+    ]
+  },
+  {
+    "id": "pharm-17-1",
+    "title": "α1-Receptors",
+    "course": "pharm",
+    "brick_id": "17",
+    "brick_title": "α1-Adrenergic Blockers",
+    "type": "physiology",
+    "buzzwords": [
+      "smooth muscle arterioles",
+      "GI and urinary sphincters",
+      "dilator pupillae muscle",
+      "Gq-coupled GPCR",
+      "Ca and CaM signaling",
+      "activation causes vasoconstriction",
+      "prostatic smooth muscle",
+      "subtype α1A predominant"
+    ]
+  },
+  {
+    "id": "pharm-17-2",
+    "title": "Tamsulosin",
+    "course": "pharm",
+    "brick_id": "17",
+    "brick_title": "α1-Adrenergic Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "ends in -osin",
+      "uroselective α1-blocker",
+      "treats BPH symptoms",
+      "relaxes prostatic urethra",
+      "lowest orthostatic risk",
+      "highest IFIS risk",
+      "α1A receptor selective",
+      "tamsulosin"
+    ]
+  },
+  {
+    "id": "pharm-17-3",
+    "title": "Prazosin",
+    "course": "pharm",
+    "brick_id": "17",
+    "brick_title": "α1-Adrenergic Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "ends in -osin",
+      "non-uroselective α1-blocker",
+      "lowers blood pressure",
+      "treats hypertension",
+      "not first-line",
+      "first-dose orthostatic hypotension",
+      "also doxazosin terazosin",
+      "prazosin"
+    ]
+  },
+  {
+    "id": "pharm-17-4",
+    "title": "Phenoxybenzamine",
+    "course": "pharm",
+    "brick_id": "17",
+    "brick_title": "α1-Adrenergic Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "non-selective α-blocker",
+      "blocks α1 and α2",
+      "treats pheochromocytoma",
+      "preoperative blockade",
+      "irreversible antagonist",
+      "long-acting control",
+      "inoperable tumor use",
+      "phenoxybenzamine"
+    ]
+  },
+  {
+    "id": "pharm-17-5",
+    "title": "Phentolamine",
+    "course": "pharm",
+    "brick_id": "17",
+    "brick_title": "α1-Adrenergic Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "non-selective α-blocker",
+      "blocks α1 and α2",
+      "treats pheochromocytoma",
+      "reversible antagonist",
+      "short-acting control",
+      "hypertensive crisis use",
+      "operable patients",
+      "phentolamine"
+    ]
+  },
+  {
+    "id": "pharm-19-1",
+    "title": "Gastric Acid Secretion",
+    "course": "pharm",
+    "brick_id": "19",
+    "brick_title": "Acid Suppression drugs: PPIs and Histamine 2 Receptor Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "parietal cell physiology",
+      "three stimuli",
+      "ACh, histamine, gastrin",
+      "ACh binds M3 receptor",
+      "gastrin from G cells",
+      "histamine from ECL cells",
+      "histamine strongest stimulus",
+      "H+/K+-ATPase final step"
+    ]
+  },
+  {
+    "id": "pharm-19-2",
+    "title": "Proton Pump Inhibitors",
+    "course": "pharm",
+    "brick_id": "19",
+    "brick_title": "Acid Suppression drugs: PPIs and Histamine 2 Receptor Antagonists",
+    "type": "drug",
+    "buzzwords": [
+      "acid suppression",
+      "first-line for GERD",
+      "block final pathway",
+      "irreversible inhibition",
+      "most potent suppressor",
+      "take before meals",
+      "inhibit H+/K+-ATPase",
+      "-prazole suffix"
+    ]
+  },
+  {
+    "id": "pharm-19-3",
+    "title": "H2 Receptor Antagonists",
+    "course": "pharm",
+    "brick_id": "19",
+    "brick_title": "Acid Suppression drugs: PPIs and Histamine 2 Receptor Antagonists",
+    "type": "drug",
+    "buzzwords": [
+      "acid suppression",
+      "less potent than PPIs",
+      "reversible blockade",
+      "blocks one stimulus",
+      "best for nocturnal acid",
+      "block H2 receptors",
+      "-tidine suffix",
+      "famotidine, ranitidine"
+    ]
+  },
+  {
+    "id": "pharm-19-4",
+    "title": "Long-Term PPI Effects",
+    "course": "pharm",
+    "brick_id": "19",
+    "brick_title": "Acid Suppression drugs: PPIs and Histamine 2 Receptor Antagonists",
+    "type": "disease",
+    "buzzwords": [
+      "from chronic acid suppression",
+      "raised gastric pH",
+      "impaired mineral absorption",
+      "hypomagnesemia",
+      "osteoporosis and fractures",
+      "B12 deficiency",
+      "increased infection risk",
+      "C. difficile, pneumonia"
+    ]
+  },
+  {
+    "id": "pharm-19-5",
+    "title": "Cimetidine",
+    "course": "pharm",
+    "brick_id": "19",
+    "brick_title": "Acid Suppression drugs: PPIs and Histamine 2 Receptor Antagonists",
+    "type": "drug",
+    "buzzwords": [
+      "H2 blocker exception",
+      "many adverse effects",
+      "anti-androgenic",
+      "gynecomastia and impotence",
+      "raises prolactin",
+      "potent CYP inhibitor",
+      "crosses placenta",
+      "avoid in pregnancy"
+    ]
+  },
+  {
+    "id": "pharm-20-1",
+    "title": "β1-Agonists",
+    "course": "pharm",
+    "brick_id": "20",
+    "brick_title": "β – Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "adrenergic agonist",
+      "predominant cardiac receptor",
+      "positive inotropy",
+      "positive chronotropy",
+      "Gs raises cAMP and PKA",
+      "increases cardiac contractility",
+      "used in cardiogenic shock",
+      "β1 >> β2 selectivity"
+    ]
+  },
+  {
+    "id": "pharm-20-2",
+    "title": "Dobutamine",
+    "course": "pharm",
+    "brick_id": "20",
+    "brick_title": "β – Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "inotrope",
+      "boosts cardiac contractility",
+      "predominant β1 action",
+      "given in acute heart failure",
+      "ADR: tachycardia, tachyarrhythmia",
+      "can cause peripheral extravasation",
+      "extravasation rescued by phentolamine",
+      "predominant β1 inotrope"
+    ]
+  },
+  {
+    "id": "pharm-20-3",
+    "title": "β2-Agonists",
+    "course": "pharm",
+    "brick_id": "20",
+    "brick_title": "β – Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "bronchodilator",
+      "relaxes bronchiolar smooth muscle",
+      "treats asthma and COPD",
+      "activates Na/K-ATPase, shifts K in",
+      "used off-label for hyperkalemia",
+      "ADR: muscle tremors",
+      "SABA albuterol, LABA salmeterol",
+      "terbutaline as tocolytic"
+    ]
+  },
+  {
+    "id": "pharm-20-4",
+    "title": "Mirabegron",
+    "course": "pharm",
+    "brick_id": "20",
+    "brick_title": "β – Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "selective β3 agonist",
+      "relaxes detrusor smooth muscle",
+      "increases bladder storage capacity",
+      "treats overactive bladder",
+      "ADR: urinary retention",
+      "ADR: hypertension",
+      "avoid in uncontrolled hypertension",
+      "β3 bladder agonist"
+    ]
+  },
+  {
+    "id": "pharm-21-1",
+    "title": "Nitrates",
+    "course": "pharm",
+    "brick_id": "21",
+    "brick_title": "Nitrates",
+    "type": "drug",
+    "buzzwords": [
+      "treat angina",
+      "venodilation",
+      "decrease preload",
+      "lower myocardial oxygen use",
+      "coronary vasodilation",
+      "relax vascular smooth muscle",
+      "converted to nitric oxide",
+      "NO raises cGMP"
+    ]
+  },
+  {
+    "id": "pharm-21-2",
+    "title": "Angina Pectoris",
+    "course": "pharm",
+    "brick_id": "21",
+    "brick_title": "Nitrates",
+    "type": "disease",
+    "buzzwords": [
+      "chest pain",
+      "myocardial ischemia",
+      "atherosclerosis driven",
+      "reduced coronary flow",
+      "supply-demand mismatch",
+      "type of ischemic heart disease",
+      "stable, unstable, vasospastic",
+      "stable = chronic, unstable = acute"
+    ]
+  },
+  {
+    "id": "pharm-21-3",
+    "title": "Short-Acting Nitrates",
+    "course": "pharm",
+    "brick_id": "21",
+    "brick_title": "Nitrates",
+    "type": "drug",
+    "buzzwords": [
+      "rapid onset",
+      "for acute angina",
+      "avoids first-pass metabolism",
+      "sublingual tablet",
+      "translingual spray",
+      "IV nitroglycerin",
+      "IV sodium nitroprusside",
+      "sublingual nitroglycerin"
+    ]
+  },
+  {
+    "id": "pharm-21-4",
+    "title": "Long-Acting Nitrates",
+    "course": "pharm",
+    "brick_id": "21",
+    "brick_title": "Nitrates",
+    "type": "drug",
+    "buzzwords": [
+      "delayed onset",
+      "for chronic angina",
+      "slow sustained release",
+      "undergoes first-pass metabolism",
+      "transdermal patch",
+      "nitroglycerin ointment",
+      "isosorbide mononitrate",
+      "isosorbide dinitrate"
+    ]
+  },
+  {
+    "id": "pharm-21-5",
+    "title": "Nitrate Adverse Effects",
+    "course": "pharm",
+    "brick_id": "21",
+    "brick_title": "Nitrates",
+    "type": "drug",
+    "buzzwords": [
+      "from rapid vasodilation",
+      "monitor blood pressure",
+      "hypotension",
+      "dizziness and fainting",
+      "postural orthostatic drop",
+      "most common: headache",
+      "headache in over 60%",
+      "worse with nitroglycerin"
+    ]
+  },
+  {
+    "id": "pharm-21-6",
+    "title": "Nitrate Tolerance",
+    "course": "pharm",
+    "brick_id": "21",
+    "brick_title": "Nitrates",
+    "type": "physiology",
+    "buzzwords": [
+      "from continuous high doses",
+      "attenuated drug effect",
+      "reduced NO conversion capacity",
+      "patch off 10-12 hours",
+      "ointment dosed 6 hours apart",
+      "prevented by drug-free interval",
+      "10-12 hour nitrate-free interval",
+      "tachyphylaxis"
+    ]
+  },
+  {
+    "id": "pharm-22-1",
+    "title": "PDE-5 Inhibitors",
+    "course": "pharm",
+    "brick_id": "22",
+    "brick_title": "PDE-5 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "treats erectile dysfunction",
+      "enhances smooth muscle relaxation",
+      "increases penile blood flow",
+      "raises cGMP levels",
+      "blocks cGMP breakdown",
+      "also treats pulmonary hypertension",
+      "potentiates nitric oxide pathway",
+      "phosphodiesterase-5 inhibitor"
+    ]
+  },
+  {
+    "id": "pharm-22-2",
+    "title": "Sildenafil",
+    "course": "pharm",
+    "brick_id": "22",
+    "brick_title": "PDE-5 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "most commonly used PDE-5i",
+      "onset 1 hour",
+      "duration 4 hours",
+      "absorption reduced by fatty meals",
+      "first studied for PAH",
+      "metabolized by CYP3A4",
+      "renal dose adjustment",
+      "Viagra"
+    ]
+  },
+  {
+    "id": "pharm-22-3",
+    "title": "Tadalafil",
+    "course": "pharm",
+    "brick_id": "22",
+    "brick_title": "PDE-5 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "longest duration of action",
+      "effective up to 36 hours",
+      "extended half-life",
+      "unaffected by fatty meals",
+      "highest toxicity in renal failure",
+      "concerning with cardiac comorbidities",
+      "needs 24+ hour nitrate washout",
+      "Cialis"
+    ]
+  },
+  {
+    "id": "pharm-22-4",
+    "title": "PDE-5i Adverse Effects",
+    "course": "pharm",
+    "brick_id": "22",
+    "brick_title": "PDE-5 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "from systemic vasodilation",
+      "headache and flushing",
+      "dizziness and hypotension",
+      "dyspepsia from LES relaxation",
+      "acid reflux into esophagus",
+      "severe hypotension with nitrates",
+      "erection lasting over four hours",
+      "priapism"
+    ]
+  },
+  {
+    "id": "pharm-22-5",
+    "title": "Nitrate Contraindication",
+    "course": "pharm",
+    "brick_id": "22",
+    "brick_title": "PDE-5 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "dangerous drug combination",
+      "synergistic vasodilation",
+      "profound blood pressure drop",
+      "both raise cGMP",
+      "risk of fainting and syncope",
+      "avoid within 24 hours",
+      "longer washout for tadalafil",
+      "PDE-5 inhibitors plus nitrates"
+    ]
+  },
+  {
+    "id": "pharm-23-1",
+    "title": "Beta-Blockers",
+    "course": "pharm",
+    "brick_id": "23",
+    "brick_title": "β-Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "sympatholytic drugs",
+      "block adrenergic receptors",
+      "antagonize SNS",
+      "negative inotropy",
+      "negative chronotropy",
+      "lower heart rate",
+      "drug names end in -olol",
+      "β-adrenoceptor blockers"
+    ]
+  },
+  {
+    "id": "pharm-23-2",
+    "title": "Cardioselective Blockers",
+    "course": "pharm",
+    "brick_id": "23",
+    "brick_title": "β-Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "spare the lungs",
+      "preferred in asthma",
+      "act mainly on heart",
+      "β1-selective",
+      "safer in COPD",
+      "first-line in angina",
+      "metoprolol and atenolol",
+      "MAN BABE mnemonic drugs"
+    ]
+  },
+  {
+    "id": "pharm-23-3",
+    "title": "Nonselective Blockers",
+    "course": "pharm",
+    "brick_id": "23",
+    "brick_title": "β-Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "block both receptors",
+      "β1 and β2 antagonism",
+      "risk bronchoconstriction",
+      "avoid in asthma",
+      "treat hyperthyroidism symptoms",
+      "used for performance anxiety",
+      "timolol lowers aqueous humor",
+      "propranolol and nadolol"
+    ]
+  },
+  {
+    "id": "pharm-23-4",
+    "title": "Propranolol",
+    "course": "pharm",
+    "brick_id": "23",
+    "brick_title": "β-Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "nonselective blocker",
+      "highly lipophilic",
+      "large volume of distribution",
+      "crosses blood-brain barrier",
+      "elicits CNS effects",
+      "short plasma half-life",
+      "used for migraine prophylaxis",
+      "treats performance anxiety"
+    ]
+  },
+  {
+    "id": "pharm-23-5",
+    "title": "Esmolol",
+    "course": "pharm",
+    "brick_id": "23",
+    "brick_title": "β-Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "β1-selective blocker",
+      "IV only formulation",
+      "ultra-short acting",
+      "metabolized by blood esterases",
+      "onset within minutes",
+      "rapidly titratable",
+      "useful in acute settings",
+      "duration 5-10 minutes"
+    ]
+  },
+  {
+    "id": "pharm-23-6",
+    "title": "Labetalol",
+    "course": "pharm",
+    "brick_id": "23",
+    "brick_title": "β-Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "nonselective blocker",
+      "weak alpha-1 blockade",
+      "causes vasodilation",
+      "hepatic metabolism",
+      "oral and IV forms",
+      "treats hypertensive emergency",
+      "mixed alpha-beta blocker",
+      "IV onset within 5 minutes"
+    ]
+  },
+  {
+    "id": "pharm-23-7",
+    "title": "Beta-Blocker Adverse Effects",
+    "course": "pharm",
+    "brick_id": "23",
+    "brick_title": "β-Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "bradycardia",
+      "depression and fatigue",
+      "sexual dysfunction",
+      "masks hypoglycemia symptoms",
+      "rebound angina on withdrawal",
+      "worsens AV conduction defects",
+      "bronchoconstriction with β2 blockade",
+      "hyperkalemia in CKD"
+    ]
+  },
+  {
+    "id": "pharm-24-1",
+    "title": "Calcium Channel Blockers",
+    "course": "pharm",
+    "brick_id": "24",
+    "brick_title": "Calcium Channel Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "block Ca2+ influx",
+      "antihypertensive class",
+      "target L-type channels",
+      "voltage-gated channel block",
+      "reduce smooth muscle tone",
+      "CYP3A4 substrates",
+      "DHP vs non-DHP",
+      "grapefruit juice interaction"
+    ]
+  },
+  {
+    "id": "pharm-24-2",
+    "title": "Dihydropyridines",
+    "course": "pharm",
+    "brick_id": "24",
+    "brick_title": "Calcium Channel Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "arterial-selective",
+      "potent vasodilators",
+      "first-line antihypertensives",
+      "minimal cardiac effect",
+      "cause reflex tachycardia",
+      "peripheral edema ADR",
+      "'-dipine' suffix",
+      "amlodipine, nifedipine"
+    ]
+  },
+  {
+    "id": "pharm-24-3",
+    "title": "Non-Dihydropyridines",
+    "course": "pharm",
+    "brick_id": "24",
+    "brick_title": "Calcium Channel Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "cardiac-selective",
+      "negative inotropy",
+      "negative chronotropy",
+      "suppress SA/AV node",
+      "treat arrhythmias",
+      "used for angina",
+      "AV block contraindication",
+      "verapamil, diltiazem"
+    ]
+  },
+  {
+    "id": "pharm-24-4",
+    "title": "Amlodipine",
+    "course": "pharm",
+    "brick_id": "24",
+    "brick_title": "Calcium Channel Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "DHP prototype",
+      "slow absorption",
+      "long half-life",
+      "less reflex tachycardia",
+      "potent vasodilator",
+      "first-line for hypertension",
+      "causes pedal edema",
+      "30-50 hr half-life"
+    ]
+  },
+  {
+    "id": "pharm-24-5",
+    "title": "Verapamil",
+    "course": "pharm",
+    "brick_id": "24",
+    "brick_title": "Calcium Channel Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "non-DHP",
+      "most negative chronotrope",
+      "potent SA nodal suppression",
+      "causes constipation",
+      "antiarrhythmic for SVT",
+      "decreases contractility",
+      "strong CYP3A4 inhibitor",
+      "raises simvastatin levels"
+    ]
+  },
+  {
+    "id": "pharm-24-6",
+    "title": "Diltiazem",
+    "course": "pharm",
+    "brick_id": "24",
+    "brick_title": "Calcium Channel Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "non-DHP",
+      "intermediate profile",
+      "slows AV conduction",
+      "rate control in AFib",
+      "antiarrhythmic",
+      "negative chronotrope",
+      "AV block contraindication",
+      "benzothiazepine class"
+    ]
+  },
+  {
+    "id": "pharm-25-1",
+    "title": "Muscarinic Receptors",
+    "course": "pharm",
+    "brick_id": "25",
+    "brick_title": "Cholinergics and Anticholinergics -1/2",
+    "type": "physiology",
+    "buzzwords": [
+      "GPCR family",
+      "subtypes M1-M5",
+      "bind acetylcholine",
+      "M2 lowers cAMP",
+      "M2 slows heart rate",
+      "M1/M3 are Gq",
+      "M1/M3 raise IP3/Ca",
+      "rest-and-digest effects"
+    ]
+  },
+  {
+    "id": "pharm-25-2",
+    "title": "Direct-Acting Cholinergics",
+    "course": "pharm",
+    "brick_id": "25",
+    "brick_title": "Cholinergics and Anticholinergics -1/2",
+    "type": "drug",
+    "buzzwords": [
+      "mimic acetylcholine",
+      "bind receptors directly",
+      "activate PNS",
+      "modified choline esters",
+      "increase gland secretions",
+      "miosis and bradycardia",
+      "names end in -chol",
+      "resist cholinesterase breakdown"
+    ]
+  },
+  {
+    "id": "pharm-25-3",
+    "title": "Bethanechol",
+    "course": "pharm",
+    "brick_id": "25",
+    "brick_title": "Cholinergics and Anticholinergics -1/2",
+    "type": "drug",
+    "buzzwords": [
+      "choline ester",
+      "contracts detrusor muscle",
+      "relaxes urinary sphincter",
+      "stimulates GI motility",
+      "treats ileus",
+      "treats constipation",
+      "resists cholinesterase",
+      "treats urinary retention"
+    ]
+  },
+  {
+    "id": "pharm-25-4",
+    "title": "Carbachol",
+    "course": "pharm",
+    "brick_id": "25",
+    "brick_title": "Cholinergics and Anticholinergics -1/2",
+    "type": "drug",
+    "buzzwords": [
+      "ophthalmic eye drops",
+      "contracts pupillary sphincter",
+      "causes miosis",
+      "contracts ciliary muscle",
+      "lowers aqueous outflow resistance",
+      "muscarinic agonist",
+      "resists cholinesterase",
+      "treats glaucoma"
+    ]
+  },
+  {
+    "id": "pharm-25-5",
+    "title": "Pilocarpine",
+    "course": "pharm",
+    "brick_id": "25",
+    "brick_title": "Cholinergics and Anticholinergics -1/2",
+    "type": "drug",
+    "buzzwords": [
+      "tertiary amine alkaloid",
+      "crosses blood-brain barrier",
+      "eye drops for glaucoma",
+      "lowers aqueous outflow resistance",
+      "stimulates lacrimal/salivary glands",
+      "treats xerostomia",
+      "post-radiation dry mouth",
+      "Sjogren syndrome"
+    ]
+  },
+  {
+    "id": "pharm-26-1",
+    "title": "Anticholinergics",
+    "course": "pharm",
+    "brick_id": "26",
+    "brick_title": "Cholinergics and Anticholinergics 2/2",
+    "type": "drug",
+    "buzzwords": [
+      "block parasympathetic effects",
+      "competitive inhibition",
+      "no nicotinic blockade",
+      "decreased secretions",
+      "slowed GI motility",
+      "antimuscarinics",
+      "M3 receptor antagonists",
+      "muscarinic antagonists"
+    ]
+  },
+  {
+    "id": "pharm-26-2",
+    "title": "Anticholinergic Toxidrome",
+    "course": "pharm",
+    "brick_id": "26",
+    "brick_title": "Cholinergics and Anticholinergics 2/2",
+    "type": "disease",
+    "buzzwords": [
+      "dry flushed skin",
+      "urinary retention",
+      "mydriasis",
+      "hyperthermia",
+      "delirium and hallucinations",
+      "blind as a bat",
+      "red as a beet",
+      "mad as a hatter"
+    ]
+  },
+  {
+    "id": "pharm-26-3",
+    "title": "Atropine",
+    "course": "pharm",
+    "brick_id": "26",
+    "brick_title": "Cholinergics and Anticholinergics 2/2",
+    "type": "drug",
+    "buzzwords": [
+      "oldest antimuscarinic",
+      "reduces respiratory secretions",
+      "treats bradycardia",
+      "speeds AV conduction",
+      "dilates pupils for exams",
+      "organophosphate antidote",
+      "muscarine mushroom antidote",
+      "from belladonna"
+    ]
+  },
+  {
+    "id": "pharm-26-4",
+    "title": "Scopolamine",
+    "course": "pharm",
+    "brick_id": "26",
+    "brick_title": "Cholinergics and Anticholinergics 2/2",
+    "type": "drug",
+    "buzzwords": [
+      "antimuscarinic agent",
+      "treats nausea",
+      "postsurgical nausea",
+      "replaced every 72 hours",
+      "transdermal patch",
+      "motion sickness",
+      "also called hyoscine",
+      "behind-the-ear patch"
+    ]
+  },
+  {
+    "id": "pharm-26-5",
+    "title": "Inhaled Antimuscarinics",
+    "course": "pharm",
+    "brick_id": "26",
+    "brick_title": "Cholinergics and Anticholinergics 2/2",
+    "type": "drug",
+    "buzzwords": [
+      "block airway muscarinic receptors",
+      "cause bronchodilation",
+      "reduce mucus secretions",
+      "combined with beta-agonists",
+      "treat asthma",
+      "treat COPD",
+      "ipratropium",
+      "tiotropium"
+    ]
+  },
+  {
+    "id": "pharm-26-6",
+    "title": "Oxybutynin",
+    "course": "pharm",
+    "brick_id": "26",
+    "brick_title": "Cholinergics and Anticholinergics 2/2",
+    "type": "drug",
+    "buzzwords": [
+      "blocks bladder M3 receptors",
+      "relaxes detrusor muscle",
+      "slows bladder contractions",
+      "treats urge incontinence",
+      "for overactive bladder",
+      "avoid in elderly",
+      "similar to solifenacin",
+      "tolterodine class"
+    ]
+  },
+  {
+    "id": "pharm-27-1",
+    "title": "Histamine",
+    "course": "pharm",
+    "brick_id": "27",
+    "brick_title": "H1 blockers – Antihistamines",
+    "type": "physiology",
+    "buzzwords": [
+      "local immune mediator",
+      "CNS neurotransmitter",
+      "promotes wakefulness",
+      "causes vasodilation",
+      "triggers itching",
+      "released by allergens",
+      "stored in mast cells",
+      "stored in basophils"
+    ]
+  },
+  {
+    "id": "pharm-27-2",
+    "title": "H1 receptor",
+    "course": "pharm",
+    "brick_id": "27",
+    "brick_title": "H1 blockers – Antihistamines",
+    "type": "physiology",
+    "buzzwords": [
+      "widespread distribution",
+      "on endothelial cells",
+      "drives nasal congestion",
+      "brain promotes wakefulness",
+      "target of antihistamines",
+      "releases nitric oxide",
+      "releases prostacyclin",
+      "blockade causes vasoconstriction"
+    ]
+  },
+  {
+    "id": "pharm-27-3",
+    "title": "First-gen antihistamines",
+    "course": "pharm",
+    "brick_id": "27",
+    "brick_title": "H1 blockers – Antihistamines",
+    "type": "drug",
+    "buzzwords": [
+      "lipophilic",
+      "cross blood-brain barrier",
+      "cause drowsiness",
+      "used for motion sickness",
+      "antimuscarinic side effects",
+      "dry mouth, urinary retention",
+      "off-label sleep aid",
+      "diphenhydramine"
+    ]
+  },
+  {
+    "id": "pharm-27-4",
+    "title": "Second-gen antihistamines",
+    "course": "pharm",
+    "brick_id": "27",
+    "brick_title": "H1 blockers – Antihistamines",
+    "type": "drug",
+    "buzzwords": [
+      "hydrophilic",
+      "non-sedating",
+      "poor CNS penetration",
+      "act peripherally",
+      "minimal antimuscarinic effects",
+      "preferred for daytime allergies",
+      "fexofenadine",
+      "loratadine"
+    ]
+  },
+  {
+    "id": "pharm-28-1",
+    "title": "Reversible AChE inhibitors",
+    "course": "pharm",
+    "brick_id": "28",
+    "brick_title": "Cholinesterase inhibitors and reactivators",
+    "type": "drug",
+    "buzzwords": [
+      "indirect cholinomimetic",
+      "blocks ACh breakdown",
+      "raises synaptic ACh",
+      "activates PNS",
+      "effect is temporary",
+      "no enzyme aging",
+      "carbamoylate AChE",
+      "neostigmine, physostigmine"
+    ]
+  },
+  {
+    "id": "pharm-28-2",
+    "title": "Neostigmine",
+    "course": "pharm",
+    "brick_id": "28",
+    "brick_title": "Cholinesterase inhibitors and reactivators",
+    "type": "drug",
+    "buzzwords": [
+      "reversible AChE inhibitor",
+      "quaternary amine",
+      "does not cross BBB",
+      "no CNS effects",
+      "increases muscle strength",
+      "treats myasthenia gravis",
+      "reverses NMJ blockade",
+      "neostigmine"
+    ]
+  },
+  {
+    "id": "pharm-28-3",
+    "title": "Physostigmine",
+    "course": "pharm",
+    "brick_id": "28",
+    "brick_title": "Cholinesterase inhibitors and reactivators",
+    "type": "drug",
+    "buzzwords": [
+      "reversible AChE inhibitor",
+      "tertiary amine",
+      "crosses the BBB",
+      "treats CNS symptoms",
+      "antidote",
+      "reverses anticholinergic toxicity",
+      "atropine overdose reversal",
+      "physostigmine"
+    ]
+  },
+  {
+    "id": "pharm-28-4",
+    "title": "Organophosphates",
+    "course": "pharm",
+    "brick_id": "28",
+    "brick_title": "Cholinesterase inhibitors and reactivators",
+    "type": "drug",
+    "buzzwords": [
+      "irreversible inhibitor",
+      "highly lipid-soluble",
+      "high volume of distribution",
+      "absorbed through skin",
+      "phosphorylates AChE",
+      "undergoes aging",
+      "insecticides, nerve agents",
+      "parathion, sarin, soman"
+    ]
+  },
+  {
+    "id": "pharm-28-5",
+    "title": "DUMBBELLS toxidrome",
+    "course": "pharm",
+    "brick_id": "28",
+    "brick_title": "Cholinesterase inhibitors and reactivators",
+    "type": "physiology",
+    "buzzwords": [
+      "cholinergic excess",
+      "muscarinic overstimulation",
+      "miosis, bradycardia",
+      "diarrhea, urination",
+      "bronchospasm, lacrimation",
+      "salivation, sweating",
+      "fasciculations, paralysis",
+      "DUMBBELLS"
+    ]
+  },
+  {
+    "id": "pharm-28-6",
+    "title": "Atropine",
+    "course": "pharm",
+    "brick_id": "28",
+    "brick_title": "Cholinesterase inhibitors and reactivators",
+    "type": "drug",
+    "buzzwords": [
+      "muscarinic antagonist",
+      "competitive blocker",
+      "reverses cholinergic toxicity",
+      "dries secretions",
+      "treats bronchoconstriction",
+      "cannot restore enzyme",
+      "organophosphate antidote",
+      "atropine"
+    ]
+  },
+  {
+    "id": "pharm-28-7",
+    "title": "Pralidoxime",
+    "course": "pharm",
+    "brick_id": "28",
+    "brick_title": "Cholinesterase inhibitors and reactivators",
+    "type": "drug",
+    "buzzwords": [
+      "oxime reactivator",
+      "strong nucleophile",
+      "regenerates AChE",
+      "displaces organophosphate",
+      "breaks phosphorus-enzyme bond",
+      "must precede aging",
+      "paired with atropine",
+      "2-PAM"
+    ]
+  },
+  {
+    "id": "pharm-29-1",
+    "title": "Opioid Tolerance",
+    "course": "pharm",
+    "brick_id": "29",
+    "brick_title": "Opioid Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "drug less effective over time",
+      "need higher dose",
+      "receptor desensitization",
+      "receptor downregulation",
+      "blunted pain signaling",
+      "can begin in two weeks",
+      "compensatory adaptation",
+      "tolerance"
+    ]
+  },
+  {
+    "id": "pharm-29-2",
+    "title": "Opioid Dependence",
+    "course": "pharm",
+    "brick_id": "29",
+    "brick_title": "Opioid Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "body adapted to drug",
+      "needed to feel normal",
+      "receptor upregulation",
+      "abrupt stop triggers symptoms",
+      "not the same as addiction",
+      "managed by tapering dose",
+      "common with chronic opioids",
+      "dependence"
+    ]
+  },
+  {
+    "id": "pharm-29-3",
+    "title": "Opioid Withdrawal",
+    "course": "pharm",
+    "brick_id": "29",
+    "brick_title": "Opioid Antagonists",
+    "type": "disease",
+    "buzzwords": [
+      "response to abrupt cessation",
+      "physical and psychological",
+      "anxiety and agitation",
+      "shakiness and muscle pain",
+      "dilated pupils",
+      "tachycardia and hypertension",
+      "locus coeruleus activation",
+      "withdrawal"
+    ]
+  },
+  {
+    "id": "pharm-29-4",
+    "title": "Opioid Use Disorder",
+    "course": "pharm",
+    "brick_id": "29",
+    "brick_title": "Opioid Antagonists",
+    "type": "disease",
+    "buzzwords": [
+      "chronic relapsing brain disease",
+      "compulsive drug seeking",
+      "use despite harm",
+      "8-12% of prescribed patients",
+      "craving and strong desire",
+      "DSM-5 diagnosis",
+      "addiction",
+      "opioid use disorder"
+    ]
+  },
+  {
+    "id": "pharm-29-5",
+    "title": "Opioid Overdose",
+    "course": "pharm",
+    "brick_id": "29",
+    "brick_title": "Opioid Antagonists",
+    "type": "disease",
+    "buzzwords": [
+      "lethal adverse effect",
+      "slowed shallow breathing",
+      "respiratory depression",
+      "bradycardia and hypotension",
+      "blue fingernails and lips",
+      "pinpoint pupils",
+      "may need ACLS",
+      "opioid overdose"
+    ]
+  },
+  {
+    "id": "pharm-29-6",
+    "title": "Naloxone",
+    "course": "pharm",
+    "brick_id": "29",
+    "brick_title": "Opioid Antagonists",
+    "type": "drug",
+    "buzzwords": [
+      "opioid antagonist",
+      "reverses respiratory depression",
+      "blocks all three receptors",
+      "displaces bound agonist",
+      "first-line for overdose",
+      "carried by first responders",
+      "can precipitate withdrawal",
+      "naloxone"
+    ]
+  },
+  {
+    "id": "pharm-29-7",
+    "title": "Methadone",
+    "course": "pharm",
+    "brick_id": "29",
+    "brick_title": "Opioid Antagonists",
+    "type": "drug",
+    "buzzwords": [
+      "long-acting opioid agonist",
+      "ultra-long half-life",
+      "used for maintenance",
+      "milder withdrawal",
+      "prolongs QTc interval",
+      "risk of ventricular arrhythmias",
+      "ECG before starting",
+      "methadone"
+    ]
+  },
+  {
+    "id": "pharm-30-1",
+    "title": "Mu Opioid Receptor",
+    "course": "pharm",
+    "brick_id": "30",
+    "brick_title": "Opioid Agonists",
+    "type": "physiology",
+    "buzzwords": [
+      "GPCR",
+      "primary analgesic target",
+      "respiratory depression",
+      "decreased gastric motility",
+      "constipation",
+      "physical dependence",
+      "euphoria and addiction",
+      "mu receptor"
+    ]
+  },
+  {
+    "id": "pharm-30-2",
+    "title": "Kappa Opioid Receptor",
+    "course": "pharm",
+    "brick_id": "30",
+    "brick_title": "Opioid Agonists",
+    "type": "physiology",
+    "buzzwords": [
+      "GPCR",
+      "modulates analgesia",
+      "regulates food intake",
+      "diuretic effect",
+      "inhibits ADH release",
+      "causes dysphoria",
+      "not for long-term analgesia",
+      "kappa receptor"
+    ]
+  },
+  {
+    "id": "pharm-30-3",
+    "title": "Delta Opioid Receptor",
+    "course": "pharm",
+    "brick_id": "30",
+    "brick_title": "Opioid Agonists",
+    "type": "physiology",
+    "buzzwords": [
+      "GPCR",
+      "provides analgesia",
+      "modulates mood",
+      "antidepressant effects",
+      "anxiolytic effects",
+      "linked to dopamine modulation",
+      "fewest brain regions",
+      "delta receptor"
+    ]
+  },
+  {
+    "id": "pharm-30-4",
+    "title": "Full Agonist",
+    "course": "pharm",
+    "brick_id": "30",
+    "brick_title": "Opioid Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "binds with high affinity",
+      "100% efficacy",
+      "full receptor activation",
+      "wide signaling cascade",
+      "most familiar opioids",
+      "morphine",
+      "fentanyl",
+      "hydromorphone"
+    ]
+  },
+  {
+    "id": "pharm-30-5",
+    "title": "Partial Agonist",
+    "course": "pharm",
+    "brick_id": "30",
+    "brick_title": "Opioid Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "high affinity binding",
+      "lower efficacy",
+      "partial receptor activation",
+      "ceiling effect at high dose",
+      "antagonist-like at high dose",
+      "limits the high",
+      "useful in opioid use disorder",
+      "buprenorphine"
+    ]
+  },
+  {
+    "id": "pharm-30-6",
+    "title": "CYP2D6 Polymorphism",
+    "course": "pharm",
+    "brick_id": "30",
+    "brick_title": "Opioid Agonists",
+    "type": "physiology",
+    "buzzwords": [
+      "altered pharmacogenomics",
+      "codeine to morphine",
+      "ultrarapid metabolizer",
+      "common in Asian descent",
+      "poor metabolizer prolongs effect",
+      "codeine black box warning",
+      "fatal respiratory depression",
+      "CYP2D6"
+    ]
+  },
+  {
+    "id": "pharm-31-1",
+    "title": "ACE Inhibitors",
+    "course": "pharm",
+    "brick_id": "31",
+    "brick_title": "Renin-Angiotensin-Aldosterone System Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "lowers blood pressure",
+      "dilates efferent arteriole",
+      "decreases aldosterone",
+      "raises serum potassium",
+      "blocks Ang I to Ang II",
+      "reduces bradykinin breakdown",
+      "suffix -pril",
+      "lisinopril"
+    ]
+  },
+  {
+    "id": "pharm-31-2",
+    "title": "ARBs",
+    "course": "pharm",
+    "brick_id": "31",
+    "brick_title": "Renin-Angiotensin-Aldosterone System Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "lowers blood pressure",
+      "dilates efferent arteriole",
+      "decreases aldosterone",
+      "blocks Ang II receptor",
+      "less cough than ACE-Is",
+      "lower angioedema risk",
+      "suffix -sartan",
+      "losartan"
+    ]
+  },
+  {
+    "id": "pharm-31-3",
+    "title": "RAAS Pathway",
+    "course": "pharm",
+    "brick_id": "31",
+    "brick_title": "Renin-Angiotensin-Aldosterone System Inhibitors",
+    "type": "physiology",
+    "buzzwords": [
+      "regulates blood pressure",
+      "controls body sodium",
+      "renin released by JG cells",
+      "liver makes angiotensinogen",
+      "ACE acts in lungs",
+      "Ang II causes vasoconstriction",
+      "adrenal releases aldosterone",
+      "stepwise hormonal cascade"
+    ]
+  },
+  {
+    "id": "pharm-31-4",
+    "title": "ACE Inhibitor Cough",
+    "course": "pharm",
+    "brick_id": "31",
+    "brick_title": "Renin-Angiotensin-Aldosterone System Inhibitors",
+    "type": "physiology",
+    "buzzwords": [
+      "dry hacking cough",
+      "common side effect",
+      "no deleterious consequences",
+      "switch to ARB resolves",
+      "can appear years later",
+      "bronchoconstrictive mediator",
+      "blocked bradykinin breakdown",
+      "bradykinin accumulation"
+    ]
+  },
+  {
+    "id": "pharm-31-5",
+    "title": "Angioedema",
+    "course": "pharm",
+    "brick_id": "31",
+    "brick_title": "Renin-Angiotensin-Aldosterone System Inhibitors",
+    "type": "disease",
+    "buzzwords": [
+      "rare serious complication",
+      "lip and tongue swelling",
+      "airway obstruction feared",
+      "can be fatal",
+      "higher risk in Black patients",
+      "bradykinin mediated",
+      "substance P release",
+      "ACE inhibitor associated"
+    ]
+  },
+  {
+    "id": "pharm-31-6",
+    "title": "RAAS Inhibitor Renal Effects",
+    "course": "pharm",
+    "brick_id": "31",
+    "brick_title": "Renin-Angiotensin-Aldosterone System Inhibitors",
+    "type": "physiology",
+    "buzzwords": [
+      "causes hyperkalemia",
+      "acute kidney injury risk",
+      "prerenal AKI mechanism",
+      "decreases GFR",
+      "loss of efferent constriction",
+      "worse with volume depletion",
+      "avoid in bilateral RAS",
+      "contraindicated in pregnancy"
+    ]
+  },
+  {
+    "id": "pharm-32-1",
+    "title": "Metformin",
+    "course": "pharm",
+    "brick_id": "32",
+    "brick_title": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "first-line type 2 DM",
+      "increases insulin sensitivity",
+      "decreases hepatic gluconeogenesis",
+      "stimulates AMPK",
+      "GLUT-4 translocation",
+      "metallic taste",
+      "B12 deficiency",
+      "biguanide"
+    ]
+  },
+  {
+    "id": "pharm-32-2",
+    "title": "GLP-1 RA",
+    "course": "pharm",
+    "brick_id": "32",
+    "brick_title": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "glucose-dependent insulin release",
+      "decreases glucagon",
+      "slows gastric emptying",
+      "increases satiety",
+      "weight loss",
+      "rare pancreatitis",
+      "mimics incretin",
+      "semaglutide, liraglutide"
+    ]
+  },
+  {
+    "id": "pharm-32-3",
+    "title": "SGLT2 Inhibitors",
+    "course": "pharm",
+    "brick_id": "32",
+    "brick_title": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "increases urinary glucose excretion",
+      "insulin-independent",
+      "proximal tubule transporter block",
+      "genital mycotic infections",
+      "volume depletion",
+      "heart failure benefit",
+      "euglycemic DKA",
+      "empagliflozin, dapagliflozin"
+    ]
+  }
+]

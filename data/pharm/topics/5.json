@@ -1,0 +1,146 @@
+[
+  {
+    "id": "pharm-5-1",
+    "title": "Pharmacodynamics",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "what drug does to body",
+      "drug binds a target",
+      "concentration vs effect",
+      "site of action",
+      "downstream signaling",
+      "therapeutic and adverse effects",
+      "opposite of pharmacokinetics",
+      "drug-on-body relationship"
+    ]
+  },
+  {
+    "id": "pharm-5-2",
+    "title": "Agonists",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "drug",
+    "buzzwords": [
+      "binds a receptor",
+      "activates the receptor",
+      "induces cellular action",
+      "ligand triggers effect",
+      "full, partial, inverse types",
+      "differ by efficacy",
+      "differ by intrinsic activity",
+      "albuterol on beta-2"
+    ]
+  },
+  {
+    "id": "pharm-5-3",
+    "title": "Antagonists",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "drug",
+    "buzzwords": [
+      "blocks receptor function",
+      "competes for binding",
+      "no cellular action",
+      "competitive or noncompetitive",
+      "shifts agonist dose-response",
+      "competitive is surmountable",
+      "noncompetitive irreversible",
+      "propranolol blocks beta-receptors"
+    ]
+  },
+  {
+    "id": "pharm-5-4",
+    "title": "Dose-Response Curve",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "lab",
+    "buzzwords": [
+      "dose vs effect plot",
+      "linear scale is hyperbolic",
+      "plateaus at receptor saturation",
+      "semilog scale sigmoidal",
+      "S-shaped curve",
+      "preferred plotting method",
+      "read EC50 off linear portion",
+      "graded dose-response"
+    ]
+  },
+  {
+    "id": "pharm-5-5",
+    "title": "Efficacy",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "maximal response produced",
+      "the ceiling effect",
+      "height of the curve",
+      "independent of dose",
+      "higher curve, more efficacy",
+      "maximum effect of drug",
+      "Emax",
+      "Emax is the plateau"
+    ]
+  },
+  {
+    "id": "pharm-5-6",
+    "title": "Potency",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "amount needed for effect",
+      "less drug means more potent",
+      "leftward curve more potent",
+      "concentration for half-maximal effect",
+      "inversely related to affinity",
+      "lower value, more potent",
+      "EC50",
+      "EC50 measures potency"
+    ]
+  },
+  {
+    "id": "pharm-5-7",
+    "title": "Affinity",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "how tightly drug binds",
+      "fraction bound at concentration",
+      "determines potency",
+      "inverse of dissociation constant",
+      "low value, stronger binding",
+      "higher affinity, lower EC50",
+      "Kd",
+      "Kd of 100 nM albuterol"
+    ]
+  },
+  {
+    "id": "pharm-5-8",
+    "title": "Selectivity vs Specificity",
+    "course": "pharm",
+    "brick_id": "5",
+    "brick_title": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "acts on one system",
+      "specificity is one effect",
+      "selective hits one site",
+      "most drugs are selective",
+      "few are truly specific",
+      "selectivity lost at high concentration",
+      "nonselective propranolol",
+      "selective metoprolol on beta-1"
+    ]
+  }
+]

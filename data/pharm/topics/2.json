@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharm-2-1",
+    "title": "Phase I Biotransformation",
+    "course": "pharm",
+    "brick_id": "2",
+    "brick_title": "Pharmacokinetics 1 - 2 of 3: Drug Metabolism and Excretion",
+    "type": "physiology",
+    "buzzwords": [
+      "modification reactions",
+      "usually inactivates drug",
+      "oxidation, reduction, hydrolysis",
+      "smooth ER of hepatocytes",
+      "can activate prodrugs",
+      "heme cofactor",
+      "absorbs light at 450 nm",
+      "cytochrome P450 (CYP450)"
+    ]
+  },
+  {
+    "id": "pharm-2-2",
+    "title": "Phase II Conjugation",
+    "course": "pharm",
+    "brick_id": "2",
+    "brick_title": "Pharmacokinetics 1 - 2 of 3: Drug Metabolism and Excretion",
+    "type": "physiology",
+    "buzzwords": [
+      "adds functional group",
+      "yields water-soluble metabolite",
+      "performed by transferases",
+      "conjugates amino acids or acetate",
+      "methylation, acetylation, sulfation",
+      "may follow phase I",
+      "produces inactive metabolites",
+      "glucuronidation most common"
+    ]
+  },
+  {
+    "id": "pharm-2-3",
+    "title": "CYP Inhibitors",
+    "course": "pharm",
+    "brick_id": "2",
+    "brick_title": "Pharmacokinetics 1 - 2 of 3: Drug Metabolism and Excretion",
+    "type": "drug",
+    "buzzwords": [
+      "reduce enzyme activity",
+      "decrease drug metabolism",
+      "raise serum drug levels",
+      "risk of toxicity",
+      "azole antifungals, macrolides",
+      "isoniazid, ciprofloxacin, amiodarone",
+      "ketoconazole, cobicistat, omeprazole",
+      "grapefruit juice"
+    ]
+  },
+  {
+    "id": "pharm-2-4",
+    "title": "CYP Inducers",
+    "course": "pharm",
+    "brick_id": "2",
+    "brick_title": "Pharmacokinetics 1 - 2 of 3: Drug Metabolism and Excretion",
+    "type": "drug",
+    "buzzwords": [
+      "increase enzyme activity",
+      "speed up drug metabolism",
+      "lower serum drug levels",
+      "risk of treatment failure",
+      "alcohol and smoking",
+      "anticonvulsants phenytoin, carbamazepine",
+      "rifampin, barbiturates",
+      "St John's wort"
+    ]
+  },
+  {
+    "id": "pharm-2-5",
+    "title": "Renal Excretion",
+    "course": "pharm",
+    "brick_id": "2",
+    "brick_title": "Pharmacokinetics 1 - 2 of 3: Drug Metabolism and Excretion",
+    "type": "physiology",
+    "buzzwords": [
+      "excretes water-soluble metabolites",
+      "drug exits in urine",
+      "drug must be unbound",
+      "glomerular filtration and tubular secretion",
+      "uses organic anion transporters",
+      "secretes penicillin, cephalosporins, methotrexate",
+      "blocked by uricosuric agent",
+      "probenecid inhibits OATs"
+    ]
+  },
+  {
+    "id": "pharm-2-6",
+    "title": "Hepatic Excretion",
+    "course": "pharm",
+    "brick_id": "2",
+    "brick_title": "Pharmacokinetics 1 - 2 of 3: Drug Metabolism and Excretion",
+    "type": "physiology",
+    "buzzwords": [
+      "excretes lipophilic drugs",
+      "metabolites exit in feces",
+      "secreted into bile",
+      "drug reaches gut intestine",
+      "gut bacteria cleave glucuronide",
+      "drug reabsorbed back to liver",
+      "prolongs drug half-life",
+      "enterohepatic circulation"
+    ]
+  }
+]

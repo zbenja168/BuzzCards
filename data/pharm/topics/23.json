@@ -1,0 +1,128 @@
+[
+  {
+    "id": "pharm-23-1",
+    "title": "Beta-Blockers",
+    "course": "pharm",
+    "brick_id": "23",
+    "brick_title": "β-Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "sympatholytic drugs",
+      "block adrenergic receptors",
+      "antagonize SNS",
+      "negative inotropy",
+      "negative chronotropy",
+      "lower heart rate",
+      "drug names end in -olol",
+      "β-adrenoceptor blockers"
+    ]
+  },
+  {
+    "id": "pharm-23-2",
+    "title": "Cardioselective Blockers",
+    "course": "pharm",
+    "brick_id": "23",
+    "brick_title": "β-Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "spare the lungs",
+      "preferred in asthma",
+      "act mainly on heart",
+      "β1-selective",
+      "safer in COPD",
+      "first-line in angina",
+      "metoprolol and atenolol",
+      "MAN BABE mnemonic drugs"
+    ]
+  },
+  {
+    "id": "pharm-23-3",
+    "title": "Nonselective Blockers",
+    "course": "pharm",
+    "brick_id": "23",
+    "brick_title": "β-Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "block both receptors",
+      "β1 and β2 antagonism",
+      "risk bronchoconstriction",
+      "avoid in asthma",
+      "treat hyperthyroidism symptoms",
+      "used for performance anxiety",
+      "timolol lowers aqueous humor",
+      "propranolol and nadolol"
+    ]
+  },
+  {
+    "id": "pharm-23-4",
+    "title": "Propranolol",
+    "course": "pharm",
+    "brick_id": "23",
+    "brick_title": "β-Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "nonselective blocker",
+      "highly lipophilic",
+      "large volume of distribution",
+      "crosses blood-brain barrier",
+      "elicits CNS effects",
+      "short plasma half-life",
+      "used for migraine prophylaxis",
+      "treats performance anxiety"
+    ]
+  },
+  {
+    "id": "pharm-23-5",
+    "title": "Esmolol",
+    "course": "pharm",
+    "brick_id": "23",
+    "brick_title": "β-Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "β1-selective blocker",
+      "IV only formulation",
+      "ultra-short acting",
+      "metabolized by blood esterases",
+      "onset within minutes",
+      "rapidly titratable",
+      "useful in acute settings",
+      "duration 5-10 minutes"
+    ]
+  },
+  {
+    "id": "pharm-23-6",
+    "title": "Labetalol",
+    "course": "pharm",
+    "brick_id": "23",
+    "brick_title": "β-Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "nonselective blocker",
+      "weak alpha-1 blockade",
+      "causes vasodilation",
+      "hepatic metabolism",
+      "oral and IV forms",
+      "treats hypertensive emergency",
+      "mixed alpha-beta blocker",
+      "IV onset within 5 minutes"
+    ]
+  },
+  {
+    "id": "pharm-23-7",
+    "title": "Beta-Blocker Adverse Effects",
+    "course": "pharm",
+    "brick_id": "23",
+    "brick_title": "β-Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "bradycardia",
+      "depression and fatigue",
+      "sexual dysfunction",
+      "masks hypoglycemia symptoms",
+      "rebound angina on withdrawal",
+      "worsens AV conduction defects",
+      "bronchoconstriction with β2 blockade",
+      "hyperkalemia in CKD"
+    ]
+  }
+]

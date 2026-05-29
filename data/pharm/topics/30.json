@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharm-30-1",
+    "title": "Mu Opioid Receptor",
+    "course": "pharm",
+    "brick_id": "30",
+    "brick_title": "Opioid Agonists",
+    "type": "physiology",
+    "buzzwords": [
+      "GPCR",
+      "primary analgesic target",
+      "respiratory depression",
+      "decreased gastric motility",
+      "constipation",
+      "physical dependence",
+      "euphoria and addiction",
+      "mu receptor"
+    ]
+  },
+  {
+    "id": "pharm-30-2",
+    "title": "Kappa Opioid Receptor",
+    "course": "pharm",
+    "brick_id": "30",
+    "brick_title": "Opioid Agonists",
+    "type": "physiology",
+    "buzzwords": [
+      "GPCR",
+      "modulates analgesia",
+      "regulates food intake",
+      "diuretic effect",
+      "inhibits ADH release",
+      "causes dysphoria",
+      "not for long-term analgesia",
+      "kappa receptor"
+    ]
+  },
+  {
+    "id": "pharm-30-3",
+    "title": "Delta Opioid Receptor",
+    "course": "pharm",
+    "brick_id": "30",
+    "brick_title": "Opioid Agonists",
+    "type": "physiology",
+    "buzzwords": [
+      "GPCR",
+      "provides analgesia",
+      "modulates mood",
+      "antidepressant effects",
+      "anxiolytic effects",
+      "linked to dopamine modulation",
+      "fewest brain regions",
+      "delta receptor"
+    ]
+  },
+  {
+    "id": "pharm-30-4",
+    "title": "Full Agonist",
+    "course": "pharm",
+    "brick_id": "30",
+    "brick_title": "Opioid Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "binds with high affinity",
+      "100% efficacy",
+      "full receptor activation",
+      "wide signaling cascade",
+      "most familiar opioids",
+      "morphine",
+      "fentanyl",
+      "hydromorphone"
+    ]
+  },
+  {
+    "id": "pharm-30-5",
+    "title": "Partial Agonist",
+    "course": "pharm",
+    "brick_id": "30",
+    "brick_title": "Opioid Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "high affinity binding",
+      "lower efficacy",
+      "partial receptor activation",
+      "ceiling effect at high dose",
+      "antagonist-like at high dose",
+      "limits the high",
+      "useful in opioid use disorder",
+      "buprenorphine"
+    ]
+  },
+  {
+    "id": "pharm-30-6",
+    "title": "CYP2D6 Polymorphism",
+    "course": "pharm",
+    "brick_id": "30",
+    "brick_title": "Opioid Agonists",
+    "type": "physiology",
+    "buzzwords": [
+      "altered pharmacogenomics",
+      "codeine to morphine",
+      "ultrarapid metabolizer",
+      "common in Asian descent",
+      "poor metabolizer prolongs effect",
+      "codeine black box warning",
+      "fatal respiratory depression",
+      "CYP2D6"
+    ]
+  }
+]

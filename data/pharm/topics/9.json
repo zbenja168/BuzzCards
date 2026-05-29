@@ -1,0 +1,56 @@
+[
+  {
+    "id": "pharm-9-1",
+    "title": "Loading Dose",
+    "course": "pharm",
+    "brick_id": "9",
+    "brick_title": "Pharmacokinetics-3: Loading and Maintenance Dose",
+    "type": "physiology",
+    "buzzwords": [
+      "larger initial dose",
+      "reaches Css faster",
+      "depends on Vd",
+      "needed for large Vd drugs",
+      "achieves effective minimum quickly",
+      "Cp x Vd / F",
+      "lipophilic drugs need it",
+      "amiodarone, digoxin"
+    ]
+  },
+  {
+    "id": "pharm-9-2",
+    "title": "Maintenance Dose",
+    "course": "pharm",
+    "brick_id": "9",
+    "brick_title": "Pharmacokinetics-3: Loading and Maintenance Dose",
+    "type": "physiology",
+    "buzzwords": [
+      "keeps drug at Css",
+      "prevents drug toxicity",
+      "depends on clearance",
+      "most drugs need it",
+      "switch to it after loading",
+      "modified per patient",
+      "Cp x CL x tau / F",
+      "skipping causes toxicity"
+    ]
+  },
+  {
+    "id": "pharm-9-3",
+    "title": "Steady-State Concentration",
+    "course": "pharm",
+    "brick_id": "9",
+    "brick_title": "Pharmacokinetics-3: Loading and Maintenance Dose",
+    "type": "physiology",
+    "buzzwords": [
+      "reached after 4-5 half-lives",
+      "input equals elimination",
+      "target therapeutic level",
+      "above minimum effective concentration",
+      "doubling infusion rate doubles it",
+      "loading dose reaches it fast",
+      "regular dosing builds it slowly",
+      "denoted Css"
+    ]
+  }
+]

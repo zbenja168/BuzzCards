@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharm-26-1",
+    "title": "Anticholinergics",
+    "course": "pharm",
+    "brick_id": "26",
+    "brick_title": "Cholinergics and Anticholinergics 2/2",
+    "type": "drug",
+    "buzzwords": [
+      "block parasympathetic effects",
+      "competitive inhibition",
+      "no nicotinic blockade",
+      "decreased secretions",
+      "slowed GI motility",
+      "antimuscarinics",
+      "M3 receptor antagonists",
+      "muscarinic antagonists"
+    ]
+  },
+  {
+    "id": "pharm-26-2",
+    "title": "Anticholinergic Toxidrome",
+    "course": "pharm",
+    "brick_id": "26",
+    "brick_title": "Cholinergics and Anticholinergics 2/2",
+    "type": "disease",
+    "buzzwords": [
+      "dry flushed skin",
+      "urinary retention",
+      "mydriasis",
+      "hyperthermia",
+      "delirium and hallucinations",
+      "blind as a bat",
+      "red as a beet",
+      "mad as a hatter"
+    ]
+  },
+  {
+    "id": "pharm-26-3",
+    "title": "Atropine",
+    "course": "pharm",
+    "brick_id": "26",
+    "brick_title": "Cholinergics and Anticholinergics 2/2",
+    "type": "drug",
+    "buzzwords": [
+      "oldest antimuscarinic",
+      "reduces respiratory secretions",
+      "treats bradycardia",
+      "speeds AV conduction",
+      "dilates pupils for exams",
+      "organophosphate antidote",
+      "muscarine mushroom antidote",
+      "from belladonna"
+    ]
+  },
+  {
+    "id": "pharm-26-4",
+    "title": "Scopolamine",
+    "course": "pharm",
+    "brick_id": "26",
+    "brick_title": "Cholinergics and Anticholinergics 2/2",
+    "type": "drug",
+    "buzzwords": [
+      "antimuscarinic agent",
+      "treats nausea",
+      "postsurgical nausea",
+      "replaced every 72 hours",
+      "transdermal patch",
+      "motion sickness",
+      "also called hyoscine",
+      "behind-the-ear patch"
+    ]
+  },
+  {
+    "id": "pharm-26-5",
+    "title": "Inhaled Antimuscarinics",
+    "course": "pharm",
+    "brick_id": "26",
+    "brick_title": "Cholinergics and Anticholinergics 2/2",
+    "type": "drug",
+    "buzzwords": [
+      "block airway muscarinic receptors",
+      "cause bronchodilation",
+      "reduce mucus secretions",
+      "combined with beta-agonists",
+      "treat asthma",
+      "treat COPD",
+      "ipratropium",
+      "tiotropium"
+    ]
+  },
+  {
+    "id": "pharm-26-6",
+    "title": "Oxybutynin",
+    "course": "pharm",
+    "brick_id": "26",
+    "brick_title": "Cholinergics and Anticholinergics 2/2",
+    "type": "drug",
+    "buzzwords": [
+      "blocks bladder M3 receptors",
+      "relaxes detrusor muscle",
+      "slows bladder contractions",
+      "treats urge incontinence",
+      "for overactive bladder",
+      "avoid in elderly",
+      "similar to solifenacin",
+      "tolterodine class"
+    ]
+  }
+]

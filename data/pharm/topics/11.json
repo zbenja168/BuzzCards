@@ -1,0 +1,74 @@
+[
+  {
+    "id": "pharm-11-1",
+    "title": "Acetaminophen",
+    "course": "pharm",
+    "brick_id": "11",
+    "brick_title": "Nonopioid Analgesics – Acetaminophen",
+    "type": "drug",
+    "buzzwords": [
+      "nonopioid analgesic",
+      "antipyretic",
+      "weak anti-inflammatory",
+      "central COX inhibition",
+      "raises pain threshold",
+      "not an NSAID",
+      "no antiplatelet effect",
+      "reversible noncompetitive COX inhibitor"
+    ]
+  },
+  {
+    "id": "pharm-11-2",
+    "title": "Acetaminophen Metabolism",
+    "course": "pharm",
+    "brick_id": "11",
+    "brick_title": "Nonopioid Analgesics – Acetaminophen",
+    "type": "physiology",
+    "buzzwords": [
+      "hepatic metabolism",
+      "half-life ~2 hours",
+      "mostly phase II conjugation",
+      "glucuronidation and sulfation",
+      "minor P450 route",
+      "toxic intermediate normally detoxified",
+      "CYP2E1 forms NAPQI",
+      "glutathione conjugates NAPQI"
+    ]
+  },
+  {
+    "id": "pharm-11-3",
+    "title": "NAPQI Hepatotoxicity",
+    "course": "pharm",
+    "brick_id": "11",
+    "brick_title": "Nonopioid Analgesics – Acetaminophen",
+    "type": "disease",
+    "buzzwords": [
+      "overdose injury",
+      "conjugation pathways saturated",
+      "glutathione depleted",
+      "hepatocyte protein adducts",
+      "centrilobular necrosis",
+      "rising transaminases",
+      "alcohol and isoniazid worsen it",
+      "toxic NAPQI metabolite"
+    ]
+  },
+  {
+    "id": "pharm-11-4",
+    "title": "N-acetylcysteine",
+    "course": "pharm",
+    "brick_id": "11",
+    "brick_title": "Nonopioid Analgesics – Acetaminophen",
+    "type": "drug",
+    "buzzwords": [
+      "overdose antidote",
+      "give within 16 hours",
+      "restores glutathione",
+      "provides cysteine",
+      "scavenges free radicals",
+      "boosts mitochondrial ATP",
+      "flushing and urticaria possible",
+      "NAC"
+    ]
+  }
+]

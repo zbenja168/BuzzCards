@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharm-8-1",
+    "title": "Volume of Distribution",
+    "course": "pharm",
+    "brick_id": "8",
+    "brick_title": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+    "type": "physiology",
+    "buzzwords": [
+      "theoretical volume",
+      "dose over peak concentration",
+      "dose / Cmax",
+      "low value confined to plasma",
+      "high value sequestered in fat",
+      "increased in pregnancy",
+      "amiodarone has high value",
+      "Vd"
+    ]
+  },
+  {
+    "id": "pharm-8-2",
+    "title": "Zero-Order Kinetics",
+    "course": "pharm",
+    "brick_id": "8",
+    "brick_title": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+    "type": "physiology",
+    "buzzwords": [
+      "constant amount per time",
+      "rate independent of concentration",
+      "saturable elimination",
+      "linear concentration-time plot",
+      "no true half-life",
+      "ethanol metabolism",
+      "phenytoin and aspirin",
+      "PEA mnemonic"
+    ]
+  },
+  {
+    "id": "pharm-8-3",
+    "title": "First-Order Kinetics",
+    "course": "pharm",
+    "brick_id": "8",
+    "brick_title": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+    "type": "physiology",
+    "buzzwords": [
+      "most common pattern",
+      "constant fraction per time",
+      "rate proportional to concentration",
+      "exponential decay curve",
+      "linear when plotted as ln",
+      "has constant half-life",
+      "higher concentration faster elimination",
+      "first-order elimination"
+    ]
+  },
+  {
+    "id": "pharm-8-4",
+    "title": "Half-Life",
+    "course": "pharm",
+    "brick_id": "8",
+    "brick_title": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+    "type": "physiology",
+    "buzzwords": [
+      "time to halve concentration",
+      "only in first-order drugs",
+      "inverse of elimination rate constant",
+      "0.693 / kel",
+      "0.693 x Vd / CL",
+      "sets time to steady state",
+      "4-5 to reach steady state",
+      "t1/2"
+    ]
+  },
+  {
+    "id": "pharm-8-5",
+    "title": "Clearance",
+    "course": "pharm",
+    "brick_id": "8",
+    "brick_title": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+    "type": "physiology",
+    "buzzwords": [
+      "blood volume cleared per time",
+      "expressed as a rate",
+      "mL/h or L/h",
+      "Vd times kel",
+      "dose over AUC",
+      "smaller AUC means higher value",
+      "falls with reduced blood flow",
+      "CL"
+    ]
+  },
+  {
+    "id": "pharm-8-6",
+    "title": "Steady-State Concentration",
+    "course": "pharm",
+    "brick_id": "8",
+    "brick_title": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+    "type": "physiology",
+    "buzzwords": [
+      "intake equals elimination",
+      "reached with repeated dosing",
+      "dosing rate over clearance",
+      "higher dose raises level",
+      "longer interval lowers level",
+      "peak and trough oscillation",
+      "attained after 4-5 half-lives",
+      "Css"
+    ]
+  }
+]

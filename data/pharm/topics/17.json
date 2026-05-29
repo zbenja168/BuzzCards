@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pharm-17-1",
+    "title": "α1-Receptors",
+    "course": "pharm",
+    "brick_id": "17",
+    "brick_title": "α1-Adrenergic Blockers",
+    "type": "physiology",
+    "buzzwords": [
+      "smooth muscle arterioles",
+      "GI and urinary sphincters",
+      "dilator pupillae muscle",
+      "Gq-coupled GPCR",
+      "Ca and CaM signaling",
+      "activation causes vasoconstriction",
+      "prostatic smooth muscle",
+      "subtype α1A predominant"
+    ]
+  },
+  {
+    "id": "pharm-17-2",
+    "title": "Tamsulosin",
+    "course": "pharm",
+    "brick_id": "17",
+    "brick_title": "α1-Adrenergic Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "ends in -osin",
+      "uroselective α1-blocker",
+      "treats BPH symptoms",
+      "relaxes prostatic urethra",
+      "lowest orthostatic risk",
+      "highest IFIS risk",
+      "α1A receptor selective",
+      "tamsulosin"
+    ]
+  },
+  {
+    "id": "pharm-17-3",
+    "title": "Prazosin",
+    "course": "pharm",
+    "brick_id": "17",
+    "brick_title": "α1-Adrenergic Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "ends in -osin",
+      "non-uroselective α1-blocker",
+      "lowers blood pressure",
+      "treats hypertension",
+      "not first-line",
+      "first-dose orthostatic hypotension",
+      "also doxazosin terazosin",
+      "prazosin"
+    ]
+  },
+  {
+    "id": "pharm-17-4",
+    "title": "Phenoxybenzamine",
+    "course": "pharm",
+    "brick_id": "17",
+    "brick_title": "α1-Adrenergic Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "non-selective α-blocker",
+      "blocks α1 and α2",
+      "treats pheochromocytoma",
+      "preoperative blockade",
+      "irreversible antagonist",
+      "long-acting control",
+      "inoperable tumor use",
+      "phenoxybenzamine"
+    ]
+  },
+  {
+    "id": "pharm-17-5",
+    "title": "Phentolamine",
+    "course": "pharm",
+    "brick_id": "17",
+    "brick_title": "α1-Adrenergic Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "non-selective α-blocker",
+      "blocks α1 and α2",
+      "treats pheochromocytoma",
+      "reversible antagonist",
+      "short-acting control",
+      "hypertensive crisis use",
+      "operable patients",
+      "phentolamine"
+    ]
+  }
+]

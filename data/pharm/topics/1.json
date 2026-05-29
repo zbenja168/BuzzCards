@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharm-1-1",
+    "title": "ADME",
+    "course": "pharm",
+    "brick_id": "1",
+    "brick_title": "Pharmacokinetics 1 - Drug absorption and distribution",
+    "type": "physiology",
+    "buzzwords": [
+      "drug time course",
+      "what body does to drug",
+      "four sequential stages",
+      "absorption",
+      "distribution",
+      "metabolism then excretion",
+      "core of pharmacokinetics",
+      "ADME"
+    ]
+  },
+  {
+    "id": "pharm-1-2",
+    "title": "Enteral routes",
+    "course": "pharm",
+    "brick_id": "1",
+    "brick_title": "Pharmacokinetics 1 - Drug absorption and distribution",
+    "type": "physiology",
+    "buzzwords": [
+      "into the GI tract",
+      "oral most common",
+      "absorbed at small intestine",
+      "convenient and cost-effective",
+      "sublingual bypasses liver",
+      "rectal partly avoids portal vein",
+      "from Greek enteron",
+      "oral, sublingual, rectal"
+    ]
+  },
+  {
+    "id": "pharm-1-3",
+    "title": "Parenteral routes",
+    "course": "pharm",
+    "brick_id": "1",
+    "brick_title": "Pharmacokinetics 1 - Drug absorption and distribution",
+    "type": "physiology",
+    "buzzwords": [
+      "beside the enteron",
+      "outside the GI tract",
+      "rapid onset desired",
+      "IV gives full bioavailability",
+      "IM depot for sustained dose",
+      "subcutaneous slow steady release",
+      "insulin and heparin SC",
+      "IV, IM, subcutaneous"
+    ]
+  },
+  {
+    "id": "pharm-1-4",
+    "title": "Bioavailability",
+    "course": "pharm",
+    "brick_id": "1",
+    "brick_title": "Pharmacokinetics 1 - Drug absorption and distribution",
+    "type": "physiology",
+    "buzzwords": [
+      "fraction reaching circulation",
+      "reported as percentage",
+      "affected by route",
+      "lowered by first-pass",
+      "IV is 100 percent",
+      "denoted F",
+      "F of 1.0 for IV",
+      "extravascular relative to IV"
+    ]
+  },
+  {
+    "id": "pharm-1-5",
+    "title": "First-pass metabolism",
+    "course": "pharm",
+    "brick_id": "1",
+    "brick_title": "Pharmacokinetics 1 - Drug absorption and distribution",
+    "type": "physiology",
+    "buzzwords": [
+      "lowers oral bioavailability",
+      "occurs before circulation",
+      "hepatic portal vein delivery",
+      "metabolized by liver enzymes",
+      "up to 90 percent lost",
+      "bypassed by sublingual route",
+      "oral average F 0.7",
+      "first-pass effect"
+    ]
+  },
+  {
+    "id": "pharm-1-6",
+    "title": "Drug distribution",
+    "course": "pharm",
+    "brick_id": "1",
+    "brick_title": "Pharmacokinetics 1 - Drug absorption and distribution",
+    "type": "physiology",
+    "buzzwords": [
+      "drug dispersed through body",
+      "depends on blood flow",
+      "fast to brain and kidney",
+      "lipophilic accumulate in fat",
+      "crosses blood-brain barrier",
+      "only free drug is active",
+      "bound fraction is reservoir",
+      "albumin binds 95-98 percent"
+    ]
+  }
+]

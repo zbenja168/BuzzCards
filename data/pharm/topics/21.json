@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharm-21-1",
+    "title": "Nitrates",
+    "course": "pharm",
+    "brick_id": "21",
+    "brick_title": "Nitrates",
+    "type": "drug",
+    "buzzwords": [
+      "treat angina",
+      "venodilation",
+      "decrease preload",
+      "lower myocardial oxygen use",
+      "coronary vasodilation",
+      "relax vascular smooth muscle",
+      "converted to nitric oxide",
+      "NO raises cGMP"
+    ]
+  },
+  {
+    "id": "pharm-21-2",
+    "title": "Angina Pectoris",
+    "course": "pharm",
+    "brick_id": "21",
+    "brick_title": "Nitrates",
+    "type": "disease",
+    "buzzwords": [
+      "chest pain",
+      "myocardial ischemia",
+      "atherosclerosis driven",
+      "reduced coronary flow",
+      "supply-demand mismatch",
+      "type of ischemic heart disease",
+      "stable, unstable, vasospastic",
+      "stable = chronic, unstable = acute"
+    ]
+  },
+  {
+    "id": "pharm-21-3",
+    "title": "Short-Acting Nitrates",
+    "course": "pharm",
+    "brick_id": "21",
+    "brick_title": "Nitrates",
+    "type": "drug",
+    "buzzwords": [
+      "rapid onset",
+      "for acute angina",
+      "avoids first-pass metabolism",
+      "sublingual tablet",
+      "translingual spray",
+      "IV nitroglycerin",
+      "IV sodium nitroprusside",
+      "sublingual nitroglycerin"
+    ]
+  },
+  {
+    "id": "pharm-21-4",
+    "title": "Long-Acting Nitrates",
+    "course": "pharm",
+    "brick_id": "21",
+    "brick_title": "Nitrates",
+    "type": "drug",
+    "buzzwords": [
+      "delayed onset",
+      "for chronic angina",
+      "slow sustained release",
+      "undergoes first-pass metabolism",
+      "transdermal patch",
+      "nitroglycerin ointment",
+      "isosorbide mononitrate",
+      "isosorbide dinitrate"
+    ]
+  },
+  {
+    "id": "pharm-21-5",
+    "title": "Nitrate Adverse Effects",
+    "course": "pharm",
+    "brick_id": "21",
+    "brick_title": "Nitrates",
+    "type": "drug",
+    "buzzwords": [
+      "from rapid vasodilation",
+      "monitor blood pressure",
+      "hypotension",
+      "dizziness and fainting",
+      "postural orthostatic drop",
+      "most common: headache",
+      "headache in over 60%",
+      "worse with nitroglycerin"
+    ]
+  },
+  {
+    "id": "pharm-21-6",
+    "title": "Nitrate Tolerance",
+    "course": "pharm",
+    "brick_id": "21",
+    "brick_title": "Nitrates",
+    "type": "physiology",
+    "buzzwords": [
+      "from continuous high doses",
+      "attenuated drug effect",
+      "reduced NO conversion capacity",
+      "patch off 10-12 hours",
+      "ointment dosed 6 hours apart",
+      "prevented by drug-free interval",
+      "10-12 hour nitrate-free interval",
+      "tachyphylaxis"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pharm-7-1",
+    "title": "Aspirin COX Inhibition",
+    "course": "pharm",
+    "brick_id": "7",
+    "brick_title": "Nonopioid Analgesics – Aspirin",
+    "type": "drug",
+    "buzzwords": [
+      "nonopioid analgesic",
+      "antipyretic",
+      "non-selective COX inhibitor",
+      "acetylsalicylic acid",
+      "acetylates serine",
+      "irreversible inhibition",
+      "high dose blocks COX-2",
+      "converts COX-1 to lipoxygenase"
+    ]
+  },
+  {
+    "id": "pharm-7-2",
+    "title": "Antiplatelet Action",
+    "course": "pharm",
+    "brick_id": "7",
+    "brick_title": "Nonopioid Analgesics – Aspirin",
+    "type": "drug",
+    "buzzwords": [
+      "prevents clots",
+      "cardiovascular protection",
+      "low dose effective",
+      "81mg daily",
+      "blocks platelet aggregation",
+      "inhibits thromboxane A2",
+      "platelets lack DNA",
+      "effect lasts platelet lifespan"
+    ]
+  },
+  {
+    "id": "pharm-7-3",
+    "title": "Aspirin Pharmacokinetics",
+    "course": "pharm",
+    "brick_id": "7",
+    "brick_title": "Nonopioid Analgesics – Aspirin",
+    "type": "drug",
+    "buzzwords": [
+      "weak acid",
+      "pKa 3.5",
+      "absorbed in stomach",
+      "hydrolyzed to salicylate",
+      "renally cleared",
+      "alkaline urine speeds clearance",
+      "overdose saturates enzymes",
+      "zero-order kinetics in overdose"
+    ]
+  },
+  {
+    "id": "pharm-7-4",
+    "title": "Aspirin Adverse Effects",
+    "course": "pharm",
+    "brick_id": "7",
+    "brick_title": "Nonopioid Analgesics – Aspirin",
+    "type": "drug",
+    "buzzwords": [
+      "gastric irritation",
+      "peptic ulcer risk",
+      "GI bleeding",
+      "blocks gastroprotective prostaglandins",
+      "high-dose tinnitus",
+      "metabolic acidosis in overdose",
+      "hypersensitivity reactions",
+      "aspirin-exacerbated respiratory disease"
+    ]
+  },
+  {
+    "id": "pharm-7-5",
+    "title": "Reye Syndrome",
+    "course": "pharm",
+    "brick_id": "7",
+    "brick_title": "Nonopioid Analgesics – Aspirin",
+    "type": "disease",
+    "buzzwords": [
+      "rare but fatal",
+      "avoid aspirin in children",
+      "follows viral infection",
+      "under 18 years",
+      "rapid hepatic degeneration",
+      "fatty liver",
+      "encephalopathy",
+      "Reye syndrome"
+    ]
+  }
+]

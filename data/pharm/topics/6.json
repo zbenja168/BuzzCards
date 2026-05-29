@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharm-6-1",
+    "title": "Physiologic Antagonism",
+    "course": "pharm",
+    "brick_id": "6",
+    "brick_title": "Pharmacodynamics2: Quantal Dose Response and Therapeutic Index",
+    "type": "physiology",
+    "buzzwords": [
+      "two drugs oppose",
+      "no receptor competition",
+      "different receptors",
+      "opposite physiologic effect",
+      "functional antagonism",
+      "counteracts via separate pathway",
+      "maintains homeostasis",
+      "glucagon vs insulin"
+    ]
+  },
+  {
+    "id": "pharm-6-2",
+    "title": "Chemical Antagonism",
+    "course": "pharm",
+    "brick_id": "6",
+    "brick_title": "Pharmacodynamics2: Quantal Dose Response and Therapeutic Index",
+    "type": "physiology",
+    "buzzwords": [
+      "one drug inactivates another",
+      "direct chemical reaction",
+      "no receptor involved",
+      "no enzyme inhibition",
+      "binds and neutralizes",
+      "antacid neutralizes acid",
+      "chelators bind metals",
+      "deferoxamine binds iron"
+    ]
+  },
+  {
+    "id": "pharm-6-3",
+    "title": "Quantal Dose-Response",
+    "course": "pharm",
+    "brick_id": "6",
+    "brick_title": "Pharmacodynamics2: Quantal Dose Response and Therapeutic Index",
+    "type": "physiology",
+    "buzzwords": [
+      "population-level response",
+      "all-or-none outcome",
+      "present or absent effect",
+      "proportion responding",
+      "frequency curve, Gaussian",
+      "cumulative gives sigmoid",
+      "dose in mg/kg",
+      "defines ED50"
+    ]
+  },
+  {
+    "id": "pharm-6-4",
+    "title": "Therapeutic Index",
+    "course": "pharm",
+    "brick_id": "6",
+    "brick_title": "Pharmacodynamics2: Quantal Dose Response and Therapeutic Index",
+    "type": "physiology",
+    "buzzwords": [
+      "measures drug safety",
+      "higher means safer",
+      "guides monitoring need",
+      "narrow needs monitoring",
+      "ratio of two doses",
+      "toxic over effective dose",
+      "TI = TD50 / ED50",
+      "warfarin has narrow TI"
+    ]
+  },
+  {
+    "id": "pharm-6-5",
+    "title": "Therapeutic Window",
+    "course": "pharm",
+    "brick_id": "6",
+    "brick_title": "Pharmacodynamics2: Quantal Dose Response and Therapeutic Index",
+    "type": "physiology",
+    "buzzwords": [
+      "safe dosing range",
+      "concentration range, not ratio",
+      "above min effective conc",
+      "below min toxic conc",
+      "wider is safer",
+      "narrow needs monitoring",
+      "ibuprofen wide window",
+      "warfarin narrow window"
+    ]
+  },
+  {
+    "id": "pharm-6-6",
+    "title": "Margin of Safety",
+    "course": "pharm",
+    "brick_id": "6",
+    "brick_title": "Pharmacodynamics2: Quantal Dose Response and Therapeutic Index",
+    "type": "physiology",
+    "buzzwords": [
+      "accounts for curve slopes",
+      "uses extreme percentiles",
+      "from animal preclinical studies",
+      "lethal in 1% of animals",
+      "effective in 99%",
+      "guides human starting dose",
+      "LD1 numerator",
+      "MOS = LD1 / ED99"
+    ]
+  }
+]

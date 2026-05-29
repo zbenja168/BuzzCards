@@ -1,0 +1,56 @@
+[
+  {
+    "id": "pharm-32-1",
+    "title": "Metformin",
+    "course": "pharm",
+    "brick_id": "32",
+    "brick_title": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "first-line type 2 DM",
+      "increases insulin sensitivity",
+      "decreases hepatic gluconeogenesis",
+      "stimulates AMPK",
+      "GLUT-4 translocation",
+      "metallic taste",
+      "B12 deficiency",
+      "biguanide"
+    ]
+  },
+  {
+    "id": "pharm-32-2",
+    "title": "GLP-1 RA",
+    "course": "pharm",
+    "brick_id": "32",
+    "brick_title": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "glucose-dependent insulin release",
+      "decreases glucagon",
+      "slows gastric emptying",
+      "increases satiety",
+      "weight loss",
+      "rare pancreatitis",
+      "mimics incretin",
+      "semaglutide, liraglutide"
+    ]
+  },
+  {
+    "id": "pharm-32-3",
+    "title": "SGLT2 Inhibitors",
+    "course": "pharm",
+    "brick_id": "32",
+    "brick_title": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "increases urinary glucose excretion",
+      "insulin-independent",
+      "proximal tubule transporter block",
+      "genital mycotic infections",
+      "volume depletion",
+      "heart failure benefit",
+      "euglycemic DKA",
+      "empagliflozin, dapagliflozin"
+    ]
+  }
+]

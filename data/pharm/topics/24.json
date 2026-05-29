@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharm-24-1",
+    "title": "Calcium Channel Blockers",
+    "course": "pharm",
+    "brick_id": "24",
+    "brick_title": "Calcium Channel Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "block Ca2+ influx",
+      "antihypertensive class",
+      "target L-type channels",
+      "voltage-gated channel block",
+      "reduce smooth muscle tone",
+      "CYP3A4 substrates",
+      "DHP vs non-DHP",
+      "grapefruit juice interaction"
+    ]
+  },
+  {
+    "id": "pharm-24-2",
+    "title": "Dihydropyridines",
+    "course": "pharm",
+    "brick_id": "24",
+    "brick_title": "Calcium Channel Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "arterial-selective",
+      "potent vasodilators",
+      "first-line antihypertensives",
+      "minimal cardiac effect",
+      "cause reflex tachycardia",
+      "peripheral edema ADR",
+      "'-dipine' suffix",
+      "amlodipine, nifedipine"
+    ]
+  },
+  {
+    "id": "pharm-24-3",
+    "title": "Non-Dihydropyridines",
+    "course": "pharm",
+    "brick_id": "24",
+    "brick_title": "Calcium Channel Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "cardiac-selective",
+      "negative inotropy",
+      "negative chronotropy",
+      "suppress SA/AV node",
+      "treat arrhythmias",
+      "used for angina",
+      "AV block contraindication",
+      "verapamil, diltiazem"
+    ]
+  },
+  {
+    "id": "pharm-24-4",
+    "title": "Amlodipine",
+    "course": "pharm",
+    "brick_id": "24",
+    "brick_title": "Calcium Channel Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "DHP prototype",
+      "slow absorption",
+      "long half-life",
+      "less reflex tachycardia",
+      "potent vasodilator",
+      "first-line for hypertension",
+      "causes pedal edema",
+      "30-50 hr half-life"
+    ]
+  },
+  {
+    "id": "pharm-24-5",
+    "title": "Verapamil",
+    "course": "pharm",
+    "brick_id": "24",
+    "brick_title": "Calcium Channel Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "non-DHP",
+      "most negative chronotrope",
+      "potent SA nodal suppression",
+      "causes constipation",
+      "antiarrhythmic for SVT",
+      "decreases contractility",
+      "strong CYP3A4 inhibitor",
+      "raises simvastatin levels"
+    ]
+  },
+  {
+    "id": "pharm-24-6",
+    "title": "Diltiazem",
+    "course": "pharm",
+    "brick_id": "24",
+    "brick_title": "Calcium Channel Blockers",
+    "type": "drug",
+    "buzzwords": [
+      "non-DHP",
+      "intermediate profile",
+      "slows AV conduction",
+      "rate control in AFib",
+      "antiarrhythmic",
+      "negative chronotrope",
+      "AV block contraindication",
+      "benzothiazepine class"
+    ]
+  }
+]

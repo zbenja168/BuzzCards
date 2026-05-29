@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharm-31-1",
+    "title": "ACE Inhibitors",
+    "course": "pharm",
+    "brick_id": "31",
+    "brick_title": "Renin-Angiotensin-Aldosterone System Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "lowers blood pressure",
+      "dilates efferent arteriole",
+      "decreases aldosterone",
+      "raises serum potassium",
+      "blocks Ang I to Ang II",
+      "reduces bradykinin breakdown",
+      "suffix -pril",
+      "lisinopril"
+    ]
+  },
+  {
+    "id": "pharm-31-2",
+    "title": "ARBs",
+    "course": "pharm",
+    "brick_id": "31",
+    "brick_title": "Renin-Angiotensin-Aldosterone System Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "lowers blood pressure",
+      "dilates efferent arteriole",
+      "decreases aldosterone",
+      "blocks Ang II receptor",
+      "less cough than ACE-Is",
+      "lower angioedema risk",
+      "suffix -sartan",
+      "losartan"
+    ]
+  },
+  {
+    "id": "pharm-31-3",
+    "title": "RAAS Pathway",
+    "course": "pharm",
+    "brick_id": "31",
+    "brick_title": "Renin-Angiotensin-Aldosterone System Inhibitors",
+    "type": "physiology",
+    "buzzwords": [
+      "regulates blood pressure",
+      "controls body sodium",
+      "renin released by JG cells",
+      "liver makes angiotensinogen",
+      "ACE acts in lungs",
+      "Ang II causes vasoconstriction",
+      "adrenal releases aldosterone",
+      "stepwise hormonal cascade"
+    ]
+  },
+  {
+    "id": "pharm-31-4",
+    "title": "ACE Inhibitor Cough",
+    "course": "pharm",
+    "brick_id": "31",
+    "brick_title": "Renin-Angiotensin-Aldosterone System Inhibitors",
+    "type": "physiology",
+    "buzzwords": [
+      "dry hacking cough",
+      "common side effect",
+      "no deleterious consequences",
+      "switch to ARB resolves",
+      "can appear years later",
+      "bronchoconstrictive mediator",
+      "blocked bradykinin breakdown",
+      "bradykinin accumulation"
+    ]
+  },
+  {
+    "id": "pharm-31-5",
+    "title": "Angioedema",
+    "course": "pharm",
+    "brick_id": "31",
+    "brick_title": "Renin-Angiotensin-Aldosterone System Inhibitors",
+    "type": "disease",
+    "buzzwords": [
+      "rare serious complication",
+      "lip and tongue swelling",
+      "airway obstruction feared",
+      "can be fatal",
+      "higher risk in Black patients",
+      "bradykinin mediated",
+      "substance P release",
+      "ACE inhibitor associated"
+    ]
+  },
+  {
+    "id": "pharm-31-6",
+    "title": "RAAS Inhibitor Renal Effects",
+    "course": "pharm",
+    "brick_id": "31",
+    "brick_title": "Renin-Angiotensin-Aldosterone System Inhibitors",
+    "type": "physiology",
+    "buzzwords": [
+      "causes hyperkalemia",
+      "acute kidney injury risk",
+      "prerenal AKI mechanism",
+      "decreases GFR",
+      "loss of efferent constriction",
+      "worse with volume depletion",
+      "avoid in bilateral RAS",
+      "contraindicated in pregnancy"
+    ]
+  }
+]

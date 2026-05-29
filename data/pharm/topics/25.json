@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pharm-25-1",
+    "title": "Muscarinic Receptors",
+    "course": "pharm",
+    "brick_id": "25",
+    "brick_title": "Cholinergics and Anticholinergics -1/2",
+    "type": "physiology",
+    "buzzwords": [
+      "GPCR family",
+      "subtypes M1-M5",
+      "bind acetylcholine",
+      "M2 lowers cAMP",
+      "M2 slows heart rate",
+      "M1/M3 are Gq",
+      "M1/M3 raise IP3/Ca",
+      "rest-and-digest effects"
+    ]
+  },
+  {
+    "id": "pharm-25-2",
+    "title": "Direct-Acting Cholinergics",
+    "course": "pharm",
+    "brick_id": "25",
+    "brick_title": "Cholinergics and Anticholinergics -1/2",
+    "type": "drug",
+    "buzzwords": [
+      "mimic acetylcholine",
+      "bind receptors directly",
+      "activate PNS",
+      "modified choline esters",
+      "increase gland secretions",
+      "miosis and bradycardia",
+      "names end in -chol",
+      "resist cholinesterase breakdown"
+    ]
+  },
+  {
+    "id": "pharm-25-3",
+    "title": "Bethanechol",
+    "course": "pharm",
+    "brick_id": "25",
+    "brick_title": "Cholinergics and Anticholinergics -1/2",
+    "type": "drug",
+    "buzzwords": [
+      "choline ester",
+      "contracts detrusor muscle",
+      "relaxes urinary sphincter",
+      "stimulates GI motility",
+      "treats ileus",
+      "treats constipation",
+      "resists cholinesterase",
+      "treats urinary retention"
+    ]
+  },
+  {
+    "id": "pharm-25-4",
+    "title": "Carbachol",
+    "course": "pharm",
+    "brick_id": "25",
+    "brick_title": "Cholinergics and Anticholinergics -1/2",
+    "type": "drug",
+    "buzzwords": [
+      "ophthalmic eye drops",
+      "contracts pupillary sphincter",
+      "causes miosis",
+      "contracts ciliary muscle",
+      "lowers aqueous outflow resistance",
+      "muscarinic agonist",
+      "resists cholinesterase",
+      "treats glaucoma"
+    ]
+  },
+  {
+    "id": "pharm-25-5",
+    "title": "Pilocarpine",
+    "course": "pharm",
+    "brick_id": "25",
+    "brick_title": "Cholinergics and Anticholinergics -1/2",
+    "type": "drug",
+    "buzzwords": [
+      "tertiary amine alkaloid",
+      "crosses blood-brain barrier",
+      "eye drops for glaucoma",
+      "lowers aqueous outflow resistance",
+      "stimulates lacrimal/salivary glands",
+      "treats xerostomia",
+      "post-radiation dry mouth",
+      "Sjogren syndrome"
+    ]
+  }
+]

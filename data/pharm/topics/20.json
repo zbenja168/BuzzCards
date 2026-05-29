@@ -1,0 +1,74 @@
+[
+  {
+    "id": "pharm-20-1",
+    "title": "β1-Agonists",
+    "course": "pharm",
+    "brick_id": "20",
+    "brick_title": "β – Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "adrenergic agonist",
+      "predominant cardiac receptor",
+      "positive inotropy",
+      "positive chronotropy",
+      "Gs raises cAMP and PKA",
+      "increases cardiac contractility",
+      "used in cardiogenic shock",
+      "β1 >> β2 selectivity"
+    ]
+  },
+  {
+    "id": "pharm-20-2",
+    "title": "Dobutamine",
+    "course": "pharm",
+    "brick_id": "20",
+    "brick_title": "β – Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "inotrope",
+      "boosts cardiac contractility",
+      "predominant β1 action",
+      "given in acute heart failure",
+      "ADR: tachycardia, tachyarrhythmia",
+      "can cause peripheral extravasation",
+      "extravasation rescued by phentolamine",
+      "predominant β1 inotrope"
+    ]
+  },
+  {
+    "id": "pharm-20-3",
+    "title": "β2-Agonists",
+    "course": "pharm",
+    "brick_id": "20",
+    "brick_title": "β – Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "bronchodilator",
+      "relaxes bronchiolar smooth muscle",
+      "treats asthma and COPD",
+      "activates Na/K-ATPase, shifts K in",
+      "used off-label for hyperkalemia",
+      "ADR: muscle tremors",
+      "SABA albuterol, LABA salmeterol",
+      "terbutaline as tocolytic"
+    ]
+  },
+  {
+    "id": "pharm-20-4",
+    "title": "Mirabegron",
+    "course": "pharm",
+    "brick_id": "20",
+    "brick_title": "β – Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "selective β3 agonist",
+      "relaxes detrusor smooth muscle",
+      "increases bladder storage capacity",
+      "treats overactive bladder",
+      "ADR: urinary retention",
+      "ADR: hypertension",
+      "avoid in uncontrolled hypertension",
+      "β3 bladder agonist"
+    ]
+  }
+]

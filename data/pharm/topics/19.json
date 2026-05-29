@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pharm-19-1",
+    "title": "Gastric Acid Secretion",
+    "course": "pharm",
+    "brick_id": "19",
+    "brick_title": "Acid Suppression drugs: PPIs and Histamine 2 Receptor Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "parietal cell physiology",
+      "three stimuli",
+      "ACh, histamine, gastrin",
+      "ACh binds M3 receptor",
+      "gastrin from G cells",
+      "histamine from ECL cells",
+      "histamine strongest stimulus",
+      "H+/K+-ATPase final step"
+    ]
+  },
+  {
+    "id": "pharm-19-2",
+    "title": "Proton Pump Inhibitors",
+    "course": "pharm",
+    "brick_id": "19",
+    "brick_title": "Acid Suppression drugs: PPIs and Histamine 2 Receptor Antagonists",
+    "type": "drug",
+    "buzzwords": [
+      "acid suppression",
+      "first-line for GERD",
+      "block final pathway",
+      "irreversible inhibition",
+      "most potent suppressor",
+      "take before meals",
+      "inhibit H+/K+-ATPase",
+      "-prazole suffix"
+    ]
+  },
+  {
+    "id": "pharm-19-3",
+    "title": "H2 Receptor Antagonists",
+    "course": "pharm",
+    "brick_id": "19",
+    "brick_title": "Acid Suppression drugs: PPIs and Histamine 2 Receptor Antagonists",
+    "type": "drug",
+    "buzzwords": [
+      "acid suppression",
+      "less potent than PPIs",
+      "reversible blockade",
+      "blocks one stimulus",
+      "best for nocturnal acid",
+      "block H2 receptors",
+      "-tidine suffix",
+      "famotidine, ranitidine"
+    ]
+  },
+  {
+    "id": "pharm-19-4",
+    "title": "Long-Term PPI Effects",
+    "course": "pharm",
+    "brick_id": "19",
+    "brick_title": "Acid Suppression drugs: PPIs and Histamine 2 Receptor Antagonists",
+    "type": "disease",
+    "buzzwords": [
+      "from chronic acid suppression",
+      "raised gastric pH",
+      "impaired mineral absorption",
+      "hypomagnesemia",
+      "osteoporosis and fractures",
+      "B12 deficiency",
+      "increased infection risk",
+      "C. difficile, pneumonia"
+    ]
+  },
+  {
+    "id": "pharm-19-5",
+    "title": "Cimetidine",
+    "course": "pharm",
+    "brick_id": "19",
+    "brick_title": "Acid Suppression drugs: PPIs and Histamine 2 Receptor Antagonists",
+    "type": "drug",
+    "buzzwords": [
+      "H2 blocker exception",
+      "many adverse effects",
+      "anti-androgenic",
+      "gynecomastia and impotence",
+      "raises prolactin",
+      "potent CYP inhibitor",
+      "crosses placenta",
+      "avoid in pregnancy"
+    ]
+  }
+]

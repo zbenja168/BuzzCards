@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharm-4-1",
+    "title": "NSAIDs",
+    "course": "pharm",
+    "brick_id": "4",
+    "brick_title": "Nonopioid Analgesics-NSAIDs",
+    "type": "drug",
+    "buzzwords": [
+      "analgesic",
+      "antipyretic",
+      "anti-inflammatory",
+      "block prostaglandin synthesis",
+      "inhibit cyclooxygenase",
+      "act on arachidonic acid pathway",
+      "competitive reversible inhibitors",
+      "block COX-1 and COX-2"
+    ]
+  },
+  {
+    "id": "pharm-4-2",
+    "title": "COX-1",
+    "course": "pharm",
+    "brick_id": "4",
+    "brick_title": "Nonopioid Analgesics-NSAIDs",
+    "type": "physiology",
+    "buzzwords": [
+      "constitutive enzyme",
+      "maintains homeostasis",
+      "gastric mucous secretion",
+      "platelet activity",
+      "GI cytoprotection",
+      "dilates renal arteries",
+      "makes PGI2 and PGE2",
+      "constitutive cyclooxygenase"
+    ]
+  },
+  {
+    "id": "pharm-4-3",
+    "title": "COX-2",
+    "course": "pharm",
+    "brick_id": "4",
+    "brick_title": "Nonopioid Analgesics-NSAIDs",
+    "type": "physiology",
+    "buzzwords": [
+      "inducible enzyme",
+      "expressed in inflammation",
+      "drives pain and fever",
+      "macrophage differentiation",
+      "produces inflammatory PGs",
+      "induced by tissue injury",
+      "target of coxibs",
+      "inducible cyclooxygenase"
+    ]
+  },
+  {
+    "id": "pharm-4-4",
+    "title": "Aspirin",
+    "course": "pharm",
+    "brick_id": "4",
+    "brick_title": "Nonopioid Analgesics-NSAIDs",
+    "type": "drug",
+    "buzzwords": [
+      "salicylate NSAID",
+      "irreversible COX inhibitor",
+      "antiplatelet drug",
+      "prevents clots",
+      "stroke prevention",
+      "post-MI prophylaxis",
+      "acetylsalicylic acid",
+      "unique MOA among NSAIDs"
+    ]
+  },
+  {
+    "id": "pharm-4-5",
+    "title": "COX-2 Inhibitors",
+    "course": "pharm",
+    "brick_id": "4",
+    "brick_title": "Nonopioid Analgesics-NSAIDs",
+    "type": "drug",
+    "buzzwords": [
+      "names end in -coxib",
+      "spares the stomach",
+      "low GI side effects",
+      "increased cardiovascular risk",
+      "inhibits prostacyclin",
+      "promotes thrombosis",
+      "withdrawn in early 2000s",
+      "celecoxib"
+    ]
+  },
+  {
+    "id": "pharm-4-6",
+    "title": "NSAID Adverse Effects",
+    "course": "pharm",
+    "brick_id": "4",
+    "brick_title": "Nonopioid Analgesics-NSAIDs",
+    "type": "disease",
+    "buzzwords": [
+      "loss of cytoprotection",
+      "peptic ulcer disease",
+      "reduced GFR",
+      "acute kidney injury",
+      "raises blood pressure",
+      "bleeding with warfarin",
+      "contraindicated 3rd trimester",
+      "premature ductus closure"
+    ]
+  }
+]

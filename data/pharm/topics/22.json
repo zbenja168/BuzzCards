@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pharm-22-1",
+    "title": "PDE-5 Inhibitors",
+    "course": "pharm",
+    "brick_id": "22",
+    "brick_title": "PDE-5 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "treats erectile dysfunction",
+      "enhances smooth muscle relaxation",
+      "increases penile blood flow",
+      "raises cGMP levels",
+      "blocks cGMP breakdown",
+      "also treats pulmonary hypertension",
+      "potentiates nitric oxide pathway",
+      "phosphodiesterase-5 inhibitor"
+    ]
+  },
+  {
+    "id": "pharm-22-2",
+    "title": "Sildenafil",
+    "course": "pharm",
+    "brick_id": "22",
+    "brick_title": "PDE-5 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "most commonly used PDE-5i",
+      "onset 1 hour",
+      "duration 4 hours",
+      "absorption reduced by fatty meals",
+      "first studied for PAH",
+      "metabolized by CYP3A4",
+      "renal dose adjustment",
+      "Viagra"
+    ]
+  },
+  {
+    "id": "pharm-22-3",
+    "title": "Tadalafil",
+    "course": "pharm",
+    "brick_id": "22",
+    "brick_title": "PDE-5 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "longest duration of action",
+      "effective up to 36 hours",
+      "extended half-life",
+      "unaffected by fatty meals",
+      "highest toxicity in renal failure",
+      "concerning with cardiac comorbidities",
+      "needs 24+ hour nitrate washout",
+      "Cialis"
+    ]
+  },
+  {
+    "id": "pharm-22-4",
+    "title": "PDE-5i Adverse Effects",
+    "course": "pharm",
+    "brick_id": "22",
+    "brick_title": "PDE-5 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "from systemic vasodilation",
+      "headache and flushing",
+      "dizziness and hypotension",
+      "dyspepsia from LES relaxation",
+      "acid reflux into esophagus",
+      "severe hypotension with nitrates",
+      "erection lasting over four hours",
+      "priapism"
+    ]
+  },
+  {
+    "id": "pharm-22-5",
+    "title": "Nitrate Contraindication",
+    "course": "pharm",
+    "brick_id": "22",
+    "brick_title": "PDE-5 Inhibitors",
+    "type": "drug",
+    "buzzwords": [
+      "dangerous drug combination",
+      "synergistic vasodilation",
+      "profound blood pressure drop",
+      "both raise cGMP",
+      "risk of fainting and syncope",
+      "avoid within 24 hours",
+      "longer washout for tadalafil",
+      "PDE-5 inhibitors plus nitrates"
+    ]
+  }
+]

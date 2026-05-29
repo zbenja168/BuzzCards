@@ -1,0 +1,74 @@
+[
+  {
+    "id": "pharm-27-1",
+    "title": "Histamine",
+    "course": "pharm",
+    "brick_id": "27",
+    "brick_title": "H1 blockers – Antihistamines",
+    "type": "physiology",
+    "buzzwords": [
+      "local immune mediator",
+      "CNS neurotransmitter",
+      "promotes wakefulness",
+      "causes vasodilation",
+      "triggers itching",
+      "released by allergens",
+      "stored in mast cells",
+      "stored in basophils"
+    ]
+  },
+  {
+    "id": "pharm-27-2",
+    "title": "H1 receptor",
+    "course": "pharm",
+    "brick_id": "27",
+    "brick_title": "H1 blockers – Antihistamines",
+    "type": "physiology",
+    "buzzwords": [
+      "widespread distribution",
+      "on endothelial cells",
+      "drives nasal congestion",
+      "brain promotes wakefulness",
+      "target of antihistamines",
+      "releases nitric oxide",
+      "releases prostacyclin",
+      "blockade causes vasoconstriction"
+    ]
+  },
+  {
+    "id": "pharm-27-3",
+    "title": "First-gen antihistamines",
+    "course": "pharm",
+    "brick_id": "27",
+    "brick_title": "H1 blockers – Antihistamines",
+    "type": "drug",
+    "buzzwords": [
+      "lipophilic",
+      "cross blood-brain barrier",
+      "cause drowsiness",
+      "used for motion sickness",
+      "antimuscarinic side effects",
+      "dry mouth, urinary retention",
+      "off-label sleep aid",
+      "diphenhydramine"
+    ]
+  },
+  {
+    "id": "pharm-27-4",
+    "title": "Second-gen antihistamines",
+    "course": "pharm",
+    "brick_id": "27",
+    "brick_title": "H1 blockers – Antihistamines",
+    "type": "drug",
+    "buzzwords": [
+      "hydrophilic",
+      "non-sedating",
+      "poor CNS penetration",
+      "act peripherally",
+      "minimal antimuscarinic effects",
+      "preferred for daytime allergies",
+      "fexofenadine",
+      "loratadine"
+    ]
+  }
+]

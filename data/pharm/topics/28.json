@@ -1,0 +1,128 @@
+[
+  {
+    "id": "pharm-28-1",
+    "title": "Reversible AChE inhibitors",
+    "course": "pharm",
+    "brick_id": "28",
+    "brick_title": "Cholinesterase inhibitors and reactivators",
+    "type": "drug",
+    "buzzwords": [
+      "indirect cholinomimetic",
+      "blocks ACh breakdown",
+      "raises synaptic ACh",
+      "activates PNS",
+      "effect is temporary",
+      "no enzyme aging",
+      "carbamoylate AChE",
+      "neostigmine, physostigmine"
+    ]
+  },
+  {
+    "id": "pharm-28-2",
+    "title": "Neostigmine",
+    "course": "pharm",
+    "brick_id": "28",
+    "brick_title": "Cholinesterase inhibitors and reactivators",
+    "type": "drug",
+    "buzzwords": [
+      "reversible AChE inhibitor",
+      "quaternary amine",
+      "does not cross BBB",
+      "no CNS effects",
+      "increases muscle strength",
+      "treats myasthenia gravis",
+      "reverses NMJ blockade",
+      "neostigmine"
+    ]
+  },
+  {
+    "id": "pharm-28-3",
+    "title": "Physostigmine",
+    "course": "pharm",
+    "brick_id": "28",
+    "brick_title": "Cholinesterase inhibitors and reactivators",
+    "type": "drug",
+    "buzzwords": [
+      "reversible AChE inhibitor",
+      "tertiary amine",
+      "crosses the BBB",
+      "treats CNS symptoms",
+      "antidote",
+      "reverses anticholinergic toxicity",
+      "atropine overdose reversal",
+      "physostigmine"
+    ]
+  },
+  {
+    "id": "pharm-28-4",
+    "title": "Organophosphates",
+    "course": "pharm",
+    "brick_id": "28",
+    "brick_title": "Cholinesterase inhibitors and reactivators",
+    "type": "drug",
+    "buzzwords": [
+      "irreversible inhibitor",
+      "highly lipid-soluble",
+      "high volume of distribution",
+      "absorbed through skin",
+      "phosphorylates AChE",
+      "undergoes aging",
+      "insecticides, nerve agents",
+      "parathion, sarin, soman"
+    ]
+  },
+  {
+    "id": "pharm-28-5",
+    "title": "DUMBBELLS toxidrome",
+    "course": "pharm",
+    "brick_id": "28",
+    "brick_title": "Cholinesterase inhibitors and reactivators",
+    "type": "physiology",
+    "buzzwords": [
+      "cholinergic excess",
+      "muscarinic overstimulation",
+      "miosis, bradycardia",
+      "diarrhea, urination",
+      "bronchospasm, lacrimation",
+      "salivation, sweating",
+      "fasciculations, paralysis",
+      "DUMBBELLS"
+    ]
+  },
+  {
+    "id": "pharm-28-6",
+    "title": "Atropine",
+    "course": "pharm",
+    "brick_id": "28",
+    "brick_title": "Cholinesterase inhibitors and reactivators",
+    "type": "drug",
+    "buzzwords": [
+      "muscarinic antagonist",
+      "competitive blocker",
+      "reverses cholinergic toxicity",
+      "dries secretions",
+      "treats bronchoconstriction",
+      "cannot restore enzyme",
+      "organophosphate antidote",
+      "atropine"
+    ]
+  },
+  {
+    "id": "pharm-28-7",
+    "title": "Pralidoxime",
+    "course": "pharm",
+    "brick_id": "28",
+    "brick_title": "Cholinesterase inhibitors and reactivators",
+    "type": "drug",
+    "buzzwords": [
+      "oxime reactivator",
+      "strong nucleophile",
+      "regenerates AChE",
+      "displaces organophosphate",
+      "breaks phosphorus-enzyme bond",
+      "must precede aging",
+      "paired with atropine",
+      "2-PAM"
+    ]
+  }
+]

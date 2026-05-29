@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharm-15-1",
+    "title": "Statin Mechanism",
+    "course": "pharm",
+    "brick_id": "15",
+    "brick_title": "Antihyperlipidemic Drugs - Statins",
+    "type": "drug",
+    "buzzwords": [
+      "antihyperlipidemic agents",
+      "lower LDL",
+      "rate-limiting step inhibited",
+      "block cholesterol synthesis",
+      "upregulate hepatic LDL-R",
+      "modest HDL rise",
+      "lower VLDL and TGs",
+      "HMG-CoA reductase inhibitor"
+    ]
+  },
+  {
+    "id": "pharm-15-2",
+    "title": "Statin Intensity Classes",
+    "course": "pharm",
+    "brick_id": "15",
+    "brick_title": "Antihyperlipidemic Drugs - Statins",
+    "type": "drug",
+    "buzzwords": [
+      "dose-based classification",
+      "AHA/ACC guidelines",
+      "estimated LDL reduction",
+      "low, moderate, high",
+      "high lowers LDL >50%",
+      "atorvastatin 40-80 mg",
+      "rosuvastatin 20-40 mg",
+      "atorvastatin >40 mg high-intensity"
+    ]
+  },
+  {
+    "id": "pharm-15-3",
+    "title": "SAMS",
+    "course": "pharm",
+    "brick_id": "15",
+    "brick_title": "Antihyperlipidemic Drugs - Statins",
+    "type": "disease",
+    "buzzwords": [
+      "common statin adverse effect",
+      "muscle aches",
+      "elevated CPK",
+      "low vitamin D worsens",
+      "hypothyroidism predisposes",
+      "lowest with pravastatin",
+      "rhabdomyolysis with myoglobinuria",
+      "statin-associated muscle symptoms"
+    ]
+  },
+  {
+    "id": "pharm-15-4",
+    "title": "Statin Adverse Effects",
+    "course": "pharm",
+    "brick_id": "15",
+    "brick_title": "Antihyperlipidemic Drugs - Statins",
+    "type": "drug",
+    "buzzwords": [
+      "hepatic dysfunction",
+      "elevated aminotransferases",
+      "check LFT before starting",
+      "diarrhea",
+      "contraindicated in pregnancy",
+      "avoid in breastfeeding",
+      "raises new-onset diabetes risk",
+      "beta-cell lipotoxicity"
+    ]
+  },
+  {
+    "id": "pharm-15-5",
+    "title": "Statin Drug Interactions",
+    "course": "pharm",
+    "brick_id": "15",
+    "brick_title": "Antihyperlipidemic Drugs - Statins",
+    "type": "drug",
+    "buzzwords": [
+      "CYP3A4 metabolism",
+      "raises myopathy risk",
+      "calcium channel blocker inhibitors",
+      "diltiazem and verapamil",
+      "amiodarone inhibits CYP3A4",
+      "grapefruit juice inhibits CYP3A4",
+      "CYP2D6 affects simvastatin",
+      "daptomycin increases CPK"
+    ]
+  },
+  {
+    "id": "pharm-15-6",
+    "title": "Statin PK/PD Profiles",
+    "course": "pharm",
+    "brick_id": "15",
+    "brick_title": "Antihyperlipidemic Drugs - Statins",
+    "type": "drug",
+    "buzzwords": [
+      "dosing tailored to half-life",
+      "short half-life dosed evening",
+      "long half-life any time",
+      "lipophilic vs hydrophilic",
+      "rosuvastatin is hydrophilic",
+      "minimal hepatic metabolism pitavastatin",
+      "safe in hepatic dysfunction",
+      "simvastatin taken in evening"
+    ]
+  }
+]

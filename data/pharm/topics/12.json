@@ -1,0 +1,128 @@
+[
+  {
+    "id": "pharm-12-1",
+    "title": "Epinephrine",
+    "course": "pharm",
+    "brick_id": "12",
+    "brick_title": "Autonomic Nervous System - Vasopressors and Inotropes",
+    "type": "drug",
+    "buzzwords": [
+      "sympathomimetic",
+      "positive inotrope",
+      "positive chronotrope",
+      "bronchodilation",
+      "raises systolic BP",
+      "equal alpha and beta",
+      "skeletal muscle vasodilation",
+      "ACLS cardiac arrest drug"
+    ]
+  },
+  {
+    "id": "pharm-12-2",
+    "title": "Norepinephrine",
+    "course": "pharm",
+    "brick_id": "12",
+    "brick_title": "Autonomic Nervous System - Vasopressors and Inotropes",
+    "type": "drug",
+    "buzzwords": [
+      "pure vasopressor",
+      "constricts all vascular beds",
+      "raises systolic and diastolic",
+      "increases vascular resistance",
+      "non-selective for beta",
+      "more alpha than beta",
+      "alpha1 over alpha2",
+      "a1 >> a2"
+    ]
+  },
+  {
+    "id": "pharm-12-3",
+    "title": "Dopamine",
+    "course": "pharm",
+    "brick_id": "12",
+    "brick_title": "Autonomic Nervous System - Vasopressors and Inotropes",
+    "type": "drug",
+    "buzzwords": [
+      "dose-dependent effects",
+      "low dose beta1 inotropy",
+      "high dose alpha effects",
+      "renal vasodilation",
+      "activates D1 and D2",
+      "dopaminergic receptors",
+      "renal vascular beds",
+      "increases cardiac contractility"
+    ]
+  },
+  {
+    "id": "pharm-12-4",
+    "title": "Dobutamine",
+    "course": "pharm",
+    "brick_id": "12",
+    "brick_title": "Autonomic Nervous System - Vasopressors and Inotropes",
+    "type": "drug",
+    "buzzwords": [
+      "inotrope",
+      "increases contractility",
+      "increases cardiac output",
+      "positive chronotrope",
+      "high beta1 affinity",
+      "beta1 over beta2",
+      "raises stroke volume",
+      "selective beta1 agonist"
+    ]
+  },
+  {
+    "id": "pharm-12-5",
+    "title": "Isoproterenol",
+    "course": "pharm",
+    "brick_id": "12",
+    "brick_title": "Autonomic Nervous System - Vasopressors and Inotropes",
+    "type": "drug",
+    "buzzwords": [
+      "increases heart rate",
+      "increases contractility",
+      "bronchodilation",
+      "potent beta agonist",
+      "activates beta1 and beta2",
+      "beta1 equals beta2",
+      "non-selective beta agonist",
+      "relaxes bronchial smooth muscle"
+    ]
+  },
+  {
+    "id": "pharm-12-6",
+    "title": "Adrenergic Receptors",
+    "course": "pharm",
+    "brick_id": "12",
+    "brick_title": "Autonomic Nervous System - Vasopressors and Inotropes",
+    "type": "physiology",
+    "buzzwords": [
+      "GPCR family",
+      "alpha and beta subtypes",
+      "respond to norepinephrine",
+      "all alpha1 are Gq",
+      "all beta are Gs",
+      "alpha2 is Gi",
+      "beta1 raises heart rate",
+      "alpha1 causes vasoconstriction"
+    ]
+  },
+  {
+    "id": "pharm-12-7",
+    "title": "Cholinergic Receptors",
+    "course": "pharm",
+    "brick_id": "12",
+    "brick_title": "Autonomic Nervous System - Vasopressors and Inotropes",
+    "type": "physiology",
+    "buzzwords": [
+      "respond to acetylcholine",
+      "rest and digest",
+      "muscarinic and nicotinic types",
+      "nicotinic are ligand-gated channels",
+      "M1 to M5 subtypes",
+      "no muscarinic Gs receptor",
+      "M2 and M5 are Gi",
+      "M2 slows the heart"
+    ]
+  }
+]

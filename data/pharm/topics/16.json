@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pharm-16-1",
+    "title": "Alpha-Receptor Classification",
+    "course": "pharm",
+    "brick_id": "16",
+    "brick_title": "α–Agonists",
+    "type": "physiology",
+    "buzzwords": [
+      "GPCR adrenergic receptors",
+      "two subtypes",
+      "alpha1 widely distributed",
+      "alpha2 presynaptic",
+      "alpha1 is Gq",
+      "alpha2 is Gi",
+      "Gq raises IP3 and Ca",
+      "Gi lowers cAMP and PKA"
+    ]
+  },
+  {
+    "id": "pharm-16-2",
+    "title": "Phenylephrine",
+    "course": "pharm",
+    "brick_id": "16",
+    "brick_title": "α–Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "selective alpha1 agonist",
+      "vasoconstrictor",
+      "raises blood pressure",
+      "IV vasopressor for shock",
+      "nasal decongestant",
+      "causes mydriasis",
+      "not a catecholamine",
+      "not metabolized by COMT"
+    ]
+  },
+  {
+    "id": "pharm-16-3",
+    "title": "Oxymetazoline",
+    "course": "pharm",
+    "brick_id": "16",
+    "brick_title": "α–Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "alpha1 agonist",
+      "vasoconstrictor",
+      "topical decongestant",
+      "relieves eye redness",
+      "treats facial erythema",
+      "OTC eye drops",
+      "treats minor eye irritation",
+      "topical cream form"
+    ]
+  },
+  {
+    "id": "pharm-16-4",
+    "title": "Clonidine",
+    "course": "pharm",
+    "brick_id": "16",
+    "brick_title": "α–Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "alpha2 agonist",
+      "presynaptic action",
+      "decreases norepinephrine release",
+      "central sympatholytic",
+      "antihypertensive",
+      "treats ADHD",
+      "eases opioid withdrawal",
+      "causes xerostomia and sedation"
+    ]
+  },
+  {
+    "id": "pharm-16-5",
+    "title": "Methyldopa",
+    "course": "pharm",
+    "brick_id": "16",
+    "brick_title": "α–Agonists",
+    "type": "drug",
+    "buzzwords": [
+      "alpha2 agonist",
+      "prodrug",
+      "lowers blood pressure",
+      "decreases sympathetic outflow",
+      "converted to alpha-methylnorepinephrine",
+      "false neurotransmitter",
+      "replaces norepinephrine in vesicles",
+      "hypertension in pregnancy"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "pharm-29-1",
+    "title": "Opioid Tolerance",
+    "course": "pharm",
+    "brick_id": "29",
+    "brick_title": "Opioid Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "drug less effective over time",
+      "need higher dose",
+      "receptor desensitization",
+      "receptor downregulation",
+      "blunted pain signaling",
+      "can begin in two weeks",
+      "compensatory adaptation",
+      "tolerance"
+    ]
+  },
+  {
+    "id": "pharm-29-2",
+    "title": "Opioid Dependence",
+    "course": "pharm",
+    "brick_id": "29",
+    "brick_title": "Opioid Antagonists",
+    "type": "physiology",
+    "buzzwords": [
+      "body adapted to drug",
+      "needed to feel normal",
+      "receptor upregulation",
+      "abrupt stop triggers symptoms",
+      "not the same as addiction",
+      "managed by tapering dose",
+      "common with chronic opioids",
+      "dependence"
+    ]
+  },
+  {
+    "id": "pharm-29-3",
+    "title": "Opioid Withdrawal",
+    "course": "pharm",
+    "brick_id": "29",
+    "brick_title": "Opioid Antagonists",
+    "type": "disease",
+    "buzzwords": [
+      "response to abrupt cessation",
+      "physical and psychological",
+      "anxiety and agitation",
+      "shakiness and muscle pain",
+      "dilated pupils",
+      "tachycardia and hypertension",
+      "locus coeruleus activation",
+      "withdrawal"
+    ]
+  },
+  {
+    "id": "pharm-29-4",
+    "title": "Opioid Use Disorder",
+    "course": "pharm",
+    "brick_id": "29",
+    "brick_title": "Opioid Antagonists",
+    "type": "disease",
+    "buzzwords": [
+      "chronic relapsing brain disease",
+      "compulsive drug seeking",
+      "use despite harm",
+      "8-12% of prescribed patients",
+      "craving and strong desire",
+      "DSM-5 diagnosis",
+      "addiction",
+      "opioid use disorder"
+    ]
+  },
+  {
+    "id": "pharm-29-5",
+    "title": "Opioid Overdose",
+    "course": "pharm",
+    "brick_id": "29",
+    "brick_title": "Opioid Antagonists",
+    "type": "disease",
+    "buzzwords": [
+      "lethal adverse effect",
+      "slowed shallow breathing",
+      "respiratory depression",
+      "bradycardia and hypotension",
+      "blue fingernails and lips",
+      "pinpoint pupils",
+      "may need ACLS",
+      "opioid overdose"
+    ]
+  },
+  {
+    "id": "pharm-29-6",
+    "title": "Naloxone",
+    "course": "pharm",
+    "brick_id": "29",
+    "brick_title": "Opioid Antagonists",
+    "type": "drug",
+    "buzzwords": [
+      "opioid antagonist",
+      "reverses respiratory depression",
+      "blocks all three receptors",
+      "displaces bound agonist",
+      "first-line for overdose",
+      "carried by first responders",
+      "can precipitate withdrawal",
+      "naloxone"
+    ]
+  },
+  {
+    "id": "pharm-29-7",
+    "title": "Methadone",
+    "course": "pharm",
+    "brick_id": "29",
+    "brick_title": "Opioid Antagonists",
+    "type": "drug",
+    "buzzwords": [
+      "long-acting opioid agonist",
+      "ultra-long half-life",
+      "used for maintenance",
+      "milder withdrawal",
+      "prolongs QTc interval",
+      "risk of ventricular arrhythmias",
+      "ECG before starting",
+      "methadone"
+    ]
+  }
+]

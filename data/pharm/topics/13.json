@@ -1,0 +1,128 @@
+[
+  {
+    "id": "pharm-13-1",
+    "title": "Cortisol",
+    "course": "pharm",
+    "brick_id": "13",
+    "brick_title": "Steroids",
+    "type": "physiology",
+    "buzzwords": [
+      "endogenous steroid",
+      "maintains blood pressure",
+      "secreted in pulsatile rhythm",
+      "anti-inflammatory",
+      "immunosuppressive",
+      "induces gluconeogenesis",
+      "primary glucocorticoid",
+      "released from zona fasciculata"
+    ]
+  },
+  {
+    "id": "pharm-13-2",
+    "title": "Aldosterone",
+    "course": "pharm",
+    "brick_id": "13",
+    "brick_title": "Steroids",
+    "type": "physiology",
+    "buzzwords": [
+      "regulates salt and water",
+      "expands plasma volume",
+      "acts in collecting duct",
+      "increases sodium reabsorption",
+      "drives potassium secretion",
+      "binds mineralocorticoid receptor",
+      "released from zona glomerulosa",
+      "primary mineralocorticoid"
+    ]
+  },
+  {
+    "id": "pharm-13-3",
+    "title": "HPA Axis",
+    "course": "pharm",
+    "brick_id": "13",
+    "brick_title": "Steroids",
+    "type": "physiology",
+    "buzzwords": [
+      "hormone-modulating center",
+      "stimulates cortisol synthesis",
+      "negative feedback loop",
+      "hypothalamus releases CRH",
+      "CRH triggers ACTH",
+      "ACTH acts on adrenal gland",
+      "suppressed by exogenous steroids",
+      "hypothalamic-pituitary-adrenal"
+    ]
+  },
+  {
+    "id": "pharm-13-4",
+    "title": "11B-HSD2",
+    "course": "pharm",
+    "brick_id": "13",
+    "brick_title": "Steroids",
+    "type": "physiology",
+    "buzzwords": [
+      "protects a receptor",
+      "prevents receptor cross-activation",
+      "inactivates a steroid",
+      "guards mineralocorticoid receptor",
+      "blocks cortisol binding MR",
+      "cortisol 100x aldosterone level",
+      "isozyme 2 enzyme",
+      "11-beta-hydroxysteroid dehydrogenase"
+    ]
+  },
+  {
+    "id": "pharm-13-5",
+    "title": "Dexamethasone",
+    "course": "pharm",
+    "brick_id": "13",
+    "brick_title": "Steroids",
+    "type": "drug",
+    "buzzwords": [
+      "synthetic corticosteroid",
+      "long duration of action",
+      "no mineralocorticoid activity",
+      "high glucocorticoid potency",
+      "potency 30x hydrocortisone",
+      "once-daily dosing possible",
+      "preferred in pediatric asthma",
+      "antenatal lung maturity steroid"
+    ]
+  },
+  {
+    "id": "pharm-13-6",
+    "title": "Steroid Adverse Effects",
+    "course": "pharm",
+    "brick_id": "13",
+    "brick_title": "Steroids",
+    "type": "drug",
+    "buzzwords": [
+      "dose-dependent toxicity",
+      "skin thinning and bruising",
+      "psychiatric disturbances",
+      "increased GI ulcer risk",
+      "adrenal suppression on withdrawal",
+      "most common drug-induced diabetes",
+      "taper to prevent adrenal crisis",
+      "chronic use causes Cushing syndrome"
+    ]
+  },
+  {
+    "id": "pharm-13-7",
+    "title": "Steroid Contraindications",
+    "course": "pharm",
+    "brick_id": "13",
+    "brick_title": "Steroids",
+    "type": "drug",
+    "buzzwords": [
+      "immune-related cautions",
+      "active peptic ulcer disease",
+      "uncontrolled hyperglycemia",
+      "systemic fungal infection",
+      "avoid in glaucoma",
+      "herpes simplex keratitis",
+      "no live attenuated vaccines",
+      "varicella infection contraindicated"
+    ]
+  }
+]
