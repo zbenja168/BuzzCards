@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cardio-29-1",
+    "title": "Tetralogy of Fallot",
+    "course": "cardio",
+    "brick_id": "29",
+    "brick_title": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "type": "disease",
+    "buzzwords": [
+      "right-to-left shunt",
+      "RVOT obstruction",
+      "pulmonary valve stenosis",
+      "RV hypertrophy",
+      "VSD",
+      "overriding aorta",
+      "boot-shaped heart",
+      "tet spells relieved by squatting"
+    ]
+  },
+  {
+    "id": "cardio-29-2",
+    "title": "Tricuspid Atresia",
+    "course": "cardio",
+    "brick_id": "29",
+    "brick_title": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "type": "disease",
+    "buzzwords": [
+      "cyanotic at birth",
+      "obligate ASD",
+      "needs VSD or PDA",
+      "right ventricle hypoplasia",
+      "single S2",
+      "left axis deviation on ECG",
+      "small chamber tricuspid side",
+      "absent tricuspid valve"
+    ]
+  },
+  {
+    "id": "cardio-29-3",
+    "title": "Truncus Arteriosus",
+    "course": "cardio",
+    "brick_id": "29",
+    "brick_title": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "type": "disease",
+    "buzzwords": [
+      "mixing defect",
+      "single great vessel",
+      "accompanying VSD",
+      "low oxygen saturation",
+      "neural crest migration failure",
+      "associated DiGeorge syndrome",
+      "failed aorticopulmonary septation",
+      "single truncal valve"
+    ]
+  },
+  {
+    "id": "cardio-29-4",
+    "title": "Transposition of Great Arteries",
+    "course": "cardio",
+    "brick_id": "29",
+    "brick_title": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "type": "disease",
+    "buzzwords": [
+      "severe cyanosis at birth",
+      "two parallel circulations",
+      "needs PDA or ASD",
+      "aorta off right ventricle",
+      "pulmonary artery off left ventricle",
+      "failed spiral septum",
+      "egg-on-a-string silhouette",
+      "ventriculoarterial discordance"
+    ]
+  },
+  {
+    "id": "cardio-29-5",
+    "title": "TAPVR",
+    "course": "cardio",
+    "brick_id": "29",
+    "brick_title": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "type": "disease",
+    "buzzwords": [
+      "mixing defect",
+      "pulmonary veins drain to right heart",
+      "obligate ASD or PDA",
+      "pulmonary venous obstruction",
+      "low oxygen saturation",
+      "RV hypertrophy",
+      "snowman heart silhouette",
+      "anomalous pulmonary venous return"
+    ]
+  }
+]

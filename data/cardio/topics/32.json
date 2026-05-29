@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-32-1",
+    "title": "Embryonic Aortic Arches",
+    "course": "cardio",
+    "brick_id": "32",
+    "brick_title": "Development of the Aortic Arches",
+    "type": "anatomy",
+    "buzzwords": [
+      "paired arteries",
+      "within pharyngeal arches",
+      "outflow tract to dorsal aortae",
+      "six pairs cranial to caudal",
+      "selective regression and remodeling",
+      "fifth pair never forms",
+      "first/second pairs mostly regress",
+      "second forms transient stapedial artery"
+    ]
+  },
+  {
+    "id": "cardio-32-2",
+    "title": "Third Aortic Arch",
+    "course": "cardio",
+    "brick_id": "32",
+    "brick_title": "Development of the Aortic Arches",
+    "type": "anatomy",
+    "buzzwords": [
+      "symmetric bilateral fate",
+      "supplies head and neck",
+      "feeds the carotid system",
+      "forms common carotid artery",
+      "proximal internal carotid artery",
+      "no asymmetry left vs right",
+      "third pharyngeal arch artery",
+      "common + proximal internal carotid"
+    ]
+  },
+  {
+    "id": "cardio-32-3",
+    "title": "Fourth Aortic Arch",
+    "course": "cardio",
+    "brick_id": "32",
+    "brick_title": "Development of the Aortic Arches",
+    "type": "anatomy",
+    "buzzwords": [
+      "asymmetric right vs left",
+      "right side regresses partly",
+      "right becomes proximal subclavian",
+      "left persists as great vessel",
+      "left forms arch of aorta",
+      "arch segment between LCCA and LSA",
+      "right proximal subclavian artery",
+      "fourth arch builds the aortic arch"
+    ]
+  },
+  {
+    "id": "cardio-32-4",
+    "title": "Sixth Aortic Arch",
+    "course": "cardio",
+    "brick_id": "32",
+    "brick_title": "Development of the Aortic Arches",
+    "type": "anatomy",
+    "buzzwords": [
+      "asymmetric remodeling",
+      "forms proximal pulmonary arteries",
+      "right distal segment regresses",
+      "left distal segment persists",
+      "left connects pulmonary trunk to aorta",
+      "becomes the ductus arteriosus",
+      "ligamentum arteriosum after closure",
+      "proximal right and left pulmonary arteries"
+    ]
+  },
+  {
+    "id": "cardio-32-5",
+    "title": "Dorsal Aorta Derivatives",
+    "course": "cardio",
+    "brick_id": "32",
+    "brick_title": "Development of the Aortic Arches",
+    "type": "anatomy",
+    "buzzwords": [
+      "initially paired vessels",
+      "remodel during arch development",
+      "caudal portions fuse",
+      "fusion forms single descending aorta",
+      "right cranial part regresses",
+      "right distal segment joins subclavian",
+      "left persists as descending aorta",
+      "left dorsal aorta continues the arch"
+    ]
+  },
+  {
+    "id": "cardio-32-6",
+    "title": "Recurrent Laryngeal Nerves",
+    "course": "cardio",
+    "brick_id": "32",
+    "brick_title": "Development of the Aortic Arches",
+    "type": "anatomy",
+    "buzzwords": [
+      "branches of the vagus nerve",
+      "innervate intrinsic laryngeal muscles",
+      "spare the cricothyroid muscle",
+      "hook under sixth arch derivatives",
+      "asymmetric course from arch remodeling",
+      "right loops under right subclavian",
+      "left loops under aortic arch",
+      "left near the ligamentum arteriosum"
+    ]
+  }
+]

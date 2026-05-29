@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-34-1",
+    "title": "Left-Sided Heart Failure",
+    "course": "cardio",
+    "brick_id": "34",
+    "brick_title": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
+    "type": "disease",
+    "buzzwords": [
+      "blood backs into lungs",
+      "dyspnea on exertion",
+      "fatigue and weakness",
+      "S3 gallop",
+      "fine bibasilar crackles",
+      "displaced point of maximal impulse",
+      "orthopnea",
+      "paroxysmal nocturnal dyspnea"
+    ]
+  },
+  {
+    "id": "cardio-34-2",
+    "title": "Right-Sided Heart Failure",
+    "course": "cardio",
+    "brick_id": "34",
+    "brick_title": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
+    "type": "disease",
+    "buzzwords": [
+      "blood backs into systemic veins",
+      "dependent pitting edema",
+      "tender hepatomegaly",
+      "ascites",
+      "elevated venous pressure",
+      "jugular venous distension",
+      "most often caused by left HF",
+      "cor pulmonale if lung cause"
+    ]
+  },
+  {
+    "id": "cardio-34-3",
+    "title": "Systolic vs Diastolic HF",
+    "course": "cardio",
+    "brick_id": "34",
+    "brick_title": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
+    "type": "physiology",
+    "buzzwords": [
+      "two mechanisms of failure",
+      "systolic is weak contraction",
+      "diastolic is impaired relaxation",
+      "diastolic has stiff ventricle",
+      "systolic is reduced ejection fraction",
+      "diastolic is preserved ejection fraction",
+      "HFrEF versus HFpEF",
+      "EF below 40 percent in systolic"
+    ]
+  },
+  {
+    "id": "cardio-34-4",
+    "title": "Echocardiography for HF",
+    "course": "cardio",
+    "brick_id": "34",
+    "brick_title": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
+    "type": "imaging",
+    "buzzwords": [
+      "noninvasive cardiac ultrasound",
+      "confirms the diagnosis",
+      "measures ejection fraction",
+      "classifies HFrEF versus HFpEF",
+      "assesses wall motion",
+      "evaluates valve function",
+      "best test for diagnosing HF",
+      "gold standard for heart failure"
+    ]
+  },
+  {
+    "id": "cardio-34-5",
+    "title": "BNP",
+    "course": "cardio",
+    "brick_id": "34",
+    "brick_title": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
+    "type": "lab",
+    "buzzwords": [
+      "serum biomarker",
+      "released by stretched ventricle",
+      "rises with volume overload",
+      "high negative predictive value",
+      "low level rules out HF",
+      "under 100 excludes acute HF",
+      "NT-proBNP is the precursor form",
+      "B-type natriuretic peptide"
+    ]
+  },
+  {
+    "id": "cardio-34-6",
+    "title": "NYHA Classification",
+    "course": "cardio",
+    "brick_id": "34",
+    "brick_title": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
+    "type": "lab",
+    "buzzwords": [
+      "grades functional status",
+      "based on symptom frequency",
+      "four severity classes",
+      "Class I has no symptoms",
+      "Class IV symptomatic at rest",
+      "higher class worse prognosis",
+      "guides treatment intensity",
+      "New York Heart Association scale"
+    ]
+  }
+]

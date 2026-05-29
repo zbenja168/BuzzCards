@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cardio-15-1",
+    "title": "ARVC",
+    "course": "cardio",
+    "brick_id": "15",
+    "brick_title": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+    "type": "disease",
+    "buzzwords": [
+      "inherited cardiomyopathy",
+      "sudden death in young athletes",
+      "ventricular arrhythmias on exertion",
+      "right-sided heart failure",
+      "autosomal dominant, variable penetrance",
+      "desmosome mutations",
+      "RV myocardium replaced by fibrofatty tissue",
+      "arrhythmogenic right ventricular dysplasia"
+    ]
+  },
+  {
+    "id": "cardio-15-2",
+    "title": "Naxos Syndrome",
+    "course": "cardio",
+    "brick_id": "15",
+    "brick_title": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+    "type": "disease",
+    "buzzwords": [
+      "inherited cardiomyopathy variant",
+      "ventricular arrhythmias",
+      "autosomal recessive inheritance",
+      "thickened palm and sole skin",
+      "diffuse scaling of skin",
+      "recessive form of ARVC",
+      "palmoplantar keratoderma",
+      "Naxos syndrome"
+    ]
+  },
+  {
+    "id": "cardio-15-3",
+    "title": "Epsilon Wave",
+    "course": "cardio",
+    "brick_id": "15",
+    "brick_title": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+    "type": "lab",
+    "buzzwords": [
+      "abnormal ECG finding",
+      "seen in leads V1 to V3",
+      "marker of delayed RV conduction",
+      "present in 30% of patients",
+      "small positive deflection",
+      "follows the QRS complex",
+      "specific for ARVC",
+      "epsilon wave"
+    ]
+  }
+]

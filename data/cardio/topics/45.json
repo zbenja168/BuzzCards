@@ -1,0 +1,236 @@
+[
+  {
+    "id": "cardio-45-1",
+    "title": "Tunica Intima",
+    "course": "cardio",
+    "brick_id": "45",
+    "brick_title": "Histology of Blood Vessels and Lymphatics",
+    "type": "anatomy",
+    "buzzwords": [
+      "innermost vessel layer",
+      "simple squamous lining",
+      "smooth nonadherent surface",
+      "prevents clot formation",
+      "sits on basal lamina",
+      "disruption exposes thrombogenic factors",
+      "single endothelial cell layer",
+      "endothelium"
+    ]
+  },
+  {
+    "id": "cardio-45-2",
+    "title": "Tunica Media",
+    "course": "cardio",
+    "brick_id": "45",
+    "brick_title": "Histology of Blood Vessels and Lymphatics",
+    "type": "anatomy",
+    "buzzwords": [
+      "middle vessel layer",
+      "ellipsoid cells lacking striations",
+      "controls vessel diameter",
+      "mediates vasoconstriction and vasodilation",
+      "regulates blood pressure",
+      "bounded by elastic laminae",
+      "smooth muscle and elastin",
+      "thickest layer in arteries"
+    ]
+  },
+  {
+    "id": "cardio-45-3",
+    "title": "Tunica Adventitia",
+    "course": "cardio",
+    "brick_id": "45",
+    "brick_title": "Histology of Blood Vessels and Lymphatics",
+    "type": "anatomy",
+    "buzzwords": [
+      "outermost vessel layer",
+      "anchors vessel to tissue",
+      "supplies the vessel wall",
+      "contains vasa vasorum",
+      "thickest layer in veins",
+      "mostly collagen",
+      "connective tissue coat",
+      "tunica externa"
+    ]
+  },
+  {
+    "id": "cardio-45-4",
+    "title": "Elastic Arteries",
+    "course": "cardio",
+    "brick_id": "45",
+    "brick_title": "Histology of Blood Vessels and Lymphatics",
+    "type": "anatomy",
+    "buzzwords": [
+      "largest artery type",
+      "high elastin density",
+      "stretch then recoil",
+      "buffer systolic-diastolic swings",
+      "expand in systole",
+      "recoil in diastole",
+      "aorta and great vessels",
+      "conducting arteries"
+    ]
+  },
+  {
+    "id": "cardio-45-5",
+    "title": "Muscular Arteries",
+    "course": "cardio",
+    "brick_id": "45",
+    "brick_title": "Histology of Blood Vessels and Lymphatics",
+    "type": "anatomy",
+    "buzzwords": [
+      "thick muscular walls",
+      "relatively less elastin",
+      "distribute blood to organs",
+      "maintain organ perfusion",
+      "contract hard in hypotension",
+      "farther from heart",
+      "coronary and renal arteries",
+      "distributing arteries"
+    ]
+  },
+  {
+    "id": "cardio-45-6",
+    "title": "Arterioles",
+    "course": "cardio",
+    "brick_id": "45",
+    "brick_title": "Histology of Blood Vessels and Lymphatics",
+    "type": "anatomy",
+    "buzzwords": [
+      "smallest artery type",
+      "few smooth muscle layers",
+      "incomplete internal elastic lamina",
+      "uniform pressure over time",
+      "feed the capillaries",
+      "main resistance vessels",
+      "control blood flow distribution",
+      "regulate systemic vascular resistance"
+    ]
+  },
+  {
+    "id": "cardio-45-7",
+    "title": "Venules",
+    "course": "cardio",
+    "brick_id": "45",
+    "brick_title": "Histology of Blood Vessels and Lymphatics",
+    "type": "anatomy",
+    "buzzwords": [
+      "smallest veins",
+      "thin media and adventitia",
+      "drain the capillaries",
+      "little capacity to stretch",
+      "poor vasoconstriction",
+      "lack elastin",
+      "few smooth muscle cells",
+      "postcapillary venules"
+    ]
+  },
+  {
+    "id": "cardio-45-8",
+    "title": "Veins",
+    "course": "cardio",
+    "brick_id": "45",
+    "brick_title": "Histology of Blood Vessels and Lymphatics",
+    "type": "anatomy",
+    "buzzwords": [
+      "large thin-walled vessels",
+      "thin tunica media",
+      "thickest adventitia",
+      "irregular collapsed lumen",
+      "skeletal muscle pump aids flow",
+      "ensure unidirectional flow",
+      "intima folds prevent backflow",
+      "one-way valves"
+    ]
+  },
+  {
+    "id": "cardio-45-9",
+    "title": "Continuous Capillaries",
+    "course": "cardio",
+    "brick_id": "45",
+    "brick_title": "Histology of Blood Vessels and Lymphatics",
+    "type": "anatomy",
+    "buzzwords": [
+      "simplest capillary type",
+      "uninterrupted endothelial lining",
+      "no gaps between cells",
+      "least permeable type",
+      "continuous basement membrane",
+      "tightest barrier",
+      "muscle skin lung tissue",
+      "form the blood-brain barrier"
+    ]
+  },
+  {
+    "id": "cardio-45-10",
+    "title": "Fenestrated Capillaries",
+    "course": "cardio",
+    "brick_id": "45",
+    "brick_title": "Histology of Blood Vessels and Lymphatics",
+    "type": "anatomy",
+    "buzzwords": [
+      "moderately permeable",
+      "tiny endothelial pores",
+      "rapid substance exchange",
+      "intact basement membrane",
+      "diaphragm-covered openings",
+      "endocrine glands and gut",
+      "renal glomerulus",
+      "fenestrae"
+    ]
+  },
+  {
+    "id": "cardio-45-11",
+    "title": "Sinusoidal Capillaries",
+    "course": "cardio",
+    "brick_id": "45",
+    "brick_title": "Histology of Blood Vessels and Lymphatics",
+    "type": "anatomy",
+    "buzzwords": [
+      "most permeable type",
+      "large intercellular gaps",
+      "discontinuous basement membrane",
+      "pass whole cells and proteins",
+      "filter large molecules",
+      "wide irregular lumen",
+      "liver and spleen",
+      "clefts"
+    ]
+  },
+  {
+    "id": "cardio-45-12",
+    "title": "Lymphatic Capillaries",
+    "course": "cardio",
+    "brick_id": "45",
+    "brick_title": "Histology of Blood Vessels and Lymphatics",
+    "type": "anatomy",
+    "buzzwords": [
+      "thin single-cell wall",
+      "simple squamous endothelium",
+      "no basement membrane",
+      "poorly defined adventitia",
+      "drain interstitial fluid",
+      "collect protein-rich lymph",
+      "blind-ended vessels",
+      "begin the lymphatic system"
+    ]
+  },
+  {
+    "id": "cardio-45-13",
+    "title": "Lymphatic Collecting Vessels",
+    "course": "cardio",
+    "brick_id": "45",
+    "brick_title": "Histology of Blood Vessels and Lymphatics",
+    "type": "anatomy",
+    "buzzwords": [
+      "larger lymphatic vessels",
+      "contain smooth muscle layer",
+      "thinner wall than veins",
+      "propel lymph toward heart",
+      "one-way valves",
+      "merge into lymphatic ducts",
+      "thoracic duct",
+      "right lymphatic duct"
+    ]
+  }
+]

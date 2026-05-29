@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cardio-9-1",
+    "title": "Aspirin",
+    "course": "cardio",
+    "brick_id": "9",
+    "brick_title": "Antiplatelet Drugs",
+    "type": "drug",
+    "buzzwords": [
+      "antiplatelet",
+      "blocks thromboxane A2",
+      "irreversible inhibition",
+      "secondary MI prevention",
+      "high-dose causes tinnitus",
+      "overdose respiratory alkalosis",
+      "Reye syndrome in children",
+      "COX inhibitor"
+    ]
+  },
+  {
+    "id": "cardio-9-2",
+    "title": "P2Y12 Inhibitors",
+    "course": "cardio",
+    "brick_id": "9",
+    "brick_title": "Antiplatelet Drugs",
+    "type": "drug",
+    "buzzwords": [
+      "antiplatelet",
+      "blocks ADP receptor",
+      "dual therapy with aspirin",
+      "given after stent placement",
+      "prodrug activated by CYP2C19",
+      "contraindicated in liver disease",
+      "rash one week in",
+      "clopidogrel, ticagrelor"
+    ]
+  },
+  {
+    "id": "cardio-9-3",
+    "title": "GpIIb/IIIa Inhibitors",
+    "course": "cardio",
+    "brick_id": "9",
+    "brick_title": "Antiplatelet Drugs",
+    "type": "drug",
+    "buzzwords": [
+      "antiplatelet",
+      "blocks fibrinogen crosslinking",
+      "given intravenously",
+      "used during PCI",
+      "rarely used",
+      "monoclonal antibody",
+      "thrombocytopenia risk",
+      "abciximab, tirofiban"
+    ]
+  },
+  {
+    "id": "cardio-9-4",
+    "title": "PDE-3 Inhibitors",
+    "course": "cardio",
+    "brick_id": "9",
+    "brick_title": "Antiplatelet Drugs",
+    "type": "drug",
+    "buzzwords": [
+      "antiplatelet",
+      "raises platelet cAMP",
+      "vasodilator",
+      "flushing and headache",
+      "least commonly used",
+      "intermittent claudication",
+      "prevents heart valve clotting",
+      "cilostazol, dipyridamole"
+    ]
+  }
+]

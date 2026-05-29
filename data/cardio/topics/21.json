@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cardio-21-1",
+    "title": "Cardiac Output",
+    "course": "cardio",
+    "brick_id": "21",
+    "brick_title": "Cardiac - Compliance, Contractility, Preload, and Afterload",
+    "type": "physiology",
+    "buzzwords": [
+      "blood pumped per minute",
+      "L/min",
+      "adjusts to body demands",
+      "rises with exercise",
+      "set by two variables",
+      "stroke volume times heart rate",
+      "CO = SV x HR",
+      "stroke volume per beat"
+    ]
+  },
+  {
+    "id": "cardio-21-2",
+    "title": "Compliance",
+    "course": "cardio",
+    "brick_id": "21",
+    "brick_title": "Cardiac - Compliance, Contractility, Preload, and Afterload",
+    "type": "physiology",
+    "buzzwords": [
+      "ability to stretch",
+      "volume change per pressure",
+      "stiff walls accept less",
+      "higher filling pressure needed",
+      "reduced in hypertrophy",
+      "impaired diastolic function",
+      "delta V over delta P",
+      "low in stiff ventricle"
+    ]
+  },
+  {
+    "id": "cardio-21-3",
+    "title": "Contractility",
+    "course": "cardio",
+    "brick_id": "21",
+    "brick_title": "Cardiac - Compliance, Contractility, Preload, and Afterload",
+    "type": "physiology",
+    "buzzwords": [
+      "intrinsic pumping strength",
+      "also called inotropy",
+      "force at given preload",
+      "depends on cytoplasmic calcium",
+      "shifts the curve up",
+      "sympathetic boosts it",
+      "beta-1 adrenergic increases it",
+      "digoxin is positive inotrope"
+    ]
+  },
+  {
+    "id": "cardio-21-4",
+    "title": "Preload",
+    "course": "cardio",
+    "brick_id": "21",
+    "brick_title": "Cardiac - Compliance, Contractility, Preload, and Afterload",
+    "type": "physiology",
+    "buzzwords": [
+      "ventricular filling stretch",
+      "set before systole",
+      "rises with venous return",
+      "more stretch, more force",
+      "measured as EDV or EDP",
+      "increases stroke volume",
+      "end-diastolic volume",
+      "Frank-Starling law"
+    ]
+  },
+  {
+    "id": "cardio-21-5",
+    "title": "Afterload",
+    "course": "cardio",
+    "brick_id": "21",
+    "brick_title": "Cardiac - Compliance, Contractility, Preload, and Afterload",
+    "type": "physiology",
+    "buzzwords": [
+      "resistance to ejection",
+      "force opposing outflow",
+      "rises with vasoconstriction",
+      "high load lowers stroke volume",
+      "raised in hypertension",
+      "estimated by SVR",
+      "systemic vascular resistance",
+      "aortic stenosis increases it"
+    ]
+  }
+]

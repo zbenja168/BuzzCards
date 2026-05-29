@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-40-1",
+    "title": "ECG Voltage Basis",
+    "course": "cardio",
+    "brick_id": "40",
+    "brick_title": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "records electrical activity",
+      "voltage difference",
+      "between adjacent myocytes",
+      "current via gap junctions",
+      "myocyte action potential",
+      "two-cell model",
+      "subtracted voltages",
+      "delta-V equals IR"
+    ]
+  },
+  {
+    "id": "cardio-40-2",
+    "title": "Limb Leads",
+    "course": "cardio",
+    "brick_id": "40",
+    "brick_title": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "frontal plane",
+      "six leads",
+      "bipolar leads I, II, III",
+      "augmented aVR, aVL, aVF",
+      "unipolar augmented",
+      "right leg is ground",
+      "RA, LA, LL, RL",
+      "Einthoven triangle"
+    ]
+  },
+  {
+    "id": "cardio-40-3",
+    "title": "Precordial Leads",
+    "course": "cardio",
+    "brick_id": "40",
+    "brick_title": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "chest electrodes",
+      "horizontal plane",
+      "unipolar leads",
+      "V1 fourth intercostal space",
+      "right sternal border",
+      "localizes ischemia",
+      "V6 midaxillary line",
+      "leads V1 to V6"
+    ]
+  },
+  {
+    "id": "cardio-40-4",
+    "title": "10 Electrodes",
+    "course": "cardio",
+    "brick_id": "40",
+    "brick_title": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "stick-on sensors",
+      "color-coded",
+      "four limb electrodes",
+      "six chest electrodes",
+      "ten total electrodes",
+      "produce 12 leads",
+      "white RA, black LA",
+      "green right-leg ground"
+    ]
+  },
+  {
+    "id": "cardio-40-5",
+    "title": "ECG Waveforms",
+    "course": "cardio",
+    "brick_id": "40",
+    "brick_title": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "P, QRS, T waves",
+      "toward positive equals upward",
+      "P wave atrial depolarization",
+      "QRS ventricular depolarization",
+      "T wave ventricular repolarization",
+      "atrial repolarization buried in QRS",
+      "biphasic crosses baseline",
+      "lead II highest amplitude"
+    ]
+  },
+  {
+    "id": "cardio-40-6",
+    "title": "ECG Grid",
+    "course": "cardio",
+    "brick_id": "40",
+    "brick_title": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "time on x-axis",
+      "voltage on y-axis",
+      "small box 40 ms",
+      "small box 0.1 mV",
+      "large box 0.2 seconds",
+      "large box 0.5 mV",
+      "10-second snapshot",
+      "calibration reference pulse"
+    ]
+  }
+]

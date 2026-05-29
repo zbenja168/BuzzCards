@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cardio-22-1",
+    "title": "Atrial Systole",
+    "course": "cardio",
+    "brick_id": "22",
+    "brick_title": "Cardiac Cycle",
+    "type": "physiology",
+    "buzzwords": [
+      "phase 1",
+      "atria contract",
+      "AV valves open",
+      "completes ventricular filling",
+      "adds final 10-15%",
+      "produces end-diastolic volume",
+      "matters more in tachycardia",
+      "makes the a wave"
+    ]
+  },
+  {
+    "id": "cardio-22-2",
+    "title": "Isovolumetric Contraction",
+    "course": "cardio",
+    "brick_id": "22",
+    "brick_title": "Cardiac Cycle",
+    "type": "physiology",
+    "buzzwords": [
+      "phase 2",
+      "systole begins",
+      "all four valves closed",
+      "no volume change",
+      "no blood ejected",
+      "AV valves snap shut",
+      "builds ventricular pressure",
+      "first heart sound S1"
+    ]
+  },
+  {
+    "id": "cardio-22-3",
+    "title": "Rapid Ventricular Ejection",
+    "course": "cardio",
+    "brick_id": "22",
+    "brick_title": "Cardiac Cycle",
+    "type": "physiology",
+    "buzzwords": [
+      "phase 3",
+      "blood leaves ventricles",
+      "semilunar valves open",
+      "AV valves stay closed",
+      "peak aortic pressure",
+      "highest pulse point",
+      "aortic stenosis murmur here",
+      "carotid radiation"
+    ]
+  },
+  {
+    "id": "cardio-22-4",
+    "title": "Reduced Ventricular Ejection",
+    "course": "cardio",
+    "brick_id": "22",
+    "brick_title": "Cardiac Cycle",
+    "type": "physiology",
+    "buzzwords": [
+      "phase 4",
+      "late systole",
+      "ejection slows",
+      "ventricular pressure falling",
+      "leaves end-systolic volume",
+      "ESV remains",
+      "precedes aortic valve closure",
+      "stroke volume = EDV - ESV"
+    ]
+  },
+  {
+    "id": "cardio-22-5",
+    "title": "Isovolumetric Relaxation",
+    "course": "cardio",
+    "brick_id": "22",
+    "brick_title": "Cardiac Cycle",
+    "type": "physiology",
+    "buzzwords": [
+      "phase 5",
+      "diastole begins",
+      "all four valves closed",
+      "no volume change",
+      "ventricles relax",
+      "semilunar valves close",
+      "dicrotic notch",
+      "second heart sound S2"
+    ]
+  },
+  {
+    "id": "cardio-22-6",
+    "title": "Rapid Ventricular Filling",
+    "course": "cardio",
+    "brick_id": "22",
+    "brick_title": "Cardiac Cycle",
+    "type": "physiology",
+    "buzzwords": [
+      "phase 6",
+      "early diastole",
+      "AV valves open",
+      "passive ventricular filling",
+      "most filling occurs here",
+      "fills up to 90%",
+      "atrial pressure falls",
+      "y descent"
+    ]
+  },
+  {
+    "id": "cardio-22-7",
+    "title": "Reduced Ventricular Filling",
+    "course": "cardio",
+    "brick_id": "22",
+    "brick_title": "Cardiac Cycle",
+    "type": "physiology",
+    "buzzwords": [
+      "phase 7",
+      "late diastole",
+      "AV valves open",
+      "filling slows dramatically",
+      "ventricular-atrial pressures equalize",
+      "longest phase at rest",
+      "shortens most with fast rates",
+      "diastasis"
+    ]
+  }
+]

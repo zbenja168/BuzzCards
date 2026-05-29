@@ -1,0 +1,146 @@
+[
+  {
+    "id": "cardio-5-1",
+    "title": "Cardiac Chambers & Septa",
+    "course": "cardio",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "four chambers",
+      "two atria, two ventricles",
+      "thicker LV wall",
+      "interatrial septum",
+      "interventricular septum",
+      "membranous and muscular parts",
+      "septa divide chambers",
+      "fossa ovalis remnant"
+    ]
+  },
+  {
+    "id": "cardio-5-2",
+    "title": "Atrioventricular Valves",
+    "course": "cardio",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "separate atria from ventricles",
+      "open in diastole",
+      "anchored by chordae tendineae",
+      "tricuspid on right",
+      "three leaflets",
+      "bicuspid on left",
+      "two leaflets",
+      "mitral valve"
+    ]
+  },
+  {
+    "id": "cardio-5-3",
+    "title": "Semilunar Valves",
+    "course": "cardio",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "ventricular outflow valves",
+      "open in systole",
+      "three cusps each",
+      "no chordae tendineae",
+      "leaflet overlap prevents prolapse",
+      "guards aorta exit",
+      "guards pulmonary trunk",
+      "aortic and pulmonary valves"
+    ]
+  },
+  {
+    "id": "cardio-5-4",
+    "title": "Chordae & Papillary Muscles",
+    "course": "cardio",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "tether AV valve leaflets",
+      "prevent valve prolapse",
+      "fibrous tendinous cords",
+      "tension during systole",
+      "rupture causes regurgitation",
+      "rupture 2-7 days post-MI",
+      "muscle cones in ventricles",
+      "chordae tendineae"
+    ]
+  },
+  {
+    "id": "cardio-5-5",
+    "title": "Right Atrium Features",
+    "course": "cardio",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "receives vena cava blood",
+      "parallel myocardial ridges",
+      "pectinate muscles",
+      "smooth posterior wall border",
+      "landmark for SA node",
+      "coronary sinus drainage",
+      "crista terminalis",
+      "fossa ovalis"
+    ]
+  },
+  {
+    "id": "cardio-5-6",
+    "title": "Cardiac Fibrous Skeleton",
+    "course": "cardio",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "dense connective tissue",
+      "four fibrous rings",
+      "anchors all four valves",
+      "electrical insulation barrier",
+      "forces conduction through AV node",
+      "valve attachment points",
+      "trigones and septa",
+      "anulus fibrosus"
+    ]
+  },
+  {
+    "id": "cardio-5-7",
+    "title": "Moderator Band",
+    "course": "cardio",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "muscular band in RV",
+      "carries conduction fibers",
+      "part of right bundle branch",
+      "reaches anterior papillary muscle",
+      "coordinates ventricular contraction",
+      "right ventricle only",
+      "spans interventricular septum to wall",
+      "septomarginal trabecula"
+    ]
+  },
+  {
+    "id": "cardio-5-8",
+    "title": "Heart Position & Imaging",
+    "course": "cardio",
+    "brick_id": "5",
+    "brick_title": "Anatomy of the Heart",
+    "type": "imaging",
+    "buzzwords": [
+      "middle mediastinum",
+      "RA forms right heart border",
+      "RV is anteriormost chamber",
+      "LA most posterior structure",
+      "LA enlargement compresses esophagus",
+      "cardiothoracic ratio over 50%",
+      "echo apical four-chamber view",
+      "cardiovocal Ortner syndrome"
+    ]
+  }
+]

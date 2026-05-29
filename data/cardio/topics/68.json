@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cardio-68-1",
+    "title": "Restrictive Cardiomyopathy",
+    "course": "cardio",
+    "brick_id": "68",
+    "brick_title": "Restrictive Cardiomyopathy",
+    "type": "disease",
+    "buzzwords": [
+      "stiff, noncompliant ventricle",
+      "impaired diastolic filling",
+      "normal wall thickness",
+      "reduced end-diastolic volume",
+      "preserved ejection fraction",
+      "biatrial enlargement",
+      "diastolic heart failure",
+      "idiopathic, most common in US"
+    ]
+  },
+  {
+    "id": "cardio-68-2",
+    "title": "Cardiac Amyloidosis",
+    "course": "cardio",
+    "brick_id": "68",
+    "brick_title": "Restrictive Cardiomyopathy",
+    "type": "disease",
+    "buzzwords": [
+      "infiltrative deposits",
+      "extracellular protein deposition",
+      "low-voltage ECG",
+      "AL light chains or TTR",
+      "Congo red stain",
+      "apple-green birefringence",
+      "polarized light",
+      "amyloid"
+    ]
+  },
+  {
+    "id": "cardio-68-3",
+    "title": "Cardiac Sarcoidosis",
+    "course": "cardio",
+    "brick_id": "68",
+    "brick_title": "Restrictive Cardiomyopathy",
+    "type": "disease",
+    "buzzwords": [
+      "infiltrative restriction",
+      "conduction abnormalities",
+      "arrhythmias",
+      "granulomatous inflammation",
+      "multinucleated giant cells",
+      "noncaseating granuloma",
+      "myocardial deposition",
+      "sarcoidosis"
+    ]
+  },
+  {
+    "id": "cardio-68-4",
+    "title": "Cardiac Hemochromatosis",
+    "course": "cardio",
+    "brick_id": "68",
+    "brick_title": "Restrictive Cardiomyopathy",
+    "type": "disease",
+    "buzzwords": [
+      "iron overload",
+      "tissue iron deposition",
+      "treat with phlebotomy",
+      "chelation therapy",
+      "bronze diabetes",
+      "HFE gene mutation",
+      "Prussian blue stain",
+      "hemochromatosis"
+    ]
+  },
+  {
+    "id": "cardio-68-5",
+    "title": "Endocardial Fibroelastosis",
+    "course": "cardio",
+    "brick_id": "68",
+    "brick_title": "Restrictive Cardiomyopathy",
+    "type": "disease",
+    "buzzwords": [
+      "fibrotic stiffening",
+      "collagen deposition",
+      "endocardial thickening",
+      "primary cause of RCM",
+      "apical fibrosis",
+      "V-shaped pointing to apex",
+      "MRI late enhancement",
+      "endocardial fibroelastosis"
+    ]
+  }
+]

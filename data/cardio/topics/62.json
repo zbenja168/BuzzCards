@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cardio-62-1",
+    "title": "Nonbacterial Thrombotic Endocarditis",
+    "course": "cardio",
+    "brick_id": "62",
+    "brick_title": "Nonbacterial Thrombotic Endocarditis",
+    "type": "disease",
+    "buzzwords": [
+      "sterile vegetations",
+      "often asymptomatic",
+      "underlying hypercoagulable state",
+      "spares the valve",
+      "symptoms from thromboembolism",
+      "favors mitral and aortic",
+      "anticoagulate with heparin then warfarin",
+      "marantic endocarditis"
+    ]
+  },
+  {
+    "id": "cardio-62-2",
+    "title": "Libman-Sacks Endocarditis",
+    "course": "cardio",
+    "brick_id": "62",
+    "brick_title": "Nonbacterial Thrombotic Endocarditis",
+    "type": "disease",
+    "buzzwords": [
+      "sterile vegetations",
+      "lupus-associated",
+      "very large thrombi",
+      "verrucous warty growths",
+      "vegetations on both valve sides",
+      "contain immune complexes",
+      "mitral valve favored",
+      "Libman-Sacks"
+    ]
+  },
+  {
+    "id": "cardio-62-3",
+    "title": "Antiphospholipid Syndrome",
+    "course": "cardio",
+    "brick_id": "62",
+    "brick_title": "Nonbacterial Thrombotic Endocarditis",
+    "type": "disease",
+    "buzzwords": [
+      "hypercoagulable state",
+      "excess clot formation",
+      "autoantibodies attack cell membranes",
+      "can be idiopathic",
+      "associated with lupus",
+      "predisposes to sterile vegetations",
+      "antiphospholipid antibody panel positive",
+      "APS"
+    ]
+  }
+]

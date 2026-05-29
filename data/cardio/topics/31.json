@@ -1,0 +1,146 @@
+[
+  {
+    "id": "cardio-31-1",
+    "title": "Deep Vein Thrombosis",
+    "course": "cardio",
+    "brick_id": "31",
+    "brick_title": "Deep Vein Thrombosis",
+    "type": "disease",
+    "buzzwords": [
+      "clot in deep vein",
+      "unilateral leg pain",
+      "warm red leg",
+      "usually lower extremity",
+      "unilateral swelling",
+      "can embolize to lungs",
+      "pain on dorsiflexion",
+      "Homan sign"
+    ]
+  },
+  {
+    "id": "cardio-31-2",
+    "title": "Virchow's Triad",
+    "course": "cardio",
+    "brick_id": "31",
+    "brick_title": "Deep Vein Thrombosis",
+    "type": "physiology",
+    "buzzwords": [
+      "predisposes to thrombus",
+      "three conditions",
+      "venous stasis",
+      "endothelial injury",
+      "hypercoagulable state",
+      "turbulent flow promotes clot",
+      "explains DVT pathophysiology",
+      "Virchow's triad"
+    ]
+  },
+  {
+    "id": "cardio-31-3",
+    "title": "Factor V Leiden",
+    "course": "cardio",
+    "brick_id": "31",
+    "brick_title": "Deep Vein Thrombosis",
+    "type": "disease",
+    "buzzwords": [
+      "inherited hypercoagulability",
+      "clotting factor mutation",
+      "most common inherited cause",
+      "factor V mutation",
+      "resists protein C cleavage",
+      "factor V stays active",
+      "promotes venous thrombosis",
+      "Factor V Leiden"
+    ]
+  },
+  {
+    "id": "cardio-31-4",
+    "title": "Phlegmasia Cerulea Dolens",
+    "course": "cardio",
+    "brick_id": "31",
+    "brick_title": "Deep Vein Thrombosis",
+    "type": "disease",
+    "buzzwords": [
+      "severe DVT complication",
+      "near-total venous outflow block",
+      "swollen painful leg",
+      "edematous cyanotic limb",
+      "blue discoloration",
+      "risk of limb ischemia",
+      "surgical emergency",
+      "phlegmasia cerulea dolens"
+    ]
+  },
+  {
+    "id": "cardio-31-5",
+    "title": "Wells Score",
+    "course": "cardio",
+    "brick_id": "31",
+    "brick_title": "Deep Vein Thrombosis",
+    "type": "lab",
+    "buzzwords": [
+      "clinical decision tool",
+      "estimates pretest probability",
+      "risk stratifies DVT",
+      "points for active cancer",
+      "points for immobilization",
+      "minus 2 if alternative likely",
+      "low score gets D-dimer",
+      "Wells score"
+    ]
+  },
+  {
+    "id": "cardio-31-6",
+    "title": "D-dimer",
+    "course": "cardio",
+    "brick_id": "31",
+    "brick_title": "Deep Vein Thrombosis",
+    "type": "lab",
+    "buzzwords": [
+      "blood test",
+      "fibrin degradation product",
+      "marker of clot breakdown",
+      "sensitive not specific",
+      "elevated by many conditions",
+      "best for ruling out DVT",
+      "normal level excludes DVT",
+      "cutoff 500 ng/mL"
+    ]
+  },
+  {
+    "id": "cardio-31-7",
+    "title": "Compression Ultrasound",
+    "course": "cardio",
+    "brick_id": "31",
+    "brick_title": "Deep Vein Thrombosis",
+    "type": "imaging",
+    "buzzwords": [
+      "best imaging for DVT",
+      "no radiation",
+      "transducer presses the vein",
+      "normal vein collapses",
+      "clot prevents collapse",
+      "non-compressible vein",
+      "whole-leg study preferred",
+      "compression ultrasonography"
+    ]
+  },
+  {
+    "id": "cardio-31-8",
+    "title": "Anticoagulation for DVT",
+    "course": "cardio",
+    "brick_id": "31",
+    "brick_title": "Deep Vein Thrombosis",
+    "type": "drug",
+    "buzzwords": [
+      "main DVT treatment",
+      "prevents clot extension",
+      "heparin for prophylaxis",
+      "warfarin bridged with heparin",
+      "needs INR monitoring",
+      "factor Xa inhibitor option",
+      "no monitoring needed",
+      "rivaroxaban or apixaban"
+    ]
+  }
+]

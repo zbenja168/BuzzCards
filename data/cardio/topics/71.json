@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-71-1",
+    "title": "Shock",
+    "course": "cardio",
+    "brick_id": "71",
+    "brick_title": "Shock",
+    "type": "physiology",
+    "buzzwords": [
+      "inadequate tissue perfusion",
+      "cellular oxygen imbalance",
+      "shift to anaerobic glycolysis",
+      "lactate buildup",
+      "ATP deficit, ion pump failure",
+      "MAP < 65 inadequate",
+      "DO2 = CO x CaO2",
+      "five types: NCDOH"
+    ]
+  },
+  {
+    "id": "cardio-71-2",
+    "title": "Distributive Shock",
+    "course": "cardio",
+    "brick_id": "71",
+    "brick_title": "Shock",
+    "type": "disease",
+    "buzzwords": [
+      "warm, well-perfused skin early",
+      "bounding pulses",
+      "low SVR, low afterload",
+      "compensatory high cardiac output",
+      "low preload",
+      "small AV oxygen difference",
+      "septic, anaphylactic, adrenal",
+      "cytokine-driven vasodilation"
+    ]
+  },
+  {
+    "id": "cardio-71-3",
+    "title": "Cardiogenic Shock",
+    "course": "cardio",
+    "brick_id": "71",
+    "brick_title": "Shock",
+    "type": "disease",
+    "buzzwords": [
+      "pump failure",
+      "very low cardiac output",
+      "high SVR despite low BP",
+      "cool extremities, weak pulses",
+      "elevated JVD",
+      "high preload, pulmonary edema",
+      "MI, cardiomyopathy, arrhythmia",
+      "S3 heart sound"
+    ]
+  },
+  {
+    "id": "cardio-71-4",
+    "title": "Hypovolemic Shock",
+    "course": "cardio",
+    "brick_id": "71",
+    "brick_title": "Shock",
+    "type": "disease",
+    "buzzwords": [
+      "loss of intravascular volume",
+      "low preload",
+      "low cardiac output",
+      "compensatory high SVR",
+      "cold, pale extremities",
+      "trauma or GI bleeding source",
+      "symptoms after 15-30% loss",
+      "hemorrhagic shock"
+    ]
+  },
+  {
+    "id": "cardio-71-5",
+    "title": "Neurogenic Shock",
+    "course": "cardio",
+    "brick_id": "71",
+    "brick_title": "Shock",
+    "type": "disease",
+    "buzzwords": [
+      "loss of sympathetic tone",
+      "everything low",
+      "low SVR, low afterload",
+      "low cardiac output, low preload",
+      "warm, dry skin below injury",
+      "bradycardia, not tachycardia",
+      "high spinal cord injury above T6",
+      "hypotension-bradycardia triad"
+    ]
+  },
+  {
+    "id": "cardio-71-6",
+    "title": "Obstructive Shock",
+    "course": "cardio",
+    "brick_id": "71",
+    "brick_title": "Shock",
+    "type": "disease",
+    "buzzwords": [
+      "mechanical blockage of flow",
+      "normal heart and volume",
+      "decreased cardiac output",
+      "high SVR, low LV preload",
+      "absent breath sounds: pneumothorax",
+      "distant heart sounds, JVD: tamponade",
+      "pleuritic chest pain, dyspnea: PE",
+      "pulmonary embolism"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cardio-23-1",
+    "title": "Cardiac Myxoma",
+    "course": "cardio",
+    "brick_id": "23",
+    "brick_title": "Cardiac Tumors",
+    "type": "disease",
+    "buzzwords": [
+      "benign primary tumor",
+      "most common in adults",
+      "twice as common in women",
+      "pedunculated mobile mass",
+      "left atrium",
+      "mimics mitral stenosis",
+      "spindle cells in myxoid stroma",
+      "tumor plop"
+    ]
+  },
+  {
+    "id": "cardio-23-2",
+    "title": "Cardiac Rhabdomyoma",
+    "course": "cardio",
+    "brick_id": "23",
+    "brick_title": "Cardiac Tumors",
+    "type": "disease",
+    "buzzwords": [
+      "benign striated muscle tumor",
+      "most common pediatric tumor",
+      "diagnosed in utero",
+      "ventricular myocardium",
+      "often regress spontaneously",
+      "treat with mTOR inhibitor",
+      "tuberous sclerosis (TSC1/TSC2)",
+      "spider cells"
+    ]
+  }
+]

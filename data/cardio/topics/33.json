@@ -1,0 +1,146 @@
+[
+  {
+    "id": "cardio-33-1",
+    "title": "Widened Mediastinum",
+    "course": "cardio",
+    "brick_id": "33",
+    "brick_title": "Diagnosis by Cardiovascular Imaging",
+    "type": "imaging",
+    "buzzwords": [
+      "chest X-ray finding",
+      "wide central shadow",
+      "seen after trauma",
+      "tumor or vascular cause",
+      "prompts chest CT angiogram",
+      "lymphoma or thymoma",
+      "thoracic aortic aneurysm",
+      "aortic dissection"
+    ]
+  },
+  {
+    "id": "cardio-33-2",
+    "title": "Cardiac Silhouette Enlargement",
+    "course": "cardio",
+    "brick_id": "33",
+    "brick_title": "Diagnosis by Cardiovascular Imaging",
+    "type": "imaging",
+    "buzzwords": [
+      "chest X-ray finding",
+      "big heart shadow",
+      "cardiothoracic ratio over 0.5",
+      "cardiomegaly or effusion",
+      "AP film overestimates size",
+      "asymmetric in cardiomegaly",
+      "rounded globular shape",
+      "water bottle heart"
+    ]
+  },
+  {
+    "id": "cardio-33-3",
+    "title": "Cardiogenic Pulmonary Edema",
+    "course": "cardio",
+    "brick_id": "33",
+    "brick_title": "Diagnosis by Cardiovascular Imaging",
+    "type": "imaging",
+    "buzzwords": [
+      "chest X-ray finding",
+      "fluid backs into lungs",
+      "starts centrally and bilateral",
+      "cephalization of flow",
+      "interlobular septal edema",
+      "pleural effusions common",
+      "perihilar bat-wing opacities",
+      "Kerley B lines"
+    ]
+  },
+  {
+    "id": "cardio-33-4",
+    "title": "Echocardiography",
+    "course": "cardio",
+    "brick_id": "33",
+    "brick_title": "Diagnosis by Cardiovascular Imaging",
+    "type": "imaging",
+    "buzzwords": [
+      "real-time noninvasive imaging",
+      "no radiation",
+      "test of choice for effusion",
+      "measures ejection fraction",
+      "evaluates valve function",
+      "RV collapse signals tamponade",
+      "detects regional wall abnormality",
+      "cardiac echo"
+    ]
+  },
+  {
+    "id": "cardio-33-5",
+    "title": "Nuclear Cardiac Stress Test",
+    "course": "cardio",
+    "brick_id": "33",
+    "brick_title": "Diagnosis by Cardiovascular Imaging",
+    "type": "imaging",
+    "buzzwords": [
+      "uses radiotracer uptake",
+      "compares stress and rest",
+      "assesses myocardial perfusion",
+      "detects ischemia not vessels",
+      "fixed defect means scar",
+      "reversible defect means ischemia",
+      "SPECT or PET technique",
+      "myocardial perfusion imaging"
+    ]
+  },
+  {
+    "id": "cardio-33-6",
+    "title": "Coronary CT Angiography",
+    "course": "cardio",
+    "brick_id": "33",
+    "brick_title": "Diagnosis by Cardiovascular Imaging",
+    "type": "imaging",
+    "buzzwords": [
+      "noninvasive vessel imaging",
+      "uses iodinated contrast",
+      "directly visualizes coronaries",
+      "best to find stenosis",
+      "down to pedal vessels",
+      "alternative to catheter angiography",
+      "screens for aortic aneurysm",
+      "coronary CTA"
+    ]
+  },
+  {
+    "id": "cardio-33-7",
+    "title": "Coronary Artery Calcium Score",
+    "course": "cardio",
+    "brick_id": "33",
+    "brick_title": "Diagnosis by Cardiovascular Imaging",
+    "type": "imaging",
+    "buzzwords": [
+      "low-dose noncontrast CT",
+      "no contrast needed",
+      "quantifies plaque calcium",
+      "marker of atherosclerosis",
+      "screens asymptomatic patients",
+      "guides statin decisions",
+      "higher score worse risk",
+      "Agatston calcium score"
+    ]
+  },
+  {
+    "id": "cardio-33-8",
+    "title": "Conventional Coronary Angiography",
+    "course": "cardio",
+    "brick_id": "33",
+    "brick_title": "Diagnosis by Cardiovascular Imaging",
+    "type": "imaging",
+    "buzzwords": [
+      "invasive catheter study",
+      "contrast injected into arteries",
+      "gold standard for stenosis",
+      "allows same-session intervention",
+      "balloon dilation and stenting",
+      "atherectomy removes plaque",
+      "needed for PCI",
+      "cardiac catheterization"
+    ]
+  }
+]

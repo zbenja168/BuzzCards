@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cardio-42-1",
+    "title": "Sinoatrial Exit Block",
+    "course": "cardio",
+    "brick_id": "42",
+    "brick_title": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "type": "disease",
+    "buzzwords": [
+      "failure of impulse propagation",
+      "atrial muscle fails to depolarize",
+      "sinus impulse not transmitted",
+      "presents as a pause",
+      "any cardiac pathology can cause",
+      "mimics sinus node dysfunction",
+      "hard to distinguish from sinus pause",
+      "block at the SA node"
+    ]
+  },
+  {
+    "id": "cardio-42-2",
+    "title": "Right Bundle Branch Block",
+    "course": "cardio",
+    "brick_id": "42",
+    "brick_title": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "type": "disease",
+    "buzzwords": [
+      "delayed ventricular conduction",
+      "wide QRS over 120 ms",
+      "left ventricle activates first",
+      "M-shaped complex in V1",
+      "upright QRS in V1",
+      "rsR prime pattern",
+      "rabbit ears morphology",
+      "RSR prime in right precordial leads"
+    ]
+  },
+  {
+    "id": "cardio-42-3",
+    "title": "Left Bundle Branch Block",
+    "course": "cardio",
+    "brick_id": "42",
+    "brick_title": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "type": "disease",
+    "buzzwords": [
+      "delayed ventricular conduction",
+      "wide QRS over 120 ms",
+      "right ventricle activates first",
+      "loss of normal septal Q waves",
+      "downward QRS in V1",
+      "broad notched R in V6",
+      "W in V1 M in V6",
+      "WiLLiaM pattern"
+    ]
+  },
+  {
+    "id": "cardio-42-4",
+    "title": "First-Degree AV Block",
+    "course": "cardio",
+    "brick_id": "42",
+    "brick_title": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "type": "disease",
+    "buzzwords": [
+      "delayed AV conduction",
+      "every impulse still conducts",
+      "usually asymptomatic",
+      "common in trained athletes",
+      "no treatment needed",
+      "narrow QRS preserved",
+      "constant prolonged PR interval",
+      "PR over 0.2 seconds"
+    ]
+  },
+  {
+    "id": "cardio-42-5",
+    "title": "Mobitz Type I",
+    "course": "cardio",
+    "brick_id": "42",
+    "brick_title": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "type": "disease",
+    "buzzwords": [
+      "grouped beats pattern",
+      "block within the AV node",
+      "vagal tone or inferior MI",
+      "often benign and asymptomatic",
+      "responds to atropine",
+      "progressive PR lengthening",
+      "until a dropped beat",
+      "Wenckebach"
+    ]
+  },
+  {
+    "id": "cardio-42-6",
+    "title": "Mobitz Type II",
+    "course": "cardio",
+    "brick_id": "42",
+    "brick_title": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "type": "disease",
+    "buzzwords": [
+      "intermittent dropped beats",
+      "block below the AV node",
+      "often widened QRS",
+      "almost always cardiac disease",
+      "high risk of complete block",
+      "pacemaker required",
+      "constant PR then sudden drop",
+      "infra-Hisian bundle branch block"
+    ]
+  },
+  {
+    "id": "cardio-42-7",
+    "title": "Third-Degree AV Block",
+    "course": "cardio",
+    "brick_id": "42",
+    "brick_title": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "type": "disease",
+    "buzzwords": [
+      "no atrial to ventricular conduction",
+      "bradycardia and syncope",
+      "more P waves than QRS",
+      "slow ventricular escape rhythm",
+      "infra-Hisian escape unreliable",
+      "pacemaker placement required",
+      "P waves march independent of QRS",
+      "AV dissociation"
+    ]
+  }
+]

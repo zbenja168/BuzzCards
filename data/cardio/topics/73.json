@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-73-1",
+    "title": "GPA",
+    "course": "cardio",
+    "brick_id": "73",
+    "brick_title": "Small-Vessel Vasculitis",
+    "type": "disease",
+    "buzzwords": [
+      "autoimmune small-vessel vasculitis",
+      "ears, nose, throat",
+      "upper + lower respiratory disease",
+      "necrotizing granulomas",
+      "saddle nose deformity",
+      "crescentic glomerulonephritis",
+      "c-ANCA / anti-PR3",
+      "Wegener granulomatosis"
+    ]
+  },
+  {
+    "id": "cardio-73-2",
+    "title": "EGPA",
+    "course": "cardio",
+    "brick_id": "73",
+    "brick_title": "Small-Vessel Vasculitis",
+    "type": "disease",
+    "buzzwords": [
+      "autoimmune small-vessel vasculitis",
+      "asthma + allergic rhinitis",
+      "nasal polyps",
+      "blood eosinophilia >10%",
+      "three sequential stages",
+      "p-ANCA / anti-MPO",
+      "mepolizumab (anti-IL-5)",
+      "Churg-Strauss syndrome"
+    ]
+  },
+  {
+    "id": "cardio-73-3",
+    "title": "MPA",
+    "course": "cardio",
+    "brick_id": "73",
+    "brick_title": "Small-Vessel Vasculitis",
+    "type": "disease",
+    "buzzwords": [
+      "autoimmune small-vessel vasculitis",
+      "pulmonary-renal syndrome",
+      "hemoptysis",
+      "nephritic syndrome",
+      "palpable purpura",
+      "no granulomas",
+      "alveolar hemorrhage",
+      "p-ANCA / anti-MPO"
+    ]
+  },
+  {
+    "id": "cardio-73-4",
+    "title": "IgA Vasculitis",
+    "course": "cardio",
+    "brick_id": "73",
+    "brick_title": "Small-Vessel Vasculitis",
+    "type": "disease",
+    "buzzwords": [
+      "most common childhood vasculitis",
+      "immune-complex deposition",
+      "palpable purpura on legs",
+      "abdominal pain",
+      "arthritis",
+      "glomerulonephritis",
+      "follows viral URI",
+      "Henoch-Schonlein purpura"
+    ]
+  },
+  {
+    "id": "cardio-73-5",
+    "title": "Cryoglobulinemic Vasculitis",
+    "course": "cardio",
+    "brick_id": "73",
+    "brick_title": "Small-Vessel Vasculitis",
+    "type": "disease",
+    "buzzwords": [
+      "immune-complex vasculitis",
+      "cold exposure trigger",
+      "palpable purpura",
+      "arthralgia + neuropathy",
+      "membranoproliferative glomerulonephritis",
+      "Raynaud phenomenon",
+      "serum cryoglobulins",
+      "hepatitis C association"
+    ]
+  },
+  {
+    "id": "cardio-73-6",
+    "title": "Anti-GBM Disease",
+    "course": "cardio",
+    "brick_id": "73",
+    "brick_title": "Small-Vessel Vasculitis",
+    "type": "disease",
+    "buzzwords": [
+      "pulmonary-renal syndrome",
+      "hematuria",
+      "declining renal function",
+      "pulmonary hemorrhage",
+      "anti-collagen antibodies",
+      "treated with plasma exchange",
+      "Goodpasture syndrome",
+      "linear IgG along GBM"
+    ]
+  }
+]

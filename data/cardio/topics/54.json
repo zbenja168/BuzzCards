@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cardio-54-1",
+    "title": "Myogenic Mechanism",
+    "course": "cardio",
+    "brick_id": "54",
+    "brick_title": "Local Control of the Microcirculation",
+    "type": "physiology",
+    "buzzwords": [
+      "intrinsic flow control",
+      "responds to vessel stretch",
+      "keeps flow constant",
+      "active over 60-150 mmHg",
+      "stretch-sensitive Ca channels",
+      "rising pressure causes constriction",
+      "smooth muscle contracts",
+      "myogenic autoregulation"
+    ]
+  },
+  {
+    "id": "cardio-54-2",
+    "title": "Metabolic Control",
+    "course": "cardio",
+    "brick_id": "54",
+    "brick_title": "Local Control of the Microcirculation",
+    "type": "physiology",
+    "buzzwords": [
+      "matches flow to demand",
+      "byproducts cause vasodilation",
+      "low PO2 dilates vessels",
+      "high CO2 dilates",
+      "acidosis dilates",
+      "rising K+ dilates",
+      "depletes intracellular ATP",
+      "adenosine vasodilation"
+    ]
+  },
+  {
+    "id": "cardio-54-3",
+    "title": "Reactive Hyperemia",
+    "course": "cardio",
+    "brick_id": "54",
+    "brick_title": "Local Control of the Microcirculation",
+    "type": "physiology",
+    "buzzwords": [
+      "transient flow surge",
+      "follows blood supply loss",
+      "metabolites accumulate during block",
+      "vessels widen on reperfusion",
+      "flow overshoots normal",
+      "longer occlusion, longer response",
+      "post-ischemic hyperemia",
+      "after vessel occlusion released"
+    ]
+  },
+  {
+    "id": "cardio-54-4",
+    "title": "Nitric Oxide",
+    "course": "cardio",
+    "brick_id": "54",
+    "brick_title": "Local Control of the Microcirculation",
+    "type": "physiology",
+    "buzzwords": [
+      "paracrine vasodilator",
+      "made by endothelium",
+      "stimulated by shear stress",
+      "diffuses to smooth muscle",
+      "raises cGMP",
+      "activates myosin-light-chain phosphatase",
+      "synthesized by eNOS",
+      "nitroglycerin mimics it"
+    ]
+  },
+  {
+    "id": "cardio-54-5",
+    "title": "Endothelin-1",
+    "course": "cardio",
+    "brick_id": "54",
+    "brick_title": "Local Control of the Microcirculation",
+    "type": "physiology",
+    "buzzwords": [
+      "endothelial paracrine factor",
+      "potent vasoconstrictor",
+      "sets basal vascular tone",
+      "elevated in hypoxia",
+      "raised in heart failure",
+      "high in preeclampsia",
+      "cleaved by converting enzyme",
+      "drives pulmonary hypertension"
+    ]
+  },
+  {
+    "id": "cardio-54-6",
+    "title": "Sympathetic Control",
+    "course": "cardio",
+    "brick_id": "54",
+    "brick_title": "Local Control of the Microcirculation",
+    "type": "physiology",
+    "buzzwords": [
+      "extrinsic neural control",
+      "primarily causes vasoconstriction",
+      "acts via alpha-1 receptors",
+      "strongest in skin",
+      "maintains systemic vascular resistance",
+      "skeletal muscle beta-2 dilation",
+      "baseline sympathetic tone",
+      "fight-or-flight redistribution"
+    ]
+  },
+  {
+    "id": "cardio-54-7",
+    "title": "Catecholamine Control",
+    "course": "cardio",
+    "brick_id": "54",
+    "brick_title": "Local Control of the Microcirculation",
+    "type": "physiology",
+    "buzzwords": [
+      "circulating hormonal control",
+      "released from adrenal medulla",
+      "epinephrine dilates skeletal muscle",
+      "low-dose epinephrine beta-2 effect",
+      "high-dose epinephrine alpha effect",
+      "norepinephrine widespread vasoconstriction",
+      "norepinephrine prefers alpha-1",
+      "epinephrine and norepinephrine"
+    ]
+  }
+]

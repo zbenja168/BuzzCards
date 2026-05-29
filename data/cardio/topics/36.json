@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cardio-36-1",
+    "title": "Familial Hypercholesterolemia",
+    "course": "cardio",
+    "brick_id": "36",
+    "brick_title": "Dyslipidemia: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "isolated high LDL",
+      "autosomal dominant",
+      "premature CAD",
+      "tendon xanthomas",
+      "corneal arcus",
+      "defective LDL receptor",
+      "ApoB-100 defect",
+      "Fredrickson IIa"
+    ]
+  },
+  {
+    "id": "cardio-36-2",
+    "title": "Familial Combined Hyperlipidemia",
+    "course": "cardio",
+    "brick_id": "36",
+    "brick_title": "Dyslipidemia: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "most common lipid disorder",
+      "high LDL and TGs",
+      "VLDL overproduction",
+      "small dense LDL",
+      "insulin resistance",
+      "looks like metabolic syndrome",
+      "high ApoB-100",
+      "Fredrickson IIb"
+    ]
+  },
+  {
+    "id": "cardio-36-3",
+    "title": "Familial Dysbetalipoproteinemia",
+    "course": "cardio",
+    "brick_id": "36",
+    "brick_title": "Dyslipidemia: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "remnant accumulation",
+      "elevated cholesterol and TGs",
+      "premature atherosclerosis",
+      "palmar xanthomas",
+      "impaired remnant clearance",
+      "autosomal recessive",
+      "APOE mutation",
+      "Fredrickson III"
+    ]
+  },
+  {
+    "id": "cardio-36-4",
+    "title": "Familial Hypertriglyceridemia",
+    "course": "cardio",
+    "brick_id": "36",
+    "brick_title": "Dyslipidemia: Pathophysiology",
+    "type": "disease",
+    "buzzwords": [
+      "very high triglycerides",
+      "elevated VLDL",
+      "milky creamy serum",
+      "eruptive xanthomas",
+      "lipemia retinalis",
+      "acute pancreatitis risk",
+      "autosomal dominant",
+      "Fredrickson IV"
+    ]
+  }
+]

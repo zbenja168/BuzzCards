@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cardio-75-1",
+    "title": "Venous Insufficiency",
+    "course": "cardio",
+    "brick_id": "75",
+    "brick_title": "Superficial Venous Disease",
+    "type": "disease",
+    "buzzwords": [
+      "leg aching, swelling",
+      "worse end of day",
+      "relieved by elevation",
+      "common after age 40",
+      "floppy, leaky valves",
+      "retrograde venous reflux",
+      "dilated tortuous veins",
+      "varicose veins"
+    ]
+  },
+  {
+    "id": "cardio-75-2",
+    "title": "Stasis Dermatitis",
+    "course": "cardio",
+    "brick_id": "75",
+    "brick_title": "Superficial Venous Disease",
+    "type": "disease",
+    "buzzwords": [
+      "chronic leg skin change",
+      "medial lower leg",
+      "from venous hypertension",
+      "increased capillary permeability",
+      "red cell extravasation",
+      "hemosiderin deposits",
+      "hyperpigmentation, scaling",
+      "may ulcerate"
+    ]
+  },
+  {
+    "id": "cardio-75-3",
+    "title": "Thrombophlebitis",
+    "course": "cardio",
+    "brick_id": "75",
+    "brick_title": "Superficial Venous Disease",
+    "type": "disease",
+    "buzzwords": [
+      "vein inflammation plus clot",
+      "at venipuncture sites",
+      "often catheter-associated",
+      "Virchow triad trigger",
+      "lower PE risk than DVT",
+      "redness, warmth, tenderness",
+      "treat with analgesics, elevation",
+      "palpable tender cord"
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-74-1",
+    "title": "Capillary Hydrostatic Pressure",
+    "course": "cardio",
+    "brick_id": "74",
+    "brick_title": "Starling Forces",
+    "type": "physiology",
+    "buzzwords": [
+      "pushes fluid out",
+      "favors filtration",
+      "drops along capillary",
+      "highest at arteriolar end",
+      "from blood pressure",
+      "dominates arteriolar end",
+      "symbol Pc",
+      "drives net filtration"
+    ]
+  },
+  {
+    "id": "cardio-74-2",
+    "title": "Capillary Oncotic Pressure",
+    "course": "cardio",
+    "brick_id": "74",
+    "brick_title": "Starling Forces",
+    "type": "physiology",
+    "buzzwords": [
+      "pulls fluid in",
+      "favors reabsorption",
+      "from plasma proteins",
+      "stays fairly constant",
+      "dominates venular end",
+      "driven by albumin",
+      "symbol pi-c",
+      "low albumin weakens it"
+    ]
+  },
+  {
+    "id": "cardio-74-3",
+    "title": "Interstitial Pressures",
+    "course": "cardio",
+    "brick_id": "74",
+    "brick_title": "Starling Forces",
+    "type": "physiology",
+    "buzzwords": [
+      "forces outside capillary",
+      "generally low values",
+      "hydrostatic pushes fluid in",
+      "oncotic keeps fluid out",
+      "lower than capillary forces",
+      "rise with protein leak",
+      "symbols Pi and pi-i",
+      "promote edema when elevated"
+    ]
+  },
+  {
+    "id": "cardio-74-4",
+    "title": "Starling Equation",
+    "course": "cardio",
+    "brick_id": "74",
+    "brick_title": "Starling Forces",
+    "type": "physiology",
+    "buzzwords": [
+      "quantifies fluid flux",
+      "balances opposing pressures",
+      "positive value means filtration",
+      "negative value means reabsorption",
+      "uses reflection coefficient sigma",
+      "filtration coefficient Kf",
+      "yields flux Jv",
+      "Jv = Kf(Pc-Pi) - sigma(pi-c - pi-i)"
+    ]
+  },
+  {
+    "id": "cardio-74-5",
+    "title": "Lymphatic Clearance",
+    "course": "cardio",
+    "brick_id": "74",
+    "brick_title": "Starling Forces",
+    "type": "physiology",
+    "buzzwords": [
+      "drains excess interstitial fluid",
+      "more filtered than reabsorbed",
+      "removes leaked proteins",
+      "low-pressure return system",
+      "one-way valves",
+      "skeletal muscle pump driven",
+      "clears 2-4 L per day",
+      "Starling hypothesis"
+    ]
+  },
+  {
+    "id": "cardio-74-6",
+    "title": "Edema",
+    "course": "cardio",
+    "brick_id": "74",
+    "brick_title": "Starling Forces",
+    "type": "disease",
+    "buzzwords": [
+      "excess interstitial fluid",
+      "swelling of tissues",
+      "high capillary hydrostatic pressure",
+      "low plasma albumin",
+      "increased capillary leakiness",
+      "lymphatic obstruction cause",
+      "pitting on pressure",
+      "non-pitting in lymphedema"
+    ]
+  }
+]

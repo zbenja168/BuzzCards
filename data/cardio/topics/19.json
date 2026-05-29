@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-19-1",
+    "title": "Baroreceptor Reflex",
+    "course": "cardio",
+    "brick_id": "19",
+    "brick_title": "Baroreceptor Regulation of Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "rapid blood pressure control",
+      "beat-to-beat regulation",
+      "maintains BP homeostasis",
+      "fast autonomic arm",
+      "negative feedback loop",
+      "senses arterial stretch",
+      "adjusts HR and resistance",
+      "arterial baroreflex"
+    ]
+  },
+  {
+    "id": "cardio-19-2",
+    "title": "Baroreceptor Anatomy",
+    "course": "cardio",
+    "brick_id": "19",
+    "brick_title": "Baroreceptor Regulation of Blood Pressure",
+    "type": "anatomy",
+    "buzzwords": [
+      "located close to heart",
+      "sense vessel wall stretch",
+      "afferents to medulla",
+      "efferents sympathetic and vagal",
+      "carotid sinus via CN IX",
+      "aortic arch via CN X",
+      "glossopharyngeal and vagus",
+      "aortic arch and carotid sinus"
+    ]
+  },
+  {
+    "id": "cardio-19-3",
+    "title": "Response to High BP",
+    "course": "cardio",
+    "brick_id": "19",
+    "brick_title": "Baroreceptor Regulation of Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "increased arterial stretch",
+      "increased afferent firing",
+      "sympathetic output decreases",
+      "parasympathetic output increases",
+      "drops heart rate",
+      "lowers contractility",
+      "vasodilation and venodilation",
+      "lowers cardiac output"
+    ]
+  },
+  {
+    "id": "cardio-19-4",
+    "title": "Response to Low BP",
+    "course": "cardio",
+    "brick_id": "19",
+    "brick_title": "Baroreceptor Regulation of Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "decreased arterial stretch",
+      "decreased afferent firing",
+      "sympathetic output increases",
+      "parasympathetic output decreases",
+      "raises heart rate",
+      "increased contractility",
+      "arteriolar and venous constriction",
+      "increased venous return"
+    ]
+  },
+  {
+    "id": "cardio-19-5",
+    "title": "Autonomic Tone",
+    "course": "cardio",
+    "brick_id": "19",
+    "brick_title": "Baroreceptor Regulation of Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "steady baseline firing",
+      "active without stimuli",
+      "allows bidirectional control",
+      "firing rises or falls",
+      "constant resting activity",
+      "enables fine regulation",
+      "characteristic of autonomic nerves",
+      "tonic activity"
+    ]
+  },
+  {
+    "id": "cardio-19-6",
+    "title": "Bainbridge Reflex",
+    "course": "cardio",
+    "brick_id": "19",
+    "brick_title": "Baroreceptor Regulation of Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "venous side reflex",
+      "stretch of right atrium",
+      "triggered by volume overload",
+      "high venous return",
+      "increases heart rate",
+      "raises cardiac output",
+      "relieves volume overload",
+      "atrial Bainbridge reflex"
+    ]
+  }
+]

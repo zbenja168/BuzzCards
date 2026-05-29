@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cardio-80-1",
+    "title": "Left Anterior Descending",
+    "course": "cardio",
+    "brick_id": "80",
+    "brick_title": "Vasculature and Lymphatics of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "epicardial coronary branch",
+      "runs in anterior groove",
+      "supplies cardiac apex",
+      "gives off diagonal branches",
+      "anterior 2/3 of septum",
+      "septal perforators",
+      "branch of left main",
+      "anterior interventricular artery"
+    ]
+  },
+  {
+    "id": "cardio-80-2",
+    "title": "Left Circumflex",
+    "course": "cardio",
+    "brick_id": "80",
+    "brick_title": "Vasculature and Lymphatics of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "branch of left main",
+      "runs in left AV groove",
+      "supplies left atrium",
+      "lateral left ventricle",
+      "gives off left marginal",
+      "wraps posteriorly",
+      "may supply SA/AV nodes",
+      "LCX"
+    ]
+  },
+  {
+    "id": "cardio-80-3",
+    "title": "Right Coronary Artery",
+    "course": "cardio",
+    "brick_id": "80",
+    "brick_title": "Vasculature and Lymphatics of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "arises from right aortic sinus",
+      "runs in right AV groove",
+      "supplies right atrium",
+      "right ventricle",
+      "gives off right marginal",
+      "supplies SA node",
+      "supplies AV node",
+      "RCA"
+    ]
+  },
+  {
+    "id": "cardio-80-4",
+    "title": "Posterior Descending Artery",
+    "course": "cardio",
+    "brick_id": "80",
+    "brick_title": "Vasculature and Lymphatics of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "defines coronary dominance",
+      "RCA branch in ~85%",
+      "posterior interventricular groove",
+      "posterior 1/3 of septum",
+      "inferior wall of heart",
+      "posteromedial papillary muscle",
+      "left-dominant if from LCX",
+      "PDA"
+    ]
+  },
+  {
+    "id": "cardio-80-5",
+    "title": "Coronary Anastomoses",
+    "course": "cardio",
+    "brick_id": "80",
+    "brick_title": "Vasculature and Lymphatics of the Heart",
+    "type": "physiology",
+    "buzzwords": [
+      "direct artery-to-artery connections",
+      "bypass an occlusion",
+      "reroute blood around blockage",
+      "form over days to weeks",
+      "guard against infarction",
+      "increased in CAD patients",
+      "angiogenesis and arteriogenesis",
+      "collateral circulation"
+    ]
+  },
+  {
+    "id": "cardio-80-6",
+    "title": "Cardiac Veins",
+    "course": "cardio",
+    "brick_id": "80",
+    "brick_title": "Vasculature and Lymphatics of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "drain deoxygenated cardiac blood",
+      "great vein follows LAD",
+      "middle vein follows PDA",
+      "small vein follows marginal",
+      "run in interventricular grooves",
+      "empty into one collector",
+      "opens into right atrium",
+      "coronary sinus"
+    ]
+  },
+  {
+    "id": "cardio-80-7",
+    "title": "Cardiac Lymphatics",
+    "course": "cardio",
+    "brick_id": "80",
+    "brick_title": "Vasculature and Lymphatics of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "drains excess interstitial fluid",
+      "clears debris and pathogens",
+      "aids healing after infarction",
+      "subepicardial and subendocardial plexuses",
+      "returns lymph to venous system",
+      "drains to tracheobronchial nodes",
+      "via thoracic and right lymph ducts",
+      "left-sided cardiac drainage dominant"
+    ]
+  }
+]

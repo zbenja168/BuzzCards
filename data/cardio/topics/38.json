@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cardio-38-1",
+    "title": "Normal Sinus Rhythm",
+    "course": "cardio",
+    "brick_id": "38",
+    "brick_title": "ECG Learning: Sinus Bradycardia and Tachycardia",
+    "type": "physiology",
+    "buzzwords": [
+      "organized electrical activity",
+      "rate 60-100 bpm",
+      "regular rhythm",
+      "P before every QRS",
+      "1:1 P-to-QRS",
+      "P, QRS, T sequence",
+      "impulse from SA node",
+      "normal conduction pathway"
+    ]
+  },
+  {
+    "id": "cardio-38-2",
+    "title": "Sinus Bradycardia",
+    "course": "cardio",
+    "brick_id": "38",
+    "brick_title": "ECG Learning: Sinus Bradycardia and Tachycardia",
+    "type": "disease",
+    "buzzwords": [
+      "slow regular rhythm",
+      "normal P morphology",
+      "prolonged R-R interval",
+      "prolonged P-P interval",
+      "normal PR interval",
+      "common in athletes",
+      "increased vagal tone",
+      "heart rate below 60"
+    ]
+  },
+  {
+    "id": "cardio-38-3",
+    "title": "Sinus Tachycardia",
+    "course": "cardio",
+    "brick_id": "38",
+    "brick_title": "ECG Learning: Sinus Bradycardia and Tachycardia",
+    "type": "disease",
+    "buzzwords": [
+      "fast regular rhythm",
+      "normal P morphology",
+      "shortened R-R interval",
+      "shortened P-P interval",
+      "QT shortens, QTc normal",
+      "normal QRS duration",
+      "P before every QRS",
+      "heart rate over 100"
+    ]
+  },
+  {
+    "id": "cardio-38-4",
+    "title": "Ventricular Depolarization Axis",
+    "course": "cardio",
+    "brick_id": "38",
+    "brick_title": "ECG Learning: Sinus Bradycardia and Tachycardia",
+    "type": "physiology",
+    "buzzwords": [
+      "depolarization wave direction",
+      "positive toward the lead",
+      "negative away from lead",
+      "normal axis -30 to +90",
+      "positive QRS in I and aVF",
+      "negative QRS in aVR",
+      "P wave axis 0 to +90",
+      "determines the QRS axis"
+    ]
+  }
+]

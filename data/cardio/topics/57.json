@@ -1,0 +1,164 @@
+[
+  {
+    "id": "cardio-57-1",
+    "title": "Cardiac Output",
+    "course": "cardio",
+    "brick_id": "57",
+    "brick_title": "Measuring Cardiac Function",
+    "type": "physiology",
+    "buzzwords": [
+      "heart pumping efficiency",
+      "blood delivered per minute",
+      "supplies oxygen to body",
+      "adjusts to body needs",
+      "depends on heart rate",
+      "depends on stroke volume",
+      "low in heart failure",
+      "CO = HR x SV"
+    ]
+  },
+  {
+    "id": "cardio-57-2",
+    "title": "Stroke Volume",
+    "course": "cardio",
+    "brick_id": "57",
+    "brick_title": "Measuring Cardiac Function",
+    "type": "physiology",
+    "buzzwords": [
+      "blood ejected per beat",
+      "varies with body size",
+      "rises with more preload",
+      "rises with more contractility",
+      "falls with more afterload",
+      "normally about 70 mL",
+      "EDV minus ESV",
+      "SV = EDV - ESV"
+    ]
+  },
+  {
+    "id": "cardio-57-3",
+    "title": "Ejection Fraction",
+    "course": "cardio",
+    "brick_id": "57",
+    "brick_title": "Measuring Cardiac Function",
+    "type": "physiology",
+    "buzzwords": [
+      "percentage of blood ejected",
+      "normalized for body size",
+      "key systolic function marker",
+      "measured by echocardiography",
+      "normally 55 to 60 percent",
+      "reduced below 55 percent",
+      "stroke volume over EDV",
+      "EF = SV / EDV"
+    ]
+  },
+  {
+    "id": "cardio-57-4",
+    "title": "HFrEF",
+    "course": "cardio",
+    "brick_id": "57",
+    "brick_title": "Measuring Cardiac Function",
+    "type": "disease",
+    "buzzwords": [
+      "weak pumping heart",
+      "diminished contractility",
+      "low stroke volume",
+      "low cardiac output",
+      "fatigue and dyspnea",
+      "treated with beta-blocker",
+      "treated with ACE inhibitor",
+      "ejection fraction below 55"
+    ]
+  },
+  {
+    "id": "cardio-57-5",
+    "title": "HFpEF",
+    "course": "cardio",
+    "brick_id": "57",
+    "brick_title": "Measuring Cardiac Function",
+    "type": "disease",
+    "buzzwords": [
+      "stiff non-compliant heart",
+      "impaired ventricular filling",
+      "low end-diastolic volume",
+      "low stroke volume",
+      "low cardiac output",
+      "EF normal or increased",
+      "both SV and EDV fall",
+      "preserved ejection fraction"
+    ]
+  },
+  {
+    "id": "cardio-57-6",
+    "title": "Fick Principle",
+    "course": "cardio",
+    "brick_id": "57",
+    "brick_title": "Measuring Cardiac Function",
+    "type": "physiology",
+    "buzzwords": [
+      "measures cardiac output",
+      "uses oxygen consumption",
+      "VO2 by spirometry",
+      "arterial minus venous oxygen",
+      "needs right-heart catheter",
+      "samples pulmonary artery blood",
+      "CO = VO2 / (Ca-Cv)",
+      "Fick equation"
+    ]
+  },
+  {
+    "id": "cardio-57-7",
+    "title": "Dye Dilution",
+    "course": "cardio",
+    "brick_id": "57",
+    "brick_title": "Measuring Cardiac Function",
+    "type": "lab",
+    "buzzwords": [
+      "measures cardiac output",
+      "injected into right atrium",
+      "sampled in peripheral artery",
+      "concentration rises peaks falls",
+      "extrapolate the falloff slope",
+      "recirculation distorts curve",
+      "needs right-heart catheter",
+      "indicator dilution method"
+    ]
+  },
+  {
+    "id": "cardio-57-8",
+    "title": "Thermodilution",
+    "course": "cardio",
+    "brick_id": "57",
+    "brick_title": "Measuring Cardiac Function",
+    "type": "lab",
+    "buzzwords": [
+      "measures cardiac output",
+      "used in intensive care",
+      "precise CO calculation",
+      "injected into right atrium",
+      "cold saline bolus injected",
+      "tracks temperature change",
+      "needs right-heart catheter",
+      "thermistor-based dilution"
+    ]
+  },
+  {
+    "id": "cardio-57-9",
+    "title": "Angiography",
+    "course": "cardio",
+    "brick_id": "57",
+    "brick_title": "Measuring Cardiac Function",
+    "type": "imaging",
+    "buzzwords": [
+      "measures cardiac output",
+      "catheter into peripheral artery",
+      "advanced into left ventricle",
+      "radiocontrast dye injected",
+      "volumes estimated by x-ray",
+      "estimates EDV and ESV",
+      "no right-heart catheter needed",
+      "left-heart contrast imaging"
+    ]
+  }
+]

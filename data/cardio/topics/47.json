@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-47-1",
+    "title": "Natriuretic Peptides",
+    "course": "cardio",
+    "brick_id": "47",
+    "brick_title": "Humoral Regulation of Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "lowers blood pressure",
+      "vasodilator",
+      "promotes natriuresis",
+      "increases GFR",
+      "suppresses RAAS",
+      "released on cardiac stretch",
+      "elevated in heart failure",
+      "ANP and BNP"
+    ]
+  },
+  {
+    "id": "cardio-47-2",
+    "title": "Nitric Oxide",
+    "course": "cardio",
+    "brick_id": "47",
+    "brick_title": "Humoral Regulation of Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "potent vasodilator",
+      "lowers blood pressure",
+      "from vascular endothelium",
+      "relaxes smooth muscle",
+      "released by shear stress",
+      "treats pulmonary hypertension",
+      "metabolite of nitroglycerin",
+      "endogenous NO"
+    ]
+  },
+  {
+    "id": "cardio-47-3",
+    "title": "Histamine",
+    "course": "cardio",
+    "brick_id": "47",
+    "brick_title": "Humoral Regulation of Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "vasodilator",
+      "increases vessel permeability",
+      "mediates allergic reactions",
+      "released from mast cells",
+      "also from basophils",
+      "acts on H1 and H2 receptors",
+      "causes anaphylactic shock",
+      "blocked by antihistamines"
+    ]
+  },
+  {
+    "id": "cardio-47-4",
+    "title": "Bradykinin",
+    "course": "cardio",
+    "brick_id": "47",
+    "brick_title": "Humoral Regulation of Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "vasodilator",
+      "inflammatory mediator",
+      "cleaved from kininogen",
+      "activated by kallikreins",
+      "acts via B2 receptor",
+      "triggers NO and prostaglandins",
+      "causes angioedema",
+      "accumulates with ACE inhibitors"
+    ]
+  },
+  {
+    "id": "cardio-47-5",
+    "title": "Endothelin",
+    "course": "cardio",
+    "brick_id": "47",
+    "brick_title": "Humoral Regulation of Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "raises blood pressure",
+      "potent vasoconstrictor",
+      "from vascular endothelium",
+      "contracts smooth muscle",
+      "calcium-mediated contraction",
+      "stimulated by angiotensin II",
+      "elevated in pulmonary hypertension",
+      "acts via ET-A receptor"
+    ]
+  },
+  {
+    "id": "cardio-47-6",
+    "title": "Vasopressin",
+    "course": "cardio",
+    "brick_id": "47",
+    "brick_title": "Humoral Regulation of Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "raises blood pressure",
+      "vasoconstrictor",
+      "promotes water reabsorption",
+      "from posterior pituitary",
+      "released in hypovolemia",
+      "triggered by high osmolality",
+      "V1a and V2 receptors",
+      "antidiuretic hormone"
+    ]
+  }
+]

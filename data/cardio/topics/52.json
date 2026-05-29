@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cardio-52-1",
+    "title": "Giant Cell Arteritis",
+    "course": "cardio",
+    "brick_id": "52",
+    "brick_title": "Large-Vessel Vasculitis",
+    "type": "disease",
+    "buzzwords": [
+      "large-vessel vasculitis",
+      "age over 50",
+      "fever, fatigue, weight loss",
+      "new headache",
+      "scalp tenderness",
+      "jaw claudication",
+      "associated with polymyalgia rheumatica",
+      "temporal artery biopsy"
+    ]
+  },
+  {
+    "id": "cardio-52-2",
+    "title": "Takayasu Arteritis",
+    "course": "cardio",
+    "brick_id": "52",
+    "brick_title": "Large-Vessel Vasculitis",
+    "type": "disease",
+    "buzzwords": [
+      "large-vessel vasculitis",
+      "young Asian female",
+      "aorta and major branches",
+      "limb claudication",
+      "renovascular hypertension",
+      "weak upper-extremity pulses",
+      "pulseless disease",
+      "MRA macaroni sign"
+    ]
+  }
+]

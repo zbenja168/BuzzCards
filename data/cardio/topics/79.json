@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cardio-79-1",
+    "title": "Tricuspid Regurgitation",
+    "course": "cardio",
+    "brick_id": "79",
+    "brick_title": "Tricuspid Regurgitation and Tricuspid Stenosis",
+    "type": "disease",
+    "buzzwords": [
+      "right-sided valve",
+      "incomplete valve closure",
+      "holosystolic murmur",
+      "louder with inspiration",
+      "giant C-V wave on JVP",
+      "RV dilation tethers leaflets",
+      "IV drug use, S. aureus",
+      "carcinoid, Ebstein anomaly"
+    ]
+  },
+  {
+    "id": "cardio-79-2",
+    "title": "Tricuspid Stenosis",
+    "course": "cardio",
+    "brick_id": "79",
+    "brick_title": "Tricuspid Regurgitation and Tricuspid Stenosis",
+    "type": "disease",
+    "buzzwords": [
+      "very rare valve lesion",
+      "stiff valve won't open",
+      "impaired diastolic filling",
+      "RHF with normal RV",
+      "diastolic rumble at LLSB",
+      "giant A-wave on JVP",
+      "poorly tolerated in pregnancy",
+      "rheumatic heart disease"
+    ]
+  }
+]

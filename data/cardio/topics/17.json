@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cardio-17-1",
+    "title": "Atherosclerosis",
+    "course": "cardio",
+    "brick_id": "17",
+    "brick_title": "Atherosclerosis",
+    "type": "disease",
+    "buzzwords": [
+      "slow progressive",
+      "silent until complication",
+      "begins in childhood",
+      "narrows arterial lumen",
+      "affects arteries not veins",
+      "leading cause of death",
+      "fatty plaque buildup",
+      "atheromas"
+    ]
+  },
+  {
+    "id": "cardio-17-2",
+    "title": "Atherosclerosis Risk Factors",
+    "course": "cardio",
+    "brick_id": "17",
+    "brick_title": "Atherosclerosis",
+    "type": "physiology",
+    "buzzwords": [
+      "modifiable and non-modifiable",
+      "smoking",
+      "hypertension",
+      "diabetes",
+      "dyslipidemia",
+      "male before menopause",
+      "increasing age",
+      "family history strongest"
+    ]
+  },
+  {
+    "id": "cardio-17-3",
+    "title": "Atheroma Formation",
+    "course": "cardio",
+    "brick_id": "17",
+    "brick_title": "Atherosclerosis",
+    "type": "physiology",
+    "buzzwords": [
+      "six-step process",
+      "endothelial damage first",
+      "LDL accumulates in intima",
+      "monocytes become macrophages",
+      "fibrous cap over lipid core",
+      "smooth muscle migration",
+      "fatty streak precursor",
+      "foam cells"
+    ]
+  },
+  {
+    "id": "cardio-17-4",
+    "title": "Foam Cells",
+    "course": "cardio",
+    "brick_id": "17",
+    "brick_title": "Atherosclerosis",
+    "type": "physiology",
+    "buzzwords": [
+      "lipid-laden",
+      "frothy bubbly appearance",
+      "found in fatty streaks",
+      "engulf oxidized LDL",
+      "earliest visible lesion",
+      "form within intima",
+      "derived from macrophages",
+      "macrophages eating cholesterol"
+    ]
+  },
+  {
+    "id": "cardio-17-5",
+    "title": "Thrombosis",
+    "course": "cardio",
+    "brick_id": "17",
+    "brick_title": "Atherosclerosis",
+    "type": "physiology",
+    "buzzwords": [
+      "acute occlusion",
+      "blood clot in vessel",
+      "follows plaque rupture",
+      "platelet-rich clot",
+      "exposed collagen triggers it",
+      "causes MI or stroke",
+      "rapid total blockage",
+      "ruptured fibrous cap"
+    ]
+  },
+  {
+    "id": "cardio-17-6",
+    "title": "Atheroembolism",
+    "course": "cardio",
+    "brick_id": "17",
+    "brick_title": "Atherosclerosis",
+    "type": "physiology",
+    "buzzwords": [
+      "fragment breaks off",
+      "lodges downstream",
+      "occludes smaller vessel",
+      "kidney or intestine ischemia",
+      "from ruptured plaque",
+      "cholesterol crystals embolize",
+      "distal organ infarction",
+      "cholesterol emboli"
+    ]
+  },
+  {
+    "id": "cardio-17-7",
+    "title": "Aneurysm",
+    "course": "cardio",
+    "brick_id": "17",
+    "brick_title": "Atherosclerosis",
+    "type": "physiology",
+    "buzzwords": [
+      "abnormal bulging dilation",
+      "weakened vessel wall",
+      "turbulent flow injures wall",
+      "occurs at branch points",
+      "may rupture",
+      "abdominal aorta common",
+      "internal carotid site",
+      "femoral artery aneurysm"
+    ]
+  }
+]

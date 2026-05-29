@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cardio-72-1",
+    "title": "Sinus Bradycardia",
+    "course": "cardio",
+    "brick_id": "72",
+    "brick_title": "Sinus Bradycardia and Related Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "slow heart rate",
+      "rate below 60 bpm",
+      "normal P waves",
+      "impulse from SA node",
+      "reduced cardiac output",
+      "dizziness, fatigue",
+      "common in athletes",
+      "normal sinus rhythm, slow"
+    ]
+  },
+  {
+    "id": "cardio-72-2",
+    "title": "Sick Sinus Syndrome",
+    "course": "cardio",
+    "brick_id": "72",
+    "brick_title": "Sinus Bradycardia and Related Disorders",
+    "type": "disease",
+    "buzzwords": [
+      "intrinsic SA node disease",
+      "disease of the elderly",
+      "intermittent bradycardia",
+      "alternating brady and tachy",
+      "tachy-brady syndrome",
+      "chronotropic incompetence",
+      "needs pacemaker",
+      "sinus pauses over 3 seconds"
+    ]
+  },
+  {
+    "id": "cardio-72-3",
+    "title": "Intrinsic SA Node Causes",
+    "course": "cardio",
+    "brick_id": "72",
+    "brick_title": "Sinus Bradycardia and Related Disorders",
+    "type": "physiology",
+    "buzzwords": [
+      "inherent cardiac pathology",
+      "conduction system fibrosis",
+      "age-related degeneration",
+      "calcification of SA node",
+      "ischemic heart disease",
+      "right coronary artery ischemia",
+      "not reversible",
+      "wild-type transthyretin amyloidosis"
+    ]
+  },
+  {
+    "id": "cardio-72-4",
+    "title": "Extrinsic Causes",
+    "course": "cardio",
+    "brick_id": "72",
+    "brick_title": "Sinus Bradycardia and Related Disorders",
+    "type": "physiology",
+    "buzzwords": [
+      "external to the heart",
+      "increased vagal tone",
+      "often reversible",
+      "hypothyroidism",
+      "hyperkalemia",
+      "raised intracranial pressure",
+      "vasovagal syncope",
+      "Cushing reflex"
+    ]
+  },
+  {
+    "id": "cardio-72-5",
+    "title": "Drug-Induced Bradycardia",
+    "course": "cardio",
+    "brick_id": "72",
+    "brick_title": "Sinus Bradycardia and Related Disorders",
+    "type": "drug",
+    "buzzwords": [
+      "medication-induced slowing",
+      "blocks sympathetic drive",
+      "increased parasympathetic effect",
+      "beta-blockers",
+      "non-dihydropyridine calcium blockers",
+      "verapamil and diltiazem",
+      "digoxin raises vagal tone",
+      "clonidine, central alpha-2 agonist"
+    ]
+  },
+  {
+    "id": "cardio-72-6",
+    "title": "Treatment",
+    "course": "cardio",
+    "brick_id": "72",
+    "brick_title": "Sinus Bradycardia and Related Disorders",
+    "type": "drug",
+    "buzzwords": [
+      "treat symptomatic cases",
+      "first-line acute drug",
+      "blocks vagal effect on SA node",
+      "transcutaneous pacing if drugs fail",
+      "transvenous pacing bridge",
+      "definitive therapy for intrinsic disease",
+      "permanent pacemaker implantation",
+      "atropine"
+    ]
+  },
+  {
+    "id": "cardio-72-7",
+    "title": "Junctional Escape Rhythm",
+    "course": "cardio",
+    "brick_id": "72",
+    "brick_title": "Sinus Bradycardia and Related Disorders",
+    "type": "physiology",
+    "buzzwords": [
+      "backup pacemaker activates",
+      "arises when SA node fails",
+      "narrow QRS complex",
+      "rate 40 to 60 bpm",
+      "absent or inverted P waves",
+      "originates at AV junction",
+      "protective default rhythm",
+      "AV node escape pacemaker"
+    ]
+  }
+]

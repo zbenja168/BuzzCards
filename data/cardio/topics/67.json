@@ -1,0 +1,146 @@
+[
+  {
+    "id": "cardio-67-1",
+    "title": "Primary Hypertension",
+    "course": "cardio",
+    "brick_id": "67",
+    "brick_title": "Primary (Essential) Hypertension",
+    "type": "disease",
+    "buzzwords": [
+      "most common chronic disease",
+      "90-95% of cases",
+      "no identifiable cause",
+      "often asymptomatic",
+      "BP over 130/80",
+      "increased SVR or output",
+      "the silent killer",
+      "essential hypertension"
+    ]
+  },
+  {
+    "id": "cardio-67-2",
+    "title": "Thiazide Diuretics",
+    "course": "cardio",
+    "brick_id": "67",
+    "brick_title": "Primary (Essential) Hypertension",
+    "type": "drug",
+    "buzzwords": [
+      "first-line antihypertensive",
+      "increases water excretion",
+      "lowers blood volume",
+      "distal convoluted tubule",
+      "hypokalemia, hyponatremia",
+      "hyperuricemia, gout",
+      "inhibits Na-Cl symporter",
+      "hydrochlorothiazide, chlorthalidone"
+    ]
+  },
+  {
+    "id": "cardio-67-3",
+    "title": "Calcium Channel Blockers",
+    "course": "cardio",
+    "brick_id": "67",
+    "brick_title": "Primary (Essential) Hypertension",
+    "type": "drug",
+    "buzzwords": [
+      "first-line antihypertensive",
+      "block calcium entry",
+      "relax smooth muscle",
+      "arterial vasodilation lowers SVR",
+      "peripheral edema, reflex tachycardia",
+      "dihydropyridine vs non-DHP",
+      "DHPs lower SVR most",
+      "amlodipine, verapamil, diltiazem"
+    ]
+  },
+  {
+    "id": "cardio-67-4",
+    "title": "ACE Inhibitors",
+    "course": "cardio",
+    "brick_id": "67",
+    "brick_title": "Primary (Essential) Hypertension",
+    "type": "drug",
+    "buzzwords": [
+      "first-line antihypertensive",
+      "favored in diabetes, CKD",
+      "blocks angiotensin I to II",
+      "lowers SVR and BP",
+      "increases natriuresis",
+      "dry cough",
+      "angioedema, hyperkalemia",
+      "the -pril drugs"
+    ]
+  },
+  {
+    "id": "cardio-67-5",
+    "title": "ARBs",
+    "course": "cardio",
+    "brick_id": "67",
+    "brick_title": "Primary (Essential) Hypertension",
+    "type": "drug",
+    "buzzwords": [
+      "first-line antihypertensive",
+      "blocks angiotensin II receptor",
+      "AT1 receptor blockade",
+      "lowers SVR and mean BP",
+      "increases natriuresis",
+      "no dry cough",
+      "teratogenic, hyperkalemia",
+      "the -sartan drugs"
+    ]
+  },
+  {
+    "id": "cardio-67-6",
+    "title": "Beta-Blockers",
+    "course": "cardio",
+    "brick_id": "67",
+    "brick_title": "Primary (Essential) Hypertension",
+    "type": "drug",
+    "buzzwords": [
+      "not first-line for HTN",
+      "negative chronotropy, inotropy",
+      "reduces cardiac output",
+      "reduces renin release",
+      "beta-1 receptor blockade",
+      "fatigue, dizziness",
+      "masks hypoglycemia symptoms",
+      "metoprolol, propranolol, labetalol"
+    ]
+  },
+  {
+    "id": "cardio-67-7",
+    "title": "Clonidine",
+    "course": "cardio",
+    "brick_id": "67",
+    "brick_title": "Primary (Essential) Hypertension",
+    "type": "drug",
+    "buzzwords": [
+      "last-line agent",
+      "reduces sympathetic outflow",
+      "lowers heart rate, SVR",
+      "rebound hypertension if stopped",
+      "sedation, constipation",
+      "dry mouth",
+      "central alpha-2 agonist",
+      "clonidine"
+    ]
+  },
+  {
+    "id": "cardio-67-8",
+    "title": "Minoxidil",
+    "course": "cardio",
+    "brick_id": "67",
+    "brick_title": "Primary (Essential) Hypertension",
+    "type": "drug",
+    "buzzwords": [
+      "direct arteriolar vasodilator",
+      "potassium channel opener",
+      "lowers SVR and BP",
+      "reflex tachycardia",
+      "sodium and fluid retention",
+      "hypertrichosis, hair growth",
+      "for refractory hypertension",
+      "minoxidil"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cardio-6-1",
+    "title": "Stable Angina",
+    "course": "cardio",
+    "brick_id": "6",
+    "brick_title": "Angina Pectoris",
+    "type": "disease",
+    "buzzwords": [
+      "exertional chest pain",
+      "relieved by rest",
+      "predictable pattern",
+      "demand exceeds supply",
+      "fixed atherosclerotic narrowing",
+      "lasts 2 to 5 minutes",
+      "ST depressions with pain",
+      "exercise stress test positive"
+    ]
+  },
+  {
+    "id": "cardio-6-2",
+    "title": "Unstable Angina",
+    "course": "cardio",
+    "brick_id": "6",
+    "brick_title": "Angina Pectoris",
+    "type": "disease",
+    "buzzwords": [
+      "chest pain at rest",
+      "recently started",
+      "worsening pattern",
+      "lasts over 10 minutes",
+      "negative troponins",
+      "acute coronary syndrome",
+      "plaque rupture with thrombosis",
+      "treat like acute MI"
+    ]
+  },
+  {
+    "id": "cardio-6-3",
+    "title": "Vasospastic Angina",
+    "course": "cardio",
+    "brick_id": "6",
+    "brick_title": "Angina Pectoris",
+    "type": "disease",
+    "buzzwords": [
+      "chest pain at rest",
+      "coronary artery spasm",
+      "responds to nitrates",
+      "no fixed stenosis",
+      "smoking risk factor",
+      "calcium channel blockers first-line",
+      "induced in angiography lab",
+      "Prinzmetal angina"
+    ]
+  }
+]

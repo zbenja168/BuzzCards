@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cardio-58-1",
+    "title": "Kawasaki Disease",
+    "course": "cardio",
+    "brick_id": "58",
+    "brick_title": "Medium-Vessel Vasculitis",
+    "type": "disease",
+    "buzzwords": [
+      "medium-vessel vasculitis",
+      "children under 5",
+      "fever over 5 days",
+      "nonexudative conjunctivitis",
+      "strawberry tongue",
+      "coronary artery aneurysm",
+      "treat with IVIG and aspirin",
+      "Kawasaki disease"
+    ]
+  },
+  {
+    "id": "cardio-58-2",
+    "title": "Polyarteritis Nodosa",
+    "course": "cardio",
+    "brick_id": "58",
+    "brick_title": "Medium-Vessel Vasculitis",
+    "type": "disease",
+    "buzzwords": [
+      "medium-vessel vasculitis",
+      "lungs spared",
+      "hepatitis B associated",
+      "necrotizing inflammation",
+      "transmural fibrinoid necrosis",
+      "renal failure and stroke",
+      "beads-on-a-string angiography",
+      "polyarteritis nodosa"
+    ]
+  },
+  {
+    "id": "cardio-58-3",
+    "title": "Thromboangiitis Obliterans",
+    "course": "cardio",
+    "brick_id": "58",
+    "brick_title": "Medium-Vessel Vasculitis",
+    "type": "disease",
+    "buzzwords": [
+      "medium-vessel vasculitis",
+      "young heavy smokers",
+      "Raynaud phenomenon",
+      "digital ischemia and gangrene",
+      "segmental vessel occlusion",
+      "cellular thrombus spares wall",
+      "treat with smoking cessation",
+      "Buerger disease"
+    ]
+  }
+]

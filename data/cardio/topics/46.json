@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-46-1",
+    "title": "Endocardium",
+    "course": "cardio",
+    "brick_id": "46",
+    "brick_title": "Histology of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "innermost layer",
+      "thin and smooth",
+      "lines chambers",
+      "covers valves",
+      "simple squamous epithelium",
+      "continuous with vessel lining",
+      "subendocardium beneath",
+      "carries Purkinje fibers"
+    ]
+  },
+  {
+    "id": "cardio-46-2",
+    "title": "Myocardium",
+    "course": "cardio",
+    "brick_id": "46",
+    "brick_title": "Histology of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "middle layer",
+      "thickest layer",
+      "muscle of the heart",
+      "generates contractile force",
+      "thickest in left ventricle",
+      "pumps against systemic pressure",
+      "made of myocytes",
+      "cardiomyocytes"
+    ]
+  },
+  {
+    "id": "cardio-46-3",
+    "title": "Cardiomyocytes",
+    "course": "cardio",
+    "brick_id": "46",
+    "brick_title": "Histology of the Heart",
+    "type": "physiology",
+    "buzzwords": [
+      "cardiac muscle cells",
+      "striated",
+      "branching morphology",
+      "single central nucleus",
+      "joined end-to-end",
+      "fascia adherens anchors actin",
+      "macula adherens connects cells",
+      "intercalated discs"
+    ]
+  },
+  {
+    "id": "cardio-46-4",
+    "title": "Intercalated Discs",
+    "course": "cardio",
+    "brick_id": "46",
+    "brick_title": "Histology of the Heart",
+    "type": "physiology",
+    "buzzwords": [
+      "join adjacent cardiomyocytes",
+      "appear as dark lines",
+      "contain three junction types",
+      "fascia adherens binds actin",
+      "macula adherens like desmosomes",
+      "gap junctions pass signal",
+      "spread action potentials",
+      "enable synchronized contraction"
+    ]
+  },
+  {
+    "id": "cardio-46-5",
+    "title": "Epicardium",
+    "course": "cardio",
+    "brick_id": "46",
+    "brick_title": "Histology of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "outermost heart layer",
+      "thin membrane on myocardium",
+      "holds coronary arteries",
+      "elastic tissue and fat",
+      "simple squamous epithelium",
+      "derived from mesoderm",
+      "covering is mesothelium",
+      "visceral layer of serous pericardium"
+    ]
+  },
+  {
+    "id": "cardio-46-6",
+    "title": "Pericardium",
+    "course": "cardio",
+    "brick_id": "46",
+    "brick_title": "Histology of the Heart",
+    "type": "anatomy",
+    "buzzwords": [
+      "surrounds the heart",
+      "flask-like membrane sac",
+      "encloses outflow tract roots",
+      "tough protective covering",
+      "outer fibrous layer prevents overfilling",
+      "inner serous layer",
+      "parietal and visceral layers",
+      "pericardial cavity holds fluid"
+    ]
+  }
+]

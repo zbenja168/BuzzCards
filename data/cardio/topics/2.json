@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cardio-2-1",
+    "title": "Acute Pericarditis",
+    "course": "cardio",
+    "brick_id": "2",
+    "brick_title": "Acute Pericarditis",
+    "type": "disease",
+    "buzzwords": [
+      "inflamed pericardium",
+      "sharp chest pain",
+      "pleuritic pain",
+      "worse lying flat",
+      "better leaning forward",
+      "diffuse ST elevation",
+      "PR depression",
+      "pericardial friction rub"
+    ]
+  },
+  {
+    "id": "cardio-2-2",
+    "title": "Fibrinous Pericarditis",
+    "course": "cardio",
+    "brick_id": "2",
+    "brick_title": "Acute Pericarditis",
+    "type": "disease",
+    "buzzwords": [
+      "most common type",
+      "fibrin deposition",
+      "post-MI cause",
+      "uremia related",
+      "post-radiation",
+      "rough exudate surfaces",
+      "loud friction rub",
+      "Dressler syndrome"
+    ]
+  },
+  {
+    "id": "cardio-2-3",
+    "title": "Serous Pericarditis",
+    "course": "cardio",
+    "brick_id": "2",
+    "brick_title": "Acute Pericarditis",
+    "type": "disease",
+    "buzzwords": [
+      "thin watery exudate",
+      "straw-colored fluid",
+      "minimal fibrin",
+      "viral trigger",
+      "autoimmune trigger",
+      "coxsackievirus",
+      "lupus associated",
+      "rheumatoid arthritis"
+    ]
+  },
+  {
+    "id": "cardio-2-4",
+    "title": "Purulent Pericarditis",
+    "course": "cardio",
+    "brick_id": "2",
+    "brick_title": "Acute Pericarditis",
+    "type": "disease",
+    "buzzwords": [
+      "pus-filled exudate",
+      "bacterial infection",
+      "microorganisms present",
+      "spread from infection",
+      "needs antibiotics",
+      "drainage required",
+      "high mortality",
+      "Staphylococcus aureus"
+    ]
+  },
+  {
+    "id": "cardio-2-5",
+    "title": "Hemorrhagic Pericarditis",
+    "course": "cardio",
+    "brick_id": "2",
+    "brick_title": "Acute Pericarditis",
+    "type": "disease",
+    "buzzwords": [
+      "blood in exudate",
+      "exudate plus blood",
+      "malignant spread",
+      "post-cardiac procedure",
+      "tuberculosis cause",
+      "lung cancer metastasis",
+      "breast cancer metastasis",
+      "invasive tumor"
+    ]
+  },
+  {
+    "id": "cardio-2-6",
+    "title": "Pericardiocentesis",
+    "course": "cardio",
+    "brick_id": "2",
+    "brick_title": "Acute Pericarditis",
+    "type": "imaging",
+    "buzzwords": [
+      "needle aspiration",
+      "drains pericardial fluid",
+      "16-18 gauge needle",
+      "diagnostic and therapeutic",
+      "send for culture",
+      "send for cytology",
+      "done for tamponade",
+      "suspected purulent pericarditis"
+    ]
+  },
+  {
+    "id": "cardio-2-7",
+    "title": "Cardiac Tamponade",
+    "course": "cardio",
+    "brick_id": "2",
+    "brick_title": "Acute Pericarditis",
+    "type": "disease",
+    "buzzwords": [
+      "large pericardial effusion",
+      "rapid fluid buildup",
+      "raised intrapericardial pressure",
+      "impaired filling",
+      "compromised cardiac output",
+      "emergency drainage",
+      "complication of effusion",
+      "needs pericardiocentesis"
+    ]
+  }
+]

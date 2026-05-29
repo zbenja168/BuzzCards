@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-48-1",
+    "title": "Hypertension Staging",
+    "course": "cardio",
+    "brick_id": "48",
+    "brick_title": "Hypertension: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "chronically elevated pressure",
+      "two readings, 2 weeks apart",
+      "lifestyle first",
+      "elevated: 120-129 systolic",
+      "stage 1: 130-139/80-89",
+      "stage 2: ≥140/≥90",
+      "stage 2 needs meds",
+      "2017 ACC/AHA cutoffs"
+    ]
+  },
+  {
+    "id": "cardio-48-2",
+    "title": "Primary Hypertension",
+    "course": "cardio",
+    "brick_id": "48",
+    "brick_title": "Hypertension: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "no identifiable cause",
+      "95% of cases",
+      "RAAS activation",
+      "vasoconstriction",
+      "increased arterial stiffness",
+      "expanded extracellular volume",
+      "salt, obesity, alcohol worsen",
+      "essential hypertension"
+    ]
+  },
+  {
+    "id": "cardio-48-3",
+    "title": "Secondary Hypertension",
+    "course": "cardio",
+    "brick_id": "48",
+    "brick_title": "Hypertension: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "identifiable underlying cause",
+      "5% of cases",
+      "abdominal bruit",
+      "chronic kidney disease",
+      "obstructive sleep apnea",
+      "episodic catecholamine surges",
+      "renal artery stenosis",
+      "pheochromocytoma"
+    ]
+  },
+  {
+    "id": "cardio-48-4",
+    "title": "Hypertensive Emergency",
+    "course": "cardio",
+    "brick_id": "48",
+    "brick_title": "Hypertension: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "acute end-organ damage",
+      "requires hospitalization",
+      "IV antihypertensives",
+      "pressure above 180/120",
+      "stroke, MI, heart failure",
+      "pulmonary edema",
+      "aortic dissection",
+      "papilledema"
+    ]
+  },
+  {
+    "id": "cardio-48-5",
+    "title": "LV Hypertrophy",
+    "course": "cardio",
+    "brick_id": "48",
+    "brick_title": "Hypertension: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "chronic pressure overload",
+      "high systemic vascular resistance",
+      "increased afterload",
+      "thickened ventricular wall",
+      "impaired diastolic filling",
+      "reduced stroke volume",
+      "S3 heart sound",
+      "diastolic heart failure"
+    ]
+  },
+  {
+    "id": "cardio-48-6",
+    "title": "Hypertensive Retinopathy",
+    "course": "cardio",
+    "brick_id": "48",
+    "brick_title": "Hypertension: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "retinal vessel damage",
+      "narrowed retinal arteries",
+      "vision loss",
+      "intimal thickening",
+      "microaneurysms",
+      "cotton-wool spots",
+      "arteriovenous nicking",
+      "flame hemorrhages"
+    ]
+  }
+]

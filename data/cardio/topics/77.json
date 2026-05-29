@@ -1,0 +1,164 @@
+[
+  {
+    "id": "cardio-77-1",
+    "title": "Aspirin",
+    "course": "cardio",
+    "brick_id": "77",
+    "brick_title": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+    "type": "drug",
+    "buzzwords": [
+      "antiplatelet",
+      "proven mortality benefit",
+      "given immediately in ACS",
+      "chew the tablet",
+      "blocks thromboxane A2",
+      "irreversible COX inhibition",
+      "325 mg loading dose",
+      "inhibits cyclooxygenase"
+    ]
+  },
+  {
+    "id": "cardio-77-2",
+    "title": "P2Y12 Inhibitors",
+    "course": "cardio",
+    "brick_id": "77",
+    "brick_title": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+    "type": "drug",
+    "buzzwords": [
+      "antiplatelet",
+      "decrease platelet activation",
+      "bleeding risk",
+      "block ADP receptor",
+      "raise cAMP in platelets",
+      "given with aspirin",
+      "ticagrelor reversibly binds",
+      "clopidogrel, prasugrel, ticagrelor"
+    ]
+  },
+  {
+    "id": "cardio-77-3",
+    "title": "GP IIb/IIIa Inhibitors",
+    "course": "cardio",
+    "brick_id": "77",
+    "brick_title": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+    "type": "drug",
+    "buzzwords": [
+      "antiplatelet",
+      "decrease platelet aggregation",
+      "used during PCI",
+      "block final aggregation step",
+      "stops fibrinogen crosslinking",
+      "serious bleeding risk",
+      "not routine ER drug",
+      "abciximab, eptifibatide, tirofiban"
+    ]
+  },
+  {
+    "id": "cardio-77-4",
+    "title": "Heparin",
+    "course": "cardio",
+    "brick_id": "77",
+    "brick_title": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+    "type": "drug",
+    "buzzwords": [
+      "anticoagulant",
+      "prevents thrombus propagation",
+      "binds antithrombin",
+      "inhibits factor Xa",
+      "inhibits factor IIa",
+      "enoxaparin is LMWH",
+      "causes thrombocytopenia",
+      "HIT"
+    ]
+  },
+  {
+    "id": "cardio-77-5",
+    "title": "Nitroglycerin",
+    "course": "cardio",
+    "brick_id": "77",
+    "brick_title": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+    "type": "drug",
+    "buzzwords": [
+      "relieves chest pain",
+      "vasodilator",
+      "venodilation lowers preload",
+      "reduces myocardial oxygen demand",
+      "no proven mortality benefit",
+      "causes headache and hypotension",
+      "avoid if Viagra used",
+      "releases nitric oxide"
+    ]
+  },
+  {
+    "id": "cardio-77-6",
+    "title": "Beta-Blockers",
+    "course": "cardio",
+    "brick_id": "77",
+    "brick_title": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+    "type": "drug",
+    "buzzwords": [
+      "lower oxygen demand",
+      "decrease heart rate",
+      "decrease contractility",
+      "blocks beta-1 receptors",
+      "avoid in cardiogenic shock",
+      "can cause bradycardia",
+      "cardioselective preferred",
+      "metoprolol, carvedilol"
+    ]
+  },
+  {
+    "id": "cardio-77-7",
+    "title": "Statins",
+    "course": "cardio",
+    "brick_id": "77",
+    "brick_title": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+    "type": "drug",
+    "buzzwords": [
+      "lower LDL cholesterol",
+      "stabilize plaque",
+      "anti-inflammatory acutely",
+      "inhibit HMG-CoA reductase",
+      "reduce all-cause mortality",
+      "avoid in pregnancy",
+      "cause myalgia, hepatotoxicity",
+      "SAMS"
+    ]
+  },
+  {
+    "id": "cardio-77-8",
+    "title": "PCI",
+    "course": "cardio",
+    "brick_id": "77",
+    "brick_title": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+    "type": "imaging",
+    "buzzwords": [
+      "reperfusion therapy",
+      "preferred in STEMI",
+      "minimally invasive",
+      "wire and balloon",
+      "restores coronary flow",
+      "stent placement",
+      "angioplasty",
+      "percutaneous coronary intervention"
+    ]
+  },
+  {
+    "id": "cardio-77-9",
+    "title": "Thrombolytics",
+    "course": "cardio",
+    "brick_id": "77",
+    "brick_title": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+    "type": "drug",
+    "buzzwords": [
+      "chemically lyse clot",
+      "backup when PCI unavailable",
+      "give within 12 hours",
+      "high bleeding risk",
+      "activate plasminogen to plasmin",
+      "contraindicated in aortic dissection",
+      "tissue plasminogen activator",
+      "tPA, streptokinase"
+    ]
+  }
+]

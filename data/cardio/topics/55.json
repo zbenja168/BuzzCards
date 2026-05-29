@@ -1,0 +1,164 @@
+[
+  {
+    "id": "cardio-55-1",
+    "title": "ACE Inhibitors / ARBs",
+    "course": "cardio",
+    "brick_id": "55",
+    "brick_title": "Management of Chronic Heart Failure",
+    "type": "drug",
+    "buzzwords": [
+      "first-line for systolic HF",
+      "block RAAS",
+      "lower SVR",
+      "reduce preload and afterload",
+      "prevent cardiac remodeling",
+      "cause hyperkalemia",
+      "dry cough, angioedema",
+      "lisinopril, losartan"
+    ]
+  },
+  {
+    "id": "cardio-55-2",
+    "title": "ARNI",
+    "course": "cardio",
+    "brick_id": "55",
+    "brick_title": "Management of Chronic Heart Failure",
+    "type": "drug",
+    "buzzwords": [
+      "foundational HFrEF therapy",
+      "blocks angiotensin receptor",
+      "reduces preload and afterload",
+      "blocks natriuretic peptide breakdown",
+      "neprilysin inhibitor",
+      "causes hyperkalemia, angioedema",
+      "may replace ACEi/ARB",
+      "sacubitril-valsartan"
+    ]
+  },
+  {
+    "id": "cardio-55-3",
+    "title": "Beta-Blockers",
+    "course": "cardio",
+    "brick_id": "55",
+    "brick_title": "Management of Chronic Heart Failure",
+    "type": "drug",
+    "buzzwords": [
+      "reduce mortality in HFrEF",
+      "decrease renin release",
+      "prevent cardiac remodeling",
+      "avoid in cardiogenic shock",
+      "avoid in asthma",
+      "cause fatigue, erectile dysfunction",
+      "impair exercise tolerance",
+      "metoprolol, carvedilol, bisoprolol"
+    ]
+  },
+  {
+    "id": "cardio-55-4",
+    "title": "SGLT-2 Inhibitors",
+    "course": "cardio",
+    "brick_id": "55",
+    "brick_title": "Management of Chronic Heart Failure",
+    "type": "drug",
+    "buzzwords": [
+      "foundational HF therapy",
+      "reduce HF hospitalizations",
+      "increase urinary glucose loss",
+      "osmotic diuresis",
+      "reduce preload and afterload",
+      "risk of euglycemic DKA",
+      "genitourinary infections",
+      "dapagliflozin, empagliflozin"
+    ]
+  },
+  {
+    "id": "cardio-55-5",
+    "title": "Spironolactone",
+    "course": "cardio",
+    "brick_id": "55",
+    "brick_title": "Management of Chronic Heart Failure",
+    "type": "drug",
+    "buzzwords": [
+      "added when LVEF under 35%",
+      "potassium-sparing diuretic",
+      "blocks aldosterone receptor",
+      "reduces preload",
+      "mineralocorticoid receptor antagonist",
+      "causes hyperkalemia",
+      "gynecomastia",
+      "eplerenone alternative"
+    ]
+  },
+  {
+    "id": "cardio-55-6",
+    "title": "Loop Diuretics",
+    "course": "cardio",
+    "brick_id": "55",
+    "brick_title": "Management of Chronic Heart Failure",
+    "type": "drug",
+    "buzzwords": [
+      "for symptom management only",
+      "do not reduce mortality",
+      "increase sodium and water loss",
+      "lower intravascular volume",
+      "reduce preload",
+      "relieve pulmonary edema",
+      "used for peripheral edema",
+      "furosemide, torsemide, bumetanide"
+    ]
+  },
+  {
+    "id": "cardio-55-7",
+    "title": "Nitrates",
+    "course": "cardio",
+    "brick_id": "55",
+    "brick_title": "Management of Chronic Heart Failure",
+    "type": "drug",
+    "buzzwords": [
+      "second-line agent",
+      "potent venodilator",
+      "increase venous capacitance",
+      "reduce preload",
+      "combined with hydralazine",
+      "cause headache, hypotension",
+      "reflex tachycardia",
+      "nitroglycerin"
+    ]
+  },
+  {
+    "id": "cardio-55-8",
+    "title": "Hydralazine",
+    "course": "cardio",
+    "brick_id": "55",
+    "brick_title": "Management of Chronic Heart Failure",
+    "type": "drug",
+    "buzzwords": [
+      "second-line arterial dilator",
+      "relaxes arterioles directly",
+      "lowers SVR",
+      "reduces afterload",
+      "combined with nitrates",
+      "no effect on RAAS",
+      "causes reflex tachycardia",
+      "drug-induced lupus"
+    ]
+  },
+  {
+    "id": "cardio-55-9",
+    "title": "Digoxin",
+    "course": "cardio",
+    "brick_id": "55",
+    "brick_title": "Management of Chronic Heart Failure",
+    "type": "drug",
+    "buzzwords": [
+      "positive inotrope",
+      "increases contractility",
+      "no mortality benefit",
+      "inhibits Na/K-ATPase",
+      "raises intracellular calcium",
+      "narrow therapeutic window",
+      "yellow-tinged vision",
+      "heart block, arrhythmia"
+    ]
+  }
+]

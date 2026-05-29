@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cardio-10-1",
+    "title": "Aortic Aneurysm",
+    "course": "cardio",
+    "brick_id": "10",
+    "brick_title": "Aortic Aneurysm",
+    "type": "disease",
+    "buzzwords": [
+      "localized vessel dilation",
+      "diameter >1.5x normal",
+      "true vs false types",
+      "wall layer weakening",
+      "elastin and collagen broken down",
+      "rupture or dissection feared",
+      "fusiform or saccular shape",
+      "false aneurysm spares wall layers"
+    ]
+  },
+  {
+    "id": "cardio-10-2",
+    "title": "Thoracic Aortic Aneurysm",
+    "course": "cardio",
+    "brick_id": "10",
+    "brick_title": "Aortic Aneurysm",
+    "type": "disease",
+    "buzzwords": [
+      "chest pain",
+      "most arise ascending aorta",
+      "cystic medial degeneration",
+      "tends to dissect",
+      "hoarseness from nerve compression",
+      "aortic root dilation regurgitation",
+      "decrescendo diastolic murmur",
+      "Marfan and Ehlers-Danlos"
+    ]
+  },
+  {
+    "id": "cardio-10-3",
+    "title": "Abdominal Aortic Aneurysm",
+    "course": "cardio",
+    "brick_id": "10",
+    "brick_title": "Aortic Aneurysm",
+    "type": "disease",
+    "buzzwords": [
+      "older male smoker",
+      "below renal arteries",
+      "chronic transmural inflammation",
+      "tends to rupture",
+      "diabetes protective",
+      "pulsatile abdominal mass",
+      "repair at 5.5 cm",
+      "infrarenal endovascular stent graft"
+    ]
+  },
+  {
+    "id": "cardio-10-4",
+    "title": "Aortic Dissection",
+    "course": "cardio",
+    "brick_id": "10",
+    "brick_title": "Aortic Aneurysm",
+    "type": "disease",
+    "buzzwords": [
+      "tearing back pain",
+      "separation of wall layers",
+      "compressing hematoma forms",
+      "obstructs branch flow",
+      "false lumen on imaging",
+      "more common in thoracic",
+      "limb organ ischemia",
+      "widened mediastinum on x-ray"
+    ]
+  },
+  {
+    "id": "cardio-10-5",
+    "title": "Aortic Rupture",
+    "course": "cardio",
+    "brick_id": "10",
+    "brick_title": "Aortic Aneurysm",
+    "type": "disease",
+    "buzzwords": [
+      "rapidly fatal",
+      "massive internal bleeding",
+      "more common in AAA",
+      "wall tension exceeds strength",
+      "increasing radius increases tension",
+      "hypotension and shock",
+      "emergent open repair",
+      "Laplace law mechanism"
+    ]
+  },
+  {
+    "id": "cardio-10-6",
+    "title": "Infected Aneurysm",
+    "course": "cardio",
+    "brick_id": "10",
+    "brick_title": "Aortic Aneurysm",
+    "type": "disease",
+    "buzzwords": [
+      "fever and bacteremia",
+      "infection weakens wall",
+      "hematogenous seeding",
+      "rapid enlargement",
+      "IV drug use risk",
+      "endocarditis source",
+      "Staphylococcus most common",
+      "Salmonella classic association"
+    ]
+  },
+  {
+    "id": "cardio-10-7",
+    "title": "Popliteal Aneurysm",
+    "course": "cardio",
+    "brick_id": "10",
+    "brick_title": "Aortic Aneurysm",
+    "type": "disease",
+    "buzzwords": [
+      "behind the knee",
+      "most common peripheral aneurysm",
+      "often bilateral",
+      "frequently coexists with AAA",
+      "thrombosis main complication",
+      "rarely ruptures",
+      "pulsatile popliteal mass",
+      "evaluate for AAA when found"
+    ]
+  }
+]

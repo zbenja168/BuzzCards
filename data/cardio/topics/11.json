@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cardio-11-1",
+    "title": "Aortic Dissection",
+    "course": "cardio",
+    "brick_id": "11",
+    "brick_title": "Aortic Dissection",
+    "type": "disease",
+    "buzzwords": [
+      "separation of wall layers",
+      "tearing chest or back pain",
+      "intimal tear lets blood in",
+      "intramural hematoma forms",
+      "false lumen created",
+      "older hypertensive male",
+      "hypertension main risk factor",
+      "cystic medial degeneration"
+    ]
+  },
+  {
+    "id": "cardio-11-2",
+    "title": "Stanford Type A",
+    "course": "cardio",
+    "brick_id": "11",
+    "brick_title": "Aortic Dissection",
+    "type": "disease",
+    "buzzwords": [
+      "more common and dangerous",
+      "anterior chest pain",
+      "hypotension and shock",
+      "involves ascending aorta",
+      "retrograde to aortic valve",
+      "acute aortic regurgitation",
+      "hemopericardium and tamponade",
+      "needs immediate surgery"
+    ]
+  },
+  {
+    "id": "cardio-11-3",
+    "title": "Stanford Type B",
+    "course": "cardio",
+    "brick_id": "11",
+    "brick_title": "Aortic Dissection",
+    "type": "disease",
+    "buzzwords": [
+      "back pain",
+      "severe hypertension",
+      "spares ascending aorta",
+      "descending aorta only",
+      "neurologic changes",
+      "managed conservatively with drugs",
+      "target BP under 120/80",
+      "beta-blockers lower shear stress"
+    ]
+  },
+  {
+    "id": "cardio-11-4",
+    "title": "Dissection Complications",
+    "course": "cardio",
+    "brick_id": "11",
+    "brick_title": "Aortic Dissection",
+    "type": "disease",
+    "buzzwords": [
+      "branch artery occlusion",
+      "end-organ ischemia",
+      "stroke from carotid involvement",
+      "myocardial infarction",
+      "unequal arm pulses",
+      "compression of adjacent structures",
+      "hoarseness from laryngeal nerve",
+      "Horner syndrome from ganglion"
+    ]
+  },
+  {
+    "id": "cardio-11-5",
+    "title": "Dissection Diagnosis",
+    "course": "cardio",
+    "brick_id": "11",
+    "brick_title": "Aortic Dissection",
+    "type": "imaging",
+    "buzzwords": [
+      "low-sensitivity chest x-ray",
+      "mediastinal widening",
+      "intimal flap on imaging",
+      "false lumen separated from true",
+      "CT angiography in stable patients",
+      "preferred first-line test",
+      "bedside test for unstable",
+      "transesophageal echocardiography"
+    ]
+  }
+]

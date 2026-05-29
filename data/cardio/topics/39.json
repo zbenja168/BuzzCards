@@ -1,0 +1,146 @@
+[
+  {
+    "id": "cardio-39-1",
+    "title": "Edema",
+    "course": "cardio",
+    "brick_id": "39",
+    "brick_title": "Edema",
+    "type": "physiology",
+    "buzzwords": [
+      "tissue swelling",
+      "puffy heavy limb",
+      "expanded interstitial volume",
+      "imbalanced Starling forces",
+      "indents with finger",
+      "rebounds slowly",
+      "leg follow-up DVT",
+      "pitting edema"
+    ]
+  },
+  {
+    "id": "cardio-39-2",
+    "title": "High Hydrostatic Pressure",
+    "course": "cardio",
+    "brick_id": "39",
+    "brick_title": "Edema",
+    "type": "physiology",
+    "buzzwords": [
+      "fluid pushed out",
+      "raised venous pressure",
+      "backs up venous end",
+      "right heart failure",
+      "venous obstruction",
+      "cirrhosis ascites",
+      "high portal pressure",
+      "elevated Pc"
+    ]
+  },
+  {
+    "id": "cardio-39-3",
+    "title": "Low Oncotic Pressure",
+    "course": "cardio",
+    "brick_id": "39",
+    "brick_title": "Edema",
+    "type": "physiology",
+    "buzzwords": [
+      "less pull inward",
+      "low serum albumin",
+      "protein malnutrition",
+      "liver disease",
+      "decreased albumin synthesis",
+      "urinary protein loss",
+      "nephrotic syndrome",
+      "kwashiorkor"
+    ]
+  },
+  {
+    "id": "cardio-39-4",
+    "title": "Leaky Capillaries",
+    "course": "cardio",
+    "brick_id": "39",
+    "brick_title": "Edema",
+    "type": "physiology",
+    "buzzwords": [
+      "increased permeability",
+      "plasma escapes interstitium",
+      "burns",
+      "trauma",
+      "noncardiac pulmonary edema",
+      "sepsis",
+      "inflammation driven",
+      "SIRS"
+    ]
+  },
+  {
+    "id": "cardio-39-5",
+    "title": "RAAS Salt Retention",
+    "course": "cardio",
+    "brick_id": "39",
+    "brick_title": "Edema",
+    "type": "physiology",
+    "buzzwords": [
+      "kidney holds sodium",
+      "water follows salt",
+      "low effective volume",
+      "poor organ perfusion",
+      "sympathetic activation",
+      "low cardiac output",
+      "expands extracellular volume",
+      "RAAS stimulation"
+    ]
+  },
+  {
+    "id": "cardio-39-6",
+    "title": "Drug-Induced Edema",
+    "course": "cardio",
+    "brick_id": "39",
+    "brick_title": "Edema",
+    "type": "drug",
+    "buzzwords": [
+      "medication side effect",
+      "promotes sodium retention",
+      "selective arteriolar vasodilation",
+      "impairs kidney function",
+      "lowers prostaglandins",
+      "corticosteroids retain fluid",
+      "amlodipine ankle swelling",
+      "NSAIDs and CCBs"
+    ]
+  },
+  {
+    "id": "cardio-39-7",
+    "title": "Angioedema",
+    "course": "cardio",
+    "brick_id": "39",
+    "brick_title": "Edema",
+    "type": "disease",
+    "buzzwords": [
+      "localized swelling",
+      "increased permeability",
+      "under skin or mucosa",
+      "histamine release",
+      "drug or toxin reaction",
+      "lips and face",
+      "bradykinin mediated",
+      "ACE inhibitors"
+    ]
+  },
+  {
+    "id": "cardio-39-8",
+    "title": "Lymphedema",
+    "course": "cardio",
+    "brick_id": "39",
+    "brick_title": "Edema",
+    "type": "disease",
+    "buzzwords": [
+      "non-pitting swelling",
+      "decreased lymphatic clearance",
+      "lymphatic obstruction",
+      "post-radiation",
+      "cancer or surgery",
+      "compression stockings",
+      "parasitic worm cause",
+      "filariasis"
+    ]
+  }
+]

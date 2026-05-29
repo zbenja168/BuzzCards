@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cardio-53-1",
+    "title": "Left Ventricular Hypertrophy",
+    "course": "cardio",
+    "brick_id": "53",
+    "brick_title": "Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy",
+    "type": "disease",
+    "buzzwords": [
+      "thickened LV wall",
+      "from chronic pressure overload",
+      "often asymptomatic",
+      "incidental on chest x-ray",
+      "high-voltage lateral leads",
+      "caused by hypertension",
+      "concentric hypertrophy",
+      "parallel sarcomere addition"
+    ]
+  },
+  {
+    "id": "cardio-53-2",
+    "title": "Hypertrophic Cardiomyopathy",
+    "course": "cardio",
+    "brick_id": "53",
+    "brick_title": "Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy",
+    "type": "disease",
+    "buzzwords": [
+      "young athlete collapse",
+      "sudden cardiac death",
+      "autosomal dominant",
+      "mutated sarcomere genes",
+      "asymmetric septal thickening",
+      "murmur louder with Valsalva",
+      "myocyte disarray on histology",
+      "systolic anterior motion of mitral valve"
+    ]
+  }
+]

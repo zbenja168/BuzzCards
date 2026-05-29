@@ -1,0 +1,164 @@
+[
+  {
+    "id": "cardio-70-1",
+    "title": "Chronic Kidney Disease",
+    "course": "cardio",
+    "brick_id": "70",
+    "brick_title": "Secondary Hypertension",
+    "type": "disease",
+    "buzzwords": [
+      "renal cause of HTN",
+      "sodium and water retention",
+      "activated RAAS",
+      "decreased GFR",
+      "elevated BUN/creatinine",
+      "proteinuria",
+      "hematuria",
+      "structural renal cysts"
+    ]
+  },
+  {
+    "id": "cardio-70-2",
+    "title": "Renal Artery Stenosis",
+    "course": "cardio",
+    "brick_id": "70",
+    "brick_title": "Secondary Hypertension",
+    "type": "disease",
+    "buzzwords": [
+      "reduced renal blood flow",
+      "activates RAAS",
+      "resistant hypertension",
+      "single small kidney",
+      "ACEi worsens GFR if bilateral",
+      "abdominal bruit",
+      "string of beads in young women",
+      "fibromuscular dysplasia"
+    ]
+  },
+  {
+    "id": "cardio-70-3",
+    "title": "Primary Aldosteronism",
+    "course": "cardio",
+    "brick_id": "70",
+    "brick_title": "Secondary Hypertension",
+    "type": "disease",
+    "buzzwords": [
+      "endocrine cause of HTN",
+      "adrenal aldosterone excess",
+      "increased sodium reabsorption",
+      "expanded blood volume",
+      "suppressed renin",
+      "hypokalemia without diuretics",
+      "adrenal adenoma or hyperplasia",
+      "Conn syndrome"
+    ]
+  },
+  {
+    "id": "cardio-70-4",
+    "title": "Hypercortisolism",
+    "course": "cardio",
+    "brick_id": "70",
+    "brick_title": "Secondary Hypertension",
+    "type": "disease",
+    "buzzwords": [
+      "excess cortisol",
+      "aldosterone-like sodium retention",
+      "moon face, buffalo hump",
+      "abdominal striae, weight gain",
+      "muscle weakness",
+      "reduced nitric oxide vasodilation",
+      "elevated 24-hour urine cortisol",
+      "Cushing syndrome"
+    ]
+  },
+  {
+    "id": "cardio-70-5",
+    "title": "Thyroid Disorders",
+    "course": "cardio",
+    "brick_id": "70",
+    "brick_title": "Secondary Hypertension",
+    "type": "disease",
+    "buzzwords": [
+      "endocrine cause of HTN",
+      "hyperthyroid raises cardiac output",
+      "increased pulse, weight loss",
+      "wide pulse pressure",
+      "hypothyroid raises vascular resistance",
+      "diastolic hypertension",
+      "constipation, weight gain",
+      "abnormal TSH"
+    ]
+  },
+  {
+    "id": "cardio-70-6",
+    "title": "Pheochromocytoma",
+    "course": "cardio",
+    "brick_id": "70",
+    "brick_title": "Secondary Hypertension",
+    "type": "disease",
+    "buzzwords": [
+      "rare adrenal tumor",
+      "catecholamine secretion",
+      "episodic palpitations",
+      "headache and sweating",
+      "tremor and flushing",
+      "tachycardia",
+      "elevated plasma metanephrines",
+      "24-hour urine metanephrines"
+    ]
+  },
+  {
+    "id": "cardio-70-7",
+    "title": "Congenital Adrenal Hyperplasia",
+    "course": "cardio",
+    "brick_id": "70",
+    "brick_title": "Secondary Hypertension",
+    "type": "disease",
+    "buzzwords": [
+      "inherited adrenal disorder",
+      "excess mineralocorticoids",
+      "increased sodium reabsorption",
+      "HTN in children",
+      "reproductive abnormalities",
+      "pubertal abnormalities",
+      "11-beta-hydroxylase deficiency",
+      "17-alpha-hydroxylase deficiency"
+    ]
+  },
+  {
+    "id": "cardio-70-8",
+    "title": "Obstructive Sleep Apnea",
+    "course": "cardio",
+    "brick_id": "70",
+    "brick_title": "Secondary Hypertension",
+    "type": "disease",
+    "buzzwords": [
+      "nocturnal airway collapse",
+      "intermittent hypoxia",
+      "increased sympathetic tone",
+      "raised systemic vascular resistance",
+      "obese with excess neck tissue",
+      "loud snoring, daytime fatigue",
+      "diagnosed by polysomnography",
+      "CPAP modestly lowers BP"
+    ]
+  },
+  {
+    "id": "cardio-70-9",
+    "title": "Drug-Induced Hypertension",
+    "course": "cardio",
+    "brick_id": "70",
+    "brick_title": "Secondary Hypertension",
+    "type": "drug",
+    "buzzwords": [
+      "medication side effect",
+      "estrogen oral contraceptives",
+      "NSAIDs reduce prostaglandins",
+      "decongestant alpha-agonists",
+      "corticosteroids worsen BP",
+      "vasoconstriction",
+      "sodium and water retention",
+      "cocaine and amphetamines"
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "cardio-41-1",
+    "title": "P Wave",
+    "course": "cardio",
+    "brick_id": "41",
+    "brick_title": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "first deflection",
+      "small rounded bump",
+      "atrial activation",
+      "atrial depolarization",
+      "upright in lead II",
+      "inverted in aVR",
+      "precedes every QRS",
+      "originates from sinus node"
+    ]
+  },
+  {
+    "id": "cardio-41-2",
+    "title": "QRS Complex",
+    "course": "cardio",
+    "brick_id": "41",
+    "brick_title": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "tall sharp spike",
+      "ventricular depolarization",
+      "lasts 0.06 to 0.10 seconds",
+      "Q is first downward",
+      "R is tall upward",
+      "pathologic Q means old infarct scar",
+      "tall R suggests hypertrophy",
+      "widened in bundle branch block"
+    ]
+  },
+  {
+    "id": "cardio-41-3",
+    "title": "T Wave",
+    "course": "cardio",
+    "brick_id": "41",
+    "brick_title": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "rounded asymmetric wave",
+      "follows QRS complex",
+      "ventricular repolarization",
+      "normally upright in lead II",
+      "repolarization moves away from lead",
+      "inversion signals ischemia",
+      "peaked in hyperkalemia",
+      "flattened in hypokalemia"
+    ]
+  },
+  {
+    "id": "cardio-41-4",
+    "title": "PR Interval",
+    "course": "cardio",
+    "brick_id": "41",
+    "brick_title": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "P wave plus flat segment",
+      "atrial onset to ventricular onset",
+      "reflects AV node delay",
+      "His-Purkinje conduction time",
+      "normally 0.12 to 0.20 seconds",
+      "shortened by sympathetic tone",
+      "prolonged in first-degree block",
+      "lengthens in Wenckebach"
+    ]
+  },
+  {
+    "id": "cardio-41-5",
+    "title": "ST Segment",
+    "course": "cardio",
+    "brick_id": "41",
+    "brick_title": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "flat isoelectric region",
+      "end of QRS to T onset",
+      "ventricular plateau phase",
+      "slight upward concavity normally",
+      "elevation in infarction",
+      "depression in ischemia",
+      "diffuse elevation in pericarditis",
+      "fast-response action potential plateau"
+    ]
+  },
+  {
+    "id": "cardio-41-6",
+    "title": "QT Interval",
+    "course": "cardio",
+    "brick_id": "41",
+    "brick_title": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "QRS start to T end",
+      "total ventricular depolarization repolarization",
+      "varies with heart rate",
+      "rate-corrected value is QTc",
+      "prolonged predisposes to arrhythmia",
+      "lengthened by sotalol erythromycin haloperidol",
+      "corrected by Bazett formula",
+      "QT divided by root R-R"
+    ]
+  },
+  {
+    "id": "cardio-41-7",
+    "title": "Torsades de Pointes",
+    "course": "cardio",
+    "brick_id": "41",
+    "brick_title": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "dangerous ventricular arrhythmia",
+      "arises from prolonged QT",
+      "amplitude waxes and wanes",
+      "rotates around the baseline",
+      "can degenerate to fibrillation",
+      "drug-induced or congenital",
+      "treated with magnesium",
+      "twisting of the points"
+    ]
+  },
+  {
+    "id": "cardio-41-8",
+    "title": "Normal Sinus Rhythm",
+    "course": "cardio",
+    "brick_id": "41",
+    "brick_title": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "regular R-R intervals",
+      "rate 60 to 100 bpm",
+      "one P before each QRS",
+      "consistent P morphology",
+      "upright P in lead II",
+      "inverted P in aVR",
+      "normal intervals and segments",
+      "impulse from sinus node"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cardio-27-1",
+    "title": "Constrictive Pericarditis",
+    "course": "cardio",
+    "brick_id": "27",
+    "brick_title": "Constrictive Pericarditis",
+    "type": "disease",
+    "buzzwords": [
+      "chronic pericardial inflammation",
+      "impaired diastolic filling",
+      "dyspnea on exertion",
+      "fluid overload signs",
+      "elevated JVP",
+      "stiff inelastic pericardium",
+      "dense fibrosis with calcification",
+      "TB in developing countries"
+    ]
+  },
+  {
+    "id": "cardio-27-2",
+    "title": "Ventricular Interdependence",
+    "course": "cardio",
+    "brick_id": "27",
+    "brick_title": "Constrictive Pericarditis",
+    "type": "physiology",
+    "buzzwords": [
+      "one ventricle alters the other",
+      "exaggerated by inspiration",
+      "increased RV filling",
+      "septum bulges into LV",
+      "reduced LV filling on inspiration",
+      "fixed total cardiac volume",
+      "drop in stroke volume",
+      "septal bounce on echo"
+    ]
+  },
+  {
+    "id": "cardio-27-3",
+    "title": "Pericardial Knock",
+    "course": "cardio",
+    "brick_id": "27",
+    "brick_title": "Constrictive Pericarditis",
+    "type": "physiology",
+    "buzzwords": [
+      "abnormal heart sound",
+      "high-pitched",
+      "early diastolic",
+      "tapping quality",
+      "abrupt halt of filling",
+      "pericardial elastic limit reached",
+      "follows S2",
+      "pathognomonic of constriction"
+    ]
+  },
+  {
+    "id": "cardio-27-4",
+    "title": "Pulsus Paradoxus",
+    "course": "cardio",
+    "brick_id": "27",
+    "brick_title": "Constrictive Pericarditis",
+    "type": "physiology",
+    "buzzwords": [
+      "varies with respiration",
+      "systolic BP drops on inspiration",
+      "exaggerated normal variation",
+      "weaker pulse during inspiration",
+      "reflects ventricular interdependence",
+      "drop greater than 10 mmHg",
+      "also seen in tamponade",
+      "measured by sphygmomanometer"
+    ]
+  },
+  {
+    "id": "cardio-27-5",
+    "title": "Kussmaul Sign",
+    "course": "cardio",
+    "brick_id": "27",
+    "brick_title": "Constrictive Pericarditis",
+    "type": "physiology",
+    "buzzwords": [
+      "jugular vein finding",
+      "respiration-dependent",
+      "paradoxical venous response",
+      "neck veins distend on inspiration",
+      "JVP fails to fall with inspiration",
+      "stiff heart cannot accommodate return",
+      "seen in right-sided failure too",
+      "eponymous inspiratory JVP rise"
+    ]
+  },
+  {
+    "id": "cardio-27-6",
+    "title": "Square Root Sign",
+    "course": "cardio",
+    "brick_id": "27",
+    "brick_title": "Constrictive Pericarditis",
+    "type": "lab",
+    "buzzwords": [
+      "cardiac catheterization finding",
+      "ventricular pressure tracing",
+      "equalized diastolic pressures",
+      "early diastolic dip",
+      "rapid early filling",
+      "abrupt plateau",
+      "dip-and-plateau waveform",
+      "square root configuration"
+    ]
+  },
+  {
+    "id": "cardio-27-7",
+    "title": "Pericardiectomy",
+    "course": "cardio",
+    "brick_id": "27",
+    "brick_title": "Constrictive Pericarditis",
+    "type": "drug",
+    "buzzwords": [
+      "definitive treatment",
+      "for late disease",
+      "for markedly symptomatic patients",
+      "surgical procedure",
+      "removal of pericardium",
+      "high operative risk",
+      "4 to 12 percent mortality",
+      "improves symptoms"
+    ]
+  }
+]

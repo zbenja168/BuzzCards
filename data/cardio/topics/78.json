@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-78-1",
+    "title": "Statins",
+    "course": "cardio",
+    "brick_id": "78",
+    "brick_title": "Treatment of Dyslipidemia",
+    "type": "drug",
+    "buzzwords": [
+      "first-line LDL lowering",
+      "dose by intensity",
+      "high-intensity lowers LDL >=50%",
+      "contraindicated in pregnancy",
+      "causes myalgias",
+      "monitor muscle symptoms",
+      "inhibits HMG-CoA reductase",
+      "atorvastatin, rosuvastatin"
+    ]
+  },
+  {
+    "id": "cardio-78-2",
+    "title": "Ezetimibe",
+    "course": "cardio",
+    "brick_id": "78",
+    "brick_title": "Treatment of Dyslipidemia",
+    "type": "drug",
+    "buzzwords": [
+      "lowers LDL",
+      "add-on to statin",
+      "complementary mechanism",
+      "next step after statin",
+      "blocks intestinal absorption",
+      "inhibits cholesterol transport",
+      "blocks NPC1L1 protein",
+      "Niemann-Pick protein inhibitor"
+    ]
+  },
+  {
+    "id": "cardio-78-3",
+    "title": "PCSK9 Inhibitors",
+    "course": "cardio",
+    "brick_id": "78",
+    "brick_title": "Treatment of Dyslipidemia",
+    "type": "drug",
+    "buzzwords": [
+      "potent LDL lowering",
+      "for high-risk patients",
+      "used when not at goal",
+      "monoclonal antibody",
+      "prevents LDL receptor degradation",
+      "increases cholesterol clearance",
+      "inhibits PCSK9 activity",
+      "evolocumab"
+    ]
+  },
+  {
+    "id": "cardio-78-4",
+    "title": "Fibrates",
+    "course": "cardio",
+    "brick_id": "78",
+    "brick_title": "Treatment of Dyslipidemia",
+    "type": "drug",
+    "buzzwords": [
+      "lowers triglycerides",
+      "for hypertriglyceridemia",
+      "secondary lipid target",
+      "myopathy risk with statins",
+      "PPAR-alpha agonist",
+      "activates PPAR-alpha",
+      "gemfibrozil",
+      "fenofibrate"
+    ]
+  },
+  {
+    "id": "cardio-78-5",
+    "title": "Niacin",
+    "course": "cardio",
+    "brick_id": "78",
+    "brick_title": "Treatment of Dyslipidemia",
+    "type": "drug",
+    "buzzwords": [
+      "lipid-lowering agent",
+      "reduces triglycerides",
+      "limited outcome benefit",
+      "flushing side effect",
+      "high hepatotoxicity risk",
+      "contraindicated in liver disease",
+      "lowers lipolysis",
+      "vitamin B3 / nicotinic acid"
+    ]
+  },
+  {
+    "id": "cardio-78-6",
+    "title": "ASCVD Risk Assessment",
+    "course": "cardio",
+    "brick_id": "78",
+    "brick_title": "Treatment of Dyslipidemia",
+    "type": "physiology",
+    "buzzwords": [
+      "guides statin decision",
+      "risk-based not single value",
+      "estimates 10-year risk",
+      "predicts MI and stroke",
+      "stratifies low to high risk",
+      "Lp(a), apoB enhance risk",
+      "Pooled Cohort Equations",
+      "ASCVD-PREVENT calculator"
+    ]
+  }
+]

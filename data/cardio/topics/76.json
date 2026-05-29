@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-76-1",
+    "title": "Premature Atrial Contractions",
+    "course": "cardio",
+    "brick_id": "76",
+    "brick_title": "Supraventricular Arrhythmias: Pathophysiology, Diagnosis, and Treatment",
+    "type": "disease",
+    "buzzwords": [
+      "feels like skipped beat",
+      "least dangerous arrhythmia",
+      "ectopic atrial focus",
+      "fires before sinus beat",
+      "worsened by stimulants",
+      "usually needs no treatment",
+      "abnormal early P wave",
+      "may be nonconducted"
+    ]
+  },
+  {
+    "id": "cardio-76-2",
+    "title": "Atrial Fibrillation",
+    "course": "cardio",
+    "brick_id": "76",
+    "brick_title": "Supraventricular Arrhythmias: Pathophysiology, Diagnosis, and Treatment",
+    "type": "disease",
+    "buzzwords": [
+      "irregularly irregular rhythm",
+      "high stroke risk",
+      "chaotic atrial impulses",
+      "AV node filters rate",
+      "no discrete P waves",
+      "rate and rhythm control",
+      "anticoagulation for stroke",
+      "wavy fibrillatory baseline"
+    ]
+  },
+  {
+    "id": "cardio-76-3",
+    "title": "Atrial Flutter",
+    "course": "cardio",
+    "brick_id": "76",
+    "brick_title": "Supraventricular Arrhythmias: Pathophysiology, Diagnosis, and Treatment",
+    "type": "disease",
+    "buzzwords": [
+      "rapid regular palpitations",
+      "single macroreentrant circuit",
+      "atrial rate near 300",
+      "typically 2:1 conduction",
+      "ventricular rate 150",
+      "anticoagulation like AFib",
+      "leads II, III, aVF",
+      "sawtooth flutter waves"
+    ]
+  },
+  {
+    "id": "cardio-76-4",
+    "title": "Multifocal Atrial Tachycardia",
+    "course": "cardio",
+    "brick_id": "76",
+    "brick_title": "Supraventricular Arrhythmias: Pathophysiology, Diagnosis, and Treatment",
+    "type": "disease",
+    "buzzwords": [
+      "irregular fast rhythm",
+      "seen in COPD exacerbation",
+      "hypokalemia, hypomagnesemia",
+      "treat underlying disease",
+      "three or more foci",
+      "rate over 100",
+      "varying P-wave morphologies",
+      "at least 3 morphologies"
+    ]
+  },
+  {
+    "id": "cardio-76-5",
+    "title": "AVNRT",
+    "course": "cardio",
+    "brick_id": "76",
+    "brick_title": "Supraventricular Arrhythmias: Pathophysiology, Diagnosis, and Treatment",
+    "type": "disease",
+    "buzzwords": [
+      "abrupt palpitations onset",
+      "young, structurally normal heart",
+      "most common SVT",
+      "often triggered by PAC",
+      "dual AV nodal pathways",
+      "reentry within AV node",
+      "narrow QRS tachycardia",
+      "retrograde P waves"
+    ]
+  },
+  {
+    "id": "cardio-76-6",
+    "title": "WPW Syndrome",
+    "course": "cardio",
+    "brick_id": "76",
+    "brick_title": "Supraventricular Arrhythmias: Pathophysiology, Diagnosis, and Treatment",
+    "type": "disease",
+    "buzzwords": [
+      "ventricular pre-excitation",
+      "accessory bypass pathway",
+      "narrow QRS during tachycardia",
+      "short PR interval",
+      "curative catheter ablation",
+      "slurred QRS upstroke",
+      "delta wave",
+      "Kent bundle"
+    ]
+  }
+]

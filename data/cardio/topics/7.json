@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cardio-7-1",
+    "title": "Class I Antiarrhythmics",
+    "course": "cardio",
+    "brick_id": "7",
+    "brick_title": "Antiarrhythmic Agents - Class I Drugs",
+    "type": "drug",
+    "buzzwords": [
+      "act on nonpacemaker myocytes",
+      "block open Na+ channels",
+      "blunt phase 0 upstroke",
+      "slow conduction velocity",
+      "subdivided IA, IB, IC",
+      "kinetics define subclass",
+      "use dependence",
+      "Vaughan-Williams class I"
+    ]
+  },
+  {
+    "id": "cardio-7-2",
+    "title": "Class IA Drugs",
+    "course": "cardio",
+    "brick_id": "7",
+    "brick_title": "Antiarrhythmic Agents - Class I Drugs",
+    "type": "drug",
+    "buzzwords": [
+      "intermediate Na+ binding",
+      "also blocks K+ channels",
+      "prolongs action potential",
+      "widened QRS",
+      "prolonged QT interval",
+      "torsades de pointes risk",
+      "treats VT and afib",
+      "quinidine, procainamide, disopyramide"
+    ]
+  },
+  {
+    "id": "cardio-7-3",
+    "title": "Class IB Drugs",
+    "course": "cardio",
+    "brick_id": "7",
+    "brick_title": "Antiarrhythmic Agents - Class I Drugs",
+    "type": "drug",
+    "buzzwords": [
+      "fastest dissociation kinetics",
+      "weakest Na+ blockade",
+      "shortens action potential",
+      "minimal QRS widening",
+      "lowest proarrhythmic potential",
+      "crosses blood-brain barrier",
+      "CNS toxicity, seizures",
+      "lidocaine, mexiletine"
+    ]
+  },
+  {
+    "id": "cardio-7-4",
+    "title": "Class IC Drugs",
+    "course": "cardio",
+    "brick_id": "7",
+    "brick_title": "Antiarrhythmic Agents - Class I Drugs",
+    "type": "drug",
+    "buzzwords": [
+      "strongest Na+ binding",
+      "slowest dissociation kinetics",
+      "markedly slows conduction",
+      "unchanged action potential duration",
+      "no effect on K+ channels",
+      "avoid in structural heart disease",
+      "afib rhythm control",
+      "propafenone, flecainide"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cardio-14-1",
+    "title": "Cardiac Action Potential",
+    "course": "cardio",
+    "brick_id": "14",
+    "brick_title": "Arrhythmias: Pathophysiology and Diagnosis",
+    "type": "physiology",
+    "buzzwords": [
+      "five phases, zero to four",
+      "ion currents across membrane",
+      "phase 4 resting potential",
+      "phase 0 rapid sodium influx",
+      "phase 2 plateau, calcium influx",
+      "phase 3 potassium efflux",
+      "L-type calcium channels open",
+      "delayed rectifier potassium channels"
+    ]
+  },
+  {
+    "id": "cardio-14-2",
+    "title": "Automaticity",
+    "course": "cardio",
+    "brick_id": "14",
+    "brick_title": "Arrhythmias: Pathophysiology and Diagnosis",
+    "type": "physiology",
+    "buzzwords": [
+      "spontaneous pacemaker firing",
+      "fastest pacemaker dominates",
+      "enhanced causes tachycardia",
+      "decreased causes bradycardia",
+      "ischemia or catecholamines enhance it",
+      "SA node fastest, sets heart rate",
+      "ectopic focus overdrives SA node",
+      "vagal tone slows SA node"
+    ]
+  },
+  {
+    "id": "cardio-14-3",
+    "title": "Triggered Activity",
+    "course": "cardio",
+    "brick_id": "14",
+    "brick_title": "Arrhythmias: Pathophysiology and Diagnosis",
+    "type": "physiology",
+    "buzzwords": [
+      "abnormal extra action potential",
+      "depends on preceding beat",
+      "afterdepolarizations interrupt phases",
+      "early afterdepolarizations from plateau",
+      "delayed afterdepolarizations from rest",
+      "calcium overload drives DADs",
+      "prolonged QT drives EADs",
+      "causes torsades de pointes"
+    ]
+  },
+  {
+    "id": "cardio-14-4",
+    "title": "Reentry",
+    "course": "cardio",
+    "brick_id": "14",
+    "brick_title": "Arrhythmias: Pathophysiology and Diagnosis",
+    "type": "physiology",
+    "buzzwords": [
+      "self-perpetuating circular conduction",
+      "needs two pathways",
+      "unidirectional block required",
+      "slow conduction in one limb",
+      "premature beat initiates circuit",
+      "accessory pathway can sustain it",
+      "AVNRT slow and fast pathways",
+      "Wolff-Parkinson-White delta wave"
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-49-1",
+    "title": "Hypertensive Emergency",
+    "course": "cardio",
+    "brick_id": "49",
+    "brick_title": "Hypertensive Emergency",
+    "type": "disease",
+    "buzzwords": [
+      "markedly elevated BP",
+      "acute end-organ damage",
+      "throbbing headache, nausea",
+      "papilledema, retinal hemorrhage",
+      "altered mentation",
+      "SBP >180 or DBP >120",
+      "needs IV antihypertensives",
+      "hypertensive encephalopathy"
+    ]
+  },
+  {
+    "id": "cardio-49-2",
+    "title": "Severe Asymptomatic Hypertension",
+    "course": "cardio",
+    "brick_id": "49",
+    "brick_title": "Hypertensive Emergency",
+    "type": "disease",
+    "buzzwords": [
+      "very high BP",
+      "no end-organ damage",
+      "asymptomatic patient",
+      "SBP >180 or DBP >120",
+      "outpatient oral therapy",
+      "no IV drugs needed",
+      "lower BP slowly over days",
+      "hypertensive urgency"
+    ]
+  },
+  {
+    "id": "cardio-49-3",
+    "title": "Fibrinoid Necrosis",
+    "course": "cardio",
+    "brick_id": "49",
+    "brick_title": "Hypertensive Emergency",
+    "type": "physiology",
+    "buzzwords": [
+      "acute severe hypertension",
+      "vessel wall necrosis",
+      "endothelial injury",
+      "plasma protein leakage",
+      "fibrin and fibrinogen deposits",
+      "platelet thrombus, occlusion",
+      "ischemic necrosis of organs",
+      "eosinophilic vessel wall"
+    ]
+  },
+  {
+    "id": "cardio-49-4",
+    "title": "Hyperplastic Arteriolosclerosis",
+    "course": "cardio",
+    "brick_id": "49",
+    "brick_title": "Hypertensive Emergency",
+    "type": "physiology",
+    "buzzwords": [
+      "prolonged severe hypertension",
+      "smooth muscle proliferation",
+      "concentric stacked layers",
+      "basement membrane thickening",
+      "narrowed vessel lumen",
+      "end-organ ischemia",
+      "seen in kidney glomeruli",
+      "onion skinning"
+    ]
+  },
+  {
+    "id": "cardio-49-5",
+    "title": "Microangiopathic Hemolysis",
+    "course": "cardio",
+    "brick_id": "49",
+    "brick_title": "Hypertensive Emergency",
+    "type": "lab",
+    "buzzwords": [
+      "RBCs sheared by vessels",
+      "anemia in severe HTN",
+      "decreased hemoglobin, hematocrit",
+      "fragmented red cells",
+      "low haptoglobin",
+      "elevated LDH",
+      "narrowed fibrinoid vessels",
+      "schistocytes on smear"
+    ]
+  },
+  {
+    "id": "cardio-49-6",
+    "title": "Acute Antihypertensives",
+    "course": "cardio",
+    "brick_id": "49",
+    "brick_title": "Hypertensive Emergency",
+    "type": "drug",
+    "buzzwords": [
+      "IV agents for emergency",
+      "rapid onset, titratable",
+      "lower BP ~25% in 1 hour",
+      "labetalol, nicardipine",
+      "hydralazine, can trigger reflex",
+      "cyanide risk, neurotoxicity",
+      "raises cGMP, vasodilator",
+      "nitroprusside"
+    ]
+  }
+]

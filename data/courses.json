@@ -5,5 +5,6 @@
   { "id": "path", "name": "Pathology", "cards": "data/path/cards.json" },
   { "id": "pharm", "name": "Pharmacology", "cards": "data/pharm/cards.json" },
   { "id": "bloodlymph", "name": "Blood & Lymph", "cards": "data/bloodlymph/cards.json" },
-  { "id": "respi", "name": "Respiratory System", "cards": "data/respi/cards.json" }
+  { "id": "respi", "name": "Respiratory System", "cards": "data/respi/cards.json" },
+  { "id": "cardio", "name": "Cardiovascular System", "cards": "data/cardio/cards.json" }
 ]

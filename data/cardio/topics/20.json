@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cardio-20-1",
+    "title": "Mean Arterial Pressure",
+    "course": "cardio",
+    "brick_id": "20",
+    "brick_title": "Blood Pressure Control: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "perfuses the organs",
+      "too low causes syncope",
+      "too high risks stroke",
+      "product of two factors",
+      "set by output and resistance",
+      "regulation target",
+      "MAP",
+      "MAP = CO x SVR"
+    ]
+  },
+  {
+    "id": "cardio-20-2",
+    "title": "Systemic Vascular Resistance",
+    "course": "cardio",
+    "brick_id": "20",
+    "brick_title": "Blood Pressure Control: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "vessel tone",
+      "depends on vessel radius",
+      "constriction raises it",
+      "dilation lowers it",
+      "set by arteriolar smooth muscle",
+      "lowered in septic shock",
+      "modulated by Ang II and ADH",
+      "SVR"
+    ]
+  },
+  {
+    "id": "cardio-20-3",
+    "title": "Cardiac Output",
+    "course": "cardio",
+    "brick_id": "20",
+    "brick_title": "Blood Pressure Control: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "blood pumped per minute",
+      "raised by preload and contractility",
+      "depends on heart rate",
+      "afterload opposes ejection",
+      "falls after myocardial infarction",
+      "low in cardiogenic shock",
+      "stroke volume times rate",
+      "CO = HR x SV"
+    ]
+  },
+  {
+    "id": "cardio-20-4",
+    "title": "Baroreceptor Reflex",
+    "course": "cardio",
+    "brick_id": "20",
+    "brick_title": "Blood Pressure Control: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "second-to-second control",
+      "stretch sensors",
+      "located in carotid sinus",
+      "and aortic arch",
+      "stabilizes BP on standing",
+      "drives sympathetic outflow",
+      "raises heart rate and SVR",
+      "baroreceptor reflex"
+    ]
+  },
+  {
+    "id": "cardio-20-5",
+    "title": "RAAS",
+    "course": "cardio",
+    "brick_id": "20",
+    "brick_title": "Blood Pressure Control: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "long-term volume control",
+      "triggered by low blood pressure",
+      "drives sodium reabsorption",
+      "water follows salt",
+      "aldosterone and ADH effectors",
+      "stimulates thirst",
+      "Ang II causes vasoconstriction",
+      "renin-angiotensin-aldosterone system"
+    ]
+  }
+]

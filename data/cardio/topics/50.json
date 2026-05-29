@@ -1,0 +1,146 @@
+[
+  {
+    "id": "cardio-50-1",
+    "title": "Hypotension",
+    "course": "cardio",
+    "brick_id": "50",
+    "brick_title": "Hypotension: Causes, Consequences, and Management",
+    "type": "disease",
+    "buzzwords": [
+      "abnormally low blood pressure",
+      "impaired organ perfusion",
+      "dizziness, fatigue, syncope",
+      "compensatory tachycardia",
+      "BP = CO × SVR",
+      "tissue hypoxia, lactic acidosis",
+      "SBP <90 mmHg",
+      "MAP <65 mmHg"
+    ]
+  },
+  {
+    "id": "cardio-50-2",
+    "title": "Orthostatic Hypotension",
+    "course": "cardio",
+    "brick_id": "50",
+    "brick_title": "Hypotension: Causes, Consequences, and Management",
+    "type": "disease",
+    "buzzwords": [
+      "dizziness on standing",
+      "positional blood pressure drop",
+      "autonomic dysfunction",
+      "raises fall risk in elderly",
+      "within 3 minutes of standing",
+      "SBP drop ≥20 mmHg",
+      "DBP drop ≥10 mmHg",
+      "Parkinson's, diabetic neuropathy"
+    ]
+  },
+  {
+    "id": "cardio-50-3",
+    "title": "Postprandial Hypotension",
+    "course": "cardio",
+    "brick_id": "50",
+    "brick_title": "Hypotension: Causes, Consequences, and Management",
+    "type": "disease",
+    "buzzwords": [
+      "low BP after eating",
+      "splanchnic blood pooling",
+      "lightheadedness post-meal",
+      "common in elderly",
+      "blunted compensatory response",
+      "SBP drop ≥20 mmHg",
+      "within 2 hours of eating",
+      "improved by smaller meals"
+    ]
+  },
+  {
+    "id": "cardio-50-4",
+    "title": "Distributive Causes",
+    "course": "cardio",
+    "brick_id": "50",
+    "brick_title": "Hypotension: Causes, Consequences, and Management",
+    "type": "physiology",
+    "buzzwords": [
+      "impaired vascular tone",
+      "widespread vasodilation",
+      "low systemic vascular resistance",
+      "warm skin, bounding pulses",
+      "adrenal insufficiency",
+      "cytokines, nitric oxide release",
+      "septic and anaphylactic shock",
+      "SIRS-driven hypotension"
+    ]
+  },
+  {
+    "id": "cardio-50-5",
+    "title": "Volume Depletion",
+    "course": "cardio",
+    "brick_id": "50",
+    "brick_title": "Hypotension: Causes, Consequences, and Management",
+    "type": "physiology",
+    "buzzwords": [
+      "reduced intravascular volume",
+      "decreased preload",
+      "cool clammy skin",
+      "hemorrhage and trauma",
+      "vomiting, diarrhea losses",
+      "burns, excessive sweating",
+      "diabetes insipidus",
+      "hypovolemic shock"
+    ]
+  },
+  {
+    "id": "cardio-50-6",
+    "title": "Crystalloid Fluids",
+    "course": "cardio",
+    "brick_id": "50",
+    "brick_title": "Hypotension: Causes, Consequences, and Management",
+    "type": "drug",
+    "buzzwords": [
+      "first-line volume expander",
+      "restores intravascular volume",
+      "increases cardiac preload",
+      "raises blood pressure",
+      "IV resuscitation fluid",
+      "isotonic solution",
+      "normal saline 0.9%",
+      "lactated Ringer's"
+    ]
+  },
+  {
+    "id": "cardio-50-7",
+    "title": "Fludrocortisone",
+    "course": "cardio",
+    "brick_id": "50",
+    "brick_title": "Hypotension: Causes, Consequences, and Management",
+    "type": "drug",
+    "buzzwords": [
+      "treats orthostatic hypotension",
+      "expands intravascular volume",
+      "distal tubule sodium reabsorption",
+      "water retention",
+      "potassium and hydrogen excretion",
+      "binds aldosterone receptor",
+      "synthetic mineralocorticoid",
+      "fludrocortisone"
+    ]
+  },
+  {
+    "id": "cardio-50-8",
+    "title": "Midodrine",
+    "course": "cardio",
+    "brick_id": "50",
+    "brick_title": "Hypotension: Causes, Consequences, and Management",
+    "type": "drug",
+    "buzzwords": [
+      "treats orthostatic hypotension",
+      "raises peripheral vascular resistance",
+      "induces vasoconstriction",
+      "prodrug activated in body",
+      "raises blood pressure",
+      "no central nervous effects",
+      "alpha-1 adrenergic agonist",
+      "midodrine"
+    ]
+  }
+]

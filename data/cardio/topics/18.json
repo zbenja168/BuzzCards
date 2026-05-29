@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cardio-18-1",
+    "title": "Atrial Fibrillation",
+    "course": "cardio",
+    "brick_id": "18",
+    "brick_title": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
+    "type": "disease",
+    "buzzwords": [
+      "most common arrhythmia",
+      "palpitations and dyspnea",
+      "loss of atrial kick",
+      "irregularly irregular pulse",
+      "multiple reentrant wavelets",
+      "no discrete P waves",
+      "pulmonary vein triggers",
+      "fibrillatory f waves"
+    ]
+  },
+  {
+    "id": "cardio-18-2",
+    "title": "AF Risk Factors",
+    "course": "cardio",
+    "brick_id": "18",
+    "brick_title": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
+    "type": "physiology",
+    "buzzwords": [
+      "modifiable and non-modifiable",
+      "obesity and sleep apnea",
+      "hyperthyroidism",
+      "valvular and mitral disease",
+      "alcohol and smoking",
+      "atrial fibrosis remodeling",
+      "age strongest factor",
+      "prevalence rises after 65"
+    ]
+  },
+  {
+    "id": "cardio-18-3",
+    "title": "Rate Control",
+    "course": "cardio",
+    "brick_id": "18",
+    "brick_title": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
+    "type": "drug",
+    "buzzwords": [
+      "targets ventricular response",
+      "goal under 110 bpm",
+      "first-line for elderly",
+      "AV nodal blockers",
+      "beta-blockers",
+      "calcium channel blockers",
+      "digoxin if sedentary",
+      "does not restore rhythm"
+    ]
+  },
+  {
+    "id": "cardio-18-4",
+    "title": "Rhythm Control",
+    "course": "cardio",
+    "brick_id": "18",
+    "brick_title": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
+    "type": "drug",
+    "buzzwords": [
+      "restores sinus rhythm",
+      "for younger symptomatic patients",
+      "early control improves outcomes",
+      "electrical or chemical cardioversion",
+      "class III antiarrhythmics",
+      "flecainide and propafenone",
+      "amiodarone if structural disease",
+      "still needs anticoagulation"
+    ]
+  },
+  {
+    "id": "cardio-18-5",
+    "title": "Catheter Ablation",
+    "course": "cardio",
+    "brick_id": "18",
+    "brick_title": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
+    "type": "imaging",
+    "buzzwords": [
+      "invasive rhythm procedure",
+      "for drug-refractory AF",
+      "ideal in paroxysmal AF",
+      "60-80% paroxysmal success",
+      "3-D atrial mapping",
+      "destroys abnormal tissue",
+      "radiofrequency or cryo energy",
+      "pulmonary vein isolation"
+    ]
+  },
+  {
+    "id": "cardio-18-6",
+    "title": "CHA2DS2-VASc Score",
+    "course": "cardio",
+    "brick_id": "18",
+    "brick_title": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
+    "type": "lab",
+    "buzzwords": [
+      "stroke risk assessment",
+      "guides anticoagulation decision",
+      "untreated five-fold stroke risk",
+      "heart failure one point",
+      "age 75 two points",
+      "prior stroke two points",
+      "female sex one point",
+      "CHA2DS2-VASc"
+    ]
+  },
+  {
+    "id": "cardio-18-7",
+    "title": "HAS-BLED Score",
+    "course": "cardio",
+    "brick_id": "18",
+    "brick_title": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
+    "type": "lab",
+    "buzzwords": [
+      "estimates major bleeding risk",
+      "guides monitoring not withholding",
+      "abnormal renal liver function",
+      "labile INR",
+      "elderly over 65",
+      "drugs or alcohol use",
+      "prior bleeding history",
+      "HAS-BLED"
+    ]
+  }
+]

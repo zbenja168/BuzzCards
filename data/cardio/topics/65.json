@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cardio-65-1",
+    "title": "Chronic PAD",
+    "course": "cardio",
+    "brick_id": "65",
+    "brick_title": "Peripheral Arterial Disease",
+    "type": "disease",
+    "buzzwords": [
+      "gradual atherosclerosis of limbs",
+      "smoking and diabetes risk",
+      "exercise leg pain",
+      "relieved by rest",
+      "collaterals form over time",
+      "shiny hairless skin",
+      "progresses to rest pain",
+      "intermittent claudication"
+    ]
+  },
+  {
+    "id": "cardio-65-2",
+    "title": "Acute Limb Ischemia",
+    "course": "cardio",
+    "brick_id": "65",
+    "brick_title": "Peripheral Arterial Disease",
+    "type": "disease",
+    "buzzwords": [
+      "sudden artery occlusion",
+      "embolus from the heart",
+      "atrial fibrillation source",
+      "no time for collaterals",
+      "pain out of proportion",
+      "rapid tissue necrosis",
+      "pulseless pallor paresthesia",
+      "the 6 Ps"
+    ]
+  },
+  {
+    "id": "cardio-65-3",
+    "title": "Leriche Syndrome",
+    "course": "cardio",
+    "brick_id": "65",
+    "brick_title": "Peripheral Arterial Disease",
+    "type": "disease",
+    "buzzwords": [
+      "aortoiliac occlusive disease",
+      "bilateral hip claudication",
+      "buttock and thigh pain",
+      "erectile dysfunction",
+      "absent femoral pulses",
+      "affects men",
+      "classic clinical triad",
+      "Leriche syndrome"
+    ]
+  },
+  {
+    "id": "cardio-65-4",
+    "title": "Ankle-Brachial Index",
+    "course": "cardio",
+    "brick_id": "65",
+    "brick_title": "Peripheral Arterial Disease",
+    "type": "lab",
+    "buzzwords": [
+      "single most important PAD test",
+      "ankle over brachial pressure",
+      "normal 1.0 to 1.3",
+      "below 0.9 abnormal",
+      "under 0.4 severe",
+      "falsely high in diabetes",
+      "exercise testing if normal",
+      "ankle-brachial index"
+    ]
+  },
+  {
+    "id": "cardio-65-5",
+    "title": "PAD Medications",
+    "course": "cardio",
+    "brick_id": "65",
+    "brick_title": "Peripheral Arterial Disease",
+    "type": "drug",
+    "buzzwords": [
+      "secondary prevention plus symptom relief",
+      "antiplatelet aspirin or clopidogrel",
+      "high-intensity statin for all",
+      "low-dose rivaroxaban in high-risk",
+      "improves walking distance",
+      "PDE3 inhibitor",
+      "contraindicated in heart failure",
+      "cilostazol"
+    ]
+  }
+]

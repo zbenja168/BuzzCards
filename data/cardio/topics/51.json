@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-51-1",
+    "title": "Infective Endocarditis",
+    "course": "cardio",
+    "brick_id": "51",
+    "brick_title": "Infective Endocarditis",
+    "type": "disease",
+    "buzzwords": [
+      "fever and chills",
+      "endothelial injury first",
+      "fibrin-platelet vegetation",
+      "infected heart valves",
+      "new heart murmur",
+      "left side most common",
+      "mitral valve favored",
+      "vegetations seeded by bacteremia"
+    ]
+  },
+  {
+    "id": "cardio-51-2",
+    "title": "Acute vs Subacute IE",
+    "course": "cardio",
+    "brick_id": "51",
+    "brick_title": "Infective Endocarditis",
+    "type": "disease",
+    "buzzwords": [
+      "two clinical tempos",
+      "acute hits healthy valves",
+      "subacute hits damaged valves",
+      "acute is rapid and severe",
+      "subacute is indolent",
+      "acute caused by S. aureus",
+      "subacute viridans streptococci",
+      "S. gallolyticus means colon cancer"
+    ]
+  },
+  {
+    "id": "cardio-51-3",
+    "title": "IV Drug Endocarditis",
+    "course": "cardio",
+    "brick_id": "51",
+    "brick_title": "Infective Endocarditis",
+    "type": "disease",
+    "buzzwords": [
+      "injection drug use",
+      "right-sided valve",
+      "skin flora seeded",
+      "septic pulmonary emboli",
+      "bounding jugular pulse",
+      "tricuspid regurgitation",
+      "tricuspid valve most affected",
+      "Staphylococcus aureus organism"
+    ]
+  },
+  {
+    "id": "cardio-51-4",
+    "title": "IE Embolic Complications",
+    "course": "cardio",
+    "brick_id": "51",
+    "brick_title": "Infective Endocarditis",
+    "type": "disease",
+    "buzzwords": [
+      "vegetation breaks off",
+      "lodges in distant organs",
+      "stroke and seizures",
+      "cerebral abscess",
+      "septic pulmonary infarcts",
+      "deep back pain",
+      "septic arthritis",
+      "vertebral osteomyelitis"
+    ]
+  },
+  {
+    "id": "cardio-51-5",
+    "title": "Peripheral Stigmata",
+    "course": "cardio",
+    "brick_id": "51",
+    "brick_title": "Infective Endocarditis",
+    "type": "physiology",
+    "buzzwords": [
+      "microemboli skin signs",
+      "petechiae",
+      "splinter hemorrhages",
+      "painless palm soles macules",
+      "painful finger toe nodules",
+      "retinal hemorrhage white center",
+      "Janeway lesions painless",
+      "painful Osler nodes"
+    ]
+  },
+  {
+    "id": "cardio-51-6",
+    "title": "Diagnosing IE",
+    "course": "cardio",
+    "brick_id": "51",
+    "brick_title": "Infective Endocarditis",
+    "type": "lab",
+    "buzzwords": [
+      "blood cultures and echo",
+      "three cultures detect 95%",
+      "negative cultures don't exclude",
+      "HACEK slow growers",
+      "culture-negative endocarditis",
+      "transesophageal echo most sensitive",
+      "valve vegetation on echo",
+      "modified Duke criteria"
+    ]
+  }
+]

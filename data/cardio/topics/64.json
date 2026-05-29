@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cardio-64-1",
+    "title": "Pericardial Effusion",
+    "course": "cardio",
+    "brick_id": "64",
+    "brick_title": "Pericardial Effusion and Cardiac Tamponade",
+    "type": "disease",
+    "buzzwords": [
+      "fluid in pericardial space",
+      "often asymptomatic",
+      "found incidentally",
+      "muffled heart sounds",
+      "enlarged cardiac silhouette",
+      "low-voltage QRS",
+      "water-bottle heart shape",
+      "echocardiography confirms"
+    ]
+  },
+  {
+    "id": "cardio-64-2",
+    "title": "Cardiac Tamponade",
+    "course": "cardio",
+    "brick_id": "64",
+    "brick_title": "Pericardial Effusion and Cardiac Tamponade",
+    "type": "disease",
+    "buzzwords": [
+      "hemodynamic compromise",
+      "impaired diastolic filling",
+      "distended jugular veins",
+      "pulsus paradoxus >10 mmHg",
+      "RV diastolic collapse on echo",
+      "electrical alternans",
+      "Beck triad",
+      "treat with pericardiocentesis"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cardio-3-1",
+    "title": "Acute Rheumatic Fever",
+    "course": "cardio",
+    "brick_id": "3",
+    "brick_title": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "type": "disease",
+    "buzzwords": [
+      "systemic inflammatory disease",
+      "follows sore throat",
+      "1-5 weeks post-pharyngitis",
+      "affects joints, heart, brain",
+      "migratory polyarthritis",
+      "type 2 hypersensitivity",
+      "molecular mimicry of myosin",
+      "post-strep autoimmune disease"
+    ]
+  },
+  {
+    "id": "cardio-3-2",
+    "title": "Rheumatic Heart Disease",
+    "course": "cardio",
+    "brick_id": "3",
+    "brick_title": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "type": "disease",
+    "buzzwords": [
+      "chronic valvular disease",
+      "occurs 10-20 years later",
+      "heart failure symptoms",
+      "valve scarring and fibrosis",
+      "mitral stenosis most common",
+      "fish-mouth mitral valve",
+      "chordae tendineae fusion",
+      "late sequela of ARF"
+    ]
+  },
+  {
+    "id": "cardio-3-3",
+    "title": "Aschoff Bodies",
+    "course": "cardio",
+    "brick_id": "3",
+    "brick_title": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "type": "lab",
+    "buzzwords": [
+      "granulomatous structures",
+      "found in endocardium",
+      "autoreactive CD4 T cells",
+      "pathognomonic histology",
+      "contain caterpillar cells",
+      "Anitschkow cells inside",
+      "wavy chromatin macrophages",
+      "Aschoff body of ARF"
+    ]
+  },
+  {
+    "id": "cardio-3-4",
+    "title": "Sydenham Chorea",
+    "course": "cardio",
+    "brick_id": "3",
+    "brick_title": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "type": "disease",
+    "buzzwords": [
+      "neurologic manifestation",
+      "uncontrollable movements",
+      "involuntary rapid jerks",
+      "intermittent grip weakness",
+      "milkmaid's grip",
+      "from brain involvement",
+      "major Jones criterion",
+      "Sydenham chorea"
+    ]
+  },
+  {
+    "id": "cardio-3-5",
+    "title": "Jones Criteria",
+    "course": "cardio",
+    "brick_id": "3",
+    "brick_title": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "type": "lab",
+    "buzzwords": [
+      "diagnostic criteria",
+      "major and minor",
+      "needs recent strep evidence",
+      "two major to diagnose",
+      "carditis and arthritis",
+      "erythema marginatum",
+      "elevated ASO titer",
+      "Jones criteria for ARF"
+    ]
+  }
+]

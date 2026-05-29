@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-44-1",
+    "title": "Arterial BP Waveform",
+    "course": "cardio",
+    "brick_id": "44",
+    "brick_title": "Hemodynamics: Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "oscillating arterial pressure",
+      "systolic peak",
+      "diastolic trough",
+      "aortic valve closure notch",
+      "backward flow rebound",
+      "~120/80 mmHg",
+      "incisura",
+      "dicrotic wave"
+    ]
+  },
+  {
+    "id": "cardio-44-2",
+    "title": "Mean Arterial Pressure",
+    "course": "cardio",
+    "brick_id": "44",
+    "brick_title": "Hemodynamics: Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "average perfusion pressure",
+      "area under curve",
+      "diastole-weighted",
+      "not simple average",
+      "drives organ perfusion",
+      "~93 mmHg",
+      "DBP + 1/3 PP",
+      "MAP"
+    ]
+  },
+  {
+    "id": "cardio-44-3",
+    "title": "Pulse Pressure",
+    "course": "cardio",
+    "brick_id": "44",
+    "brick_title": "Hemodynamics: Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "systolic minus diastolic",
+      "waveform amplitude",
+      "rises with stroke volume",
+      "widens with stiff arteries",
+      "narrows with low compliance",
+      "~40 mmHg",
+      "SBP - DBP",
+      "wide in isolated systolic HTN"
+    ]
+  },
+  {
+    "id": "cardio-44-4",
+    "title": "Vascular Compliance",
+    "course": "cardio",
+    "brick_id": "44",
+    "brick_title": "Hemodynamics: Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "vessel stretchiness",
+      "volume change per pressure",
+      "veins highly compliant",
+      "capacitance vessels",
+      "store most blood volume",
+      "arteries low compliance",
+      "delta V over delta P",
+      "buffers venous return"
+    ]
+  },
+  {
+    "id": "cardio-44-5",
+    "title": "Elastance",
+    "course": "cardio",
+    "brick_id": "44",
+    "brick_title": "Hemodynamics: Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "inward recoil ability",
+      "inverse of compliance",
+      "stiffer less compliant vessel",
+      "elastic fiber rebound",
+      "maintains diastolic pressure",
+      "keeps DBP above zero",
+      "delta P over delta V",
+      "why BP is 120/80 not 120/0"
+    ]
+  },
+  {
+    "id": "cardio-44-6",
+    "title": "Wall Tension",
+    "course": "cardio",
+    "brick_id": "44",
+    "brick_title": "Hemodynamics: Blood Pressure",
+    "type": "physiology",
+    "buzzwords": [
+      "force opposing vessel bulging",
+      "rises with transmural pressure",
+      "rises with radius",
+      "thicker wall withstands more",
+      "dilation worsens aneurysm",
+      "low in capillaries",
+      "T = P x r",
+      "Laplace's law"
+    ]
+  }
+]

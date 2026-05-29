@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cardio-59-1",
+    "title": "Mitral Valve Anatomy",
+    "course": "cardio",
+    "brick_id": "59",
+    "brick_title": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "type": "anatomy",
+    "buzzwords": [
+      "sits between LA and LV",
+      "anterior and posterior leaflets",
+      "ring-like annulus",
+      "closes during systole",
+      "papillary muscles pull taut",
+      "specialized ventricular myocardium",
+      "anchored by chordae tendineae",
+      "posterior leaflet has 3 lobes"
+    ]
+  },
+  {
+    "id": "cardio-59-2",
+    "title": "Acute Mitral Regurgitation",
+    "course": "cardio",
+    "brick_id": "59",
+    "brick_title": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "type": "disease",
+    "buzzwords": [
+      "sudden backflow into atrium",
+      "no time to compensate",
+      "flash pulmonary edema",
+      "often fatal",
+      "endocarditis or trauma",
+      "needs emergent surgery",
+      "post-MI papillary muscle rupture",
+      "sudden flail leaflet"
+    ]
+  },
+  {
+    "id": "cardio-59-3",
+    "title": "Chronic Mitral Regurgitation",
+    "course": "cardio",
+    "brick_id": "59",
+    "brick_title": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "type": "disease",
+    "buzzwords": [
+      "slow backflow into atrium",
+      "asymptomatic for years",
+      "dyspnea on exertion",
+      "predisposes to atrial fibrillation",
+      "holosystolic murmur at apex",
+      "radiates to the axilla",
+      "LV eccentric hypertrophy",
+      "increased LV end-diastolic volume"
+    ]
+  },
+  {
+    "id": "cardio-59-4",
+    "title": "Mitral Valve Prolapse",
+    "course": "cardio",
+    "brick_id": "59",
+    "brick_title": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "type": "disease",
+    "buzzwords": [
+      "most common cause of MR",
+      "often asymptomatic",
+      "leaflets balloon into atrium",
+      "myxomatous degeneration",
+      "thickened spongiosa layer",
+      "click later with squatting",
+      "click earlier with standing",
+      "mid-systolic click, late murmur"
+    ]
+  }
+]

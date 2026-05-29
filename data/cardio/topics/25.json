@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cardio-25-1",
+    "title": "Carotid Stenosis",
+    "course": "cardio",
+    "brick_id": "25",
+    "brick_title": "Carotid Stenosis",
+    "type": "disease",
+    "buzzwords": [
+      "narrowed neck artery",
+      "atherosclerotic plaque",
+      "often asymptomatic",
+      "embolic stroke source",
+      "bruit on auscultation",
+      "narrows at bifurcation",
+      "surgery if >70%",
+      "internal carotid"
+    ]
+  },
+  {
+    "id": "cardio-25-2",
+    "title": "Amaurosis Fugax",
+    "course": "cardio",
+    "brick_id": "25",
+    "brick_title": "Carotid Stenosis",
+    "type": "disease",
+    "buzzwords": [
+      "transient vision loss",
+      "painless monocular",
+      "lasts seconds to minutes",
+      "fully reversible",
+      "high 3-month stroke risk",
+      "retinal artery embolus",
+      "curtain falling over eye",
+      "amaurosis fugax"
+    ]
+  },
+  {
+    "id": "cardio-25-3",
+    "title": "Retinal Artery Occlusion",
+    "course": "cardio",
+    "brick_id": "25",
+    "brick_title": "Carotid Stenosis",
+    "type": "disease",
+    "buzzwords": [
+      "sudden monocular vision loss",
+      "embolus lodges in eye",
+      "permanent if untreated",
+      "pale ischemic retina",
+      "fundoscopy abnormal",
+      "spared choroidal supply",
+      "cherry-red spot fovea",
+      "central retinal artery"
+    ]
+  },
+  {
+    "id": "cardio-25-4",
+    "title": "Carotid Duplex Ultrasound",
+    "course": "cardio",
+    "brick_id": "25",
+    "brick_title": "Carotid Stenosis",
+    "type": "imaging",
+    "buzzwords": [
+      "noninvasive first test",
+      "sound waves",
+      "images the bifurcation",
+      "grayscale shows plaque",
+      "Doppler measures velocity",
+      "peak systolic velocity",
+      "elevated ICA/CCA ratio",
+      "duplex ultrasound"
+    ]
+  },
+  {
+    "id": "cardio-25-5",
+    "title": "Carotid Endarterectomy",
+    "course": "cardio",
+    "brick_id": "25",
+    "brick_title": "Carotid Stenosis",
+    "type": "physiology",
+    "buzzwords": [
+      "open surgical procedure",
+      "for >70% stenosis",
+      "needs >5-year life expectancy",
+      "plaque removed",
+      "artery wall reopened",
+      "restores blood flow",
+      "stenting alternative",
+      "endarterectomy"
+    ]
+  }
+]

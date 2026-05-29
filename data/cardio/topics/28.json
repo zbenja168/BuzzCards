@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cardio-28-1",
+    "title": "Phasic Coronary Flow",
+    "course": "cardio",
+    "brick_id": "28",
+    "brick_title": "Coronary Blood Flow - Vascular Physiology",
+    "type": "physiology",
+    "buzzwords": [
+      "flow varies with cardiac cycle",
+      "systolic compression of vessels",
+      "subendocardium most vulnerable",
+      "open aortic cusps block ostia",
+      "left coronary worst affected",
+      "perfusion mostly in diastole",
+      "maximal flow early diastole",
+      "diastolic coronary perfusion"
+    ]
+  },
+  {
+    "id": "cardio-28-2",
+    "title": "Coronary Perfusion Pressure",
+    "course": "cardio",
+    "brick_id": "28",
+    "brick_title": "Coronary Blood Flow - Vascular Physiology",
+    "type": "physiology",
+    "buzzwords": [
+      "driving pressure for flow",
+      "aortic diastolic minus LVEDP",
+      "low BP reduces perfusion",
+      "high LVEDP reduces perfusion",
+      "stenosis lowers downstream pressure",
+      "tachycardia shortens diastole",
+      "worsened by arterial stenosis",
+      "aortic diastolic pressure minus LVEDP"
+    ]
+  },
+  {
+    "id": "cardio-28-3",
+    "title": "Myocardial O2 Extraction",
+    "course": "cardio",
+    "brick_id": "28",
+    "brick_title": "Coronary Blood Flow - Vascular Physiology",
+    "type": "physiology",
+    "buzzwords": [
+      "high baseline oxygen demand",
+      "extraction already near maximal",
+      "70-80% extracted at rest",
+      "low coronary sinus O2",
+      "must raise flow not extraction",
+      "high capillary density",
+      "wide arterio-venous O2 difference",
+      "A-V oxygen difference"
+    ]
+  },
+  {
+    "id": "cardio-28-4",
+    "title": "Metabolic Autoregulation",
+    "course": "cardio",
+    "brick_id": "28",
+    "brick_title": "Coronary Blood Flow - Vascular Physiology",
+    "type": "physiology",
+    "buzzwords": [
+      "matches flow to demand",
+      "active hyperemia with exertion",
+      "low ATP triggers dilation",
+      "opens KATP channels",
+      "potent endogenous vasodilator",
+      "nitric oxide relaxes smooth muscle",
+      "buildup of adenosine",
+      "adenosine-mediated coronary dilation"
+    ]
+  },
+  {
+    "id": "cardio-28-5",
+    "title": "Coronary Flow Reserve",
+    "course": "cardio",
+    "brick_id": "28",
+    "brick_title": "Coronary Blood Flow - Vascular Physiology",
+    "type": "physiology",
+    "buzzwords": [
+      "max flow above resting baseline",
+      "reflects vasodilatory capacity",
+      "exhausted by atherosclerosis",
+      "unmasks critical stenosis",
+      "reversible perfusion defect",
+      "basis of stress testing",
+      "dobutamine or adenosine challenge",
+      "coronary flow reserve"
+    ]
+  },
+  {
+    "id": "cardio-28-6",
+    "title": "Coronary Steal",
+    "course": "cardio",
+    "brick_id": "28",
+    "brick_title": "Coronary Blood Flow - Vascular Physiology",
+    "type": "physiology",
+    "buzzwords": [
+      "flow diverted from ischemic area",
+      "vasodilator paradoxically worsens ischemia",
+      "stenotic vessels already maximally dilated",
+      "healthy vessels dilate further",
+      "blood shunted to normal myocardium",
+      "provoked by adenosine stress",
+      "redistribution away from diseased segment",
+      "coronary steal phenomenon"
+    ]
+  },
+  {
+    "id": "cardio-28-7",
+    "title": "Autonomic Coronary Control",
+    "course": "cardio",
+    "brick_id": "28",
+    "brick_title": "Coronary Blood Flow - Vascular Physiology",
+    "type": "physiology",
+    "buzzwords": [
+      "neural modulation of coronary tone",
+      "alpha-1 causes vasoconstriction",
+      "beta-2 causes vasodilation",
+      "overridden by metabolic demand",
+      "muscarinic effect minor",
+      "metabolic dilation dominates exercise",
+      "sympathetic constriction vs metabolites",
+      "alpha-1 mediated coronary constriction"
+    ]
+  }
+]

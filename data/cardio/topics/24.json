@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cardio-24-1",
+    "title": "Cardiac Function Curve",
+    "course": "cardio",
+    "brick_id": "24",
+    "brick_title": "Cardiac and Vascular Function Curves",
+    "type": "physiology",
+    "buzzwords": [
+      "preload on x-axis",
+      "cardiac output on y-axis",
+      "plateaus at high preload",
+      "steepens with inotropy",
+      "flattens in heart failure",
+      "downward shift raises afterload",
+      "LVEDV versus CO",
+      "Frank-Starling curve"
+    ]
+  },
+  {
+    "id": "cardio-24-2",
+    "title": "Vascular Function Curve",
+    "course": "cardio",
+    "brick_id": "24",
+    "brick_title": "Cardiac and Vascular Function Curves",
+    "type": "physiology",
+    "buzzwords": [
+      "venous return on y-axis",
+      "right atrial pressure on x-axis",
+      "falls as RA pressure rises",
+      "flat plateau from vein collapse",
+      "shifts right with volume",
+      "venous tone shifts curve",
+      "x-intercept is MCFP",
+      "venous return curve"
+    ]
+  },
+  {
+    "id": "cardio-24-3",
+    "title": "Mean Circulatory Filling Pressure",
+    "course": "cardio",
+    "brick_id": "24",
+    "brick_title": "Cardiac and Vascular Function Curves",
+    "type": "physiology",
+    "buzzwords": [
+      "no-flow circulatory pressure",
+      "venous return equals zero",
+      "set by blood volume",
+      "raised by venous tone",
+      "unchanged by afterload",
+      "rises with transfusion",
+      "falls with diuretics",
+      "x-intercept of vascular curve"
+    ]
+  },
+  {
+    "id": "cardio-24-4",
+    "title": "Steady-State Operating Point",
+    "course": "cardio",
+    "brick_id": "24",
+    "brick_title": "Cardiac and Vascular Function Curves",
+    "type": "physiology",
+    "buzzwords": [
+      "two curves on one plot",
+      "cardiac equals vascular function",
+      "single intersection point",
+      "cardiac output equals venous return",
+      "shifts with contractility",
+      "afterload moves both curves",
+      "predicts heart failure changes",
+      "Guyton crossplot"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cardio-13-1",
+    "title": "Aortic Stenosis",
+    "course": "cardio",
+    "brick_id": "13",
+    "brick_title": "Aortic Stenosis",
+    "type": "disease",
+    "buzzwords": [
+      "stiff valve leaflets",
+      "valve won't fully open",
+      "LV pressure overload",
+      "asymptomatic for years",
+      "angina, syncope, dyspnea",
+      "LV-aorta pressure gradient",
+      "concentric LV hypertrophy",
+      "calcific valve in elderly"
+    ]
+  },
+  {
+    "id": "cardio-13-2",
+    "title": "Bicuspid Aortic Valve",
+    "course": "cardio",
+    "brick_id": "13",
+    "brick_title": "Aortic Stenosis",
+    "type": "anatomy",
+    "buzzwords": [
+      "most common congenital valve defect",
+      "1-2% of population",
+      "two leaflets, not three",
+      "calcifies earlier",
+      "stenosis in 40s-50s",
+      "linked to aortic aneurysm",
+      "associated with Turner syndrome",
+      "fused leaflets on echo"
+    ]
+  },
+  {
+    "id": "cardio-13-3",
+    "title": "AS Murmur",
+    "course": "cardio",
+    "brick_id": "13",
+    "brick_title": "Aortic Stenosis",
+    "type": "physiology",
+    "buzzwords": [
+      "harsh systolic murmur",
+      "radiates to carotids",
+      "louder with squatting",
+      "softer with Valsalva",
+      "decreased S2 intensity",
+      "delayed weak carotid pulse",
+      "crescendo-decrescendo",
+      "pulsus parvus et tardus"
+    ]
+  },
+  {
+    "id": "cardio-13-4",
+    "title": "Aortic Valve Replacement",
+    "course": "cardio",
+    "brick_id": "13",
+    "brick_title": "Aortic Stenosis",
+    "type": "drug",
+    "buzzwords": [
+      "only definitive treatment",
+      "for symptomatic severe AS",
+      "open-heart surgery option",
+      "catheter-based option",
+      "avoid nitroglycerin preload drop",
+      "preload-dependent patients",
+      "serial echo while asymptomatic",
+      "TAVR procedure"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cardio-63-1",
+    "title": "Coarctation of Aorta",
+    "course": "cardio",
+    "brick_id": "63",
+    "brick_title": "Obstructive Congenital Heart Defects",
+    "type": "disease",
+    "buzzwords": [
+      "narrowed aorta",
+      "twice as common in males",
+      "secondary hypertension in children",
+      "rib notching on x-ray",
+      "collateral intercostal arteries",
+      "distal to left subclavian",
+      "near ligamentum arteriosum",
+      "associated with Turner syndrome"
+    ]
+  },
+  {
+    "id": "cardio-63-2",
+    "title": "Pulmonary Valve Stenosis",
+    "course": "cardio",
+    "brick_id": "63",
+    "brick_title": "Obstructive Congenital Heart Defects",
+    "type": "disease",
+    "buzzwords": [
+      "narrowed valve lumen",
+      "reduced flow to lungs",
+      "right ventricular hypertrophy",
+      "right-axis deviation on ECG",
+      "murmur radiates to back",
+      "atretic form is pulmonary atresia",
+      "one of four in tetralogy of Fallot",
+      "harsh systolic ejection murmur"
+    ]
+  },
+  {
+    "id": "cardio-63-3",
+    "title": "Aortic Valve Stenosis",
+    "course": "cardio",
+    "brick_id": "63",
+    "brick_title": "Obstructive Congenital Heart Defects",
+    "type": "disease",
+    "buzzwords": [
+      "obstructed LV outflow",
+      "progressive disease",
+      "left ventricular hypertrophy",
+      "syncope and chest pain",
+      "murmur radiates to carotids",
+      "severe form causes hypoplastic left heart",
+      "bicuspid aortic valve",
+      "crescendo-decrescendo systolic murmur"
+    ]
+  }
+]

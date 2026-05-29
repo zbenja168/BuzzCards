@@ -1,0 +1,236 @@
+[
+  {
+    "id": "cardio-56-1",
+    "title": "Distributive Shock",
+    "course": "cardio",
+    "brick_id": "56",
+    "brick_title": "Management of Shock",
+    "type": "disease",
+    "buzzwords": [
+      "warm extremities",
+      "low blood pressure",
+      "high cardiac output",
+      "tachycardia",
+      "arteriolar vasodilation",
+      "low SVR",
+      "sepsis or anaphylaxis",
+      "norepinephrine first-line"
+    ]
+  },
+  {
+    "id": "cardio-56-2",
+    "title": "Cardiogenic Shock",
+    "course": "cardio",
+    "brick_id": "56",
+    "brick_title": "Management of Shock",
+    "type": "disease",
+    "buzzwords": [
+      "pump failure",
+      "low cardiac output",
+      "high SVR",
+      "elevated preload",
+      "high right atrial pressure",
+      "low SvO2",
+      "treat with inotropes",
+      "post-MI pump failure"
+    ]
+  },
+  {
+    "id": "cardio-56-3",
+    "title": "Hypovolemic Shock",
+    "course": "cardio",
+    "brick_id": "56",
+    "brick_title": "Management of Shock",
+    "type": "disease",
+    "buzzwords": [
+      "low volume",
+      "low preload",
+      "low cardiac output",
+      "high SVR",
+      "low right atrial pressure",
+      "responds to fluid bolus",
+      "blood if hemorrhagic",
+      "crystalloid resuscitation"
+    ]
+  },
+  {
+    "id": "cardio-56-4",
+    "title": "Obstructive Shock",
+    "course": "cardio",
+    "brick_id": "56",
+    "brick_title": "Management of Shock",
+    "type": "disease",
+    "buzzwords": [
+      "blocked blood flow",
+      "low cardiac output",
+      "high SVR",
+      "pulmonary embolism",
+      "cardiac tamponade",
+      "tension pneumothorax",
+      "thrombolytics for PE",
+      "pericardiocentesis for tamponade"
+    ]
+  },
+  {
+    "id": "cardio-56-5",
+    "title": "Mixed Venous O2 Saturation",
+    "course": "cardio",
+    "brick_id": "56",
+    "brick_title": "Management of Shock",
+    "type": "lab",
+    "buzzwords": [
+      "returning venous blood",
+      "balance of delivery vs consumption",
+      "normal 60-80%",
+      "low in low-output shock",
+      "high tissue extraction lowers it",
+      "high in early sepsis",
+      "impaired extraction raises it",
+      "SvO2"
+    ]
+  },
+  {
+    "id": "cardio-56-6",
+    "title": "Norepinephrine",
+    "course": "cardio",
+    "brick_id": "56",
+    "brick_title": "Management of Shock",
+    "type": "drug",
+    "buzzwords": [
+      "potent vasoconstrictor",
+      "raises blood pressure",
+      "strong alpha-1",
+      "mild beta-1 inotropy",
+      "less reflex tachycardia",
+      "first-line in septic shock",
+      "preferred distributive pressor",
+      "levophed"
+    ]
+  },
+  {
+    "id": "cardio-56-7",
+    "title": "Phenylephrine",
+    "course": "cardio",
+    "brick_id": "56",
+    "brick_title": "Management of Shock",
+    "type": "drug",
+    "buzzwords": [
+      "pure vasoconstrictor",
+      "raises blood pressure",
+      "selective alpha-1",
+      "no beta activity",
+      "causes reflex bradycardia",
+      "no inotropy",
+      "useful with tachyarrhythmia",
+      "neo-synephrine"
+    ]
+  },
+  {
+    "id": "cardio-56-8",
+    "title": "Epinephrine",
+    "course": "cardio",
+    "brick_id": "56",
+    "brick_title": "Management of Shock",
+    "type": "drug",
+    "buzzwords": [
+      "potent mixed pressor",
+      "strong inotropy",
+      "alpha and beta agonist",
+      "high alpha-1 vasoconstriction",
+      "beta-2 bronchodilation",
+      "positive inotrope",
+      "first-line in anaphylaxis",
+      "EpiPen"
+    ]
+  },
+  {
+    "id": "cardio-56-9",
+    "title": "Vasopressin",
+    "course": "cardio",
+    "brick_id": "56",
+    "brick_title": "Management of Shock",
+    "type": "drug",
+    "buzzwords": [
+      "non-adrenergic pressor",
+      "vasoconstriction",
+      "acts on V1A receptors",
+      "antidiuretic hormone",
+      "no beta activity",
+      "added to norepinephrine",
+      "spares catecholamine dose",
+      "ADH"
+    ]
+  },
+  {
+    "id": "cardio-56-10",
+    "title": "Dopamine",
+    "course": "cardio",
+    "brick_id": "56",
+    "brick_title": "Management of Shock",
+    "type": "drug",
+    "buzzwords": [
+      "dose-dependent receptor effects",
+      "alpha beta dopaminergic activity",
+      "causes tachyarrhythmias",
+      "low-dose renal blood flow",
+      "no proven renal protection",
+      "diuresis harms hypotensive patient",
+      "dopaminergic receptors",
+      "renal-dose dopamine myth"
+    ]
+  },
+  {
+    "id": "cardio-56-11",
+    "title": "Dobutamine",
+    "course": "cardio",
+    "brick_id": "56",
+    "brick_title": "Management of Shock",
+    "type": "drug",
+    "buzzwords": [
+      "inotrope",
+      "increases contractility",
+      "raises cardiac output",
+      "strong beta-1 agonist",
+      "beta-2 vasodilation lowers afterload",
+      "can cause tachyarrhythmias",
+      "treats cardiogenic shock",
+      "beta-1 over beta-2"
+    ]
+  },
+  {
+    "id": "cardio-56-12",
+    "title": "Milrinone",
+    "course": "cardio",
+    "brick_id": "56",
+    "brick_title": "Management of Shock",
+    "type": "drug",
+    "buzzwords": [
+      "inotrope",
+      "increases contractility",
+      "raises cardiac output",
+      "inhibits cAMP breakdown",
+      "raises intracellular calcium",
+      "vasodilates lowering afterload",
+      "treats cardiogenic shock",
+      "PDE3 inhibitor"
+    ]
+  },
+  {
+    "id": "cardio-56-13",
+    "title": "Mechanical Assist Devices",
+    "course": "cardio",
+    "brick_id": "56",
+    "brick_title": "Management of Shock",
+    "type": "imaging",
+    "buzzwords": [
+      "support failing heart",
+      "for refractory cardiogenic shock",
+      "no proven mortality benefit",
+      "avoid in sepsis or bleeding",
+      "balloon times with ECG",
+      "percutaneous LV assist device",
+      "full cardiopulmonary support",
+      "ECMO heart-lung machine"
+    ]
+  }
+]

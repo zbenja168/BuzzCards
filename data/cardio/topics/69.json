@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cardio-69-1",
+    "title": "ST Segment",
+    "course": "cardio",
+    "brick_id": "69",
+    "brick_title": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+    "type": "physiology",
+    "buzzwords": [
+      "normally isoelectric",
+      "even with baseline",
+      "first ECG change in ischemia",
+      "indicates infarct acuity",
+      "corresponds to AP plateau",
+      "ventricles fully depolarized",
+      "phase 2 of action potential",
+      "J point to T wave"
+    ]
+  },
+  {
+    "id": "cardio-69-2",
+    "title": "ST Elevation",
+    "course": "cardio",
+    "brick_id": "69",
+    "brick_title": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+    "type": "lab",
+    "buzzwords": [
+      "deviation above baseline",
+      "more severe ischemia",
+      "transmural injury",
+      "full wall thickness",
+      "needs emergent reperfusion",
+      "surrogate for vessel occlusion",
+      "acute major coronary occlusion",
+      "STEMI"
+    ]
+  },
+  {
+    "id": "cardio-69-3",
+    "title": "ST Depression",
+    "course": "cardio",
+    "brick_id": "69",
+    "brick_title": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+    "type": "lab",
+    "buzzwords": [
+      "deviation below baseline",
+      "generally milder",
+      "inner wall affected",
+      "demand-supply mismatch",
+      "can be reciprocal change",
+      "managed less invasively",
+      "subendocardial ischemia",
+      "NSTEMI or unstable angina"
+    ]
+  },
+  {
+    "id": "cardio-69-4",
+    "title": "Anterior Family",
+    "course": "cardio",
+    "brick_id": "69",
+    "brick_title": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+    "type": "imaging",
+    "buzzwords": [
+      "left coronary system",
+      "anteroseptal V1-V3",
+      "anterolateral leads",
+      "high lateral I and aVL",
+      "extensive V1-V6 = proximal occlusion",
+      "reciprocal inferior depression",
+      "circumflex supplies lateral",
+      "LAD territory"
+    ]
+  },
+  {
+    "id": "cardio-69-5",
+    "title": "Inferior Family",
+    "course": "cardio",
+    "brick_id": "69",
+    "brick_title": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+    "type": "imaging",
+    "buzzwords": [
+      "leads II, III, aVF",
+      "reciprocal change in aVL",
+      "check right-sided leads",
+      "posterior V7-V9",
+      "tall R in V1-V2 posterior",
+      "RV involvement clue lead III",
+      "usually right coronary",
+      "RCA occlusion"
+    ]
+  }
+]

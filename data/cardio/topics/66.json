@@ -1,0 +1,146 @@
+[
+  {
+    "id": "cardio-66-1",
+    "title": "Concentric Hypertrophy",
+    "course": "cardio",
+    "brick_id": "66",
+    "brick_title": "Physiology of Heart Failure",
+    "type": "physiology",
+    "buzzwords": [
+      "pressure overload",
+      "increased afterload",
+      "sarcomeres in parallel",
+      "thickened ventricular wall",
+      "smaller chamber cavity",
+      "stiff, impaired filling",
+      "leads to HFpEF",
+      "aortic stenosis, hypertension"
+    ]
+  },
+  {
+    "id": "cardio-66-2",
+    "title": "Eccentric Hypertrophy",
+    "course": "cardio",
+    "brick_id": "66",
+    "brick_title": "Physiology of Heart Failure",
+    "type": "physiology",
+    "buzzwords": [
+      "volume overload",
+      "sarcomeres in series",
+      "chamber dilation",
+      "thinned ventricular wall",
+      "declining contractility",
+      "leads to HFrEF",
+      "dilated cardiomyopathy",
+      "valve regurgitation"
+    ]
+  },
+  {
+    "id": "cardio-66-3",
+    "title": "Frank-Starling Law",
+    "course": "cardio",
+    "brick_id": "66",
+    "brick_title": "Physiology of Heart Failure",
+    "type": "physiology",
+    "buzzwords": [
+      "preload-dependent output",
+      "EDV drives stroke volume",
+      "optimal sarcomere stretch",
+      "stretch boosts contraction",
+      "descending limb in failure",
+      "overstretch reduces force",
+      "ascending vs descending limb",
+      "Frank-Starling curve"
+    ]
+  },
+  {
+    "id": "cardio-66-4",
+    "title": "Laplace's Law",
+    "course": "cardio",
+    "brick_id": "66",
+    "brick_title": "Physiology of Heart Failure",
+    "type": "physiology",
+    "buzzwords": [
+      "wall stress",
+      "sigma = P x r / 2h",
+      "radius raises stress",
+      "thickness lowers stress",
+      "thicker wall normalizes stress",
+      "dilation raises wall stress",
+      "drives hypertrophy",
+      "Laplace law"
+    ]
+  },
+  {
+    "id": "cardio-66-5",
+    "title": "RAAS in Heart Failure",
+    "course": "cardio",
+    "brick_id": "66",
+    "brick_title": "Physiology of Heart Failure",
+    "type": "physiology",
+    "buzzwords": [
+      "low effective circulating volume",
+      "reduced renal blood flow",
+      "raises preload and afterload",
+      "sodium and water retention",
+      "ADH release, vasoconstriction",
+      "promotes fibrosis, remodeling",
+      "ACE inhibitors block it",
+      "angiotensin II, aldosterone"
+    ]
+  },
+  {
+    "id": "cardio-66-6",
+    "title": "Sympathetic Activation",
+    "course": "cardio",
+    "brick_id": "66",
+    "brick_title": "Physiology of Heart Failure",
+    "type": "physiology",
+    "buzzwords": [
+      "low cardiac output trigger",
+      "baroreceptor-driven",
+      "increased heart rate",
+      "increased contractility",
+      "venous vasoconstriction",
+      "blocked by beta-blockers",
+      "chronic cardiomyocyte damage",
+      "beta-1 receptors"
+    ]
+  },
+  {
+    "id": "cardio-66-7",
+    "title": "Systolic Heart Failure",
+    "course": "cardio",
+    "brick_id": "66",
+    "brick_title": "Physiology of Heart Failure",
+    "type": "disease",
+    "buzzwords": [
+      "impaired contraction",
+      "reduced contractility",
+      "increased end-systolic volume",
+      "flatter ESPVR slope",
+      "increased EDV",
+      "dilated ventricle",
+      "reduced ejection fraction",
+      "HFrEF"
+    ]
+  },
+  {
+    "id": "cardio-66-8",
+    "title": "Diastolic Heart Failure",
+    "course": "cardio",
+    "brick_id": "66",
+    "brick_title": "Physiology of Heart Failure",
+    "type": "disease",
+    "buzzwords": [
+      "impaired filling",
+      "stiff ventricle",
+      "normal contractility",
+      "reduced EDV",
+      "upward-shifted EDPVR",
+      "elevated filling pressures",
+      "ejection fraction preserved",
+      "HFpEF"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cardio-4-1",
+    "title": "Patent Ductus Arteriosus",
+    "course": "cardio",
+    "brick_id": "4",
+    "brick_title": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+    "type": "disease",
+    "buzzwords": [
+      "left-to-right shunt",
+      "fetal vessel fails to close",
+      "aorta to pulmonary artery",
+      "low oxygen normally closes it",
+      "congenital rubella, prematurity",
+      "wide pulse pressure",
+      "continuous machine-like murmur",
+      "left subclavicular region"
+    ]
+  },
+  {
+    "id": "cardio-4-2",
+    "title": "Atrial Septal Defect",
+    "course": "cardio",
+    "brick_id": "4",
+    "brick_title": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+    "type": "disease",
+    "buzzwords": [
+      "left-to-right shunt",
+      "interatrial septum opening",
+      "often asymptomatic, subtle",
+      "right ventricular enlargement",
+      "no murmur from defect itself",
+      "step-up in right heart oxygen",
+      "ostium secundum most common",
+      "fixed wide split S2"
+    ]
+  },
+  {
+    "id": "cardio-4-3",
+    "title": "Ventricular Septal Defect",
+    "course": "cardio",
+    "brick_id": "4",
+    "brick_title": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+    "type": "disease",
+    "buzzwords": [
+      "left-to-right shunt",
+      "most common congenital cardiac anomaly",
+      "interventricular septum opening",
+      "small defects close spontaneously",
+      "right heart failure if large",
+      "palpable thrill",
+      "harsh holosystolic murmur",
+      "lower left sternal border"
+    ]
+  }
+]

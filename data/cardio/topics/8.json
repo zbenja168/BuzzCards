@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-8-1",
+    "title": "Beta-Blockers",
+    "course": "cardio",
+    "brick_id": "8",
+    "brick_title": "Antiarrhythmic Agents: Classes II-IV",
+    "type": "drug",
+    "buzzwords": [
+      "Class II antiarrhythmic",
+      "blocks beta-adrenergic receptors",
+      "slows SA and AV conduction",
+      "decreases phase 4 slope",
+      "prolongs PR interval",
+      "treats supraventricular arrhythmias",
+      "caution in asthma/COPD",
+      "metoprolol, propranolol, esmolol"
+    ]
+  },
+  {
+    "id": "cardio-8-2",
+    "title": "Calcium-Channel Blockers",
+    "course": "cardio",
+    "brick_id": "8",
+    "brick_title": "Antiarrhythmic Agents: Classes II-IV",
+    "type": "drug",
+    "buzzwords": [
+      "Class IV antiarrhythmic",
+      "blocks L-type calcium channels",
+      "negative dromotropy at AV node",
+      "blocks phase 0 of nodal cells",
+      "prolongs PR interval",
+      "causes constipation",
+      "treats AF and AVNRT",
+      "verapamil, diltiazem"
+    ]
+  },
+  {
+    "id": "cardio-8-3",
+    "title": "Class III Antiarrhythmics",
+    "course": "cardio",
+    "brick_id": "8",
+    "brick_title": "Antiarrhythmic Agents: Classes II-IV",
+    "type": "drug",
+    "buzzwords": [
+      "blocks potassium channels",
+      "delays phase 3 repolarization",
+      "prolongs refractory period",
+      "reverse use dependence",
+      "QT prolongation on ECG",
+      "risk of torsades de pointes",
+      "amiodarone pulmonary fibrosis",
+      "amiodarone, sotalol, dofetilide, ibutilide"
+    ]
+  },
+  {
+    "id": "cardio-8-4",
+    "title": "Adenosine",
+    "course": "cardio",
+    "brick_id": "8",
+    "brick_title": "Antiarrhythmic Agents: Classes II-IV",
+    "type": "drug",
+    "buzzwords": [
+      "ultra-short half-life seconds",
+      "opens potassium channels",
+      "transient AV nodal block",
+      "terminates AVNRT acutely",
+      "effect augmented by caffeine",
+      "causes bronchospasm",
+      "transient flushing and chest pain",
+      "sense of impending doom"
+    ]
+  },
+  {
+    "id": "cardio-8-5",
+    "title": "Magnesium",
+    "course": "cardio",
+    "brick_id": "8",
+    "brick_title": "Antiarrhythmic Agents: Classes II-IV",
+    "type": "drug",
+    "buzzwords": [
+      "stabilizes cardiac membrane",
+      "blocks calcium influx",
+      "causes hyporeflexia",
+      "muscle weakness with excess",
+      "hypotension and flushing",
+      "treats arrhythmias",
+      "long QT context",
+      "first-line for torsades de pointes"
+    ]
+  },
+  {
+    "id": "cardio-8-6",
+    "title": "Digoxin",
+    "course": "cardio",
+    "brick_id": "8",
+    "brick_title": "Antiarrhythmic Agents: Classes II-IV",
+    "type": "drug",
+    "buzzwords": [
+      "increases vagal tone",
+      "slows AV nodal conduction",
+      "narrow therapeutic window",
+      "third-line rate control in AF",
+      "nausea and vomiting",
+      "mental disturbances",
+      "blurred vision",
+      "yellow halos"
+    ]
+  }
+]

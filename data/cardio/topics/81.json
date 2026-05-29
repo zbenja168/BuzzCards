@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-81-1",
+    "title": "PVCs",
+    "course": "cardio",
+    "brick_id": "81",
+    "brick_title": "Ventricular Arrhythmias",
+    "type": "disease",
+    "buzzwords": [
+      "feels like skipped beat",
+      "single premature beat",
+      "originates in ventricle",
+      "wide QRS, no preceding P",
+      "worsened by caffeine and alcohol",
+      "re-entry or enhanced automaticity",
+      "mostly benign",
+      "every-other-beat is bigeminy"
+    ]
+  },
+  {
+    "id": "cardio-81-2",
+    "title": "Ventricular Tachycardia",
+    "course": "cardio",
+    "brick_id": "81",
+    "brick_title": "Ventricular Arrhythmias",
+    "type": "disease",
+    "buzzwords": [
+      "originates below AV junction",
+      "rate 100 to 250 bpm",
+      "from diseased myocytes",
+      "often follows MI",
+      "poor diastolic filling",
+      "can cause syncope or arrest",
+      "wide QRS tachycardia",
+      "monomorphic uniform complexes"
+    ]
+  },
+  {
+    "id": "cardio-81-3",
+    "title": "Ventricular Fibrillation",
+    "course": "cardio",
+    "brick_id": "81",
+    "brick_title": "Ventricular Arrhythmias",
+    "type": "disease",
+    "buzzwords": [
+      "no organized contraction",
+      "ventricles quiver",
+      "no palpable pulse",
+      "always sudden cardiac death",
+      "hemodynamic collapse",
+      "chaotic disorganized waveform",
+      "treat with defibrillation",
+      "pulseless cardiac arrest rhythm"
+    ]
+  },
+  {
+    "id": "cardio-81-4",
+    "title": "Torsades de Pointes",
+    "course": "cardio",
+    "brick_id": "81",
+    "brick_title": "Ventricular Arrhythmias",
+    "type": "disease",
+    "buzzwords": [
+      "polymorphic ventricular tachycardia",
+      "preceded by prolonged QT",
+      "QRS amplitude waxes and wanes",
+      "often self-terminating",
+      "caused by QT-prolonging drugs",
+      "treat with IV magnesium",
+      "axis twists around baseline",
+      "twisting of the points"
+    ]
+  },
+  {
+    "id": "cardio-81-5",
+    "title": "Brugada Syndrome",
+    "course": "cardio",
+    "brick_id": "81",
+    "brick_title": "Ventricular Arrhythmias",
+    "type": "disease",
+    "buzzwords": [
+      "inherited arrhythmia disorder",
+      "predisposes to VT and VF",
+      "sodium channel dysfunction",
+      "risk of sudden death",
+      "often triggered by fever",
+      "autosomal dominant",
+      "variable penetrance",
+      "coved ST elevation V1-V2"
+    ]
+  },
+  {
+    "id": "cardio-81-6",
+    "title": "Accelerated Idioventricular Rhythm",
+    "course": "cardio",
+    "brick_id": "81",
+    "brick_title": "Ventricular Arrhythmias",
+    "type": "disease",
+    "buzzwords": [
+      "ventricular escape rhythm",
+      "wide QRS complexes",
+      "rate 60 to 100 bpm",
+      "usually well tolerated",
+      "seen during myocardial ischemia",
+      "marker of reperfusion",
+      "rarely needs treatment",
+      "AIVR"
+    ]
+  }
+]

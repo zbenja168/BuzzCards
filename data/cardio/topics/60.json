@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cardio-60-1",
+    "title": "Mitral Stenosis",
+    "course": "cardio",
+    "brick_id": "60",
+    "brick_title": "Mitral Stenosis",
+    "type": "disease",
+    "buzzwords": [
+      "narrowed valve orifice",
+      "obstructs LA to LV flow",
+      "left atrial pressure rises",
+      "exertional dyspnea",
+      "pulmonary edema and hemoptysis",
+      "left atrial enlargement",
+      "beta-blockers for rate control",
+      "mitral stenosis"
+    ]
+  },
+  {
+    "id": "cardio-60-2",
+    "title": "Rheumatic Heart Disease",
+    "course": "cardio",
+    "brick_id": "60",
+    "brick_title": "Mitral Stenosis",
+    "type": "disease",
+    "buzzwords": [
+      "most common cause worldwide",
+      "follows untreated strep throat",
+      "molecular mimicry",
+      "antibodies attack valve",
+      "leaflet thickening and fusion",
+      "fused commissures",
+      "fish-mouth orifice",
+      "rheumatic fever"
+    ]
+  },
+  {
+    "id": "cardio-60-3",
+    "title": "MS Murmur",
+    "course": "cardio",
+    "brick_id": "60",
+    "brick_title": "Mitral Stenosis",
+    "type": "physiology",
+    "buzzwords": [
+      "heard at apex",
+      "left lateral decubitus",
+      "low-pitched diastolic rumble",
+      "decrescendo then crescendo",
+      "presystolic accentuation",
+      "follows the opening snap",
+      "accentuation lost in AFib",
+      "opening snap"
+    ]
+  },
+  {
+    "id": "cardio-60-4",
+    "title": "Balloon Commissurotomy",
+    "course": "cardio",
+    "brick_id": "60",
+    "brick_title": "Mitral Stenosis",
+    "type": "physiology",
+    "buzzwords": [
+      "definitive treatment",
+      "catheter from femoral vein",
+      "transseptal puncture",
+      "balloon inflated across valve",
+      "splits fused commissures",
+      "needs favorable anatomy",
+      "alternative is open repair",
+      "percutaneous mitral balloon"
+    ]
+  }
+]

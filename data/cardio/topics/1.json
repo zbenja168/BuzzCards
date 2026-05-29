@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cardio-1-1",
+    "title": "ASCVD-PREVENT Score",
+    "course": "cardio",
+    "brick_id": "1",
+    "brick_title": "ASCVD-PREVENT Risk Score in Dyslipidemia Management",
+    "type": "lab",
+    "buzzwords": [
+      "10-year CV risk estimate",
+      "guides statin decisions",
+      "uses age and sex",
+      "includes eGFR and hsCRP",
+      "adds treatment benefit projection",
+      "replaces Pooled Cohort Equation",
+      "race-specific coefficients",
+      "ASCVD-PREVENT"
+    ]
+  },
+  {
+    "id": "cardio-1-2",
+    "title": "ASCVD Risk Categories",
+    "course": "cardio",
+    "brick_id": "1",
+    "brick_title": "ASCVD-PREVENT Risk Score in Dyslipidemia Management",
+    "type": "lab",
+    "buzzwords": [
+      "stratifies 10-year risk",
+      "four risk tiers",
+      "low risk <5%",
+      "borderline 5-7.5%",
+      "intermediate 7.5-20%",
+      "high risk ≥20%",
+      "12.8% is intermediate",
+      "color-coded risk bar"
+    ]
+  },
+  {
+    "id": "cardio-1-3",
+    "title": "Statin Therapy Decisions",
+    "course": "cardio",
+    "brick_id": "1",
+    "brick_title": "ASCVD-PREVENT Risk Score in Dyslipidemia Management",
+    "type": "drug",
+    "buzzwords": [
+      "intensity scales with risk",
+      "estimates absolute risk reduction",
+      "target ≥50% LDL-C drop",
+      "LDL >190 is high-risk equivalent",
+      "diabetes plus age >40 high-risk",
+      "higher tier, more aggressive",
+      "BP target <130/80",
+      "high-intensity statin"
+    ]
+  }
+]

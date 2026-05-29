@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cardio-30-1",
+    "title": "DOACs",
+    "course": "cardio",
+    "brick_id": "30",
+    "brick_title": "DOACs",
+    "type": "drug",
+    "buzzwords": [
+      "oral anticoagulant",
+      "direct factor Xa inhibitor",
+      "blocks common pathway",
+      "no routine INR monitoring",
+      "renally eliminated, CYP3A4 substrate",
+      "not for prosthetic valves",
+      "main risk is bleeding",
+      "apixaban, rivaroxaban, edoxaban"
+    ]
+  },
+  {
+    "id": "cardio-30-2",
+    "title": "Andexanet Alfa",
+    "course": "cardio",
+    "brick_id": "30",
+    "brick_title": "DOACs",
+    "type": "drug",
+    "buzzwords": [
+      "anticoagulant reversal agent",
+      "decoy factor Xa molecule",
+      "sequesters circulating DOAC",
+      "raises thrombin generation",
+      "limited by high cost",
+      "failed superiority trials",
+      "specific factor Xa antidote",
+      "andexanet alfa"
+    ]
+  }
+]

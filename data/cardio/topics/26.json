@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cardio-26-1",
+    "title": "Fetal Circulation",
+    "course": "cardio",
+    "brick_id": "26",
+    "brick_title": "Congenital Heart Defects: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "high pulmonary resistance",
+      "lungs bypassed",
+      "right-to-left shunting normal",
+      "umbilical vein oxygenated",
+      "ductus arteriosus",
+      "PA to aorta shunt",
+      "foramen ovale",
+      "RA to LA shunt"
+    ]
+  },
+  {
+    "id": "cardio-26-2",
+    "title": "Left-to-Right Shunts",
+    "course": "cardio",
+    "brick_id": "26",
+    "brick_title": "Congenital Heart Defects: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "acyanotic",
+      "pulmonary overcirculation",
+      "right heart volume overload",
+      "high-pressure to low-pressure flow",
+      "can reverse over time",
+      "ASD, VSD, PDA",
+      "VSD holosystolic murmur",
+      "PDA machine-like murmur"
+    ]
+  },
+  {
+    "id": "cardio-26-3",
+    "title": "Eisenmenger Syndrome",
+    "course": "cardio",
+    "brick_id": "26",
+    "brick_title": "Congenital Heart Defects: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "late shunt reversal",
+      "presents in young adults",
+      "pulmonary hypertension",
+      "RV hypertrophy",
+      "cyanosis and clubbing",
+      "becomes right-to-left",
+      "RV pressure exceeds LV",
+      "complication of L-to-R shunt"
+    ]
+  },
+  {
+    "id": "cardio-26-4",
+    "title": "Right-to-Left Shunts",
+    "course": "cardio",
+    "brick_id": "26",
+    "brick_title": "Congenital Heart Defects: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "cyanotic",
+      "blue baby at birth",
+      "deoxygenated blood into systemic",
+      "early cyanosis",
+      "truncus arteriosus, TGA",
+      "tricuspid atresia, TAPVR",
+      "the 5 T's",
+      "tetralogy of Fallot"
+    ]
+  },
+  {
+    "id": "cardio-26-5",
+    "title": "Obstructive Defects",
+    "course": "cardio",
+    "brick_id": "26",
+    "brick_title": "Congenital Heart Defects: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "acyanotic",
+      "narrowed valve or vessel",
+      "increased pressure proximal",
+      "ventricular hypertrophy",
+      "pulmonary stenosis, right HF",
+      "aortic stenosis, left HF",
+      "ejection murmur",
+      "coarctation of the aorta"
+    ]
+  }
+]

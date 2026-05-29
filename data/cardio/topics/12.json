@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cardio-12-1",
+    "title": "Aortic Regurgitation",
+    "course": "cardio",
+    "brick_id": "12",
+    "brick_title": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "type": "disease",
+    "buzzwords": [
+      "valve fails to close",
+      "also called aortic insufficiency",
+      "blood leaks back in diastole",
+      "left ventricular volume overload",
+      "widened pulse pressure",
+      "soft diastolic murmur",
+      "decrescendo diastolic murmur",
+      "treated with valve replacement"
+    ]
+  },
+  {
+    "id": "cardio-12-2",
+    "title": "Acute Aortic Regurgitation",
+    "course": "cardio",
+    "brick_id": "12",
+    "brick_title": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "type": "disease",
+    "buzzwords": [
+      "sudden onset dyspnea",
+      "no time to compensate",
+      "rapid pulmonary edema",
+      "valve vegetations",
+      "traumatic valve injury",
+      "needs urgent valve replacement",
+      "endocarditis cause",
+      "ascending aortic dissection"
+    ]
+  },
+  {
+    "id": "cardio-12-3",
+    "title": "Chronic Aortic Regurgitation",
+    "course": "cardio",
+    "brick_id": "12",
+    "brick_title": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "type": "disease",
+    "buzzwords": [
+      "asymptomatic for years",
+      "gradual volume overload",
+      "eccentric left ventricular hypertrophy",
+      "dilated chamber, increased radius",
+      "aortic root dilation",
+      "calcific or bicuspid valve",
+      "connective tissue disease",
+      "Marfan and syphilitic aortitis"
+    ]
+  },
+  {
+    "id": "cardio-12-4",
+    "title": "AR Murmur and Pulse",
+    "course": "cardio",
+    "brick_id": "12",
+    "brick_title": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "type": "physiology",
+    "buzzwords": [
+      "early diastolic murmur",
+      "soft and high-pitched",
+      "decrescendo quality",
+      "loudest leaning forward",
+      "heard at Erb point",
+      "water-hammer carotid pulse",
+      "Corrigan and Duroziez signs",
+      "Austin-Flint apical rumble"
+    ]
+  },
+  {
+    "id": "cardio-12-5",
+    "title": "Pulmonary Stenosis",
+    "course": "cardio",
+    "brick_id": "12",
+    "brick_title": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "type": "disease",
+    "buzzwords": [
+      "right-sided valve narrowing",
+      "obstructs right ventricular outflow",
+      "isolated valve disease rare",
+      "found in children",
+      "right heart failure if severe",
+      "most common pulmonary valve lesion",
+      "pediatric cardiology clinic",
+      "congenital heart disease"
+    ]
+  },
+  {
+    "id": "cardio-12-6",
+    "title": "Pulmonary Regurgitation",
+    "course": "cardio",
+    "brick_id": "12",
+    "brick_title": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "type": "disease",
+    "buzzwords": [
+      "right-sided valve leak",
+      "backflow into right ventricle",
+      "right heart volume overload",
+      "peripheral edema and ascites",
+      "jugular venous distention",
+      "murmur louder on inspiration",
+      "pulmonary hypertension cause",
+      "dilated pulmonary artery"
+    ]
+  }
+]

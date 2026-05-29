@@ -1,0 +1,164 @@
+[
+  {
+    "id": "cardio-37-1",
+    "title": "Statins",
+    "course": "cardio",
+    "brick_id": "37",
+    "brick_title": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
+    "type": "drug",
+    "buzzwords": [
+      "first-line for LDL",
+      "extensive first-pass metabolism",
+      "stabilizes fibrous cap",
+      "lowers CRP",
+      "transaminitis",
+      "myopathy and rhabdomyolysis",
+      "HMG-CoA reductase inhibitor",
+      "atorvastatin, simvastatin"
+    ]
+  },
+  {
+    "id": "cardio-37-2",
+    "title": "Ezetimibe",
+    "course": "cardio",
+    "brick_id": "37",
+    "brick_title": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
+    "type": "drug",
+    "buzzwords": [
+      "blocks cholesterol absorption",
+      "acts at intestinal brush border",
+      "added on to statin",
+      "lowers LDL 5-15%",
+      "myalgia",
+      "diarrhea",
+      "URTIs",
+      "inhibits NPC1L1"
+    ]
+  },
+  {
+    "id": "cardio-37-3",
+    "title": "Bempedoic Acid",
+    "course": "cardio",
+    "brick_id": "37",
+    "brick_title": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
+    "type": "drug",
+    "buzzwords": [
+      "blocks cholesterol synthesis",
+      "upregulates LDL receptors",
+      "statin-intolerant patients",
+      "spares muscle",
+      "hyperuricemia",
+      "caution in gout",
+      "ACL inhibitor",
+      "inhibits ATP citrate lyase"
+    ]
+  },
+  {
+    "id": "cardio-37-4",
+    "title": "Niacin",
+    "course": "cardio",
+    "brick_id": "37",
+    "brick_title": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
+    "type": "drug",
+    "buzzwords": [
+      "inhibits adipose lipolysis",
+      "lowers VLDL and TGs",
+      "poor tolerability",
+      "cutaneous flushing",
+      "prostaglandin-mediated flush",
+      "aspirin prevents flushing",
+      "hepatotoxicity",
+      "nicotinic acid"
+    ]
+  },
+  {
+    "id": "cardio-37-5",
+    "title": "PCSK9 Inhibitors",
+    "course": "cardio",
+    "brick_id": "37",
+    "brick_title": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
+    "type": "drug",
+    "buzzwords": [
+      "monoclonal antibodies",
+      "subcutaneous injection",
+      "prevents LDL receptor degradation",
+      "lowers LDL 70%",
+      "familial hypercholesterolemia",
+      "injection-site reactions",
+      "alirocumab",
+      "evolocumab"
+    ]
+  },
+  {
+    "id": "cardio-37-6",
+    "title": "Fibrates",
+    "course": "cardio",
+    "brick_id": "37",
+    "brick_title": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
+    "type": "drug",
+    "buzzwords": [
+      "best TG-lowering agent",
+      "raises HDL",
+      "increases lipoprotein lipase",
+      "PPAR-alpha agonist",
+      "myopathy",
+      "cholesterol gallstones",
+      "gemfibrozil",
+      "fenofibrate"
+    ]
+  },
+  {
+    "id": "cardio-37-7",
+    "title": "Bile Acid Sequestrants",
+    "course": "cardio",
+    "brick_id": "37",
+    "brick_title": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
+    "type": "drug",
+    "buzzwords": [
+      "non-absorbed resins",
+      "bind intestinal bile acids",
+      "impair fat-soluble vitamin absorption",
+      "GI upset and constipation",
+      "reduce other drug absorption",
+      "cholestyramine",
+      "colestipol",
+      "colesevelam"
+    ]
+  },
+  {
+    "id": "cardio-37-8",
+    "title": "Omega-3 Fatty Acids",
+    "course": "cardio",
+    "brick_id": "37",
+    "brick_title": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
+    "type": "drug",
+    "buzzwords": [
+      "found in fatty fish",
+      "lower VLDL and TGs",
+      "adjunct for high triglycerides",
+      "fishy aftertaste",
+      "GI upset",
+      "EPA and DHA",
+      "only EPA cuts CV risk",
+      "icosapent ethyl"
+    ]
+  },
+  {
+    "id": "cardio-37-9",
+    "title": "Inclisiran",
+    "course": "cardio",
+    "brick_id": "37",
+    "brick_title": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
+    "type": "drug",
+    "buzzwords": [
+      "blocks PCSK9 production",
+      "increases LDL receptor recycling",
+      "lowers circulating LDL",
+      "twice-yearly dosing",
+      "injection-site reactions",
+      "arthralgia",
+      "small interfering RNA",
+      "siRNA against PCSK9"
+    ]
+  }
+]

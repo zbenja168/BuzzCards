@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cardio-82-1",
+    "title": "PV Loop",
+    "course": "cardio",
+    "brick_id": "82",
+    "brick_title": "Pressure Volume (PV) Loops",
+    "type": "physiology",
+    "buzzwords": [
+      "x-axis is volume",
+      "y-axis is pressure",
+      "x-axis not time",
+      "traced counterclockwise",
+      "left ventricle plotted",
+      "vertical sides isovolumetric",
+      "width equals stroke volume",
+      "ventricular pressure-volume loop"
+    ]
+  },
+  {
+    "id": "cardio-82-2",
+    "title": "Stroke Volume",
+    "course": "cardio",
+    "brick_id": "82",
+    "brick_title": "Pressure Volume (PV) Loops",
+    "type": "physiology",
+    "buzzwords": [
+      "blood ejected per beat",
+      "loop width on x-axis",
+      "increased by preload",
+      "falls when heart rate rises",
+      "less filling time lowers it",
+      "EDV minus ESV",
+      "normal about 70 mL",
+      "SV = EDV - ESV"
+    ]
+  },
+  {
+    "id": "cardio-82-3",
+    "title": "Ejection Fraction",
+    "course": "cardio",
+    "brick_id": "82",
+    "brick_title": "Pressure Volume (PV) Loops",
+    "type": "lab",
+    "buzzwords": [
+      "pump efficiency measure",
+      "percent of LV ejected",
+      "stroke volume over EDV",
+      "normal greater than 55%",
+      "low in HFrEF",
+      "preserved in HFpEF",
+      "reduced after large MI",
+      "EF = SV / EDV"
+    ]
+  },
+  {
+    "id": "cardio-82-4",
+    "title": "Stroke Work",
+    "course": "cardio",
+    "brick_id": "82",
+    "brick_title": "Pressure Volume (PV) Loops",
+    "type": "physiology",
+    "buzzwords": [
+      "force times volume ejected",
+      "area inside the loop",
+      "bigger area means more work",
+      "rises with higher afterload",
+      "taller loop more work",
+      "pressure-volume product",
+      "energy expended per beat",
+      "area within PV loop"
+    ]
+  },
+  {
+    "id": "cardio-82-5",
+    "title": "Preload",
+    "course": "cardio",
+    "brick_id": "82",
+    "brick_title": "Pressure Volume (PV) Loops",
+    "type": "physiology",
+    "buzzwords": [
+      "ventricular filling load",
+      "reflected by end-diastolic volume",
+      "raised by IV fluids",
+      "lowered by hemorrhage",
+      "stretches cardiac sarcomeres",
+      "more stretch stronger contraction",
+      "ESPVR slope unchanged",
+      "Frank-Starling mechanism"
+    ]
+  },
+  {
+    "id": "cardio-82-6",
+    "title": "Afterload",
+    "course": "cardio",
+    "brick_id": "82",
+    "brick_title": "Pressure Volume (PV) Loops",
+    "type": "physiology",
+    "buzzwords": [
+      "resistance to ejection",
+      "aortic pressure LV faces",
+      "high load raises ESV",
+      "high load lowers stroke volume",
+      "aortic valve opens later",
+      "lowered by ACE inhibitors",
+      "elevated in hypertension",
+      "raised by aortic stenosis"
+    ]
+  },
+  {
+    "id": "cardio-82-7",
+    "title": "Contractility",
+    "course": "cardio",
+    "brick_id": "82",
+    "brick_title": "Pressure Volume (PV) Loops",
+    "type": "physiology",
+    "buzzwords": [
+      "force independent of load",
+      "set by intracellular calcium",
+      "raised by sympathetic input",
+      "beta-1 adrenergic stimulation",
+      "higher inotropy lowers ESV",
+      "increased by digoxin and dobutamine",
+      "steeper ESPVR slope",
+      "ESPVR line slope"
+    ]
+  }
+]

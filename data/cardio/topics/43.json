@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cardio-43-1",
+    "title": "S1 Heart Sound",
+    "course": "cardio",
+    "brick_id": "43",
+    "brick_title": "Heart Sounds (S1, S2, S3, and S4)",
+    "type": "physiology",
+    "buzzwords": [
+      "first heart sound",
+      "marks systole onset",
+      "follows QRS complex",
+      "AV valve closure",
+      "tricuspid and mitral",
+      "the \"lub\"",
+      "splits in RBBB",
+      "split: mitral before tricuspid"
+    ]
+  },
+  {
+    "id": "cardio-43-2",
+    "title": "S2 Heart Sound",
+    "course": "cardio",
+    "brick_id": "43",
+    "brick_title": "Heart Sounds (S1, S2, S3, and S4)",
+    "type": "physiology",
+    "buzzwords": [
+      "second heart sound",
+      "marks diastole onset",
+      "follows T wave",
+      "semilunar valve closure",
+      "aortic and pulmonary",
+      "the \"dub\"",
+      "two components A2 and P2",
+      "A2 precedes P2"
+    ]
+  },
+  {
+    "id": "cardio-43-3",
+    "title": "S2 Splitting",
+    "course": "cardio",
+    "brick_id": "43",
+    "brick_title": "Heart Sounds (S1, S2, S3, and S4)",
+    "type": "physiology",
+    "buzzwords": [
+      "staggered A2 and P2",
+      "normally widens on inspiration",
+      "wide split: RBBB",
+      "wide split: pulmonary stenosis",
+      "wide split: pulmonary hypertension",
+      "paradoxical: aortic stenosis or LBBB",
+      "delayed pulmonary valve closure",
+      "fixed split: atrial septal defect"
+    ]
+  },
+  {
+    "id": "cardio-43-4",
+    "title": "S3 Heart Sound",
+    "course": "cardio",
+    "brick_id": "43",
+    "brick_title": "Heart Sounds (S1, S2, S3, and S4)",
+    "type": "physiology",
+    "buzzwords": [
+      "extra sound after S2",
+      "early diastole",
+      "rapid passive ventricular filling",
+      "normal in young athletes",
+      "normal in pregnancy",
+      "dilated noncompliant ventricle",
+      "cadence \"Ken-tuc-ky\"",
+      "ventricular gallop in heart failure"
+    ]
+  },
+  {
+    "id": "cardio-43-5",
+    "title": "S4 Heart Sound",
+    "course": "cardio",
+    "brick_id": "43",
+    "brick_title": "Heart Sounds (S1, S2, S3, and S4)",
+    "type": "physiology",
+    "buzzwords": [
+      "extra sound before S1",
+      "late diastole",
+      "atrial kick into stiff ventricle",
+      "always pathologic",
+      "stiff noncompliant ventricle",
+      "concentric ventricular hypertrophy",
+      "chronic hypertension or aortic stenosis",
+      "cadence \"Ten-nes-see\""
+    ]
+  }
+]

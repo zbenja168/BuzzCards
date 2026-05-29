@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cardio-61-1",
+    "title": "Myocardial Infarction",
+    "course": "cardio",
+    "brick_id": "61",
+    "brick_title": "Myocardial Infarction",
+    "type": "disease",
+    "buzzwords": [
+      "myocardium dies",
+      "leading cause of death",
+      "smoking, diabetes, HTN risk",
+      "acute coronary occlusion",
+      "plaque rupture",
+      "exposed collagen, tissue factor",
+      "occlusive thrombus",
+      "heart attack"
+    ]
+  },
+  {
+    "id": "cardio-61-2",
+    "title": "MI Presentation",
+    "course": "cardio",
+    "brick_id": "61",
+    "brick_title": "Myocardial Infarction",
+    "type": "disease",
+    "buzzwords": [
+      "heaviness, squeezing, tightness",
+      "not sharp or stabbing",
+      "lasts over 20 minutes",
+      "nonpleuritic, position-independent",
+      "diaphoresis, nausea, dyspnea",
+      "impending doom",
+      "substernal pressure",
+      "silent MI in diabetics"
+    ]
+  },
+  {
+    "id": "cardio-61-3",
+    "title": "MI Histologic Evolution",
+    "course": "cardio",
+    "brick_id": "61",
+    "brick_title": "Myocardial Infarction",
+    "type": "physiology",
+    "buzzwords": [
+      "morphology over time",
+      "no gross change early",
+      "hypereosinophilic, no nuclei",
+      "neutrophils days 1-3",
+      "macrophages days 3-10",
+      "granulation tissue, fibroblasts",
+      "mature scar >8 weeks",
+      "coagulative necrosis"
+    ]
+  },
+  {
+    "id": "cardio-61-4",
+    "title": "MI Complications",
+    "course": "cardio",
+    "brick_id": "61",
+    "brick_title": "Myocardial Infarction",
+    "type": "disease",
+    "buzzwords": [
+      "post-infarct sudden death",
+      "conduction block, arrhythmia",
+      "wall rupture days 3-7",
+      "muffled sounds, JVD, hypotension",
+      "new holosystolic murmur",
+      "papillary muscle rupture",
+      "cardiac tamponade",
+      "fibrinous pericarditis"
+    ]
+  },
+  {
+    "id": "cardio-61-5",
+    "title": "STEMI vs NSTEMI",
+    "course": "cardio",
+    "brick_id": "61",
+    "brick_title": "Myocardial Infarction",
+    "type": "lab",
+    "buzzwords": [
+      "ECG first-line test",
+      "two contiguous leads",
+      "subendocardial in NSTEMI",
+      "ST depression, T inversion",
+      "transmural infarct",
+      "1 mm ST elevation",
+      "ST-segment elevation",
+      "STEMI"
+    ]
+  },
+  {
+    "id": "cardio-61-6",
+    "title": "Cardiac Biomarkers",
+    "course": "cardio",
+    "brick_id": "61",
+    "brick_title": "Myocardial Infarction",
+    "type": "lab",
+    "buzzwords": [
+      "released by dying myocytes",
+      "detectable at 4-6 hours",
+      "may be negative early",
+      "CK-MB normalizes first",
+      "CK-MB detects reinfarction",
+      "cardiac-specific isoforms",
+      "most used marker",
+      "troponin I"
+    ]
+  },
+  {
+    "id": "cardio-61-7",
+    "title": "Reperfusion Injury",
+    "course": "cardio",
+    "brick_id": "61",
+    "brick_title": "Myocardial Infarction",
+    "type": "physiology",
+    "buzzwords": [
+      "harm from restoring flow",
+      "follows revascularization",
+      "free radical damage",
+      "calcium influx into myocytes",
+      "hypercontracted myocytes",
+      "thick eosinophilic bands",
+      "worst at necrosis margins",
+      "contraction band necrosis"
+    ]
+  }
+]

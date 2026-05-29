@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cardio-35-1",
+    "title": "Dilated Cardiomyopathy",
+    "course": "cardio",
+    "brick_id": "35",
+    "brick_title": "Dilated Cardiomyopathy",
+    "type": "disease",
+    "buzzwords": [
+      "weak heart muscle",
+      "biventricular failure",
+      "chamber dilation",
+      "thin ventricular walls",
+      "systolic dysfunction",
+      "most common cardiomyopathy",
+      "spherical heart",
+      "S3 gallop"
+    ]
+  },
+  {
+    "id": "cardio-35-2",
+    "title": "Eccentric Hypertrophy",
+    "course": "cardio",
+    "brick_id": "35",
+    "brick_title": "Dilated Cardiomyopathy",
+    "type": "physiology",
+    "buzzwords": [
+      "response to volume overload",
+      "chamber enlargement",
+      "wall lengthening not thickening",
+      "weak contraction",
+      "sarcomeres added in series",
+      "end-to-end sarcomere addition",
+      "TTN gene mutation",
+      "sarcomere protein defect"
+    ]
+  },
+  {
+    "id": "cardio-35-3",
+    "title": "Myocarditis",
+    "course": "cardio",
+    "brick_id": "35",
+    "brick_title": "Dilated Cardiomyopathy",
+    "type": "disease",
+    "buzzwords": [
+      "inflamed heart muscle",
+      "most often viral",
+      "kills cardiomyocytes",
+      "lymphocytic infiltrate",
+      "giant cell variant",
+      "drug hypersensitivity eosinophilic type",
+      "Chagas trypanosoma cruzi",
+      "common cause of DCM"
+    ]
+  },
+  {
+    "id": "cardio-35-4",
+    "title": "Peripartum Cardiomyopathy",
+    "course": "cardio",
+    "brick_id": "35",
+    "brick_title": "Dilated Cardiomyopathy",
+    "type": "disease",
+    "buzzwords": [
+      "rare pregnancy-related",
+      "DCM in young woman",
+      "late pregnancy onset",
+      "up to 5 months postpartum",
+      "anticoagulation indicated",
+      "cytokine-mediated",
+      "abnormal angiogenesis",
+      "prolactin implicated"
+    ]
+  }
+]
