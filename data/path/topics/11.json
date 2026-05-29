@@ -1,0 +1,92 @@
+[
+  {
+    "id": "path-11-1",
+    "title": "Edema and Effusions",
+    "course": "path",
+    "brick_id": "11",
+    "brick_title": "Hemodynamics and Shock: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "fluid accumulation",
+      "Starling forces disturbed",
+      "tissue swelling",
+      "edema in tissues",
+      "effusion in body cavity",
+      "pleural, pericardial, ascites",
+      "dependent pedal edema",
+      "anasarca is generalized"
+    ]
+  },
+  {
+    "id": "path-11-2",
+    "title": "Causes of Edema",
+    "course": "path",
+    "brick_id": "11",
+    "brick_title": "Hemodynamics and Shock: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "altered Starling forces",
+      "increased hydrostatic pressure",
+      "impaired venous return",
+      "reduced colloid osmotic pressure",
+      "hypoalbuminemia",
+      "sodium and water retention",
+      "lymphatic obstruction",
+      "increased vascular permeability"
+    ]
+  },
+  {
+    "id": "path-11-3",
+    "title": "Exudates vs Transudates",
+    "course": "path",
+    "brick_id": "11",
+    "brick_title": "Hemodynamics and Shock: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "fluid collection types",
+      "exudate is inflammatory",
+      "transudate non-inflammatory",
+      "exudate protein-rich",
+      "high cellularity exudate",
+      "high specific gravity exudate",
+      "transudate is plasma ultrafiltrate",
+      "transudate low protein"
+    ]
+  },
+  {
+    "id": "path-11-4",
+    "title": "Hyperemia and Congestion",
+    "course": "path",
+    "brick_id": "11",
+    "brick_title": "Hemodynamics and Shock: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "increased blood volume",
+      "hyperemia is active",
+      "arteriolar dilation",
+      "oxygenated inflow erythema",
+      "congestion is passive",
+      "reduced venous outflow",
+      "cyanotic deoxygenated appearance",
+      "chronic congestion causes fibrosis"
+    ]
+  },
+  {
+    "id": "path-11-5",
+    "title": "Shock",
+    "course": "path",
+    "brick_id": "11",
+    "brick_title": "Hemodynamics and Shock: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "circulatory failure",
+      "tissue hypoperfusion",
+      "hypovolemic from hemorrhage",
+      "cardiogenic pump failure",
+      "septic systemic inflammation",
+      "neurogenic spinal cord injury",
+      "anaphylactic IgE hypersensitivity",
+      "warm flushed skin in sepsis"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "path-6-1",
+    "title": "Macrophages",
+    "course": "path",
+    "brick_id": "6",
+    "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "predominant chronic inflammatory cell",
+      "tissue leukocyte",
+      "phagocytose and kill microbes",
+      "arrive 48-72 hours",
+      "secrete cytokines",
+      "orchestrate acute-to-chronic transition",
+      "wall off resistant pathogens",
+      "core of granuloma"
+    ]
+  },
+  {
+    "id": "path-6-2",
+    "title": "Lymphocytes",
+    "course": "path",
+    "brick_id": "6",
+    "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "white blood cell",
+      "two subtypes",
+      "T cells and B cells",
+      "produce inflammatory cytokines",
+      "alter macrophage behavior",
+      "drive graft rejection",
+      "recognize antigen-presenting cells",
+      "react to foreign invader"
+    ]
+  },
+  {
+    "id": "path-6-3",
+    "title": "Plasma Cells",
+    "course": "path",
+    "brick_id": "6",
+    "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "differentiated B cell",
+      "secrete antibody",
+      "tag pathogens for destruction",
+      "prominent in autoimmune disease",
+      "eccentric nucleus",
+      "clumped clock-face chromatin",
+      "blue cytoplasm",
+      "perinuclear hof"
+    ]
+  },
+  {
+    "id": "path-6-4",
+    "title": "Granuloma",
+    "course": "path",
+    "brick_id": "6",
+    "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "tumor-like cell mass",
+      "walls off resistant antigen",
+      "activated epithelioid macrophages",
+      "multinucleated giant cells",
+      "surrounding T lymphocytes",
+      "caseating in tuberculosis",
+      "non-caseating in sarcoidosis",
+      "central necrotic core"
+    ]
+  },
+  {
+    "id": "path-6-5",
+    "title": "Fistula",
+    "course": "path",
+    "brick_id": "6",
+    "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "abnormal passageway",
+      "connects two hollow organs",
+      "most common in GI tract",
+      "fibroblasts tunnel through wall",
+      "transmural inflammation",
+      "complication of Crohn disease",
+      "enterovesical type",
+      "recurrent urinary tract infections"
+    ]
+  },
+  {
+    "id": "path-6-6",
+    "title": "Hepatic Fibrosis",
+    "course": "path",
+    "brick_id": "6",
+    "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "scarring replaces tissue",
+      "stromal framework destroyed",
+      "regeneration impossible",
+      "irreversibly reduced function",
+      "driven by chronic alcohol",
+      "fibrous bands around hepatocytes",
+      "raises portal pressure",
+      "seen in hepatitis C"
+    ]
+  },
+  {
+    "id": "path-6-7",
+    "title": "Atherosclerosis",
+    "course": "path",
+    "brick_id": "6",
+    "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "arterial narrowing",
+      "lipid-laden plaque",
+      "chronic vessel wall inflammation",
+      "worsened by smoking and diabetes",
+      "thin fibrous cap",
+      "cap rupture causes clot",
+      "myocardial infarction",
+      "stroke"
+    ]
+  }
+]

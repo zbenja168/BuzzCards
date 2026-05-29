@@ -1,0 +1,164 @@
+[
+  {
+    "id": "path-34-1",
+    "title": "Epstein-Barr Virus",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "DNA herpesvirus",
+      "HHV-4",
+      "spread by saliva",
+      "infects B lymphocytes",
+      "binds CD21",
+      "LMP-1 and EBNA-2",
+      "kissing disease",
+      "infectious mononucleosis"
+    ]
+  },
+  {
+    "id": "path-34-2",
+    "title": "Classic Hodgkin Lymphoma",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "EBV-associated lymphoma",
+      "bimodal age peaks",
+      "enlarged painless nodes",
+      "supradiaphragmatic spread",
+      "bilobed nucleus",
+      "eosinophilic nucleoli",
+      "owl eye cells",
+      "Reed-Sternberg cells"
+    ]
+  },
+  {
+    "id": "path-34-3",
+    "title": "Burkitt Lymphoma",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "non-Hodgkin B-cell lymphoma",
+      "highly mitotically active",
+      "monomorphic B cells",
+      "tingible body macrophages",
+      "endemic jaw mass",
+      "sporadic abdominal mass",
+      "starry sky appearance",
+      "EBV-associated"
+    ]
+  },
+  {
+    "id": "path-34-4",
+    "title": "Human Herpesvirus 8",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "spread by saliva",
+      "alters VEGF regulation",
+      "drives angiogenesis",
+      "endothelial sarcoma",
+      "afflicts immunosuppressed",
+      "violet skin lesions",
+      "primary effusion lymphoma",
+      "Kaposi sarcoma"
+    ]
+  },
+  {
+    "id": "path-34-5",
+    "title": "Hepatitis Viruses",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "chronic hepatic inflammation",
+      "leads to cirrhosis",
+      "HCV via IV drug use",
+      "HBV via sexual contact",
+      "plump eosinophilic hepatocytes",
+      "reactive oxygen damage",
+      "malignant hepatocyte neoplasm",
+      "hepatocellular carcinoma"
+    ]
+  },
+  {
+    "id": "path-34-6",
+    "title": "Human Papillomavirus",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "Gardasil prevents it",
+      "low-risk causes warts",
+      "verruca vulgaris",
+      "condyloma acuminata",
+      "high-risk causes cancer",
+      "E6 inactivates p53",
+      "E7 inactivates Rb",
+      "cervical squamous carcinoma"
+    ]
+  },
+  {
+    "id": "path-34-7",
+    "title": "HTLV-1",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "retrovirus",
+      "tropism for CD4 cells",
+      "spread via breast milk",
+      "Tax protein",
+      "HBZ inhibits apoptosis",
+      "decades-long latency",
+      "flower-shaped nucleus",
+      "adult T-cell leukemia"
+    ]
+  },
+  {
+    "id": "path-34-8",
+    "title": "Helicobacter pylori",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "gram-negative rod",
+      "causes chronic gastritis",
+      "intestinal metaplasia",
+      "goblet cells appear",
+      "CagA strains highest risk",
+      "MALT lymphoma",
+      "cured by antibiotics",
+      "gastric adenocarcinoma"
+    ]
+  },
+  {
+    "id": "path-34-9",
+    "title": "Schistosoma haematobium",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "parasitic flatworm",
+      "helminth",
+      "swimmer's itch",
+      "snail intermediate host",
+      "affinity for bladder",
+      "eggs with terminal spine",
+      "chronic inflammation",
+      "squamous cell carcinoma"
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "path-8-1",
+    "title": "Carbon Monoxide",
+    "course": "path",
+    "brick_id": "8",
+    "brick_title": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+    "type": "disease",
+    "buzzwords": [
+      "colorless odorless gas",
+      "incomplete hydrocarbon combustion",
+      "car exhaust poisoning",
+      "200x affinity over oxygen",
+      "blocks oxygen transport",
+      "tissue hypoxia",
+      "cherry-red skin",
+      "carboxyhemoglobin"
+    ]
+  },
+  {
+    "id": "path-8-2",
+    "title": "Lead Poisoning",
+    "course": "path",
+    "brick_id": "8",
+    "brick_title": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+    "type": "disease",
+    "buzzwords": [
+      "binds sulfhydryl groups",
+      "impairs heme synthesis",
+      "microcytic anemia",
+      "kids absorb more",
+      "epiphyseal lead lines",
+      "wrist drop",
+      "basophilic stippling",
+      "blue gingival line"
+    ]
+  },
+  {
+    "id": "path-8-3",
+    "title": "Mercury",
+    "course": "path",
+    "brick_id": "8",
+    "brick_title": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+    "type": "disease",
+    "buzzwords": [
+      "binds sulfhydryl groups",
+      "contaminated fish",
+      "dental amalgam vapors",
+      "kidney and GI damage",
+      "lipid-soluble methylmercury",
+      "accumulates in brain",
+      "neuromotor dysfunction",
+      "cognitive decline"
+    ]
+  },
+  {
+    "id": "path-8-4",
+    "title": "Arsenic",
+    "course": "path",
+    "brick_id": "8",
+    "brick_title": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+    "type": "disease",
+    "buzzwords": [
+      "tasteless odorless",
+      "herbicides and pesticides",
+      "inhibits sulfhydryl enzymes",
+      "blocks electron transport chain",
+      "garlicky breath",
+      "sensorimotor neuropathy",
+      "cardiac arrhythmias",
+      "transverse white nail bands"
+    ]
+  },
+  {
+    "id": "path-8-5",
+    "title": "Tobacco Smoke",
+    "course": "path",
+    "brick_id": "8",
+    "brick_title": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+    "type": "disease",
+    "buzzwords": [
+      "60+ known carcinogens",
+      "leading lung cancer cause",
+      "nitrosamines and hydrocarbons",
+      "nicotine vasoconstriction",
+      "impairs wound healing",
+      "oncogenic DNA mutations",
+      "emphysema",
+      "carboxyhemoglobin from smoke"
+    ]
+  },
+  {
+    "id": "path-8-6",
+    "title": "Alcohol Injury",
+    "course": "path",
+    "brick_id": "8",
+    "brick_title": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+    "type": "disease",
+    "buzzwords": [
+      "alcohol dehydrogenase pathway",
+      "MEOS uses CYP2E1",
+      "acetaldehyde-DNA adducts",
+      "high NADH/NAD ratio",
+      "hepatic steatosis to cirrhosis",
+      "esophageal varices",
+      "fetal alcohol syndrome",
+      "Wernicke-Korsakoff thiamine deficiency"
+    ]
+  }
+]

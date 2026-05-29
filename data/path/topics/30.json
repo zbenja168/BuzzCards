@@ -1,0 +1,128 @@
+[
+  {
+    "id": "path-30-1",
+    "title": "Antigen Masking",
+    "course": "path",
+    "brick_id": "30",
+    "brick_title": "Cancer Immune Evasion",
+    "type": "physiology",
+    "buzzwords": [
+      "immune evasion",
+      "hides surface antigens",
+      "thick surface coating",
+      "secreted matrix material",
+      "masks tumor antigens",
+      "blocks immune targeting",
+      "excess extracellular matrix",
+      "glycocalyx overproduction"
+    ]
+  },
+  {
+    "id": "path-30-2",
+    "title": "Antigen Variants",
+    "course": "path",
+    "brick_id": "30",
+    "brick_title": "Cancer Immune Evasion",
+    "type": "physiology",
+    "buzzwords": [
+      "immune evasion",
+      "less immunogenic subclones",
+      "selective survival",
+      "loses surface antigen",
+      "downregulates antigen",
+      "escapes immune recognition",
+      "CAR-T CD19 escape",
+      "antigen-negative variants"
+    ]
+  },
+  {
+    "id": "path-30-3",
+    "title": "Loss of MHC",
+    "course": "path",
+    "brick_id": "30",
+    "brick_title": "Cancer Immune Evasion",
+    "type": "physiology",
+    "buzzwords": [
+      "immune evasion",
+      "changed cell identity",
+      "evades cytotoxic T cells",
+      "antigen no longer displayed",
+      "mutation in receptor",
+      "lost surface receptor",
+      "MHC class I deficient",
+      "no MHC presentation"
+    ]
+  },
+  {
+    "id": "path-30-4",
+    "title": "Lack of Co-Stimulation",
+    "course": "path",
+    "brick_id": "30",
+    "brick_title": "Cancer Immune Evasion",
+    "type": "physiology",
+    "buzzwords": [
+      "immune evasion",
+      "second signal missing",
+      "T cell anergy",
+      "drives T cell apoptosis",
+      "inhibits T cell activation",
+      "upregulated inhibitory receptor",
+      "binds B7 ligand",
+      "CTLA-4 overexpression"
+    ]
+  },
+  {
+    "id": "path-30-5",
+    "title": "TGF-beta Secretion",
+    "course": "path",
+    "brick_id": "30",
+    "brick_title": "Cancer Immune Evasion",
+    "type": "physiology",
+    "buzzwords": [
+      "immune evasion",
+      "secreted cytokine",
+      "potent immunosuppressant",
+      "suppresses B and T cells",
+      "dampens dendritic cells",
+      "inhibits macrophages",
+      "tumor secretes in excess",
+      "TGF-beta"
+    ]
+  },
+  {
+    "id": "path-30-6",
+    "title": "Checkpoint Pathways",
+    "course": "path",
+    "brick_id": "30",
+    "brick_title": "Cancer Immune Evasion",
+    "type": "physiology",
+    "buzzwords": [
+      "immune evasion",
+      "negative regulatory pathway",
+      "inhibits T cell activity",
+      "cell surface ligand",
+      "checkpoint blockade target",
+      "activates death receptor",
+      "PD-1 receptor engagement",
+      "PD-L1 and PD-L2"
+    ]
+  },
+  {
+    "id": "path-30-7",
+    "title": "FasL Apoptosis",
+    "course": "path",
+    "brick_id": "30",
+    "brick_title": "Cancer Immune Evasion",
+    "type": "physiology",
+    "buzzwords": [
+      "immune evasion",
+      "kills attacking T cells",
+      "extrinsic apoptosis pathway",
+      "tumor expresses death ligand",
+      "binds T cell receptor",
+      "melanoma and hepatocellular",
+      "triggers cytotoxic T death",
+      "Fas-FasL binding"
+    ]
+  }
+]

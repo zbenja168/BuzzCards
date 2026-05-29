@@ -1,0 +1,110 @@
+[
+  {
+    "id": "path-31-1",
+    "title": "Genomic Instability",
+    "course": "path",
+    "brick_id": "31",
+    "brick_title": "Hallmarks of Neoplasia: Genomic Instability",
+    "type": "physiology",
+    "buzzwords": [
+      "hallmark of cancer",
+      "mutator phenotype",
+      "increased mutation propensity",
+      "70,000 lesions daily",
+      "unrepaired lesions become mutations",
+      "cell-cycle checkpoints halt division",
+      "defective DNA repair",
+      "drives carcinogenesis"
+    ]
+  },
+  {
+    "id": "path-31-2",
+    "title": "Xeroderma Pigmentosum",
+    "course": "path",
+    "brick_id": "31",
+    "brick_title": "Hallmarks of Neoplasia: Genomic Instability",
+    "type": "disease",
+    "buzzwords": [
+      "extreme photosensitivity",
+      "severe sunburn in minutes",
+      "freckling in sun-exposed skin",
+      "high skin cancer risk",
+      "humans lack photolyase",
+      "fails to fix pyrimidine dimers",
+      "defective nucleotide excision repair",
+      "xeroderma pigmentosum"
+    ]
+  },
+  {
+    "id": "path-31-3",
+    "title": "Lynch Syndrome",
+    "course": "path",
+    "brick_id": "31",
+    "brick_title": "Hallmarks of Neoplasia: Genomic Instability",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal dominant",
+      "microsatellite instability",
+      "colorectal and endometrial cancer",
+      "cecum and proximal colon",
+      "three relatives, two generations",
+      "MLH1, MSH2, MSH6, PMS2",
+      "defective mismatch repair",
+      "hereditary nonpolyposis colorectal cancer"
+    ]
+  },
+  {
+    "id": "path-31-4",
+    "title": "BRCA Cancers",
+    "course": "path",
+    "brick_id": "31",
+    "brick_title": "Hallmarks of Neoplasia: Genomic Instability",
+    "type": "disease",
+    "buzzwords": [
+      "breast and ovarian cancer",
+      "contralateral breast risk",
+      "male breast cancer",
+      "prostate and pancreatic cancer",
+      "prophylactic mastectomy",
+      "salpingo-oophorectomy",
+      "defective homologous recombination",
+      "BRCA1 and BRCA2"
+    ]
+  },
+  {
+    "id": "path-31-5",
+    "title": "Fanconi Anemia",
+    "course": "path",
+    "brick_id": "31",
+    "brick_title": "Hallmarks of Neoplasia: Genomic Instability",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "short stature",
+      "skeletal abnormalities",
+      "DNA crosslink sensitivity",
+      "bone marrow failure",
+      "aplasia and leukemia",
+      "defective homologous recombination",
+      "Fanconi anemia"
+    ]
+  },
+  {
+    "id": "path-31-6",
+    "title": "Ataxia-Telangiectasia",
+    "course": "path",
+    "brick_id": "31",
+    "brick_title": "Hallmarks of Neoplasia: Genomic Instability",
+    "type": "disease",
+    "buzzwords": [
+      "onset before age five",
+      "ataxia and chorea",
+      "myoclonus and neuropathy",
+      "skin and eye telangiectasia",
+      "leukemia and lymphoma risk",
+      "immunodeficiency from poor V(D)J",
+      "defective nonhomologous end joining",
+      "ataxia-telangiectasia"
+    ]
+  }
+]

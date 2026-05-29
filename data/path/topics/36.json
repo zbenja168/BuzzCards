@@ -1,0 +1,128 @@
+[
+  {
+    "id": "path-36-1",
+    "title": "Antimetabolites",
+    "course": "path",
+    "brick_id": "36",
+    "brick_title": "Cancer Medications Overview",
+    "type": "drug",
+    "buzzwords": [
+      "cytotoxic chemo",
+      "S phase specific",
+      "blocks DNA synthesis",
+      "pyrimidine analog",
+      "myelosuppression",
+      "inhibits dihydrofolate reductase",
+      "cytarabine",
+      "methotrexate"
+    ]
+  },
+  {
+    "id": "path-36-2",
+    "title": "Topoisomerase Inhibitors",
+    "course": "path",
+    "brick_id": "36",
+    "brick_title": "Cancer Medications Overview",
+    "type": "drug",
+    "buzzwords": [
+      "cytotoxic chemo",
+      "S/G2 phase",
+      "blocks DNA repair",
+      "prevents religation of strands",
+      "double-strand DNA breaks",
+      "severe diarrhea",
+      "binds topoisomerase I-DNA",
+      "irinotecan"
+    ]
+  },
+  {
+    "id": "path-36-3",
+    "title": "Bleomycin",
+    "course": "path",
+    "brick_id": "36",
+    "brick_title": "Cancer Medications Overview",
+    "type": "drug",
+    "buzzwords": [
+      "cytotoxic chemo",
+      "G2 phase specific",
+      "inhibits DNA synthesis",
+      "single and double strand breaks",
+      "blocks protein synthesis",
+      "pulmonary fibrosis",
+      "lung toxicity",
+      "bleomycin"
+    ]
+  },
+  {
+    "id": "path-36-4",
+    "title": "Microtubule Inhibitors",
+    "course": "path",
+    "brick_id": "36",
+    "brick_title": "Cancer Medications Overview",
+    "type": "drug",
+    "buzzwords": [
+      "cytotoxic chemo",
+      "M phase specific",
+      "arrests at metaphase",
+      "disrupts mitotic spindle",
+      "peripheral neuropathy",
+      "taxanes stabilize microtubules",
+      "vinca alkaloids block formation",
+      "vincristine"
+    ]
+  },
+  {
+    "id": "path-36-5",
+    "title": "Alkylating Agents",
+    "course": "path",
+    "brick_id": "36",
+    "brick_title": "Cancer Medications Overview",
+    "type": "drug",
+    "buzzwords": [
+      "cell cycle-independent",
+      "cross-links DNA chains",
+      "blocks replication",
+      "blocks transcription",
+      "platinum agents included",
+      "hemorrhagic cystitis",
+      "cyclophosphamide",
+      "cisplatin"
+    ]
+  },
+  {
+    "id": "path-36-6",
+    "title": "Monoclonal Antibodies",
+    "course": "path",
+    "brick_id": "36",
+    "brick_title": "Cancer Medications Overview",
+    "type": "drug",
+    "buzzwords": [
+      "molecularly targeted therapy",
+      "-mab suffix",
+      "targets specific receptors",
+      "anti-CD20 on B cells",
+      "blocks VEGF angiogenesis",
+      "binds HER2 receptors",
+      "bevacizumab",
+      "rituximab trastuzumab"
+    ]
+  },
+  {
+    "id": "path-36-7",
+    "title": "CAR-T Cell Therapy",
+    "course": "path",
+    "brick_id": "36",
+    "brick_title": "Cancer Medications Overview",
+    "type": "drug",
+    "buzzwords": [
+      "immunotherapy",
+      "uses patient's own T cells",
+      "genetically modified",
+      "chimeric antigen receptor",
+      "fused to CD3",
+      "recognizes tumor antigen",
+      "reinjected into patient",
+      "CAR-T"
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "path-2-1",
+    "title": "Reversible Cell Injury",
+    "course": "path",
+    "brick_id": "2",
+    "brick_title": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "type": "physiology",
+    "buzzwords": [
+      "early mild damage",
+      "recovers after stimulus removed",
+      "depleted ATP",
+      "failing Na/K pumps",
+      "osmotic imbalance",
+      "cellular swelling",
+      "swollen renal tubule cells",
+      "eosinophilic cytoplasm"
+    ]
+  },
+  {
+    "id": "path-2-2",
+    "title": "Irreversible Cell Injury",
+    "course": "path",
+    "brick_id": "2",
+    "brick_title": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "type": "physiology",
+    "buzzwords": [
+      "leads to cell death",
+      "severe persistent injury",
+      "membrane rupture",
+      "leaked lysosomal enzymes",
+      "released proteases and nucleases",
+      "necrosis",
+      "apoptosis",
+      "cytochrome c release"
+    ]
+  },
+  {
+    "id": "path-2-3",
+    "title": "Hypertrophy",
+    "course": "path",
+    "brick_id": "2",
+    "brick_title": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "type": "physiology",
+    "buzzwords": [
+      "adaptive response to stress",
+      "increased cell size",
+      "increased protein production",
+      "no change in cell number",
+      "occurs in muscle",
+      "left ventricle in hypertension",
+      "uterus in pregnancy",
+      "estrogen-driven enlargement"
+    ]
+  },
+  {
+    "id": "path-2-4",
+    "title": "Hyperplasia",
+    "course": "path",
+    "brick_id": "2",
+    "brick_title": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "type": "physiology",
+    "buzzwords": [
+      "adaptive response to stress",
+      "increased cell number",
+      "cell proliferation",
+      "needs replication-capable cells",
+      "mammary glands in puberty",
+      "excess estrogen stimulation",
+      "endometrial hyperplasia",
+      "abnormal uterine bleeding"
+    ]
+  },
+  {
+    "id": "path-2-5",
+    "title": "Atrophy",
+    "course": "path",
+    "brick_id": "2",
+    "brick_title": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "type": "physiology",
+    "buzzwords": [
+      "adaptive response to stress",
+      "decreased cell size",
+      "decreased protein synthesis",
+      "decreased cell number",
+      "denervation",
+      "decreased blood supply",
+      "disuse from low workload",
+      "thyroglossal duct involution"
+    ]
+  },
+  {
+    "id": "path-2-6",
+    "title": "Metaplasia",
+    "course": "path",
+    "brick_id": "2",
+    "brick_title": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "type": "physiology",
+    "buzzwords": [
+      "adaptive response to stress",
+      "reversible change",
+      "one cell type to another",
+      "differentiated cell switch",
+      "reverts if stimulus removed",
+      "tobacco smoke trigger",
+      "ciliated columnar to squamous",
+      "airway squamous metaplasia"
+    ]
+  }
+]

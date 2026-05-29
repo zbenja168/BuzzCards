@@ -1,0 +1,110 @@
+[
+  {
+    "id": "path-33-1",
+    "title": "Cancer Epidemiology",
+    "course": "path",
+    "brick_id": "33",
+    "brick_title": "Epidemiology of Cancer",
+    "type": "physiology",
+    "buzzwords": [
+      "distribution of cancers",
+      "incidence vs mortality differ",
+      "most common men: prostate",
+      "most common women: breast",
+      "deadliest in both sexes: lung",
+      "pancreatic: rare but lethal",
+      "thyroid: common, rarely fatal",
+      "lung mostly preventable"
+    ]
+  },
+  {
+    "id": "path-33-2",
+    "title": "Cervical Cancer Screening",
+    "course": "path",
+    "brick_id": "33",
+    "brick_title": "Epidemiology of Cancer",
+    "type": "disease",
+    "buzzwords": [
+      "arises from cervix epithelium",
+      "caused by HPV",
+      "incidence fell 60% since screening",
+      "80% of cases in developing countries",
+      "begin screening age 21",
+      "HSIL precancerous lesion",
+      "HPV PCR detects high-risk strains",
+      "Pap smear cytology"
+    ]
+  },
+  {
+    "id": "path-33-3",
+    "title": "Colorectal Cancer Screening",
+    "course": "path",
+    "brick_id": "33",
+    "brick_title": "Epidemiology of Cancer",
+    "type": "disease",
+    "buzzwords": [
+      "arises in colon and rectum",
+      "blood in stool",
+      "adenoma-to-carcinoma sequence",
+      "begin screening age 45",
+      "repeat every 10 years",
+      "fecal occult blood test",
+      "Lynch syndrome onsets earlier",
+      "colonoscopy gold standard"
+    ]
+  },
+  {
+    "id": "path-33-4",
+    "title": "Breast Cancer Screening",
+    "course": "path",
+    "brick_id": "33",
+    "brick_title": "Epidemiology of Cancer",
+    "type": "disease",
+    "buzzwords": [
+      "arises in ducts and lobules",
+      "lifetime risk 1 in 8",
+      "estrogen exposure drives risk",
+      "early menarche raises risk",
+      "screening X-ray detects microcalcifications",
+      "ductal carcinoma in situ",
+      "BRCA1/2 mutations high-risk",
+      "mammography"
+    ]
+  },
+  {
+    "id": "path-33-5",
+    "title": "Environmental Cancer Risks",
+    "course": "path",
+    "brick_id": "33",
+    "brick_title": "Epidemiology of Cancer",
+    "type": "physiology",
+    "buzzwords": [
+      "carcinogen causes cancer",
+      "smoking 33% of deaths",
+      "obesity 25% of deaths",
+      "alcohol metabolite acetaldehyde",
+      "asbestos causes mesothelioma",
+      "benzene causes AML",
+      "vinyl chloride: hepatic angiosarcoma",
+      "radon causes lung cancer"
+    ]
+  },
+  {
+    "id": "path-33-6",
+    "title": "Hereditary Cancer Risks",
+    "course": "path",
+    "brick_id": "33",
+    "brick_title": "Epidemiology of Cancer",
+    "type": "disease",
+    "buzzwords": [
+      "inherited germline mutations",
+      "tumor suppressor gene loss",
+      "earlier onset, aggressive",
+      "RB1: retinoblastoma",
+      "APC: colorectal adenocarcinoma",
+      "NF1: neurofibroma",
+      "TP53: Li-Fraumeni syndrome",
+      "BRCA: breast and ovarian"
+    ]
+  }
+]

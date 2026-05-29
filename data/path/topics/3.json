@@ -1,0 +1,128 @@
+[
+  {
+    "id": "path-3-1",
+    "title": "Intrinsic Apoptosis",
+    "course": "path",
+    "brick_id": "3",
+    "brick_title": "Cell Death: Apoptosis and Necrosis",
+    "type": "physiology",
+    "buzzwords": [
+      "programmed cell death",
+      "triggered by internal stress",
+      "responds to DNA damage",
+      "outer membrane permeable",
+      "BAX and BAK channels",
+      "cytochrome c released",
+      "BCL2 anti-apoptotic",
+      "mitochondrial pathway"
+    ]
+  },
+  {
+    "id": "path-3-2",
+    "title": "Extrinsic Apoptosis",
+    "course": "path",
+    "brick_id": "3",
+    "brick_title": "Cell Death: Apoptosis and Necrosis",
+    "type": "physiology",
+    "buzzwords": [
+      "programmed cell death",
+      "starts at plasma membrane",
+      "death receptor pathway",
+      "cytoplasmic death domain",
+      "FADD adaptor",
+      "activates caspase-8",
+      "TNFR1 receptor",
+      "Fas and FasL"
+    ]
+  },
+  {
+    "id": "path-3-3",
+    "title": "Coagulative Necrosis",
+    "course": "path",
+    "brick_id": "3",
+    "brick_title": "Cell Death: Apoptosis and Necrosis",
+    "type": "disease",
+    "buzzwords": [
+      "uncontrolled cell death",
+      "caused by ischemia",
+      "tissue architecture preserved",
+      "cells deeply eosinophilic",
+      "loss of nucleus",
+      "seen outside CNS",
+      "localized area is infarct",
+      "classic in myocardial infarction"
+    ]
+  },
+  {
+    "id": "path-3-4",
+    "title": "Liquefactive Necrosis",
+    "course": "path",
+    "brick_id": "3",
+    "brick_title": "Cell Death: Apoptosis and Necrosis",
+    "type": "disease",
+    "buzzwords": [
+      "uncontrolled cell death",
+      "dead cells digested",
+      "becomes viscous liquid",
+      "pus formation",
+      "enzymatic tissue breakdown",
+      "central nervous system",
+      "brain infarct pattern",
+      "seen in stroke"
+    ]
+  },
+  {
+    "id": "path-3-5",
+    "title": "Caseous Necrosis",
+    "course": "path",
+    "brick_id": "3",
+    "brick_title": "Cell Death: Apoptosis and Necrosis",
+    "type": "disease",
+    "buzzwords": [
+      "uncontrolled cell death",
+      "friable necrotic material",
+      "cheese-like appearance",
+      "off-white grossly",
+      "fragmented granular debris",
+      "associated with granulomas",
+      "tuberculosis infection",
+      "classic for TB"
+    ]
+  },
+  {
+    "id": "path-3-6",
+    "title": "Fat Necrosis",
+    "course": "path",
+    "brick_id": "3",
+    "brick_title": "Cell Death: Apoptosis and Necrosis",
+    "type": "disease",
+    "buzzwords": [
+      "breakdown of adipose tissue",
+      "fatty acids plus calcium",
+      "chalky-white substance",
+      "saponification",
+      "basophilic calcium deposits",
+      "leaked lipases",
+      "fat-rich peritoneal cavity",
+      "acute pancreatitis"
+    ]
+  },
+  {
+    "id": "path-3-7",
+    "title": "Fibrinoid Necrosis",
+    "course": "path",
+    "brick_id": "3",
+    "brick_title": "Cell Death: Apoptosis and Necrosis",
+    "type": "disease",
+    "buzzwords": [
+      "severe vascular injury",
+      "affects vessel walls",
+      "fibrin deposition",
+      "immune complex deposits",
+      "proteinaceous vessel wall",
+      "endothelial damage",
+      "seen in vasculitis",
+      "granulomatosis with polyangiitis"
+    ]
+  }
+]

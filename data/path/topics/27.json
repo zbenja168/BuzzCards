@@ -1,0 +1,146 @@
+[
+  {
+    "id": "path-27-1",
+    "title": "EGFR",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "receptor tyrosine kinase",
+      "pro-growth signaling",
+      "cough and dyspnea",
+      "hemoptysis",
+      "never-smokers",
+      "lung adenocarcinoma",
+      "treated with necitumumab",
+      "cetuximab in colorectal"
+    ]
+  },
+  {
+    "id": "path-27-2",
+    "title": "RAS family",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "membrane-bound G proteins",
+      "GTP-bound is active",
+      "GDP-bound is inactive",
+      "on/off switch",
+      "GTPase-activating proteins limit",
+      "point mutations activate",
+      "HRAS, KRAS, NRAS",
+      "KRAS in pancreatic cancer"
+    ]
+  },
+  {
+    "id": "path-27-3",
+    "title": "BRAF",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "RAF family kinase",
+      "phosphorylates MEK",
+      "drives MAPK pathway",
+      "UV light exposure",
+      "brown irregular skin lesion",
+      "transformed melanocytes",
+      "cutaneous melanoma",
+      "dabrafenib inhibitor"
+    ]
+  },
+  {
+    "id": "path-27-4",
+    "title": "PI3K/AKT pathway",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "pro-growth and survival",
+      "generates PIP3",
+      "activates AKT kinase",
+      "leads to mTOR",
+      "PTEN reverses it",
+      "PIK3CA gain-of-function",
+      "breast carcinoma",
+      "treated with alpelisib"
+    ]
+  },
+  {
+    "id": "path-27-5",
+    "title": "BCR::ABL",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "constitutive tyrosine kinase",
+      "chromosomal translocation",
+      "leukocytosis with eosinophilia",
+      "small hypolobated megakaryocytes",
+      "chronic myeloid leukemia",
+      "t(9;22)",
+      "Philadelphia chromosome",
+      "imatinib treats it"
+    ]
+  },
+  {
+    "id": "path-27-6",
+    "title": "MYC",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "transcription factor",
+      "activates growth genes",
+      "drives cell cycle",
+      "ribosome assembly",
+      "pluripotency",
+      "downstream of Ras",
+      "proto-oncogene",
+      "overexpression unleashes growth"
+    ]
+  },
+  {
+    "id": "path-27-7",
+    "title": "Neuroblastoma",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "neural crest origin",
+      "pediatric tumor",
+      "abdominal distension",
+      "small round blue cells",
+      "arises in adrenal gland",
+      "Homer Wright rosettes",
+      "MYCN amplification",
+      "amplification poor prognosis"
+    ]
+  },
+  {
+    "id": "path-27-8",
+    "title": "Burkitt lymphoma",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "neoplastic B cells",
+      "medium-sized lymphocytes",
+      "tingible-body macrophages",
+      "starry sky appearance",
+      "t(8;14)",
+      "IG::MYC rearrangement",
+      "MYC overexpressed",
+      "IG heavy chain locus"
+    ]
+  }
+]

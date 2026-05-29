@@ -1,0 +1,110 @@
+[
+  {
+    "id": "path-28-1",
+    "title": "RB1 Retinoblastoma",
+    "course": "path",
+    "brick_id": "28",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "tumor suppressor",
+      "needs two hits",
+      "halts cell cycle",
+      "pediatric eye tumor",
+      "blocks G1 to S",
+      "leukocoria white reflex",
+      "bilateral if germline",
+      "Knudson two-hit hypothesis"
+    ]
+  },
+  {
+    "id": "path-28-2",
+    "title": "TP53",
+    "course": "path",
+    "brick_id": "28",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "tumor suppressor",
+      "responds to DNA damage",
+      "mutated in half of cancers",
+      "degraded by MDM2",
+      "forms active tetramer",
+      "triggers apoptosis via BAX",
+      "guardian of the genome",
+      "germline loss is Li-Fraumeni"
+    ]
+  },
+  {
+    "id": "path-28-3",
+    "title": "APC Colon Cancer",
+    "course": "path",
+    "brick_id": "28",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "tumor suppressor",
+      "WNT pathway component",
+      "part of destruction complex",
+      "degrades beta-catenin",
+      "loss drives proliferation",
+      "first hit in colon adenoma",
+      "hundreds of colonic polyps",
+      "germline loss is FAP"
+    ]
+  },
+  {
+    "id": "path-28-4",
+    "title": "Neurofibromatosis 1",
+    "course": "path",
+    "brick_id": "28",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "tumor suppressor loss",
+      "autosomal dominant",
+      "chromosome 17",
+      "unchecked Ras signaling",
+      "cafe-au-lait macules",
+      "cutaneous neurofibromas",
+      "GTPase-activating protein lost",
+      "neurofibromin deficiency"
+    ]
+  },
+  {
+    "id": "path-28-5",
+    "title": "Hallmarks of Cancer",
+    "course": "path",
+    "brick_id": "28",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "fundamental cancer traits",
+      "sustained proliferative signaling",
+      "evades growth suppressors",
+      "resists apoptosis",
+      "replicative immortality",
+      "induces angiogenesis",
+      "invasion and metastasis",
+      "eight hallmarks total"
+    ]
+  },
+  {
+    "id": "path-28-6",
+    "title": "Neoplastic Progression",
+    "course": "path",
+    "brick_id": "28",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "stepwise mutation accumulation",
+      "starts with initiating mutation",
+      "driver versus passenger mutations",
+      "Darwinian subclone selection",
+      "genetically heterogeneous tumor",
+      "epigenetic silencing contributes",
+      "promoter hypermethylation off-switch",
+      "adenoma-carcinoma sequence"
+    ]
+  }
+]

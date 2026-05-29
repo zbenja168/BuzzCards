@@ -1,0 +1,218 @@
+[
+  {
+    "id": "path-5-1",
+    "title": "Neutrophils",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "first responders",
+      "arrive within hours",
+      "most abundant WBC",
+      "~60% of WBCs",
+      "granulocyte",
+      "kill via phagocytosis",
+      "release antimicrobial proteins",
+      "activity peaks at 24 hours"
+    ]
+  },
+  {
+    "id": "path-5-2",
+    "title": "Macrophages",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "found in body tissues",
+      "clear cellular debris",
+      "secrete cytokines",
+      "antigen-presenting cells",
+      "predominate after neutrophils",
+      "present antigen to T and B cells",
+      "drive adaptive immunity",
+      "peak at 48-72 hours"
+    ]
+  },
+  {
+    "id": "path-5-3",
+    "title": "Vascular Response",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "initial vasoconstriction",
+      "then vasodilation",
+      "increased vascular diameter",
+      "raises blood flow to injury",
+      "endothelial cell-adhesion molecules",
+      "increased vascular permeability",
+      "endothelial cells contract",
+      "clotting walls off infection"
+    ]
+  },
+  {
+    "id": "path-5-4",
+    "title": "Leukocyte Extravasation",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "WBC exit from vessel",
+      "four sequential steps",
+      "margination slows cells to wall",
+      "rolling along endothelium",
+      "binding firmly adheres cell",
+      "diapedesis squeezes through junction",
+      "migration follows chemokine gradient",
+      "deficiency causes LAD"
+    ]
+  },
+  {
+    "id": "path-5-5",
+    "title": "Cardinal Signs",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "four classic signs",
+      "redness from blood flow",
+      "heat from blood flow",
+      "swelling from fluid leak",
+      "pain from nerve stimuli",
+      "rubor and calor",
+      "tumor and dolor",
+      "bleeding is not one"
+    ]
+  },
+  {
+    "id": "path-5-6",
+    "title": "Purulent Inflammation",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "exudate-driven pattern",
+      "protein-rich fluid",
+      "neutrophil accumulation",
+      "pus formation",
+      "often bacterial cause",
+      "seen in pneumonia",
+      "fills alveolar spaces",
+      "suppurative inflammation"
+    ]
+  },
+  {
+    "id": "path-5-7",
+    "title": "Serous Inflammation",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "watery fluid pattern",
+      "transudate, not exudate",
+      "low protein content",
+      "from hydrostatic imbalance",
+      "few cellular elements",
+      "seen in heart failure",
+      "skin blister example",
+      "serous effusion"
+    ]
+  },
+  {
+    "id": "path-5-8",
+    "title": "Fibrinous Inflammation",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "large vascular leak",
+      "fibrinogen escapes vessel",
+      "fibrin deposits in tissue",
+      "from procoagulant stimulus",
+      "lines body cavities",
+      "affects pericardium",
+      "affects meninges and pleura",
+      "fibrinous pericarditis"
+    ]
+  },
+  {
+    "id": "path-5-9",
+    "title": "Ulcerative Inflammation",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "surface defect",
+      "of skin or mucosa",
+      "sloughing of necrotic tissue",
+      "loss of epithelium",
+      "inflammatory exudate at base",
+      "leaves a crater",
+      "duodenal example",
+      "duodenal ulcer"
+    ]
+  },
+  {
+    "id": "path-5-10",
+    "title": "Positive Acute Phase Reactants",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "lab",
+    "buzzwords": [
+      "rise with inflammation",
+      "made by the liver",
+      "nonspecific markers",
+      "serum amyloid A",
+      "ferritin sequesters iron",
+      "hepcidin gatekeeps iron",
+      "CRP rises fastest",
+      "C-reactive protein"
+    ]
+  },
+  {
+    "id": "path-5-11",
+    "title": "Negative Acute Phase Reactants",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "lab",
+    "buzzwords": [
+      "drop with inflammation",
+      "two main proteins",
+      "fall conserves amino acids",
+      "maintains oncotic pressure",
+      "transports iron",
+      "internalized by macrophages",
+      "albumin",
+      "transferrin"
+    ]
+  },
+  {
+    "id": "path-5-12",
+    "title": "Erythrocyte Sedimentation Rate",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "lab",
+    "buzzwords": [
+      "indirect inflammation test",
+      "measures RBC fall rate",
+      "reported mm/hr",
+      "rises with acute phase proteins",
+      "tracks fibrinogen levels",
+      "RBCs stack as rouleaux",
+      "nonspecific and slow to rise",
+      "ESR"
+    ]
+  }
+]

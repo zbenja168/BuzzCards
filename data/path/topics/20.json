@@ -1,0 +1,128 @@
+[
+  {
+    "id": "path-20-1",
+    "title": "Lyme Disease",
+    "course": "path",
+    "brick_id": "20",
+    "brick_title": "Chronic Infections (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "tick-borne spirochete",
+      "antigenic variance evades antibodies",
+      "VlsE surface protein switching",
+      "early localized stage",
+      "annular rash, pale center",
+      "late stage arthritis",
+      "bullseye target lesion",
+      "Borrelia burgdorferi, erythema migrans"
+    ]
+  },
+  {
+    "id": "path-20-2",
+    "title": "HIV Infection",
+    "course": "path",
+    "brick_id": "20",
+    "brick_title": "Chronic Infections (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "retrovirus, diploid RNA",
+      "reverse transcriptase makes DNA",
+      "infects CD4+ T cells",
+      "vertical transmission possible",
+      "acute retroviral syndrome",
+      "fever, myalgia, sore throat",
+      "chronic phase clinical latency",
+      "HIV-1 RNA viral load"
+    ]
+  },
+  {
+    "id": "path-20-3",
+    "title": "AIDS",
+    "course": "path",
+    "brick_id": "20",
+    "brick_title": "Chronic Infections (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "profound immunosuppression",
+      "final stage of HIV",
+      "opportunistic infections",
+      "secondary neoplasms",
+      "neurocognitive decline",
+      "weight loss, diarrhea",
+      "develops after ~7-10 years",
+      "CD4+ count under 200"
+    ]
+  },
+  {
+    "id": "path-20-4",
+    "title": "Pneumocystis Pneumonia",
+    "course": "path",
+    "brick_id": "20",
+    "brick_title": "Chronic Infections (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "AIDS-defining fungal pneumonia",
+      "dyspnea, dry cough",
+      "respiratory failure if untreated",
+      "bilateral interstitial infiltrates",
+      "ground-glass opacities on CT",
+      "bronchoalveolar lavage diagnosis",
+      "GMS stains cyst walls",
+      "Pneumocystis jirovecii"
+    ]
+  },
+  {
+    "id": "path-20-5",
+    "title": "Toxoplasma Encephalitis",
+    "course": "path",
+    "brick_id": "20",
+    "brick_title": "Chronic Infections (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "AIDS-defining brain infection",
+      "reactivation in immunocompromised",
+      "ring-enhancing brain lesions",
+      "multiple abscesses, necrotic foci",
+      "MRI shows enhancing lesions",
+      "neurologic deficits",
+      "immunohistochemistry highlights organisms",
+      "Toxoplasma gondii"
+    ]
+  },
+  {
+    "id": "path-20-6",
+    "title": "CMV Disease",
+    "course": "path",
+    "brick_id": "20",
+    "brick_title": "Chronic Infections (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "reactivates in AIDS",
+      "colitis",
+      "meningoencephalitis",
+      "leptomeninges and brain",
+      "retinitis causes blindness",
+      "fundus inflammation, hemorrhage",
+      "common in transplant patients",
+      "cytomegalovirus"
+    ]
+  },
+  {
+    "id": "path-20-7",
+    "title": "Kaposi Sarcoma",
+    "course": "path",
+    "brick_id": "20",
+    "brick_title": "Chronic Infections (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "AIDS-associated neoplasm",
+      "vascular tumor",
+      "cutaneous, mucosal, visceral lesions",
+      "violaceous patches and plaques",
+      "proliferating endothelial cells",
+      "bland spindled cells",
+      "human herpesvirus-8",
+      "HHV8 (KSHV)"
+    ]
+  }
+]

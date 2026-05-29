@@ -1,0 +1,164 @@
+[
+  {
+    "id": "path-10-1",
+    "title": "Medical Autopsy",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "physiology",
+    "buzzwords": [
+      "post-mortem exam",
+      "investigates natural disease",
+      "documents underlying diagnosis",
+      "hospital setting",
+      "requires family consent",
+      "confirms diagnostic accuracy",
+      "detects medical errors",
+      "clinical autopsy"
+    ]
+  },
+  {
+    "id": "path-10-2",
+    "title": "Forensic Autopsy",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "physiology",
+    "buzzwords": [
+      "part of medicolegal investigation",
+      "unwitnessed or unexpected death",
+      "violent or accidental death",
+      "no family consent needed",
+      "done at examiner's office",
+      "investigates crimes",
+      "establishes manner of death",
+      "state crime labs"
+    ]
+  },
+  {
+    "id": "path-10-3",
+    "title": "Cause of Death",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "physiology",
+    "buzzwords": [
+      "the injury or disease",
+      "directly resulted in death",
+      "documented on certificate",
+      "lists antecedent intervals",
+      "the gunshot wound itself",
+      "disseminated aspergillosis example",
+      "atherosclerotic coronary disease",
+      "the initiating insult"
+    ]
+  },
+  {
+    "id": "path-10-4",
+    "title": "Mechanism of Death",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "physiology",
+    "buzzwords": [
+      "physiologic derangement",
+      "produced by the cause",
+      "not a specific disease",
+      "hemorrhage and exsanguination",
+      "cardiac ischemia example",
+      "cerebral hypoxia in drowning",
+      "lethal end-physiology",
+      "how the body failed"
+    ]
+  },
+  {
+    "id": "path-10-5",
+    "title": "Manner of Death",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "physiology",
+    "buzzwords": [
+      "how death occurred",
+      "five categories only",
+      "natural",
+      "homicide",
+      "suicide",
+      "accident",
+      "undetermined",
+      "medicolegal classification"
+    ]
+  },
+  {
+    "id": "path-10-6",
+    "title": "Coroner",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "physiology",
+    "buzzwords": [
+      "commonly an elected official",
+      "lay non-physician",
+      "investigates death",
+      "cannot perform autopsies",
+      "assigns cause and manner",
+      "sends body to examiner",
+      "rural jurisdictions",
+      "brought from England"
+    ]
+  },
+  {
+    "id": "path-10-7",
+    "title": "Medical Examiner",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "physiology",
+    "buzzwords": [
+      "appointed not elected",
+      "trained forensic pathologist",
+      "performs autopsies",
+      "investigates death",
+      "assigns cause and manner",
+      "centralized state office",
+      "physician role",
+      "urban centers"
+    ]
+  },
+  {
+    "id": "path-10-8",
+    "title": "Final Anatomic Diagnosis",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "lab",
+    "buzzwords": [
+      "core of autopsy report",
+      "lists diagnoses and findings",
+      "gross plus microscopic",
+      "organized by organ system",
+      "released within 90 days",
+      "preliminary diagnosis first",
+      "acute tubular injury example",
+      "FAD"
+    ]
+  },
+  {
+    "id": "path-10-9",
+    "title": "Case Discussion",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "lab",
+    "buzzwords": [
+      "clinicopathologic correlation",
+      "pathologist's opinion",
+      "integrates clinical and pathologic",
+      "comments on cause of death",
+      "explains equivocal results",
+      "sequence leading to death",
+      "narrative interpretation",
+      "ties findings together"
+    ]
+  }
+]

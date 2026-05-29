@@ -1,0 +1,110 @@
+[
+  {
+    "id": "path-23-1",
+    "title": "Crohn's Disease",
+    "course": "path",
+    "brick_id": "23",
+    "brick_title": "Immune-related and Infectious Causes of Diarrhea",
+    "type": "disease",
+    "buzzwords": [
+      "chronic diarrhea",
+      "immune-mediated IBD",
+      "any GI segment",
+      "transmural inflammation",
+      "skip lesions",
+      "non-caseating granulomas",
+      "cobblestone mucosa",
+      "mouth-to-anus"
+    ]
+  },
+  {
+    "id": "path-23-2",
+    "title": "Ulcerative Colitis",
+    "course": "path",
+    "brick_id": "23",
+    "brick_title": "Immune-related and Infectious Causes of Diarrhea",
+    "type": "disease",
+    "buzzwords": [
+      "bloody diarrhea",
+      "immune-mediated IBD",
+      "continuous involvement",
+      "mucosa and submucosa only",
+      "colon and rectum",
+      "no granulomas",
+      "starts at rectum",
+      "primary sclerosing cholangitis"
+    ]
+  },
+  {
+    "id": "path-23-3",
+    "title": "Celiac Disease",
+    "course": "path",
+    "brick_id": "23",
+    "brick_title": "Immune-related and Infectious Causes of Diarrhea",
+    "type": "disease",
+    "buzzwords": [
+      "malabsorption",
+      "gluten-triggered",
+      "response to gliadin",
+      "duodenal villous atrophy",
+      "crypt hyperplasia",
+      "gluten-free diet treats",
+      "anti-tTG antibodies",
+      "associated dermatitis herpetiformis"
+    ]
+  },
+  {
+    "id": "path-23-4",
+    "title": "Dermatitis Herpetiformis",
+    "course": "path",
+    "brick_id": "23",
+    "brick_title": "Immune-related and Infectious Causes of Diarrhea",
+    "type": "disease",
+    "buzzwords": [
+      "intensely pruritic rash",
+      "blistering skin disease",
+      "extensor surfaces",
+      "IgA-mediated",
+      "celiac association",
+      "anti-reticulin antibodies",
+      "gluten-sensitive",
+      "responds to gluten withdrawal"
+    ]
+  },
+  {
+    "id": "path-23-5",
+    "title": "Bacterial Enterocolitis",
+    "course": "path",
+    "brick_id": "23",
+    "brick_title": "Immune-related and Infectious Causes of Diarrhea",
+    "type": "disease",
+    "buzzwords": [
+      "infectious diarrhea",
+      "fecal-oral spread",
+      "E. coli",
+      "Salmonella",
+      "Shigella",
+      "reactive arthritis sequela",
+      "Guillain-Barre risk",
+      "Campylobacter jejuni"
+    ]
+  },
+  {
+    "id": "path-23-6",
+    "title": "Viral Cytopathic Inclusions",
+    "course": "path",
+    "brick_id": "23",
+    "brick_title": "Immune-related and Infectious Causes of Diarrhea",
+    "type": "disease",
+    "buzzwords": [
+      "immunocompromised diarrhea",
+      "intranuclear inclusions",
+      "multinucleation",
+      "chromatin margination",
+      "nuclear molding",
+      "owl's eye inclusions",
+      "cytomegalovirus",
+      "herpes simplex virus"
+    ]
+  }
+]

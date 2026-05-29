@@ -1,0 +1,128 @@
+[
+  {
+    "id": "path-21-1",
+    "title": "Graft Types",
+    "course": "path",
+    "brick_id": "21",
+    "brick_title": "Diseases of the Immune System: Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "four graft categories",
+      "donor-recipient relationship",
+      "same-body transfer",
+      "genetically identical donor",
+      "twins are identical",
+      "cross-species graft",
+      "autograft, isograft, allograft",
+      "xenograft"
+    ]
+  },
+  {
+    "id": "path-21-2",
+    "title": "ABO Blood Matching",
+    "course": "path",
+    "brick_id": "21",
+    "brick_title": "Diseases of the Immune System: Transplantation",
+    "type": "lab",
+    "buzzwords": [
+      "first screening step",
+      "RBC surface antigens",
+      "A and B antigens",
+      "type O lacks A/B antigens",
+      "type AB has both",
+      "preformed anti-A/anti-B",
+      "type O universal donor",
+      "ABO-incompatible only special cases"
+    ]
+  },
+  {
+    "id": "path-21-3",
+    "title": "HLA Complex",
+    "course": "path",
+    "brick_id": "21",
+    "brick_title": "Diseases of the Immune System: Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "self vs non-self",
+      "chromosome 6 short arm",
+      "highly polymorphic genes",
+      "class I and class II key",
+      "12 total class I/II genes",
+      "codominant haplotype expression",
+      "HLA-A, HLA-B, HLA-C",
+      "MHC receptors"
+    ]
+  },
+  {
+    "id": "path-21-4",
+    "title": "Organ Allocation",
+    "course": "path",
+    "brick_id": "21",
+    "brick_title": "Diseases of the Immune System: Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "demand exceeds supply",
+      "rank-order candidate list",
+      "weighs urgency and waiting time",
+      "geographic distance counts",
+      "ABO and HLA typing",
+      "established 1984",
+      "Status 1 supersedes MELD",
+      "UNOS / OPTN"
+    ]
+  },
+  {
+    "id": "path-21-5",
+    "title": "Donor Liver Pathology",
+    "course": "path",
+    "brick_id": "21",
+    "brick_title": "Diseases of the Immune System: Transplantation",
+    "type": "imaging",
+    "buzzwords": [
+      "frozen section viability",
+      "graded for transplant use",
+      "portal tract inflammation",
+      "collagen fibrosis",
+      "coagulative hepatocyte necrosis",
+      "fat droplets in cells",
+      ">30% steatosis relative contraindication",
+      ">60% macrovesicular absolute contraindication"
+    ]
+  },
+  {
+    "id": "path-21-6",
+    "title": "Donor Kidney Pathology",
+    "course": "path",
+    "brick_id": "21",
+    "brick_title": "Diseases of the Immune System: Transplantation",
+    "type": "imaging",
+    "buzzwords": [
+      "frozen section at procurement",
+      "extended-criteria donors",
+      "interstitial fibrosis, inflammation",
+      "arterial sclerosis intimal thickening",
+      "eosinophilic vessel wall deposit",
+      "arteriolar hyalinization",
+      "global glomerulosclerosis",
+      ">50% glomerulus hyalinized"
+    ]
+  },
+  {
+    "id": "path-21-7",
+    "title": "Long-Term Consequences",
+    "course": "path",
+    "brick_id": "21",
+    "brick_title": "Diseases of the Immune System: Transplantation",
+    "type": "disease",
+    "buzzwords": [
+      "lifelong immunosuppression",
+      "secondary immunodeficiency",
+      "infection most common",
+      "increased malignancy risk",
+      "primary disease recurrence",
+      "latent virus reactivation",
+      "EBV-driven lymphoma",
+      "PEH recurs up to 30%"
+    ]
+  }
+]

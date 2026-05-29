@@ -1,0 +1,74 @@
+[
+  {
+    "id": "path-9-1",
+    "title": "Mechanical Injury",
+    "course": "path",
+    "brick_id": "9",
+    "brick_title": "Environmental Disease",
+    "type": "disease",
+    "buzzwords": [
+      "physical force trauma",
+      "blunt or sharp",
+      "abrasion scrapes epidermis",
+      "contusion is a bruise",
+      "laceration has irregular torn edges",
+      "incision has clean edges",
+      "puncture deep and narrow",
+      "tissue bridging distinguishes laceration"
+    ]
+  },
+  {
+    "id": "path-9-2",
+    "title": "Thermal Injury",
+    "course": "path",
+    "brick_id": "9",
+    "brick_title": "Environmental Disease",
+    "type": "disease",
+    "buzzwords": [
+      "heat or cold damage",
+      "graded by depth",
+      "first degree spares dermis",
+      "second degree blisters",
+      "third degree full thickness",
+      "fluid loss and infection risk",
+      "hypothermia slows metabolism",
+      "frostbite causes ice crystal necrosis"
+    ]
+  },
+  {
+    "id": "path-9-3",
+    "title": "Radiation Injury",
+    "course": "path",
+    "brick_id": "9",
+    "brick_title": "Environmental Disease",
+    "type": "disease",
+    "buzzwords": [
+      "energy emitted as waves",
+      "ionizing versus nonionizing",
+      "damages DNA directly",
+      "generates free radicals",
+      "dividing cells most vulnerable",
+      "gut and marrow hit first",
+      "carcinogenic long term",
+      "fibrosis of irradiated tissue"
+    ]
+  },
+  {
+    "id": "path-9-4",
+    "title": "Climate and Social Threats",
+    "course": "path",
+    "brick_id": "9",
+    "brick_title": "Environmental Disease",
+    "type": "disease",
+    "buzzwords": [
+      "population level health threats",
+      "warming expands vector range",
+      "heat waves raise mortality",
+      "air pollution worsens disease",
+      "extreme weather displaces populations",
+      "poverty limits care access",
+      "food and water insecurity",
+      "social determinants of health"
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "path-25-1",
+    "title": "Neoplasm",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "physiology",
+    "buzzwords": [
+      "new abnormal growth",
+      "unregulated proliferation",
+      "tumor synonym",
+      "derived from one mother cell",
+      "monoclonal",
+      "clonal expansion",
+      "neo means new",
+      "neoplasia"
+    ]
+  },
+  {
+    "id": "path-25-2",
+    "title": "Malignant Tumor",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "disease",
+    "buzzwords": [
+      "invades local tissue",
+      "high mitotic activity",
+      "contains necrosis",
+      "no capsule",
+      "worse prognosis",
+      "ability to metastasize",
+      "spreads to distant sites",
+      "cancerous"
+    ]
+  },
+  {
+    "id": "path-25-3",
+    "title": "Benign Tumor",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "disease",
+    "buzzwords": [
+      "grows slowly",
+      "usually small",
+      "little mitotic activity",
+      "no necrosis",
+      "well-differentiated",
+      "surrounded by capsule",
+      "does not metastasize",
+      "better prognosis"
+    ]
+  },
+  {
+    "id": "path-25-4",
+    "title": "Tumor Differentiation",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "physiology",
+    "buzzwords": [
+      "resemblance to cell of origin",
+      "well-differentiated looks normal",
+      "poorly differentiated",
+      "guides tumor grade",
+      "no resemblance at all",
+      "undifferentiated cells",
+      "extreme far end",
+      "anaplasia"
+    ]
+  },
+  {
+    "id": "path-25-5",
+    "title": "Metaplasia",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "physiology",
+    "buzzwords": [
+      "one cell type replaces another",
+      "change at stem cell level",
+      "adaptive to chronic stress",
+      "reversible",
+      "airway columnar to squamous",
+      "squamous to columnar in esophagus",
+      "goblet cells appear",
+      "Barrett esophagus"
+    ]
+  },
+  {
+    "id": "path-25-6",
+    "title": "Dysplasia",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "physiology",
+    "buzzwords": [
+      "disordered growth",
+      "pleomorphism",
+      "hyperchromatic nuclei",
+      "high nuclear-to-cytoplasmic ratio",
+      "loss of polarity",
+      "precedes cancer",
+      "graded mild to severe",
+      "cervical CIN grading"
+    ]
+  },
+  {
+    "id": "path-25-7",
+    "title": "Carcinoma In Situ",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "disease",
+    "buzzwords": [
+      "follows severe dysplasia",
+      "cancerous cells",
+      "pre-invasive",
+      "basement membrane intact",
+      "earliest stage of cancer",
+      "has not metastasized",
+      "removal is curative",
+      "stage 0"
+    ]
+  },
+  {
+    "id": "path-25-8",
+    "title": "Tumor Nomenclature",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "physiology",
+    "buzzwords": [
+      "named by tissue of origin",
+      "-oma suffix is benign",
+      "adeno- means glandular",
+      "epithelial malignancy is carcinoma",
+      "mesenchymal malignancy is sarcoma",
+      "leiomyoma is benign muscle",
+      "lymphoma and melanoma are malignant",
+      "nevus is benign melanocyte"
+    ]
+  }
+]

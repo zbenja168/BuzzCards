@@ -1,0 +1,128 @@
+[
+  {
+    "id": "path-16-1",
+    "title": "Acute Rheumatic Fever",
+    "course": "path",
+    "brick_id": "16",
+    "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "follows strep pharyngitis",
+      "children 5-15 years",
+      "onset 2 weeks after infection",
+      "molecular mimicry of M protein",
+      "migratory polyarthritis",
+      "Sydenham chorea",
+      "Aschoff bodies, verrucae",
+      "mitral valve stenosis"
+    ]
+  },
+  {
+    "id": "path-16-2",
+    "title": "Poststreptococcal GN",
+    "course": "path",
+    "brick_id": "16",
+    "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "follows strep infection",
+      "children weeks after impetigo",
+      "hematuria, proteinuria",
+      "hypertension and azotemia",
+      "immune complex deposition",
+      "proliferative glomerulonephritis",
+      "subepithelial humps",
+      "granular IgG and C3"
+    ]
+  },
+  {
+    "id": "path-16-3",
+    "title": "Reactive Arthritis",
+    "course": "path",
+    "brick_id": "16",
+    "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "follows GU or GI infection",
+      "sterile synovial fluid",
+      "molecular mimicry, not direct invasion",
+      "arthritis, urethritis, conjunctivitis triad",
+      "Chlamydia or Shigella trigger",
+      "resolves within 6 months",
+      "no antibiotic treatment",
+      "HLA-B27 associated"
+    ]
+  },
+  {
+    "id": "path-16-4",
+    "title": "Chlamydia trachomatis",
+    "course": "path",
+    "brick_id": "16",
+    "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "gram-negative bacterium",
+      "obligate intracellular pathogen",
+      "cannot synthesize ATP",
+      "sexually transmitted",
+      "urethritis and cervicitis",
+      "often asymptomatic",
+      "neonatal conjunctivitis from birth canal",
+      "intracytoplasmic inclusions"
+    ]
+  },
+  {
+    "id": "path-16-5",
+    "title": "Neisseria gonorrhoeae",
+    "course": "path",
+    "brick_id": "16",
+    "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "gram-negative diplococci",
+      "intracellular within neutrophils",
+      "sexually transmitted",
+      "neonatal conjunctivitis",
+      "septic purulent arthritis",
+      "bacteria in synovial fluid",
+      "lacks polysaccharide capsule",
+      "pustules on palms and fingers"
+    ]
+  },
+  {
+    "id": "path-16-6",
+    "title": "Neisseria meningitidis",
+    "course": "path",
+    "brick_id": "16",
+    "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "gram-negative diplococci",
+      "polysaccharide capsule",
+      "escapes phagocytosis",
+      "nasopharyngeal carriage",
+      "spread by respiratory droplets",
+      "outbreaks in training camps",
+      "purulent meningitis, nuchal rigidity",
+      "vaccine preventable"
+    ]
+  },
+  {
+    "id": "path-16-7",
+    "title": "Sarcoidosis",
+    "course": "path",
+    "brick_id": "16",
+    "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "systemic granulomatous disease",
+      "idiopathic etiology",
+      "young African-American women",
+      "diagnosis of exclusion",
+      "non-caseating granulomas",
+      "bilateral hilar lymphadenopathy",
+      "elevated serum ACE",
+      "asteroid bodies"
+    ]
+  }
+]

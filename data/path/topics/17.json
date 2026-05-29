@@ -1,0 +1,164 @@
+[
+  {
+    "id": "path-17-1",
+    "title": "Points of Entry",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "agents cross epithelial surfaces",
+      "skin keratinized barrier",
+      "fatty acids and defensins",
+      "wounds bites catheters breach skin",
+      "gastric acid and IgA",
+      "mucociliary respiratory defense",
+      "urine flow flushes urethra",
+      "vertical placental transmission"
+    ]
+  },
+  {
+    "id": "path-17-2",
+    "title": "Microbial Dissemination",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "spread beyond initial site",
+      "uses lymphatics and blood",
+      "bacteria in blood is septicemia",
+      "lymph nodes then bloodstream",
+      "seeds heart causing endocarditis",
+      "IV drug use introduces bacteria",
+      "spread along peripheral nerves",
+      "retrograde axonal transport"
+    ]
+  },
+  {
+    "id": "path-17-3",
+    "title": "Person-to-Person Spread",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "transmission between hosts",
+      "skin shedding and direct contact",
+      "coughing and sneezing droplets",
+      "aerosolized airborne spread",
+      "fecal-oral via contaminated food",
+      "spores survive months on surfaces",
+      "sexual mucosal contact",
+      "insect and animal vector bites"
+    ]
+  },
+  {
+    "id": "path-17-4",
+    "title": "Suppurative Inflammation",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "histologic pattern of reaction",
+      "increased vascular permeability",
+      "neutrophil-dominated infiltrate",
+      "pus and purulence",
+      "localized collection is an abscess",
+      "caused by pyogenic bacteria",
+      "Staphylococcus aureus example",
+      "purulent exudate"
+    ]
+  },
+  {
+    "id": "path-17-5",
+    "title": "Mononuclear Inflammation",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "histologic pattern of reaction",
+      "lymphocyte-rich infiltrate",
+      "response to viruses",
+      "intracellular bacteria and parasites",
+      "seen with spirochetes",
+      "Treponema pallidum syphilis",
+      "macrophages form granulomas",
+      "caseating necrosis in tuberculosis"
+    ]
+  },
+  {
+    "id": "path-17-6",
+    "title": "Cytopathic Reaction",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "histologic pattern of reaction",
+      "damage inside the cell",
+      "viral aggregates and inclusions",
+      "multinucleation",
+      "HSV and CMV changes",
+      "epithelial proliferation by HPV",
+      "verrucous warts",
+      "epithelial detachment forms blisters"
+    ]
+  },
+  {
+    "id": "path-17-7",
+    "title": "Endotoxin (LPS)",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "outer membrane component",
+      "from gram-negative bacteria",
+      "lipid A is the active portion",
+      "detected by immune cells",
+      "pro-inflammatory cytokine release",
+      "complement activation",
+      "cytokine-induced hypotension",
+      "lipopolysaccharide"
+    ]
+  },
+  {
+    "id": "path-17-8",
+    "title": "Diphtheria Toxin",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "secreted exotoxin",
+      "A-B subunit structure",
+      "B binds and enters via endocytosis",
+      "A-component inhibits protein synthesis",
+      "blocks the ribosome",
+      "gray pharyngeal pseudomembrane",
+      "can cause myocarditis",
+      "Corynebacterium diphtheriae"
+    ]
+  },
+  {
+    "id": "path-17-9",
+    "title": "Superantigens",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "toxin-mediated mechanism",
+      "simulates robust immune response",
+      "massive unchecked cytokine release",
+      "enterotoxin acts on GI tract",
+      "food poisoning rapid vomiting",
+      "toxin acts without viable bacteria",
+      "Streptococcus pyogenes source",
+      "toxic shock syndrome"
+    ]
+  }
+]

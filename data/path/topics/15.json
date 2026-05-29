@@ -1,0 +1,92 @@
+[
+  {
+    "id": "path-15-1",
+    "title": "Systemic Lupus Erythematosus",
+    "course": "path",
+    "brick_id": "15",
+    "brick_title": "Diseases of the Immune System: Autoimmune Disease",
+    "type": "disease",
+    "buzzwords": [
+      "multisystem autoimmune disease",
+      "female predominance",
+      "photosensitivity",
+      "oral ulcers, serositis",
+      "type 3 hypersensitivity",
+      "butterfly malar rash",
+      "Libman-Sacks endocarditis",
+      "anti-dsDNA, anti-Smith"
+    ]
+  },
+  {
+    "id": "path-15-2",
+    "title": "Rheumatoid Arthritis",
+    "course": "path",
+    "brick_id": "15",
+    "brick_title": "Diseases of the Immune System: Autoimmune Disease",
+    "type": "disease",
+    "buzzwords": [
+      "symmetric joint inflammation",
+      "swollen warm painful joints",
+      "hands and feet",
+      "synovial hyperplasia",
+      "pannus erodes cartilage",
+      "CD4+ helper T cytokines",
+      "rheumatoid factor (IgM)",
+      "anti-CCP antibodies"
+    ]
+  },
+  {
+    "id": "path-15-3",
+    "title": "Goodpasture Syndrome",
+    "course": "path",
+    "brick_id": "15",
+    "brick_title": "Diseases of the Immune System: Autoimmune Disease",
+    "type": "disease",
+    "buzzwords": [
+      "kidney and lung injury",
+      "teens to 20s",
+      "male predominance",
+      "hemoptysis",
+      "rapidly progressive glomerulonephritis",
+      "treated with plasmapheresis",
+      "anti-collagen type IV",
+      "anti-basement membrane antibodies"
+    ]
+  },
+  {
+    "id": "path-15-4",
+    "title": "Granulomatosis with Polyangiitis",
+    "course": "path",
+    "brick_id": "15",
+    "brick_title": "Diseases of the Immune System: Autoimmune Disease",
+    "type": "disease",
+    "buzzwords": [
+      "small-vessel vasculitis",
+      "necrotizing granulomas",
+      "upper respiratory tract",
+      "saddle nose deformity",
+      "lung nodules and cavities",
+      "nephritic syndrome, hematuria",
+      "multinucleated giant cells",
+      "PR3-ANCA (c-ANCA)"
+    ]
+  },
+  {
+    "id": "path-15-5",
+    "title": "Henoch-Schonlein Purpura",
+    "course": "path",
+    "brick_id": "15",
+    "brick_title": "Diseases of the Immune System: Autoimmune Disease",
+    "type": "disease",
+    "buzzwords": [
+      "childhood syndrome",
+      "ages 3 to 8",
+      "palpable purpura",
+      "extensor surfaces and buttocks",
+      "abdominal pain, GI bleeding",
+      "arthralgias",
+      "immune complex deposition",
+      "IgA and C3 deposits"
+    ]
+  }
+]

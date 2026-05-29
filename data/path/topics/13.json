@@ -1,0 +1,128 @@
+[
+  {
+    "id": "path-13-1",
+    "title": "Phases of Lab Testing",
+    "course": "path",
+    "brick_id": "13",
+    "brick_title": "Introduction to Clinical Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "total testing process",
+      "three phases",
+      "order to result",
+      "most errors here",
+      "specimen collection step",
+      "IV contamination risk",
+      "analytic vs post-analytic",
+      "pre-analytic phase"
+    ]
+  },
+  {
+    "id": "path-13-2",
+    "title": "Transfusion Medicine",
+    "course": "path",
+    "brick_id": "13",
+    "brick_title": "Introduction to Clinical Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "donation and transfusion",
+      "apheresis",
+      "blood typing",
+      "Rh typing",
+      "antibody screen",
+      "crossmatch products",
+      "accepts blood only",
+      "blood bank"
+    ]
+  },
+  {
+    "id": "path-13-3",
+    "title": "Clinical Chemistry",
+    "course": "path",
+    "brick_id": "13",
+    "brick_title": "Introduction to Clinical Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "biochemical techniques",
+      "most commonly ordered",
+      "electrolytes",
+      "liver function tests",
+      "glucose and proteins",
+      "lipid panel",
+      "therapeutic drug monitoring",
+      "tumor markers"
+    ]
+  },
+  {
+    "id": "path-13-4",
+    "title": "Hematology",
+    "course": "path",
+    "brick_id": "13",
+    "brick_title": "Introduction to Clinical Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "cell counts",
+      "body fluid analysis",
+      "clotting disorders",
+      "CBC with differential",
+      "detects anemia",
+      "coagulation testing",
+      "prothrombin time",
+      "partial thromboplastin time"
+    ]
+  },
+  {
+    "id": "path-13-5",
+    "title": "Immunology and Serology",
+    "course": "path",
+    "brick_id": "13",
+    "brick_title": "Introduction to Clinical Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "studies immune system",
+      "serum analysis",
+      "antibody testing",
+      "confirms immunity",
+      "autoimmune workup",
+      "rheumatoid factor",
+      "HLA typing for transplant",
+      "human leukocyte antigen"
+    ]
+  },
+  {
+    "id": "path-13-6",
+    "title": "Microbiology",
+    "course": "path",
+    "brick_id": "13",
+    "brick_title": "Introduction to Clinical Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "identifies micro-organisms",
+      "cultures",
+      "diagnoses infection",
+      "susceptibility testing",
+      "zone of inhibition",
+      "disk diffusion method",
+      "antibiogram trends",
+      "guides antibiotic choice"
+    ]
+  },
+  {
+    "id": "path-13-7",
+    "title": "Urinalysis",
+    "course": "path",
+    "brick_id": "13",
+    "brick_title": "Introduction to Clinical Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "evaluates urine",
+      "visual appearance exam",
+      "dipstick chemical test",
+      "microscopic exam",
+      "checks pH and protein",
+      "glucose ketones bilirubin",
+      "leukocyte esterase",
+      "nitrites"
+    ]
+  }
+]

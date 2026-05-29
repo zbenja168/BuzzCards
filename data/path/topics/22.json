@@ -1,0 +1,74 @@
+[
+  {
+    "id": "path-22-1",
+    "title": "Hyperacute Rejection",
+    "course": "path",
+    "brick_id": "22",
+    "brick_title": "Diseases of the Immune System: Transplant Rejection",
+    "type": "disease",
+    "buzzwords": [
+      "graft rejection",
+      "minutes to hours",
+      "pre-formed antibodies",
+      "type II hypersensitivity",
+      "anti-ABO antibodies",
+      "complement activation",
+      "endothelial thrombosis",
+      "ischemia and necrosis"
+    ]
+  },
+  {
+    "id": "path-22-2",
+    "title": "Acute Rejection",
+    "course": "path",
+    "brick_id": "22",
+    "brick_title": "Diseases of the Immune System: Transplant Rejection",
+    "type": "disease",
+    "buzzwords": [
+      "graft rejection",
+      "weeks to months",
+      "cellular and humoral",
+      "responds to immunosuppression",
+      "CD8 T cells kill graft",
+      "tubulitis",
+      "endothelialitis",
+      "rejection vasculitis"
+    ]
+  },
+  {
+    "id": "path-22-3",
+    "title": "Chronic Rejection",
+    "course": "path",
+    "brick_id": "22",
+    "brick_title": "Diseases of the Immune System: Transplant Rejection",
+    "type": "disease",
+    "buzzwords": [
+      "graft rejection",
+      "months to years",
+      "cellular and humoral",
+      "smooth muscle proliferation",
+      "vessel wall thickening",
+      "vessel occlusion",
+      "graft arteriosclerosis",
+      "interstitial fibrosis"
+    ]
+  },
+  {
+    "id": "path-22-4",
+    "title": "Graft-Versus-Host Disease",
+    "course": "path",
+    "brick_id": "22",
+    "brick_title": "Diseases of the Immune System: Transplant Rejection",
+    "type": "disease",
+    "buzzwords": [
+      "bone marrow transplant complication",
+      "donor cells attack recipient",
+      "allogeneic transplant",
+      "donor T lymphocytes",
+      "maculopapular rash",
+      "jaundice and diarrhea",
+      "hepatosplenomegaly",
+      "skin liver gut targeted"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "path-24-1",
+    "title": "Autoimmune Hepatitis",
+    "course": "path",
+    "brick_id": "24",
+    "brick_title": "Infectious/Inflammatory Causes of Jaundice",
+    "type": "disease",
+    "buzzwords": [
+      "chronic progressive hepatitis",
+      "female predominance",
+      "responds to immunosuppression",
+      "elevated transaminases",
+      "interface hepatitis",
+      "plasma cell clusters",
+      "anti-smooth muscle antibody",
+      "anti-LKM-1 antibody"
+    ]
+  },
+  {
+    "id": "path-24-2",
+    "title": "Primary Biliary Cholangitis",
+    "course": "path",
+    "brick_id": "24",
+    "brick_title": "Infectious/Inflammatory Causes of Jaundice",
+    "type": "disease",
+    "buzzwords": [
+      "autoimmune cholestasis",
+      "strong female predominance",
+      "fatigue and pruritis",
+      "small intrahepatic ducts",
+      "elevated alkaline phosphatase",
+      "granulomatous duct destruction",
+      "florid duct lesion",
+      "anti-mitochondrial antibody"
+    ]
+  },
+  {
+    "id": "path-24-3",
+    "title": "Primary Sclerosing Cholangitis",
+    "course": "path",
+    "brick_id": "24",
+    "brick_title": "Infectious/Inflammatory Causes of Jaundice",
+    "type": "disease",
+    "buzzwords": [
+      "obliterative bile duct fibrosis",
+      "male predominance",
+      "ulcerative colitis association",
+      "large intrahepatic ducts",
+      "periductal fibrosis",
+      "onion-skin scarring",
+      "beading on MRCP",
+      "elevated p-ANCA"
+    ]
+  },
+  {
+    "id": "path-24-4",
+    "title": "Viral Hepatitis (HCV)",
+    "course": "path",
+    "brick_id": "24",
+    "brick_title": "Infectious/Inflammatory Causes of Jaundice",
+    "type": "disease",
+    "buzzwords": [
+      "chronic active infection",
+      "parenteral transmission",
+      "IV drug use",
+      "relapsing transaminase elevation",
+      "portal lymphocytic inflammation",
+      "bridging fibrosis",
+      "HCV RNA PCR positive",
+      "anti-HCV antibodies"
+    ]
+  }
+]

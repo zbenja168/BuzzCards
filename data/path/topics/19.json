@@ -1,0 +1,92 @@
+[
+  {
+    "id": "path-19-1",
+    "title": "M. tuberculosis",
+    "course": "path",
+    "brick_id": "19",
+    "brick_title": "Chronic Infections (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "aerobic rod",
+      "waxy cell wall",
+      "spread via droplets",
+      "survives in macrophages",
+      "blocks phagolysosome formation",
+      "Th1 / IFN-gamma response",
+      "acid-fast bacilli",
+      "caseating granuloma"
+    ]
+  },
+  {
+    "id": "path-19-2",
+    "title": "Primary syphilis",
+    "course": "path",
+    "brick_id": "19",
+    "brick_title": "Chronic Infections (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "spirochete infection",
+      "sexually transmitted",
+      "site of inoculation",
+      "appears ~3 weeks",
+      "painless lesion",
+      "solitary ulcer",
+      "plasma cell infiltrate",
+      "chancre"
+    ]
+  },
+  {
+    "id": "path-19-3",
+    "title": "Secondary syphilis",
+    "course": "path",
+    "brick_id": "19",
+    "brick_title": "Chronic Infections (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "disseminated infection",
+      "2-8 weeks after chancre",
+      "multiple skin lesions",
+      "palms and soles rash",
+      "patchy alopecia",
+      "endarteritis of small vessels",
+      "maculopapular rash",
+      "condylomata lata"
+    ]
+  },
+  {
+    "id": "path-19-4",
+    "title": "Tertiary syphilis",
+    "course": "path",
+    "brick_id": "19",
+    "brick_title": "Chronic Infections (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "years after infection",
+      "aortic root dilation",
+      "ascending aortic aneurysm",
+      "meningovascular meningitis",
+      "general paresis dementia",
+      "posterior column degeneration",
+      "tabes dorsalis",
+      "Argyll Robertson pupil"
+    ]
+  },
+  {
+    "id": "path-19-5",
+    "title": "Congenital syphilis",
+    "course": "path",
+    "brick_id": "19",
+    "brick_title": "Chronic Infections (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "placental transmission",
+      "intrauterine fetal death",
+      "nasal discharge snuffles",
+      "hepatosplenomegaly",
+      "interstitial keratitis",
+      "saber shins",
+      "saddle nose deformity",
+      "Hutchinson teeth"
+    ]
+  }
+]

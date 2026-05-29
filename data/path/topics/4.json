@@ -1,0 +1,164 @@
+[
+  {
+    "id": "path-4-1",
+    "title": "Biopsy",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "physiology",
+    "buzzwords": [
+      "samples abnormal tissue",
+      "diagnostic, not curative",
+      "incisional cuts a portion",
+      "used early in workup",
+      "guides surgical decisions",
+      "punch uses cylindric blade",
+      "core uses hollow needle",
+      "incisional, punch, or core"
+    ]
+  },
+  {
+    "id": "path-4-2",
+    "title": "Excision",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "physiology",
+    "buzzwords": [
+      "surgical procedure",
+      "removes entire lesion",
+      "can be curative",
+      "diagnostic and therapeutic",
+      "includes safety margin",
+      "less extensive than resection",
+      "excisional biopsy",
+      "removes suspicious lump"
+    ]
+  },
+  {
+    "id": "path-4-3",
+    "title": "Resection",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "physiology",
+    "buzzwords": [
+      "major surgery",
+      "removes part or all of organ",
+      "done for malignancy",
+      "treats advanced disease",
+      "colectomy removes colon",
+      "gastrectomy removes stomach",
+      "mastectomy removes breast",
+      "laryngectomy for laryngeal cancer"
+    ]
+  },
+  {
+    "id": "path-4-4",
+    "title": "Frozen Section",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "rapid evaluation",
+      "done intraoperatively",
+      "guides next surgical step",
+      "preliminary result",
+      "tissue is frozen, not fixed",
+      "usually under 20 minutes",
+      "surgeon waits in OR",
+      "intraoperative consultation"
+    ]
+  },
+  {
+    "id": "path-4-5",
+    "title": "FFPE and H&E",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "routine tissue processing",
+      "formalin-fixed",
+      "paraffin-embedded block",
+      "thinly cut and stained",
+      "blocks stored 10 years",
+      "hematoxylin stains nuclei blue",
+      "eosin stains cytoplasm pink",
+      "FFPE H&E"
+    ]
+  },
+  {
+    "id": "path-4-6",
+    "title": "Special Stains",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "dyes with tissue affinity",
+      "highlights specific components",
+      "added when needed",
+      "trichrome shows fibrosis",
+      "silver stain for fungi",
+      "hyphae stain dark gray",
+      "Masson trichrome",
+      "Grocott-Gomori GMS"
+    ]
+  },
+  {
+    "id": "path-4-7",
+    "title": "Immunohistochemistry",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "antibody-based test",
+      "targets molecular antigen",
+      "stains brown under scope",
+      "confirms tumor origin",
+      "cytokeratins mark epithelium",
+      "positive confirms carcinoma",
+      "directed against intermediate filaments",
+      "anti-cytokeratin IHC"
+    ]
+  },
+  {
+    "id": "path-4-8",
+    "title": "Surgical Pathology Report",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "issued by pathologist",
+      "released to clinicians and patient",
+      "ready in about 2 days",
+      "gross description gives tumor size",
+      "comment holds opinion",
+      "addendum adds without changing diagnosis",
+      "amendment changes diagnosis",
+      "final diagnosis is the top line"
+    ]
+  },
+  {
+    "id": "path-4-9",
+    "title": "Cytopathology",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "evaluates individual cells",
+      "minimally invasive",
+      "fewer cells than surgical specimen",
+      "loses tissue architecture",
+      "Pap smear screens cervix",
+      "body fluids sent for analysis",
+      "FNA for thyroid nodules",
+      "fine needle aspiration"
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "path-26-1",
+    "title": "Tumor Invasion",
+    "course": "path",
+    "brick_id": "26",
+    "brick_title": "Cancer Growth and Metastasis",
+    "type": "physiology",
+    "buzzwords": [
+      "first metastatic step",
+      "breaks cell-cell contact",
+      "degrades basement membrane",
+      "tumor-secreted proteases",
+      "amoeboid migration",
+      "overexpresses laminin receptors",
+      "loss of E-cadherin",
+      "cleaves extracellular matrix"
+    ]
+  },
+  {
+    "id": "path-26-2",
+    "title": "Intravasation",
+    "course": "path",
+    "brick_id": "26",
+    "brick_title": "Cancer Growth and Metastasis",
+    "type": "physiology",
+    "buzzwords": [
+      "entry into vessels",
+      "into blood or lymphatics",
+      "most cells die in transit",
+      "shear-stress death",
+      "anoikis from lost adhesion",
+      "tumor cells clump together",
+      "platelet-coated emboli",
+      "stuck at first capillary bed"
+    ]
+  },
+  {
+    "id": "path-26-3",
+    "title": "Extravasation",
+    "course": "path",
+    "brick_id": "26",
+    "brick_title": "Cancer Growth and Metastasis",
+    "type": "physiology",
+    "buzzwords": [
+      "exit from bloodstream",
+      "growth at secondary site",
+      "needs favorable stroma",
+      "organ tropism",
+      "chemokine receptor homing",
+      "escape from dormancy",
+      "secretes growth factors",
+      "seed and soil"
+    ]
+  },
+  {
+    "id": "path-26-4",
+    "title": "Lymphatic Spread",
+    "course": "path",
+    "brick_id": "26",
+    "brick_title": "Cancer Growth and Metastasis",
+    "type": "physiology",
+    "buzzwords": [
+      "low-shear pathway",
+      "leaky vessel junctions",
+      "typical of carcinomas",
+      "follows lymphatic drainage",
+      "regional node involvement",
+      "sentinel node first",
+      "axillary nodes in breast cancer",
+      "epithelial-derived tumors"
+    ]
+  },
+  {
+    "id": "path-26-5",
+    "title": "Hematogenous Spread",
+    "course": "path",
+    "brick_id": "26",
+    "brick_title": "Cancer Growth and Metastasis",
+    "type": "physiology",
+    "buzzwords": [
+      "via arteries or veins",
+      "typical of sarcomas",
+      "follows venous drainage",
+      "liver and lung common sites",
+      "portal drainage to liver",
+      "IVC drainage to lung",
+      "follicular thyroid carcinoma",
+      "renal cell carcinoma"
+    ]
+  },
+  {
+    "id": "path-26-6",
+    "title": "Seeding",
+    "course": "path",
+    "brick_id": "26",
+    "brick_title": "Cancer Growth and Metastasis",
+    "type": "physiology",
+    "buzzwords": [
+      "spreads through open spaces",
+      "needs a body cavity",
+      "peritoneal cavity",
+      "pleural cavity",
+      "joint cavities",
+      "subarachnoid space",
+      "glioblastoma drop metastases",
+      "ovarian carcinoma omental caking"
+    ]
+  }
+]

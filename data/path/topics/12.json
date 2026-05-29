@@ -1,0 +1,74 @@
+[
+  {
+    "id": "path-12-1",
+    "title": "Thrombosis",
+    "course": "path",
+    "brick_id": "12",
+    "brick_title": "Thrombosis and its Consequences",
+    "type": "disease",
+    "buzzwords": [
+      "intravascular clot",
+      "obstructs blood flow",
+      "endothelial injury",
+      "abnormal blood flow",
+      "hypercoagulability",
+      "stasis or turbulence",
+      "arterial vs venous",
+      "Virchow's triad"
+    ]
+  },
+  {
+    "id": "path-12-2",
+    "title": "Embolism",
+    "course": "path",
+    "brick_id": "12",
+    "brick_title": "Thrombosis and its Consequences",
+    "type": "disease",
+    "buzzwords": [
+      "detached intravascular mass",
+      "travels to distant site",
+      "lodges in smaller vessel",
+      "most often a thrombus",
+      "fat after long-bone fracture",
+      "air bubbles in circulation",
+      "amniotic fluid type",
+      "pulmonary embolism"
+    ]
+  },
+  {
+    "id": "path-12-3",
+    "title": "Infarction",
+    "course": "path",
+    "brick_id": "12",
+    "brick_title": "Thrombosis and its Consequences",
+    "type": "disease",
+    "buzzwords": [
+      "ischemic necrosis",
+      "from vessel occlusion",
+      "dual supply more protected",
+      "slow occlusion spares tissue",
+      "brain dies in minutes",
+      "red infarct dual circulation",
+      "white infarct end-arterial",
+      "color names the tissue"
+    ]
+  },
+  {
+    "id": "path-12-4",
+    "title": "DIC",
+    "course": "path",
+    "brick_id": "12",
+    "brick_title": "Thrombosis and its Consequences",
+    "type": "disease",
+    "buzzwords": [
+      "thrombohemorrhagic disorder",
+      "uncontrolled coagulation",
+      "diffuse microthrombi",
+      "secondary complication",
+      "consumes platelets and factors",
+      "clotting and bleeding together",
+      "oozing from IV sites",
+      "tissue factor release"
+    ]
+  }
+]

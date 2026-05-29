@@ -1,0 +1,4016 @@
+[
+  {
+    "id": "path-2-1",
+    "title": "Reversible Cell Injury",
+    "course": "path",
+    "brick_id": "2",
+    "brick_title": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "type": "physiology",
+    "buzzwords": [
+      "early mild damage",
+      "recovers after stimulus removed",
+      "depleted ATP",
+      "failing Na/K pumps",
+      "osmotic imbalance",
+      "cellular swelling",
+      "swollen renal tubule cells",
+      "eosinophilic cytoplasm"
+    ]
+  },
+  {
+    "id": "path-2-2",
+    "title": "Irreversible Cell Injury",
+    "course": "path",
+    "brick_id": "2",
+    "brick_title": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "type": "physiology",
+    "buzzwords": [
+      "leads to cell death",
+      "severe persistent injury",
+      "membrane rupture",
+      "leaked lysosomal enzymes",
+      "released proteases and nucleases",
+      "necrosis",
+      "apoptosis",
+      "cytochrome c release"
+    ]
+  },
+  {
+    "id": "path-2-3",
+    "title": "Hypertrophy",
+    "course": "path",
+    "brick_id": "2",
+    "brick_title": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "type": "physiology",
+    "buzzwords": [
+      "adaptive response to stress",
+      "increased cell size",
+      "increased protein production",
+      "no change in cell number",
+      "occurs in muscle",
+      "left ventricle in hypertension",
+      "uterus in pregnancy",
+      "estrogen-driven enlargement"
+    ]
+  },
+  {
+    "id": "path-2-4",
+    "title": "Hyperplasia",
+    "course": "path",
+    "brick_id": "2",
+    "brick_title": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "type": "physiology",
+    "buzzwords": [
+      "adaptive response to stress",
+      "increased cell number",
+      "cell proliferation",
+      "needs replication-capable cells",
+      "mammary glands in puberty",
+      "excess estrogen stimulation",
+      "endometrial hyperplasia",
+      "abnormal uterine bleeding"
+    ]
+  },
+  {
+    "id": "path-2-5",
+    "title": "Atrophy",
+    "course": "path",
+    "brick_id": "2",
+    "brick_title": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "type": "physiology",
+    "buzzwords": [
+      "adaptive response to stress",
+      "decreased cell size",
+      "decreased protein synthesis",
+      "decreased cell number",
+      "denervation",
+      "decreased blood supply",
+      "disuse from low workload",
+      "thyroglossal duct involution"
+    ]
+  },
+  {
+    "id": "path-2-6",
+    "title": "Metaplasia",
+    "course": "path",
+    "brick_id": "2",
+    "brick_title": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "type": "physiology",
+    "buzzwords": [
+      "adaptive response to stress",
+      "reversible change",
+      "one cell type to another",
+      "differentiated cell switch",
+      "reverts if stimulus removed",
+      "tobacco smoke trigger",
+      "ciliated columnar to squamous",
+      "airway squamous metaplasia"
+    ]
+  },
+  {
+    "id": "path-3-1",
+    "title": "Intrinsic Apoptosis",
+    "course": "path",
+    "brick_id": "3",
+    "brick_title": "Cell Death: Apoptosis and Necrosis",
+    "type": "physiology",
+    "buzzwords": [
+      "programmed cell death",
+      "triggered by internal stress",
+      "responds to DNA damage",
+      "outer membrane permeable",
+      "BAX and BAK channels",
+      "cytochrome c released",
+      "BCL2 anti-apoptotic",
+      "mitochondrial pathway"
+    ]
+  },
+  {
+    "id": "path-3-2",
+    "title": "Extrinsic Apoptosis",
+    "course": "path",
+    "brick_id": "3",
+    "brick_title": "Cell Death: Apoptosis and Necrosis",
+    "type": "physiology",
+    "buzzwords": [
+      "programmed cell death",
+      "starts at plasma membrane",
+      "death receptor pathway",
+      "cytoplasmic death domain",
+      "FADD adaptor",
+      "activates caspase-8",
+      "TNFR1 receptor",
+      "Fas and FasL"
+    ]
+  },
+  {
+    "id": "path-3-3",
+    "title": "Coagulative Necrosis",
+    "course": "path",
+    "brick_id": "3",
+    "brick_title": "Cell Death: Apoptosis and Necrosis",
+    "type": "disease",
+    "buzzwords": [
+      "uncontrolled cell death",
+      "caused by ischemia",
+      "tissue architecture preserved",
+      "cells deeply eosinophilic",
+      "loss of nucleus",
+      "seen outside CNS",
+      "localized area is infarct",
+      "classic in myocardial infarction"
+    ]
+  },
+  {
+    "id": "path-3-4",
+    "title": "Liquefactive Necrosis",
+    "course": "path",
+    "brick_id": "3",
+    "brick_title": "Cell Death: Apoptosis and Necrosis",
+    "type": "disease",
+    "buzzwords": [
+      "uncontrolled cell death",
+      "dead cells digested",
+      "becomes viscous liquid",
+      "pus formation",
+      "enzymatic tissue breakdown",
+      "central nervous system",
+      "brain infarct pattern",
+      "seen in stroke"
+    ]
+  },
+  {
+    "id": "path-3-5",
+    "title": "Caseous Necrosis",
+    "course": "path",
+    "brick_id": "3",
+    "brick_title": "Cell Death: Apoptosis and Necrosis",
+    "type": "disease",
+    "buzzwords": [
+      "uncontrolled cell death",
+      "friable necrotic material",
+      "cheese-like appearance",
+      "off-white grossly",
+      "fragmented granular debris",
+      "associated with granulomas",
+      "tuberculosis infection",
+      "classic for TB"
+    ]
+  },
+  {
+    "id": "path-3-6",
+    "title": "Fat Necrosis",
+    "course": "path",
+    "brick_id": "3",
+    "brick_title": "Cell Death: Apoptosis and Necrosis",
+    "type": "disease",
+    "buzzwords": [
+      "breakdown of adipose tissue",
+      "fatty acids plus calcium",
+      "chalky-white substance",
+      "saponification",
+      "basophilic calcium deposits",
+      "leaked lipases",
+      "fat-rich peritoneal cavity",
+      "acute pancreatitis"
+    ]
+  },
+  {
+    "id": "path-3-7",
+    "title": "Fibrinoid Necrosis",
+    "course": "path",
+    "brick_id": "3",
+    "brick_title": "Cell Death: Apoptosis and Necrosis",
+    "type": "disease",
+    "buzzwords": [
+      "severe vascular injury",
+      "affects vessel walls",
+      "fibrin deposition",
+      "immune complex deposits",
+      "proteinaceous vessel wall",
+      "endothelial damage",
+      "seen in vasculitis",
+      "granulomatosis with polyangiitis"
+    ]
+  },
+  {
+    "id": "path-4-1",
+    "title": "Biopsy",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "physiology",
+    "buzzwords": [
+      "samples abnormal tissue",
+      "diagnostic, not curative",
+      "incisional cuts a portion",
+      "used early in workup",
+      "guides surgical decisions",
+      "punch uses cylindric blade",
+      "core uses hollow needle",
+      "incisional, punch, or core"
+    ]
+  },
+  {
+    "id": "path-4-2",
+    "title": "Excision",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "physiology",
+    "buzzwords": [
+      "surgical procedure",
+      "removes entire lesion",
+      "can be curative",
+      "diagnostic and therapeutic",
+      "includes safety margin",
+      "less extensive than resection",
+      "excisional biopsy",
+      "removes suspicious lump"
+    ]
+  },
+  {
+    "id": "path-4-3",
+    "title": "Resection",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "physiology",
+    "buzzwords": [
+      "major surgery",
+      "removes part or all of organ",
+      "done for malignancy",
+      "treats advanced disease",
+      "colectomy removes colon",
+      "gastrectomy removes stomach",
+      "mastectomy removes breast",
+      "laryngectomy for laryngeal cancer"
+    ]
+  },
+  {
+    "id": "path-4-4",
+    "title": "Frozen Section",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "rapid evaluation",
+      "done intraoperatively",
+      "guides next surgical step",
+      "preliminary result",
+      "tissue is frozen, not fixed",
+      "usually under 20 minutes",
+      "surgeon waits in OR",
+      "intraoperative consultation"
+    ]
+  },
+  {
+    "id": "path-4-5",
+    "title": "FFPE and H&E",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "routine tissue processing",
+      "formalin-fixed",
+      "paraffin-embedded block",
+      "thinly cut and stained",
+      "blocks stored 10 years",
+      "hematoxylin stains nuclei blue",
+      "eosin stains cytoplasm pink",
+      "FFPE H&E"
+    ]
+  },
+  {
+    "id": "path-4-6",
+    "title": "Special Stains",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "dyes with tissue affinity",
+      "highlights specific components",
+      "added when needed",
+      "trichrome shows fibrosis",
+      "silver stain for fungi",
+      "hyphae stain dark gray",
+      "Masson trichrome",
+      "Grocott-Gomori GMS"
+    ]
+  },
+  {
+    "id": "path-4-7",
+    "title": "Immunohistochemistry",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "antibody-based test",
+      "targets molecular antigen",
+      "stains brown under scope",
+      "confirms tumor origin",
+      "cytokeratins mark epithelium",
+      "positive confirms carcinoma",
+      "directed against intermediate filaments",
+      "anti-cytokeratin IHC"
+    ]
+  },
+  {
+    "id": "path-4-8",
+    "title": "Surgical Pathology Report",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "issued by pathologist",
+      "released to clinicians and patient",
+      "ready in about 2 days",
+      "gross description gives tumor size",
+      "comment holds opinion",
+      "addendum adds without changing diagnosis",
+      "amendment changes diagnosis",
+      "final diagnosis is the top line"
+    ]
+  },
+  {
+    "id": "path-4-9",
+    "title": "Cytopathology",
+    "course": "path",
+    "brick_id": "4",
+    "brick_title": "Introduction to Anatomic Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "evaluates individual cells",
+      "minimally invasive",
+      "fewer cells than surgical specimen",
+      "loses tissue architecture",
+      "Pap smear screens cervix",
+      "body fluids sent for analysis",
+      "FNA for thyroid nodules",
+      "fine needle aspiration"
+    ]
+  },
+  {
+    "id": "path-5-1",
+    "title": "Neutrophils",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "first responders",
+      "arrive within hours",
+      "most abundant WBC",
+      "~60% of WBCs",
+      "granulocyte",
+      "kill via phagocytosis",
+      "release antimicrobial proteins",
+      "activity peaks at 24 hours"
+    ]
+  },
+  {
+    "id": "path-5-2",
+    "title": "Macrophages",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "found in body tissues",
+      "clear cellular debris",
+      "secrete cytokines",
+      "antigen-presenting cells",
+      "predominate after neutrophils",
+      "present antigen to T and B cells",
+      "drive adaptive immunity",
+      "peak at 48-72 hours"
+    ]
+  },
+  {
+    "id": "path-5-3",
+    "title": "Vascular Response",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "initial vasoconstriction",
+      "then vasodilation",
+      "increased vascular diameter",
+      "raises blood flow to injury",
+      "endothelial cell-adhesion molecules",
+      "increased vascular permeability",
+      "endothelial cells contract",
+      "clotting walls off infection"
+    ]
+  },
+  {
+    "id": "path-5-4",
+    "title": "Leukocyte Extravasation",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "WBC exit from vessel",
+      "four sequential steps",
+      "margination slows cells to wall",
+      "rolling along endothelium",
+      "binding firmly adheres cell",
+      "diapedesis squeezes through junction",
+      "migration follows chemokine gradient",
+      "deficiency causes LAD"
+    ]
+  },
+  {
+    "id": "path-5-5",
+    "title": "Cardinal Signs",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "four classic signs",
+      "redness from blood flow",
+      "heat from blood flow",
+      "swelling from fluid leak",
+      "pain from nerve stimuli",
+      "rubor and calor",
+      "tumor and dolor",
+      "bleeding is not one"
+    ]
+  },
+  {
+    "id": "path-5-6",
+    "title": "Purulent Inflammation",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "exudate-driven pattern",
+      "protein-rich fluid",
+      "neutrophil accumulation",
+      "pus formation",
+      "often bacterial cause",
+      "seen in pneumonia",
+      "fills alveolar spaces",
+      "suppurative inflammation"
+    ]
+  },
+  {
+    "id": "path-5-7",
+    "title": "Serous Inflammation",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "watery fluid pattern",
+      "transudate, not exudate",
+      "low protein content",
+      "from hydrostatic imbalance",
+      "few cellular elements",
+      "seen in heart failure",
+      "skin blister example",
+      "serous effusion"
+    ]
+  },
+  {
+    "id": "path-5-8",
+    "title": "Fibrinous Inflammation",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "large vascular leak",
+      "fibrinogen escapes vessel",
+      "fibrin deposits in tissue",
+      "from procoagulant stimulus",
+      "lines body cavities",
+      "affects pericardium",
+      "affects meninges and pleura",
+      "fibrinous pericarditis"
+    ]
+  },
+  {
+    "id": "path-5-9",
+    "title": "Ulcerative Inflammation",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "surface defect",
+      "of skin or mucosa",
+      "sloughing of necrotic tissue",
+      "loss of epithelium",
+      "inflammatory exudate at base",
+      "leaves a crater",
+      "duodenal example",
+      "duodenal ulcer"
+    ]
+  },
+  {
+    "id": "path-5-10",
+    "title": "Positive Acute Phase Reactants",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "lab",
+    "buzzwords": [
+      "rise with inflammation",
+      "made by the liver",
+      "nonspecific markers",
+      "serum amyloid A",
+      "ferritin sequesters iron",
+      "hepcidin gatekeeps iron",
+      "CRP rises fastest",
+      "C-reactive protein"
+    ]
+  },
+  {
+    "id": "path-5-11",
+    "title": "Negative Acute Phase Reactants",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "lab",
+    "buzzwords": [
+      "drop with inflammation",
+      "two main proteins",
+      "fall conserves amino acids",
+      "maintains oncotic pressure",
+      "transports iron",
+      "internalized by macrophages",
+      "albumin",
+      "transferrin"
+    ]
+  },
+  {
+    "id": "path-5-12",
+    "title": "Erythrocyte Sedimentation Rate",
+    "course": "path",
+    "brick_id": "5",
+    "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+    "type": "lab",
+    "buzzwords": [
+      "indirect inflammation test",
+      "measures RBC fall rate",
+      "reported mm/hr",
+      "rises with acute phase proteins",
+      "tracks fibrinogen levels",
+      "RBCs stack as rouleaux",
+      "nonspecific and slow to rise",
+      "ESR"
+    ]
+  },
+  {
+    "id": "path-6-1",
+    "title": "Macrophages",
+    "course": "path",
+    "brick_id": "6",
+    "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "predominant chronic inflammatory cell",
+      "tissue leukocyte",
+      "phagocytose and kill microbes",
+      "arrive 48-72 hours",
+      "secrete cytokines",
+      "orchestrate acute-to-chronic transition",
+      "wall off resistant pathogens",
+      "core of granuloma"
+    ]
+  },
+  {
+    "id": "path-6-2",
+    "title": "Lymphocytes",
+    "course": "path",
+    "brick_id": "6",
+    "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "white blood cell",
+      "two subtypes",
+      "T cells and B cells",
+      "produce inflammatory cytokines",
+      "alter macrophage behavior",
+      "drive graft rejection",
+      "recognize antigen-presenting cells",
+      "react to foreign invader"
+    ]
+  },
+  {
+    "id": "path-6-3",
+    "title": "Plasma Cells",
+    "course": "path",
+    "brick_id": "6",
+    "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "differentiated B cell",
+      "secrete antibody",
+      "tag pathogens for destruction",
+      "prominent in autoimmune disease",
+      "eccentric nucleus",
+      "clumped clock-face chromatin",
+      "blue cytoplasm",
+      "perinuclear hof"
+    ]
+  },
+  {
+    "id": "path-6-4",
+    "title": "Granuloma",
+    "course": "path",
+    "brick_id": "6",
+    "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "tumor-like cell mass",
+      "walls off resistant antigen",
+      "activated epithelioid macrophages",
+      "multinucleated giant cells",
+      "surrounding T lymphocytes",
+      "caseating in tuberculosis",
+      "non-caseating in sarcoidosis",
+      "central necrotic core"
+    ]
+  },
+  {
+    "id": "path-6-5",
+    "title": "Fistula",
+    "course": "path",
+    "brick_id": "6",
+    "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "abnormal passageway",
+      "connects two hollow organs",
+      "most common in GI tract",
+      "fibroblasts tunnel through wall",
+      "transmural inflammation",
+      "complication of Crohn disease",
+      "enterovesical type",
+      "recurrent urinary tract infections"
+    ]
+  },
+  {
+    "id": "path-6-6",
+    "title": "Hepatic Fibrosis",
+    "course": "path",
+    "brick_id": "6",
+    "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "scarring replaces tissue",
+      "stromal framework destroyed",
+      "regeneration impossible",
+      "irreversibly reduced function",
+      "driven by chronic alcohol",
+      "fibrous bands around hepatocytes",
+      "raises portal pressure",
+      "seen in hepatitis C"
+    ]
+  },
+  {
+    "id": "path-6-7",
+    "title": "Atherosclerosis",
+    "course": "path",
+    "brick_id": "6",
+    "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "arterial narrowing",
+      "lipid-laden plaque",
+      "chronic vessel wall inflammation",
+      "worsened by smoking and diabetes",
+      "thin fibrous cap",
+      "cap rupture causes clot",
+      "myocardial infarction",
+      "stroke"
+    ]
+  },
+  {
+    "id": "path-7-1",
+    "title": "Tissue Regenerative Capacity",
+    "course": "path",
+    "brick_id": "7",
+    "brick_title": "Wound Healing and Tissue Repair",
+    "type": "physiology",
+    "buzzwords": [
+      "classified by dividing ability",
+      "three categories",
+      "labile continuously divides",
+      "stable normally quiescent",
+      "stable proliferates after injury",
+      "permanent cannot regenerate",
+      "permanent heals only by scar",
+      "neurons and cardiac myocytes permanent"
+    ]
+  },
+  {
+    "id": "path-7-2",
+    "title": "Growth Factors",
+    "course": "path",
+    "brick_id": "7",
+    "brick_title": "Wound Healing and Tissue Repair",
+    "type": "physiology",
+    "buzzwords": [
+      "stimulate cell survival and division",
+      "secreted by macrophages and platelets",
+      "drive tissue repair",
+      "EGF stimulates epithelial growth",
+      "VEGF promotes angiogenesis",
+      "PDGF recruits fibroblasts",
+      "TGF-beta deposits collagen",
+      "TGF-beta suppresses inflammation"
+    ]
+  },
+  {
+    "id": "path-7-3",
+    "title": "Extracellular Matrix",
+    "course": "path",
+    "brick_id": "7",
+    "brick_title": "Wound Healing and Tissue Repair",
+    "type": "physiology",
+    "buzzwords": [
+      "protein network outside cells",
+      "mechanical support scaffold",
+      "displays bound growth factors",
+      "collagen gives tensile strength",
+      "elastin provides recoil",
+      "proteoglycans hydrate tissue",
+      "integrins anchor cells",
+      "intact ECM allows regeneration"
+    ]
+  },
+  {
+    "id": "path-7-4",
+    "title": "Granulation Tissue",
+    "course": "path",
+    "brick_id": "7",
+    "brick_title": "Wound Healing and Tissue Repair",
+    "type": "physiology",
+    "buzzwords": [
+      "preliminary repair tissue",
+      "intermediate stage of healing",
+      "structurally weak",
+      "fibroblasts and new vessels",
+      "pink granular appearance",
+      "weeps blood easily",
+      "remodeled by matrix metalloproteinases",
+      "replaced by fibrillar collagen"
+    ]
+  },
+  {
+    "id": "path-7-5",
+    "title": "Healing by First Intention",
+    "course": "path",
+    "brick_id": "7",
+    "brick_title": "Wound Healing and Tissue Repair",
+    "type": "physiology",
+    "buzzwords": [
+      "small clean wound",
+      "minimal tissue loss",
+      "relies on epithelial regeneration",
+      "begins with blood clot",
+      "neutrophils arrive under 24 hours",
+      "macrophages dominate by day 3",
+      "minimal scar",
+      "approximated incision edges"
+    ]
+  },
+  {
+    "id": "path-7-6",
+    "title": "Healing by Second Intention",
+    "course": "path",
+    "brick_id": "7",
+    "brick_title": "Wound Healing and Tissue Repair",
+    "type": "physiology",
+    "buzzwords": [
+      "large open wound",
+      "extensive tissue loss",
+      "robust inflammatory response",
+      "large fibrin clot",
+      "granulation tissue fills defect",
+      "wound contraction closes gap",
+      "contractile myofibroblasts",
+      "slow healing over weeks"
+    ]
+  },
+  {
+    "id": "path-7-7",
+    "title": "Keloid Scar",
+    "course": "path",
+    "brick_id": "7",
+    "brick_title": "Wound Healing and Tissue Repair",
+    "type": "disease",
+    "buzzwords": [
+      "excessive repair complication",
+      "exuberant scarring",
+      "extends beyond wound borders",
+      "thick brightly eosinophilic collagen",
+      "haphazardly arranged fibers",
+      "does not regress",
+      "may need surgical excision",
+      "contrasts with hypertrophic scar"
+    ]
+  },
+  {
+    "id": "path-8-1",
+    "title": "Carbon Monoxide",
+    "course": "path",
+    "brick_id": "8",
+    "brick_title": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+    "type": "disease",
+    "buzzwords": [
+      "colorless odorless gas",
+      "incomplete hydrocarbon combustion",
+      "car exhaust poisoning",
+      "200x affinity over oxygen",
+      "blocks oxygen transport",
+      "tissue hypoxia",
+      "cherry-red skin",
+      "carboxyhemoglobin"
+    ]
+  },
+  {
+    "id": "path-8-2",
+    "title": "Lead Poisoning",
+    "course": "path",
+    "brick_id": "8",
+    "brick_title": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+    "type": "disease",
+    "buzzwords": [
+      "binds sulfhydryl groups",
+      "impairs heme synthesis",
+      "microcytic anemia",
+      "kids absorb more",
+      "epiphyseal lead lines",
+      "wrist drop",
+      "basophilic stippling",
+      "blue gingival line"
+    ]
+  },
+  {
+    "id": "path-8-3",
+    "title": "Mercury",
+    "course": "path",
+    "brick_id": "8",
+    "brick_title": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+    "type": "disease",
+    "buzzwords": [
+      "binds sulfhydryl groups",
+      "contaminated fish",
+      "dental amalgam vapors",
+      "kidney and GI damage",
+      "lipid-soluble methylmercury",
+      "accumulates in brain",
+      "neuromotor dysfunction",
+      "cognitive decline"
+    ]
+  },
+  {
+    "id": "path-8-4",
+    "title": "Arsenic",
+    "course": "path",
+    "brick_id": "8",
+    "brick_title": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+    "type": "disease",
+    "buzzwords": [
+      "tasteless odorless",
+      "herbicides and pesticides",
+      "inhibits sulfhydryl enzymes",
+      "blocks electron transport chain",
+      "garlicky breath",
+      "sensorimotor neuropathy",
+      "cardiac arrhythmias",
+      "transverse white nail bands"
+    ]
+  },
+  {
+    "id": "path-8-5",
+    "title": "Tobacco Smoke",
+    "course": "path",
+    "brick_id": "8",
+    "brick_title": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+    "type": "disease",
+    "buzzwords": [
+      "60+ known carcinogens",
+      "leading lung cancer cause",
+      "nitrosamines and hydrocarbons",
+      "nicotine vasoconstriction",
+      "impairs wound healing",
+      "oncogenic DNA mutations",
+      "emphysema",
+      "carboxyhemoglobin from smoke"
+    ]
+  },
+  {
+    "id": "path-8-6",
+    "title": "Alcohol Injury",
+    "course": "path",
+    "brick_id": "8",
+    "brick_title": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+    "type": "disease",
+    "buzzwords": [
+      "alcohol dehydrogenase pathway",
+      "MEOS uses CYP2E1",
+      "acetaldehyde-DNA adducts",
+      "high NADH/NAD ratio",
+      "hepatic steatosis to cirrhosis",
+      "esophageal varices",
+      "fetal alcohol syndrome",
+      "Wernicke-Korsakoff thiamine deficiency"
+    ]
+  },
+  {
+    "id": "path-9-1",
+    "title": "Mechanical Injury",
+    "course": "path",
+    "brick_id": "9",
+    "brick_title": "Environmental Disease",
+    "type": "disease",
+    "buzzwords": [
+      "physical force trauma",
+      "blunt or sharp",
+      "abrasion scrapes epidermis",
+      "contusion is a bruise",
+      "laceration has irregular torn edges",
+      "incision has clean edges",
+      "puncture deep and narrow",
+      "tissue bridging distinguishes laceration"
+    ]
+  },
+  {
+    "id": "path-9-2",
+    "title": "Thermal Injury",
+    "course": "path",
+    "brick_id": "9",
+    "brick_title": "Environmental Disease",
+    "type": "disease",
+    "buzzwords": [
+      "heat or cold damage",
+      "graded by depth",
+      "first degree spares dermis",
+      "second degree blisters",
+      "third degree full thickness",
+      "fluid loss and infection risk",
+      "hypothermia slows metabolism",
+      "frostbite causes ice crystal necrosis"
+    ]
+  },
+  {
+    "id": "path-9-3",
+    "title": "Radiation Injury",
+    "course": "path",
+    "brick_id": "9",
+    "brick_title": "Environmental Disease",
+    "type": "disease",
+    "buzzwords": [
+      "energy emitted as waves",
+      "ionizing versus nonionizing",
+      "damages DNA directly",
+      "generates free radicals",
+      "dividing cells most vulnerable",
+      "gut and marrow hit first",
+      "carcinogenic long term",
+      "fibrosis of irradiated tissue"
+    ]
+  },
+  {
+    "id": "path-9-4",
+    "title": "Climate and Social Threats",
+    "course": "path",
+    "brick_id": "9",
+    "brick_title": "Environmental Disease",
+    "type": "disease",
+    "buzzwords": [
+      "population level health threats",
+      "warming expands vector range",
+      "heat waves raise mortality",
+      "air pollution worsens disease",
+      "extreme weather displaces populations",
+      "poverty limits care access",
+      "food and water insecurity",
+      "social determinants of health"
+    ]
+  },
+  {
+    "id": "path-10-1",
+    "title": "Medical Autopsy",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "physiology",
+    "buzzwords": [
+      "post-mortem exam",
+      "investigates natural disease",
+      "documents underlying diagnosis",
+      "hospital setting",
+      "requires family consent",
+      "confirms diagnostic accuracy",
+      "detects medical errors",
+      "clinical autopsy"
+    ]
+  },
+  {
+    "id": "path-10-2",
+    "title": "Forensic Autopsy",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "physiology",
+    "buzzwords": [
+      "part of medicolegal investigation",
+      "unwitnessed or unexpected death",
+      "violent or accidental death",
+      "no family consent needed",
+      "done at examiner's office",
+      "investigates crimes",
+      "establishes manner of death",
+      "state crime labs"
+    ]
+  },
+  {
+    "id": "path-10-3",
+    "title": "Cause of Death",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "physiology",
+    "buzzwords": [
+      "the injury or disease",
+      "directly resulted in death",
+      "documented on certificate",
+      "lists antecedent intervals",
+      "the gunshot wound itself",
+      "disseminated aspergillosis example",
+      "atherosclerotic coronary disease",
+      "the initiating insult"
+    ]
+  },
+  {
+    "id": "path-10-4",
+    "title": "Mechanism of Death",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "physiology",
+    "buzzwords": [
+      "physiologic derangement",
+      "produced by the cause",
+      "not a specific disease",
+      "hemorrhage and exsanguination",
+      "cardiac ischemia example",
+      "cerebral hypoxia in drowning",
+      "lethal end-physiology",
+      "how the body failed"
+    ]
+  },
+  {
+    "id": "path-10-5",
+    "title": "Manner of Death",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "physiology",
+    "buzzwords": [
+      "how death occurred",
+      "five categories only",
+      "natural",
+      "homicide",
+      "suicide",
+      "accident",
+      "undetermined",
+      "medicolegal classification"
+    ]
+  },
+  {
+    "id": "path-10-6",
+    "title": "Coroner",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "physiology",
+    "buzzwords": [
+      "commonly an elected official",
+      "lay non-physician",
+      "investigates death",
+      "cannot perform autopsies",
+      "assigns cause and manner",
+      "sends body to examiner",
+      "rural jurisdictions",
+      "brought from England"
+    ]
+  },
+  {
+    "id": "path-10-7",
+    "title": "Medical Examiner",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "physiology",
+    "buzzwords": [
+      "appointed not elected",
+      "trained forensic pathologist",
+      "performs autopsies",
+      "investigates death",
+      "assigns cause and manner",
+      "centralized state office",
+      "physician role",
+      "urban centers"
+    ]
+  },
+  {
+    "id": "path-10-8",
+    "title": "Final Anatomic Diagnosis",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "lab",
+    "buzzwords": [
+      "core of autopsy report",
+      "lists diagnoses and findings",
+      "gross plus microscopic",
+      "organized by organ system",
+      "released within 90 days",
+      "preliminary diagnosis first",
+      "acute tubular injury example",
+      "FAD"
+    ]
+  },
+  {
+    "id": "path-10-9",
+    "title": "Case Discussion",
+    "course": "path",
+    "brick_id": "10",
+    "brick_title": "Autopsy",
+    "type": "lab",
+    "buzzwords": [
+      "clinicopathologic correlation",
+      "pathologist's opinion",
+      "integrates clinical and pathologic",
+      "comments on cause of death",
+      "explains equivocal results",
+      "sequence leading to death",
+      "narrative interpretation",
+      "ties findings together"
+    ]
+  },
+  {
+    "id": "path-11-1",
+    "title": "Edema and Effusions",
+    "course": "path",
+    "brick_id": "11",
+    "brick_title": "Hemodynamics and Shock: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "fluid accumulation",
+      "Starling forces disturbed",
+      "tissue swelling",
+      "edema in tissues",
+      "effusion in body cavity",
+      "pleural, pericardial, ascites",
+      "dependent pedal edema",
+      "anasarca is generalized"
+    ]
+  },
+  {
+    "id": "path-11-2",
+    "title": "Causes of Edema",
+    "course": "path",
+    "brick_id": "11",
+    "brick_title": "Hemodynamics and Shock: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "altered Starling forces",
+      "increased hydrostatic pressure",
+      "impaired venous return",
+      "reduced colloid osmotic pressure",
+      "hypoalbuminemia",
+      "sodium and water retention",
+      "lymphatic obstruction",
+      "increased vascular permeability"
+    ]
+  },
+  {
+    "id": "path-11-3",
+    "title": "Exudates vs Transudates",
+    "course": "path",
+    "brick_id": "11",
+    "brick_title": "Hemodynamics and Shock: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "fluid collection types",
+      "exudate is inflammatory",
+      "transudate non-inflammatory",
+      "exudate protein-rich",
+      "high cellularity exudate",
+      "high specific gravity exudate",
+      "transudate is plasma ultrafiltrate",
+      "transudate low protein"
+    ]
+  },
+  {
+    "id": "path-11-4",
+    "title": "Hyperemia and Congestion",
+    "course": "path",
+    "brick_id": "11",
+    "brick_title": "Hemodynamics and Shock: Foundations and Frameworks",
+    "type": "physiology",
+    "buzzwords": [
+      "increased blood volume",
+      "hyperemia is active",
+      "arteriolar dilation",
+      "oxygenated inflow erythema",
+      "congestion is passive",
+      "reduced venous outflow",
+      "cyanotic deoxygenated appearance",
+      "chronic congestion causes fibrosis"
+    ]
+  },
+  {
+    "id": "path-11-5",
+    "title": "Shock",
+    "course": "path",
+    "brick_id": "11",
+    "brick_title": "Hemodynamics and Shock: Foundations and Frameworks",
+    "type": "disease",
+    "buzzwords": [
+      "circulatory failure",
+      "tissue hypoperfusion",
+      "hypovolemic from hemorrhage",
+      "cardiogenic pump failure",
+      "septic systemic inflammation",
+      "neurogenic spinal cord injury",
+      "anaphylactic IgE hypersensitivity",
+      "warm flushed skin in sepsis"
+    ]
+  },
+  {
+    "id": "path-12-1",
+    "title": "Thrombosis",
+    "course": "path",
+    "brick_id": "12",
+    "brick_title": "Thrombosis and its Consequences",
+    "type": "disease",
+    "buzzwords": [
+      "intravascular clot",
+      "obstructs blood flow",
+      "endothelial injury",
+      "abnormal blood flow",
+      "hypercoagulability",
+      "stasis or turbulence",
+      "arterial vs venous",
+      "Virchow's triad"
+    ]
+  },
+  {
+    "id": "path-12-2",
+    "title": "Embolism",
+    "course": "path",
+    "brick_id": "12",
+    "brick_title": "Thrombosis and its Consequences",
+    "type": "disease",
+    "buzzwords": [
+      "detached intravascular mass",
+      "travels to distant site",
+      "lodges in smaller vessel",
+      "most often a thrombus",
+      "fat after long-bone fracture",
+      "air bubbles in circulation",
+      "amniotic fluid type",
+      "pulmonary embolism"
+    ]
+  },
+  {
+    "id": "path-12-3",
+    "title": "Infarction",
+    "course": "path",
+    "brick_id": "12",
+    "brick_title": "Thrombosis and its Consequences",
+    "type": "disease",
+    "buzzwords": [
+      "ischemic necrosis",
+      "from vessel occlusion",
+      "dual supply more protected",
+      "slow occlusion spares tissue",
+      "brain dies in minutes",
+      "red infarct dual circulation",
+      "white infarct end-arterial",
+      "color names the tissue"
+    ]
+  },
+  {
+    "id": "path-12-4",
+    "title": "DIC",
+    "course": "path",
+    "brick_id": "12",
+    "brick_title": "Thrombosis and its Consequences",
+    "type": "disease",
+    "buzzwords": [
+      "thrombohemorrhagic disorder",
+      "uncontrolled coagulation",
+      "diffuse microthrombi",
+      "secondary complication",
+      "consumes platelets and factors",
+      "clotting and bleeding together",
+      "oozing from IV sites",
+      "tissue factor release"
+    ]
+  },
+  {
+    "id": "path-13-1",
+    "title": "Phases of Lab Testing",
+    "course": "path",
+    "brick_id": "13",
+    "brick_title": "Introduction to Clinical Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "total testing process",
+      "three phases",
+      "order to result",
+      "most errors here",
+      "specimen collection step",
+      "IV contamination risk",
+      "analytic vs post-analytic",
+      "pre-analytic phase"
+    ]
+  },
+  {
+    "id": "path-13-2",
+    "title": "Transfusion Medicine",
+    "course": "path",
+    "brick_id": "13",
+    "brick_title": "Introduction to Clinical Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "donation and transfusion",
+      "apheresis",
+      "blood typing",
+      "Rh typing",
+      "antibody screen",
+      "crossmatch products",
+      "accepts blood only",
+      "blood bank"
+    ]
+  },
+  {
+    "id": "path-13-3",
+    "title": "Clinical Chemistry",
+    "course": "path",
+    "brick_id": "13",
+    "brick_title": "Introduction to Clinical Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "biochemical techniques",
+      "most commonly ordered",
+      "electrolytes",
+      "liver function tests",
+      "glucose and proteins",
+      "lipid panel",
+      "therapeutic drug monitoring",
+      "tumor markers"
+    ]
+  },
+  {
+    "id": "path-13-4",
+    "title": "Hematology",
+    "course": "path",
+    "brick_id": "13",
+    "brick_title": "Introduction to Clinical Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "cell counts",
+      "body fluid analysis",
+      "clotting disorders",
+      "CBC with differential",
+      "detects anemia",
+      "coagulation testing",
+      "prothrombin time",
+      "partial thromboplastin time"
+    ]
+  },
+  {
+    "id": "path-13-5",
+    "title": "Immunology and Serology",
+    "course": "path",
+    "brick_id": "13",
+    "brick_title": "Introduction to Clinical Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "studies immune system",
+      "serum analysis",
+      "antibody testing",
+      "confirms immunity",
+      "autoimmune workup",
+      "rheumatoid factor",
+      "HLA typing for transplant",
+      "human leukocyte antigen"
+    ]
+  },
+  {
+    "id": "path-13-6",
+    "title": "Microbiology",
+    "course": "path",
+    "brick_id": "13",
+    "brick_title": "Introduction to Clinical Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "identifies micro-organisms",
+      "cultures",
+      "diagnoses infection",
+      "susceptibility testing",
+      "zone of inhibition",
+      "disk diffusion method",
+      "antibiogram trends",
+      "guides antibiotic choice"
+    ]
+  },
+  {
+    "id": "path-13-7",
+    "title": "Urinalysis",
+    "course": "path",
+    "brick_id": "13",
+    "brick_title": "Introduction to Clinical Pathology for Patient Care",
+    "type": "lab",
+    "buzzwords": [
+      "evaluates urine",
+      "visual appearance exam",
+      "dipstick chemical test",
+      "microscopic exam",
+      "checks pH and protein",
+      "glucose ketones bilirubin",
+      "leukocyte esterase",
+      "nitrites"
+    ]
+  },
+  {
+    "id": "path-15-1",
+    "title": "Systemic Lupus Erythematosus",
+    "course": "path",
+    "brick_id": "15",
+    "brick_title": "Diseases of the Immune System: Autoimmune Disease",
+    "type": "disease",
+    "buzzwords": [
+      "multisystem autoimmune disease",
+      "female predominance",
+      "photosensitivity",
+      "oral ulcers, serositis",
+      "type 3 hypersensitivity",
+      "butterfly malar rash",
+      "Libman-Sacks endocarditis",
+      "anti-dsDNA, anti-Smith"
+    ]
+  },
+  {
+    "id": "path-15-2",
+    "title": "Rheumatoid Arthritis",
+    "course": "path",
+    "brick_id": "15",
+    "brick_title": "Diseases of the Immune System: Autoimmune Disease",
+    "type": "disease",
+    "buzzwords": [
+      "symmetric joint inflammation",
+      "swollen warm painful joints",
+      "hands and feet",
+      "synovial hyperplasia",
+      "pannus erodes cartilage",
+      "CD4+ helper T cytokines",
+      "rheumatoid factor (IgM)",
+      "anti-CCP antibodies"
+    ]
+  },
+  {
+    "id": "path-15-3",
+    "title": "Goodpasture Syndrome",
+    "course": "path",
+    "brick_id": "15",
+    "brick_title": "Diseases of the Immune System: Autoimmune Disease",
+    "type": "disease",
+    "buzzwords": [
+      "kidney and lung injury",
+      "teens to 20s",
+      "male predominance",
+      "hemoptysis",
+      "rapidly progressive glomerulonephritis",
+      "treated with plasmapheresis",
+      "anti-collagen type IV",
+      "anti-basement membrane antibodies"
+    ]
+  },
+  {
+    "id": "path-15-4",
+    "title": "Granulomatosis with Polyangiitis",
+    "course": "path",
+    "brick_id": "15",
+    "brick_title": "Diseases of the Immune System: Autoimmune Disease",
+    "type": "disease",
+    "buzzwords": [
+      "small-vessel vasculitis",
+      "necrotizing granulomas",
+      "upper respiratory tract",
+      "saddle nose deformity",
+      "lung nodules and cavities",
+      "nephritic syndrome, hematuria",
+      "multinucleated giant cells",
+      "PR3-ANCA (c-ANCA)"
+    ]
+  },
+  {
+    "id": "path-15-5",
+    "title": "Henoch-Schonlein Purpura",
+    "course": "path",
+    "brick_id": "15",
+    "brick_title": "Diseases of the Immune System: Autoimmune Disease",
+    "type": "disease",
+    "buzzwords": [
+      "childhood syndrome",
+      "ages 3 to 8",
+      "palpable purpura",
+      "extensor surfaces and buttocks",
+      "abdominal pain, GI bleeding",
+      "arthralgias",
+      "immune complex deposition",
+      "IgA and C3 deposits"
+    ]
+  },
+  {
+    "id": "path-16-1",
+    "title": "Acute Rheumatic Fever",
+    "course": "path",
+    "brick_id": "16",
+    "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "follows strep pharyngitis",
+      "children 5-15 years",
+      "onset 2 weeks after infection",
+      "molecular mimicry of M protein",
+      "migratory polyarthritis",
+      "Sydenham chorea",
+      "Aschoff bodies, verrucae",
+      "mitral valve stenosis"
+    ]
+  },
+  {
+    "id": "path-16-2",
+    "title": "Poststreptococcal GN",
+    "course": "path",
+    "brick_id": "16",
+    "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "follows strep infection",
+      "children weeks after impetigo",
+      "hematuria, proteinuria",
+      "hypertension and azotemia",
+      "immune complex deposition",
+      "proliferative glomerulonephritis",
+      "subepithelial humps",
+      "granular IgG and C3"
+    ]
+  },
+  {
+    "id": "path-16-3",
+    "title": "Reactive Arthritis",
+    "course": "path",
+    "brick_id": "16",
+    "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "follows GU or GI infection",
+      "sterile synovial fluid",
+      "molecular mimicry, not direct invasion",
+      "arthritis, urethritis, conjunctivitis triad",
+      "Chlamydia or Shigella trigger",
+      "resolves within 6 months",
+      "no antibiotic treatment",
+      "HLA-B27 associated"
+    ]
+  },
+  {
+    "id": "path-16-4",
+    "title": "Chlamydia trachomatis",
+    "course": "path",
+    "brick_id": "16",
+    "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "gram-negative bacterium",
+      "obligate intracellular pathogen",
+      "cannot synthesize ATP",
+      "sexually transmitted",
+      "urethritis and cervicitis",
+      "often asymptomatic",
+      "neonatal conjunctivitis from birth canal",
+      "intracytoplasmic inclusions"
+    ]
+  },
+  {
+    "id": "path-16-5",
+    "title": "Neisseria gonorrhoeae",
+    "course": "path",
+    "brick_id": "16",
+    "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "gram-negative diplococci",
+      "intracellular within neutrophils",
+      "sexually transmitted",
+      "neonatal conjunctivitis",
+      "septic purulent arthritis",
+      "bacteria in synovial fluid",
+      "lacks polysaccharide capsule",
+      "pustules on palms and fingers"
+    ]
+  },
+  {
+    "id": "path-16-6",
+    "title": "Neisseria meningitidis",
+    "course": "path",
+    "brick_id": "16",
+    "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "gram-negative diplococci",
+      "polysaccharide capsule",
+      "escapes phagocytosis",
+      "nasopharyngeal carriage",
+      "spread by respiratory droplets",
+      "outbreaks in training camps",
+      "purulent meningitis, nuchal rigidity",
+      "vaccine preventable"
+    ]
+  },
+  {
+    "id": "path-16-7",
+    "title": "Sarcoidosis",
+    "course": "path",
+    "brick_id": "16",
+    "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+    "type": "disease",
+    "buzzwords": [
+      "systemic granulomatous disease",
+      "idiopathic etiology",
+      "young African-American women",
+      "diagnosis of exclusion",
+      "non-caseating granulomas",
+      "bilateral hilar lymphadenopathy",
+      "elevated serum ACE",
+      "asteroid bodies"
+    ]
+  },
+  {
+    "id": "path-17-1",
+    "title": "Points of Entry",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "agents cross epithelial surfaces",
+      "skin keratinized barrier",
+      "fatty acids and defensins",
+      "wounds bites catheters breach skin",
+      "gastric acid and IgA",
+      "mucociliary respiratory defense",
+      "urine flow flushes urethra",
+      "vertical placental transmission"
+    ]
+  },
+  {
+    "id": "path-17-2",
+    "title": "Microbial Dissemination",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "spread beyond initial site",
+      "uses lymphatics and blood",
+      "bacteria in blood is septicemia",
+      "lymph nodes then bloodstream",
+      "seeds heart causing endocarditis",
+      "IV drug use introduces bacteria",
+      "spread along peripheral nerves",
+      "retrograde axonal transport"
+    ]
+  },
+  {
+    "id": "path-17-3",
+    "title": "Person-to-Person Spread",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "transmission between hosts",
+      "skin shedding and direct contact",
+      "coughing and sneezing droplets",
+      "aerosolized airborne spread",
+      "fecal-oral via contaminated food",
+      "spores survive months on surfaces",
+      "sexual mucosal contact",
+      "insect and animal vector bites"
+    ]
+  },
+  {
+    "id": "path-17-4",
+    "title": "Suppurative Inflammation",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "histologic pattern of reaction",
+      "increased vascular permeability",
+      "neutrophil-dominated infiltrate",
+      "pus and purulence",
+      "localized collection is an abscess",
+      "caused by pyogenic bacteria",
+      "Staphylococcus aureus example",
+      "purulent exudate"
+    ]
+  },
+  {
+    "id": "path-17-5",
+    "title": "Mononuclear Inflammation",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "histologic pattern of reaction",
+      "lymphocyte-rich infiltrate",
+      "response to viruses",
+      "intracellular bacteria and parasites",
+      "seen with spirochetes",
+      "Treponema pallidum syphilis",
+      "macrophages form granulomas",
+      "caseating necrosis in tuberculosis"
+    ]
+  },
+  {
+    "id": "path-17-6",
+    "title": "Cytopathic Reaction",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "histologic pattern of reaction",
+      "damage inside the cell",
+      "viral aggregates and inclusions",
+      "multinucleation",
+      "HSV and CMV changes",
+      "epithelial proliferation by HPV",
+      "verrucous warts",
+      "epithelial detachment forms blisters"
+    ]
+  },
+  {
+    "id": "path-17-7",
+    "title": "Endotoxin (LPS)",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "outer membrane component",
+      "from gram-negative bacteria",
+      "lipid A is the active portion",
+      "detected by immune cells",
+      "pro-inflammatory cytokine release",
+      "complement activation",
+      "cytokine-induced hypotension",
+      "lipopolysaccharide"
+    ]
+  },
+  {
+    "id": "path-17-8",
+    "title": "Diphtheria Toxin",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "secreted exotoxin",
+      "A-B subunit structure",
+      "B binds and enters via endocytosis",
+      "A-component inhibits protein synthesis",
+      "blocks the ribosome",
+      "gray pharyngeal pseudomembrane",
+      "can cause myocarditis",
+      "Corynebacterium diphtheriae"
+    ]
+  },
+  {
+    "id": "path-17-9",
+    "title": "Superantigens",
+    "course": "path",
+    "brick_id": "17",
+    "brick_title": "Introduction to Infection",
+    "type": "physiology",
+    "buzzwords": [
+      "toxin-mediated mechanism",
+      "simulates robust immune response",
+      "massive unchecked cytokine release",
+      "enterotoxin acts on GI tract",
+      "food poisoning rapid vomiting",
+      "toxin acts without viable bacteria",
+      "Streptococcus pyogenes source",
+      "toxic shock syndrome"
+    ]
+  },
+  {
+    "id": "path-18-1",
+    "title": "Severe Congenital Neutropenia",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "disease",
+    "buzzwords": [
+      "inherited disorder",
+      "recurrent bacterial infections",
+      "diagnosed at birth",
+      "pus absent",
+      "soft tissue spread",
+      "no neutrophil opposition",
+      "markedly low neutrophils",
+      "severe congenital neutropenia"
+    ]
+  },
+  {
+    "id": "path-18-2",
+    "title": "Chediak-Higashi Syndrome",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent infections",
+      "bleeding tendency",
+      "giant cytoplasmic granules",
+      "partial albinism",
+      "silvery hair",
+      "neurologic defects",
+      "lysosomal trafficking defect",
+      "LYST gene mutation"
+    ]
+  },
+  {
+    "id": "path-18-3",
+    "title": "Leukocyte Adhesion Deficiency",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent infections",
+      "pus absent",
+      "no leukocyte migration",
+      "defective adhesion",
+      "endothelial binding fails",
+      "delayed cord separation",
+      "impaired integrin function",
+      "leukocyte adhesion deficiency"
+    ]
+  },
+  {
+    "id": "path-18-4",
+    "title": "Chronic Granulomatous Disease",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent infections",
+      "liver abscess",
+      "granulomatous inflammation",
+      "impaired intracellular killing",
+      "no respiratory burst",
+      "catalase-positive organisms",
+      "defective NADPH oxidase",
+      "chronic granulomatous disease"
+    ]
+  },
+  {
+    "id": "path-18-5",
+    "title": "Myeloperoxidase Deficiency",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "disease",
+    "buzzwords": [
+      "usually asymptomatic",
+      "neutrophil enzyme defect",
+      "no hypochlorous acid",
+      "hydrogen peroxide compensation",
+      "Candida in diabetics",
+      "heme-containing enzyme",
+      "MPO deficiency",
+      "myeloperoxidase deficiency"
+    ]
+  },
+  {
+    "id": "path-18-6",
+    "title": "Complement System",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "physiology",
+    "buzzwords": [
+      "innate immunity",
+      "enhances phagocytosis",
+      "opsonization",
+      "C3b coats pathogens",
+      "classical pathway by antibody",
+      "lyses microbes",
+      "transmembrane pore",
+      "membrane attack complex"
+    ]
+  },
+  {
+    "id": "path-18-7",
+    "title": "Interferons",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "physiology",
+    "buzzwords": [
+      "antiviral cytokine",
+      "made by infected cells",
+      "induced by dsRNA",
+      "stops protein synthesis",
+      "blocks viral replication",
+      "activates oligosynthetase",
+      "degrades mRNA",
+      "inhibits eIF-2"
+    ]
+  },
+  {
+    "id": "path-18-8",
+    "title": "Listeria monocytogenes",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "disease",
+    "buzzwords": [
+      "intracellular pathogen",
+      "gram-positive bacillus",
+      "from dairy products",
+      "crosses placenta",
+      "escapes phagosome",
+      "cell-to-cell spread",
+      "actin comet tail",
+      "listeriolysin O"
+    ]
+  },
+  {
+    "id": "path-18-9",
+    "title": "Antigenic Variation",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "physiology",
+    "buzzwords": [
+      "evades adaptive immunity",
+      "changes surface antigens",
+      "escapes antibody attack",
+      "alters pili proteins",
+      "homologous recombination of pilin",
+      "OPA gene mutations",
+      "new epitopes unrecognized",
+      "Neisseria strategy"
+    ]
+  },
+  {
+    "id": "path-19-1",
+    "title": "M. tuberculosis",
+    "course": "path",
+    "brick_id": "19",
+    "brick_title": "Chronic Infections (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "aerobic rod",
+      "waxy cell wall",
+      "spread via droplets",
+      "survives in macrophages",
+      "blocks phagolysosome formation",
+      "Th1 / IFN-gamma response",
+      "acid-fast bacilli",
+      "caseating granuloma"
+    ]
+  },
+  {
+    "id": "path-19-2",
+    "title": "Primary syphilis",
+    "course": "path",
+    "brick_id": "19",
+    "brick_title": "Chronic Infections (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "spirochete infection",
+      "sexually transmitted",
+      "site of inoculation",
+      "appears ~3 weeks",
+      "painless lesion",
+      "solitary ulcer",
+      "plasma cell infiltrate",
+      "chancre"
+    ]
+  },
+  {
+    "id": "path-19-3",
+    "title": "Secondary syphilis",
+    "course": "path",
+    "brick_id": "19",
+    "brick_title": "Chronic Infections (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "disseminated infection",
+      "2-8 weeks after chancre",
+      "multiple skin lesions",
+      "palms and soles rash",
+      "patchy alopecia",
+      "endarteritis of small vessels",
+      "maculopapular rash",
+      "condylomata lata"
+    ]
+  },
+  {
+    "id": "path-19-4",
+    "title": "Tertiary syphilis",
+    "course": "path",
+    "brick_id": "19",
+    "brick_title": "Chronic Infections (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "years after infection",
+      "aortic root dilation",
+      "ascending aortic aneurysm",
+      "meningovascular meningitis",
+      "general paresis dementia",
+      "posterior column degeneration",
+      "tabes dorsalis",
+      "Argyll Robertson pupil"
+    ]
+  },
+  {
+    "id": "path-19-5",
+    "title": "Congenital syphilis",
+    "course": "path",
+    "brick_id": "19",
+    "brick_title": "Chronic Infections (1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "placental transmission",
+      "intrauterine fetal death",
+      "nasal discharge snuffles",
+      "hepatosplenomegaly",
+      "interstitial keratitis",
+      "saber shins",
+      "saddle nose deformity",
+      "Hutchinson teeth"
+    ]
+  },
+  {
+    "id": "path-20-1",
+    "title": "Lyme Disease",
+    "course": "path",
+    "brick_id": "20",
+    "brick_title": "Chronic Infections (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "tick-borne spirochete",
+      "antigenic variance evades antibodies",
+      "VlsE surface protein switching",
+      "early localized stage",
+      "annular rash, pale center",
+      "late stage arthritis",
+      "bullseye target lesion",
+      "Borrelia burgdorferi, erythema migrans"
+    ]
+  },
+  {
+    "id": "path-20-2",
+    "title": "HIV Infection",
+    "course": "path",
+    "brick_id": "20",
+    "brick_title": "Chronic Infections (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "retrovirus, diploid RNA",
+      "reverse transcriptase makes DNA",
+      "infects CD4+ T cells",
+      "vertical transmission possible",
+      "acute retroviral syndrome",
+      "fever, myalgia, sore throat",
+      "chronic phase clinical latency",
+      "HIV-1 RNA viral load"
+    ]
+  },
+  {
+    "id": "path-20-3",
+    "title": "AIDS",
+    "course": "path",
+    "brick_id": "20",
+    "brick_title": "Chronic Infections (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "profound immunosuppression",
+      "final stage of HIV",
+      "opportunistic infections",
+      "secondary neoplasms",
+      "neurocognitive decline",
+      "weight loss, diarrhea",
+      "develops after ~7-10 years",
+      "CD4+ count under 200"
+    ]
+  },
+  {
+    "id": "path-20-4",
+    "title": "Pneumocystis Pneumonia",
+    "course": "path",
+    "brick_id": "20",
+    "brick_title": "Chronic Infections (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "AIDS-defining fungal pneumonia",
+      "dyspnea, dry cough",
+      "respiratory failure if untreated",
+      "bilateral interstitial infiltrates",
+      "ground-glass opacities on CT",
+      "bronchoalveolar lavage diagnosis",
+      "GMS stains cyst walls",
+      "Pneumocystis jirovecii"
+    ]
+  },
+  {
+    "id": "path-20-5",
+    "title": "Toxoplasma Encephalitis",
+    "course": "path",
+    "brick_id": "20",
+    "brick_title": "Chronic Infections (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "AIDS-defining brain infection",
+      "reactivation in immunocompromised",
+      "ring-enhancing brain lesions",
+      "multiple abscesses, necrotic foci",
+      "MRI shows enhancing lesions",
+      "neurologic deficits",
+      "immunohistochemistry highlights organisms",
+      "Toxoplasma gondii"
+    ]
+  },
+  {
+    "id": "path-20-6",
+    "title": "CMV Disease",
+    "course": "path",
+    "brick_id": "20",
+    "brick_title": "Chronic Infections (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "reactivates in AIDS",
+      "colitis",
+      "meningoencephalitis",
+      "leptomeninges and brain",
+      "retinitis causes blindness",
+      "fundus inflammation, hemorrhage",
+      "common in transplant patients",
+      "cytomegalovirus"
+    ]
+  },
+  {
+    "id": "path-20-7",
+    "title": "Kaposi Sarcoma",
+    "course": "path",
+    "brick_id": "20",
+    "brick_title": "Chronic Infections (2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "AIDS-associated neoplasm",
+      "vascular tumor",
+      "cutaneous, mucosal, visceral lesions",
+      "violaceous patches and plaques",
+      "proliferating endothelial cells",
+      "bland spindled cells",
+      "human herpesvirus-8",
+      "HHV8 (KSHV)"
+    ]
+  },
+  {
+    "id": "path-21-1",
+    "title": "Graft Types",
+    "course": "path",
+    "brick_id": "21",
+    "brick_title": "Diseases of the Immune System: Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "four graft categories",
+      "donor-recipient relationship",
+      "same-body transfer",
+      "genetically identical donor",
+      "twins are identical",
+      "cross-species graft",
+      "autograft, isograft, allograft",
+      "xenograft"
+    ]
+  },
+  {
+    "id": "path-21-2",
+    "title": "ABO Blood Matching",
+    "course": "path",
+    "brick_id": "21",
+    "brick_title": "Diseases of the Immune System: Transplantation",
+    "type": "lab",
+    "buzzwords": [
+      "first screening step",
+      "RBC surface antigens",
+      "A and B antigens",
+      "type O lacks A/B antigens",
+      "type AB has both",
+      "preformed anti-A/anti-B",
+      "type O universal donor",
+      "ABO-incompatible only special cases"
+    ]
+  },
+  {
+    "id": "path-21-3",
+    "title": "HLA Complex",
+    "course": "path",
+    "brick_id": "21",
+    "brick_title": "Diseases of the Immune System: Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "self vs non-self",
+      "chromosome 6 short arm",
+      "highly polymorphic genes",
+      "class I and class II key",
+      "12 total class I/II genes",
+      "codominant haplotype expression",
+      "HLA-A, HLA-B, HLA-C",
+      "MHC receptors"
+    ]
+  },
+  {
+    "id": "path-21-4",
+    "title": "Organ Allocation",
+    "course": "path",
+    "brick_id": "21",
+    "brick_title": "Diseases of the Immune System: Transplantation",
+    "type": "physiology",
+    "buzzwords": [
+      "demand exceeds supply",
+      "rank-order candidate list",
+      "weighs urgency and waiting time",
+      "geographic distance counts",
+      "ABO and HLA typing",
+      "established 1984",
+      "Status 1 supersedes MELD",
+      "UNOS / OPTN"
+    ]
+  },
+  {
+    "id": "path-21-5",
+    "title": "Donor Liver Pathology",
+    "course": "path",
+    "brick_id": "21",
+    "brick_title": "Diseases of the Immune System: Transplantation",
+    "type": "imaging",
+    "buzzwords": [
+      "frozen section viability",
+      "graded for transplant use",
+      "portal tract inflammation",
+      "collagen fibrosis",
+      "coagulative hepatocyte necrosis",
+      "fat droplets in cells",
+      ">30% steatosis relative contraindication",
+      ">60% macrovesicular absolute contraindication"
+    ]
+  },
+  {
+    "id": "path-21-6",
+    "title": "Donor Kidney Pathology",
+    "course": "path",
+    "brick_id": "21",
+    "brick_title": "Diseases of the Immune System: Transplantation",
+    "type": "imaging",
+    "buzzwords": [
+      "frozen section at procurement",
+      "extended-criteria donors",
+      "interstitial fibrosis, inflammation",
+      "arterial sclerosis intimal thickening",
+      "eosinophilic vessel wall deposit",
+      "arteriolar hyalinization",
+      "global glomerulosclerosis",
+      ">50% glomerulus hyalinized"
+    ]
+  },
+  {
+    "id": "path-21-7",
+    "title": "Long-Term Consequences",
+    "course": "path",
+    "brick_id": "21",
+    "brick_title": "Diseases of the Immune System: Transplantation",
+    "type": "disease",
+    "buzzwords": [
+      "lifelong immunosuppression",
+      "secondary immunodeficiency",
+      "infection most common",
+      "increased malignancy risk",
+      "primary disease recurrence",
+      "latent virus reactivation",
+      "EBV-driven lymphoma",
+      "PEH recurs up to 30%"
+    ]
+  },
+  {
+    "id": "path-22-1",
+    "title": "Hyperacute Rejection",
+    "course": "path",
+    "brick_id": "22",
+    "brick_title": "Diseases of the Immune System: Transplant Rejection",
+    "type": "disease",
+    "buzzwords": [
+      "graft rejection",
+      "minutes to hours",
+      "pre-formed antibodies",
+      "type II hypersensitivity",
+      "anti-ABO antibodies",
+      "complement activation",
+      "endothelial thrombosis",
+      "ischemia and necrosis"
+    ]
+  },
+  {
+    "id": "path-22-2",
+    "title": "Acute Rejection",
+    "course": "path",
+    "brick_id": "22",
+    "brick_title": "Diseases of the Immune System: Transplant Rejection",
+    "type": "disease",
+    "buzzwords": [
+      "graft rejection",
+      "weeks to months",
+      "cellular and humoral",
+      "responds to immunosuppression",
+      "CD8 T cells kill graft",
+      "tubulitis",
+      "endothelialitis",
+      "rejection vasculitis"
+    ]
+  },
+  {
+    "id": "path-22-3",
+    "title": "Chronic Rejection",
+    "course": "path",
+    "brick_id": "22",
+    "brick_title": "Diseases of the Immune System: Transplant Rejection",
+    "type": "disease",
+    "buzzwords": [
+      "graft rejection",
+      "months to years",
+      "cellular and humoral",
+      "smooth muscle proliferation",
+      "vessel wall thickening",
+      "vessel occlusion",
+      "graft arteriosclerosis",
+      "interstitial fibrosis"
+    ]
+  },
+  {
+    "id": "path-22-4",
+    "title": "Graft-Versus-Host Disease",
+    "course": "path",
+    "brick_id": "22",
+    "brick_title": "Diseases of the Immune System: Transplant Rejection",
+    "type": "disease",
+    "buzzwords": [
+      "bone marrow transplant complication",
+      "donor cells attack recipient",
+      "allogeneic transplant",
+      "donor T lymphocytes",
+      "maculopapular rash",
+      "jaundice and diarrhea",
+      "hepatosplenomegaly",
+      "skin liver gut targeted"
+    ]
+  },
+  {
+    "id": "path-23-1",
+    "title": "Crohn's Disease",
+    "course": "path",
+    "brick_id": "23",
+    "brick_title": "Immune-related and Infectious Causes of Diarrhea",
+    "type": "disease",
+    "buzzwords": [
+      "chronic diarrhea",
+      "immune-mediated IBD",
+      "any GI segment",
+      "transmural inflammation",
+      "skip lesions",
+      "non-caseating granulomas",
+      "cobblestone mucosa",
+      "mouth-to-anus"
+    ]
+  },
+  {
+    "id": "path-23-2",
+    "title": "Ulcerative Colitis",
+    "course": "path",
+    "brick_id": "23",
+    "brick_title": "Immune-related and Infectious Causes of Diarrhea",
+    "type": "disease",
+    "buzzwords": [
+      "bloody diarrhea",
+      "immune-mediated IBD",
+      "continuous involvement",
+      "mucosa and submucosa only",
+      "colon and rectum",
+      "no granulomas",
+      "starts at rectum",
+      "primary sclerosing cholangitis"
+    ]
+  },
+  {
+    "id": "path-23-3",
+    "title": "Celiac Disease",
+    "course": "path",
+    "brick_id": "23",
+    "brick_title": "Immune-related and Infectious Causes of Diarrhea",
+    "type": "disease",
+    "buzzwords": [
+      "malabsorption",
+      "gluten-triggered",
+      "response to gliadin",
+      "duodenal villous atrophy",
+      "crypt hyperplasia",
+      "gluten-free diet treats",
+      "anti-tTG antibodies",
+      "associated dermatitis herpetiformis"
+    ]
+  },
+  {
+    "id": "path-23-4",
+    "title": "Dermatitis Herpetiformis",
+    "course": "path",
+    "brick_id": "23",
+    "brick_title": "Immune-related and Infectious Causes of Diarrhea",
+    "type": "disease",
+    "buzzwords": [
+      "intensely pruritic rash",
+      "blistering skin disease",
+      "extensor surfaces",
+      "IgA-mediated",
+      "celiac association",
+      "anti-reticulin antibodies",
+      "gluten-sensitive",
+      "responds to gluten withdrawal"
+    ]
+  },
+  {
+    "id": "path-23-5",
+    "title": "Bacterial Enterocolitis",
+    "course": "path",
+    "brick_id": "23",
+    "brick_title": "Immune-related and Infectious Causes of Diarrhea",
+    "type": "disease",
+    "buzzwords": [
+      "infectious diarrhea",
+      "fecal-oral spread",
+      "E. coli",
+      "Salmonella",
+      "Shigella",
+      "reactive arthritis sequela",
+      "Guillain-Barre risk",
+      "Campylobacter jejuni"
+    ]
+  },
+  {
+    "id": "path-23-6",
+    "title": "Viral Cytopathic Inclusions",
+    "course": "path",
+    "brick_id": "23",
+    "brick_title": "Immune-related and Infectious Causes of Diarrhea",
+    "type": "disease",
+    "buzzwords": [
+      "immunocompromised diarrhea",
+      "intranuclear inclusions",
+      "multinucleation",
+      "chromatin margination",
+      "nuclear molding",
+      "owl's eye inclusions",
+      "cytomegalovirus",
+      "herpes simplex virus"
+    ]
+  },
+  {
+    "id": "path-24-1",
+    "title": "Autoimmune Hepatitis",
+    "course": "path",
+    "brick_id": "24",
+    "brick_title": "Infectious/Inflammatory Causes of Jaundice",
+    "type": "disease",
+    "buzzwords": [
+      "chronic progressive hepatitis",
+      "female predominance",
+      "responds to immunosuppression",
+      "elevated transaminases",
+      "interface hepatitis",
+      "plasma cell clusters",
+      "anti-smooth muscle antibody",
+      "anti-LKM-1 antibody"
+    ]
+  },
+  {
+    "id": "path-24-2",
+    "title": "Primary Biliary Cholangitis",
+    "course": "path",
+    "brick_id": "24",
+    "brick_title": "Infectious/Inflammatory Causes of Jaundice",
+    "type": "disease",
+    "buzzwords": [
+      "autoimmune cholestasis",
+      "strong female predominance",
+      "fatigue and pruritis",
+      "small intrahepatic ducts",
+      "elevated alkaline phosphatase",
+      "granulomatous duct destruction",
+      "florid duct lesion",
+      "anti-mitochondrial antibody"
+    ]
+  },
+  {
+    "id": "path-24-3",
+    "title": "Primary Sclerosing Cholangitis",
+    "course": "path",
+    "brick_id": "24",
+    "brick_title": "Infectious/Inflammatory Causes of Jaundice",
+    "type": "disease",
+    "buzzwords": [
+      "obliterative bile duct fibrosis",
+      "male predominance",
+      "ulcerative colitis association",
+      "large intrahepatic ducts",
+      "periductal fibrosis",
+      "onion-skin scarring",
+      "beading on MRCP",
+      "elevated p-ANCA"
+    ]
+  },
+  {
+    "id": "path-24-4",
+    "title": "Viral Hepatitis (HCV)",
+    "course": "path",
+    "brick_id": "24",
+    "brick_title": "Infectious/Inflammatory Causes of Jaundice",
+    "type": "disease",
+    "buzzwords": [
+      "chronic active infection",
+      "parenteral transmission",
+      "IV drug use",
+      "relapsing transaminase elevation",
+      "portal lymphocytic inflammation",
+      "bridging fibrosis",
+      "HCV RNA PCR positive",
+      "anti-HCV antibodies"
+    ]
+  },
+  {
+    "id": "path-25-1",
+    "title": "Neoplasm",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "physiology",
+    "buzzwords": [
+      "new abnormal growth",
+      "unregulated proliferation",
+      "tumor synonym",
+      "derived from one mother cell",
+      "monoclonal",
+      "clonal expansion",
+      "neo means new",
+      "neoplasia"
+    ]
+  },
+  {
+    "id": "path-25-2",
+    "title": "Malignant Tumor",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "disease",
+    "buzzwords": [
+      "invades local tissue",
+      "high mitotic activity",
+      "contains necrosis",
+      "no capsule",
+      "worse prognosis",
+      "ability to metastasize",
+      "spreads to distant sites",
+      "cancerous"
+    ]
+  },
+  {
+    "id": "path-25-3",
+    "title": "Benign Tumor",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "disease",
+    "buzzwords": [
+      "grows slowly",
+      "usually small",
+      "little mitotic activity",
+      "no necrosis",
+      "well-differentiated",
+      "surrounded by capsule",
+      "does not metastasize",
+      "better prognosis"
+    ]
+  },
+  {
+    "id": "path-25-4",
+    "title": "Tumor Differentiation",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "physiology",
+    "buzzwords": [
+      "resemblance to cell of origin",
+      "well-differentiated looks normal",
+      "poorly differentiated",
+      "guides tumor grade",
+      "no resemblance at all",
+      "undifferentiated cells",
+      "extreme far end",
+      "anaplasia"
+    ]
+  },
+  {
+    "id": "path-25-5",
+    "title": "Metaplasia",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "physiology",
+    "buzzwords": [
+      "one cell type replaces another",
+      "change at stem cell level",
+      "adaptive to chronic stress",
+      "reversible",
+      "airway columnar to squamous",
+      "squamous to columnar in esophagus",
+      "goblet cells appear",
+      "Barrett esophagus"
+    ]
+  },
+  {
+    "id": "path-25-6",
+    "title": "Dysplasia",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "physiology",
+    "buzzwords": [
+      "disordered growth",
+      "pleomorphism",
+      "hyperchromatic nuclei",
+      "high nuclear-to-cytoplasmic ratio",
+      "loss of polarity",
+      "precedes cancer",
+      "graded mild to severe",
+      "cervical CIN grading"
+    ]
+  },
+  {
+    "id": "path-25-7",
+    "title": "Carcinoma In Situ",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "disease",
+    "buzzwords": [
+      "follows severe dysplasia",
+      "cancerous cells",
+      "pre-invasive",
+      "basement membrane intact",
+      "earliest stage of cancer",
+      "has not metastasized",
+      "removal is curative",
+      "stage 0"
+    ]
+  },
+  {
+    "id": "path-25-8",
+    "title": "Tumor Nomenclature",
+    "course": "path",
+    "brick_id": "25",
+    "brick_title": "Introduction to Neoplasia",
+    "type": "physiology",
+    "buzzwords": [
+      "named by tissue of origin",
+      "-oma suffix is benign",
+      "adeno- means glandular",
+      "epithelial malignancy is carcinoma",
+      "mesenchymal malignancy is sarcoma",
+      "leiomyoma is benign muscle",
+      "lymphoma and melanoma are malignant",
+      "nevus is benign melanocyte"
+    ]
+  },
+  {
+    "id": "path-26-1",
+    "title": "Tumor Invasion",
+    "course": "path",
+    "brick_id": "26",
+    "brick_title": "Cancer Growth and Metastasis",
+    "type": "physiology",
+    "buzzwords": [
+      "first metastatic step",
+      "breaks cell-cell contact",
+      "degrades basement membrane",
+      "tumor-secreted proteases",
+      "amoeboid migration",
+      "overexpresses laminin receptors",
+      "loss of E-cadherin",
+      "cleaves extracellular matrix"
+    ]
+  },
+  {
+    "id": "path-26-2",
+    "title": "Intravasation",
+    "course": "path",
+    "brick_id": "26",
+    "brick_title": "Cancer Growth and Metastasis",
+    "type": "physiology",
+    "buzzwords": [
+      "entry into vessels",
+      "into blood or lymphatics",
+      "most cells die in transit",
+      "shear-stress death",
+      "anoikis from lost adhesion",
+      "tumor cells clump together",
+      "platelet-coated emboli",
+      "stuck at first capillary bed"
+    ]
+  },
+  {
+    "id": "path-26-3",
+    "title": "Extravasation",
+    "course": "path",
+    "brick_id": "26",
+    "brick_title": "Cancer Growth and Metastasis",
+    "type": "physiology",
+    "buzzwords": [
+      "exit from bloodstream",
+      "growth at secondary site",
+      "needs favorable stroma",
+      "organ tropism",
+      "chemokine receptor homing",
+      "escape from dormancy",
+      "secretes growth factors",
+      "seed and soil"
+    ]
+  },
+  {
+    "id": "path-26-4",
+    "title": "Lymphatic Spread",
+    "course": "path",
+    "brick_id": "26",
+    "brick_title": "Cancer Growth and Metastasis",
+    "type": "physiology",
+    "buzzwords": [
+      "low-shear pathway",
+      "leaky vessel junctions",
+      "typical of carcinomas",
+      "follows lymphatic drainage",
+      "regional node involvement",
+      "sentinel node first",
+      "axillary nodes in breast cancer",
+      "epithelial-derived tumors"
+    ]
+  },
+  {
+    "id": "path-26-5",
+    "title": "Hematogenous Spread",
+    "course": "path",
+    "brick_id": "26",
+    "brick_title": "Cancer Growth and Metastasis",
+    "type": "physiology",
+    "buzzwords": [
+      "via arteries or veins",
+      "typical of sarcomas",
+      "follows venous drainage",
+      "liver and lung common sites",
+      "portal drainage to liver",
+      "IVC drainage to lung",
+      "follicular thyroid carcinoma",
+      "renal cell carcinoma"
+    ]
+  },
+  {
+    "id": "path-26-6",
+    "title": "Seeding",
+    "course": "path",
+    "brick_id": "26",
+    "brick_title": "Cancer Growth and Metastasis",
+    "type": "physiology",
+    "buzzwords": [
+      "spreads through open spaces",
+      "needs a body cavity",
+      "peritoneal cavity",
+      "pleural cavity",
+      "joint cavities",
+      "subarachnoid space",
+      "glioblastoma drop metastases",
+      "ovarian carcinoma omental caking"
+    ]
+  },
+  {
+    "id": "path-27-1",
+    "title": "EGFR",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "receptor tyrosine kinase",
+      "pro-growth signaling",
+      "cough and dyspnea",
+      "hemoptysis",
+      "never-smokers",
+      "lung adenocarcinoma",
+      "treated with necitumumab",
+      "cetuximab in colorectal"
+    ]
+  },
+  {
+    "id": "path-27-2",
+    "title": "RAS family",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "membrane-bound G proteins",
+      "GTP-bound is active",
+      "GDP-bound is inactive",
+      "on/off switch",
+      "GTPase-activating proteins limit",
+      "point mutations activate",
+      "HRAS, KRAS, NRAS",
+      "KRAS in pancreatic cancer"
+    ]
+  },
+  {
+    "id": "path-27-3",
+    "title": "BRAF",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "RAF family kinase",
+      "phosphorylates MEK",
+      "drives MAPK pathway",
+      "UV light exposure",
+      "brown irregular skin lesion",
+      "transformed melanocytes",
+      "cutaneous melanoma",
+      "dabrafenib inhibitor"
+    ]
+  },
+  {
+    "id": "path-27-4",
+    "title": "PI3K/AKT pathway",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "pro-growth and survival",
+      "generates PIP3",
+      "activates AKT kinase",
+      "leads to mTOR",
+      "PTEN reverses it",
+      "PIK3CA gain-of-function",
+      "breast carcinoma",
+      "treated with alpelisib"
+    ]
+  },
+  {
+    "id": "path-27-5",
+    "title": "BCR::ABL",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "constitutive tyrosine kinase",
+      "chromosomal translocation",
+      "leukocytosis with eosinophilia",
+      "small hypolobated megakaryocytes",
+      "chronic myeloid leukemia",
+      "t(9;22)",
+      "Philadelphia chromosome",
+      "imatinib treats it"
+    ]
+  },
+  {
+    "id": "path-27-6",
+    "title": "MYC",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "transcription factor",
+      "activates growth genes",
+      "drives cell cycle",
+      "ribosome assembly",
+      "pluripotency",
+      "downstream of Ras",
+      "proto-oncogene",
+      "overexpression unleashes growth"
+    ]
+  },
+  {
+    "id": "path-27-7",
+    "title": "Neuroblastoma",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "neural crest origin",
+      "pediatric tumor",
+      "abdominal distension",
+      "small round blue cells",
+      "arises in adrenal gland",
+      "Homer Wright rosettes",
+      "MYCN amplification",
+      "amplification poor prognosis"
+    ]
+  },
+  {
+    "id": "path-27-8",
+    "title": "Burkitt lymphoma",
+    "course": "path",
+    "brick_id": "27",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "neoplastic B cells",
+      "medium-sized lymphocytes",
+      "tingible-body macrophages",
+      "starry sky appearance",
+      "t(8;14)",
+      "IG::MYC rearrangement",
+      "MYC overexpressed",
+      "IG heavy chain locus"
+    ]
+  },
+  {
+    "id": "path-28-1",
+    "title": "RB1 Retinoblastoma",
+    "course": "path",
+    "brick_id": "28",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "tumor suppressor",
+      "needs two hits",
+      "halts cell cycle",
+      "pediatric eye tumor",
+      "blocks G1 to S",
+      "leukocoria white reflex",
+      "bilateral if germline",
+      "Knudson two-hit hypothesis"
+    ]
+  },
+  {
+    "id": "path-28-2",
+    "title": "TP53",
+    "course": "path",
+    "brick_id": "28",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "tumor suppressor",
+      "responds to DNA damage",
+      "mutated in half of cancers",
+      "degraded by MDM2",
+      "forms active tetramer",
+      "triggers apoptosis via BAX",
+      "guardian of the genome",
+      "germline loss is Li-Fraumeni"
+    ]
+  },
+  {
+    "id": "path-28-3",
+    "title": "APC Colon Cancer",
+    "course": "path",
+    "brick_id": "28",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "tumor suppressor",
+      "WNT pathway component",
+      "part of destruction complex",
+      "degrades beta-catenin",
+      "loss drives proliferation",
+      "first hit in colon adenoma",
+      "hundreds of colonic polyps",
+      "germline loss is FAP"
+    ]
+  },
+  {
+    "id": "path-28-4",
+    "title": "Neurofibromatosis 1",
+    "course": "path",
+    "brick_id": "28",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+    "type": "disease",
+    "buzzwords": [
+      "tumor suppressor loss",
+      "autosomal dominant",
+      "chromosome 17",
+      "unchecked Ras signaling",
+      "cafe-au-lait macules",
+      "cutaneous neurofibromas",
+      "GTPase-activating protein lost",
+      "neurofibromin deficiency"
+    ]
+  },
+  {
+    "id": "path-28-5",
+    "title": "Hallmarks of Cancer",
+    "course": "path",
+    "brick_id": "28",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "fundamental cancer traits",
+      "sustained proliferative signaling",
+      "evades growth suppressors",
+      "resists apoptosis",
+      "replicative immortality",
+      "induces angiogenesis",
+      "invasion and metastasis",
+      "eight hallmarks total"
+    ]
+  },
+  {
+    "id": "path-28-6",
+    "title": "Neoplastic Progression",
+    "course": "path",
+    "brick_id": "28",
+    "brick_title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+    "type": "physiology",
+    "buzzwords": [
+      "stepwise mutation accumulation",
+      "starts with initiating mutation",
+      "driver versus passenger mutations",
+      "Darwinian subclone selection",
+      "genetically heterogeneous tumor",
+      "epigenetic silencing contributes",
+      "promoter hypermethylation off-switch",
+      "adenoma-carcinoma sequence"
+    ]
+  },
+  {
+    "id": "path-30-1",
+    "title": "Antigen Masking",
+    "course": "path",
+    "brick_id": "30",
+    "brick_title": "Cancer Immune Evasion",
+    "type": "physiology",
+    "buzzwords": [
+      "immune evasion",
+      "hides surface antigens",
+      "thick surface coating",
+      "secreted matrix material",
+      "masks tumor antigens",
+      "blocks immune targeting",
+      "excess extracellular matrix",
+      "glycocalyx overproduction"
+    ]
+  },
+  {
+    "id": "path-30-2",
+    "title": "Antigen Variants",
+    "course": "path",
+    "brick_id": "30",
+    "brick_title": "Cancer Immune Evasion",
+    "type": "physiology",
+    "buzzwords": [
+      "immune evasion",
+      "less immunogenic subclones",
+      "selective survival",
+      "loses surface antigen",
+      "downregulates antigen",
+      "escapes immune recognition",
+      "CAR-T CD19 escape",
+      "antigen-negative variants"
+    ]
+  },
+  {
+    "id": "path-30-3",
+    "title": "Loss of MHC",
+    "course": "path",
+    "brick_id": "30",
+    "brick_title": "Cancer Immune Evasion",
+    "type": "physiology",
+    "buzzwords": [
+      "immune evasion",
+      "changed cell identity",
+      "evades cytotoxic T cells",
+      "antigen no longer displayed",
+      "mutation in receptor",
+      "lost surface receptor",
+      "MHC class I deficient",
+      "no MHC presentation"
+    ]
+  },
+  {
+    "id": "path-30-4",
+    "title": "Lack of Co-Stimulation",
+    "course": "path",
+    "brick_id": "30",
+    "brick_title": "Cancer Immune Evasion",
+    "type": "physiology",
+    "buzzwords": [
+      "immune evasion",
+      "second signal missing",
+      "T cell anergy",
+      "drives T cell apoptosis",
+      "inhibits T cell activation",
+      "upregulated inhibitory receptor",
+      "binds B7 ligand",
+      "CTLA-4 overexpression"
+    ]
+  },
+  {
+    "id": "path-30-5",
+    "title": "TGF-beta Secretion",
+    "course": "path",
+    "brick_id": "30",
+    "brick_title": "Cancer Immune Evasion",
+    "type": "physiology",
+    "buzzwords": [
+      "immune evasion",
+      "secreted cytokine",
+      "potent immunosuppressant",
+      "suppresses B and T cells",
+      "dampens dendritic cells",
+      "inhibits macrophages",
+      "tumor secretes in excess",
+      "TGF-beta"
+    ]
+  },
+  {
+    "id": "path-30-6",
+    "title": "Checkpoint Pathways",
+    "course": "path",
+    "brick_id": "30",
+    "brick_title": "Cancer Immune Evasion",
+    "type": "physiology",
+    "buzzwords": [
+      "immune evasion",
+      "negative regulatory pathway",
+      "inhibits T cell activity",
+      "cell surface ligand",
+      "checkpoint blockade target",
+      "activates death receptor",
+      "PD-1 receptor engagement",
+      "PD-L1 and PD-L2"
+    ]
+  },
+  {
+    "id": "path-30-7",
+    "title": "FasL Apoptosis",
+    "course": "path",
+    "brick_id": "30",
+    "brick_title": "Cancer Immune Evasion",
+    "type": "physiology",
+    "buzzwords": [
+      "immune evasion",
+      "kills attacking T cells",
+      "extrinsic apoptosis pathway",
+      "tumor expresses death ligand",
+      "binds T cell receptor",
+      "melanoma and hepatocellular",
+      "triggers cytotoxic T death",
+      "Fas-FasL binding"
+    ]
+  },
+  {
+    "id": "path-31-1",
+    "title": "Genomic Instability",
+    "course": "path",
+    "brick_id": "31",
+    "brick_title": "Hallmarks of Neoplasia: Genomic Instability",
+    "type": "physiology",
+    "buzzwords": [
+      "hallmark of cancer",
+      "mutator phenotype",
+      "increased mutation propensity",
+      "70,000 lesions daily",
+      "unrepaired lesions become mutations",
+      "cell-cycle checkpoints halt division",
+      "defective DNA repair",
+      "drives carcinogenesis"
+    ]
+  },
+  {
+    "id": "path-31-2",
+    "title": "Xeroderma Pigmentosum",
+    "course": "path",
+    "brick_id": "31",
+    "brick_title": "Hallmarks of Neoplasia: Genomic Instability",
+    "type": "disease",
+    "buzzwords": [
+      "extreme photosensitivity",
+      "severe sunburn in minutes",
+      "freckling in sun-exposed skin",
+      "high skin cancer risk",
+      "humans lack photolyase",
+      "fails to fix pyrimidine dimers",
+      "defective nucleotide excision repair",
+      "xeroderma pigmentosum"
+    ]
+  },
+  {
+    "id": "path-31-3",
+    "title": "Lynch Syndrome",
+    "course": "path",
+    "brick_id": "31",
+    "brick_title": "Hallmarks of Neoplasia: Genomic Instability",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal dominant",
+      "microsatellite instability",
+      "colorectal and endometrial cancer",
+      "cecum and proximal colon",
+      "three relatives, two generations",
+      "MLH1, MSH2, MSH6, PMS2",
+      "defective mismatch repair",
+      "hereditary nonpolyposis colorectal cancer"
+    ]
+  },
+  {
+    "id": "path-31-4",
+    "title": "BRCA Cancers",
+    "course": "path",
+    "brick_id": "31",
+    "brick_title": "Hallmarks of Neoplasia: Genomic Instability",
+    "type": "disease",
+    "buzzwords": [
+      "breast and ovarian cancer",
+      "contralateral breast risk",
+      "male breast cancer",
+      "prostate and pancreatic cancer",
+      "prophylactic mastectomy",
+      "salpingo-oophorectomy",
+      "defective homologous recombination",
+      "BRCA1 and BRCA2"
+    ]
+  },
+  {
+    "id": "path-31-5",
+    "title": "Fanconi Anemia",
+    "course": "path",
+    "brick_id": "31",
+    "brick_title": "Hallmarks of Neoplasia: Genomic Instability",
+    "type": "disease",
+    "buzzwords": [
+      "autosomal recessive",
+      "short stature",
+      "skeletal abnormalities",
+      "DNA crosslink sensitivity",
+      "bone marrow failure",
+      "aplasia and leukemia",
+      "defective homologous recombination",
+      "Fanconi anemia"
+    ]
+  },
+  {
+    "id": "path-31-6",
+    "title": "Ataxia-Telangiectasia",
+    "course": "path",
+    "brick_id": "31",
+    "brick_title": "Hallmarks of Neoplasia: Genomic Instability",
+    "type": "disease",
+    "buzzwords": [
+      "onset before age five",
+      "ataxia and chorea",
+      "myoclonus and neuropathy",
+      "skin and eye telangiectasia",
+      "leukemia and lymphoma risk",
+      "immunodeficiency from poor V(D)J",
+      "defective nonhomologous end joining",
+      "ataxia-telangiectasia"
+    ]
+  },
+  {
+    "id": "path-32-1",
+    "title": "Myasthenia Gravis",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "autoimmune neuromuscular disorder",
+      "muscle weakness, worsens with use",
+      "reduced repetitive muscle capacity",
+      "antibodies vs ACh receptor",
+      "post-synaptic receptor attack",
+      "associated with thymoma",
+      "thymic epithelial tumor",
+      "epitope cross-reactivity with thymoma"
+    ]
+  },
+  {
+    "id": "path-32-2",
+    "title": "Lambert-Eaton Syndrome",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "proximal muscle weakness",
+      "weakness improves with use",
+      "antibodies vs calcium channels",
+      "presynaptic calcium channel attack",
+      "motor neuron target",
+      "associated with small cell lung cancer",
+      "SCLC cross-reactivity",
+      "Lambert-Eaton myasthenic syndrome"
+    ]
+  },
+  {
+    "id": "path-32-3",
+    "title": "Anti-NMDA Encephalitis",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "brain inflammation",
+      "neuropsychiatric syndrome",
+      "phase 1 psychiatric symptoms",
+      "phase 2 seizures, dyskinesia",
+      "autonomic instability",
+      "antibodies vs NMDA receptors",
+      "associated with ovarian teratoma",
+      "anti-NMDA receptor encephalitis"
+    ]
+  },
+  {
+    "id": "path-32-4",
+    "title": "Limbic Encephalitis",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "subacute onset",
+      "short-term memory loss",
+      "seizures, personality changes",
+      "olfactory hallucinations",
+      "limbic system inflammation",
+      "associated with small cell lung cancer",
+      "neuronal antigen attack",
+      "anti-Hu antibodies"
+    ]
+  },
+  {
+    "id": "path-32-5",
+    "title": "Cushing Syndrome",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "high serum cortisol",
+      "buffalo hump",
+      "moon facies",
+      "hyperglycemia",
+      "ectopic hormone secretion",
+      "associated with small cell lung cancer",
+      "ACTH-like substance",
+      "ectopic ACTH production"
+    ]
+  },
+  {
+    "id": "path-32-6",
+    "title": "Hypercalcemia",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "serum calcium >10.2 mg/dL",
+      "kidney stones, polyuria",
+      "constipation, GI upset",
+      "depression, fatigue, confusion",
+      "most common cause is malignancy",
+      "squamous cell carcinoma association",
+      "calcitriol secretion in lymphoma",
+      "PTHrP secretion"
+    ]
+  },
+  {
+    "id": "path-32-7",
+    "title": "Paraneoplastic SIADH",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "excess water reabsorption",
+      "dilutional hyponatremia",
+      "serum sodium <135 mEq/L",
+      "low serum osmolality",
+      "concentrated urine >100 mOsm/kg",
+      "ectopic ADH secretion",
+      "associated with small cell lung cancer",
+      "SIADH"
+    ]
+  },
+  {
+    "id": "path-32-8",
+    "title": "Acanthosis Nigricans",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "thickened dark skin",
+      "velvety texture",
+      "neck and axilla",
+      "linked to obesity, diabetes",
+      "tumor secretes growth factors",
+      "stimulates skin lesion formation",
+      "associated with gastric adenocarcinoma",
+      "acanthosis nigricans"
+    ]
+  },
+  {
+    "id": "path-32-9",
+    "title": "Sign of Leser-Trelat",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "sudden explosive skin lesions",
+      "numerous seborrheic keratoses",
+      "stuck-on appearance",
+      "gray-brown flat-topped lesions",
+      "tumor secretes TGF-alpha",
+      "GI adenocarcinoma association",
+      "gastrointestinal malignancy warning",
+      "sign of Leser-Trelat"
+    ]
+  },
+  {
+    "id": "path-32-10",
+    "title": "Hypertrophic Osteoarthropathy",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "digital clubbing",
+      "joint swelling, effusions",
+      "large joint pain",
+      "subperiosteal bone proliferation",
+      "periostitis of long bones",
+      "90% paraneoplastic",
+      "associated with lung cancer",
+      "hypertrophic osteoarthropathy"
+    ]
+  },
+  {
+    "id": "path-33-1",
+    "title": "Cancer Epidemiology",
+    "course": "path",
+    "brick_id": "33",
+    "brick_title": "Epidemiology of Cancer",
+    "type": "physiology",
+    "buzzwords": [
+      "distribution of cancers",
+      "incidence vs mortality differ",
+      "most common men: prostate",
+      "most common women: breast",
+      "deadliest in both sexes: lung",
+      "pancreatic: rare but lethal",
+      "thyroid: common, rarely fatal",
+      "lung mostly preventable"
+    ]
+  },
+  {
+    "id": "path-33-2",
+    "title": "Cervical Cancer Screening",
+    "course": "path",
+    "brick_id": "33",
+    "brick_title": "Epidemiology of Cancer",
+    "type": "disease",
+    "buzzwords": [
+      "arises from cervix epithelium",
+      "caused by HPV",
+      "incidence fell 60% since screening",
+      "80% of cases in developing countries",
+      "begin screening age 21",
+      "HSIL precancerous lesion",
+      "HPV PCR detects high-risk strains",
+      "Pap smear cytology"
+    ]
+  },
+  {
+    "id": "path-33-3",
+    "title": "Colorectal Cancer Screening",
+    "course": "path",
+    "brick_id": "33",
+    "brick_title": "Epidemiology of Cancer",
+    "type": "disease",
+    "buzzwords": [
+      "arises in colon and rectum",
+      "blood in stool",
+      "adenoma-to-carcinoma sequence",
+      "begin screening age 45",
+      "repeat every 10 years",
+      "fecal occult blood test",
+      "Lynch syndrome onsets earlier",
+      "colonoscopy gold standard"
+    ]
+  },
+  {
+    "id": "path-33-4",
+    "title": "Breast Cancer Screening",
+    "course": "path",
+    "brick_id": "33",
+    "brick_title": "Epidemiology of Cancer",
+    "type": "disease",
+    "buzzwords": [
+      "arises in ducts and lobules",
+      "lifetime risk 1 in 8",
+      "estrogen exposure drives risk",
+      "early menarche raises risk",
+      "screening X-ray detects microcalcifications",
+      "ductal carcinoma in situ",
+      "BRCA1/2 mutations high-risk",
+      "mammography"
+    ]
+  },
+  {
+    "id": "path-33-5",
+    "title": "Environmental Cancer Risks",
+    "course": "path",
+    "brick_id": "33",
+    "brick_title": "Epidemiology of Cancer",
+    "type": "physiology",
+    "buzzwords": [
+      "carcinogen causes cancer",
+      "smoking 33% of deaths",
+      "obesity 25% of deaths",
+      "alcohol metabolite acetaldehyde",
+      "asbestos causes mesothelioma",
+      "benzene causes AML",
+      "vinyl chloride: hepatic angiosarcoma",
+      "radon causes lung cancer"
+    ]
+  },
+  {
+    "id": "path-33-6",
+    "title": "Hereditary Cancer Risks",
+    "course": "path",
+    "brick_id": "33",
+    "brick_title": "Epidemiology of Cancer",
+    "type": "disease",
+    "buzzwords": [
+      "inherited germline mutations",
+      "tumor suppressor gene loss",
+      "earlier onset, aggressive",
+      "RB1: retinoblastoma",
+      "APC: colorectal adenocarcinoma",
+      "NF1: neurofibroma",
+      "TP53: Li-Fraumeni syndrome",
+      "BRCA: breast and ovarian"
+    ]
+  },
+  {
+    "id": "path-34-1",
+    "title": "Epstein-Barr Virus",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "DNA herpesvirus",
+      "HHV-4",
+      "spread by saliva",
+      "infects B lymphocytes",
+      "binds CD21",
+      "LMP-1 and EBNA-2",
+      "kissing disease",
+      "infectious mononucleosis"
+    ]
+  },
+  {
+    "id": "path-34-2",
+    "title": "Classic Hodgkin Lymphoma",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "EBV-associated lymphoma",
+      "bimodal age peaks",
+      "enlarged painless nodes",
+      "supradiaphragmatic spread",
+      "bilobed nucleus",
+      "eosinophilic nucleoli",
+      "owl eye cells",
+      "Reed-Sternberg cells"
+    ]
+  },
+  {
+    "id": "path-34-3",
+    "title": "Burkitt Lymphoma",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "non-Hodgkin B-cell lymphoma",
+      "highly mitotically active",
+      "monomorphic B cells",
+      "tingible body macrophages",
+      "endemic jaw mass",
+      "sporadic abdominal mass",
+      "starry sky appearance",
+      "EBV-associated"
+    ]
+  },
+  {
+    "id": "path-34-4",
+    "title": "Human Herpesvirus 8",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "spread by saliva",
+      "alters VEGF regulation",
+      "drives angiogenesis",
+      "endothelial sarcoma",
+      "afflicts immunosuppressed",
+      "violet skin lesions",
+      "primary effusion lymphoma",
+      "Kaposi sarcoma"
+    ]
+  },
+  {
+    "id": "path-34-5",
+    "title": "Hepatitis Viruses",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "chronic hepatic inflammation",
+      "leads to cirrhosis",
+      "HCV via IV drug use",
+      "HBV via sexual contact",
+      "plump eosinophilic hepatocytes",
+      "reactive oxygen damage",
+      "malignant hepatocyte neoplasm",
+      "hepatocellular carcinoma"
+    ]
+  },
+  {
+    "id": "path-34-6",
+    "title": "Human Papillomavirus",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "Gardasil prevents it",
+      "low-risk causes warts",
+      "verruca vulgaris",
+      "condyloma acuminata",
+      "high-risk causes cancer",
+      "E6 inactivates p53",
+      "E7 inactivates Rb",
+      "cervical squamous carcinoma"
+    ]
+  },
+  {
+    "id": "path-34-7",
+    "title": "HTLV-1",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "retrovirus",
+      "tropism for CD4 cells",
+      "spread via breast milk",
+      "Tax protein",
+      "HBZ inhibits apoptosis",
+      "decades-long latency",
+      "flower-shaped nucleus",
+      "adult T-cell leukemia"
+    ]
+  },
+  {
+    "id": "path-34-8",
+    "title": "Helicobacter pylori",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "gram-negative rod",
+      "causes chronic gastritis",
+      "intestinal metaplasia",
+      "goblet cells appear",
+      "CagA strains highest risk",
+      "MALT lymphoma",
+      "cured by antibiotics",
+      "gastric adenocarcinoma"
+    ]
+  },
+  {
+    "id": "path-34-9",
+    "title": "Schistosoma haematobium",
+    "course": "path",
+    "brick_id": "34",
+    "brick_title": "Pathogen-associated Neoplasms",
+    "type": "disease",
+    "buzzwords": [
+      "parasitic flatworm",
+      "helminth",
+      "swimmer's itch",
+      "snail intermediate host",
+      "affinity for bladder",
+      "eggs with terminal spine",
+      "chronic inflammation",
+      "squamous cell carcinoma"
+    ]
+  },
+  {
+    "id": "path-35-1",
+    "title": "TNM Staging",
+    "course": "path",
+    "brick_id": "35",
+    "brick_title": "Cancer Staging and Grading",
+    "type": "physiology",
+    "buzzwords": [
+      "extent of spread",
+      "anatomic burden",
+      "guides prognosis",
+      "three components",
+      "T tumor size",
+      "N nodal involvement",
+      "M distant metastasis",
+      "TNM classification"
+    ]
+  },
+  {
+    "id": "path-35-2",
+    "title": "Tumor Grading",
+    "course": "path",
+    "brick_id": "35",
+    "brick_title": "Cancer Staging and Grading",
+    "type": "physiology",
+    "buzzwords": [
+      "histologic appearance",
+      "cellular atypia",
+      "degree of differentiation",
+      "well vs poorly differentiated",
+      "anaplasia",
+      "high grade aggressive",
+      "microscope assessment",
+      "histologic features"
+    ]
+  },
+  {
+    "id": "path-35-3",
+    "title": "Cancer Remission",
+    "course": "path",
+    "brick_id": "35",
+    "brick_title": "Cancer Staging and Grading",
+    "type": "physiology",
+    "buzzwords": [
+      "treatment response",
+      "tumor burden falls",
+      "partial remission shrinks",
+      "complete remission undetectable",
+      "no clinical evidence",
+      "may still recur",
+      "5-year disease-free",
+      "cancer cure"
+    ]
+  },
+  {
+    "id": "path-35-4",
+    "title": "Cancer Prognosis",
+    "course": "path",
+    "brick_id": "35",
+    "brick_title": "Cancer Staging and Grading",
+    "type": "physiology",
+    "buzzwords": [
+      "expected outcome",
+      "survival estimate",
+      "depends on stage",
+      "depends on grade",
+      "statistics-driven",
+      "5-year survival rate",
+      "guides therapy choice",
+      "prognostic factors"
+    ]
+  },
+  {
+    "id": "path-36-1",
+    "title": "Antimetabolites",
+    "course": "path",
+    "brick_id": "36",
+    "brick_title": "Cancer Medications Overview",
+    "type": "drug",
+    "buzzwords": [
+      "cytotoxic chemo",
+      "S phase specific",
+      "blocks DNA synthesis",
+      "pyrimidine analog",
+      "myelosuppression",
+      "inhibits dihydrofolate reductase",
+      "cytarabine",
+      "methotrexate"
+    ]
+  },
+  {
+    "id": "path-36-2",
+    "title": "Topoisomerase Inhibitors",
+    "course": "path",
+    "brick_id": "36",
+    "brick_title": "Cancer Medications Overview",
+    "type": "drug",
+    "buzzwords": [
+      "cytotoxic chemo",
+      "S/G2 phase",
+      "blocks DNA repair",
+      "prevents religation of strands",
+      "double-strand DNA breaks",
+      "severe diarrhea",
+      "binds topoisomerase I-DNA",
+      "irinotecan"
+    ]
+  },
+  {
+    "id": "path-36-3",
+    "title": "Bleomycin",
+    "course": "path",
+    "brick_id": "36",
+    "brick_title": "Cancer Medications Overview",
+    "type": "drug",
+    "buzzwords": [
+      "cytotoxic chemo",
+      "G2 phase specific",
+      "inhibits DNA synthesis",
+      "single and double strand breaks",
+      "blocks protein synthesis",
+      "pulmonary fibrosis",
+      "lung toxicity",
+      "bleomycin"
+    ]
+  },
+  {
+    "id": "path-36-4",
+    "title": "Microtubule Inhibitors",
+    "course": "path",
+    "brick_id": "36",
+    "brick_title": "Cancer Medications Overview",
+    "type": "drug",
+    "buzzwords": [
+      "cytotoxic chemo",
+      "M phase specific",
+      "arrests at metaphase",
+      "disrupts mitotic spindle",
+      "peripheral neuropathy",
+      "taxanes stabilize microtubules",
+      "vinca alkaloids block formation",
+      "vincristine"
+    ]
+  },
+  {
+    "id": "path-36-5",
+    "title": "Alkylating Agents",
+    "course": "path",
+    "brick_id": "36",
+    "brick_title": "Cancer Medications Overview",
+    "type": "drug",
+    "buzzwords": [
+      "cell cycle-independent",
+      "cross-links DNA chains",
+      "blocks replication",
+      "blocks transcription",
+      "platinum agents included",
+      "hemorrhagic cystitis",
+      "cyclophosphamide",
+      "cisplatin"
+    ]
+  },
+  {
+    "id": "path-36-6",
+    "title": "Monoclonal Antibodies",
+    "course": "path",
+    "brick_id": "36",
+    "brick_title": "Cancer Medications Overview",
+    "type": "drug",
+    "buzzwords": [
+      "molecularly targeted therapy",
+      "-mab suffix",
+      "targets specific receptors",
+      "anti-CD20 on B cells",
+      "blocks VEGF angiogenesis",
+      "binds HER2 receptors",
+      "bevacizumab",
+      "rituximab trastuzumab"
+    ]
+  },
+  {
+    "id": "path-36-7",
+    "title": "CAR-T Cell Therapy",
+    "course": "path",
+    "brick_id": "36",
+    "brick_title": "Cancer Medications Overview",
+    "type": "drug",
+    "buzzwords": [
+      "immunotherapy",
+      "uses patient's own T cells",
+      "genetically modified",
+      "chimeric antigen receptor",
+      "fused to CD3",
+      "recognizes tumor antigen",
+      "reinjected into patient",
+      "CAR-T"
+    ]
+  }
+]

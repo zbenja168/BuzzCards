@@ -1,0 +1,164 @@
+[
+  {
+    "id": "path-18-1",
+    "title": "Severe Congenital Neutropenia",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "disease",
+    "buzzwords": [
+      "inherited disorder",
+      "recurrent bacterial infections",
+      "diagnosed at birth",
+      "pus absent",
+      "soft tissue spread",
+      "no neutrophil opposition",
+      "markedly low neutrophils",
+      "severe congenital neutropenia"
+    ]
+  },
+  {
+    "id": "path-18-2",
+    "title": "Chediak-Higashi Syndrome",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent infections",
+      "bleeding tendency",
+      "giant cytoplasmic granules",
+      "partial albinism",
+      "silvery hair",
+      "neurologic defects",
+      "lysosomal trafficking defect",
+      "LYST gene mutation"
+    ]
+  },
+  {
+    "id": "path-18-3",
+    "title": "Leukocyte Adhesion Deficiency",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent infections",
+      "pus absent",
+      "no leukocyte migration",
+      "defective adhesion",
+      "endothelial binding fails",
+      "delayed cord separation",
+      "impaired integrin function",
+      "leukocyte adhesion deficiency"
+    ]
+  },
+  {
+    "id": "path-18-4",
+    "title": "Chronic Granulomatous Disease",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "disease",
+    "buzzwords": [
+      "recurrent infections",
+      "liver abscess",
+      "granulomatous inflammation",
+      "impaired intracellular killing",
+      "no respiratory burst",
+      "catalase-positive organisms",
+      "defective NADPH oxidase",
+      "chronic granulomatous disease"
+    ]
+  },
+  {
+    "id": "path-18-5",
+    "title": "Myeloperoxidase Deficiency",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "disease",
+    "buzzwords": [
+      "usually asymptomatic",
+      "neutrophil enzyme defect",
+      "no hypochlorous acid",
+      "hydrogen peroxide compensation",
+      "Candida in diabetics",
+      "heme-containing enzyme",
+      "MPO deficiency",
+      "myeloperoxidase deficiency"
+    ]
+  },
+  {
+    "id": "path-18-6",
+    "title": "Complement System",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "physiology",
+    "buzzwords": [
+      "innate immunity",
+      "enhances phagocytosis",
+      "opsonization",
+      "C3b coats pathogens",
+      "classical pathway by antibody",
+      "lyses microbes",
+      "transmembrane pore",
+      "membrane attack complex"
+    ]
+  },
+  {
+    "id": "path-18-7",
+    "title": "Interferons",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "physiology",
+    "buzzwords": [
+      "antiviral cytokine",
+      "made by infected cells",
+      "induced by dsRNA",
+      "stops protein synthesis",
+      "blocks viral replication",
+      "activates oligosynthetase",
+      "degrades mRNA",
+      "inhibits eIF-2"
+    ]
+  },
+  {
+    "id": "path-18-8",
+    "title": "Listeria monocytogenes",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "disease",
+    "buzzwords": [
+      "intracellular pathogen",
+      "gram-positive bacillus",
+      "from dairy products",
+      "crosses placenta",
+      "escapes phagosome",
+      "cell-to-cell spread",
+      "actin comet tail",
+      "listeriolysin O"
+    ]
+  },
+  {
+    "id": "path-18-9",
+    "title": "Antigenic Variation",
+    "course": "path",
+    "brick_id": "18",
+    "brick_title": "Infections, Immunity, and Evading Host Defense",
+    "type": "physiology",
+    "buzzwords": [
+      "evades adaptive immunity",
+      "changes surface antigens",
+      "escapes antibody attack",
+      "alters pili proteins",
+      "homologous recombination of pilin",
+      "OPA gene mutations",
+      "new epitopes unrecognized",
+      "Neisseria strategy"
+    ]
+  }
+]

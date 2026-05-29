@@ -1,0 +1,182 @@
+[
+  {
+    "id": "path-32-1",
+    "title": "Myasthenia Gravis",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "autoimmune neuromuscular disorder",
+      "muscle weakness, worsens with use",
+      "reduced repetitive muscle capacity",
+      "antibodies vs ACh receptor",
+      "post-synaptic receptor attack",
+      "associated with thymoma",
+      "thymic epithelial tumor",
+      "epitope cross-reactivity with thymoma"
+    ]
+  },
+  {
+    "id": "path-32-2",
+    "title": "Lambert-Eaton Syndrome",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "proximal muscle weakness",
+      "weakness improves with use",
+      "antibodies vs calcium channels",
+      "presynaptic calcium channel attack",
+      "motor neuron target",
+      "associated with small cell lung cancer",
+      "SCLC cross-reactivity",
+      "Lambert-Eaton myasthenic syndrome"
+    ]
+  },
+  {
+    "id": "path-32-3",
+    "title": "Anti-NMDA Encephalitis",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "brain inflammation",
+      "neuropsychiatric syndrome",
+      "phase 1 psychiatric symptoms",
+      "phase 2 seizures, dyskinesia",
+      "autonomic instability",
+      "antibodies vs NMDA receptors",
+      "associated with ovarian teratoma",
+      "anti-NMDA receptor encephalitis"
+    ]
+  },
+  {
+    "id": "path-32-4",
+    "title": "Limbic Encephalitis",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "subacute onset",
+      "short-term memory loss",
+      "seizures, personality changes",
+      "olfactory hallucinations",
+      "limbic system inflammation",
+      "associated with small cell lung cancer",
+      "neuronal antigen attack",
+      "anti-Hu antibodies"
+    ]
+  },
+  {
+    "id": "path-32-5",
+    "title": "Cushing Syndrome",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "high serum cortisol",
+      "buffalo hump",
+      "moon facies",
+      "hyperglycemia",
+      "ectopic hormone secretion",
+      "associated with small cell lung cancer",
+      "ACTH-like substance",
+      "ectopic ACTH production"
+    ]
+  },
+  {
+    "id": "path-32-6",
+    "title": "Hypercalcemia",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "serum calcium >10.2 mg/dL",
+      "kidney stones, polyuria",
+      "constipation, GI upset",
+      "depression, fatigue, confusion",
+      "most common cause is malignancy",
+      "squamous cell carcinoma association",
+      "calcitriol secretion in lymphoma",
+      "PTHrP secretion"
+    ]
+  },
+  {
+    "id": "path-32-7",
+    "title": "Paraneoplastic SIADH",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "excess water reabsorption",
+      "dilutional hyponatremia",
+      "serum sodium <135 mEq/L",
+      "low serum osmolality",
+      "concentrated urine >100 mOsm/kg",
+      "ectopic ADH secretion",
+      "associated with small cell lung cancer",
+      "SIADH"
+    ]
+  },
+  {
+    "id": "path-32-8",
+    "title": "Acanthosis Nigricans",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "thickened dark skin",
+      "velvety texture",
+      "neck and axilla",
+      "linked to obesity, diabetes",
+      "tumor secretes growth factors",
+      "stimulates skin lesion formation",
+      "associated with gastric adenocarcinoma",
+      "acanthosis nigricans"
+    ]
+  },
+  {
+    "id": "path-32-9",
+    "title": "Sign of Leser-Trelat",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "sudden explosive skin lesions",
+      "numerous seborrheic keratoses",
+      "stuck-on appearance",
+      "gray-brown flat-topped lesions",
+      "tumor secretes TGF-alpha",
+      "GI adenocarcinoma association",
+      "gastrointestinal malignancy warning",
+      "sign of Leser-Trelat"
+    ]
+  },
+  {
+    "id": "path-32-10",
+    "title": "Hypertrophic Osteoarthropathy",
+    "course": "path",
+    "brick_id": "32",
+    "brick_title": "Paraneoplastic Syndromes",
+    "type": "disease",
+    "buzzwords": [
+      "digital clubbing",
+      "joint swelling, effusions",
+      "large joint pain",
+      "subperiosteal bone proliferation",
+      "periostitis of long bones",
+      "90% paraneoplastic",
+      "associated with lung cancer",
+      "hypertrophic osteoarthropathy"
+    ]
+  }
+]

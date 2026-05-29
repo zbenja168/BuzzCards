@@ -1,0 +1,74 @@
+[
+  {
+    "id": "path-35-1",
+    "title": "TNM Staging",
+    "course": "path",
+    "brick_id": "35",
+    "brick_title": "Cancer Staging and Grading",
+    "type": "physiology",
+    "buzzwords": [
+      "extent of spread",
+      "anatomic burden",
+      "guides prognosis",
+      "three components",
+      "T tumor size",
+      "N nodal involvement",
+      "M distant metastasis",
+      "TNM classification"
+    ]
+  },
+  {
+    "id": "path-35-2",
+    "title": "Tumor Grading",
+    "course": "path",
+    "brick_id": "35",
+    "brick_title": "Cancer Staging and Grading",
+    "type": "physiology",
+    "buzzwords": [
+      "histologic appearance",
+      "cellular atypia",
+      "degree of differentiation",
+      "well vs poorly differentiated",
+      "anaplasia",
+      "high grade aggressive",
+      "microscope assessment",
+      "histologic features"
+    ]
+  },
+  {
+    "id": "path-35-3",
+    "title": "Cancer Remission",
+    "course": "path",
+    "brick_id": "35",
+    "brick_title": "Cancer Staging and Grading",
+    "type": "physiology",
+    "buzzwords": [
+      "treatment response",
+      "tumor burden falls",
+      "partial remission shrinks",
+      "complete remission undetectable",
+      "no clinical evidence",
+      "may still recur",
+      "5-year disease-free",
+      "cancer cure"
+    ]
+  },
+  {
+    "id": "path-35-4",
+    "title": "Cancer Prognosis",
+    "course": "path",
+    "brick_id": "35",
+    "brick_title": "Cancer Staging and Grading",
+    "type": "physiology",
+    "buzzwords": [
+      "expected outcome",
+      "survival estimate",
+      "depends on stage",
+      "depends on grade",
+      "statistics-driven",
+      "5-year survival rate",
+      "guides therapy choice",
+      "prognostic factors"
+    ]
+  }
+]

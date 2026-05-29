@@ -1,0 +1,128 @@
+[
+  {
+    "id": "path-7-1",
+    "title": "Tissue Regenerative Capacity",
+    "course": "path",
+    "brick_id": "7",
+    "brick_title": "Wound Healing and Tissue Repair",
+    "type": "physiology",
+    "buzzwords": [
+      "classified by dividing ability",
+      "three categories",
+      "labile continuously divides",
+      "stable normally quiescent",
+      "stable proliferates after injury",
+      "permanent cannot regenerate",
+      "permanent heals only by scar",
+      "neurons and cardiac myocytes permanent"
+    ]
+  },
+  {
+    "id": "path-7-2",
+    "title": "Growth Factors",
+    "course": "path",
+    "brick_id": "7",
+    "brick_title": "Wound Healing and Tissue Repair",
+    "type": "physiology",
+    "buzzwords": [
+      "stimulate cell survival and division",
+      "secreted by macrophages and platelets",
+      "drive tissue repair",
+      "EGF stimulates epithelial growth",
+      "VEGF promotes angiogenesis",
+      "PDGF recruits fibroblasts",
+      "TGF-beta deposits collagen",
+      "TGF-beta suppresses inflammation"
+    ]
+  },
+  {
+    "id": "path-7-3",
+    "title": "Extracellular Matrix",
+    "course": "path",
+    "brick_id": "7",
+    "brick_title": "Wound Healing and Tissue Repair",
+    "type": "physiology",
+    "buzzwords": [
+      "protein network outside cells",
+      "mechanical support scaffold",
+      "displays bound growth factors",
+      "collagen gives tensile strength",
+      "elastin provides recoil",
+      "proteoglycans hydrate tissue",
+      "integrins anchor cells",
+      "intact ECM allows regeneration"
+    ]
+  },
+  {
+    "id": "path-7-4",
+    "title": "Granulation Tissue",
+    "course": "path",
+    "brick_id": "7",
+    "brick_title": "Wound Healing and Tissue Repair",
+    "type": "physiology",
+    "buzzwords": [
+      "preliminary repair tissue",
+      "intermediate stage of healing",
+      "structurally weak",
+      "fibroblasts and new vessels",
+      "pink granular appearance",
+      "weeps blood easily",
+      "remodeled by matrix metalloproteinases",
+      "replaced by fibrillar collagen"
+    ]
+  },
+  {
+    "id": "path-7-5",
+    "title": "Healing by First Intention",
+    "course": "path",
+    "brick_id": "7",
+    "brick_title": "Wound Healing and Tissue Repair",
+    "type": "physiology",
+    "buzzwords": [
+      "small clean wound",
+      "minimal tissue loss",
+      "relies on epithelial regeneration",
+      "begins with blood clot",
+      "neutrophils arrive under 24 hours",
+      "macrophages dominate by day 3",
+      "minimal scar",
+      "approximated incision edges"
+    ]
+  },
+  {
+    "id": "path-7-6",
+    "title": "Healing by Second Intention",
+    "course": "path",
+    "brick_id": "7",
+    "brick_title": "Wound Healing and Tissue Repair",
+    "type": "physiology",
+    "buzzwords": [
+      "large open wound",
+      "extensive tissue loss",
+      "robust inflammatory response",
+      "large fibrin clot",
+      "granulation tissue fills defect",
+      "wound contraction closes gap",
+      "contractile myofibroblasts",
+      "slow healing over weeks"
+    ]
+  },
+  {
+    "id": "path-7-7",
+    "title": "Keloid Scar",
+    "course": "path",
+    "brick_id": "7",
+    "brick_title": "Wound Healing and Tissue Repair",
+    "type": "disease",
+    "buzzwords": [
+      "excessive repair complication",
+      "exuberant scarring",
+      "extends beyond wound borders",
+      "thick brightly eosinophilic collagen",
+      "haphazardly arranged fibers",
+      "does not regress",
+      "may need surgical excision",
+      "contrasts with hypertrophic scar"
+    ]
+  }
+]
