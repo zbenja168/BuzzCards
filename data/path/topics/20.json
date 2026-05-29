@@ -13,7 +13,7 @@
       "early localized stage",
       "annular rash, pale center",
       "late stage arthritis",
-      "bullseye target lesion",
+      { "img": "data/path/images/path-20-1/1.webp" },
       "Borrelia burgdorferi, erythema migrans"
     ]
   },
@@ -64,10 +64,10 @@
       "AIDS-defining fungal pneumonia",
       "dyspnea, dry cough",
       "respiratory failure if untreated",
-      "bilateral interstitial infiltrates",
+      { "img": "data/path/images/path-20-4/1.webp" },
       "ground-glass opacities on CT",
       "bronchoalveolar lavage diagnosis",
-      "GMS stains cyst walls",
+      { "img": "data/path/images/path-20-4/2.webp" },
       "Pneumocystis jirovecii"
     ]
   },
@@ -81,7 +81,7 @@
     "buzzwords": [
       "AIDS-defining brain infection",
       "reactivation in immunocompromised",
-      "ring-enhancing brain lesions",
+      { "img": "data/path/images/path-20-5/1.webp" },
       "multiple abscesses, necrotic foci",
       "MRI shows enhancing lesions",
       "neurologic deficits",
@@ -102,7 +102,7 @@
       "meningoencephalitis",
       "leptomeninges and brain",
       "retinitis causes blindness",
-      "fundus inflammation, hemorrhage",
+      { "img": "data/path/images/path-20-6/1.webp" },
       "common in transplant patients",
       "cytomegalovirus"
     ]
@@ -118,8 +118,8 @@
       "AIDS-associated neoplasm",
       "vascular tumor",
       "cutaneous, mucosal, visceral lesions",
-      "violaceous patches and plaques",
-      "proliferating endothelial cells",
+      { "img": "data/path/images/path-20-7/1.webp" },
+      { "img": "data/path/images/path-20-7/2.webp" },
       "bland spindled cells",
       "human herpesvirus-8",
       "HHV8 (KSHV)"

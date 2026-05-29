@@ -14,7 +14,7 @@
       "masks tumor antigens",
       "blocks immune targeting",
       "excess extracellular matrix",
-      "glycocalyx overproduction"
+      { "img": "data/path/images/30/path-30-1/1.webp" }
     ]
   },
   {
@@ -28,7 +28,7 @@
       "immune evasion",
       "less immunogenic subclones",
       "selective survival",
-      "loses surface antigen",
+      { "img": "data/path/images/30/path-30-2/1.webp" },
       "downregulates antigen",
       "escapes immune recognition",
       "CAR-T CD19 escape",
@@ -49,7 +49,7 @@
       "antigen no longer displayed",
       "mutation in receptor",
       "lost surface receptor",
-      "MHC class I deficient",
+      { "img": "data/path/images/30/path-30-3/1.webp" },
       "no MHC presentation"
     ]
   },
@@ -103,7 +103,7 @@
       "cell surface ligand",
       "checkpoint blockade target",
       "activates death receptor",
-      "PD-1 receptor engagement",
+      { "img": "data/path/images/30/path-30-6/1.webp" },
       "PD-L1 and PD-L2"
     ]
   },

@@ -13,7 +13,7 @@
       "failing Na/K pumps",
       "osmotic imbalance",
       "cellular swelling",
-      "swollen renal tubule cells",
+      { "img": "data/path/images/path-2-1/1.webp" },
       "eosinophilic cytoplasm"
     ]
   },
@@ -30,7 +30,7 @@
       "membrane rupture",
       "leaked lysosomal enzymes",
       "released proteases and nucleases",
-      "necrosis",
+      { "img": "data/path/images/path-2-2/1.webp" },
       "apoptosis",
       "cytochrome c release"
     ]
@@ -48,7 +48,7 @@
       "increased protein production",
       "no change in cell number",
       "occurs in muscle",
-      "left ventricle in hypertension",
+      { "img": "data/path/images/path-2-3/1.webp" },
       "uterus in pregnancy",
       "estrogen-driven enlargement"
     ]
@@ -67,7 +67,7 @@
       "needs replication-capable cells",
       "mammary glands in puberty",
       "excess estrogen stimulation",
-      "endometrial hyperplasia",
+      { "img": "data/path/images/path-2-4/1.webp" },
       "abnormal uterine bleeding"
     ]
   },
@@ -103,7 +103,7 @@
       "differentiated cell switch",
       "reverts if stimulus removed",
       "tobacco smoke trigger",
-      "ciliated columnar to squamous",
+      { "img": "data/path/images/path-2-6/1.webp" },
       "airway squamous metaplasia"
     ]
   }

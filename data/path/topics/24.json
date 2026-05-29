@@ -11,7 +11,7 @@
       "female predominance",
       "responds to immunosuppression",
       "elevated transaminases",
-      "interface hepatitis",
+      { "img": "data/path/images/path-24-1/1.webp" },
       "plasma cell clusters",
       "anti-smooth muscle antibody",
       "anti-LKM-1 antibody"
@@ -27,11 +27,11 @@
     "buzzwords": [
       "autoimmune cholestasis",
       "strong female predominance",
-      "fatigue and pruritis",
+      { "img": "data/path/images/path-24-2/1.webp" },
       "small intrahepatic ducts",
       "elevated alkaline phosphatase",
       "granulomatous duct destruction",
-      "florid duct lesion",
+      { "img": "data/path/images/path-24-2/2.webp" },
       "anti-mitochondrial antibody"
     ]
   },
@@ -48,8 +48,8 @@
       "ulcerative colitis association",
       "large intrahepatic ducts",
       "periductal fibrosis",
-      "onion-skin scarring",
-      "beading on MRCP",
+      { "img": "data/path/images/path-24-3/1.webp" },
+      { "img": "data/path/images/path-24-3/2.webp" },
       "elevated p-ANCA"
     ]
   },
@@ -65,8 +65,8 @@
       "parenteral transmission",
       "IV drug use",
       "relapsing transaminase elevation",
-      "portal lymphocytic inflammation",
-      "bridging fibrosis",
+      { "img": "data/path/images/path-24-4/1.webp" },
+      { "img": "data/path/images/path-24-4/2.webp" },
       "HCV RNA PCR positive",
       "anti-HCV antibodies"
     ]

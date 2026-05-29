@@ -8,7 +8,7 @@
     "type": "lab",
     "buzzwords": [
       "total testing process",
-      "three phases",
+      { "img": "data/path/images/path-13-1/1.webp" },
       "order to result",
       "most errors here",
       "specimen collection step",
@@ -101,7 +101,7 @@
       "cultures",
       "diagnoses infection",
       "susceptibility testing",
-      "zone of inhibition",
+      { "img": "data/path/images/path-13-6/1.webp" },
       "disk diffusion method",
       "antibiogram trends",
       "guides antibiotic choice"
@@ -117,7 +117,7 @@
     "buzzwords": [
       "evaluates urine",
       "visual appearance exam",
-      "dipstick chemical test",
+      { "img": "data/path/images/path-13-7/1.webp" },
       "microscopic exam",
       "checks pH and protein",
       "glucose ketones bilirubin",

@@ -13,7 +13,7 @@
       "tumor-secreted proteases",
       "amoeboid migration",
       "overexpresses laminin receptors",
-      "loss of E-cadherin",
+      { "img": "data/path/images/26/path-26-1/1.webp" },
       "cleaves extracellular matrix"
     ]
   },
@@ -67,7 +67,7 @@
       "follows lymphatic drainage",
       "regional node involvement",
       "sentinel node first",
-      "axillary nodes in breast cancer",
+      { "img": "data/path/images/26/path-26-4/1.webp" },
       "epithelial-derived tumors"
     ]
   },
@@ -79,7 +79,7 @@
     "brick_title": "Cancer Growth and Metastasis",
     "type": "physiology",
     "buzzwords": [
-      "via arteries or veins",
+      { "img": "data/path/images/26/path-26-5/1.webp" },
       "typical of sarcomas",
       "follows venous drainage",
       "liver and lung common sites",
@@ -104,7 +104,7 @@
       "joint cavities",
       "subarachnoid space",
       "glioblastoma drop metastases",
-      "ovarian carcinoma omental caking"
+      { "img": "data/path/images/26/path-26-6/1.webp" }
     ]
   }
 ]

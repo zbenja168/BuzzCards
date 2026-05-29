@@ -25,7 +25,7 @@
     "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
     "type": "physiology",
     "buzzwords": [
-      "white blood cell",
+      { "img": "data/path/images/path-6-2/1.webp" },
       "two subtypes",
       "T cells and B cells",
       "produce inflammatory cytokines",
@@ -47,7 +47,7 @@
       "secrete antibody",
       "tag pathogens for destruction",
       "prominent in autoimmune disease",
-      "eccentric nucleus",
+      { "img": "data/path/images/path-6-3/1.webp" },
       "clumped clock-face chromatin",
       "blue cytoplasm",
       "perinuclear hof"
@@ -68,7 +68,7 @@
       "surrounding T lymphocytes",
       "caseating in tuberculosis",
       "non-caseating in sarcoidosis",
-      "central necrotic core"
+      { "img": "data/path/images/path-6-4/1.webp" }
     ]
   },
   {
@@ -102,7 +102,7 @@
       "regeneration impossible",
       "irreversibly reduced function",
       "driven by chronic alcohol",
-      "fibrous bands around hepatocytes",
+      { "img": "data/path/images/path-6-6/1.webp" },
       "raises portal pressure",
       "seen in hepatitis C"
     ]
@@ -116,7 +116,7 @@
     "type": "disease",
     "buzzwords": [
       "arterial narrowing",
-      "lipid-laden plaque",
+      { "img": "data/path/images/path-6-7/1.webp" },
       "chronic vessel wall inflammation",
       "worsened by smoking and diabetes",
       "thin fibrous cap",

@@ -29,7 +29,7 @@
       "uses lymphatics and blood",
       "bacteria in blood is septicemia",
       "lymph nodes then bloodstream",
-      "seeds heart causing endocarditis",
+      { "img": "data/path/images/path-17-2/1.webp" },
       "IV drug use introduces bacteria",
       "spread along peripheral nerves",
       "retrograde axonal transport"
@@ -65,7 +65,7 @@
       "increased vascular permeability",
       "neutrophil-dominated infiltrate",
       "pus and purulence",
-      "localized collection is an abscess",
+      { "img": "data/path/images/path-17-4/1.webp" },
       "caused by pyogenic bacteria",
       "Staphylococcus aureus example",
       "purulent exudate"
@@ -80,7 +80,7 @@
     "type": "physiology",
     "buzzwords": [
       "histologic pattern of reaction",
-      "lymphocyte-rich infiltrate",
+      { "img": "data/path/images/path-17-5/1.webp" },
       "response to viruses",
       "intracellular bacteria and parasites",
       "seen with spirochetes",
@@ -100,7 +100,7 @@
       "histologic pattern of reaction",
       "damage inside the cell",
       "viral aggregates and inclusions",
-      "multinucleation",
+      { "img": "data/path/images/path-17-6/1.webp" },
       "HSV and CMV changes",
       "epithelial proliferation by HPV",
       "verrucous warts",
@@ -134,7 +134,7 @@
     "type": "physiology",
     "buzzwords": [
       "secreted exotoxin",
-      "A-B subunit structure",
+      { "img": "data/path/images/path-17-8/1.webp" },
       "B binds and enters via endocytosis",
       "A-component inhibits protein synthesis",
       "blocks the ribosome",

@@ -26,7 +26,7 @@
     "type": "disease",
     "buzzwords": [
       "invades local tissue",
-      "high mitotic activity",
+      { "img": "data/path/images/path-25-2/1.webp" },
       "contains necrosis",
       "no capsule",
       "worse prognosis",
@@ -48,7 +48,7 @@
       "little mitotic activity",
       "no necrosis",
       "well-differentiated",
-      "surrounded by capsule",
+      { "img": "data/path/images/path-25-3/1.webp" },
       "does not metastasize",
       "better prognosis"
     ]
@@ -65,7 +65,7 @@
       "well-differentiated looks normal",
       "poorly differentiated",
       "guides tumor grade",
-      "no resemblance at all",
+      { "img": "data/path/images/path-25-4/1.webp" },
       "undifferentiated cells",
       "extreme far end",
       "anaplasia"
@@ -85,7 +85,7 @@
       "reversible",
       "airway columnar to squamous",
       "squamous to columnar in esophagus",
-      "goblet cells appear",
+      { "img": "data/path/images/path-25-5/1.webp" },
       "Barrett esophagus"
     ]
   },
@@ -104,7 +104,7 @@
       "loss of polarity",
       "precedes cancer",
       "graded mild to severe",
-      "cervical CIN grading"
+      { "img": "data/path/images/path-25-6/1.webp" }
     ]
   },
   {

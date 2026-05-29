@@ -7,7 +7,7 @@
     "brick_title": "Autopsy",
     "type": "physiology",
     "buzzwords": [
-      "post-mortem exam",
+      { "img": "data/path/images/path-10-1/1.webp" },
       "investigates natural disease",
       "documents underlying diagnosis",
       "hospital setting",
@@ -46,7 +46,7 @@
       "the injury or disease",
       "directly resulted in death",
       "documented on certificate",
-      "lists antecedent intervals",
+      { "img": "data/path/images/path-10-3/1.webp" },
       "the gunshot wound itself",
       "disseminated aspergillosis example",
       "atherosclerotic coronary disease",
@@ -135,7 +135,7 @@
     "buzzwords": [
       "core of autopsy report",
       "lists diagnoses and findings",
-      "gross plus microscopic",
+      { "img": "data/path/images/path-10-8/1.webp" },
       "organized by organ system",
       "released within 90 days",
       "preliminary diagnosis first",

@@ -12,7 +12,7 @@
       "incisional cuts a portion",
       "used early in workup",
       "guides surgical decisions",
-      "punch uses cylindric blade",
+      { "img": "data/path/images/path-4-1/1.webp" },
       "core uses hollow needle",
       "incisional, punch, or core"
     ]
@@ -29,7 +29,7 @@
       "removes entire lesion",
       "can be curative",
       "diagnostic and therapeutic",
-      "includes safety margin",
+      { "img": "data/path/images/path-4-2/1.webp" },
       "less extensive than resection",
       "excisional biopsy",
       "removes suspicious lump"
@@ -44,7 +44,7 @@
     "type": "physiology",
     "buzzwords": [
       "major surgery",
-      "removes part or all of organ",
+      { "img": "data/path/images/path-4-3/1.webp" },
       "done for malignancy",
       "treats advanced disease",
       "colectomy removes colon",
@@ -65,7 +65,7 @@
       "done intraoperatively",
       "guides next surgical step",
       "preliminary result",
-      "tissue is frozen, not fixed",
+      { "img": "data/path/images/path-4-4/1.webp" },
       "usually under 20 minutes",
       "surgeon waits in OR",
       "intraoperative consultation"
@@ -81,7 +81,7 @@
     "buzzwords": [
       "routine tissue processing",
       "formalin-fixed",
-      "paraffin-embedded block",
+      { "img": "data/path/images/path-4-5/1.webp" },
       "thinly cut and stained",
       "blocks stored 10 years",
       "hematoxylin stains nuclei blue",
@@ -101,7 +101,7 @@
       "highlights specific components",
       "added when needed",
       "trichrome shows fibrosis",
-      "silver stain for fungi",
+      { "img": "data/path/images/path-4-6/1.webp" },
       "hyphae stain dark gray",
       "Masson trichrome",
       "Grocott-Gomori GMS"
@@ -117,7 +117,7 @@
     "buzzwords": [
       "antibody-based test",
       "targets molecular antigen",
-      "stains brown under scope",
+      { "img": "data/path/images/path-4-7/1.webp" },
       "confirms tumor origin",
       "cytokeratins mark epithelium",
       "positive confirms carcinoma",
@@ -155,7 +155,7 @@
       "minimally invasive",
       "fewer cells than surgical specimen",
       "loses tissue architecture",
-      "Pap smear screens cervix",
+      { "img": "data/path/images/path-4-9/1.webp" },
       "body fluids sent for analysis",
       "FNA for thyroid nodules",
       "fine needle aspiration"

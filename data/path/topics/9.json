@@ -1,74 +1,110 @@
 [
   {
     "id": "path-9-1",
-    "title": "Mechanical Injury",
+    "title": "Mechanical Trauma",
     "course": "path",
     "brick_id": "9",
-    "brick_title": "Environmental Disease",
+    "brick_title": "Environmental Disease Part 2 of 2: Physical Agents",
     "type": "disease",
     "buzzwords": [
-      "physical force trauma",
-      "blunt or sharp",
-      "abrasion scrapes epidermis",
-      "contusion is a bruise",
-      "laceration has irregular torn edges",
-      "incision has clean edges",
-      "puncture deep and narrow",
-      "tissue bridging distinguishes laceration"
+      "blunt vs sharp",
+      "abrasion scrapes skin",
+      "contusion is bruise",
+      { "img": "data/path/images/path-9-1/2.webp" },
+      "stab deeper than wide",
+      "incised longer than deep",
+      { "img": "data/path/images/path-9-1/1.webp" },
+      "hesitation marks"
     ]
   },
   {
     "id": "path-9-2",
-    "title": "Thermal Injury",
+    "title": "Burns",
     "course": "path",
     "brick_id": "9",
-    "brick_title": "Environmental Disease",
+    "brick_title": "Environmental Disease Part 2 of 2: Physical Agents",
     "type": "disease",
     "buzzwords": [
-      "heat or cold damage",
-      "graded by depth",
-      "first degree spares dermis",
-      "second degree blisters",
-      "third degree full thickness",
-      "fluid loss and infection risk",
-      "hypothermia slows metabolism",
-      "frostbite causes ice crystal necrosis"
+      { "img": "data/path/images/path-9-2/1.webp" },
+      "TBSA estimation",
+      "superficial spares dermis",
+      "partial-thickness blisters",
+      { "img": "data/path/images/path-9-2/2.webp" },
+      "full-thickness leathery eschar",
+      "circumferential needs escharotomy",
+      "hypertrophic scarring"
     ]
   },
   {
     "id": "path-9-3",
-    "title": "Radiation Injury",
+    "title": "Electrical Injury",
     "course": "path",
     "brick_id": "9",
-    "brick_title": "Environmental Disease",
+    "brick_title": "Environmental Disease Part 2 of 2: Physical Agents",
     "type": "disease",
     "buzzwords": [
-      "energy emitted as waves",
-      "ionizing versus nonionizing",
-      "damages DNA directly",
-      "generates free radicals",
-      "dividing cells most vulnerable",
-      "gut and marrow hit first",
-      "carcinogenic long term",
-      "fibrosis of irradiated tissue"
+      "disrupts conduction",
+      "neuronal damage",
+      "muscle tetany",
+      "respiratory paralysis",
+      "fatal arrhythmia",
+      "ventricular fibrillation",
+      { "img": "data/path/images/path-9-3/1.webp" },
+      { "img": "data/path/images/path-9-3/2.webp" }
     ]
   },
   {
     "id": "path-9-4",
-    "title": "Climate and Social Threats",
+    "title": "Hyperthermia",
     "course": "path",
     "brick_id": "9",
-    "brick_title": "Environmental Disease",
+    "brick_title": "Environmental Disease Part 2 of 2: Physical Agents",
     "type": "disease",
     "buzzwords": [
-      "population level health threats",
-      "warming expands vector range",
-      "heat waves raise mortality",
-      "air pollution worsens disease",
-      "extreme weather displaces populations",
-      "poverty limits care access",
-      "food and water insecurity",
-      "social determinants of health"
+      "abnormally high temperature",
+      "heat cramps",
+      "heat exhaustion",
+      "hypovolemic collapse",
+      "altered mental status",
+      "rhabdomyolysis",
+      "core above 40C",
+      "heat stroke stops sweating"
+    ]
+  },
+  {
+    "id": "path-9-5",
+    "title": "Hypothermia",
+    "course": "path",
+    "brick_id": "9",
+    "brick_title": "Environmental Disease Part 2 of 2: Physical Agents",
+    "type": "disease",
+    "buzzwords": [
+      "abnormally low temperature",
+      "core below 35C",
+      "water crystallization",
+      "increased blood viscosity",
+      "vasoconstriction and ischemia",
+      "paradoxical undressing",
+      { "img": "data/path/images/path-9-5/2.webp" },
+      { "img": "data/path/images/path-9-5/1.webp" }
+    ]
+  },
+  {
+    "id": "path-9-6",
+    "title": "Radiation Injury",
+    "course": "path",
+    "brick_id": "9",
+    "brick_title": "Environmental Disease Part 2 of 2: Physical Agents",
+    "type": "disease",
+    "buzzwords": [
+      "nonionizing vs ionizing",
+      "UV causes skin cancer",
+      { "img": "data/path/images/path-9-6/1.webp" },
+      "generates reactive oxygen species",
+      "carcinogenesis and teratogenesis",
+      "adjacent thymidine crosslinks",
+      "UVB pyrimidine dimers",
+      "basal cell carcinoma"
     ]
   }
 ]

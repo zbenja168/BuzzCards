@@ -11,8 +11,8 @@
       "female predominance",
       "photosensitivity",
       "oral ulcers, serositis",
-      "type 3 hypersensitivity",
-      "butterfly malar rash",
+      { "img": "data/path/images/path-15-1/2.webp" },
+      { "img": "data/path/images/path-15-1/1.webp" },
       "Libman-Sacks endocarditis",
       "anti-dsDNA, anti-Smith"
     ]
@@ -28,8 +28,8 @@
       "symmetric joint inflammation",
       "swollen warm painful joints",
       "hands and feet",
-      "synovial hyperplasia",
-      "pannus erodes cartilage",
+      { "img": "data/path/images/path-15-2/2.webp" },
+      { "img": "data/path/images/path-15-2/1.webp" },
       "CD4+ helper T cytokines",
       "rheumatoid factor (IgM)",
       "anti-CCP antibodies"
@@ -46,7 +46,7 @@
       "kidney and lung injury",
       "teens to 20s",
       "male predominance",
-      "hemoptysis",
+      { "img": "data/path/images/path-15-3/1.webp" },
       "rapidly progressive glomerulonephritis",
       "treated with plasmapheresis",
       "anti-collagen type IV",
@@ -67,7 +67,7 @@
       "saddle nose deformity",
       "lung nodules and cavities",
       "nephritic syndrome, hematuria",
-      "multinucleated giant cells",
+      { "img": "data/path/images/path-15-4/1.webp" },
       "PR3-ANCA (c-ANCA)"
     ]
   },
@@ -81,12 +81,12 @@
     "buzzwords": [
       "childhood syndrome",
       "ages 3 to 8",
-      "palpable purpura",
+      { "img": "data/path/images/path-15-5/1.webp" },
       "extensor surfaces and buttocks",
       "abdominal pain, GI bleeding",
       "arthralgias",
       "immune complex deposition",
-      "IgA and C3 deposits"
+      { "img": "data/path/images/path-15-5/2.webp" }
     ]
   }
 ]

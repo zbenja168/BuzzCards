@@ -27,7 +27,7 @@
     "buzzwords": [
       "extreme photosensitivity",
       "severe sunburn in minutes",
-      "freckling in sun-exposed skin",
+      { "img": "data/path/images/path-31-2/1.webp" },
       "high skin cancer risk",
       "humans lack photolyase",
       "fails to fix pyrimidine dimers",
@@ -48,7 +48,7 @@
       "colorectal and endometrial cancer",
       "cecum and proximal colon",
       "three relatives, two generations",
-      "MLH1, MSH2, MSH6, PMS2",
+      { "img": "data/path/images/path-31-3/1.webp" },
       "defective mismatch repair",
       "hereditary nonpolyposis colorectal cancer"
     ]
@@ -100,7 +100,7 @@
       "onset before age five",
       "ataxia and chorea",
       "myoclonus and neuropathy",
-      "skin and eye telangiectasia",
+      { "img": "data/path/images/path-31-6/1.webp" },
       "leukemia and lymphoma risk",
       "immunodeficiency from poor V(D)J",
       "defective nonhomologous end joining",

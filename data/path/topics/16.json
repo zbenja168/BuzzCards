@@ -7,13 +7,13 @@
     "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
     "type": "disease",
     "buzzwords": [
-      "follows strep pharyngitis",
+      { "img": "data/path/images/path-16-1/1.webp" },
       "children 5-15 years",
       "onset 2 weeks after infection",
       "molecular mimicry of M protein",
       "migratory polyarthritis",
       "Sydenham chorea",
-      "Aschoff bodies, verrucae",
+      { "img": "data/path/images/path-16-1/2.webp" },
       "mitral valve stenosis"
     ]
   },
@@ -31,7 +31,7 @@
       "hypertension and azotemia",
       "immune complex deposition",
       "proliferative glomerulonephritis",
-      "subepithelial humps",
+      { "img": "data/path/images/path-16-2/1.webp" },
       "granular IgG and C3"
     ]
   },
@@ -67,8 +67,8 @@
       "sexually transmitted",
       "urethritis and cervicitis",
       "often asymptomatic",
-      "neonatal conjunctivitis from birth canal",
-      "intracytoplasmic inclusions"
+      { "img": "data/path/images/path-16-4/2.webp" },
+      { "img": "data/path/images/path-16-4/1.webp" }
     ]
   },
   {
@@ -80,13 +80,13 @@
     "type": "disease",
     "buzzwords": [
       "gram-negative diplococci",
-      "intracellular within neutrophils",
+      { "img": "data/path/images/path-16-5/1.webp" },
       "sexually transmitted",
       "neonatal conjunctivitis",
       "septic purulent arthritis",
       "bacteria in synovial fluid",
       "lacks polysaccharide capsule",
-      "pustules on palms and fingers"
+      { "img": "data/path/images/path-16-5/2.webp" }
     ]
   },
   {
@@ -103,7 +103,7 @@
       "nasopharyngeal carriage",
       "spread by respiratory droplets",
       "outbreaks in training camps",
-      "purulent meningitis, nuchal rigidity",
+      { "img": "data/path/images/path-16-6/1.webp" },
       "vaccine preventable"
     ]
   },
@@ -120,9 +120,9 @@
       "young African-American women",
       "diagnosis of exclusion",
       "non-caseating granulomas",
-      "bilateral hilar lymphadenopathy",
+      { "img": "data/path/images/path-16-7/2.webp" },
       "elevated serum ACE",
-      "asteroid bodies"
+      { "img": "data/path/images/path-16-7/1.webp" }
     ]
   }
 ]

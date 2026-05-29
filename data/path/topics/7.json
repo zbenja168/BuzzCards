@@ -28,7 +28,7 @@
       "stimulate cell survival and division",
       "secreted by macrophages and platelets",
       "drive tissue repair",
-      "EGF stimulates epithelial growth",
+      { "img": "data/path/images/path-7-2/1.webp" },
       "VEGF promotes angiogenesis",
       "PDGF recruits fibroblasts",
       "TGF-beta deposits collagen",
@@ -49,7 +49,7 @@
       "collagen gives tensile strength",
       "elastin provides recoil",
       "proteoglycans hydrate tissue",
-      "integrins anchor cells",
+      { "img": "data/path/images/path-7-3/1.webp" },
       "intact ECM allows regeneration"
     ]
   },
@@ -83,7 +83,7 @@
       "minimal tissue loss",
       "relies on epithelial regeneration",
       "begins with blood clot",
-      "neutrophils arrive under 24 hours",
+      { "img": "data/path/images/path-7-5/1.webp" },
       "macrophages dominate by day 3",
       "minimal scar",
       "approximated incision edges"
@@ -101,7 +101,7 @@
       "extensive tissue loss",
       "robust inflammatory response",
       "large fibrin clot",
-      "granulation tissue fills defect",
+      { "img": "data/path/images/path-7-6/1.webp" },
       "wound contraction closes gap",
       "contractile myofibroblasts",
       "slow healing over weeks"
@@ -117,7 +117,7 @@
     "buzzwords": [
       "excessive repair complication",
       "exuberant scarring",
-      "extends beyond wound borders",
+      { "img": "data/path/images/path-7-7/1.webp" },
       "thick brightly eosinophilic collagen",
       "haphazardly arranged fibers",
       "does not regress",

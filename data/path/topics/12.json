@@ -7,14 +7,14 @@
     "brick_title": "Thrombosis and its Consequences",
     "type": "disease",
     "buzzwords": [
-      "intravascular clot",
+      { "img": "data/path/images/path-12-1/2.webp" },
       "obstructs blood flow",
       "endothelial injury",
       "abnormal blood flow",
       "hypercoagulability",
       "stasis or turbulence",
       "arterial vs venous",
-      "Virchow's triad"
+      { "img": "data/path/images/path-12-1/1.webp" }
     ]
   },
   {
@@ -32,7 +32,7 @@
       "fat after long-bone fracture",
       "air bubbles in circulation",
       "amniotic fluid type",
-      "pulmonary embolism"
+      { "img": "data/path/images/path-12-2/1.webp" }
     ]
   },
   {
@@ -50,7 +50,7 @@
       "brain dies in minutes",
       "red infarct dual circulation",
       "white infarct end-arterial",
-      "color names the tissue"
+      { "img": "data/path/images/path-12-3/1.webp" }
     ]
   },
   {

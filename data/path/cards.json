@@ -13,7 +13,9 @@
       "failing Na/K pumps",
       "osmotic imbalance",
       "cellular swelling",
-      "swollen renal tubule cells",
+      {
+        "img": "data/path/images/path-2-1/1.webp"
+      },
       "eosinophilic cytoplasm"
     ]
   },
@@ -30,7 +32,9 @@
       "membrane rupture",
       "leaked lysosomal enzymes",
       "released proteases and nucleases",
-      "necrosis",
+      {
+        "img": "data/path/images/path-2-2/1.webp"
+      },
       "apoptosis",
       "cytochrome c release"
     ]
@@ -48,7 +52,9 @@
       "increased protein production",
       "no change in cell number",
       "occurs in muscle",
-      "left ventricle in hypertension",
+      {
+        "img": "data/path/images/path-2-3/1.webp"
+      },
       "uterus in pregnancy",
       "estrogen-driven enlargement"
     ]
@@ -67,7 +73,9 @@
       "needs replication-capable cells",
       "mammary glands in puberty",
       "excess estrogen stimulation",
-      "endometrial hyperplasia",
+      {
+        "img": "data/path/images/path-2-4/1.webp"
+      },
       "abnormal uterine bleeding"
     ]
   },
@@ -103,7 +111,9 @@
       "differentiated cell switch",
       "reverts if stimulus removed",
       "tobacco smoke trigger",
-      "ciliated columnar to squamous",
+      {
+        "img": "data/path/images/path-2-6/1.webp"
+      },
       "airway squamous metaplasia"
     ]
   },
@@ -122,7 +132,9 @@
       "BAX and BAK channels",
       "cytochrome c released",
       "BCL2 anti-apoptotic",
-      "mitochondrial pathway"
+      {
+        "img": "data/path/images/path-3-1/1.webp"
+      }
     ]
   },
   {
@@ -135,7 +147,9 @@
     "buzzwords": [
       "programmed cell death",
       "starts at plasma membrane",
-      "death receptor pathway",
+      {
+        "img": "data/path/images/path-3-2/1.webp"
+      },
       "cytoplasmic death domain",
       "FADD adaptor",
       "activates caspase-8",
@@ -157,7 +171,9 @@
       "cells deeply eosinophilic",
       "loss of nucleus",
       "seen outside CNS",
-      "localized area is infarct",
+      {
+        "img": "data/path/images/path-3-3/1.webp"
+      },
       "classic in myocardial infarction"
     ]
   },
@@ -175,7 +191,9 @@
       "pus formation",
       "enzymatic tissue breakdown",
       "central nervous system",
-      "brain infarct pattern",
+      {
+        "img": "data/path/images/path-3-4/1.webp"
+      },
       "seen in stroke"
     ]
   },
@@ -190,7 +208,9 @@
       "uncontrolled cell death",
       "friable necrotic material",
       "cheese-like appearance",
-      "off-white grossly",
+      {
+        "img": "data/path/images/path-3-5/1.webp"
+      },
       "fragmented granular debris",
       "associated with granulomas",
       "tuberculosis infection",
@@ -207,7 +227,9 @@
     "buzzwords": [
       "breakdown of adipose tissue",
       "fatty acids plus calcium",
-      "chalky-white substance",
+      {
+        "img": "data/path/images/path-3-6/1.webp"
+      },
       "saponification",
       "basophilic calcium deposits",
       "leaked lipases",
@@ -227,7 +249,9 @@
       "affects vessel walls",
       "fibrin deposition",
       "immune complex deposits",
-      "proteinaceous vessel wall",
+      {
+        "img": "data/path/images/path-3-7/1.webp"
+      },
       "endothelial damage",
       "seen in vasculitis",
       "granulomatosis with polyangiitis"
@@ -246,7 +270,9 @@
       "incisional cuts a portion",
       "used early in workup",
       "guides surgical decisions",
-      "punch uses cylindric blade",
+      {
+        "img": "data/path/images/path-4-1/1.webp"
+      },
       "core uses hollow needle",
       "incisional, punch, or core"
     ]
@@ -263,7 +289,9 @@
       "removes entire lesion",
       "can be curative",
       "diagnostic and therapeutic",
-      "includes safety margin",
+      {
+        "img": "data/path/images/path-4-2/1.webp"
+      },
       "less extensive than resection",
       "excisional biopsy",
       "removes suspicious lump"
@@ -278,7 +306,9 @@
     "type": "physiology",
     "buzzwords": [
       "major surgery",
-      "removes part or all of organ",
+      {
+        "img": "data/path/images/path-4-3/1.webp"
+      },
       "done for malignancy",
       "treats advanced disease",
       "colectomy removes colon",
@@ -299,7 +329,9 @@
       "done intraoperatively",
       "guides next surgical step",
       "preliminary result",
-      "tissue is frozen, not fixed",
+      {
+        "img": "data/path/images/path-4-4/1.webp"
+      },
       "usually under 20 minutes",
       "surgeon waits in OR",
       "intraoperative consultation"
@@ -315,7 +347,9 @@
     "buzzwords": [
       "routine tissue processing",
       "formalin-fixed",
-      "paraffin-embedded block",
+      {
+        "img": "data/path/images/path-4-5/1.webp"
+      },
       "thinly cut and stained",
       "blocks stored 10 years",
       "hematoxylin stains nuclei blue",
@@ -335,7 +369,9 @@
       "highlights specific components",
       "added when needed",
       "trichrome shows fibrosis",
-      "silver stain for fungi",
+      {
+        "img": "data/path/images/path-4-6/1.webp"
+      },
       "hyphae stain dark gray",
       "Masson trichrome",
       "Grocott-Gomori GMS"
@@ -351,7 +387,9 @@
     "buzzwords": [
       "antibody-based test",
       "targets molecular antigen",
-      "stains brown under scope",
+      {
+        "img": "data/path/images/path-4-7/1.webp"
+      },
       "confirms tumor origin",
       "cytokeratins mark epithelium",
       "positive confirms carcinoma",
@@ -389,7 +427,9 @@
       "minimally invasive",
       "fewer cells than surgical specimen",
       "loses tissue architecture",
-      "Pap smear screens cervix",
+      {
+        "img": "data/path/images/path-4-9/1.webp"
+      },
       "body fluids sent for analysis",
       "FNA for thyroid nodules",
       "fine needle aspiration"
@@ -407,7 +447,9 @@
       "arrive within hours",
       "most abundant WBC",
       "~60% of WBCs",
-      "granulocyte",
+      {
+        "img": "data/path/images/path-5-1/1.webp"
+      },
       "kill via phagocytosis",
       "release antimicrobial proteins",
       "activity peaks at 24 hours"
@@ -421,7 +463,9 @@
     "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
     "type": "physiology",
     "buzzwords": [
-      "found in body tissues",
+      {
+        "img": "data/path/images/path-5-2/1.webp"
+      },
       "clear cellular debris",
       "secrete cytokines",
       "antigen-presenting cells",
@@ -476,7 +520,9 @@
     "type": "physiology",
     "buzzwords": [
       "four classic signs",
-      "redness from blood flow",
+      {
+        "img": "data/path/images/path-5-5/1.webp"
+      },
       "heat from blood flow",
       "swelling from fluid leak",
       "pain from nerve stimuli",
@@ -498,7 +544,9 @@
       "neutrophil accumulation",
       "pus formation",
       "often bacterial cause",
-      "seen in pneumonia",
+      {
+        "img": "data/path/images/path-5-6/1.webp"
+      },
       "fills alveolar spaces",
       "suppurative inflammation"
     ]
@@ -517,7 +565,9 @@
       "from hydrostatic imbalance",
       "few cellular elements",
       "seen in heart failure",
-      "skin blister example",
+      {
+        "img": "data/path/images/path-5-7/1.webp"
+      },
       "serous effusion"
     ]
   },
@@ -534,7 +584,9 @@
       "fibrin deposits in tissue",
       "from procoagulant stimulus",
       "lines body cavities",
-      "affects pericardium",
+      {
+        "img": "data/path/images/path-5-8/1.webp"
+      },
       "affects meninges and pleura",
       "fibrinous pericarditis"
     ]
@@ -553,7 +605,9 @@
       "loss of epithelium",
       "inflammatory exudate at base",
       "leaves a crater",
-      "duodenal example",
+      {
+        "img": "data/path/images/path-5-9/1.webp"
+      },
       "duodenal ulcer"
     ]
   },
@@ -637,7 +691,9 @@
     "brick_title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
     "type": "physiology",
     "buzzwords": [
-      "white blood cell",
+      {
+        "img": "data/path/images/path-6-2/1.webp"
+      },
       "two subtypes",
       "T cells and B cells",
       "produce inflammatory cytokines",
@@ -659,7 +715,9 @@
       "secrete antibody",
       "tag pathogens for destruction",
       "prominent in autoimmune disease",
-      "eccentric nucleus",
+      {
+        "img": "data/path/images/path-6-3/1.webp"
+      },
       "clumped clock-face chromatin",
       "blue cytoplasm",
       "perinuclear hof"
@@ -680,7 +738,9 @@
       "surrounding T lymphocytes",
       "caseating in tuberculosis",
       "non-caseating in sarcoidosis",
-      "central necrotic core"
+      {
+        "img": "data/path/images/path-6-4/1.webp"
+      }
     ]
   },
   {
@@ -714,7 +774,9 @@
       "regeneration impossible",
       "irreversibly reduced function",
       "driven by chronic alcohol",
-      "fibrous bands around hepatocytes",
+      {
+        "img": "data/path/images/path-6-6/1.webp"
+      },
       "raises portal pressure",
       "seen in hepatitis C"
     ]
@@ -728,7 +790,9 @@
     "type": "disease",
     "buzzwords": [
       "arterial narrowing",
-      "lipid-laden plaque",
+      {
+        "img": "data/path/images/path-6-7/1.webp"
+      },
       "chronic vessel wall inflammation",
       "worsened by smoking and diabetes",
       "thin fibrous cap",
@@ -766,7 +830,9 @@
       "stimulate cell survival and division",
       "secreted by macrophages and platelets",
       "drive tissue repair",
-      "EGF stimulates epithelial growth",
+      {
+        "img": "data/path/images/path-7-2/1.webp"
+      },
       "VEGF promotes angiogenesis",
       "PDGF recruits fibroblasts",
       "TGF-beta deposits collagen",
@@ -787,7 +853,9 @@
       "collagen gives tensile strength",
       "elastin provides recoil",
       "proteoglycans hydrate tissue",
-      "integrins anchor cells",
+      {
+        "img": "data/path/images/path-7-3/1.webp"
+      },
       "intact ECM allows regeneration"
     ]
   },
@@ -821,7 +889,9 @@
       "minimal tissue loss",
       "relies on epithelial regeneration",
       "begins with blood clot",
-      "neutrophils arrive under 24 hours",
+      {
+        "img": "data/path/images/path-7-5/1.webp"
+      },
       "macrophages dominate by day 3",
       "minimal scar",
       "approximated incision edges"
@@ -839,7 +909,9 @@
       "extensive tissue loss",
       "robust inflammatory response",
       "large fibrin clot",
-      "granulation tissue fills defect",
+      {
+        "img": "data/path/images/path-7-6/1.webp"
+      },
       "wound contraction closes gap",
       "contractile myofibroblasts",
       "slow healing over weeks"
@@ -855,7 +927,9 @@
     "buzzwords": [
       "excessive repair complication",
       "exuberant scarring",
-      "extends beyond wound borders",
+      {
+        "img": "data/path/images/path-7-7/1.webp"
+      },
       "thick brightly eosinophilic collagen",
       "haphazardly arranged fibers",
       "does not regress",
@@ -877,7 +951,9 @@
       "200x affinity over oxygen",
       "blocks oxygen transport",
       "tissue hypoxia",
-      "cherry-red skin",
+      {
+        "img": "data/path/images/path-8-1/1.webp"
+      },
       "carboxyhemoglobin"
     ]
   },
@@ -895,8 +971,12 @@
       "kids absorb more",
       "epiphyseal lead lines",
       "wrist drop",
-      "basophilic stippling",
-      "blue gingival line"
+      {
+        "img": "data/path/images/path-8-2/1.webp"
+      },
+      {
+        "img": "data/path/images/path-8-2/2.webp"
+      }
     ]
   },
   {
@@ -932,7 +1012,9 @@
       "garlicky breath",
       "sensorimotor neuropathy",
       "cardiac arrhythmias",
-      "transverse white nail bands"
+      {
+        "img": "data/path/images/path-8-4/1.webp"
+      }
     ]
   },
   {
@@ -949,7 +1031,9 @@
       "nicotine vasoconstriction",
       "impairs wound healing",
       "oncogenic DNA mutations",
-      "emphysema",
+      {
+        "img": "data/path/images/path-8-5/1.webp"
+      },
       "carboxyhemoglobin from smoke"
     ]
   },
@@ -965,82 +1049,140 @@
       "MEOS uses CYP2E1",
       "acetaldehyde-DNA adducts",
       "high NADH/NAD ratio",
-      "hepatic steatosis to cirrhosis",
+      {
+        "img": "data/path/images/path-8-6/1.webp"
+      },
       "esophageal varices",
-      "fetal alcohol syndrome",
+      {
+        "img": "data/path/images/path-8-6/2.webp"
+      },
       "Wernicke-Korsakoff thiamine deficiency"
     ]
   },
   {
     "id": "path-9-1",
-    "title": "Mechanical Injury",
+    "title": "Mechanical Trauma",
     "course": "path",
     "brick_id": "9",
-    "brick_title": "Environmental Disease",
+    "brick_title": "Environmental Disease Part 2 of 2: Physical Agents",
     "type": "disease",
     "buzzwords": [
-      "physical force trauma",
-      "blunt or sharp",
-      "abrasion scrapes epidermis",
-      "contusion is a bruise",
-      "laceration has irregular torn edges",
-      "incision has clean edges",
-      "puncture deep and narrow",
-      "tissue bridging distinguishes laceration"
+      "blunt vs sharp",
+      "abrasion scrapes skin",
+      "contusion is bruise",
+      {
+        "img": "data/path/images/path-9-1/2.webp"
+      },
+      "stab deeper than wide",
+      "incised longer than deep",
+      {
+        "img": "data/path/images/path-9-1/1.webp"
+      },
+      "hesitation marks"
     ]
   },
   {
     "id": "path-9-2",
-    "title": "Thermal Injury",
+    "title": "Burns",
     "course": "path",
     "brick_id": "9",
-    "brick_title": "Environmental Disease",
+    "brick_title": "Environmental Disease Part 2 of 2: Physical Agents",
     "type": "disease",
     "buzzwords": [
-      "heat or cold damage",
-      "graded by depth",
-      "first degree spares dermis",
-      "second degree blisters",
-      "third degree full thickness",
-      "fluid loss and infection risk",
-      "hypothermia slows metabolism",
-      "frostbite causes ice crystal necrosis"
+      {
+        "img": "data/path/images/path-9-2/1.webp"
+      },
+      "TBSA estimation",
+      "superficial spares dermis",
+      "partial-thickness blisters",
+      {
+        "img": "data/path/images/path-9-2/2.webp"
+      },
+      "full-thickness leathery eschar",
+      "circumferential needs escharotomy",
+      "hypertrophic scarring"
     ]
   },
   {
     "id": "path-9-3",
-    "title": "Radiation Injury",
+    "title": "Electrical Injury",
     "course": "path",
     "brick_id": "9",
-    "brick_title": "Environmental Disease",
+    "brick_title": "Environmental Disease Part 2 of 2: Physical Agents",
     "type": "disease",
     "buzzwords": [
-      "energy emitted as waves",
-      "ionizing versus nonionizing",
-      "damages DNA directly",
-      "generates free radicals",
-      "dividing cells most vulnerable",
-      "gut and marrow hit first",
-      "carcinogenic long term",
-      "fibrosis of irradiated tissue"
+      "disrupts conduction",
+      "neuronal damage",
+      "muscle tetany",
+      "respiratory paralysis",
+      "fatal arrhythmia",
+      "ventricular fibrillation",
+      {
+        "img": "data/path/images/path-9-3/1.webp"
+      },
+      {
+        "img": "data/path/images/path-9-3/2.webp"
+      }
     ]
   },
   {
     "id": "path-9-4",
-    "title": "Climate and Social Threats",
+    "title": "Hyperthermia",
     "course": "path",
     "brick_id": "9",
-    "brick_title": "Environmental Disease",
+    "brick_title": "Environmental Disease Part 2 of 2: Physical Agents",
     "type": "disease",
     "buzzwords": [
-      "population level health threats",
-      "warming expands vector range",
-      "heat waves raise mortality",
-      "air pollution worsens disease",
-      "extreme weather displaces populations",
-      "poverty limits care access",
-      "food and water insecurity",
-      "social determinants of health"
+      "abnormally high temperature",
+      "heat cramps",
+      "heat exhaustion",
+      "hypovolemic collapse",
+      "altered mental status",
+      "rhabdomyolysis",
+      "core above 40C",
+      "heat stroke stops sweating"
+    ]
+  },
+  {
+    "id": "path-9-5",
+    "title": "Hypothermia",
+    "course": "path",
+    "brick_id": "9",
+    "brick_title": "Environmental Disease Part 2 of 2: Physical Agents",
+    "type": "disease",
+    "buzzwords": [
+      "abnormally low temperature",
+      "core below 35C",
+      "water crystallization",
+      "increased blood viscosity",
+      "vasoconstriction and ischemia",
+      "paradoxical undressing",
+      {
+        "img": "data/path/images/path-9-5/2.webp"
+      },
+      {
+        "img": "data/path/images/path-9-5/1.webp"
+      }
+    ]
+  },
+  {
+    "id": "path-9-6",
+    "title": "Radiation Injury",
+    "course": "path",
+    "brick_id": "9",
+    "brick_title": "Environmental Disease Part 2 of 2: Physical Agents",
+    "type": "disease",
+    "buzzwords": [
+      "nonionizing vs ionizing",
+      "UV causes skin cancer",
+      {
+        "img": "data/path/images/path-9-6/1.webp"
+      },
+      "generates reactive oxygen species",
+      "carcinogenesis and teratogenesis",
+      "adjacent thymidine crosslinks",
+      "UVB pyrimidine dimers",
+      "basal cell carcinoma"
     ]
   },
   {
@@ -1051,7 +1193,9 @@
     "brick_title": "Autopsy",
     "type": "physiology",
     "buzzwords": [
-      "post-mortem exam",
+      {
+        "img": "data/path/images/path-10-1/1.webp"
+      },
       "investigates natural disease",
       "documents underlying diagnosis",
       "hospital setting",
@@ -1090,7 +1234,9 @@
       "the injury or disease",
       "directly resulted in death",
       "documented on certificate",
-      "lists antecedent intervals",
+      {
+        "img": "data/path/images/path-10-3/1.webp"
+      },
       "the gunshot wound itself",
       "disseminated aspergillosis example",
       "atherosclerotic coronary disease",
@@ -1179,7 +1325,9 @@
     "buzzwords": [
       "core of autopsy report",
       "lists diagnoses and findings",
-      "gross plus microscopic",
+      {
+        "img": "data/path/images/path-10-8/1.webp"
+      },
       "organized by organ system",
       "released within 90 days",
       "preliminary diagnosis first",
@@ -1214,7 +1362,9 @@
     "type": "physiology",
     "buzzwords": [
       "fluid accumulation",
-      "Starling forces disturbed",
+      {
+        "img": "data/path/images/path-11-1/1.webp"
+      },
       "tissue swelling",
       "edema in tissues",
       "effusion in body cavity",
@@ -1237,7 +1387,9 @@
       "reduced colloid osmotic pressure",
       "hypoalbuminemia",
       "sodium and water retention",
-      "lymphatic obstruction",
+      {
+        "img": "data/path/images/path-11-2/1.webp"
+      },
       "increased vascular permeability"
     ]
   },
@@ -1250,7 +1402,9 @@
     "type": "physiology",
     "buzzwords": [
       "fluid collection types",
-      "exudate is inflammatory",
+      {
+        "img": "data/path/images/path-11-3/1.webp"
+      },
       "transudate non-inflammatory",
       "exudate protein-rich",
       "high cellularity exudate",
@@ -1303,14 +1457,18 @@
     "brick_title": "Thrombosis and its Consequences",
     "type": "disease",
     "buzzwords": [
-      "intravascular clot",
+      {
+        "img": "data/path/images/path-12-1/2.webp"
+      },
       "obstructs blood flow",
       "endothelial injury",
       "abnormal blood flow",
       "hypercoagulability",
       "stasis or turbulence",
       "arterial vs venous",
-      "Virchow's triad"
+      {
+        "img": "data/path/images/path-12-1/1.webp"
+      }
     ]
   },
   {
@@ -1328,7 +1486,9 @@
       "fat after long-bone fracture",
       "air bubbles in circulation",
       "amniotic fluid type",
-      "pulmonary embolism"
+      {
+        "img": "data/path/images/path-12-2/1.webp"
+      }
     ]
   },
   {
@@ -1346,7 +1506,9 @@
       "brain dies in minutes",
       "red infarct dual circulation",
       "white infarct end-arterial",
-      "color names the tissue"
+      {
+        "img": "data/path/images/path-12-3/1.webp"
+      }
     ]
   },
   {
@@ -1376,7 +1538,9 @@
     "type": "lab",
     "buzzwords": [
       "total testing process",
-      "three phases",
+      {
+        "img": "data/path/images/path-13-1/1.webp"
+      },
       "order to result",
       "most errors here",
       "specimen collection step",
@@ -1469,7 +1633,9 @@
       "cultures",
       "diagnoses infection",
       "susceptibility testing",
-      "zone of inhibition",
+      {
+        "img": "data/path/images/path-13-6/1.webp"
+      },
       "disk diffusion method",
       "antibiogram trends",
       "guides antibiotic choice"
@@ -1485,7 +1651,9 @@
     "buzzwords": [
       "evaluates urine",
       "visual appearance exam",
-      "dipstick chemical test",
+      {
+        "img": "data/path/images/path-13-7/1.webp"
+      },
       "microscopic exam",
       "checks pH and protein",
       "glucose ketones bilirubin",
@@ -1505,8 +1673,12 @@
       "female predominance",
       "photosensitivity",
       "oral ulcers, serositis",
-      "type 3 hypersensitivity",
-      "butterfly malar rash",
+      {
+        "img": "data/path/images/path-15-1/2.webp"
+      },
+      {
+        "img": "data/path/images/path-15-1/1.webp"
+      },
       "Libman-Sacks endocarditis",
       "anti-dsDNA, anti-Smith"
     ]
@@ -1522,8 +1694,12 @@
       "symmetric joint inflammation",
       "swollen warm painful joints",
       "hands and feet",
-      "synovial hyperplasia",
-      "pannus erodes cartilage",
+      {
+        "img": "data/path/images/path-15-2/2.webp"
+      },
+      {
+        "img": "data/path/images/path-15-2/1.webp"
+      },
       "CD4+ helper T cytokines",
       "rheumatoid factor (IgM)",
       "anti-CCP antibodies"
@@ -1540,7 +1716,9 @@
       "kidney and lung injury",
       "teens to 20s",
       "male predominance",
-      "hemoptysis",
+      {
+        "img": "data/path/images/path-15-3/1.webp"
+      },
       "rapidly progressive glomerulonephritis",
       "treated with plasmapheresis",
       "anti-collagen type IV",
@@ -1561,7 +1739,9 @@
       "saddle nose deformity",
       "lung nodules and cavities",
       "nephritic syndrome, hematuria",
-      "multinucleated giant cells",
+      {
+        "img": "data/path/images/path-15-4/1.webp"
+      },
       "PR3-ANCA (c-ANCA)"
     ]
   },
@@ -1575,12 +1755,16 @@
     "buzzwords": [
       "childhood syndrome",
       "ages 3 to 8",
-      "palpable purpura",
+      {
+        "img": "data/path/images/path-15-5/1.webp"
+      },
       "extensor surfaces and buttocks",
       "abdominal pain, GI bleeding",
       "arthralgias",
       "immune complex deposition",
-      "IgA and C3 deposits"
+      {
+        "img": "data/path/images/path-15-5/2.webp"
+      }
     ]
   },
   {
@@ -1591,13 +1775,17 @@
     "brick_title": "Immune-mediated Damage from Infections and Granulomatous Diseases",
     "type": "disease",
     "buzzwords": [
-      "follows strep pharyngitis",
+      {
+        "img": "data/path/images/path-16-1/1.webp"
+      },
       "children 5-15 years",
       "onset 2 weeks after infection",
       "molecular mimicry of M protein",
       "migratory polyarthritis",
       "Sydenham chorea",
-      "Aschoff bodies, verrucae",
+      {
+        "img": "data/path/images/path-16-1/2.webp"
+      },
       "mitral valve stenosis"
     ]
   },
@@ -1615,7 +1803,9 @@
       "hypertension and azotemia",
       "immune complex deposition",
       "proliferative glomerulonephritis",
-      "subepithelial humps",
+      {
+        "img": "data/path/images/path-16-2/1.webp"
+      },
       "granular IgG and C3"
     ]
   },
@@ -1651,8 +1841,12 @@
       "sexually transmitted",
       "urethritis and cervicitis",
       "often asymptomatic",
-      "neonatal conjunctivitis from birth canal",
-      "intracytoplasmic inclusions"
+      {
+        "img": "data/path/images/path-16-4/2.webp"
+      },
+      {
+        "img": "data/path/images/path-16-4/1.webp"
+      }
     ]
   },
   {
@@ -1664,13 +1858,17 @@
     "type": "disease",
     "buzzwords": [
       "gram-negative diplococci",
-      "intracellular within neutrophils",
+      {
+        "img": "data/path/images/path-16-5/1.webp"
+      },
       "sexually transmitted",
       "neonatal conjunctivitis",
       "septic purulent arthritis",
       "bacteria in synovial fluid",
       "lacks polysaccharide capsule",
-      "pustules on palms and fingers"
+      {
+        "img": "data/path/images/path-16-5/2.webp"
+      }
     ]
   },
   {
@@ -1687,7 +1885,9 @@
       "nasopharyngeal carriage",
       "spread by respiratory droplets",
       "outbreaks in training camps",
-      "purulent meningitis, nuchal rigidity",
+      {
+        "img": "data/path/images/path-16-6/1.webp"
+      },
       "vaccine preventable"
     ]
   },
@@ -1704,9 +1904,13 @@
       "young African-American women",
       "diagnosis of exclusion",
       "non-caseating granulomas",
-      "bilateral hilar lymphadenopathy",
+      {
+        "img": "data/path/images/path-16-7/2.webp"
+      },
       "elevated serum ACE",
-      "asteroid bodies"
+      {
+        "img": "data/path/images/path-16-7/1.webp"
+      }
     ]
   },
   {
@@ -1739,7 +1943,9 @@
       "uses lymphatics and blood",
       "bacteria in blood is septicemia",
       "lymph nodes then bloodstream",
-      "seeds heart causing endocarditis",
+      {
+        "img": "data/path/images/path-17-2/1.webp"
+      },
       "IV drug use introduces bacteria",
       "spread along peripheral nerves",
       "retrograde axonal transport"
@@ -1775,7 +1981,9 @@
       "increased vascular permeability",
       "neutrophil-dominated infiltrate",
       "pus and purulence",
-      "localized collection is an abscess",
+      {
+        "img": "data/path/images/path-17-4/1.webp"
+      },
       "caused by pyogenic bacteria",
       "Staphylococcus aureus example",
       "purulent exudate"
@@ -1790,7 +1998,9 @@
     "type": "physiology",
     "buzzwords": [
       "histologic pattern of reaction",
-      "lymphocyte-rich infiltrate",
+      {
+        "img": "data/path/images/path-17-5/1.webp"
+      },
       "response to viruses",
       "intracellular bacteria and parasites",
       "seen with spirochetes",
@@ -1810,7 +2020,9 @@
       "histologic pattern of reaction",
       "damage inside the cell",
       "viral aggregates and inclusions",
-      "multinucleation",
+      {
+        "img": "data/path/images/path-17-6/1.webp"
+      },
       "HSV and CMV changes",
       "epithelial proliferation by HPV",
       "verrucous warts",
@@ -1844,7 +2056,9 @@
     "type": "physiology",
     "buzzwords": [
       "secreted exotoxin",
-      "A-B subunit structure",
+      {
+        "img": "data/path/images/path-17-8/1.webp"
+      },
       "B binds and enters via endocytosis",
       "A-component inhibits protein synthesis",
       "blocks the ribosome",
@@ -1899,7 +2113,9 @@
     "buzzwords": [
       "recurrent infections",
       "bleeding tendency",
-      "giant cytoplasmic granules",
+      {
+        "img": "data/path/images/path-18-2/1.webp"
+      },
       "partial albinism",
       "silvery hair",
       "neurologic defects",
@@ -1935,7 +2151,9 @@
     "buzzwords": [
       "recurrent infections",
       "liver abscess",
-      "granulomatous inflammation",
+      {
+        "img": "data/path/images/path-18-4/1.webp"
+      },
       "impaired intracellular killing",
       "no respiratory burst",
       "catalase-positive organisms",
@@ -1975,7 +2193,9 @@
       "C3b coats pathogens",
       "classical pathway by antibody",
       "lyses microbes",
-      "transmembrane pore",
+      {
+        "img": "data/path/images/path-18-6/1.webp"
+      },
       "membrane attack complex"
     ]
   },
@@ -1991,7 +2211,9 @@
       "made by infected cells",
       "induced by dsRNA",
       "stops protein synthesis",
-      "blocks viral replication",
+      {
+        "img": "data/path/images/path-18-7/1.webp"
+      },
       "activates oligosynthetase",
       "degrades mRNA",
       "inhibits eIF-2"
@@ -2011,7 +2233,9 @@
       "crosses placenta",
       "escapes phagosome",
       "cell-to-cell spread",
-      "actin comet tail",
+      {
+        "img": "data/path/images/path-18-8/1.webp"
+      },
       "listeriolysin O"
     ]
   },
@@ -2025,7 +2249,9 @@
     "buzzwords": [
       "evades adaptive immunity",
       "changes surface antigens",
-      "escapes antibody attack",
+      {
+        "img": "data/path/images/path-18-9/1.webp"
+      },
       "alters pili proteins",
       "homologous recombination of pilin",
       "OPA gene mutations",
@@ -2047,8 +2273,12 @@
       "survives in macrophages",
       "blocks phagolysosome formation",
       "Th1 / IFN-gamma response",
-      "acid-fast bacilli",
-      "caseating granuloma"
+      {
+        "img": "data/path/images/path-19-1/1.webp"
+      },
+      {
+        "img": "data/path/images/path-19-1/2.webp"
+      }
     ]
   },
   {
@@ -2066,7 +2296,9 @@
       "painless lesion",
       "solitary ulcer",
       "plasma cell infiltrate",
-      "chancre"
+      {
+        "img": "data/path/images/path-19-2/1.webp"
+      }
     ]
   },
   {
@@ -2080,11 +2312,15 @@
       "disseminated infection",
       "2-8 weeks after chancre",
       "multiple skin lesions",
-      "palms and soles rash",
+      {
+        "img": "data/path/images/path-19-3/1.webp"
+      },
       "patchy alopecia",
       "endarteritis of small vessels",
       "maculopapular rash",
-      "condylomata lata"
+      {
+        "img": "data/path/images/path-19-3/2.webp"
+      }
     ]
   },
   {
@@ -2101,8 +2337,12 @@
       "meningovascular meningitis",
       "general paresis dementia",
       "posterior column degeneration",
-      "tabes dorsalis",
-      "Argyll Robertson pupil"
+      {
+        "img": "data/path/images/path-19-4/1.webp"
+      },
+      {
+        "img": "data/path/images/path-19-4/2.webp"
+      }
     ]
   },
   {
@@ -2120,7 +2360,9 @@
       "interstitial keratitis",
       "saber shins",
       "saddle nose deformity",
-      "Hutchinson teeth"
+      {
+        "img": "data/path/images/path-19-5/1.webp"
+      }
     ]
   },
   {
@@ -2137,7 +2379,9 @@
       "early localized stage",
       "annular rash, pale center",
       "late stage arthritis",
-      "bullseye target lesion",
+      {
+        "img": "data/path/images/path-20-1/1.webp"
+      },
       "Borrelia burgdorferi, erythema migrans"
     ]
   },
@@ -2188,10 +2432,14 @@
       "AIDS-defining fungal pneumonia",
       "dyspnea, dry cough",
       "respiratory failure if untreated",
-      "bilateral interstitial infiltrates",
+      {
+        "img": "data/path/images/path-20-4/1.webp"
+      },
       "ground-glass opacities on CT",
       "bronchoalveolar lavage diagnosis",
-      "GMS stains cyst walls",
+      {
+        "img": "data/path/images/path-20-4/2.webp"
+      },
       "Pneumocystis jirovecii"
     ]
   },
@@ -2205,7 +2453,9 @@
     "buzzwords": [
       "AIDS-defining brain infection",
       "reactivation in immunocompromised",
-      "ring-enhancing brain lesions",
+      {
+        "img": "data/path/images/path-20-5/1.webp"
+      },
       "multiple abscesses, necrotic foci",
       "MRI shows enhancing lesions",
       "neurologic deficits",
@@ -2226,7 +2476,9 @@
       "meningoencephalitis",
       "leptomeninges and brain",
       "retinitis causes blindness",
-      "fundus inflammation, hemorrhage",
+      {
+        "img": "data/path/images/path-20-6/1.webp"
+      },
       "common in transplant patients",
       "cytomegalovirus"
     ]
@@ -2242,8 +2494,12 @@
       "AIDS-associated neoplasm",
       "vascular tumor",
       "cutaneous, mucosal, visceral lesions",
-      "violaceous patches and plaques",
-      "proliferating endothelial cells",
+      {
+        "img": "data/path/images/path-20-7/1.webp"
+      },
+      {
+        "img": "data/path/images/path-20-7/2.webp"
+      },
       "bland spindled cells",
       "human herpesvirus-8",
       "HHV8 (KSHV)"
@@ -2294,7 +2550,9 @@
     "type": "physiology",
     "buzzwords": [
       "self vs non-self",
-      "chromosome 6 short arm",
+      {
+        "img": "data/path/images/path-21-3/1.webp"
+      },
       "highly polymorphic genes",
       "class I and class II key",
       "12 total class I/II genes",
@@ -2332,9 +2590,13 @@
       "frozen section viability",
       "graded for transplant use",
       "portal tract inflammation",
-      "collagen fibrosis",
+      {
+        "img": "data/path/images/path-21-5/2.webp"
+      },
       "coagulative hepatocyte necrosis",
-      "fat droplets in cells",
+      {
+        "img": "data/path/images/path-21-5/1.webp"
+      },
       ">30% steatosis relative contraindication",
       ">60% macrovesicular absolute contraindication"
     ]
@@ -2350,10 +2612,14 @@
       "frozen section at procurement",
       "extended-criteria donors",
       "interstitial fibrosis, inflammation",
-      "arterial sclerosis intimal thickening",
+      {
+        "img": "data/path/images/path-21-6/1.webp"
+      },
       "eosinophilic vessel wall deposit",
       "arteriolar hyalinization",
-      "global glomerulosclerosis",
+      {
+        "img": "data/path/images/path-21-6/2.webp"
+      },
       ">50% glomerulus hyalinized"
     ]
   },
@@ -2388,7 +2654,9 @@
       "pre-formed antibodies",
       "type II hypersensitivity",
       "anti-ABO antibodies",
-      "complement activation",
+      {
+        "img": "data/path/images/22/path-22-1.webp"
+      },
       "endothelial thrombosis",
       "ischemia and necrosis"
     ]
@@ -2406,7 +2674,9 @@
       "cellular and humoral",
       "responds to immunosuppression",
       "CD8 T cells kill graft",
-      "tubulitis",
+      {
+        "img": "data/path/images/22/path-22-2.webp"
+      },
       "endothelialitis",
       "rejection vasculitis"
     ]
@@ -2425,7 +2695,9 @@
       "smooth muscle proliferation",
       "vessel wall thickening",
       "vessel occlusion",
-      "graft arteriosclerosis",
+      {
+        "img": "data/path/images/22/path-22-3.webp"
+      },
       "interstitial fibrosis"
     ]
   },
@@ -2441,7 +2713,9 @@
       "donor cells attack recipient",
       "allogeneic transplant",
       "donor T lymphocytes",
-      "maculopapular rash",
+      {
+        "img": "data/path/images/22/path-22-4.webp"
+      },
       "jaundice and diarrhea",
       "hepatosplenomegaly",
       "skin liver gut targeted"
@@ -2567,7 +2841,9 @@
       "female predominance",
       "responds to immunosuppression",
       "elevated transaminases",
-      "interface hepatitis",
+      {
+        "img": "data/path/images/path-24-1/1.webp"
+      },
       "plasma cell clusters",
       "anti-smooth muscle antibody",
       "anti-LKM-1 antibody"
@@ -2583,11 +2859,15 @@
     "buzzwords": [
       "autoimmune cholestasis",
       "strong female predominance",
-      "fatigue and pruritis",
+      {
+        "img": "data/path/images/path-24-2/1.webp"
+      },
       "small intrahepatic ducts",
       "elevated alkaline phosphatase",
       "granulomatous duct destruction",
-      "florid duct lesion",
+      {
+        "img": "data/path/images/path-24-2/2.webp"
+      },
       "anti-mitochondrial antibody"
     ]
   },
@@ -2604,8 +2884,12 @@
       "ulcerative colitis association",
       "large intrahepatic ducts",
       "periductal fibrosis",
-      "onion-skin scarring",
-      "beading on MRCP",
+      {
+        "img": "data/path/images/path-24-3/1.webp"
+      },
+      {
+        "img": "data/path/images/path-24-3/2.webp"
+      },
       "elevated p-ANCA"
     ]
   },
@@ -2621,8 +2905,12 @@
       "parenteral transmission",
       "IV drug use",
       "relapsing transaminase elevation",
-      "portal lymphocytic inflammation",
-      "bridging fibrosis",
+      {
+        "img": "data/path/images/path-24-4/1.webp"
+      },
+      {
+        "img": "data/path/images/path-24-4/2.webp"
+      },
       "HCV RNA PCR positive",
       "anti-HCV antibodies"
     ]
@@ -2654,7 +2942,9 @@
     "type": "disease",
     "buzzwords": [
       "invades local tissue",
-      "high mitotic activity",
+      {
+        "img": "data/path/images/path-25-2/1.webp"
+      },
       "contains necrosis",
       "no capsule",
       "worse prognosis",
@@ -2676,7 +2966,9 @@
       "little mitotic activity",
       "no necrosis",
       "well-differentiated",
-      "surrounded by capsule",
+      {
+        "img": "data/path/images/path-25-3/1.webp"
+      },
       "does not metastasize",
       "better prognosis"
     ]
@@ -2693,7 +2985,9 @@
       "well-differentiated looks normal",
       "poorly differentiated",
       "guides tumor grade",
-      "no resemblance at all",
+      {
+        "img": "data/path/images/path-25-4/1.webp"
+      },
       "undifferentiated cells",
       "extreme far end",
       "anaplasia"
@@ -2713,7 +3007,9 @@
       "reversible",
       "airway columnar to squamous",
       "squamous to columnar in esophagus",
-      "goblet cells appear",
+      {
+        "img": "data/path/images/path-25-5/1.webp"
+      },
       "Barrett esophagus"
     ]
   },
@@ -2732,7 +3028,9 @@
       "loss of polarity",
       "precedes cancer",
       "graded mild to severe",
-      "cervical CIN grading"
+      {
+        "img": "data/path/images/path-25-6/1.webp"
+      }
     ]
   },
   {
@@ -2785,7 +3083,9 @@
       "tumor-secreted proteases",
       "amoeboid migration",
       "overexpresses laminin receptors",
-      "loss of E-cadherin",
+      {
+        "img": "data/path/images/26/path-26-1/1.webp"
+      },
       "cleaves extracellular matrix"
     ]
   },
@@ -2839,7 +3139,9 @@
       "follows lymphatic drainage",
       "regional node involvement",
       "sentinel node first",
-      "axillary nodes in breast cancer",
+      {
+        "img": "data/path/images/26/path-26-4/1.webp"
+      },
       "epithelial-derived tumors"
     ]
   },
@@ -2851,7 +3153,9 @@
     "brick_title": "Cancer Growth and Metastasis",
     "type": "physiology",
     "buzzwords": [
-      "via arteries or veins",
+      {
+        "img": "data/path/images/26/path-26-5/1.webp"
+      },
       "typical of sarcomas",
       "follows venous drainage",
       "liver and lung common sites",
@@ -2876,7 +3180,9 @@
       "joint cavities",
       "subarachnoid space",
       "glioblastoma drop metastases",
-      "ovarian carcinoma omental caking"
+      {
+        "img": "data/path/images/26/path-26-6/1.webp"
+      }
     ]
   },
   {
@@ -2892,7 +3198,9 @@
       "cough and dyspnea",
       "hemoptysis",
       "never-smokers",
-      "lung adenocarcinoma",
+      {
+        "img": "data/path/images/path-27-1/1.webp"
+      },
       "treated with necitumumab",
       "cetuximab in colorectal"
     ]
@@ -2912,7 +3220,9 @@
       "GTPase-activating proteins limit",
       "point mutations activate",
       "HRAS, KRAS, NRAS",
-      "KRAS in pancreatic cancer"
+      {
+        "img": "data/path/images/path-27-2/1.webp"
+      }
     ]
   },
   {
@@ -2929,7 +3239,9 @@
       "UV light exposure",
       "brown irregular skin lesion",
       "transformed melanocytes",
-      "cutaneous melanoma",
+      {
+        "img": "data/path/images/path-27-3/1.webp"
+      },
       "dabrafenib inhibitor"
     ]
   },
@@ -2962,7 +3274,9 @@
       "constitutive tyrosine kinase",
       "chromosomal translocation",
       "leukocytosis with eosinophilia",
-      "small hypolobated megakaryocytes",
+      {
+        "img": "data/path/images/path-27-5/1.webp"
+      },
       "chronic myeloid leukemia",
       "t(9;22)",
       "Philadelphia chromosome",
@@ -2998,7 +3312,9 @@
       "neural crest origin",
       "pediatric tumor",
       "abdominal distension",
-      "small round blue cells",
+      {
+        "img": "data/path/images/path-27-7/1.webp"
+      },
       "arises in adrenal gland",
       "Homer Wright rosettes",
       "MYCN amplification",
@@ -3016,7 +3332,9 @@
       "neoplastic B cells",
       "medium-sized lymphocytes",
       "tingible-body macrophages",
-      "starry sky appearance",
+      {
+        "img": "data/path/images/path-27-8/1.webp"
+      },
       "t(8;14)",
       "IG::MYC rearrangement",
       "MYC overexpressed",
@@ -3036,7 +3354,9 @@
       "halts cell cycle",
       "pediatric eye tumor",
       "blocks G1 to S",
-      "leukocoria white reflex",
+      {
+        "img": "data/path/images/path-28-1/1.webp"
+      },
       "bilateral if germline",
       "Knudson two-hit hypothesis"
     ]
@@ -3072,8 +3392,12 @@
       "part of destruction complex",
       "degrades beta-catenin",
       "loss drives proliferation",
-      "first hit in colon adenoma",
-      "hundreds of colonic polyps",
+      {
+        "img": "data/path/images/path-28-3/1.webp"
+      },
+      {
+        "img": "data/path/images/path-28-3/2.webp"
+      },
       "germline loss is FAP"
     ]
   },
@@ -3090,7 +3414,9 @@
       "chromosome 17",
       "unchecked Ras signaling",
       "cafe-au-lait macules",
-      "cutaneous neurofibromas",
+      {
+        "img": "data/path/images/path-28-4/1.webp"
+      },
       "GTPase-activating protein lost",
       "neurofibromin deficiency"
     ]
@@ -3110,7 +3436,9 @@
       "replicative immortality",
       "induces angiogenesis",
       "invasion and metastasis",
-      "eight hallmarks total"
+      {
+        "img": "data/path/images/path-28-5/1.webp"
+      }
     ]
   },
   {
@@ -3125,7 +3453,9 @@
       "starts with initiating mutation",
       "driver versus passenger mutations",
       "Darwinian subclone selection",
-      "genetically heterogeneous tumor",
+      {
+        "img": "data/path/images/path-28-6/1.webp"
+      },
       "epigenetic silencing contributes",
       "promoter hypermethylation off-switch",
       "adenoma-carcinoma sequence"
@@ -3146,7 +3476,9 @@
       "masks tumor antigens",
       "blocks immune targeting",
       "excess extracellular matrix",
-      "glycocalyx overproduction"
+      {
+        "img": "data/path/images/30/path-30-1/1.webp"
+      }
     ]
   },
   {
@@ -3160,7 +3492,9 @@
       "immune evasion",
       "less immunogenic subclones",
       "selective survival",
-      "loses surface antigen",
+      {
+        "img": "data/path/images/30/path-30-2/1.webp"
+      },
       "downregulates antigen",
       "escapes immune recognition",
       "CAR-T CD19 escape",
@@ -3181,7 +3515,9 @@
       "antigen no longer displayed",
       "mutation in receptor",
       "lost surface receptor",
-      "MHC class I deficient",
+      {
+        "img": "data/path/images/30/path-30-3/1.webp"
+      },
       "no MHC presentation"
     ]
   },
@@ -3235,7 +3571,9 @@
       "cell surface ligand",
       "checkpoint blockade target",
       "activates death receptor",
-      "PD-1 receptor engagement",
+      {
+        "img": "data/path/images/30/path-30-6/1.webp"
+      },
       "PD-L1 and PD-L2"
     ]
   },
@@ -3285,7 +3623,9 @@
     "buzzwords": [
       "extreme photosensitivity",
       "severe sunburn in minutes",
-      "freckling in sun-exposed skin",
+      {
+        "img": "data/path/images/path-31-2/1.webp"
+      },
       "high skin cancer risk",
       "humans lack photolyase",
       "fails to fix pyrimidine dimers",
@@ -3306,7 +3646,9 @@
       "colorectal and endometrial cancer",
       "cecum and proximal colon",
       "three relatives, two generations",
-      "MLH1, MSH2, MSH6, PMS2",
+      {
+        "img": "data/path/images/path-31-3/1.webp"
+      },
       "defective mismatch repair",
       "hereditary nonpolyposis colorectal cancer"
     ]
@@ -3358,7 +3700,9 @@
       "onset before age five",
       "ataxia and chorea",
       "myoclonus and neuropathy",
-      "skin and eye telangiectasia",
+      {
+        "img": "data/path/images/path-31-6/1.webp"
+      },
       "leukemia and lymphoma risk",
       "immunodeficiency from poor V(D)J",
       "defective nonhomologous end joining",
@@ -3415,7 +3759,9 @@
       "phase 2 seizures, dyskinesia",
       "autonomic instability",
       "antibodies vs NMDA receptors",
-      "associated with ovarian teratoma",
+      {
+        "img": "data/path/images/path-32-3/1.webp"
+      },
       "anti-NMDA receptor encephalitis"
     ]
   },
@@ -3500,7 +3846,9 @@
     "type": "disease",
     "buzzwords": [
       "thickened dark skin",
-      "velvety texture",
+      {
+        "img": "data/path/images/path-32-8/1.webp"
+      },
       "neck and axilla",
       "linked to obesity, diabetes",
       "tumor secretes growth factors",
@@ -3518,7 +3866,9 @@
     "type": "disease",
     "buzzwords": [
       "sudden explosive skin lesions",
-      "numerous seborrheic keratoses",
+      {
+        "img": "data/path/images/path-32-9/1.webp"
+      },
       "stuck-on appearance",
       "gray-brown flat-topped lesions",
       "tumor secretes TGF-alpha",
@@ -3535,7 +3885,9 @@
     "brick_title": "Paraneoplastic Syndromes",
     "type": "disease",
     "buzzwords": [
-      "digital clubbing",
+      {
+        "img": "data/path/images/path-32-10/1.webp"
+      },
       "joint swelling, effusions",
       "large joint pain",
       "subperiosteal bone proliferation",
@@ -3553,7 +3905,9 @@
     "brick_title": "Epidemiology of Cancer",
     "type": "physiology",
     "buzzwords": [
-      "distribution of cancers",
+      {
+        "img": "data/path/images/33/path-33-1.webp"
+      },
       "incidence vs mortality differ",
       "most common men: prostate",
       "most common women: breast",
@@ -3578,7 +3932,9 @@
       "begin screening age 21",
       "HSIL precancerous lesion",
       "HPV PCR detects high-risk strains",
-      "Pap smear cytology"
+      {
+        "img": "data/path/images/33/path-33-2.webp"
+      }
     ]
   },
   {
@@ -3591,7 +3947,9 @@
     "buzzwords": [
       "arises in colon and rectum",
       "blood in stool",
-      "adenoma-to-carcinoma sequence",
+      {
+        "img": "data/path/images/33/path-33-3.webp"
+      },
       "begin screening age 45",
       "repeat every 10 years",
       "fecal occult blood test",
@@ -3611,7 +3969,9 @@
       "lifetime risk 1 in 8",
       "estrogen exposure drives risk",
       "early menarche raises risk",
-      "screening X-ray detects microcalcifications",
+      {
+        "img": "data/path/images/33/path-33-4.webp"
+      },
       "ductal carcinoma in situ",
       "BRCA1/2 mutations high-risk",
       "mammography"
@@ -3626,7 +3986,9 @@
     "type": "physiology",
     "buzzwords": [
       "carcinogen causes cancer",
-      "smoking 33% of deaths",
+      {
+        "img": "data/path/images/33/path-33-5.webp"
+      },
       "obesity 25% of deaths",
       "alcohol metabolite acetaldehyde",
       "asbestos causes mesothelioma",
@@ -3685,7 +4047,9 @@
       "supradiaphragmatic spread",
       "bilobed nucleus",
       "eosinophilic nucleoli",
-      "owl eye cells",
+      {
+        "img": "data/path/images/34/path-34-2.webp"
+      },
       "Reed-Sternberg cells"
     ]
   },
@@ -3703,7 +4067,9 @@
       "tingible body macrophages",
       "endemic jaw mass",
       "sporadic abdominal mass",
-      "starry sky appearance",
+      {
+        "img": "data/path/images/34/path-34-3.webp"
+      },
       "EBV-associated"
     ]
   },
@@ -3720,7 +4086,9 @@
       "drives angiogenesis",
       "endothelial sarcoma",
       "afflicts immunosuppressed",
-      "violet skin lesions",
+      {
+        "img": "data/path/images/34/path-34-4.webp"
+      },
       "primary effusion lymphoma",
       "Kaposi sarcoma"
     ]
@@ -3737,7 +4105,9 @@
       "leads to cirrhosis",
       "HCV via IV drug use",
       "HBV via sexual contact",
-      "plump eosinophilic hepatocytes",
+      {
+        "img": "data/path/images/34/path-34-5.webp"
+      },
       "reactive oxygen damage",
       "malignant hepatocyte neoplasm",
       "hepatocellular carcinoma"
@@ -3753,7 +4123,9 @@
     "buzzwords": [
       "Gardasil prevents it",
       "low-risk causes warts",
-      "verruca vulgaris",
+      {
+        "img": "data/path/images/34/path-34-6.webp"
+      },
       "condyloma acuminata",
       "high-risk causes cancer",
       "E6 inactivates p53",
@@ -3775,7 +4147,9 @@
       "Tax protein",
       "HBZ inhibits apoptosis",
       "decades-long latency",
-      "flower-shaped nucleus",
+      {
+        "img": "data/path/images/34/path-34-7.webp"
+      },
       "adult T-cell leukemia"
     ]
   },
@@ -3789,7 +4163,9 @@
     "buzzwords": [
       "gram-negative rod",
       "causes chronic gastritis",
-      "intestinal metaplasia",
+      {
+        "img": "data/path/images/34/path-34-8.webp"
+      },
       "goblet cells appear",
       "CagA strains highest risk",
       "MALT lymphoma",
@@ -3824,13 +4200,15 @@
     "type": "physiology",
     "buzzwords": [
       "extent of spread",
-      "anatomic burden",
-      "guides prognosis",
-      "three components",
-      "T tumor size",
+      "most important prognostic factor",
+      {
+        "img": "data/path/images/path-35-1/1.webp"
+      },
+      "T size or invasion depth",
       "N nodal involvement",
-      "M distant metastasis",
-      "TNM classification"
+      "M distant spread",
+      "metastasis weighs most",
+      "tumor, node, metastasis"
     ]
   },
   {
@@ -3842,49 +4220,69 @@
     "type": "physiology",
     "buzzwords": [
       "histologic appearance",
-      "cellular atypia",
+      "counts mitoses",
       "degree of differentiation",
-      "well vs poorly differentiated",
-      "anaplasia",
-      "high grade aggressive",
-      "microscope assessment",
-      "histologic features"
+      "low grade resembles normal",
+      "poorly differentiated more aggressive",
+      {
+        "img": "data/path/images/path-35-2/1.webp"
+      },
+      "less important than stage",
+      "high grade is anaplastic"
     ]
   },
   {
     "id": "path-35-3",
-    "title": "Cancer Remission",
+    "title": "Remission and Cure",
     "course": "path",
     "brick_id": "35",
     "brick_title": "Cancer Staging and Grading",
     "type": "physiology",
     "buzzwords": [
-      "treatment response",
-      "tumor burden falls",
-      "partial remission shrinks",
-      "complete remission undetectable",
-      "no clinical evidence",
-      "may still recur",
-      "5-year disease-free",
-      "cancer cure"
+      "responded to treatment",
+      "signs and symptoms reduced",
+      "partial: at least 50% smaller",
+      "complete: no detectable evidence",
+      "undetected cells may remain",
+      "cure rarely stated",
+      "monitored for years",
+      "no recurrence at 5 years"
     ]
   },
   {
     "id": "path-35-4",
-    "title": "Cancer Prognosis",
+    "title": "Survival Metrics",
     "course": "path",
     "brick_id": "35",
     "brick_title": "Cancer Staging and Grading",
-    "type": "physiology",
+    "type": "lab",
     "buzzwords": [
-      "expected outcome",
-      "survival estimate",
-      "depends on stage",
-      "depends on grade",
-      "statistics-driven",
-      "5-year survival rate",
-      "guides therapy choice",
-      "prognostic factors"
+      "prognosis statistics",
+      "percentage alive at 5 years",
+      "cancer-specific: died from this cancer",
+      "overall: died from any cause",
+      "relative: compared to no-cancer",
+      "disease-free: alive after treatment",
+      "from time of diagnosis",
+      "5-year survival rate"
+    ]
+  },
+  {
+    "id": "path-35-5",
+    "title": "Tumor Markers",
+    "course": "path",
+    "brick_id": "35",
+    "brick_title": "Cancer Staging and Grading",
+    "type": "lab",
+    "buzzwords": [
+      "measured in serum or urine",
+      "elevated in presence of cancer",
+      "track treatment response",
+      "AFP in hepatocellular carcinoma",
+      "PSA in prostate cancer",
+      "CA-125 in ovarian cancer",
+      "chromogranin in neuroendocrine tumors",
+      "CA19-9 in pancreatic cancer"
     ]
   },
   {

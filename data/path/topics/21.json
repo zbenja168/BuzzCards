@@ -44,7 +44,7 @@
     "type": "physiology",
     "buzzwords": [
       "self vs non-self",
-      "chromosome 6 short arm",
+      { "img": "data/path/images/path-21-3/1.webp" },
       "highly polymorphic genes",
       "class I and class II key",
       "12 total class I/II genes",
@@ -82,9 +82,9 @@
       "frozen section viability",
       "graded for transplant use",
       "portal tract inflammation",
-      "collagen fibrosis",
+      { "img": "data/path/images/path-21-5/2.webp" },
       "coagulative hepatocyte necrosis",
-      "fat droplets in cells",
+      { "img": "data/path/images/path-21-5/1.webp" },
       ">30% steatosis relative contraindication",
       ">60% macrovesicular absolute contraindication"
     ]
@@ -100,10 +100,10 @@
       "frozen section at procurement",
       "extended-criteria donors",
       "interstitial fibrosis, inflammation",
-      "arterial sclerosis intimal thickening",
+      { "img": "data/path/images/path-21-6/1.webp" },
       "eosinophilic vessel wall deposit",
       "arteriolar hyalinization",
-      "global glomerulosclerosis",
+      { "img": "data/path/images/path-21-6/2.webp" },
       ">50% glomerulus hyalinized"
     ]
   },

@@ -31,7 +31,7 @@
       "supradiaphragmatic spread",
       "bilobed nucleus",
       "eosinophilic nucleoli",
-      "owl eye cells",
+      { "img": "data/path/images/34/path-34-2.webp" },
       "Reed-Sternberg cells"
     ]
   },
@@ -49,7 +49,7 @@
       "tingible body macrophages",
       "endemic jaw mass",
       "sporadic abdominal mass",
-      "starry sky appearance",
+      { "img": "data/path/images/34/path-34-3.webp" },
       "EBV-associated"
     ]
   },
@@ -66,7 +66,7 @@
       "drives angiogenesis",
       "endothelial sarcoma",
       "afflicts immunosuppressed",
-      "violet skin lesions",
+      { "img": "data/path/images/34/path-34-4.webp" },
       "primary effusion lymphoma",
       "Kaposi sarcoma"
     ]
@@ -83,7 +83,7 @@
       "leads to cirrhosis",
       "HCV via IV drug use",
       "HBV via sexual contact",
-      "plump eosinophilic hepatocytes",
+      { "img": "data/path/images/34/path-34-5.webp" },
       "reactive oxygen damage",
       "malignant hepatocyte neoplasm",
       "hepatocellular carcinoma"
@@ -99,7 +99,7 @@
     "buzzwords": [
       "Gardasil prevents it",
       "low-risk causes warts",
-      "verruca vulgaris",
+      { "img": "data/path/images/34/path-34-6.webp" },
       "condyloma acuminata",
       "high-risk causes cancer",
       "E6 inactivates p53",
@@ -121,7 +121,7 @@
       "Tax protein",
       "HBZ inhibits apoptosis",
       "decades-long latency",
-      "flower-shaped nucleus",
+      { "img": "data/path/images/34/path-34-7.webp" },
       "adult T-cell leukemia"
     ]
   },
@@ -135,7 +135,7 @@
     "buzzwords": [
       "gram-negative rod",
       "causes chronic gastritis",
-      "intestinal metaplasia",
+      { "img": "data/path/images/34/path-34-8.webp" },
       "goblet cells appear",
       "CagA strains highest risk",
       "MALT lymphoma",

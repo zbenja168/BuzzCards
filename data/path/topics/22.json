@@ -12,7 +12,7 @@
       "pre-formed antibodies",
       "type II hypersensitivity",
       "anti-ABO antibodies",
-      "complement activation",
+      { "img": "data/path/images/22/path-22-1.webp" },
       "endothelial thrombosis",
       "ischemia and necrosis"
     ]
@@ -30,7 +30,7 @@
       "cellular and humoral",
       "responds to immunosuppression",
       "CD8 T cells kill graft",
-      "tubulitis",
+      { "img": "data/path/images/22/path-22-2.webp" },
       "endothelialitis",
       "rejection vasculitis"
     ]
@@ -49,7 +49,7 @@
       "smooth muscle proliferation",
       "vessel wall thickening",
       "vessel occlusion",
-      "graft arteriosclerosis",
+      { "img": "data/path/images/22/path-22-3.webp" },
       "interstitial fibrosis"
     ]
   },
@@ -65,7 +65,7 @@
       "donor cells attack recipient",
       "allogeneic transplant",
       "donor T lymphocytes",
-      "maculopapular rash",
+      { "img": "data/path/images/22/path-22-4.webp" },
       "jaundice and diarrhea",
       "hepatosplenomegaly",
       "skin liver gut targeted"

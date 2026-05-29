@@ -11,7 +11,7 @@
       "arrive within hours",
       "most abundant WBC",
       "~60% of WBCs",
-      "granulocyte",
+      { "img": "data/path/images/path-5-1/1.webp" },
       "kill via phagocytosis",
       "release antimicrobial proteins",
       "activity peaks at 24 hours"
@@ -25,7 +25,7 @@
     "brick_title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
     "type": "physiology",
     "buzzwords": [
-      "found in body tissues",
+      { "img": "data/path/images/path-5-2/1.webp" },
       "clear cellular debris",
       "secrete cytokines",
       "antigen-presenting cells",
@@ -80,7 +80,7 @@
     "type": "physiology",
     "buzzwords": [
       "four classic signs",
-      "redness from blood flow",
+      { "img": "data/path/images/path-5-5/1.webp" },
       "heat from blood flow",
       "swelling from fluid leak",
       "pain from nerve stimuli",
@@ -102,7 +102,7 @@
       "neutrophil accumulation",
       "pus formation",
       "often bacterial cause",
-      "seen in pneumonia",
+      { "img": "data/path/images/path-5-6/1.webp" },
       "fills alveolar spaces",
       "suppurative inflammation"
     ]
@@ -121,7 +121,7 @@
       "from hydrostatic imbalance",
       "few cellular elements",
       "seen in heart failure",
-      "skin blister example",
+      { "img": "data/path/images/path-5-7/1.webp" },
       "serous effusion"
     ]
   },
@@ -138,7 +138,7 @@
       "fibrin deposits in tissue",
       "from procoagulant stimulus",
       "lines body cavities",
-      "affects pericardium",
+      { "img": "data/path/images/path-5-8/1.webp" },
       "affects meninges and pleura",
       "fibrinous pericarditis"
     ]
@@ -157,7 +157,7 @@
       "loss of epithelium",
       "inflammatory exudate at base",
       "leaves a crater",
-      "duodenal example",
+      { "img": "data/path/images/path-5-9/1.webp" },
       "duodenal ulcer"
     ]
   },

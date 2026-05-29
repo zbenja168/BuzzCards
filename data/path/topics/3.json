@@ -14,7 +14,7 @@
       "BAX and BAK channels",
       "cytochrome c released",
       "BCL2 anti-apoptotic",
-      "mitochondrial pathway"
+      { "img": "data/path/images/path-3-1/1.webp" }
     ]
   },
   {
@@ -27,7 +27,7 @@
     "buzzwords": [
       "programmed cell death",
       "starts at plasma membrane",
-      "death receptor pathway",
+      { "img": "data/path/images/path-3-2/1.webp" },
       "cytoplasmic death domain",
       "FADD adaptor",
       "activates caspase-8",
@@ -49,7 +49,7 @@
       "cells deeply eosinophilic",
       "loss of nucleus",
       "seen outside CNS",
-      "localized area is infarct",
+      { "img": "data/path/images/path-3-3/1.webp" },
       "classic in myocardial infarction"
     ]
   },
@@ -67,7 +67,7 @@
       "pus formation",
       "enzymatic tissue breakdown",
       "central nervous system",
-      "brain infarct pattern",
+      { "img": "data/path/images/path-3-4/1.webp" },
       "seen in stroke"
     ]
   },
@@ -82,7 +82,7 @@
       "uncontrolled cell death",
       "friable necrotic material",
       "cheese-like appearance",
-      "off-white grossly",
+      { "img": "data/path/images/path-3-5/1.webp" },
       "fragmented granular debris",
       "associated with granulomas",
       "tuberculosis infection",
@@ -99,7 +99,7 @@
     "buzzwords": [
       "breakdown of adipose tissue",
       "fatty acids plus calcium",
-      "chalky-white substance",
+      { "img": "data/path/images/path-3-6/1.webp" },
       "saponification",
       "basophilic calcium deposits",
       "leaked lipases",
@@ -119,7 +119,7 @@
       "affects vessel walls",
       "fibrin deposition",
       "immune complex deposits",
-      "proteinaceous vessel wall",
+      { "img": "data/path/images/path-3-7/1.webp" },
       "endothelial damage",
       "seen in vasculitis",
       "granulomatosis with polyangiitis"

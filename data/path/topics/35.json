@@ -8,13 +8,13 @@
     "type": "physiology",
     "buzzwords": [
       "extent of spread",
-      "anatomic burden",
-      "guides prognosis",
-      "three components",
-      "T tumor size",
+      "most important prognostic factor",
+      { "img": "data/path/images/path-35-1/1.webp" },
+      "T size or invasion depth",
       "N nodal involvement",
-      "M distant metastasis",
-      "TNM classification"
+      "M distant spread",
+      "metastasis weighs most",
+      "tumor, node, metastasis"
     ]
   },
   {
@@ -26,49 +26,67 @@
     "type": "physiology",
     "buzzwords": [
       "histologic appearance",
-      "cellular atypia",
+      "counts mitoses",
       "degree of differentiation",
-      "well vs poorly differentiated",
-      "anaplasia",
-      "high grade aggressive",
-      "microscope assessment",
-      "histologic features"
+      "low grade resembles normal",
+      "poorly differentiated more aggressive",
+      { "img": "data/path/images/path-35-2/1.webp" },
+      "less important than stage",
+      "high grade is anaplastic"
     ]
   },
   {
     "id": "path-35-3",
-    "title": "Cancer Remission",
+    "title": "Remission and Cure",
     "course": "path",
     "brick_id": "35",
     "brick_title": "Cancer Staging and Grading",
     "type": "physiology",
     "buzzwords": [
-      "treatment response",
-      "tumor burden falls",
-      "partial remission shrinks",
-      "complete remission undetectable",
-      "no clinical evidence",
-      "may still recur",
-      "5-year disease-free",
-      "cancer cure"
+      "responded to treatment",
+      "signs and symptoms reduced",
+      "partial: at least 50% smaller",
+      "complete: no detectable evidence",
+      "undetected cells may remain",
+      "cure rarely stated",
+      "monitored for years",
+      "no recurrence at 5 years"
     ]
   },
   {
     "id": "path-35-4",
-    "title": "Cancer Prognosis",
+    "title": "Survival Metrics",
     "course": "path",
     "brick_id": "35",
     "brick_title": "Cancer Staging and Grading",
-    "type": "physiology",
+    "type": "lab",
     "buzzwords": [
-      "expected outcome",
-      "survival estimate",
-      "depends on stage",
-      "depends on grade",
-      "statistics-driven",
-      "5-year survival rate",
-      "guides therapy choice",
-      "prognostic factors"
+      "prognosis statistics",
+      "percentage alive at 5 years",
+      "cancer-specific: died from this cancer",
+      "overall: died from any cause",
+      "relative: compared to no-cancer",
+      "disease-free: alive after treatment",
+      "from time of diagnosis",
+      "5-year survival rate"
+    ]
+  },
+  {
+    "id": "path-35-5",
+    "title": "Tumor Markers",
+    "course": "path",
+    "brick_id": "35",
+    "brick_title": "Cancer Staging and Grading",
+    "type": "lab",
+    "buzzwords": [
+      "measured in serum or urine",
+      "elevated in presence of cancer",
+      "track treatment response",
+      "AFP in hepatocellular carcinoma",
+      "PSA in prostate cancer",
+      "CA-125 in ovarian cancer",
+      "chromogranin in neuroendocrine tumors",
+      "CA19-9 in pancreatic cancer"
     ]
   }
 ]

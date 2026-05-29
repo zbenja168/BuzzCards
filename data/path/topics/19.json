@@ -13,8 +13,8 @@
       "survives in macrophages",
       "blocks phagolysosome formation",
       "Th1 / IFN-gamma response",
-      "acid-fast bacilli",
-      "caseating granuloma"
+      { "img": "data/path/images/path-19-1/1.webp" },
+      { "img": "data/path/images/path-19-1/2.webp" }
     ]
   },
   {
@@ -32,7 +32,7 @@
       "painless lesion",
       "solitary ulcer",
       "plasma cell infiltrate",
-      "chancre"
+      { "img": "data/path/images/path-19-2/1.webp" }
     ]
   },
   {
@@ -46,11 +46,11 @@
       "disseminated infection",
       "2-8 weeks after chancre",
       "multiple skin lesions",
-      "palms and soles rash",
+      { "img": "data/path/images/path-19-3/1.webp" },
       "patchy alopecia",
       "endarteritis of small vessels",
       "maculopapular rash",
-      "condylomata lata"
+      { "img": "data/path/images/path-19-3/2.webp" }
     ]
   },
   {
@@ -67,8 +67,8 @@
       "meningovascular meningitis",
       "general paresis dementia",
       "posterior column degeneration",
-      "tabes dorsalis",
-      "Argyll Robertson pupil"
+      { "img": "data/path/images/path-19-4/1.webp" },
+      { "img": "data/path/images/path-19-4/2.webp" }
     ]
   },
   {
@@ -86,7 +86,7 @@
       "interstitial keratitis",
       "saber shins",
       "saddle nose deformity",
-      "Hutchinson teeth"
+      { "img": "data/path/images/path-19-5/1.webp" }
     ]
   }
 ]

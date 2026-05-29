@@ -7,7 +7,7 @@
     "brick_title": "Epidemiology of Cancer",
     "type": "physiology",
     "buzzwords": [
-      "distribution of cancers",
+      { "img": "data/path/images/33/path-33-1.webp" },
       "incidence vs mortality differ",
       "most common men: prostate",
       "most common women: breast",
@@ -32,7 +32,7 @@
       "begin screening age 21",
       "HSIL precancerous lesion",
       "HPV PCR detects high-risk strains",
-      "Pap smear cytology"
+      { "img": "data/path/images/33/path-33-2.webp" }
     ]
   },
   {
@@ -45,7 +45,7 @@
     "buzzwords": [
       "arises in colon and rectum",
       "blood in stool",
-      "adenoma-to-carcinoma sequence",
+      { "img": "data/path/images/33/path-33-3.webp" },
       "begin screening age 45",
       "repeat every 10 years",
       "fecal occult blood test",
@@ -65,7 +65,7 @@
       "lifetime risk 1 in 8",
       "estrogen exposure drives risk",
       "early menarche raises risk",
-      "screening X-ray detects microcalcifications",
+      { "img": "data/path/images/33/path-33-4.webp" },
       "ductal carcinoma in situ",
       "BRCA1/2 mutations high-risk",
       "mammography"
@@ -80,7 +80,7 @@
     "type": "physiology",
     "buzzwords": [
       "carcinogen causes cancer",
-      "smoking 33% of deaths",
+      { "img": "data/path/images/33/path-33-5.webp" },
       "obesity 25% of deaths",
       "alcohol metabolite acetaldehyde",
       "asbestos causes mesothelioma",

@@ -12,7 +12,7 @@
       "cough and dyspnea",
       "hemoptysis",
       "never-smokers",
-      "lung adenocarcinoma",
+      { "img": "data/path/images/path-27-1/1.webp" },
       "treated with necitumumab",
       "cetuximab in colorectal"
     ]
@@ -32,7 +32,7 @@
       "GTPase-activating proteins limit",
       "point mutations activate",
       "HRAS, KRAS, NRAS",
-      "KRAS in pancreatic cancer"
+      { "img": "data/path/images/path-27-2/1.webp" }
     ]
   },
   {
@@ -49,7 +49,7 @@
       "UV light exposure",
       "brown irregular skin lesion",
       "transformed melanocytes",
-      "cutaneous melanoma",
+      { "img": "data/path/images/path-27-3/1.webp" },
       "dabrafenib inhibitor"
     ]
   },
@@ -82,7 +82,7 @@
       "constitutive tyrosine kinase",
       "chromosomal translocation",
       "leukocytosis with eosinophilia",
-      "small hypolobated megakaryocytes",
+      { "img": "data/path/images/path-27-5/1.webp" },
       "chronic myeloid leukemia",
       "t(9;22)",
       "Philadelphia chromosome",
@@ -118,7 +118,7 @@
       "neural crest origin",
       "pediatric tumor",
       "abdominal distension",
-      "small round blue cells",
+      { "img": "data/path/images/path-27-7/1.webp" },
       "arises in adrenal gland",
       "Homer Wright rosettes",
       "MYCN amplification",
@@ -136,7 +136,7 @@
       "neoplastic B cells",
       "medium-sized lymphocytes",
       "tingible-body macrophages",
-      "starry sky appearance",
+      { "img": "data/path/images/path-27-8/1.webp" },
       "t(8;14)",
       "IG::MYC rearrangement",
       "MYC overexpressed",

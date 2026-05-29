@@ -12,7 +12,7 @@
       "halts cell cycle",
       "pediatric eye tumor",
       "blocks G1 to S",
-      "leukocoria white reflex",
+      { "img": "data/path/images/path-28-1/1.webp" },
       "bilateral if germline",
       "Knudson two-hit hypothesis"
     ]
@@ -48,8 +48,8 @@
       "part of destruction complex",
       "degrades beta-catenin",
       "loss drives proliferation",
-      "first hit in colon adenoma",
-      "hundreds of colonic polyps",
+      { "img": "data/path/images/path-28-3/1.webp" },
+      { "img": "data/path/images/path-28-3/2.webp" },
       "germline loss is FAP"
     ]
   },
@@ -66,7 +66,7 @@
       "chromosome 17",
       "unchecked Ras signaling",
       "cafe-au-lait macules",
-      "cutaneous neurofibromas",
+      { "img": "data/path/images/path-28-4/1.webp" },
       "GTPase-activating protein lost",
       "neurofibromin deficiency"
     ]
@@ -86,7 +86,7 @@
       "replicative immortality",
       "induces angiogenesis",
       "invasion and metastasis",
-      "eight hallmarks total"
+      { "img": "data/path/images/path-28-5/1.webp" }
     ]
   },
   {
@@ -101,7 +101,7 @@
       "starts with initiating mutation",
       "driver versus passenger mutations",
       "Darwinian subclone selection",
-      "genetically heterogeneous tumor",
+      { "img": "data/path/images/path-28-6/1.webp" },
       "epigenetic silencing contributes",
       "promoter hypermethylation off-switch",
       "adenoma-carcinoma sequence"

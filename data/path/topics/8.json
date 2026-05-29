@@ -13,7 +13,7 @@
       "200x affinity over oxygen",
       "blocks oxygen transport",
       "tissue hypoxia",
-      "cherry-red skin",
+      { "img": "data/path/images/path-8-1/1.webp" },
       "carboxyhemoglobin"
     ]
   },
@@ -31,8 +31,8 @@
       "kids absorb more",
       "epiphyseal lead lines",
       "wrist drop",
-      "basophilic stippling",
-      "blue gingival line"
+      { "img": "data/path/images/path-8-2/1.webp" },
+      { "img": "data/path/images/path-8-2/2.webp" }
     ]
   },
   {
@@ -68,7 +68,7 @@
       "garlicky breath",
       "sensorimotor neuropathy",
       "cardiac arrhythmias",
-      "transverse white nail bands"
+      { "img": "data/path/images/path-8-4/1.webp" }
     ]
   },
   {
@@ -85,7 +85,7 @@
       "nicotine vasoconstriction",
       "impairs wound healing",
       "oncogenic DNA mutations",
-      "emphysema",
+      { "img": "data/path/images/path-8-5/1.webp" },
       "carboxyhemoglobin from smoke"
     ]
   },
@@ -101,9 +101,9 @@
       "MEOS uses CYP2E1",
       "acetaldehyde-DNA adducts",
       "high NADH/NAD ratio",
-      "hepatic steatosis to cirrhosis",
+      { "img": "data/path/images/path-8-6/1.webp" },
       "esophageal varices",
-      "fetal alcohol syndrome",
+      { "img": "data/path/images/path-8-6/2.webp" },
       "Wernicke-Korsakoff thiamine deficiency"
     ]
   }

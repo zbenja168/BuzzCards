@@ -8,7 +8,7 @@
     "type": "physiology",
     "buzzwords": [
       "fluid accumulation",
-      "Starling forces disturbed",
+      { "img": "data/path/images/path-11-1/1.webp" },
       "tissue swelling",
       "edema in tissues",
       "effusion in body cavity",
@@ -31,7 +31,7 @@
       "reduced colloid osmotic pressure",
       "hypoalbuminemia",
       "sodium and water retention",
-      "lymphatic obstruction",
+      { "img": "data/path/images/path-11-2/1.webp" },
       "increased vascular permeability"
     ]
   },
@@ -44,7 +44,7 @@
     "type": "physiology",
     "buzzwords": [
       "fluid collection types",
-      "exudate is inflammatory",
+      { "img": "data/path/images/path-11-3/1.webp" },
       "transudate non-inflammatory",
       "exudate protein-rich",
       "high cellularity exudate",
