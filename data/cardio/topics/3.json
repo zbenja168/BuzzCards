@@ -28,9 +28,9 @@
       "chronic valvular disease",
       "occurs 10-20 years later",
       "heart failure symptoms",
-      "valve scarring and fibrosis",
+      { "img": "data/cardio/images/3/cardio-3-2-1.webp" },
       "mitral stenosis most common",
-      "fish-mouth mitral valve",
+      { "img": "data/cardio/images/3/cardio-3-2-2.webp" },
       "chordae tendineae fusion",
       "late sequela of ARF"
     ]
@@ -46,8 +46,8 @@
       "granulomatous structures",
       "found in endocardium",
       "autoreactive CD4 T cells",
-      "pathognomonic histology",
-      "contain caterpillar cells",
+      { "img": "data/cardio/images/3/cardio-3-3-1.webp" },
+      { "img": "data/cardio/images/3/cardio-3-3-2.webp" },
       "Anitschkow cells inside",
       "wavy chromatin macrophages",
       "Aschoff body of ARF"

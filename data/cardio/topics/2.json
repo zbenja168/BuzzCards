@@ -12,7 +12,7 @@
       "pleuritic pain",
       "worse lying flat",
       "better leaning forward",
-      "diffuse ST elevation",
+      { "img": "data/cardio/images/2/cardio-2-1.webp" },
       "PR depression",
       "pericardial friction rub"
     ]
@@ -26,7 +26,7 @@
     "type": "disease",
     "buzzwords": [
       "most common type",
-      "fibrin deposition",
+      { "img": "data/cardio/images/2/cardio-2-2.webp" },
       "post-MI cause",
       "uremia related",
       "post-radiation",
@@ -61,7 +61,7 @@
     "brick_title": "Acute Pericarditis",
     "type": "disease",
     "buzzwords": [
-      "pus-filled exudate",
+      { "img": "data/cardio/images/2/cardio-2-4.webp" },
       "bacterial infection",
       "microorganisms present",
       "spread from infection",
@@ -97,7 +97,7 @@
     "brick_title": "Acute Pericarditis",
     "type": "imaging",
     "buzzwords": [
-      "needle aspiration",
+      { "img": "data/cardio/images/2/cardio-2-6.webp" },
       "drains pericardial fluid",
       "16-18 gauge needle",
       "diagnostic and therapeutic",
@@ -115,7 +115,7 @@
     "brick_title": "Acute Pericarditis",
     "type": "disease",
     "buzzwords": [
-      "large pericardial effusion",
+      { "img": "data/cardio/images/2/cardio-2-7.webp" },
       "rapid fluid buildup",
       "raised intrapericardial pressure",
       "impaired filling",

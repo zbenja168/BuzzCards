@@ -14,7 +14,7 @@
       "worsened by caffeine and alcohol",
       "re-entry or enhanced automaticity",
       "mostly benign",
-      "every-other-beat is bigeminy"
+      { "img": "data/cardio/images/81/cardio-81-1-1.webp" }
     ]
   },
   {
@@ -32,7 +32,7 @@
       "poor diastolic filling",
       "can cause syncope or arrest",
       "wide QRS tachycardia",
-      "monomorphic uniform complexes"
+      { "img": "data/cardio/images/81/cardio-81-2-1.webp" }
     ]
   },
   {
@@ -48,7 +48,7 @@
       "no palpable pulse",
       "always sudden cardiac death",
       "hemodynamic collapse",
-      "chaotic disorganized waveform",
+      { "img": "data/cardio/images/81/cardio-81-3-1.webp" },
       "treat with defibrillation",
       "pulseless cardiac arrest rhythm"
     ]
@@ -67,7 +67,7 @@
       "often self-terminating",
       "caused by QT-prolonging drugs",
       "treat with IV magnesium",
-      "axis twists around baseline",
+      { "img": "data/cardio/images/81/cardio-81-4-1.webp" },
       "twisting of the points"
     ]
   },

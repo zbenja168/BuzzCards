@@ -7,10 +7,10 @@
     "brick_title": "Obstructive Congenital Heart Defects",
     "type": "disease",
     "buzzwords": [
-      "narrowed aorta",
+      { "img": "data/cardio/images/63/coa-mra-1.webp" },
       "twice as common in males",
       "secondary hypertension in children",
-      "rib notching on x-ray",
+      { "img": "data/cardio/images/63/coa-cxr-1.webp" },
       "collateral intercostal arteries",
       "distal to left subclavian",
       "near ligamentum arteriosum",

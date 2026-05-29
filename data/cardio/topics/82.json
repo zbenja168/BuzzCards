@@ -14,7 +14,7 @@
       "left ventricle plotted",
       "vertical sides isovolumetric",
       "width equals stroke volume",
-      "ventricular pressure-volume loop"
+      { "img": "data/cardio/images/82/1.webp" }
     ]
   },
   {
@@ -68,7 +68,7 @@
       "taller loop more work",
       "pressure-volume product",
       "energy expended per beat",
-      "area within PV loop"
+      { "img": "data/cardio/images/82/2.webp" }
     ]
   },
   {

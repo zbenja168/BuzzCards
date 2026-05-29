@@ -13,7 +13,7 @@
       "fires before sinus beat",
       "worsened by stimulants",
       "usually needs no treatment",
-      "abnormal early P wave",
+      { "img": "data/cardio/images/76/cardio-76-1-1.webp" },
       "may be nonconducted"
     ]
   },
@@ -50,7 +50,7 @@
       "ventricular rate 150",
       "anticoagulation like AFib",
       "leads II, III, aVF",
-      "sawtooth flutter waves"
+      { "img": "data/cardio/images/76/cardio-76-3-1.webp" }
     ]
   },
   {
@@ -67,7 +67,7 @@
       "treat underlying disease",
       "three or more foci",
       "rate over 100",
-      "varying P-wave morphologies",
+      { "img": "data/cardio/images/76/cardio-76-4-1.webp" },
       "at least 3 morphologies"
     ]
   },
@@ -86,7 +86,7 @@
       "dual AV nodal pathways",
       "reentry within AV node",
       "narrow QRS tachycardia",
-      "retrograde P waves"
+      { "img": "data/cardio/images/76/cardio-76-5-1.webp" }
     ]
   },
   {
@@ -103,7 +103,7 @@
       "short PR interval",
       "curative catheter ablation",
       "slurred QRS upstroke",
-      "delta wave",
+      { "img": "data/cardio/images/76/cardio-76-6-1.webp" },
       "Kent bundle"
     ]
   }

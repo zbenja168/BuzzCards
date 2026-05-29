@@ -10,7 +10,7 @@
       "slow progressive",
       "silent until complication",
       "begins in childhood",
-      "narrows arterial lumen",
+      { "img": "data/cardio/images/17/cardio-17-1.webp" },
       "affects arteries not veins",
       "leading cause of death",
       "fatty plaque buildup",
@@ -43,7 +43,7 @@
     "brick_title": "Atherosclerosis",
     "type": "physiology",
     "buzzwords": [
-      "six-step process",
+      { "img": "data/cardio/images/17/cardio-17-3.webp" },
       "endothelial damage first",
       "LDL accumulates in intima",
       "monocytes become macrophages",
@@ -115,7 +115,7 @@
     "brick_title": "Atherosclerosis",
     "type": "physiology",
     "buzzwords": [
-      "abnormal bulging dilation",
+      { "img": "data/cardio/images/17/cardio-17-7.webp" },
       "weakened vessel wall",
       "turbulent flow injures wall",
       "occurs at branch points",

@@ -8,7 +8,7 @@
     "type": "anatomy",
     "buzzwords": [
       "sits between LA and LV",
-      "anterior and posterior leaflets",
+      { "img": "data/cardio/images/59/cardio-59-1-1.webp" },
       "ring-like annulus",
       "closes during systole",
       "papillary muscles pull taut",
@@ -31,7 +31,7 @@
       "often fatal",
       "endocarditis or trauma",
       "needs emergent surgery",
-      "post-MI papillary muscle rupture",
+      { "img": "data/cardio/images/59/cardio-59-2-1.webp" },
       "sudden flail leaflet"
     ]
   },
@@ -50,7 +50,7 @@
       "holosystolic murmur at apex",
       "radiates to the axilla",
       "LV eccentric hypertrophy",
-      "increased LV end-diastolic volume"
+      { "img": "data/cardio/images/59/cardio-59-3-1.webp" }
     ]
   },
   {
@@ -64,7 +64,7 @@
       "most common cause of MR",
       "often asymptomatic",
       "leaflets balloon into atrium",
-      "myxomatous degeneration",
+      { "img": "data/cardio/images/59/cardio-59-4-1.webp" },
       "thickened spongiosa layer",
       "click later with squatting",
       "click earlier with standing",

@@ -10,10 +10,10 @@
       "inherited cardiomyopathy",
       "sudden death in young athletes",
       "ventricular arrhythmias on exertion",
-      "right-sided heart failure",
+      { "img": "data/cardio/images/15/cardio-15-1-gross.webp" },
       "autosomal dominant, variable penetrance",
       "desmosome mutations",
-      "RV myocardium replaced by fibrofatty tissue",
+      { "img": "data/cardio/images/15/cardio-15-1-hist.webp" },
       "arrhythmogenic right ventricular dysplasia"
     ]
   },
@@ -28,7 +28,7 @@
       "inherited cardiomyopathy variant",
       "ventricular arrhythmias",
       "autosomal recessive inheritance",
-      "thickened palm and sole skin",
+      { "img": "data/cardio/images/15/cardio-15-2-palm.webp" },
       "diffuse scaling of skin",
       "recessive form of ARVC",
       "palmoplantar keratoderma",
@@ -47,7 +47,7 @@
       "seen in leads V1 to V3",
       "marker of delayed RV conduction",
       "present in 30% of patients",
-      "small positive deflection",
+      { "img": "data/cardio/images/15/cardio-15-3-ecg.webp" },
       "follows the QRS complex",
       "specific for ARVC",
       "epsilon wave"

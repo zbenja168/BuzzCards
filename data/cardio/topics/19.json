@@ -27,7 +27,7 @@
     "buzzwords": [
       "located close to heart",
       "sense vessel wall stretch",
-      "afferents to medulla",
+      { "img": "data/cardio/images/19/cardio-19-2.webp" },
       "efferents sympathetic and vagal",
       "carotid sinus via CN IX",
       "aortic arch via CN X",
@@ -44,7 +44,7 @@
     "type": "physiology",
     "buzzwords": [
       "increased arterial stretch",
-      "increased afferent firing",
+      { "img": "data/cardio/images/19/cardio-19-3.webp" },
       "sympathetic output decreases",
       "parasympathetic output increases",
       "drops heart rate",
@@ -63,7 +63,7 @@
     "buzzwords": [
       "decreased arterial stretch",
       "decreased afferent firing",
-      "sympathetic output increases",
+      { "img": "data/cardio/images/19/cardio-19-4.webp" },
       "parasympathetic output decreases",
       "raises heart rate",
       "increased contractility",

@@ -13,7 +13,7 @@
       "interatrial septum",
       "interventricular septum",
       "membranous and muscular parts",
-      "septa divide chambers",
+      { "img": "data/cardio/images/5/cardio-5-1-1.webp" },
       "fossa ovalis remnant"
     ]
   },
@@ -67,7 +67,7 @@
       "tension during systole",
       "rupture causes regurgitation",
       "rupture 2-7 days post-MI",
-      "muscle cones in ventricles",
+      { "img": "data/cardio/images/5/cardio-5-4-1.webp" },
       "chordae tendineae"
     ]
   },
@@ -133,7 +133,7 @@
     "brick_title": "Anatomy of the Heart",
     "type": "imaging",
     "buzzwords": [
-      "middle mediastinum",
+      { "img": "data/cardio/images/5/cardio-5-8-1.webp" },
       "RA forms right heart border",
       "RV is anteriormost chamber",
       "LA most posterior structure",

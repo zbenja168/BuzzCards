@@ -10,11 +10,11 @@
       "tissue swelling",
       "puffy heavy limb",
       "expanded interstitial volume",
-      "imbalanced Starling forces",
+      { "img": "data/cardio/images/39/starling-forces.webp" },
       "indents with finger",
       "rebounds slowly",
       "leg follow-up DVT",
-      "pitting edema"
+      { "img": "data/cardio/images/39/edema-pitting.webp" }
     ]
   },
   {
@@ -30,7 +30,7 @@
       "backs up venous end",
       "right heart failure",
       "venous obstruction",
-      "cirrhosis ascites",
+      { "img": "data/cardio/images/39/ascites.webp" },
       "high portal pressure",
       "elevated Pc"
     ]

@@ -13,7 +13,7 @@
       "common after age 40",
       "floppy, leaky valves",
       "retrograde venous reflux",
-      "dilated tortuous veins",
+      { "img": "data/cardio/images/75/cardio-75-1_varicose.webp" },
       "varicose veins"
     ]
   },
@@ -31,7 +31,7 @@
       "increased capillary permeability",
       "red cell extravasation",
       "hemosiderin deposits",
-      "hyperpigmentation, scaling",
+      { "img": "data/cardio/images/75/cardio-75-2_stasis.webp" },
       "may ulcerate"
     ]
   },
@@ -46,7 +46,7 @@
       "vein inflammation plus clot",
       "at venipuncture sites",
       "often catheter-associated",
-      "Virchow triad trigger",
+      { "img": "data/cardio/images/75/cardio-75-3_virchow.webp" },
       "lower PE risk than DVT",
       "redness, warmth, tenderness",
       "treat with analgesics, elevation",

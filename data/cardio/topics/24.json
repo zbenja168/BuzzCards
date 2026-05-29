@@ -10,10 +10,10 @@
       "preload on x-axis",
       "cardiac output on y-axis",
       "plateaus at high preload",
-      "steepens with inotropy",
+      { "img": "data/cardio/images/24/cardio-24-1-2.webp" },
       "flattens in heart failure",
       "downward shift raises afterload",
-      "LVEDV versus CO",
+      { "img": "data/cardio/images/24/cardio-24-1-1.webp" },
       "Frank-Starling curve"
     ]
   },
@@ -27,7 +27,7 @@
     "buzzwords": [
       "venous return on y-axis",
       "right atrial pressure on x-axis",
-      "falls as RA pressure rises",
+      { "img": "data/cardio/images/24/cardio-24-2-1.webp" },
       "flat plateau from vein collapse",
       "shifts right with volume",
       "venous tone shifts curve",
@@ -61,7 +61,7 @@
     "brick_title": "Cardiac and Vascular Function Curves",
     "type": "physiology",
     "buzzwords": [
-      "two curves on one plot",
+      { "img": "data/cardio/images/24/cardio-24-4-1.webp" },
       "cardiac equals vascular function",
       "single intersection point",
       "cardiac output equals venous return",

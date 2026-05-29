@@ -102,7 +102,7 @@
       "vision loss",
       "intimal thickening",
       "microaneurysms",
-      "cotton-wool spots",
+      { "img": "data/cardio/images/48/cardio-48-6_1.webp" },
       "arteriovenous nicking",
       "flame hemorrhages"
     ]

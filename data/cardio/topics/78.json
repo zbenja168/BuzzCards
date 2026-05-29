@@ -101,7 +101,7 @@
       "risk-based not single value",
       "estimates 10-year risk",
       "predicts MI and stroke",
-      "stratifies low to high risk",
+      { "img": "data/cardio/images/78/cardio-78-6-1.webp" },
       "Lp(a), apoB enhance risk",
       "Pooled Cohort Equations",
       "ASCVD-PREVENT calculator"

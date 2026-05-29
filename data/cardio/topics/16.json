@@ -8,7 +8,7 @@
     "type": "disease",
     "buzzwords": [
       "originate from thrombi",
-      "single and large",
+      { "img": "data/cardio/images/16/cardio-16-1.webp" },
       "medium to large vessels",
       "most common emboli source",
       "form inside the heart",
@@ -31,7 +31,7 @@
       "cholesterol crystals",
       "embolism shower",
       "triggered by intravascular procedure",
-      "livedo reticularis",
+      { "img": "data/cardio/images/16/cardio-16-2.webp" },
       "anticoagulation little benefit"
     ]
   },

@@ -13,7 +13,7 @@
       "demand exceeds supply",
       "fixed atherosclerotic narrowing",
       "lasts 2 to 5 minutes",
-      "ST depressions with pain",
+      { "img": "data/cardio/images/6/cardio-6-1/1.webp" },
       "exercise stress test positive"
     ]
   },
@@ -31,7 +31,7 @@
       "lasts over 10 minutes",
       "negative troponins",
       "acute coronary syndrome",
-      "plaque rupture with thrombosis",
+      { "img": "data/cardio/images/6/cardio-6-2/1.webp" },
       "treat like acute MI"
     ]
   },

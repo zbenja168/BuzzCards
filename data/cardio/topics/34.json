@@ -11,7 +11,7 @@
       "dyspnea on exertion",
       "fatigue and weakness",
       "S3 gallop",
-      "fine bibasilar crackles",
+      { "img": "data/cardio/images/34/cardio-34-1-1.webp" },
       "displaced point of maximal impulse",
       "orthopnea",
       "paroxysmal nocturnal dyspnea"
@@ -30,7 +30,7 @@
       "tender hepatomegaly",
       "ascites",
       "elevated venous pressure",
-      "jugular venous distension",
+      { "img": "data/cardio/images/34/cardio-34-2-1.webp" },
       "most often caused by left HF",
       "cor pulmonale if lung cause"
     ]

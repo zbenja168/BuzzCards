@@ -118,7 +118,7 @@
       "dangerous ventricular arrhythmia",
       "arises from prolonged QT",
       "amplitude waxes and wanes",
-      "rotates around the baseline",
+      { "img": "data/cardio/images/41/cardio-41-7_1.webp" },
       "can degenerate to fibrillation",
       "drug-induced or congenital",
       "treated with magnesium",
@@ -133,7 +133,7 @@
     "brick_title": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
     "type": "physiology",
     "buzzwords": [
-      "regular R-R intervals",
+      { "img": "data/cardio/images/41/cardio-41-8_1.webp" },
       "rate 60 to 100 bpm",
       "one P before each QRS",
       "consistent P morphology",

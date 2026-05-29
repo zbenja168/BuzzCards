@@ -13,7 +13,7 @@
       "thin ventricular walls",
       "systolic dysfunction",
       "most common cardiomyopathy",
-      "spherical heart",
+      { "img": "data/cardio/images/35/cardio-35-1-1.webp" },
       "S3 gallop"
     ]
   },
@@ -29,7 +29,7 @@
       "chamber enlargement",
       "wall lengthening not thickening",
       "weak contraction",
-      "sarcomeres added in series",
+      { "img": "data/cardio/images/35/cardio-35-2-1.webp" },
       "end-to-end sarcomere addition",
       "TTN gene mutation",
       "sarcomere protein defect"
@@ -46,7 +46,7 @@
       "inflamed heart muscle",
       "most often viral",
       "kills cardiomyocytes",
-      "lymphocytic infiltrate",
+      { "img": "data/cardio/images/35/cardio-35-3-1.webp" },
       "giant cell variant",
       "drug hypersensitivity eosinophilic type",
       "Chagas trypanosoma cruzi",

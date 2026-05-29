@@ -9,7 +9,7 @@
     "buzzwords": [
       "intrinsic flow control",
       "responds to vessel stretch",
-      "keeps flow constant",
+      { "img": "data/cardio/images/54/cardio-54-1-1.webp" },
       "active over 60-150 mmHg",
       "stretch-sensitive Ca channels",
       "rising pressure causes constriction",
@@ -26,7 +26,7 @@
     "type": "physiology",
     "buzzwords": [
       "matches flow to demand",
-      "byproducts cause vasodilation",
+      { "img": "data/cardio/images/54/cardio-54-2-1.webp" },
       "low PO2 dilates vessels",
       "high CO2 dilates",
       "acidosis dilates",

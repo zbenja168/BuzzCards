@@ -14,7 +14,7 @@
       "reduced cardiac output",
       "dizziness, fatigue",
       "common in athletes",
-      "normal sinus rhythm, slow"
+      { "img": "data/cardio/images/72/cardio-72-1-fig1.webp" }
     ]
   },
   {
@@ -32,7 +32,7 @@
       "tachy-brady syndrome",
       "chronotropic incompetence",
       "needs pacemaker",
-      "sinus pauses over 3 seconds"
+      { "img": "data/cardio/images/72/cardio-72-2-fig2.webp" }
     ]
   },
   {
@@ -117,7 +117,7 @@
     "buzzwords": [
       "backup pacemaker activates",
       "arises when SA node fails",
-      "narrow QRS complex",
+      { "img": "data/cardio/images/72/cardio-72-7-fig3.webp" },
       "rate 40 to 60 bpm",
       "absent or inverted P waves",
       "originates at AV junction",

@@ -227,7 +227,7 @@
       "for refractory cardiogenic shock",
       "no proven mortality benefit",
       "avoid in sepsis or bleeding",
-      "balloon times with ECG",
+      { "img": "data/cardio/images/56/1.webp" },
       "percutaneous LV assist device",
       "full cardiopulmonary support",
       "ECMO heart-lung machine"

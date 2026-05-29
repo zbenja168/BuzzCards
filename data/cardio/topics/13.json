@@ -12,9 +12,9 @@
       "LV pressure overload",
       "asymptomatic for years",
       "angina, syncope, dyspnea",
-      "LV-aorta pressure gradient",
+      { "img": "data/cardio/images/13/cardio-13-1-b.webp" },
       "concentric LV hypertrophy",
-      "calcific valve in elderly"
+      { "img": "data/cardio/images/13/cardio-13-1.webp" }
     ]
   },
   {
@@ -27,7 +27,7 @@
     "buzzwords": [
       "most common congenital valve defect",
       "1-2% of population",
-      "two leaflets, not three",
+      { "img": "data/cardio/images/13/cardio-13-2.webp" },
       "calcifies earlier",
       "stenosis in 40s-50s",
       "linked to aortic aneurysm",
@@ -49,7 +49,7 @@
       "softer with Valsalva",
       "decreased S2 intensity",
       "delayed weak carotid pulse",
-      "crescendo-decrescendo",
+      { "img": "data/cardio/images/13/cardio-13-3.webp" },
       "pulsus parvus et tardus"
     ]
   },

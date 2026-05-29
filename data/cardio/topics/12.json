@@ -9,9 +9,9 @@
     "buzzwords": [
       "valve fails to close",
       "also called aortic insufficiency",
-      "blood leaks back in diastole",
+      { "img": "data/cardio/images/cardio-12-1/1.webp" },
       "left ventricular volume overload",
-      "widened pulse pressure",
+      { "img": "data/cardio/images/cardio-12-1/2.webp" },
       "soft diastolic murmur",
       "decrescendo diastolic murmur",
       "treated with valve replacement"
@@ -45,9 +45,9 @@
     "buzzwords": [
       "asymptomatic for years",
       "gradual volume overload",
-      "eccentric left ventricular hypertrophy",
+      { "img": "data/cardio/images/cardio-12-3/2.webp" },
       "dilated chamber, increased radius",
-      "aortic root dilation",
+      { "img": "data/cardio/images/cardio-12-3/1.webp" },
       "calcific or bicuspid valve",
       "connective tissue disease",
       "Marfan and syphilitic aortitis"
@@ -65,7 +65,7 @@
       "soft and high-pitched",
       "decrescendo quality",
       "loudest leaning forward",
-      "heard at Erb point",
+      { "img": "data/cardio/images/cardio-12-4/1.webp" },
       "water-hammer carotid pulse",
       "Corrigan and Duroziez signs",
       "Austin-Flint apical rumble"
@@ -80,7 +80,7 @@
     "type": "disease",
     "buzzwords": [
       "right-sided valve narrowing",
-      "obstructs right ventricular outflow",
+      { "img": "data/cardio/images/cardio-12-5/1.webp" },
       "isolated valve disease rare",
       "found in children",
       "right heart failure if severe",

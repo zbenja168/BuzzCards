@@ -28,10 +28,10 @@
       "reduced renal blood flow",
       "activates RAAS",
       "resistant hypertension",
-      "single small kidney",
+      { "img": "data/cardio/images/70/cardio-70-2-b.webp" },
       "ACEi worsens GFR if bilateral",
       "abdominal bruit",
-      "string of beads in young women",
+      { "img": "data/cardio/images/70/cardio-70-2-a.webp" },
       "fibromuscular dysplasia"
     ]
   },
@@ -63,7 +63,7 @@
     "buzzwords": [
       "excess cortisol",
       "aldosterone-like sodium retention",
-      "moon face, buffalo hump",
+      { "img": "data/cardio/images/70/cardio-70-4-a.webp" },
       "abdominal striae, weight gain",
       "muscle weakness",
       "reduced nitric oxide vasodilation",
@@ -133,7 +133,7 @@
     "brick_title": "Secondary Hypertension",
     "type": "disease",
     "buzzwords": [
-      "nocturnal airway collapse",
+      { "img": "data/cardio/images/70/cardio-70-8-a.webp" },
       "intermittent hypoxia",
       "increased sympathetic tone",
       "raised systemic vascular resistance",

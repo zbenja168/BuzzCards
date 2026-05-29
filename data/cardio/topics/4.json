@@ -12,7 +12,7 @@
       "aorta to pulmonary artery",
       "low oxygen normally closes it",
       "congenital rubella, prematurity",
-      "wide pulse pressure",
+      { "img": "data/cardio/images/4/cardio-4-1/1.webp" },
       "continuous machine-like murmur",
       "left subclavicular region"
     ]
@@ -32,7 +32,7 @@
       "no murmur from defect itself",
       "step-up in right heart oxygen",
       "ostium secundum most common",
-      "fixed wide split S2"
+      { "img": "data/cardio/images/4/cardio-4-2/1.webp" }
     ]
   },
   {
@@ -48,7 +48,7 @@
       "interventricular septum opening",
       "small defects close spontaneously",
       "right heart failure if large",
-      "palpable thrill",
+      { "img": "data/cardio/images/4/cardio-4-3/1.webp" },
       "harsh holosystolic murmur",
       "lower left sternal border"
     ]

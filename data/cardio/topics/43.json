@@ -43,7 +43,7 @@
     "brick_title": "Heart Sounds (S1, S2, S3, and S4)",
     "type": "physiology",
     "buzzwords": [
-      "staggered A2 and P2",
+      { "img": "data/cardio/images/43/1.webp" },
       "normally widens on inspiration",
       "wide split: RBBB",
       "wide split: pulmonary stenosis",

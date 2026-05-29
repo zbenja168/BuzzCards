@@ -14,7 +14,7 @@
       "adds final 10-15%",
       "produces end-diastolic volume",
       "matters more in tachycardia",
-      "makes the a wave"
+      { "img": "data/cardio/images/22/cardio-22-1.webp" }
     ]
   },
   {
@@ -104,7 +104,7 @@
       "most filling occurs here",
       "fills up to 90%",
       "atrial pressure falls",
-      "y descent"
+      { "img": "data/cardio/images/22/cardio-22-6.webp" }
     ]
   },
   {

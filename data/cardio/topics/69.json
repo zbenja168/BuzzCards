@@ -14,7 +14,7 @@
       "corresponds to AP plateau",
       "ventricles fully depolarized",
       "phase 2 of action potential",
-      "J point to T wave"
+      { "img": "data/cardio/images/69/cardio-69-1-1.webp" }
     ]
   },
   {
@@ -63,7 +63,7 @@
     "buzzwords": [
       "left coronary system",
       "anteroseptal V1-V3",
-      "anterolateral leads",
+      { "img": "data/cardio/images/69/cardio-69-4-1.webp" },
       "high lateral I and aVL",
       "extensive V1-V6 = proximal occlusion",
       "reciprocal inferior depression",
@@ -79,9 +79,9 @@
     "brick_title": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
     "type": "imaging",
     "buzzwords": [
-      "leads II, III, aVF",
+      { "img": "data/cardio/images/69/cardio-69-5-1.webp" },
       "reciprocal change in aVL",
-      "check right-sided leads",
+      { "img": "data/cardio/images/69/cardio-69-5-2.webp" },
       "posterior V7-V9",
       "tall R in V1-V2 posterior",
       "RV involvement clue lead III",

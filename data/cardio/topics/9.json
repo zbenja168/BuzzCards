@@ -62,7 +62,7 @@
     "type": "drug",
     "buzzwords": [
       "antiplatelet",
-      "raises platelet cAMP",
+      { "img": "data/cardio/images/9/cardio-9-4/1.webp" },
       "vasodilator",
       "flushing and headache",
       "least commonly used",

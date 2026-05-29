@@ -8,7 +8,7 @@
     "type": "disease",
     "buzzwords": [
       "narrowed neck artery",
-      "atherosclerotic plaque",
+      { "img": "data/cardio/images/25/cardio-25-1.webp" },
       "often asymptomatic",
       "embolic stroke source",
       "bruit on auscultation",
@@ -46,7 +46,7 @@
       "sudden monocular vision loss",
       "embolus lodges in eye",
       "permanent if untreated",
-      "pale ischemic retina",
+      { "img": "data/cardio/images/25/cardio-25-3.webp" },
       "fundoscopy abnormal",
       "spared choroidal supply",
       "cherry-red spot fovea",
@@ -64,7 +64,7 @@
       "noninvasive first test",
       "sound waves",
       "images the bifurcation",
-      "grayscale shows plaque",
+      { "img": "data/cardio/images/25/cardio-25-4.webp" },
       "Doppler measures velocity",
       "peak systolic velocity",
       "elevated ICA/CCA ratio",
@@ -85,7 +85,7 @@
       "plaque removed",
       "artery wall reopened",
       "restores blood flow",
-      "stenting alternative",
+      { "img": "data/cardio/images/25/cardio-25-5.webp" },
       "endarterectomy"
     ]
   }

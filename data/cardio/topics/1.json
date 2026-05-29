@@ -32,7 +32,7 @@
       "intermediate 7.5-20%",
       "high risk ≥20%",
       "12.8% is intermediate",
-      "color-coded risk bar"
+      { "img": "data/cardio/images/1/cardio-1-2.webp" }
     ]
   },
   {

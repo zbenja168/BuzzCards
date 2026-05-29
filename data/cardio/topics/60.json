@@ -31,7 +31,7 @@
       "antibodies attack valve",
       "leaflet thickening and fusion",
       "fused commissures",
-      "fish-mouth orifice",
+      { "img": "data/cardio/images/60/cardio-60-2-1.webp" },
       "rheumatic fever"
     ]
   },
@@ -64,7 +64,7 @@
       "definitive treatment",
       "catheter from femoral vein",
       "transseptal puncture",
-      "balloon inflated across valve",
+      { "img": "data/cardio/images/60/cardio-60-4-1.webp" },
       "splits fused commissures",
       "needs favorable anatomy",
       "alternative is open repair",

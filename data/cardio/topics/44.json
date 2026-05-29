@@ -7,7 +7,7 @@
     "brick_title": "Hemodynamics: Blood Pressure",
     "type": "physiology",
     "buzzwords": [
-      "oscillating arterial pressure",
+      { "img": "data/cardio/images/44/cardio-44-1_1.webp" },
       "systolic peak",
       "diastolic trough",
       "aortic valve closure notch",
@@ -65,7 +65,7 @@
       "volume change per pressure",
       "veins highly compliant",
       "capacitance vessels",
-      "store most blood volume",
+      { "img": "data/cardio/images/44/cardio-44-4_1.webp" },
       "arteries low compliance",
       "delta V over delta P",
       "buffers venous return"
@@ -82,7 +82,7 @@
       "inward recoil ability",
       "inverse of compliance",
       "stiffer less compliant vessel",
-      "elastic fiber rebound",
+      { "img": "data/cardio/images/44/cardio-44-5_1.webp" },
       "maintains diastolic pressure",
       "keeps DBP above zero",
       "delta P over delta V",
@@ -97,7 +97,7 @@
     "brick_title": "Hemodynamics: Blood Pressure",
     "type": "physiology",
     "buzzwords": [
-      "force opposing vessel bulging",
+      { "img": "data/cardio/images/44/cardio-44-6_1.webp" },
       "rises with transmural pressure",
       "rises with radius",
       "thicker wall withstands more",

@@ -7,7 +7,7 @@
     "brick_title": "Nonbacterial Thrombotic Endocarditis",
     "type": "disease",
     "buzzwords": [
-      "sterile vegetations",
+      { "img": "data/cardio/images/62/1.webp" },
       "often asymptomatic",
       "underlying hypercoagulable state",
       "spares the valve",
@@ -25,7 +25,7 @@
     "brick_title": "Nonbacterial Thrombotic Endocarditis",
     "type": "disease",
     "buzzwords": [
-      "sterile vegetations",
+      { "img": "data/cardio/images/62/2.webp" },
       "lupus-associated",
       "very large thrombi",
       "verrucous warty growths",

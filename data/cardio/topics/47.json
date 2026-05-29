@@ -11,7 +11,7 @@
       "vasodilator",
       "promotes natriuresis",
       "increases GFR",
-      "suppresses RAAS",
+      { "img": "data/cardio/images/47/cardio-47-1-1.webp" },
       "released on cardiac stretch",
       "elevated in heart failure",
       "ANP and BNP"

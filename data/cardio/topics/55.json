@@ -154,7 +154,7 @@
       "positive inotrope",
       "increases contractility",
       "no mortality benefit",
-      "inhibits Na/K-ATPase",
+      { "img": "data/cardio/images/55/1.webp" },
       "raises intracellular calcium",
       "narrow therapeutic window",
       "yellow-tinged vision",

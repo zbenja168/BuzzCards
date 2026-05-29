@@ -10,7 +10,7 @@
       "pressure overload",
       "increased afterload",
       "sarcomeres in parallel",
-      "thickened ventricular wall",
+      { "img": "data/cardio/images/66/cardio-66-1.webp" },
       "smaller chamber cavity",
       "stiff, impaired filling",
       "leads to HFpEF",
@@ -27,7 +27,7 @@
     "buzzwords": [
       "volume overload",
       "sarcomeres in series",
-      "chamber dilation",
+      { "img": "data/cardio/images/66/cardio-66-2.webp" },
       "thinned ventricular wall",
       "declining contractility",
       "leads to HFrEF",
@@ -49,7 +49,7 @@
       "stretch boosts contraction",
       "descending limb in failure",
       "overstretch reduces force",
-      "ascending vs descending limb",
+      { "img": "data/cardio/images/66/cardio-66-3.webp" },
       "Frank-Starling curve"
     ]
   },
@@ -62,7 +62,7 @@
     "type": "physiology",
     "buzzwords": [
       "wall stress",
-      "sigma = P x r / 2h",
+      { "img": "data/cardio/images/66/cardio-66-4.webp" },
       "radius raises stress",
       "thickness lowers stress",
       "thicker wall normalizes stress",
@@ -117,7 +117,7 @@
     "buzzwords": [
       "impaired contraction",
       "reduced contractility",
-      "increased end-systolic volume",
+      { "img": "data/cardio/images/66/cardio-66-7.webp" },
       "flatter ESPVR slope",
       "increased EDV",
       "dilated ventricle",
@@ -137,7 +137,7 @@
       "stiff ventricle",
       "normal contractility",
       "reduced EDV",
-      "upward-shifted EDPVR",
+      { "img": "data/cardio/images/66/cardio-66-8.webp" },
       "elevated filling pressures",
       "ejection fraction preserved",
       "HFpEF"

@@ -12,7 +12,7 @@
       "loss of atrial kick",
       "irregularly irregular pulse",
       "multiple reentrant wavelets",
-      "no discrete P waves",
+      { "img": "data/cardio/images/18/cardio-18-1.webp" },
       "pulmonary vein triggers",
       "fibrillatory f waves"
     ]
@@ -83,7 +83,7 @@
       "for drug-refractory AF",
       "ideal in paroxysmal AF",
       "60-80% paroxysmal success",
-      "3-D atrial mapping",
+      { "img": "data/cardio/images/18/cardio-18-5.webp" },
       "destroys abnormal tissue",
       "radiofrequency or cryo energy",
       "pulmonary vein isolation"

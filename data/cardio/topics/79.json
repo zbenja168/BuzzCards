@@ -11,8 +11,8 @@
       "incomplete valve closure",
       "holosystolic murmur",
       "louder with inspiration",
-      "giant C-V wave on JVP",
-      "RV dilation tethers leaflets",
+      { "img": "data/cardio/images/79/tr-fig6-cv.webp" },
+      { "img": "data/cardio/images/79/tr-fig4.webp" },
       "IV drug use, S. aureus",
       "carcinoid, Ebstein anomaly"
     ]
@@ -30,7 +30,7 @@
       "impaired diastolic filling",
       "RHF with normal RV",
       "diastolic rumble at LLSB",
-      "giant A-wave on JVP",
+      { "img": "data/cardio/images/79/ts-fig10-a.webp" },
       "poorly tolerated in pregnancy",
       "rheumatic heart disease"
     ]

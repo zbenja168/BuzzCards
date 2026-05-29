@@ -11,8 +11,8 @@
       "children under 5",
       "fever over 5 days",
       "nonexudative conjunctivitis",
-      "strawberry tongue",
-      "coronary artery aneurysm",
+      { "img": "data/cardio/images/58/kawasaki-tongue.webp" },
+      { "img": "data/cardio/images/58/kawasaki-angiogram.webp" },
       "treat with IVIG and aspirin",
       "Kawasaki disease"
     ]
@@ -29,9 +29,9 @@
       "lungs spared",
       "hepatitis B associated",
       "necrotizing inflammation",
-      "transmural fibrinoid necrosis",
+      { "img": "data/cardio/images/58/pan-histology.webp" },
       "renal failure and stroke",
-      "beads-on-a-string angiography",
+      { "img": "data/cardio/images/58/pan-angiogram.webp" },
       "polyarteritis nodosa"
     ]
   },
@@ -48,7 +48,7 @@
       "Raynaud phenomenon",
       "digital ischemia and gangrene",
       "segmental vessel occlusion",
-      "cellular thrombus spares wall",
+      { "img": "data/cardio/images/58/tao-thrombus.webp" },
       "treat with smoking cessation",
       "Buerger disease"
     ]

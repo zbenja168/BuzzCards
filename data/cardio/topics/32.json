@@ -8,9 +8,9 @@
     "type": "anatomy",
     "buzzwords": [
       "paired arteries",
-      "within pharyngeal arches",
+      { "img": "data/cardio/images/32/card1-fig2.webp" },
       "outflow tract to dorsal aortae",
-      "six pairs cranial to caudal",
+      { "img": "data/cardio/images/32/card1-fig3.webp" },
       "selective regression and remodeling",
       "fifth pair never forms",
       "first/second pairs mostly regress",

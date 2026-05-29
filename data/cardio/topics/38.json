@@ -25,7 +25,7 @@
     "brick_title": "ECG Learning: Sinus Bradycardia and Tachycardia",
     "type": "disease",
     "buzzwords": [
-      "slow regular rhythm",
+      { "img": "data/cardio/images/38/cardio-38-2-1.webp" },
       "normal P morphology",
       "prolonged R-R interval",
       "prolonged P-P interval",
@@ -43,7 +43,7 @@
     "brick_title": "ECG Learning: Sinus Bradycardia and Tachycardia",
     "type": "disease",
     "buzzwords": [
-      "fast regular rhythm",
+      { "img": "data/cardio/images/38/cardio-38-3-1.webp" },
       "normal P morphology",
       "shortened R-R interval",
       "shortened P-P interval",
@@ -68,7 +68,7 @@
       "positive QRS in I and aVF",
       "negative QRS in aVR",
       "P wave axis 0 to +90",
-      "determines the QRS axis"
+      { "img": "data/cardio/images/38/cardio-38-4-1.webp" }
     ]
   }
 ]

@@ -11,10 +11,10 @@
       "age over 50",
       "fever, fatigue, weight loss",
       "new headache",
-      "scalp tenderness",
+      { "img": "data/cardio/images/52/cardio-52-1-us.webp" },
       "jaw claudication",
       "associated with polymyalgia rheumatica",
-      "temporal artery biopsy"
+      { "img": "data/cardio/images/52/cardio-52-1-hist.webp" }
     ]
   },
   {
@@ -32,7 +32,7 @@
       "renovascular hypertension",
       "weak upper-extremity pulses",
       "pulseless disease",
-      "MRA macaroni sign"
+      { "img": "data/cardio/images/52/cardio-52-2-mra.webp" }
     ]
   }
 ]

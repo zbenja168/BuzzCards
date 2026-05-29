@@ -12,7 +12,7 @@
       "no identifiable cause",
       "often asymptomatic",
       "BP over 130/80",
-      "increased SVR or output",
+      { "img": "data/cardio/images/67/cardio-67-1-1.webp" },
       "the silent killer",
       "essential hypertension"
     ]
@@ -63,7 +63,7 @@
     "buzzwords": [
       "first-line antihypertensive",
       "favored in diabetes, CKD",
-      "blocks angiotensin I to II",
+      { "img": "data/cardio/images/67/cardio-67-4-1.webp" },
       "lowers SVR and BP",
       "increases natriuresis",
       "dry cough",

@@ -12,7 +12,7 @@
       "between adjacent myocytes",
       "current via gap junctions",
       "myocyte action potential",
-      "two-cell model",
+      { "img": "data/cardio/images/40/cardio-40-1-1.webp" },
       "subtracted voltages",
       "delta-V equals IR"
     ]
@@ -32,7 +32,7 @@
       "unipolar augmented",
       "right leg is ground",
       "RA, LA, LL, RL",
-      "Einthoven triangle"
+      { "img": "data/cardio/images/40/cardio-40-2-1.webp" }
     ]
   },
   {
@@ -50,7 +50,7 @@
       "right sternal border",
       "localizes ischemia",
       "V6 midaxillary line",
-      "leads V1 to V6"
+      { "img": "data/cardio/images/40/cardio-40-3-1.webp" }
     ]
   },
   {
@@ -62,7 +62,7 @@
     "type": "physiology",
     "buzzwords": [
       "stick-on sensors",
-      "color-coded",
+      { "img": "data/cardio/images/40/cardio-40-4-1.webp" },
       "four limb electrodes",
       "six chest electrodes",
       "ten total electrodes",
@@ -79,7 +79,7 @@
     "brick_title": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
     "type": "physiology",
     "buzzwords": [
-      "P, QRS, T waves",
+      { "img": "data/cardio/images/40/cardio-40-5-1.webp" },
       "toward positive equals upward",
       "P wave atrial depolarization",
       "QRS ventricular depolarization",
@@ -104,7 +104,7 @@
       "large box 0.2 seconds",
       "large box 0.5 mV",
       "10-second snapshot",
-      "calibration reference pulse"
+      { "img": "data/cardio/images/40/cardio-40-6-1.webp" }
     ]
   }
 ]

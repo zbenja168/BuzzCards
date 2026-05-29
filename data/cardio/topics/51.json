@@ -9,7 +9,7 @@
     "buzzwords": [
       "fever and chills",
       "endothelial injury first",
-      "fibrin-platelet vegetation",
+      { "img": "data/cardio/images/51/cardio-51-1-1.webp" },
       "infected heart valves",
       "new heart murmur",
       "left side most common",
@@ -44,7 +44,7 @@
     "type": "disease",
     "buzzwords": [
       "injection drug use",
-      "right-sided valve",
+      { "img": "data/cardio/images/51/cardio-51-3-1.webp" },
       "skin flora seeded",
       "septic pulmonary emboli",
       "bounding jugular pulse",
@@ -65,10 +65,10 @@
       "lodges in distant organs",
       "stroke and seizures",
       "cerebral abscess",
-      "septic pulmonary infarcts",
+      { "img": "data/cardio/images/51/cardio-51-4-1.webp" },
       "deep back pain",
       "septic arthritis",
-      "vertebral osteomyelitis"
+      { "img": "data/cardio/images/51/cardio-51-4-2.webp" }
     ]
   },
   {
@@ -81,7 +81,7 @@
     "buzzwords": [
       "microemboli skin signs",
       "petechiae",
-      "splinter hemorrhages",
+      { "img": "data/cardio/images/51/cardio-51-5-1.webp" },
       "painless palm soles macules",
       "painful finger toe nodules",
       "retinal hemorrhage white center",
@@ -103,7 +103,7 @@
       "HACEK slow growers",
       "culture-negative endocarditis",
       "transesophageal echo most sensitive",
-      "valve vegetation on echo",
+      { "img": "data/cardio/images/51/cardio-51-6-1.webp" },
       "modified Duke criteria"
     ]
   }

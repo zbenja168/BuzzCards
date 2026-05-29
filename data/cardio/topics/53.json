@@ -11,10 +11,10 @@
       "from chronic pressure overload",
       "often asymptomatic",
       "incidental on chest x-ray",
-      "high-voltage lateral leads",
+      { "img": "data/cardio/images/53/cardio-53-1-2.webp" },
       "caused by hypertension",
       "concentric hypertrophy",
-      "parallel sarcomere addition"
+      { "img": "data/cardio/images/53/cardio-53-1-1.webp" }
     ]
   },
   {
@@ -31,8 +31,8 @@
       "mutated sarcomere genes",
       "asymmetric septal thickening",
       "murmur louder with Valsalva",
-      "myocyte disarray on histology",
-      "systolic anterior motion of mitral valve"
+      { "img": "data/cardio/images/53/cardio-53-2-1.webp" },
+      { "img": "data/cardio/images/53/cardio-53-2-2.webp" }
     ]
   }
 ]

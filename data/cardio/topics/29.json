@@ -12,8 +12,8 @@
       "pulmonary valve stenosis",
       "RV hypertrophy",
       "VSD",
-      "overriding aorta",
-      "boot-shaped heart",
+      { "img": "data/cardio/images/29/tof-anatomy.webp" },
+      { "img": "data/cardio/images/29/tof-bootshaped-cxr.webp" },
       "tet spells relieved by squatting"
     ]
   },
@@ -44,7 +44,7 @@
     "type": "disease",
     "buzzwords": [
       "mixing defect",
-      "single great vessel",
+      { "img": "data/cardio/images/29/truncus-diagram.webp" },
       "accompanying VSD",
       "low oxygen saturation",
       "neural crest migration failure",
@@ -64,7 +64,7 @@
       "severe cyanosis at birth",
       "two parallel circulations",
       "needs PDA or ASD",
-      "aorta off right ventricle",
+      { "img": "data/cardio/images/29/tga-diagram.webp" },
       "pulmonary artery off left ventricle",
       "failed spiral septum",
       "egg-on-a-string silhouette",
@@ -80,7 +80,7 @@
     "type": "disease",
     "buzzwords": [
       "mixing defect",
-      "pulmonary veins drain to right heart",
+      { "img": "data/cardio/images/29/tapvr-diagram.webp" },
       "obligate ASD or PDA",
       "pulmonary venous obstruction",
       "low oxygen saturation",

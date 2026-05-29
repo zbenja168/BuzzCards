@@ -11,7 +11,7 @@
       "often asymptomatic",
       "found incidentally",
       "muffled heart sounds",
-      "enlarged cardiac silhouette",
+      { "img": "data/cardio/images/64/effusion-cxr.webp" },
       "low-voltage QRS",
       "water-bottle heart shape",
       "echocardiography confirms"
@@ -26,7 +26,7 @@
     "type": "disease",
     "buzzwords": [
       "hemodynamic compromise",
-      "impaired diastolic filling",
+      { "img": "data/cardio/images/64/tamponade-heart.webp" },
       "distended jugular veins",
       "pulsus paradoxus >10 mmHg",
       "RV diastolic collapse on echo",

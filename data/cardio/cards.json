@@ -32,7 +32,9 @@
       "intermediate 7.5-20%",
       "high risk ≥20%",
       "12.8% is intermediate",
-      "color-coded risk bar"
+      {
+        "img": "data/cardio/images/1/cardio-1-2.webp"
+      }
     ]
   },
   {
@@ -66,7 +68,9 @@
       "pleuritic pain",
       "worse lying flat",
       "better leaning forward",
-      "diffuse ST elevation",
+      {
+        "img": "data/cardio/images/2/cardio-2-1.webp"
+      },
       "PR depression",
       "pericardial friction rub"
     ]
@@ -80,7 +84,9 @@
     "type": "disease",
     "buzzwords": [
       "most common type",
-      "fibrin deposition",
+      {
+        "img": "data/cardio/images/2/cardio-2-2.webp"
+      },
       "post-MI cause",
       "uremia related",
       "post-radiation",
@@ -115,7 +121,9 @@
     "brick_title": "Acute Pericarditis",
     "type": "disease",
     "buzzwords": [
-      "pus-filled exudate",
+      {
+        "img": "data/cardio/images/2/cardio-2-4.webp"
+      },
       "bacterial infection",
       "microorganisms present",
       "spread from infection",
@@ -151,7 +159,9 @@
     "brick_title": "Acute Pericarditis",
     "type": "imaging",
     "buzzwords": [
-      "needle aspiration",
+      {
+        "img": "data/cardio/images/2/cardio-2-6.webp"
+      },
       "drains pericardial fluid",
       "16-18 gauge needle",
       "diagnostic and therapeutic",
@@ -169,7 +179,9 @@
     "brick_title": "Acute Pericarditis",
     "type": "disease",
     "buzzwords": [
-      "large pericardial effusion",
+      {
+        "img": "data/cardio/images/2/cardio-2-7.webp"
+      },
       "rapid fluid buildup",
       "raised intrapericardial pressure",
       "impaired filling",
@@ -208,9 +220,13 @@
       "chronic valvular disease",
       "occurs 10-20 years later",
       "heart failure symptoms",
-      "valve scarring and fibrosis",
+      {
+        "img": "data/cardio/images/3/cardio-3-2-1.webp"
+      },
       "mitral stenosis most common",
-      "fish-mouth mitral valve",
+      {
+        "img": "data/cardio/images/3/cardio-3-2-2.webp"
+      },
       "chordae tendineae fusion",
       "late sequela of ARF"
     ]
@@ -226,8 +242,12 @@
       "granulomatous structures",
       "found in endocardium",
       "autoreactive CD4 T cells",
-      "pathognomonic histology",
-      "contain caterpillar cells",
+      {
+        "img": "data/cardio/images/3/cardio-3-3-1.webp"
+      },
+      {
+        "img": "data/cardio/images/3/cardio-3-3-2.webp"
+      },
       "Anitschkow cells inside",
       "wavy chromatin macrophages",
       "Aschoff body of ARF"
@@ -282,7 +302,9 @@
       "aorta to pulmonary artery",
       "low oxygen normally closes it",
       "congenital rubella, prematurity",
-      "wide pulse pressure",
+      {
+        "img": "data/cardio/images/4/cardio-4-1/1.webp"
+      },
       "continuous machine-like murmur",
       "left subclavicular region"
     ]
@@ -302,7 +324,9 @@
       "no murmur from defect itself",
       "step-up in right heart oxygen",
       "ostium secundum most common",
-      "fixed wide split S2"
+      {
+        "img": "data/cardio/images/4/cardio-4-2/1.webp"
+      }
     ]
   },
   {
@@ -318,7 +342,9 @@
       "interventricular septum opening",
       "small defects close spontaneously",
       "right heart failure if large",
-      "palpable thrill",
+      {
+        "img": "data/cardio/images/4/cardio-4-3/1.webp"
+      },
       "harsh holosystolic murmur",
       "lower left sternal border"
     ]
@@ -337,7 +363,9 @@
       "interatrial septum",
       "interventricular septum",
       "membranous and muscular parts",
-      "septa divide chambers",
+      {
+        "img": "data/cardio/images/5/cardio-5-1-1.webp"
+      },
       "fossa ovalis remnant"
     ]
   },
@@ -391,7 +419,9 @@
       "tension during systole",
       "rupture causes regurgitation",
       "rupture 2-7 days post-MI",
-      "muscle cones in ventricles",
+      {
+        "img": "data/cardio/images/5/cardio-5-4-1.webp"
+      },
       "chordae tendineae"
     ]
   },
@@ -457,7 +487,9 @@
     "brick_title": "Anatomy of the Heart",
     "type": "imaging",
     "buzzwords": [
-      "middle mediastinum",
+      {
+        "img": "data/cardio/images/5/cardio-5-8-1.webp"
+      },
       "RA forms right heart border",
       "RV is anteriormost chamber",
       "LA most posterior structure",
@@ -481,7 +513,9 @@
       "demand exceeds supply",
       "fixed atherosclerotic narrowing",
       "lasts 2 to 5 minutes",
-      "ST depressions with pain",
+      {
+        "img": "data/cardio/images/6/cardio-6-1/1.webp"
+      },
       "exercise stress test positive"
     ]
   },
@@ -499,7 +533,9 @@
       "lasts over 10 minutes",
       "negative troponins",
       "acute coronary syndrome",
-      "plaque rupture with thrombosis",
+      {
+        "img": "data/cardio/images/6/cardio-6-2/1.webp"
+      },
       "treat like acute MI"
     ]
   },
@@ -529,8 +565,12 @@
     "brick_title": "Antiarrhythmic Agents - Class I Drugs",
     "type": "drug",
     "buzzwords": [
-      "act on nonpacemaker myocytes",
-      "block open Na+ channels",
+      {
+        "img": "data/cardio/images/7/cardio-7-1/1.webp"
+      },
+      {
+        "img": "data/cardio/images/7/cardio-7-1/2.webp"
+      },
       "blunt phase 0 upstroke",
       "slow conduction velocity",
       "subdivided IA, IB, IC",
@@ -549,10 +589,14 @@
     "buzzwords": [
       "intermediate Na+ binding",
       "also blocks K+ channels",
-      "prolongs action potential",
+      {
+        "img": "data/cardio/images/7/cardio-7-2/1.webp"
+      },
       "widened QRS",
       "prolonged QT interval",
-      "torsades de pointes risk",
+      {
+        "img": "data/cardio/images/7/cardio-7-2/2.webp"
+      },
       "treats VT and afib",
       "quinidine, procainamide, disopyramide"
     ]
@@ -567,7 +611,9 @@
     "buzzwords": [
       "fastest dissociation kinetics",
       "weakest Na+ blockade",
-      "shortens action potential",
+      {
+        "img": "data/cardio/images/7/cardio-7-3/1.webp"
+      },
       "minimal QRS widening",
       "lowest proarrhythmic potential",
       "crosses blood-brain barrier",
@@ -585,7 +631,9 @@
     "buzzwords": [
       "strongest Na+ binding",
       "slowest dissociation kinetics",
-      "markedly slows conduction",
+      {
+        "img": "data/cardio/images/7/cardio-7-4/1.webp"
+      },
       "unchanged action potential duration",
       "no effect on K+ channels",
       "avoid in structural heart disease",
@@ -604,7 +652,9 @@
       "Class II antiarrhythmic",
       "blocks beta-adrenergic receptors",
       "slows SA and AV conduction",
-      "decreases phase 4 slope",
+      {
+        "img": "data/cardio/images/8/cardio-8-1/1.webp"
+      },
       "prolongs PR interval",
       "treats supraventricular arrhythmias",
       "caution in asthma/COPD",
@@ -622,7 +672,9 @@
       "Class IV antiarrhythmic",
       "blocks L-type calcium channels",
       "negative dromotropy at AV node",
-      "blocks phase 0 of nodal cells",
+      {
+        "img": "data/cardio/images/8/cardio-8-2/1.webp"
+      },
       "prolongs PR interval",
       "causes constipation",
       "treats AF and AVNRT",
@@ -764,7 +816,9 @@
     "type": "drug",
     "buzzwords": [
       "antiplatelet",
-      "raises platelet cAMP",
+      {
+        "img": "data/cardio/images/9/cardio-9-4/1.webp"
+      },
       "vasodilator",
       "flushing and headache",
       "least commonly used",
@@ -787,7 +841,9 @@
       "wall layer weakening",
       "elastin and collagen broken down",
       "rupture or dissection feared",
-      "fusiform or saccular shape",
+      {
+        "img": "data/cardio/images/cardio-10-1/1.webp"
+      },
       "false aneurysm spares wall layers"
     ]
   },
@@ -800,7 +856,9 @@
     "type": "disease",
     "buzzwords": [
       "chest pain",
-      "most arise ascending aorta",
+      {
+        "img": "data/cardio/images/cardio-10-2/1.webp"
+      },
       "cystic medial degeneration",
       "tends to dissect",
       "hoarseness from nerve compression",
@@ -818,12 +876,16 @@
     "type": "disease",
     "buzzwords": [
       "older male smoker",
-      "below renal arteries",
+      {
+        "img": "data/cardio/images/cardio-10-3/1.webp"
+      },
       "chronic transmural inflammation",
       "tends to rupture",
       "diabetes protective",
       "pulsatile abdominal mass",
-      "repair at 5.5 cm",
+      {
+        "img": "data/cardio/images/cardio-10-3/2.webp"
+      },
       "infrarenal endovascular stent graft"
     ]
   },
@@ -842,7 +904,9 @@
       "false lumen on imaging",
       "more common in thoracic",
       "limb organ ischemia",
-      "widened mediastinum on x-ray"
+      {
+        "img": "data/cardio/images/cardio-10-4/1.webp"
+      }
     ]
   },
   {
@@ -854,7 +918,9 @@
     "type": "disease",
     "buzzwords": [
       "rapidly fatal",
-      "massive internal bleeding",
+      {
+        "img": "data/cardio/images/cardio-10-5/1.webp"
+      },
       "more common in AAA",
       "wall tension exceeds strength",
       "increasing radius increases tension",
@@ -872,7 +938,9 @@
     "type": "disease",
     "buzzwords": [
       "fever and bacteremia",
-      "infection weakens wall",
+      {
+        "img": "data/cardio/images/cardio-10-6/1.webp"
+      },
       "hematogenous seeding",
       "rapid enlargement",
       "IV drug use risk",
@@ -889,7 +957,9 @@
     "brick_title": "Aortic Aneurysm",
     "type": "disease",
     "buzzwords": [
-      "behind the knee",
+      {
+        "img": "data/cardio/images/cardio-10-7/1.webp"
+      },
       "most common peripheral aneurysm",
       "often bilateral",
       "frequently coexists with AAA",
@@ -907,7 +977,9 @@
     "brick_title": "Aortic Dissection",
     "type": "disease",
     "buzzwords": [
-      "separation of wall layers",
+      {
+        "img": "data/cardio/images/11/cardio-11-1/1.webp"
+      },
       "tearing chest or back pain",
       "intimal tear lets blood in",
       "intramural hematoma forms",
@@ -928,7 +1000,9 @@
       "more common and dangerous",
       "anterior chest pain",
       "hypotension and shock",
-      "involves ascending aorta",
+      {
+        "img": "data/cardio/images/11/cardio-11-2/1.webp"
+      },
       "retrograde to aortic valve",
       "acute aortic regurgitation",
       "hemopericardium and tamponade",
@@ -946,7 +1020,9 @@
       "back pain",
       "severe hypertension",
       "spares ascending aorta",
-      "descending aorta only",
+      {
+        "img": "data/cardio/images/11/cardio-11-3/1.webp"
+      },
       "neurologic changes",
       "managed conservatively with drugs",
       "target BP under 120/80",
@@ -981,12 +1057,16 @@
     "buzzwords": [
       "low-sensitivity chest x-ray",
       "mediastinal widening",
-      "intimal flap on imaging",
+      {
+        "img": "data/cardio/images/11/cardio-11-5/1.webp"
+      },
       "false lumen separated from true",
       "CT angiography in stable patients",
       "preferred first-line test",
       "bedside test for unstable",
-      "transesophageal echocardiography"
+      {
+        "img": "data/cardio/images/11/cardio-11-5/2.webp"
+      }
     ]
   },
   {
@@ -999,9 +1079,13 @@
     "buzzwords": [
       "valve fails to close",
       "also called aortic insufficiency",
-      "blood leaks back in diastole",
+      {
+        "img": "data/cardio/images/cardio-12-1/1.webp"
+      },
       "left ventricular volume overload",
-      "widened pulse pressure",
+      {
+        "img": "data/cardio/images/cardio-12-1/2.webp"
+      },
       "soft diastolic murmur",
       "decrescendo diastolic murmur",
       "treated with valve replacement"
@@ -1035,9 +1119,13 @@
     "buzzwords": [
       "asymptomatic for years",
       "gradual volume overload",
-      "eccentric left ventricular hypertrophy",
+      {
+        "img": "data/cardio/images/cardio-12-3/2.webp"
+      },
       "dilated chamber, increased radius",
-      "aortic root dilation",
+      {
+        "img": "data/cardio/images/cardio-12-3/1.webp"
+      },
       "calcific or bicuspid valve",
       "connective tissue disease",
       "Marfan and syphilitic aortitis"
@@ -1055,7 +1143,9 @@
       "soft and high-pitched",
       "decrescendo quality",
       "loudest leaning forward",
-      "heard at Erb point",
+      {
+        "img": "data/cardio/images/cardio-12-4/1.webp"
+      },
       "water-hammer carotid pulse",
       "Corrigan and Duroziez signs",
       "Austin-Flint apical rumble"
@@ -1070,7 +1160,9 @@
     "type": "disease",
     "buzzwords": [
       "right-sided valve narrowing",
-      "obstructs right ventricular outflow",
+      {
+        "img": "data/cardio/images/cardio-12-5/1.webp"
+      },
       "isolated valve disease rare",
       "found in children",
       "right heart failure if severe",
@@ -1110,9 +1202,13 @@
       "LV pressure overload",
       "asymptomatic for years",
       "angina, syncope, dyspnea",
-      "LV-aorta pressure gradient",
+      {
+        "img": "data/cardio/images/13/cardio-13-1-b.webp"
+      },
       "concentric LV hypertrophy",
-      "calcific valve in elderly"
+      {
+        "img": "data/cardio/images/13/cardio-13-1.webp"
+      }
     ]
   },
   {
@@ -1125,7 +1221,9 @@
     "buzzwords": [
       "most common congenital valve defect",
       "1-2% of population",
-      "two leaflets, not three",
+      {
+        "img": "data/cardio/images/13/cardio-13-2.webp"
+      },
       "calcifies earlier",
       "stenosis in 40s-50s",
       "linked to aortic aneurysm",
@@ -1147,7 +1245,9 @@
       "softer with Valsalva",
       "decreased S2 intensity",
       "delayed weak carotid pulse",
-      "crescendo-decrescendo",
+      {
+        "img": "data/cardio/images/13/cardio-13-3.webp"
+      },
       "pulsus parvus et tardus"
     ]
   },
@@ -1180,7 +1280,9 @@
       "five phases, zero to four",
       "ion currents across membrane",
       "phase 4 resting potential",
-      "phase 0 rapid sodium influx",
+      {
+        "img": "data/cardio/images/14/cardio-14-1.webp"
+      },
       "phase 2 plateau, calcium influx",
       "phase 3 potassium efflux",
       "L-type calcium channels open",
@@ -1200,7 +1302,9 @@
       "enhanced causes tachycardia",
       "decreased causes bradycardia",
       "ischemia or catecholamines enhance it",
-      "SA node fastest, sets heart rate",
+      {
+        "img": "data/cardio/images/14/cardio-14-2.webp"
+      },
       "ectopic focus overdrives SA node",
       "vagal tone slows SA node"
     ]
@@ -1217,7 +1321,9 @@
       "depends on preceding beat",
       "afterdepolarizations interrupt phases",
       "early afterdepolarizations from plateau",
-      "delayed afterdepolarizations from rest",
+      {
+        "img": "data/cardio/images/14/cardio-14-3.webp"
+      },
       "calcium overload drives DADs",
       "prolonged QT drives EADs",
       "causes torsades de pointes"
@@ -1236,7 +1342,9 @@
       "unidirectional block required",
       "slow conduction in one limb",
       "premature beat initiates circuit",
-      "accessory pathway can sustain it",
+      {
+        "img": "data/cardio/images/14/cardio-14-4.webp"
+      },
       "AVNRT slow and fast pathways",
       "Wolff-Parkinson-White delta wave"
     ]
@@ -1252,10 +1360,14 @@
       "inherited cardiomyopathy",
       "sudden death in young athletes",
       "ventricular arrhythmias on exertion",
-      "right-sided heart failure",
+      {
+        "img": "data/cardio/images/15/cardio-15-1-gross.webp"
+      },
       "autosomal dominant, variable penetrance",
       "desmosome mutations",
-      "RV myocardium replaced by fibrofatty tissue",
+      {
+        "img": "data/cardio/images/15/cardio-15-1-hist.webp"
+      },
       "arrhythmogenic right ventricular dysplasia"
     ]
   },
@@ -1270,7 +1382,9 @@
       "inherited cardiomyopathy variant",
       "ventricular arrhythmias",
       "autosomal recessive inheritance",
-      "thickened palm and sole skin",
+      {
+        "img": "data/cardio/images/15/cardio-15-2-palm.webp"
+      },
       "diffuse scaling of skin",
       "recessive form of ARVC",
       "palmoplantar keratoderma",
@@ -1289,7 +1403,9 @@
       "seen in leads V1 to V3",
       "marker of delayed RV conduction",
       "present in 30% of patients",
-      "small positive deflection",
+      {
+        "img": "data/cardio/images/15/cardio-15-3-ecg.webp"
+      },
       "follows the QRS complex",
       "specific for ARVC",
       "epsilon wave"
@@ -1304,7 +1420,9 @@
     "type": "disease",
     "buzzwords": [
       "originate from thrombi",
-      "single and large",
+      {
+        "img": "data/cardio/images/16/cardio-16-1.webp"
+      },
       "medium to large vessels",
       "most common emboli source",
       "form inside the heart",
@@ -1327,7 +1445,9 @@
       "cholesterol crystals",
       "embolism shower",
       "triggered by intravascular procedure",
-      "livedo reticularis",
+      {
+        "img": "data/cardio/images/16/cardio-16-2.webp"
+      },
       "anticoagulation little benefit"
     ]
   },
@@ -1378,7 +1498,9 @@
       "slow progressive",
       "silent until complication",
       "begins in childhood",
-      "narrows arterial lumen",
+      {
+        "img": "data/cardio/images/17/cardio-17-1.webp"
+      },
       "affects arteries not veins",
       "leading cause of death",
       "fatty plaque buildup",
@@ -1411,7 +1533,9 @@
     "brick_title": "Atherosclerosis",
     "type": "physiology",
     "buzzwords": [
-      "six-step process",
+      {
+        "img": "data/cardio/images/17/cardio-17-3.webp"
+      },
       "endothelial damage first",
       "LDL accumulates in intima",
       "monocytes become macrophages",
@@ -1483,7 +1607,9 @@
     "brick_title": "Atherosclerosis",
     "type": "physiology",
     "buzzwords": [
-      "abnormal bulging dilation",
+      {
+        "img": "data/cardio/images/17/cardio-17-7.webp"
+      },
       "weakened vessel wall",
       "turbulent flow injures wall",
       "occurs at branch points",
@@ -1506,7 +1632,9 @@
       "loss of atrial kick",
       "irregularly irregular pulse",
       "multiple reentrant wavelets",
-      "no discrete P waves",
+      {
+        "img": "data/cardio/images/18/cardio-18-1.webp"
+      },
       "pulmonary vein triggers",
       "fibrillatory f waves"
     ]
@@ -1577,7 +1705,9 @@
       "for drug-refractory AF",
       "ideal in paroxysmal AF",
       "60-80% paroxysmal success",
-      "3-D atrial mapping",
+      {
+        "img": "data/cardio/images/18/cardio-18-5.webp"
+      },
       "destroys abnormal tissue",
       "radiofrequency or cryo energy",
       "pulmonary vein isolation"
@@ -1647,7 +1777,9 @@
     "buzzwords": [
       "located close to heart",
       "sense vessel wall stretch",
-      "afferents to medulla",
+      {
+        "img": "data/cardio/images/19/cardio-19-2.webp"
+      },
       "efferents sympathetic and vagal",
       "carotid sinus via CN IX",
       "aortic arch via CN X",
@@ -1664,7 +1796,9 @@
     "type": "physiology",
     "buzzwords": [
       "increased arterial stretch",
-      "increased afferent firing",
+      {
+        "img": "data/cardio/images/19/cardio-19-3.webp"
+      },
       "sympathetic output decreases",
       "parasympathetic output increases",
       "drops heart rate",
@@ -1683,7 +1817,9 @@
     "buzzwords": [
       "decreased arterial stretch",
       "decreased afferent firing",
-      "sympathetic output increases",
+      {
+        "img": "data/cardio/images/19/cardio-19-4.webp"
+      },
       "parasympathetic output decreases",
       "raises heart rate",
       "increased contractility",
@@ -1754,7 +1890,9 @@
     "type": "physiology",
     "buzzwords": [
       "vessel tone",
-      "depends on vessel radius",
+      {
+        "img": "data/cardio/images/20/cardio-20-2-1.webp"
+      },
       "constriction raises it",
       "dilation lowers it",
       "set by arteriolar smooth muscle",
@@ -1811,7 +1949,9 @@
       "triggered by low blood pressure",
       "drives sodium reabsorption",
       "water follows salt",
-      "aldosterone and ADH effectors",
+      {
+        "img": "data/cardio/images/20/cardio-20-5-1.webp"
+      },
       "stimulates thirst",
       "Ang II causes vasoconstriction",
       "renin-angiotensin-aldosterone system"
@@ -1865,7 +2005,9 @@
       "also called inotropy",
       "force at given preload",
       "depends on cytoplasmic calcium",
-      "shifts the curve up",
+      {
+        "img": "data/cardio/images/21/cardio-21-3.webp"
+      },
       "sympathetic boosts it",
       "beta-1 adrenergic increases it",
       "digoxin is positive inotrope"
@@ -1882,7 +2024,9 @@
       "ventricular filling stretch",
       "set before systole",
       "rises with venous return",
-      "more stretch, more force",
+      {
+        "img": "data/cardio/images/21/cardio-21-4.webp"
+      },
       "measured as EDV or EDP",
       "increases stroke volume",
       "end-diastolic volume",
@@ -1900,7 +2044,9 @@
       "resistance to ejection",
       "force opposing outflow",
       "rises with vasoconstriction",
-      "high load lowers stroke volume",
+      {
+        "img": "data/cardio/images/21/cardio-21-5.webp"
+      },
       "raised in hypertension",
       "estimated by SVR",
       "systemic vascular resistance",
@@ -1922,7 +2068,9 @@
       "adds final 10-15%",
       "produces end-diastolic volume",
       "matters more in tachycardia",
-      "makes the a wave"
+      {
+        "img": "data/cardio/images/22/cardio-22-1.webp"
+      }
     ]
   },
   {
@@ -2012,7 +2160,9 @@
       "most filling occurs here",
       "fills up to 90%",
       "atrial pressure falls",
-      "y descent"
+      {
+        "img": "data/cardio/images/22/cardio-22-6.webp"
+      }
     ]
   },
   {
@@ -2044,10 +2194,14 @@
       "benign primary tumor",
       "most common in adults",
       "twice as common in women",
-      "pedunculated mobile mass",
+      {
+        "img": "data/cardio/images/23/cardio-23-1-1.webp"
+      },
       "left atrium",
       "mimics mitral stenosis",
-      "spindle cells in myxoid stroma",
+      {
+        "img": "data/cardio/images/23/cardio-23-1-2.webp"
+      },
       "tumor plop"
     ]
   },
@@ -2062,11 +2216,15 @@
       "benign striated muscle tumor",
       "most common pediatric tumor",
       "diagnosed in utero",
-      "ventricular myocardium",
+      {
+        "img": "data/cardio/images/23/cardio-23-2-1.webp"
+      },
       "often regress spontaneously",
       "treat with mTOR inhibitor",
       "tuberous sclerosis (TSC1/TSC2)",
-      "spider cells"
+      {
+        "img": "data/cardio/images/23/cardio-23-2-2.webp"
+      }
     ]
   },
   {
@@ -2080,10 +2238,14 @@
       "preload on x-axis",
       "cardiac output on y-axis",
       "plateaus at high preload",
-      "steepens with inotropy",
+      {
+        "img": "data/cardio/images/24/cardio-24-1-2.webp"
+      },
       "flattens in heart failure",
       "downward shift raises afterload",
-      "LVEDV versus CO",
+      {
+        "img": "data/cardio/images/24/cardio-24-1-1.webp"
+      },
       "Frank-Starling curve"
     ]
   },
@@ -2097,7 +2259,9 @@
     "buzzwords": [
       "venous return on y-axis",
       "right atrial pressure on x-axis",
-      "falls as RA pressure rises",
+      {
+        "img": "data/cardio/images/24/cardio-24-2-1.webp"
+      },
       "flat plateau from vein collapse",
       "shifts right with volume",
       "venous tone shifts curve",
@@ -2131,7 +2295,9 @@
     "brick_title": "Cardiac and Vascular Function Curves",
     "type": "physiology",
     "buzzwords": [
-      "two curves on one plot",
+      {
+        "img": "data/cardio/images/24/cardio-24-4-1.webp"
+      },
       "cardiac equals vascular function",
       "single intersection point",
       "cardiac output equals venous return",
@@ -2150,7 +2316,9 @@
     "type": "disease",
     "buzzwords": [
       "narrowed neck artery",
-      "atherosclerotic plaque",
+      {
+        "img": "data/cardio/images/25/cardio-25-1.webp"
+      },
       "often asymptomatic",
       "embolic stroke source",
       "bruit on auscultation",
@@ -2188,7 +2356,9 @@
       "sudden monocular vision loss",
       "embolus lodges in eye",
       "permanent if untreated",
-      "pale ischemic retina",
+      {
+        "img": "data/cardio/images/25/cardio-25-3.webp"
+      },
       "fundoscopy abnormal",
       "spared choroidal supply",
       "cherry-red spot fovea",
@@ -2206,7 +2376,9 @@
       "noninvasive first test",
       "sound waves",
       "images the bifurcation",
-      "grayscale shows plaque",
+      {
+        "img": "data/cardio/images/25/cardio-25-4.webp"
+      },
       "Doppler measures velocity",
       "peak systolic velocity",
       "elevated ICA/CCA ratio",
@@ -2227,7 +2399,9 @@
       "plaque removed",
       "artery wall reopened",
       "restores blood flow",
-      "stenting alternative",
+      {
+        "img": "data/cardio/images/25/cardio-25-5.webp"
+      },
       "endarterectomy"
     ]
   },
@@ -2243,7 +2417,9 @@
       "lungs bypassed",
       "right-to-left shunting normal",
       "umbilical vein oxygenated",
-      "ductus arteriosus",
+      {
+        "img": "data/cardio/images/26/fetal-circ.webp"
+      },
       "PA to aorta shunt",
       "foramen ovale",
       "RA to LA shunt"
@@ -2262,7 +2438,9 @@
       "right heart volume overload",
       "high-pressure to low-pressure flow",
       "can reverse over time",
-      "ASD, VSD, PDA",
+      {
+        "img": "data/cardio/images/26/ltr-shunt.webp"
+      },
       "VSD holosystolic murmur",
       "PDA machine-like murmur"
     ]
@@ -2280,7 +2458,9 @@
       "pulmonary hypertension",
       "RV hypertrophy",
       "cyanosis and clubbing",
-      "becomes right-to-left",
+      {
+        "img": "data/cardio/images/26/rtl-shunt.webp"
+      },
       "RV pressure exceeds LV",
       "complication of L-to-R shunt"
     ]
@@ -2294,7 +2474,9 @@
     "type": "disease",
     "buzzwords": [
       "cyanotic",
-      "blue baby at birth",
+      {
+        "img": "data/cardio/images/26/cyanosis.webp"
+      },
       "deoxygenated blood into systemic",
       "early cyanosis",
       "truncus arteriosus, TGA",
@@ -2335,7 +2517,9 @@
       "fluid overload signs",
       "elevated JVP",
       "stiff inelastic pericardium",
-      "dense fibrosis with calcification",
+      {
+        "img": "data/cardio/images/27/cardio-27-1-1.webp"
+      },
       "TB in developing countries"
     ]
   },
@@ -2349,7 +2533,9 @@
     "buzzwords": [
       "one ventricle alters the other",
       "exaggerated by inspiration",
-      "increased RV filling",
+      {
+        "img": "data/cardio/images/27/cardio-27-2-1.webp"
+      },
       "septum bulges into LV",
       "reduced LV filling on inspiration",
       "fixed total cardiac volume",
@@ -2455,10 +2641,14 @@
     "brick_title": "Coronary Blood Flow - Vascular Physiology",
     "type": "physiology",
     "buzzwords": [
-      "flow varies with cardiac cycle",
+      {
+        "img": "data/cardio/images/28/cardio-28-1_a.webp"
+      },
       "systolic compression of vessels",
       "subendocardium most vulnerable",
-      "open aortic cusps block ostia",
+      {
+        "img": "data/cardio/images/28/cardio-28-1_b.webp"
+      },
       "left coronary worst affected",
       "perfusion mostly in diastole",
       "maximal flow early diastole",
@@ -2528,7 +2718,9 @@
     "type": "physiology",
     "buzzwords": [
       "max flow above resting baseline",
-      "reflects vasodilatory capacity",
+      {
+        "img": "data/cardio/images/28/cardio-28-5_a.webp"
+      },
       "exhausted by atherosclerosis",
       "unmasks critical stenosis",
       "reversible perfusion defect",
@@ -2586,8 +2778,12 @@
       "pulmonary valve stenosis",
       "RV hypertrophy",
       "VSD",
-      "overriding aorta",
-      "boot-shaped heart",
+      {
+        "img": "data/cardio/images/29/tof-anatomy.webp"
+      },
+      {
+        "img": "data/cardio/images/29/tof-bootshaped-cxr.webp"
+      },
       "tet spells relieved by squatting"
     ]
   },
@@ -2618,7 +2814,9 @@
     "type": "disease",
     "buzzwords": [
       "mixing defect",
-      "single great vessel",
+      {
+        "img": "data/cardio/images/29/truncus-diagram.webp"
+      },
       "accompanying VSD",
       "low oxygen saturation",
       "neural crest migration failure",
@@ -2638,7 +2836,9 @@
       "severe cyanosis at birth",
       "two parallel circulations",
       "needs PDA or ASD",
-      "aorta off right ventricle",
+      {
+        "img": "data/cardio/images/29/tga-diagram.webp"
+      },
       "pulmonary artery off left ventricle",
       "failed spiral septum",
       "egg-on-a-string silhouette",
@@ -2654,7 +2854,9 @@
     "type": "disease",
     "buzzwords": [
       "mixing defect",
-      "pulmonary veins drain to right heart",
+      {
+        "img": "data/cardio/images/29/tapvr-diagram.webp"
+      },
       "obligate ASD or PDA",
       "pulmonary venous obstruction",
       "low oxygen saturation",
@@ -2673,7 +2875,9 @@
     "buzzwords": [
       "oral anticoagulant",
       "direct factor Xa inhibitor",
-      "blocks common pathway",
+      {
+        "img": "data/cardio/images/30/1.webp"
+      },
       "no routine INR monitoring",
       "renally eliminated, CYP3A4 substrate",
       "not for prosthetic valves",
@@ -2711,7 +2915,9 @@
       "unilateral leg pain",
       "warm red leg",
       "usually lower extremity",
-      "unilateral swelling",
+      {
+        "img": "data/cardio/images/31/cardio-31-1_1.webp"
+      },
       "can embolize to lungs",
       "pain on dorsiflexion",
       "Homan sign"
@@ -2726,7 +2932,9 @@
     "type": "physiology",
     "buzzwords": [
       "predisposes to thrombus",
-      "three conditions",
+      {
+        "img": "data/cardio/images/31/cardio-31-2_1.webp"
+      },
       "venous stasis",
       "endothelial injury",
       "hypercoagulable state",
@@ -2765,7 +2973,9 @@
       "near-total venous outflow block",
       "swollen painful leg",
       "edematous cyanotic limb",
-      "blue discoloration",
+      {
+        "img": "data/cardio/images/31/cardio-31-4_1.webp"
+      },
       "risk of limb ischemia",
       "surgical emergency",
       "phlegmasia cerulea dolens"
@@ -2820,7 +3030,9 @@
       "transducer presses the vein",
       "normal vein collapses",
       "clot prevents collapse",
-      "non-compressible vein",
+      {
+        "img": "data/cardio/images/31/cardio-31-7_1.webp"
+      },
       "whole-leg study preferred",
       "compression ultrasonography"
     ]
@@ -2852,9 +3064,13 @@
     "type": "anatomy",
     "buzzwords": [
       "paired arteries",
-      "within pharyngeal arches",
+      {
+        "img": "data/cardio/images/32/card1-fig2.webp"
+      },
       "outflow tract to dorsal aortae",
-      "six pairs cranial to caudal",
+      {
+        "img": "data/cardio/images/32/card1-fig3.webp"
+      },
       "selective regression and remodeling",
       "fifth pair never forms",
       "first/second pairs mostly regress",
@@ -2960,7 +3176,9 @@
     "type": "imaging",
     "buzzwords": [
       "chest X-ray finding",
-      "wide central shadow",
+      {
+        "img": "data/cardio/images/33/1.webp"
+      },
       "seen after trauma",
       "tumor or vascular cause",
       "prompts chest CT angiogram",
@@ -2983,7 +3201,9 @@
       "cardiomegaly or effusion",
       "AP film overestimates size",
       "asymmetric in cardiomegaly",
-      "rounded globular shape",
+      {
+        "img": "data/cardio/images/33/2.webp"
+      },
       "water bottle heart"
     ]
   },
@@ -3001,7 +3221,9 @@
       "cephalization of flow",
       "interlobular septal edema",
       "pleural effusions common",
-      "perihilar bat-wing opacities",
+      {
+        "img": "data/cardio/images/33/3.webp"
+      },
       "Kerley B lines"
     ]
   },
@@ -3013,7 +3235,9 @@
     "brick_title": "Diagnosis by Cardiovascular Imaging",
     "type": "imaging",
     "buzzwords": [
-      "real-time noninvasive imaging",
+      {
+        "img": "data/cardio/images/33/4.webp"
+      },
       "no radiation",
       "test of choice for effusion",
       "measures ejection fraction",
@@ -3033,7 +3257,9 @@
     "buzzwords": [
       "uses radiotracer uptake",
       "compares stress and rest",
-      "assesses myocardial perfusion",
+      {
+        "img": "data/cardio/images/33/5.webp"
+      },
       "detects ischemia not vessels",
       "fixed defect means scar",
       "reversible defect means ischemia",
@@ -3051,7 +3277,9 @@
     "buzzwords": [
       "noninvasive vessel imaging",
       "uses iodinated contrast",
-      "directly visualizes coronaries",
+      {
+        "img": "data/cardio/images/33/6.webp"
+      },
       "best to find stenosis",
       "down to pedal vessels",
       "alternative to catheter angiography",
@@ -3069,7 +3297,9 @@
     "buzzwords": [
       "low-dose noncontrast CT",
       "no contrast needed",
-      "quantifies plaque calcium",
+      {
+        "img": "data/cardio/images/33/7.webp"
+      },
       "marker of atherosclerosis",
       "screens asymptomatic patients",
       "guides statin decisions",
@@ -3086,7 +3316,9 @@
     "type": "imaging",
     "buzzwords": [
       "invasive catheter study",
-      "contrast injected into arteries",
+      {
+        "img": "data/cardio/images/33/8.webp"
+      },
       "gold standard for stenosis",
       "allows same-session intervention",
       "balloon dilation and stenting",
@@ -3107,7 +3339,9 @@
       "dyspnea on exertion",
       "fatigue and weakness",
       "S3 gallop",
-      "fine bibasilar crackles",
+      {
+        "img": "data/cardio/images/34/cardio-34-1-1.webp"
+      },
       "displaced point of maximal impulse",
       "orthopnea",
       "paroxysmal nocturnal dyspnea"
@@ -3126,7 +3360,9 @@
       "tender hepatomegaly",
       "ascites",
       "elevated venous pressure",
-      "jugular venous distension",
+      {
+        "img": "data/cardio/images/34/cardio-34-2-1.webp"
+      },
       "most often caused by left HF",
       "cor pulmonale if lung cause"
     ]
@@ -3217,7 +3453,9 @@
       "thin ventricular walls",
       "systolic dysfunction",
       "most common cardiomyopathy",
-      "spherical heart",
+      {
+        "img": "data/cardio/images/35/cardio-35-1-1.webp"
+      },
       "S3 gallop"
     ]
   },
@@ -3233,7 +3471,9 @@
       "chamber enlargement",
       "wall lengthening not thickening",
       "weak contraction",
-      "sarcomeres added in series",
+      {
+        "img": "data/cardio/images/35/cardio-35-2-1.webp"
+      },
       "end-to-end sarcomere addition",
       "TTN gene mutation",
       "sarcomere protein defect"
@@ -3250,7 +3490,9 @@
       "inflamed heart muscle",
       "most often viral",
       "kills cardiomyocytes",
-      "lymphocytic infiltrate",
+      {
+        "img": "data/cardio/images/35/cardio-35-3-1.webp"
+      },
       "giant cell variant",
       "drug hypersensitivity eosinophilic type",
       "Chagas trypanosoma cruzi",
@@ -3286,8 +3528,12 @@
       "isolated high LDL",
       "autosomal dominant",
       "premature CAD",
-      "tendon xanthomas",
-      "corneal arcus",
+      {
+        "img": "data/cardio/images/36/xanthelasma.webp"
+      },
+      {
+        "img": "data/cardio/images/36/corneal-arcus.webp"
+      },
       "defective LDL receptor",
       "ApoB-100 defect",
       "Fredrickson IIa"
@@ -3505,7 +3751,9 @@
       "twice-yearly dosing",
       "injection-site reactions",
       "arthralgia",
-      "small interfering RNA",
+      {
+        "img": "data/cardio/images/37/cardio-37-9-1.webp"
+      },
       "siRNA against PCSK9"
     ]
   },
@@ -3535,7 +3783,9 @@
     "brick_title": "ECG Learning: Sinus Bradycardia and Tachycardia",
     "type": "disease",
     "buzzwords": [
-      "slow regular rhythm",
+      {
+        "img": "data/cardio/images/38/cardio-38-2-1.webp"
+      },
       "normal P morphology",
       "prolonged R-R interval",
       "prolonged P-P interval",
@@ -3553,7 +3803,9 @@
     "brick_title": "ECG Learning: Sinus Bradycardia and Tachycardia",
     "type": "disease",
     "buzzwords": [
-      "fast regular rhythm",
+      {
+        "img": "data/cardio/images/38/cardio-38-3-1.webp"
+      },
       "normal P morphology",
       "shortened R-R interval",
       "shortened P-P interval",
@@ -3578,7 +3830,9 @@
       "positive QRS in I and aVF",
       "negative QRS in aVR",
       "P wave axis 0 to +90",
-      "determines the QRS axis"
+      {
+        "img": "data/cardio/images/38/cardio-38-4-1.webp"
+      }
     ]
   },
   {
@@ -3592,11 +3846,15 @@
       "tissue swelling",
       "puffy heavy limb",
       "expanded interstitial volume",
-      "imbalanced Starling forces",
+      {
+        "img": "data/cardio/images/39/starling-forces.webp"
+      },
       "indents with finger",
       "rebounds slowly",
       "leg follow-up DVT",
-      "pitting edema"
+      {
+        "img": "data/cardio/images/39/edema-pitting.webp"
+      }
     ]
   },
   {
@@ -3612,7 +3870,9 @@
       "backs up venous end",
       "right heart failure",
       "venous obstruction",
-      "cirrhosis ascites",
+      {
+        "img": "data/cardio/images/39/ascites.webp"
+      },
       "high portal pressure",
       "elevated Pc"
     ]
@@ -3738,7 +3998,9 @@
       "between adjacent myocytes",
       "current via gap junctions",
       "myocyte action potential",
-      "two-cell model",
+      {
+        "img": "data/cardio/images/40/cardio-40-1-1.webp"
+      },
       "subtracted voltages",
       "delta-V equals IR"
     ]
@@ -3758,7 +4020,9 @@
       "unipolar augmented",
       "right leg is ground",
       "RA, LA, LL, RL",
-      "Einthoven triangle"
+      {
+        "img": "data/cardio/images/40/cardio-40-2-1.webp"
+      }
     ]
   },
   {
@@ -3776,7 +4040,9 @@
       "right sternal border",
       "localizes ischemia",
       "V6 midaxillary line",
-      "leads V1 to V6"
+      {
+        "img": "data/cardio/images/40/cardio-40-3-1.webp"
+      }
     ]
   },
   {
@@ -3788,7 +4054,9 @@
     "type": "physiology",
     "buzzwords": [
       "stick-on sensors",
-      "color-coded",
+      {
+        "img": "data/cardio/images/40/cardio-40-4-1.webp"
+      },
       "four limb electrodes",
       "six chest electrodes",
       "ten total electrodes",
@@ -3805,7 +4073,9 @@
     "brick_title": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
     "type": "physiology",
     "buzzwords": [
-      "P, QRS, T waves",
+      {
+        "img": "data/cardio/images/40/cardio-40-5-1.webp"
+      },
       "toward positive equals upward",
       "P wave atrial depolarization",
       "QRS ventricular depolarization",
@@ -3830,7 +4100,9 @@
       "large box 0.2 seconds",
       "large box 0.5 mV",
       "10-second snapshot",
-      "calibration reference pulse"
+      {
+        "img": "data/cardio/images/40/cardio-40-6-1.webp"
+      }
     ]
   },
   {
@@ -3952,7 +4224,9 @@
       "dangerous ventricular arrhythmia",
       "arises from prolonged QT",
       "amplitude waxes and wanes",
-      "rotates around the baseline",
+      {
+        "img": "data/cardio/images/41/cardio-41-7_1.webp"
+      },
       "can degenerate to fibrillation",
       "drug-induced or congenital",
       "treated with magnesium",
@@ -3967,7 +4241,9 @@
     "brick_title": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
     "type": "physiology",
     "buzzwords": [
-      "regular R-R intervals",
+      {
+        "img": "data/cardio/images/41/cardio-41-8_1.webp"
+      },
       "rate 60 to 100 bpm",
       "one P before each QRS",
       "consistent P morphology",
@@ -4006,7 +4282,9 @@
       "delayed ventricular conduction",
       "wide QRS over 120 ms",
       "left ventricle activates first",
-      "M-shaped complex in V1",
+      {
+        "img": "data/cardio/images/42/rbbb_1.webp"
+      },
       "upright QRS in V1",
       "rsR prime pattern",
       "rabbit ears morphology",
@@ -4027,7 +4305,9 @@
       "loss of normal septal Q waves",
       "downward QRS in V1",
       "broad notched R in V6",
-      "W in V1 M in V6",
+      {
+        "img": "data/cardio/images/42/lbbb_1.webp"
+      },
       "WiLLiaM pattern"
     ]
   },
@@ -4044,7 +4324,9 @@
       "usually asymptomatic",
       "common in trained athletes",
       "no treatment needed",
-      "narrow QRS preserved",
+      {
+        "img": "data/cardio/images/42/first_degree_1.webp"
+      },
       "constant prolonged PR interval",
       "PR over 0.2 seconds"
     ]
@@ -4062,7 +4344,9 @@
       "vagal tone or inferior MI",
       "often benign and asymptomatic",
       "responds to atropine",
-      "progressive PR lengthening",
+      {
+        "img": "data/cardio/images/42/mobitz1_1.webp"
+      },
       "until a dropped beat",
       "Wenckebach"
     ]
@@ -4081,7 +4365,9 @@
       "almost always cardiac disease",
       "high risk of complete block",
       "pacemaker required",
-      "constant PR then sudden drop",
+      {
+        "img": "data/cardio/images/42/mobitz2_1.webp"
+      },
       "infra-Hisian bundle branch block"
     ]
   },
@@ -4099,7 +4385,9 @@
       "slow ventricular escape rhythm",
       "infra-Hisian escape unreliable",
       "pacemaker placement required",
-      "P waves march independent of QRS",
+      {
+        "img": "data/cardio/images/42/third_degree_1.webp"
+      },
       "AV dissociation"
     ]
   },
@@ -4147,7 +4435,9 @@
     "brick_title": "Heart Sounds (S1, S2, S3, and S4)",
     "type": "physiology",
     "buzzwords": [
-      "staggered A2 and P2",
+      {
+        "img": "data/cardio/images/43/1.webp"
+      },
       "normally widens on inspiration",
       "wide split: RBBB",
       "wide split: pulmonary stenosis",
@@ -4201,7 +4491,9 @@
     "brick_title": "Hemodynamics: Blood Pressure",
     "type": "physiology",
     "buzzwords": [
-      "oscillating arterial pressure",
+      {
+        "img": "data/cardio/images/44/cardio-44-1_1.webp"
+      },
       "systolic peak",
       "diastolic trough",
       "aortic valve closure notch",
@@ -4259,7 +4551,9 @@
       "volume change per pressure",
       "veins highly compliant",
       "capacitance vessels",
-      "store most blood volume",
+      {
+        "img": "data/cardio/images/44/cardio-44-4_1.webp"
+      },
       "arteries low compliance",
       "delta V over delta P",
       "buffers venous return"
@@ -4276,7 +4570,9 @@
       "inward recoil ability",
       "inverse of compliance",
       "stiffer less compliant vessel",
-      "elastic fiber rebound",
+      {
+        "img": "data/cardio/images/44/cardio-44-5_1.webp"
+      },
       "maintains diastolic pressure",
       "keeps DBP above zero",
       "delta P over delta V",
@@ -4291,7 +4587,9 @@
     "brick_title": "Hemodynamics: Blood Pressure",
     "type": "physiology",
     "buzzwords": [
-      "force opposing vessel bulging",
+      {
+        "img": "data/cardio/images/44/cardio-44-6_1.webp"
+      },
       "rises with transmural pressure",
       "rises with radius",
       "thicker wall withstands more",
@@ -4364,7 +4662,9 @@
     "type": "anatomy",
     "buzzwords": [
       "largest artery type",
-      "high elastin density",
+      {
+        "img": "data/cardio/images/45/cardio-45-4.webp"
+      },
       "stretch then recoil",
       "buffer systolic-diastolic swings",
       "expand in systole",
@@ -4381,7 +4681,9 @@
     "brick_title": "Histology of Blood Vessels and Lymphatics",
     "type": "anatomy",
     "buzzwords": [
-      "thick muscular walls",
+      {
+        "img": "data/cardio/images/45/cardio-45-5.webp"
+      },
       "relatively less elastin",
       "distribute blood to organs",
       "maintain organ perfusion",
@@ -4454,7 +4756,9 @@
     "type": "anatomy",
     "buzzwords": [
       "simplest capillary type",
-      "uninterrupted endothelial lining",
+      {
+        "img": "data/cardio/images/45/cardio-45-9.webp"
+      },
       "no gaps between cells",
       "least permeable type",
       "continuous basement membrane",
@@ -4472,7 +4776,9 @@
     "type": "anatomy",
     "buzzwords": [
       "moderately permeable",
-      "tiny endothelial pores",
+      {
+        "img": "data/cardio/images/45/cardio-45-10.webp"
+      },
       "rapid substance exchange",
       "intact basement membrane",
       "diaphragm-covered openings",
@@ -4549,7 +4855,9 @@
       "covers valves",
       "simple squamous epithelium",
       "continuous with vessel lining",
-      "subendocardium beneath",
+      {
+        "img": "data/cardio/images/46/cardio-46-1-1.webp"
+      },
       "carries Purkinje fibers"
     ]
   },
@@ -4580,7 +4888,9 @@
     "type": "physiology",
     "buzzwords": [
       "cardiac muscle cells",
-      "striated",
+      {
+        "img": "data/cardio/images/46/cardio-46-3-1.webp"
+      },
       "branching morphology",
       "single central nucleus",
       "joined end-to-end",
@@ -4598,7 +4908,9 @@
     "type": "physiology",
     "buzzwords": [
       "join adjacent cardiomyocytes",
-      "appear as dark lines",
+      {
+        "img": "data/cardio/images/46/cardio-46-4-1.webp"
+      },
       "contain three junction types",
       "fascia adherens binds actin",
       "macula adherens like desmosomes",
@@ -4618,7 +4930,9 @@
       "outermost heart layer",
       "thin membrane on myocardium",
       "holds coronary arteries",
-      "elastic tissue and fat",
+      {
+        "img": "data/cardio/images/46/cardio-46-5-1.webp"
+      },
       "simple squamous epithelium",
       "derived from mesoderm",
       "covering is mesothelium",
@@ -4655,7 +4969,9 @@
       "vasodilator",
       "promotes natriuresis",
       "increases GFR",
-      "suppresses RAAS",
+      {
+        "img": "data/cardio/images/47/cardio-47-1-1.webp"
+      },
       "released on cardiac stretch",
       "elevated in heart failure",
       "ANP and BNP"
@@ -4854,7 +5170,9 @@
       "vision loss",
       "intimal thickening",
       "microaneurysms",
-      "cotton-wool spots",
+      {
+        "img": "data/cardio/images/48/cardio-48-6_1.webp"
+      },
       "arteriovenous nicking",
       "flame hemorrhages"
     ]
@@ -4910,7 +5228,9 @@
       "fibrin and fibrinogen deposits",
       "platelet thrombus, occlusion",
       "ischemic necrosis of organs",
-      "eosinophilic vessel wall"
+      {
+        "img": "data/cardio/images/49/cardio-49-3_1.webp"
+      }
     ]
   },
   {
@@ -4928,7 +5248,9 @@
       "narrowed vessel lumen",
       "end-organ ischemia",
       "seen in kidney glomeruli",
-      "onion skinning"
+      {
+        "img": "data/cardio/images/49/cardio-49-4_1.webp"
+      }
     ]
   },
   {
@@ -4946,7 +5268,9 @@
       "low haptoglobin",
       "elevated LDH",
       "narrowed fibrinoid vessels",
-      "schistocytes on smear"
+      {
+        "img": "data/cardio/images/49/cardio-49-5_1.webp"
+      }
     ]
   },
   {
@@ -5121,7 +5445,9 @@
     "buzzwords": [
       "fever and chills",
       "endothelial injury first",
-      "fibrin-platelet vegetation",
+      {
+        "img": "data/cardio/images/51/cardio-51-1-1.webp"
+      },
       "infected heart valves",
       "new heart murmur",
       "left side most common",
@@ -5156,7 +5482,9 @@
     "type": "disease",
     "buzzwords": [
       "injection drug use",
-      "right-sided valve",
+      {
+        "img": "data/cardio/images/51/cardio-51-3-1.webp"
+      },
       "skin flora seeded",
       "septic pulmonary emboli",
       "bounding jugular pulse",
@@ -5177,10 +5505,14 @@
       "lodges in distant organs",
       "stroke and seizures",
       "cerebral abscess",
-      "septic pulmonary infarcts",
+      {
+        "img": "data/cardio/images/51/cardio-51-4-1.webp"
+      },
       "deep back pain",
       "septic arthritis",
-      "vertebral osteomyelitis"
+      {
+        "img": "data/cardio/images/51/cardio-51-4-2.webp"
+      }
     ]
   },
   {
@@ -5193,7 +5525,9 @@
     "buzzwords": [
       "microemboli skin signs",
       "petechiae",
-      "splinter hemorrhages",
+      {
+        "img": "data/cardio/images/51/cardio-51-5-1.webp"
+      },
       "painless palm soles macules",
       "painful finger toe nodules",
       "retinal hemorrhage white center",
@@ -5215,7 +5549,9 @@
       "HACEK slow growers",
       "culture-negative endocarditis",
       "transesophageal echo most sensitive",
-      "valve vegetation on echo",
+      {
+        "img": "data/cardio/images/51/cardio-51-6-1.webp"
+      },
       "modified Duke criteria"
     ]
   },
@@ -5231,10 +5567,14 @@
       "age over 50",
       "fever, fatigue, weight loss",
       "new headache",
-      "scalp tenderness",
+      {
+        "img": "data/cardio/images/52/cardio-52-1-us.webp"
+      },
       "jaw claudication",
       "associated with polymyalgia rheumatica",
-      "temporal artery biopsy"
+      {
+        "img": "data/cardio/images/52/cardio-52-1-hist.webp"
+      }
     ]
   },
   {
@@ -5252,7 +5592,9 @@
       "renovascular hypertension",
       "weak upper-extremity pulses",
       "pulseless disease",
-      "MRA macaroni sign"
+      {
+        "img": "data/cardio/images/52/cardio-52-2-mra.webp"
+      }
     ]
   },
   {
@@ -5267,10 +5609,14 @@
       "from chronic pressure overload",
       "often asymptomatic",
       "incidental on chest x-ray",
-      "high-voltage lateral leads",
+      {
+        "img": "data/cardio/images/53/cardio-53-1-2.webp"
+      },
       "caused by hypertension",
       "concentric hypertrophy",
-      "parallel sarcomere addition"
+      {
+        "img": "data/cardio/images/53/cardio-53-1-1.webp"
+      }
     ]
   },
   {
@@ -5287,8 +5633,12 @@
       "mutated sarcomere genes",
       "asymmetric septal thickening",
       "murmur louder with Valsalva",
-      "myocyte disarray on histology",
-      "systolic anterior motion of mitral valve"
+      {
+        "img": "data/cardio/images/53/cardio-53-2-1.webp"
+      },
+      {
+        "img": "data/cardio/images/53/cardio-53-2-2.webp"
+      }
     ]
   },
   {
@@ -5301,7 +5651,9 @@
     "buzzwords": [
       "intrinsic flow control",
       "responds to vessel stretch",
-      "keeps flow constant",
+      {
+        "img": "data/cardio/images/54/cardio-54-1-1.webp"
+      },
       "active over 60-150 mmHg",
       "stretch-sensitive Ca channels",
       "rising pressure causes constriction",
@@ -5318,7 +5670,9 @@
     "type": "physiology",
     "buzzwords": [
       "matches flow to demand",
-      "byproducts cause vasodilation",
+      {
+        "img": "data/cardio/images/54/cardio-54-2-1.webp"
+      },
       "low PO2 dilates vessels",
       "high CO2 dilates",
       "acidosis dilates",
@@ -5572,7 +5926,9 @@
       "positive inotrope",
       "increases contractility",
       "no mortality benefit",
-      "inhibits Na/K-ATPase",
+      {
+        "img": "data/cardio/images/55/1.webp"
+      },
       "raises intracellular calcium",
       "narrow therapeutic window",
       "yellow-tinged vision",
@@ -5807,7 +6163,9 @@
       "for refractory cardiogenic shock",
       "no proven mortality benefit",
       "avoid in sepsis or bleeding",
-      "balloon times with ECG",
+      {
+        "img": "data/cardio/images/56/1.webp"
+      },
       "percutaneous LV assist device",
       "full cardiopulmonary support",
       "ECMO heart-lung machine"
@@ -5914,7 +6272,9 @@
       "measures cardiac output",
       "uses oxygen consumption",
       "VO2 by spirometry",
-      "arterial minus venous oxygen",
+      {
+        "img": "data/cardio/images/57/cardio-57-6-1.webp"
+      },
       "needs right-heart catheter",
       "samples pulmonary artery blood",
       "CO = VO2 / (Ca-Cv)",
@@ -5932,7 +6292,9 @@
       "measures cardiac output",
       "injected into right atrium",
       "sampled in peripheral artery",
-      "concentration rises peaks falls",
+      {
+        "img": "data/cardio/images/57/cardio-57-7-1.webp"
+      },
       "extrapolate the falloff slope",
       "recirculation distorts curve",
       "needs right-heart catheter",
@@ -5987,8 +6349,12 @@
       "children under 5",
       "fever over 5 days",
       "nonexudative conjunctivitis",
-      "strawberry tongue",
-      "coronary artery aneurysm",
+      {
+        "img": "data/cardio/images/58/kawasaki-tongue.webp"
+      },
+      {
+        "img": "data/cardio/images/58/kawasaki-angiogram.webp"
+      },
       "treat with IVIG and aspirin",
       "Kawasaki disease"
     ]
@@ -6005,9 +6371,13 @@
       "lungs spared",
       "hepatitis B associated",
       "necrotizing inflammation",
-      "transmural fibrinoid necrosis",
+      {
+        "img": "data/cardio/images/58/pan-histology.webp"
+      },
       "renal failure and stroke",
-      "beads-on-a-string angiography",
+      {
+        "img": "data/cardio/images/58/pan-angiogram.webp"
+      },
       "polyarteritis nodosa"
     ]
   },
@@ -6024,7 +6394,9 @@
       "Raynaud phenomenon",
       "digital ischemia and gangrene",
       "segmental vessel occlusion",
-      "cellular thrombus spares wall",
+      {
+        "img": "data/cardio/images/58/tao-thrombus.webp"
+      },
       "treat with smoking cessation",
       "Buerger disease"
     ]
@@ -6038,7 +6410,9 @@
     "type": "anatomy",
     "buzzwords": [
       "sits between LA and LV",
-      "anterior and posterior leaflets",
+      {
+        "img": "data/cardio/images/59/cardio-59-1-1.webp"
+      },
       "ring-like annulus",
       "closes during systole",
       "papillary muscles pull taut",
@@ -6061,7 +6435,9 @@
       "often fatal",
       "endocarditis or trauma",
       "needs emergent surgery",
-      "post-MI papillary muscle rupture",
+      {
+        "img": "data/cardio/images/59/cardio-59-2-1.webp"
+      },
       "sudden flail leaflet"
     ]
   },
@@ -6080,7 +6456,9 @@
       "holosystolic murmur at apex",
       "radiates to the axilla",
       "LV eccentric hypertrophy",
-      "increased LV end-diastolic volume"
+      {
+        "img": "data/cardio/images/59/cardio-59-3-1.webp"
+      }
     ]
   },
   {
@@ -6094,7 +6472,9 @@
       "most common cause of MR",
       "often asymptomatic",
       "leaflets balloon into atrium",
-      "myxomatous degeneration",
+      {
+        "img": "data/cardio/images/59/cardio-59-4-1.webp"
+      },
       "thickened spongiosa layer",
       "click later with squatting",
       "click earlier with standing",
@@ -6133,7 +6513,9 @@
       "antibodies attack valve",
       "leaflet thickening and fusion",
       "fused commissures",
-      "fish-mouth orifice",
+      {
+        "img": "data/cardio/images/60/cardio-60-2-1.webp"
+      },
       "rheumatic fever"
     ]
   },
@@ -6166,7 +6548,9 @@
       "definitive treatment",
       "catheter from femoral vein",
       "transseptal puncture",
-      "balloon inflated across valve",
+      {
+        "img": "data/cardio/images/60/cardio-60-4-1.webp"
+      },
       "splits fused commissures",
       "needs favorable anatomy",
       "alternative is open repair",
@@ -6205,7 +6589,9 @@
       "nonpleuritic, position-independent",
       "diaphoresis, nausea, dyspnea",
       "impending doom",
-      "substernal pressure",
+      {
+        "img": "data/cardio/images/61/presentation-referred-pain.webp"
+      },
       "silent MI in diabetics"
     ]
   },
@@ -6223,7 +6609,9 @@
       "neutrophils days 1-3",
       "macrophages days 3-10",
       "granulation tissue, fibroblasts",
-      "mature scar >8 weeks",
+      {
+        "img": "data/cardio/images/61/scar-histology.webp"
+      },
       "coagulative necrosis"
     ]
   },
@@ -6259,7 +6647,9 @@
       "ST depression, T inversion",
       "transmural infarct",
       "1 mm ST elevation",
-      "ST-segment elevation",
+      {
+        "img": "data/cardio/images/61/stemi-ecg.webp"
+      },
       "STEMI"
     ]
   },
@@ -6274,7 +6664,9 @@
       "released by dying myocytes",
       "detectable at 4-6 hours",
       "may be negative early",
-      "CK-MB normalizes first",
+      {
+        "img": "data/cardio/images/61/biomarker-curves.webp"
+      },
       "CK-MB detects reinfarction",
       "cardiac-specific isoforms",
       "most used marker",
@@ -6307,7 +6699,9 @@
     "brick_title": "Nonbacterial Thrombotic Endocarditis",
     "type": "disease",
     "buzzwords": [
-      "sterile vegetations",
+      {
+        "img": "data/cardio/images/62/1.webp"
+      },
       "often asymptomatic",
       "underlying hypercoagulable state",
       "spares the valve",
@@ -6325,7 +6719,9 @@
     "brick_title": "Nonbacterial Thrombotic Endocarditis",
     "type": "disease",
     "buzzwords": [
-      "sterile vegetations",
+      {
+        "img": "data/cardio/images/62/2.webp"
+      },
       "lupus-associated",
       "very large thrombi",
       "verrucous warty growths",
@@ -6361,10 +6757,14 @@
     "brick_title": "Obstructive Congenital Heart Defects",
     "type": "disease",
     "buzzwords": [
-      "narrowed aorta",
+      {
+        "img": "data/cardio/images/63/coa-mra-1.webp"
+      },
       "twice as common in males",
       "secondary hypertension in children",
-      "rib notching on x-ray",
+      {
+        "img": "data/cardio/images/63/coa-cxr-1.webp"
+      },
       "collateral intercostal arteries",
       "distal to left subclavian",
       "near ligamentum arteriosum",
@@ -6419,7 +6819,9 @@
       "often asymptomatic",
       "found incidentally",
       "muffled heart sounds",
-      "enlarged cardiac silhouette",
+      {
+        "img": "data/cardio/images/64/effusion-cxr.webp"
+      },
       "low-voltage QRS",
       "water-bottle heart shape",
       "echocardiography confirms"
@@ -6434,7 +6836,9 @@
     "type": "disease",
     "buzzwords": [
       "hemodynamic compromise",
-      "impaired diastolic filling",
+      {
+        "img": "data/cardio/images/64/tamponade-heart.webp"
+      },
       "distended jugular veins",
       "pulsus paradoxus >10 mmHg",
       "RV diastolic collapse on echo",
@@ -6456,7 +6860,9 @@
       "exercise leg pain",
       "relieved by rest",
       "collaterals form over time",
-      "shiny hairless skin",
+      {
+        "img": "data/cardio/images/65/chronic-pad.webp"
+      },
       "progresses to rest pain",
       "intermittent claudication"
     ]
@@ -6487,7 +6893,9 @@
     "brick_title": "Peripheral Arterial Disease",
     "type": "disease",
     "buzzwords": [
-      "aortoiliac occlusive disease",
+      {
+        "img": "data/cardio/images/65/leriche.webp"
+      },
       "bilateral hip claudication",
       "buttock and thigh pain",
       "erectile dysfunction",
@@ -6506,7 +6914,9 @@
     "type": "lab",
     "buzzwords": [
       "single most important PAD test",
-      "ankle over brachial pressure",
+      {
+        "img": "data/cardio/images/65/abi.webp"
+      },
       "normal 1.0 to 1.3",
       "below 0.9 abnormal",
       "under 0.4 severe",
@@ -6544,7 +6954,9 @@
       "pressure overload",
       "increased afterload",
       "sarcomeres in parallel",
-      "thickened ventricular wall",
+      {
+        "img": "data/cardio/images/66/cardio-66-1.webp"
+      },
       "smaller chamber cavity",
       "stiff, impaired filling",
       "leads to HFpEF",
@@ -6561,7 +6973,9 @@
     "buzzwords": [
       "volume overload",
       "sarcomeres in series",
-      "chamber dilation",
+      {
+        "img": "data/cardio/images/66/cardio-66-2.webp"
+      },
       "thinned ventricular wall",
       "declining contractility",
       "leads to HFrEF",
@@ -6583,7 +6997,9 @@
       "stretch boosts contraction",
       "descending limb in failure",
       "overstretch reduces force",
-      "ascending vs descending limb",
+      {
+        "img": "data/cardio/images/66/cardio-66-3.webp"
+      },
       "Frank-Starling curve"
     ]
   },
@@ -6596,7 +7012,9 @@
     "type": "physiology",
     "buzzwords": [
       "wall stress",
-      "sigma = P x r / 2h",
+      {
+        "img": "data/cardio/images/66/cardio-66-4.webp"
+      },
       "radius raises stress",
       "thickness lowers stress",
       "thicker wall normalizes stress",
@@ -6651,7 +7069,9 @@
     "buzzwords": [
       "impaired contraction",
       "reduced contractility",
-      "increased end-systolic volume",
+      {
+        "img": "data/cardio/images/66/cardio-66-7.webp"
+      },
       "flatter ESPVR slope",
       "increased EDV",
       "dilated ventricle",
@@ -6671,7 +7091,9 @@
       "stiff ventricle",
       "normal contractility",
       "reduced EDV",
-      "upward-shifted EDPVR",
+      {
+        "img": "data/cardio/images/66/cardio-66-8.webp"
+      },
       "elevated filling pressures",
       "ejection fraction preserved",
       "HFpEF"
@@ -6690,7 +7112,9 @@
       "no identifiable cause",
       "often asymptomatic",
       "BP over 130/80",
-      "increased SVR or output",
+      {
+        "img": "data/cardio/images/67/cardio-67-1-1.webp"
+      },
       "the silent killer",
       "essential hypertension"
     ]
@@ -6741,7 +7165,9 @@
     "buzzwords": [
       "first-line antihypertensive",
       "favored in diabetes, CKD",
-      "blocks angiotensin I to II",
+      {
+        "img": "data/cardio/images/67/cardio-67-4-1.webp"
+      },
       "lowers SVR and BP",
       "increases natriuresis",
       "dry cough",
@@ -6831,7 +7257,9 @@
     "buzzwords": [
       "stiff, noncompliant ventricle",
       "impaired diastolic filling",
-      "normal wall thickness",
+      {
+        "img": "data/cardio/images/68/cardio-68-1_1.webp"
+      },
       "reduced end-diastolic volume",
       "preserved ejection fraction",
       "biatrial enlargement",
@@ -6852,7 +7280,9 @@
       "low-voltage ECG",
       "AL light chains or TTR",
       "Congo red stain",
-      "apple-green birefringence",
+      {
+        "img": "data/cardio/images/68/cardio-68-2_1.webp"
+      },
       "polarized light",
       "amyloid"
     ]
@@ -6870,7 +7300,9 @@
       "arrhythmias",
       "granulomatous inflammation",
       "multinucleated giant cells",
-      "noncaseating granuloma",
+      {
+        "img": "data/cardio/images/68/cardio-68-3_1.webp"
+      },
       "myocardial deposition",
       "sarcoidosis"
     ]
@@ -6889,7 +7321,9 @@
       "chelation therapy",
       "bronze diabetes",
       "HFE gene mutation",
-      "Prussian blue stain",
+      {
+        "img": "data/cardio/images/68/cardio-68-4_1.webp"
+      },
       "hemochromatosis"
     ]
   },
@@ -6907,7 +7341,9 @@
       "primary cause of RCM",
       "apical fibrosis",
       "V-shaped pointing to apex",
-      "MRI late enhancement",
+      {
+        "img": "data/cardio/images/68/cardio-68-5_1.webp"
+      },
       "endocardial fibroelastosis"
     ]
   },
@@ -6926,7 +7362,9 @@
       "corresponds to AP plateau",
       "ventricles fully depolarized",
       "phase 2 of action potential",
-      "J point to T wave"
+      {
+        "img": "data/cardio/images/69/cardio-69-1-1.webp"
+      }
     ]
   },
   {
@@ -6975,7 +7413,9 @@
     "buzzwords": [
       "left coronary system",
       "anteroseptal V1-V3",
-      "anterolateral leads",
+      {
+        "img": "data/cardio/images/69/cardio-69-4-1.webp"
+      },
       "high lateral I and aVL",
       "extensive V1-V6 = proximal occlusion",
       "reciprocal inferior depression",
@@ -6991,9 +7431,13 @@
     "brick_title": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
     "type": "imaging",
     "buzzwords": [
-      "leads II, III, aVF",
+      {
+        "img": "data/cardio/images/69/cardio-69-5-1.webp"
+      },
       "reciprocal change in aVL",
-      "check right-sided leads",
+      {
+        "img": "data/cardio/images/69/cardio-69-5-2.webp"
+      },
       "posterior V7-V9",
       "tall R in V1-V2 posterior",
       "RV involvement clue lead III",
@@ -7030,10 +7474,14 @@
       "reduced renal blood flow",
       "activates RAAS",
       "resistant hypertension",
-      "single small kidney",
+      {
+        "img": "data/cardio/images/70/cardio-70-2-b.webp"
+      },
       "ACEi worsens GFR if bilateral",
       "abdominal bruit",
-      "string of beads in young women",
+      {
+        "img": "data/cardio/images/70/cardio-70-2-a.webp"
+      },
       "fibromuscular dysplasia"
     ]
   },
@@ -7065,7 +7513,9 @@
     "buzzwords": [
       "excess cortisol",
       "aldosterone-like sodium retention",
-      "moon face, buffalo hump",
+      {
+        "img": "data/cardio/images/70/cardio-70-4-a.webp"
+      },
       "abdominal striae, weight gain",
       "muscle weakness",
       "reduced nitric oxide vasodilation",
@@ -7135,7 +7585,9 @@
     "brick_title": "Secondary Hypertension",
     "type": "disease",
     "buzzwords": [
-      "nocturnal airway collapse",
+      {
+        "img": "data/cardio/images/70/cardio-70-8-a.webp"
+      },
       "intermittent hypoxia",
       "increased sympathetic tone",
       "raised systemic vascular resistance",
@@ -7191,7 +7643,9 @@
     "buzzwords": [
       "warm, well-perfused skin early",
       "bounding pulses",
-      "low SVR, low afterload",
+      {
+        "img": "data/cardio/images/71/distributive-1.webp"
+      },
       "compensatory high cardiac output",
       "low preload",
       "small AV oxygen difference",
@@ -7209,7 +7663,9 @@
     "buzzwords": [
       "pump failure",
       "very low cardiac output",
-      "high SVR despite low BP",
+      {
+        "img": "data/cardio/images/71/cardiogenic-1.webp"
+      },
       "cool extremities, weak pulses",
       "elevated JVD",
       "high preload, pulmonary edema",
@@ -7228,7 +7684,9 @@
       "loss of intravascular volume",
       "low preload",
       "low cardiac output",
-      "compensatory high SVR",
+      {
+        "img": "data/cardio/images/71/hypovolemic-1.webp"
+      },
       "cold, pale extremities",
       "trauma or GI bleeding source",
       "symptoms after 15-30% loss",
@@ -7244,7 +7702,9 @@
     "type": "disease",
     "buzzwords": [
       "loss of sympathetic tone",
-      "everything low",
+      {
+        "img": "data/cardio/images/71/neurogenic-1.webp"
+      },
       "low SVR, low afterload",
       "low cardiac output, low preload",
       "warm, dry skin below injury",
@@ -7264,7 +7724,9 @@
       "mechanical blockage of flow",
       "normal heart and volume",
       "decreased cardiac output",
-      "high SVR, low LV preload",
+      {
+        "img": "data/cardio/images/71/obstructive-1.webp"
+      },
       "absent breath sounds: pneumothorax",
       "distant heart sounds, JVD: tamponade",
       "pleuritic chest pain, dyspnea: PE",
@@ -7286,7 +7748,9 @@
       "reduced cardiac output",
       "dizziness, fatigue",
       "common in athletes",
-      "normal sinus rhythm, slow"
+      {
+        "img": "data/cardio/images/72/cardio-72-1-fig1.webp"
+      }
     ]
   },
   {
@@ -7304,7 +7768,9 @@
       "tachy-brady syndrome",
       "chronotropic incompetence",
       "needs pacemaker",
-      "sinus pauses over 3 seconds"
+      {
+        "img": "data/cardio/images/72/cardio-72-2-fig2.webp"
+      }
     ]
   },
   {
@@ -7389,7 +7855,9 @@
     "buzzwords": [
       "backup pacemaker activates",
       "arises when SA node fails",
-      "narrow QRS complex",
+      {
+        "img": "data/cardio/images/72/cardio-72-7-fig3.webp"
+      },
       "rate 40 to 60 bpm",
       "absent or inverted P waves",
       "originates at AV junction",
@@ -7408,7 +7876,9 @@
       "autoimmune small-vessel vasculitis",
       "ears, nose, throat",
       "upper + lower respiratory disease",
-      "necrotizing granulomas",
+      {
+        "img": "data/cardio/images/73/gpa-histology.webp"
+      },
       "saddle nose deformity",
       "crescentic glomerulonephritis",
       "c-ANCA / anti-PR3",
@@ -7445,7 +7915,9 @@
       "pulmonary-renal syndrome",
       "hemoptysis",
       "nephritic syndrome",
-      "palpable purpura",
+      {
+        "img": "data/cardio/images/73/mpa-purpura.webp"
+      },
       "no granulomas",
       "alveolar hemorrhage",
       "p-ANCA / anti-MPO"
@@ -7461,7 +7933,9 @@
     "buzzwords": [
       "most common childhood vasculitis",
       "immune-complex deposition",
-      "palpable purpura on legs",
+      {
+        "img": "data/cardio/images/73/iga-purpura.webp"
+      },
       "abdominal pain",
       "arthritis",
       "glomerulonephritis",
@@ -7515,7 +7989,9 @@
     "buzzwords": [
       "pushes fluid out",
       "favors filtration",
-      "drops along capillary",
+      {
+        "img": "data/cardio/images/74/cardio-74-1_fig3.webp"
+      },
       "highest at arteriolar end",
       "from blood pressure",
       "dominates arteriolar end",
@@ -7568,7 +8044,9 @@
     "type": "physiology",
     "buzzwords": [
       "quantifies fluid flux",
-      "balances opposing pressures",
+      {
+        "img": "data/cardio/images/74/cardio-74-4_fig4.webp"
+      },
       "positive value means filtration",
       "negative value means reabsorption",
       "uses reflection coefficient sigma",
@@ -7589,7 +8067,9 @@
       "more filtered than reabsorbed",
       "removes leaked proteins",
       "low-pressure return system",
-      "one-way valves",
+      {
+        "img": "data/cardio/images/74/cardio-74-5_fig8.webp"
+      },
       "skeletal muscle pump driven",
       "clears 2-4 L per day",
       "Starling hypothesis"
@@ -7609,7 +8089,9 @@
       "low plasma albumin",
       "increased capillary leakiness",
       "lymphatic obstruction cause",
-      "pitting on pressure",
+      {
+        "img": "data/cardio/images/74/cardio-74-6_fig9.webp"
+      },
       "non-pitting in lymphedema"
     ]
   },
@@ -7627,7 +8109,9 @@
       "common after age 40",
       "floppy, leaky valves",
       "retrograde venous reflux",
-      "dilated tortuous veins",
+      {
+        "img": "data/cardio/images/75/cardio-75-1_varicose.webp"
+      },
       "varicose veins"
     ]
   },
@@ -7645,7 +8129,9 @@
       "increased capillary permeability",
       "red cell extravasation",
       "hemosiderin deposits",
-      "hyperpigmentation, scaling",
+      {
+        "img": "data/cardio/images/75/cardio-75-2_stasis.webp"
+      },
       "may ulcerate"
     ]
   },
@@ -7660,7 +8146,9 @@
       "vein inflammation plus clot",
       "at venipuncture sites",
       "often catheter-associated",
-      "Virchow triad trigger",
+      {
+        "img": "data/cardio/images/75/cardio-75-3_virchow.webp"
+      },
       "lower PE risk than DVT",
       "redness, warmth, tenderness",
       "treat with analgesics, elevation",
@@ -7681,7 +8169,9 @@
       "fires before sinus beat",
       "worsened by stimulants",
       "usually needs no treatment",
-      "abnormal early P wave",
+      {
+        "img": "data/cardio/images/76/cardio-76-1-1.webp"
+      },
       "may be nonconducted"
     ]
   },
@@ -7718,7 +8208,9 @@
       "ventricular rate 150",
       "anticoagulation like AFib",
       "leads II, III, aVF",
-      "sawtooth flutter waves"
+      {
+        "img": "data/cardio/images/76/cardio-76-3-1.webp"
+      }
     ]
   },
   {
@@ -7735,7 +8227,9 @@
       "treat underlying disease",
       "three or more foci",
       "rate over 100",
-      "varying P-wave morphologies",
+      {
+        "img": "data/cardio/images/76/cardio-76-4-1.webp"
+      },
       "at least 3 morphologies"
     ]
   },
@@ -7754,7 +8248,9 @@
       "dual AV nodal pathways",
       "reentry within AV node",
       "narrow QRS tachycardia",
-      "retrograde P waves"
+      {
+        "img": "data/cardio/images/76/cardio-76-5-1.webp"
+      }
     ]
   },
   {
@@ -7771,7 +8267,9 @@
       "short PR interval",
       "curative catheter ablation",
       "slurred QRS upstroke",
-      "delta wave",
+      {
+        "img": "data/cardio/images/76/cardio-76-6-1.webp"
+      },
       "Kent bundle"
     ]
   },
@@ -7840,7 +8338,9 @@
       "anticoagulant",
       "prevents thrombus propagation",
       "binds antithrombin",
-      "inhibits factor Xa",
+      {
+        "img": "data/cardio/images/77/heparin.webp"
+      },
       "inhibits factor IIa",
       "enoxaparin is LMWH",
       "causes thrombocytopenia",
@@ -7913,7 +8413,9 @@
       "preferred in STEMI",
       "minimally invasive",
       "wire and balloon",
-      "restores coronary flow",
+      {
+        "img": "data/cardio/images/77/pci.webp"
+      },
       "stent placement",
       "angioplasty",
       "percutaneous coronary intervention"
@@ -7931,7 +8433,9 @@
       "backup when PCI unavailable",
       "give within 12 hours",
       "high bleeding risk",
-      "activate plasminogen to plasmin",
+      {
+        "img": "data/cardio/images/77/thrombolytics.webp"
+      },
       "contraindicated in aortic dissection",
       "tissue plasminogen activator",
       "tPA, streptokinase"
@@ -8039,7 +8543,9 @@
       "risk-based not single value",
       "estimates 10-year risk",
       "predicts MI and stroke",
-      "stratifies low to high risk",
+      {
+        "img": "data/cardio/images/78/cardio-78-6-1.webp"
+      },
       "Lp(a), apoB enhance risk",
       "Pooled Cohort Equations",
       "ASCVD-PREVENT calculator"
@@ -8057,8 +8563,12 @@
       "incomplete valve closure",
       "holosystolic murmur",
       "louder with inspiration",
-      "giant C-V wave on JVP",
-      "RV dilation tethers leaflets",
+      {
+        "img": "data/cardio/images/79/tr-fig6-cv.webp"
+      },
+      {
+        "img": "data/cardio/images/79/tr-fig4.webp"
+      },
       "IV drug use, S. aureus",
       "carcinoid, Ebstein anomaly"
     ]
@@ -8076,7 +8586,9 @@
       "impaired diastolic filling",
       "RHF with normal RV",
       "diastolic rumble at LLSB",
-      "giant A-wave on JVP",
+      {
+        "img": "data/cardio/images/79/ts-fig10-a.webp"
+      },
       "poorly tolerated in pregnancy",
       "rheumatic heart disease"
     ]
@@ -8163,7 +8675,9 @@
     "buzzwords": [
       "direct artery-to-artery connections",
       "bypass an occlusion",
-      "reroute blood around blockage",
+      {
+        "img": "data/cardio/images/80/anastomoses_5b.webp"
+      },
       "form over days to weeks",
       "guard against infarction",
       "increased in CAD patients",
@@ -8183,7 +8697,9 @@
       "great vein follows LAD",
       "middle vein follows PDA",
       "small vein follows marginal",
-      "run in interventricular grooves",
+      {
+        "img": "data/cardio/images/80/veins_fig6.webp"
+      },
       "empty into one collector",
       "opens into right atrium",
       "coronary sinus"
@@ -8222,7 +8738,9 @@
       "worsened by caffeine and alcohol",
       "re-entry or enhanced automaticity",
       "mostly benign",
-      "every-other-beat is bigeminy"
+      {
+        "img": "data/cardio/images/81/cardio-81-1-1.webp"
+      }
     ]
   },
   {
@@ -8240,7 +8758,9 @@
       "poor diastolic filling",
       "can cause syncope or arrest",
       "wide QRS tachycardia",
-      "monomorphic uniform complexes"
+      {
+        "img": "data/cardio/images/81/cardio-81-2-1.webp"
+      }
     ]
   },
   {
@@ -8256,7 +8776,9 @@
       "no palpable pulse",
       "always sudden cardiac death",
       "hemodynamic collapse",
-      "chaotic disorganized waveform",
+      {
+        "img": "data/cardio/images/81/cardio-81-3-1.webp"
+      },
       "treat with defibrillation",
       "pulseless cardiac arrest rhythm"
     ]
@@ -8275,7 +8797,9 @@
       "often self-terminating",
       "caused by QT-prolonging drugs",
       "treat with IV magnesium",
-      "axis twists around baseline",
+      {
+        "img": "data/cardio/images/81/cardio-81-4-1.webp"
+      },
       "twisting of the points"
     ]
   },
@@ -8330,7 +8854,9 @@
       "left ventricle plotted",
       "vertical sides isovolumetric",
       "width equals stroke volume",
-      "ventricular pressure-volume loop"
+      {
+        "img": "data/cardio/images/82/1.webp"
+      }
     ]
   },
   {
@@ -8384,7 +8910,9 @@
       "taller loop more work",
       "pressure-volume product",
       "energy expended per beat",
-      "area within PV loop"
+      {
+        "img": "data/cardio/images/82/2.webp"
+      }
     ]
   },
   {

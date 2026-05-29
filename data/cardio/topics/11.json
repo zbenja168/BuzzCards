@@ -7,7 +7,7 @@
     "brick_title": "Aortic Dissection",
     "type": "disease",
     "buzzwords": [
-      "separation of wall layers",
+      { "img": "data/cardio/images/11/cardio-11-1/1.webp" },
       "tearing chest or back pain",
       "intimal tear lets blood in",
       "intramural hematoma forms",
@@ -28,7 +28,7 @@
       "more common and dangerous",
       "anterior chest pain",
       "hypotension and shock",
-      "involves ascending aorta",
+      { "img": "data/cardio/images/11/cardio-11-2/1.webp" },
       "retrograde to aortic valve",
       "acute aortic regurgitation",
       "hemopericardium and tamponade",
@@ -46,7 +46,7 @@
       "back pain",
       "severe hypertension",
       "spares ascending aorta",
-      "descending aorta only",
+      { "img": "data/cardio/images/11/cardio-11-3/1.webp" },
       "neurologic changes",
       "managed conservatively with drugs",
       "target BP under 120/80",
@@ -81,12 +81,12 @@
     "buzzwords": [
       "low-sensitivity chest x-ray",
       "mediastinal widening",
-      "intimal flap on imaging",
+      { "img": "data/cardio/images/11/cardio-11-5/1.webp" },
       "false lumen separated from true",
       "CT angiography in stable patients",
       "preferred first-line test",
       "bedside test for unstable",
-      "transesophageal echocardiography"
+      { "img": "data/cardio/images/11/cardio-11-5/2.webp" }
     ]
   }
 ]

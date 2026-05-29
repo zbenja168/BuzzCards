@@ -64,7 +64,7 @@
       "anticoagulant",
       "prevents thrombus propagation",
       "binds antithrombin",
-      "inhibits factor Xa",
+      { "img": "data/cardio/images/77/heparin.webp" },
       "inhibits factor IIa",
       "enoxaparin is LMWH",
       "causes thrombocytopenia",
@@ -137,7 +137,7 @@
       "preferred in STEMI",
       "minimally invasive",
       "wire and balloon",
-      "restores coronary flow",
+      { "img": "data/cardio/images/77/pci.webp" },
       "stent placement",
       "angioplasty",
       "percutaneous coronary intervention"
@@ -155,7 +155,7 @@
       "backup when PCI unavailable",
       "give within 12 hours",
       "high bleeding risk",
-      "activate plasminogen to plasmin",
+      { "img": "data/cardio/images/77/thrombolytics.webp" },
       "contraindicated in aortic dissection",
       "tissue plasminogen activator",
       "tPA, streptokinase"

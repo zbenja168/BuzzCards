@@ -13,7 +13,7 @@
       "covers valves",
       "simple squamous epithelium",
       "continuous with vessel lining",
-      "subendocardium beneath",
+      { "img": "data/cardio/images/46/cardio-46-1-1.webp" },
       "carries Purkinje fibers"
     ]
   },
@@ -44,7 +44,7 @@
     "type": "physiology",
     "buzzwords": [
       "cardiac muscle cells",
-      "striated",
+      { "img": "data/cardio/images/46/cardio-46-3-1.webp" },
       "branching morphology",
       "single central nucleus",
       "joined end-to-end",
@@ -62,7 +62,7 @@
     "type": "physiology",
     "buzzwords": [
       "join adjacent cardiomyocytes",
-      "appear as dark lines",
+      { "img": "data/cardio/images/46/cardio-46-4-1.webp" },
       "contain three junction types",
       "fascia adherens binds actin",
       "macula adherens like desmosomes",
@@ -82,7 +82,7 @@
       "outermost heart layer",
       "thin membrane on myocardium",
       "holds coronary arteries",
-      "elastic tissue and fat",
+      { "img": "data/cardio/images/46/cardio-46-5-1.webp" },
       "simple squamous epithelium",
       "derived from mesoderm",
       "covering is mesothelium",

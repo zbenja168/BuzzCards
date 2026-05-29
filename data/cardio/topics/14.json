@@ -10,7 +10,7 @@
       "five phases, zero to four",
       "ion currents across membrane",
       "phase 4 resting potential",
-      "phase 0 rapid sodium influx",
+      { "img": "data/cardio/images/14/cardio-14-1.webp" },
       "phase 2 plateau, calcium influx",
       "phase 3 potassium efflux",
       "L-type calcium channels open",
@@ -30,7 +30,7 @@
       "enhanced causes tachycardia",
       "decreased causes bradycardia",
       "ischemia or catecholamines enhance it",
-      "SA node fastest, sets heart rate",
+      { "img": "data/cardio/images/14/cardio-14-2.webp" },
       "ectopic focus overdrives SA node",
       "vagal tone slows SA node"
     ]
@@ -47,7 +47,7 @@
       "depends on preceding beat",
       "afterdepolarizations interrupt phases",
       "early afterdepolarizations from plateau",
-      "delayed afterdepolarizations from rest",
+      { "img": "data/cardio/images/14/cardio-14-3.webp" },
       "calcium overload drives DADs",
       "prolonged QT drives EADs",
       "causes torsades de pointes"
@@ -66,7 +66,7 @@
       "unidirectional block required",
       "slow conduction in one limb",
       "premature beat initiates circuit",
-      "accessory pathway can sustain it",
+      { "img": "data/cardio/images/14/cardio-14-4.webp" },
       "AVNRT slow and fast pathways",
       "Wolff-Parkinson-White delta wave"
     ]

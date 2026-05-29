@@ -9,7 +9,7 @@
     "buzzwords": [
       "pushes fluid out",
       "favors filtration",
-      "drops along capillary",
+      { "img": "data/cardio/images/74/cardio-74-1_fig3.webp" },
       "highest at arteriolar end",
       "from blood pressure",
       "dominates arteriolar end",
@@ -62,7 +62,7 @@
     "type": "physiology",
     "buzzwords": [
       "quantifies fluid flux",
-      "balances opposing pressures",
+      { "img": "data/cardio/images/74/cardio-74-4_fig4.webp" },
       "positive value means filtration",
       "negative value means reabsorption",
       "uses reflection coefficient sigma",
@@ -83,7 +83,7 @@
       "more filtered than reabsorbed",
       "removes leaked proteins",
       "low-pressure return system",
-      "one-way valves",
+      { "img": "data/cardio/images/74/cardio-74-5_fig8.webp" },
       "skeletal muscle pump driven",
       "clears 2-4 L per day",
       "Starling hypothesis"
@@ -103,7 +103,7 @@
       "low plasma albumin",
       "increased capillary leakiness",
       "lymphatic obstruction cause",
-      "pitting on pressure",
+      { "img": "data/cardio/images/74/cardio-74-6_fig9.webp" },
       "non-pitting in lymphedema"
     ]
   }

@@ -26,7 +26,7 @@
     "type": "physiology",
     "buzzwords": [
       "vessel tone",
-      "depends on vessel radius",
+      { "img": "data/cardio/images/20/cardio-20-2-1.webp" },
       "constriction raises it",
       "dilation lowers it",
       "set by arteriolar smooth muscle",
@@ -83,7 +83,7 @@
       "triggered by low blood pressure",
       "drives sodium reabsorption",
       "water follows salt",
-      "aldosterone and ADH effectors",
+      { "img": "data/cardio/images/20/cardio-20-5-1.webp" },
       "stimulates thirst",
       "Ang II causes vasoconstriction",
       "renin-angiotensin-aldosterone system"

@@ -62,7 +62,7 @@
     "type": "anatomy",
     "buzzwords": [
       "largest artery type",
-      "high elastin density",
+      { "img": "data/cardio/images/45/cardio-45-4.webp" },
       "stretch then recoil",
       "buffer systolic-diastolic swings",
       "expand in systole",
@@ -79,7 +79,7 @@
     "brick_title": "Histology of Blood Vessels and Lymphatics",
     "type": "anatomy",
     "buzzwords": [
-      "thick muscular walls",
+      { "img": "data/cardio/images/45/cardio-45-5.webp" },
       "relatively less elastin",
       "distribute blood to organs",
       "maintain organ perfusion",
@@ -152,7 +152,7 @@
     "type": "anatomy",
     "buzzwords": [
       "simplest capillary type",
-      "uninterrupted endothelial lining",
+      { "img": "data/cardio/images/45/cardio-45-9.webp" },
       "no gaps between cells",
       "least permeable type",
       "continuous basement membrane",
@@ -170,7 +170,7 @@
     "type": "anatomy",
     "buzzwords": [
       "moderately permeable",
-      "tiny endothelial pores",
+      { "img": "data/cardio/images/45/cardio-45-10.webp" },
       "rapid substance exchange",
       "intact basement membrane",
       "diaphragm-covered openings",

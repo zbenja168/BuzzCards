@@ -28,7 +28,7 @@
       "delayed ventricular conduction",
       "wide QRS over 120 ms",
       "left ventricle activates first",
-      "M-shaped complex in V1",
+      { "img": "data/cardio/images/42/rbbb_1.webp" },
       "upright QRS in V1",
       "rsR prime pattern",
       "rabbit ears morphology",
@@ -49,7 +49,7 @@
       "loss of normal septal Q waves",
       "downward QRS in V1",
       "broad notched R in V6",
-      "W in V1 M in V6",
+      { "img": "data/cardio/images/42/lbbb_1.webp" },
       "WiLLiaM pattern"
     ]
   },
@@ -66,7 +66,7 @@
       "usually asymptomatic",
       "common in trained athletes",
       "no treatment needed",
-      "narrow QRS preserved",
+      { "img": "data/cardio/images/42/first_degree_1.webp" },
       "constant prolonged PR interval",
       "PR over 0.2 seconds"
     ]
@@ -84,7 +84,7 @@
       "vagal tone or inferior MI",
       "often benign and asymptomatic",
       "responds to atropine",
-      "progressive PR lengthening",
+      { "img": "data/cardio/images/42/mobitz1_1.webp" },
       "until a dropped beat",
       "Wenckebach"
     ]
@@ -103,7 +103,7 @@
       "almost always cardiac disease",
       "high risk of complete block",
       "pacemaker required",
-      "constant PR then sudden drop",
+      { "img": "data/cardio/images/42/mobitz2_1.webp" },
       "infra-Hisian bundle branch block"
     ]
   },
@@ -121,7 +121,7 @@
       "slow ventricular escape rhythm",
       "infra-Hisian escape unreliable",
       "pacemaker placement required",
-      "P waves march independent of QRS",
+      { "img": "data/cardio/images/42/third_degree_1.webp" },
       "AV dissociation"
     ]
   }

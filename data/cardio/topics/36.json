@@ -10,8 +10,8 @@
       "isolated high LDL",
       "autosomal dominant",
       "premature CAD",
-      "tendon xanthomas",
-      "corneal arcus",
+      { "img": "data/cardio/images/36/xanthelasma.webp" },
+      { "img": "data/cardio/images/36/corneal-arcus.webp" },
       "defective LDL receptor",
       "ApoB-100 defect",
       "Fredrickson IIa"

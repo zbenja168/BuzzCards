@@ -11,7 +11,7 @@
       "unilateral leg pain",
       "warm red leg",
       "usually lower extremity",
-      "unilateral swelling",
+      { "img": "data/cardio/images/31/cardio-31-1_1.webp" },
       "can embolize to lungs",
       "pain on dorsiflexion",
       "Homan sign"
@@ -26,7 +26,7 @@
     "type": "physiology",
     "buzzwords": [
       "predisposes to thrombus",
-      "three conditions",
+      { "img": "data/cardio/images/31/cardio-31-2_1.webp" },
       "venous stasis",
       "endothelial injury",
       "hypercoagulable state",
@@ -65,7 +65,7 @@
       "near-total venous outflow block",
       "swollen painful leg",
       "edematous cyanotic limb",
-      "blue discoloration",
+      { "img": "data/cardio/images/31/cardio-31-4_1.webp" },
       "risk of limb ischemia",
       "surgical emergency",
       "phlegmasia cerulea dolens"
@@ -120,7 +120,7 @@
       "transducer presses the vein",
       "normal vein collapses",
       "clot prevents collapse",
-      "non-compressible vein",
+      { "img": "data/cardio/images/31/cardio-31-7_1.webp" },
       "whole-leg study preferred",
       "compression ultrasonography"
     ]

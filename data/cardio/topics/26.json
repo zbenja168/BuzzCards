@@ -11,7 +11,7 @@
       "lungs bypassed",
       "right-to-left shunting normal",
       "umbilical vein oxygenated",
-      "ductus arteriosus",
+      { "img": "data/cardio/images/26/fetal-circ.webp" },
       "PA to aorta shunt",
       "foramen ovale",
       "RA to LA shunt"
@@ -30,7 +30,7 @@
       "right heart volume overload",
       "high-pressure to low-pressure flow",
       "can reverse over time",
-      "ASD, VSD, PDA",
+      { "img": "data/cardio/images/26/ltr-shunt.webp" },
       "VSD holosystolic murmur",
       "PDA machine-like murmur"
     ]
@@ -48,7 +48,7 @@
       "pulmonary hypertension",
       "RV hypertrophy",
       "cyanosis and clubbing",
-      "becomes right-to-left",
+      { "img": "data/cardio/images/26/rtl-shunt.webp" },
       "RV pressure exceeds LV",
       "complication of L-to-R shunt"
     ]
@@ -62,7 +62,7 @@
     "type": "disease",
     "buzzwords": [
       "cyanotic",
-      "blue baby at birth",
+      { "img": "data/cardio/images/26/cyanosis.webp" },
       "deoxygenated blood into systemic",
       "early cyanosis",
       "truncus arteriosus, TGA",

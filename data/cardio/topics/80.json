@@ -81,7 +81,7 @@
     "buzzwords": [
       "direct artery-to-artery connections",
       "bypass an occlusion",
-      "reroute blood around blockage",
+      { "img": "data/cardio/images/80/anastomoses_5b.webp" },
       "form over days to weeks",
       "guard against infarction",
       "increased in CAD patients",
@@ -101,7 +101,7 @@
       "great vein follows LAD",
       "middle vein follows PDA",
       "small vein follows marginal",
-      "run in interventricular grooves",
+      { "img": "data/cardio/images/80/veins_fig6.webp" },
       "empty into one collector",
       "opens into right atrium",
       "coronary sinus"

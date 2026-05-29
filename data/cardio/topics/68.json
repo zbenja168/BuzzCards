@@ -9,7 +9,7 @@
     "buzzwords": [
       "stiff, noncompliant ventricle",
       "impaired diastolic filling",
-      "normal wall thickness",
+      { "img": "data/cardio/images/68/cardio-68-1_1.webp" },
       "reduced end-diastolic volume",
       "preserved ejection fraction",
       "biatrial enlargement",
@@ -30,7 +30,7 @@
       "low-voltage ECG",
       "AL light chains or TTR",
       "Congo red stain",
-      "apple-green birefringence",
+      { "img": "data/cardio/images/68/cardio-68-2_1.webp" },
       "polarized light",
       "amyloid"
     ]
@@ -48,7 +48,7 @@
       "arrhythmias",
       "granulomatous inflammation",
       "multinucleated giant cells",
-      "noncaseating granuloma",
+      { "img": "data/cardio/images/68/cardio-68-3_1.webp" },
       "myocardial deposition",
       "sarcoidosis"
     ]
@@ -67,7 +67,7 @@
       "chelation therapy",
       "bronze diabetes",
       "HFE gene mutation",
-      "Prussian blue stain",
+      { "img": "data/cardio/images/68/cardio-68-4_1.webp" },
       "hemochromatosis"
     ]
   },
@@ -85,7 +85,7 @@
       "primary cause of RCM",
       "apical fibrosis",
       "V-shaped pointing to apex",
-      "MRI late enhancement",
+      { "img": "data/cardio/images/68/cardio-68-5_1.webp" },
       "endocardial fibroelastosis"
     ]
   }

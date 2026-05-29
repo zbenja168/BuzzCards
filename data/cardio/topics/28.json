@@ -7,10 +7,10 @@
     "brick_title": "Coronary Blood Flow - Vascular Physiology",
     "type": "physiology",
     "buzzwords": [
-      "flow varies with cardiac cycle",
+      { "img": "data/cardio/images/28/cardio-28-1_a.webp" },
       "systolic compression of vessels",
       "subendocardium most vulnerable",
-      "open aortic cusps block ostia",
+      { "img": "data/cardio/images/28/cardio-28-1_b.webp" },
       "left coronary worst affected",
       "perfusion mostly in diastole",
       "maximal flow early diastole",
@@ -80,7 +80,7 @@
     "type": "physiology",
     "buzzwords": [
       "max flow above resting baseline",
-      "reflects vasodilatory capacity",
+      { "img": "data/cardio/images/28/cardio-28-5_a.webp" },
       "exhausted by atherosclerosis",
       "unmasks critical stenosis",
       "reversible perfusion defect",

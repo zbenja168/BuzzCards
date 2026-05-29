@@ -13,7 +13,7 @@
       "wall layer weakening",
       "elastin and collagen broken down",
       "rupture or dissection feared",
-      "fusiform or saccular shape",
+      { "img": "data/cardio/images/cardio-10-1/1.webp" },
       "false aneurysm spares wall layers"
     ]
   },
@@ -26,7 +26,7 @@
     "type": "disease",
     "buzzwords": [
       "chest pain",
-      "most arise ascending aorta",
+      { "img": "data/cardio/images/cardio-10-2/1.webp" },
       "cystic medial degeneration",
       "tends to dissect",
       "hoarseness from nerve compression",
@@ -44,12 +44,12 @@
     "type": "disease",
     "buzzwords": [
       "older male smoker",
-      "below renal arteries",
+      { "img": "data/cardio/images/cardio-10-3/1.webp" },
       "chronic transmural inflammation",
       "tends to rupture",
       "diabetes protective",
       "pulsatile abdominal mass",
-      "repair at 5.5 cm",
+      { "img": "data/cardio/images/cardio-10-3/2.webp" },
       "infrarenal endovascular stent graft"
     ]
   },
@@ -68,7 +68,7 @@
       "false lumen on imaging",
       "more common in thoracic",
       "limb organ ischemia",
-      "widened mediastinum on x-ray"
+      { "img": "data/cardio/images/cardio-10-4/1.webp" }
     ]
   },
   {
@@ -80,7 +80,7 @@
     "type": "disease",
     "buzzwords": [
       "rapidly fatal",
-      "massive internal bleeding",
+      { "img": "data/cardio/images/cardio-10-5/1.webp" },
       "more common in AAA",
       "wall tension exceeds strength",
       "increasing radius increases tension",
@@ -98,7 +98,7 @@
     "type": "disease",
     "buzzwords": [
       "fever and bacteremia",
-      "infection weakens wall",
+      { "img": "data/cardio/images/cardio-10-6/1.webp" },
       "hematogenous seeding",
       "rapid enlargement",
       "IV drug use risk",
@@ -115,7 +115,7 @@
     "brick_title": "Aortic Aneurysm",
     "type": "disease",
     "buzzwords": [
-      "behind the knee",
+      { "img": "data/cardio/images/cardio-10-7/1.webp" },
       "most common peripheral aneurysm",
       "often bilateral",
       "frequently coexists with AAA",

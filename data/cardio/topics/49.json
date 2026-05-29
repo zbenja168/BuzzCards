@@ -50,7 +50,7 @@
       "fibrin and fibrinogen deposits",
       "platelet thrombus, occlusion",
       "ischemic necrosis of organs",
-      "eosinophilic vessel wall"
+      { "img": "data/cardio/images/49/cardio-49-3_1.webp" }
     ]
   },
   {
@@ -68,7 +68,7 @@
       "narrowed vessel lumen",
       "end-organ ischemia",
       "seen in kidney glomeruli",
-      "onion skinning"
+      { "img": "data/cardio/images/49/cardio-49-4_1.webp" }
     ]
   },
   {
@@ -86,7 +86,7 @@
       "low haptoglobin",
       "elevated LDH",
       "narrowed fibrinoid vessels",
-      "schistocytes on smear"
+      { "img": "data/cardio/images/49/cardio-49-5_1.webp" }
     ]
   },
   {

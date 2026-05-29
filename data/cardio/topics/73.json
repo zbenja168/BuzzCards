@@ -10,7 +10,7 @@
       "autoimmune small-vessel vasculitis",
       "ears, nose, throat",
       "upper + lower respiratory disease",
-      "necrotizing granulomas",
+      { "img": "data/cardio/images/73/gpa-histology.webp" },
       "saddle nose deformity",
       "crescentic glomerulonephritis",
       "c-ANCA / anti-PR3",
@@ -47,7 +47,7 @@
       "pulmonary-renal syndrome",
       "hemoptysis",
       "nephritic syndrome",
-      "palpable purpura",
+      { "img": "data/cardio/images/73/mpa-purpura.webp" },
       "no granulomas",
       "alveolar hemorrhage",
       "p-ANCA / anti-MPO"
@@ -63,7 +63,7 @@
     "buzzwords": [
       "most common childhood vasculitis",
       "immune-complex deposition",
-      "palpable purpura on legs",
+      { "img": "data/cardio/images/73/iga-purpura.webp" },
       "abdominal pain",
       "arthritis",
       "glomerulonephritis",

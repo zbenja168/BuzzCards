@@ -10,10 +10,10 @@
       "benign primary tumor",
       "most common in adults",
       "twice as common in women",
-      "pedunculated mobile mass",
+      { "img": "data/cardio/images/23/cardio-23-1-1.webp" },
       "left atrium",
       "mimics mitral stenosis",
-      "spindle cells in myxoid stroma",
+      { "img": "data/cardio/images/23/cardio-23-1-2.webp" },
       "tumor plop"
     ]
   },
@@ -28,11 +28,11 @@
       "benign striated muscle tumor",
       "most common pediatric tumor",
       "diagnosed in utero",
-      "ventricular myocardium",
+      { "img": "data/cardio/images/23/cardio-23-2-1.webp" },
       "often regress spontaneously",
       "treat with mTOR inhibitor",
       "tuberous sclerosis (TSC1/TSC2)",
-      "spider cells"
+      { "img": "data/cardio/images/23/cardio-23-2-2.webp" }
     ]
   }
 ]

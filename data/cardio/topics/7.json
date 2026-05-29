@@ -7,8 +7,8 @@
     "brick_title": "Antiarrhythmic Agents - Class I Drugs",
     "type": "drug",
     "buzzwords": [
-      "act on nonpacemaker myocytes",
-      "block open Na+ channels",
+      { "img": "data/cardio/images/7/cardio-7-1/1.webp" },
+      { "img": "data/cardio/images/7/cardio-7-1/2.webp" },
       "blunt phase 0 upstroke",
       "slow conduction velocity",
       "subdivided IA, IB, IC",
@@ -27,10 +27,10 @@
     "buzzwords": [
       "intermediate Na+ binding",
       "also blocks K+ channels",
-      "prolongs action potential",
+      { "img": "data/cardio/images/7/cardio-7-2/1.webp" },
       "widened QRS",
       "prolonged QT interval",
-      "torsades de pointes risk",
+      { "img": "data/cardio/images/7/cardio-7-2/2.webp" },
       "treats VT and afib",
       "quinidine, procainamide, disopyramide"
     ]
@@ -45,7 +45,7 @@
     "buzzwords": [
       "fastest dissociation kinetics",
       "weakest Na+ blockade",
-      "shortens action potential",
+      { "img": "data/cardio/images/7/cardio-7-3/1.webp" },
       "minimal QRS widening",
       "lowest proarrhythmic potential",
       "crosses blood-brain barrier",
@@ -63,7 +63,7 @@
     "buzzwords": [
       "strongest Na+ binding",
       "slowest dissociation kinetics",
-      "markedly slows conduction",
+      { "img": "data/cardio/images/7/cardio-7-4/1.webp" },
       "unchanged action potential duration",
       "no effect on K+ channels",
       "avoid in structural heart disease",

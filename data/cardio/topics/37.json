@@ -157,7 +157,7 @@
       "twice-yearly dosing",
       "injection-site reactions",
       "arthralgia",
-      "small interfering RNA",
+      { "img": "data/cardio/images/37/cardio-37-9-1.webp" },
       "siRNA against PCSK9"
     ]
   }

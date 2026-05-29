@@ -13,7 +13,7 @@
       "fluid overload signs",
       "elevated JVP",
       "stiff inelastic pericardium",
-      "dense fibrosis with calcification",
+      { "img": "data/cardio/images/27/cardio-27-1-1.webp" },
       "TB in developing countries"
     ]
   },
@@ -27,7 +27,7 @@
     "buzzwords": [
       "one ventricle alters the other",
       "exaggerated by inspiration",
-      "increased RV filling",
+      { "img": "data/cardio/images/27/cardio-27-2-1.webp" },
       "septum bulges into LV",
       "reduced LV filling on inspiration",
       "fixed total cardiac volume",
